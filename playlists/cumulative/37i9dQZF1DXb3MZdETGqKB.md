@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-330 songs - 19 hr 25 min
+331 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,8 @@
 | [What I'm Made Of](https://open.spotify.com/track/1Op8GRaEDkFfuOQaRIjXJ9) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [What I'm Made Of](https://open.spotify.com/album/4Qe99uFINH6xrWLoRm04oo) | 3:42 | 2024-04-12 | 2024-11-23 |
 | [What's Real](https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [What's Real](https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF) | 4:08 | 2022-08-05 | 2024-08-10 |
 | [When Love Comes In](https://open.spotify.com/track/3GSNgcN4DnYTIYqL7GzIZT) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Ubuntu](https://open.spotify.com/album/4LXDvWeh10zukOZS0Dl8Bz) | 4:14 | 2023-05-02 |  |
-| [Wherever You Are](https://open.spotify.com/track/1Q0ANkWXGEMDpAOkR0vOTg) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are](https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi) | 3:23 | 2024-11-22 |  |
+| [Wherever You Are](https://open.spotify.com/track/1Q0ANkWXGEMDpAOkR0vOTg) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are](https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi) | 3:23 | 2024-11-22 | 2025-01-25 |
+| [Wherever You Are \- Radio Mix](https://open.spotify.com/track/7x1WL4uE97GjAdWe9IMiNE) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are \(Radio Mix\)](https://open.spotify.com/album/6Ml1tPseDakWkVH1C8XX9T) | 3:23 | 2025-01-24 |  |
 | [WHITE PONY \- REVIVAL EDITION](https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN) | [N3ptune](https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn), [Rusty Steve](https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L) | [BLACK HORSE \(THE REVIVAL\)](https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K) | 3:39 | 2023-01-13 |  |
 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 | 2022-02-25 | 2023-02-14 |
 | [Wilder Than the West](https://open.spotify.com/track/6R68v7QdeTDEkNuBLbMy37) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Wilder Than the West](https://open.spotify.com/album/03xTki4ce3xfSLnvvtcpnO) | 2:34 | 2023-09-29 |  |

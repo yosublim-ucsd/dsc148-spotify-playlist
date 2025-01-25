@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
+    },
+    {
+      "album": {
         "name": "5 Dollar Pony Rides",
         "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
       },
@@ -2120,10 +2138,6 @@
         {
           "name": "Morad",
           "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Booska-P",
-          "url": "https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh"
         }
       ],
       "date_added": "2025-01-23",
@@ -7125,6 +7139,28 @@
     },
     {
       "album": {
+        "name": "For Us",
+        "url": "https://open.spotify.com/album/3qQkODMSwPDWNdDr9fLTjL"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184630,
+      "name": "Big Body (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/1sl6OyOIA17y8pVwgcX4dn"
+    },
+    {
+      "album": {
         "name": "BIG BOY MAYBACH",
         "url": "https://open.spotify.com/album/5qgarwVspF0Zd43gg1BO2l"
       },
@@ -10989,7 +11025,7 @@
         },
         {
           "name": "North West",
-          "url": "https://open.spotify.com/artist/0FA269a5zotCJp9gK55Hcs"
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
         }
       ],
       "date_added": "2025-01-23",
@@ -18968,6 +19004,28 @@
       "duration_ms": 171036,
       "name": "fast verliebt",
       "url": "https://open.spotify.com/track/1pHNUlXQ01lxXvLVEWy660"
+    },
+    {
+      "album": {
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
       "album": {
@@ -38297,7 +38355,7 @@
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 94500,
+      "duration_ms": 94000,
       "name": "materiaL hor$e",
       "url": "https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q"
     },
@@ -47672,6 +47730,28 @@
       "duration_ms": 156955,
       "name": "Pool voller Tr\u00e4nen",
       "url": "https://open.spotify.com/track/5osryVktlrPKl34qTyfOLZ"
+    },
+    {
+      "album": {
+        "name": "Pop It Off",
+        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Pop It Off",
+      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
       "album": {

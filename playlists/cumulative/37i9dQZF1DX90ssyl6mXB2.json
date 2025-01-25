@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "A Jaguar's Dream",
+        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "305",
+      "url": "https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK"
+    },
+    {
+      "album": {
         "name": "Cold Toronto",
         "url": "https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv"
       },
@@ -1291,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "introspect",
+        "url": "https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u"
+      },
+      "artists": [
+        {
+          "name": "Pino",
+          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "how it goes",
+      "url": "https://open.spotify.com/track/2JYWmiS6iCpCNsutMd15uk"
+    },
+    {
+      "album": {
         "name": "red.",
         "url": "https://open.spotify.com/album/6EyjRzvcvh7ubTJ0De8c5r"
       },
@@ -2429,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "introspect",
+        "url": "https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u"
+      },
+      "artists": [
+        {
+          "name": "Pino",
+          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207080,
+      "name": "stasis",
+      "url": "https://open.spotify.com/track/2GkcJZGxfxSw0vaQnnJzdi"
+    },
+    {
+      "album": {
         "name": "Bryson Tiller",
         "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
       },
@@ -2484,6 +2542,24 @@
       "duration_ms": 134814,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9"
+    },
+    {
+      "album": {
+        "name": "tell em / time flies",
+        "url": "https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158808,
+      "name": "tell em",
+      "url": "https://open.spotify.com/track/2gtkWGSTSsB2KcUsff6t5A"
     },
     {
       "album": {
@@ -2578,6 +2654,24 @@
       "duration_ms": 134000,
       "name": "The Life",
       "url": "https://open.spotify.com/track/2HzSHAtrNZfiLpNtYv4HUc"
+    },
+    {
+      "album": {
+        "name": "tell em / time flies",
+        "url": "https://open.spotify.com/album/5ZNxP2stKHm1YvNz7ONQC4"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "time flies",
+      "url": "https://open.spotify.com/track/4WtclqYym0UPIzKesOHk7i"
     },
     {
       "album": {

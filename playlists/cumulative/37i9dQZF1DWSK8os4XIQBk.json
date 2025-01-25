@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The biggest hits in country music. Cover: Thelma & James",
+  "description": "The biggest hits in country music. Cover:  Kane Brown",
   "name": "All About Country",
   "tracks": [
     {
@@ -4943,6 +4943,28 @@
     },
     {
       "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264800,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
+    },
+    {
+      "album": {
         "name": "Love Someone",
         "url": "https://open.spotify.com/album/6WOTaKpFJarbgSUGzmBi8L"
       },
@@ -7930,7 +7952,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
@@ -7952,6 +7974,24 @@
       "duration_ms": 210600,
       "name": "Mississippi Or Me",
       "url": "https://open.spotify.com/track/5JDM1KbfvautHx2Il9DjMZ"
+    },
+    {
+      "album": {
+        "name": "Molly's Song",
+        "url": "https://open.spotify.com/album/5Vltn1ZHfJyURcRuM1Uijr"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185290,
+      "name": "Molly's Song",
+      "url": "https://open.spotify.com/track/1E0RyKL2F56sRGINwcDfSc"
     },
     {
       "album": {
@@ -10986,7 +11026,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 147244,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2QaKqCBZzBossC940glm6N"

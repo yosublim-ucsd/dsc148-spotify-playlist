@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Architects on top of today's best Metal playlist.",
+  "description": "Killswitch Engage on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -279,6 +279,50 @@
     },
     {
       "album": {
+        "name": "A Hope in Hell",
+        "url": "https://open.spotify.com/album/6Ymel2c6mZAXniReN8krly"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "A Hope in Hell",
+      "url": "https://open.spotify.com/track/1GlpZywdEnu3VVhrzRgwmY"
+    },
+    {
+      "album": {
+        "name": "A Line in the Dust",
+        "url": "https://open.spotify.com/album/0QeSlVSiJRan9ocKl2tQWv"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Mat Welsh",
+          "url": "https://open.spotify.com/artist/41qbLh8IPItyHRIHAQafft"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235443,
+      "name": "A Line in the Dust",
+      "url": "https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P"
+    },
+    {
+      "album": {
         "name": "Heaven Let Them Die",
         "url": "https://open.spotify.com/album/6Z0M0d8DCy1RjO0G91zrr7"
       },
@@ -362,7 +406,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 245656,
       "name": "A Visceral Retch",
       "url": "https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b"
@@ -442,6 +486,24 @@
       "duration_ms": 227335,
       "name": "A.F. Day",
       "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
+    },
+    {
+      "album": {
+        "name": "Abilene Grime",
+        "url": "https://open.spotify.com/album/26y9YsB8vO10wH3zxpee4I"
+      },
+      "artists": [
+        {
+          "name": "Spiritworld",
+          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201320,
+      "name": "Abilene Grime",
+      "url": "https://open.spotify.com/track/6SKTgAhiEMtU1GWx6Vguz3"
     },
     {
       "album": {
@@ -918,7 +980,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 235092,
       "name": "ANYTHING > HUMAN",
       "url": "https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl"
@@ -976,6 +1038,28 @@
       "duration_ms": 195000,
       "name": "ARTIFICIAL SUICIDE",
       "url": "https://open.spotify.com/track/65pi8lRBcEEyFCEa74rLug"
+    },
+    {
+      "album": {
+        "name": "Atonement (feat. Will Ramos)",
+        "url": "https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232254,
+      "name": "Atonement (feat. Will Ramos)",
+      "url": "https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF"
     },
     {
       "album": {
@@ -2582,6 +2666,24 @@
       "duration_ms": 326771,
       "name": "COLD BLOOD",
       "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+    },
+    {
+      "album": {
+        "name": "Cold Hard Truth",
+        "url": "https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7"
+      },
+      "artists": [
+        {
+          "name": "Fox Lake",
+          "url": "https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182061,
+      "name": "Cold Hard Truth",
+      "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
     },
     {
       "album": {
@@ -4401,6 +4503,24 @@
     },
     {
       "album": {
+        "name": "Elevator Operator",
+        "url": "https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189103,
+      "name": "Elevator Operator",
+      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
+    },
+    {
+      "album": {
         "name": "Embattled",
         "url": "https://open.spotify.com/album/1R8SKK7esV5NenpImiTzdg"
       },
@@ -5156,7 +5276,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 245979,
       "name": "Forever Aligned",
       "url": "https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx"
@@ -5474,7 +5594,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 228967,
       "name": "Ghost Inside The Shell",
       "url": "https://open.spotify.com/track/49HsFAhcWNTjQx2eBkd7bo"
@@ -5954,7 +6074,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 183964,
       "name": "Hatred",
       "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
@@ -6403,6 +6523,24 @@
     },
     {
       "album": {
+        "name": "Hymns in Dissonance",
+        "url": "https://open.spotify.com/album/4vrdVbbpdzmw9WMzdr0lra"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312466,
+      "name": "Hymns in Dissonance",
+      "url": "https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU"
+    },
+    {
+      "album": {
         "name": "I Am Damnation",
         "url": "https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa"
       },
@@ -6454,6 +6592,24 @@
       "duration_ms": 255771,
       "name": "I am the Beast",
       "url": "https://open.spotify.com/track/46xrzJkwWM6s8tb3nVU4mQ"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
     },
     {
       "album": {
@@ -6732,7 +6888,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 223040,
       "name": "In Place of your Halo",
       "url": "https://open.spotify.com/track/5T0D6nxXifuwTeYSUVpiH3"
@@ -7522,6 +7678,24 @@
     {
       "album": {
         "name": "Let Go",
+        "url": "https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232702,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8"
+    },
+    {
+      "album": {
+        "name": "Let Go",
         "url": "https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH"
       },
       "artists": [
@@ -7680,7 +7854,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 185569,
       "name": "Losing Faith",
       "url": "https://open.spotify.com/track/1FouhNVA5qcS0IQ5nucCh6"
@@ -8258,7 +8432,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 198986,
       "name": "Merciless",
       "url": "https://open.spotify.com/track/6fJdIghnAODJ2pX7qYZg8w"
@@ -8700,6 +8874,24 @@
       "duration_ms": 202909,
       "name": "New Way Out",
       "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "album": {
+        "name": "Next To Bleed",
+        "url": "https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU"
+      },
+      "artists": [
+        {
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114425,
+      "name": "Next To Bleed",
+      "url": "https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe"
     },
     {
       "album": {
@@ -10411,6 +10603,28 @@
     },
     {
       "album": {
+        "name": "Return To One",
+        "url": "https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        },
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215759,
+      "name": "Return To One",
+      "url": "https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf"
+    },
+    {
+      "album": {
         "name": "Divine Tragedy",
         "url": "https://open.spotify.com/album/2gl9aNQuTgeVZAwOi3gLpI"
       },
@@ -11529,6 +11743,24 @@
     },
     {
       "album": {
+        "name": "Solace In Silence",
+        "url": "https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176095,
+      "name": "Solace In Silence",
+      "url": "https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou"
+    },
+    {
+      "album": {
         "name": "Soldier Of Heaven",
         "url": "https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C"
       },
@@ -12256,7 +12488,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 206180,
       "name": "Sulfur",
       "url": "https://open.spotify.com/track/7C8HmqWbVE3Q3z99maNUk8"
@@ -14980,7 +15212,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 134520,
       "name": "Western Stars & The Apocalypse",
       "url": "https://open.spotify.com/track/5CTkWuK9HHKyDH4JA0mF0M"
@@ -15034,7 +15266,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 231960,
       "name": "What If I Burn",
       "url": "https://open.spotify.com/track/4afrXoJM8GTpASPVzBGUYK"
@@ -15196,7 +15428,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 226166,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/4I5QRJ0vpMpnzR23Lpm3k9"

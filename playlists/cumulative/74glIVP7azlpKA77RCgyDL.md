@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Alien Weaponry.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Employed to Serve.
 
-891 songs - 2 day 8 hr 0 min
+897 songs - 2 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Artificial Divinity](https://open.spotify.com/track/4MMer3ITnpDMkIDgtmDsgf) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Artificial Divinity](https://open.spotify.com/album/4WW2bLhuHj6t8EFJEBTWwR) | 3:43 | 2022-10-28 | 2023-07-15 |
 | [At All Times](https://open.spotify.com/track/7HXeFTTfFPsNHoydhWhlfO) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [At All Times](https://open.spotify.com/album/793vUi1ia5Cv2C5csUY2tY) | 4:36 | 2024-09-27 |  |
 | [At the Fortress Gate](https://open.spotify.com/track/03U4RGt6wDRNuU5ba83FQ9) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [At the Fortress Gate](https://open.spotify.com/album/335GTRmZ0rVWAW0zCy8CpC) | 3:45 | 2024-08-16 |  |
+| [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf) | 3:52 | 2025-01-24 |  |
 | [Attainable](https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Attainable](https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx) | 1:43 | 2023-02-03 | 2024-02-03 |
 | [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2022-12-09 | 2023-07-15 |
 | [Avenge](https://open.spotify.com/track/0aMPSVbotlEJJ7RHKKOmh5) | [Sentinel](https://open.spotify.com/artist/52vLjSY4OTo3YyIr0zTJgE) | [Avenge](https://open.spotify.com/album/5WYedUR5YPq1Cwdt4ZS6M7) | 1:40 | 2023-11-17 | 2024-02-03 |
@@ -95,6 +96,7 @@
 | [Blood Feast](https://open.spotify.com/track/5hZfFjT1jpsOGqlaPEEXFR) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Blood Feast](https://open.spotify.com/album/3AH1Rojety6iTDmI3XzOYs) | 4:16 | 2023-02-24 | 2024-02-03 |
 | [BLOOD HOST](https://open.spotify.com/track/4jnbz6aiphNLoT8W0nfkcR) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [BLOOD HOST](https://open.spotify.com/album/53BT7fEmTb8wmZfvVStfEV) | 5:37 | 2024-11-01 |  |
 | [Blood Soaked Death Dream](https://open.spotify.com/track/7uqhFyyXbE0j6OZzbgzajW) | [Vomit Forth](https://open.spotify.com/artist/7FauDKMDbUkCa6SuNfI0GP) | [Blood Soaked Death Dream](https://open.spotify.com/album/38LpPqOan6RdUbUwQcifXs) | 2:47 | 2024-05-31 |  |
+| [Blood's on fire](https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [Blood's on fire](https://open.spotify.com/album/1pufe0kyP5ZHGywP6UtSoj) | 3:01 | 2025-01-24 |  |
 | [Bloodbath \(feat\. Chino Moreno\)](https://open.spotify.com/track/2IMHE3XJcsqTIbSGOIY6Jy) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 3:50 | 2022-10-28 | 2023-07-15 |
 | [BLOODHOUND](https://open.spotify.com/track/7jibT2RXLPJQpHgdoKARXY) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [BLOODHOUND](https://open.spotify.com/album/1Hkyxl3PVLdATfkp8q1drD) | 3:12 | 2024-06-28 |  |
 | [Blossom](https://open.spotify.com/track/15O24jtwGctHpUGzTq6YWV) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [Blossom](https://open.spotify.com/album/6kO4SgxrKX2Bd2PvB5MGlz) | 5:57 | 2023-03-17 | 2024-02-03 |
@@ -230,6 +232,7 @@
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 | 2023-07-15 |
 | [El Camino Car Crash](https://open.spotify.com/track/6D7OXwvAH5dMBIlQo933Ui) | [Deaf Club](https://open.spotify.com/artist/1GHsH4VNAKT2b7lBnppmFx) | [El Camino Car Crash](https://open.spotify.com/album/0XLyF4iYImRVm5klB2rwPC) | 1:40 | 2024-12-13 |  |
 | [Elements Of Sin](https://open.spotify.com/track/5xfAlFJ33JakfGDeM4UyNe) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Elements Of Sin](https://open.spotify.com/album/5YT581a2QIS1aPmI6ploqW) | 3:47 | 2023-09-29 | 2024-02-03 |
+| [Elevator Operator](https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Elevator Operator](https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM) | 3:09 | 2025-01-24 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-12 | 2024-02-03 |
 | [Encased In Crystalline](https://open.spotify.com/track/7Hj2Nzojz0mTMKjzaNQh0y) | [A Mourning Star](https://open.spotify.com/artist/6liRUYkXvRcAJPlSrmGftP) | [Encased In Crystalline](https://open.spotify.com/album/46TMR31huoshkMzZKEN4Sg) | 2:44 | 2023-08-11 | 2024-02-03 |
 | [ENDLESS](https://open.spotify.com/track/4Hl1JJxdzEjhvXi3L3SFE8) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [ENDLESS](https://open.spotify.com/album/7aByOZkdJqsGvIplvnNrq1) | 4:23 | 2024-06-18 |  |
@@ -495,6 +498,7 @@
 | [No Place That Doesn't See You](https://open.spotify.com/track/0l8TDZQIVuigiK5iMHLiVt) | [Mil\-Spec](https://open.spotify.com/artist/5iWmisoEhjZGn4QYLRqzuy) | [Marathon](https://open.spotify.com/album/0V6pjsjhW4XG6KA0ZCG1c4) | 2:22 | 2023-10-06 | 2024-02-03 |
 | [NO REVIVES](https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [FEED](https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4) | 3:26 | 2025-01-17 |  |
 | [No Temple](https://open.spotify.com/track/0tvT2HYtCSmgrVhwEvUAIK) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [No Temple](https://open.spotify.com/album/4QFjiT8ogt8dHH44ZWhk4e) | 4:38 | 2023-04-13 | 2024-02-03 |
+| [No Witness](https://open.spotify.com/track/62W3J2xwtIVn5Zo6qKqKOC) | [Traitors](https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya) | [No Witness](https://open.spotify.com/album/3ChKHOfCzTSiZaUwtT9qPU) | 3:27 | 2025-01-24 |  |
 | [Noah](https://open.spotify.com/track/7nNIk5X6AanHDEhYKekymO) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Noah](https://open.spotify.com/album/4PyTSqcMOE1DXi4pLu1T0F) | 3:36 | 2023-08-04 | 2024-02-03 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 | 2024-02-03 |
 | [Nobody](https://open.spotify.com/track/3KVgrJAOKSQ4CIP6rLIwW9) | [The Dali Thundering Concept](https://open.spotify.com/artist/6HZqdaj8X8h6gMTPlD6EPR) | [Nobody](https://open.spotify.com/album/5JMvxBsLwVs7rvOoqpCgv5) | 2:54 | 2024-06-28 |  |
@@ -603,6 +607,7 @@
 | [Residue](https://open.spotify.com/track/6V65rowmWJM1QeAM4Nk4BG) | [Kerry King](https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH) | [Residue](https://open.spotify.com/album/36jabPLz0Cz7ZblFAmi7sD) | 4:38 | 2024-04-12 |  |
 | [Resurrected](https://open.spotify.com/track/68XdsXMEEhP6SOkpj4FNrG) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Resurrected](https://open.spotify.com/album/2hnXIMJc9CNCdTsVyTO3d7) | 2:11 | 2024-01-12 |  |
 | [Resurrection II](https://open.spotify.com/track/4vLJYJjWCRAsfpvl31AYTa) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Resurrection II](https://open.spotify.com/album/7HVjB5TNxYYKv7CTQfcZMY) | 3:02 | 2023-03-10 | 2024-02-03 |
+| [Return To One](https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Return To One](https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs) | 3:35 | 2025-01-24 |  |
 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-13 | 2024-02-03 |
 | [Righteous Man](https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Righteous Man](https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI) | 3:48 | 2024-08-23 |  |
 | [Rise from the Grave](https://open.spotify.com/track/3Uo3xhqUJG9EHTtdlBbEm4) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Rise from the Grave](https://open.spotify.com/album/4rTmT4RMbmdNHid4lgighZ) | 3:35 | 2022-01-21 | 2023-07-15 |
@@ -783,6 +788,7 @@
 | [This Is Not A Prayer](https://open.spotify.com/track/1MUBqsfHJ8dOgFvkR5zWYX) | [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [This Is Not A Prayer](https://open.spotify.com/album/1fEPutb1DOsvhTvRPLbBYs) | 6:39 | 2024-06-28 |  |
 | [Time Is Coming For Us All](https://open.spotify.com/track/4k8W2lveY4GzNADWNQNGmO) | [Street Power](https://open.spotify.com/artist/0MRYZGQXTt3HN6u34YtEYr) | [Promo 2024](https://open.spotify.com/album/4kyPh860ld5waGNs5TnkfZ) | 1:51 | 2024-03-01 |  |
 | [To Cut Off The Head Of The Snake](https://open.spotify.com/track/3kj5ZrH5xC5xfXVKNKwwTo) | [Living Gate](https://open.spotify.com/artist/6uiTa3MLovwAdLBbDCveLa) | [To Cut Off The Head Of The Snake](https://open.spotify.com/album/5EqAKmfvMg6I3aFhk8ag6v) | 4:55 | 2024-09-27 |  |
+| [To Live Deliciously](https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [To Live Deliciously](https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB) | 5:32 | 2025-01-24 |  |
 | [To The Dance Floor For Shelter](https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [To The Dance Floor For Shelter \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/5S9zh1BaFjgNq1TdDNH1Se) | 4:19 | 2024-03-29 |  |
 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 | 2024-05-17 |  |
 | [Too Much](https://open.spotify.com/track/6F4qSBCQTV36A4U8qBTAjS) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Too Much](https://open.spotify.com/album/4PEpzl1k2KTG6oCMiTMviE) | 3:41 | 2025-01-17 |  |

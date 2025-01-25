@@ -11283,7 +11283,7 @@
         },
         {
           "name": "North West",
-          "url": "https://open.spotify.com/artist/0FA269a5zotCJp9gK55Hcs"
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
         }
       ],
       "date_added": "2025-01-23",
@@ -19765,6 +19765,28 @@
     },
     {
       "album": {
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
+    },
+    {
+      "album": {
         "name": "Winter Storm",
         "url": "https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU"
       },
@@ -24642,6 +24664,28 @@
       "duration_ms": 211153,
       "name": "Habits (Stay High) - Spotify Singles",
       "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
+    },
+    {
+      "album": {
+        "name": "HAIRDRYERINTHEBATHTUB",
+        "url": "https://open.spotify.com/album/0cNemuVuWDvFXpK869wPEW"
+      },
+      "artists": [
+        {
+          "name": "MELT",
+          "url": "https://open.spotify.com/artist/2rOBtnpCNXUwFtvqwXOmfd"
+        },
+        {
+          "name": "CRXP",
+          "url": "https://open.spotify.com/artist/4GtcyFZ9vo3b44HiJ96Srj"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "HAIRDRYERINTHEBATHTUB",
+      "url": "https://open.spotify.com/track/4J9g77IuDW6OzhuDi0e0iz"
     },
     {
       "album": {

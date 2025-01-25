@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Cameron Winter
 
-2,973 songs - 6 day 20 hr 22 min
+2,975 songs - 6 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2532,6 +2532,7 @@
 | [Tell Me](https://open.spotify.com/track/244MtUBHPW0tUXQqmOEbt3) | [Henry Nowhere](https://open.spotify.com/artist/4aftr1UuSVHhP5ISxMoObq) | [Tell Me](https://open.spotify.com/album/6EWIfytMmOGtvDVOu4iWq5) | 2:56 | 2022-05-04 | 2022-05-26 |
 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-05-17 | 2024-01-11 |
 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 | 2024-01-17 | 2024-02-22 |
+| [Tell You Somethin'](https://open.spotify.com/track/48C0ivZhtG5kLMVAgkQKja) | [Christopher Normann](https://open.spotify.com/artist/71Ba2c5KQ692t9amjwR2FK) | [Tell You Somethin'](https://open.spotify.com/album/5kg0062RTAfuULsektLcOj) | 2:43 | 2025-01-25 |  |
 | [TEMPLE OF THE DRAGON](https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [TEMPLE OF THE DRAGON](https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW) | 2:48 | 2021-12-01 | 2022-01-13 |
 | [Temptation](https://open.spotify.com/track/1ZtCULlU6FKT2xyA6xbWI7) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Temptation](https://open.spotify.com/album/1G6sjX1SKZuie8PV47QHU7) | 3:11 | 2024-02-28 | 2024-04-24 |
 | [Tenderness and Purity](https://open.spotify.com/track/3d7AppklPbBmKap2mBi6aM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Tenderness and Purity](https://open.spotify.com/album/7saw3rJ7XbES6Iv2lGgk3q) | 2:08 | 2023-07-19 | 2023-08-24 |
@@ -2953,6 +2954,7 @@
 | [You Could Hate Me](https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [You Could Hate Me](https://open.spotify.com/album/5ZnQ85vY3jHGuG1H39JMyd) | 4:11 | 2024-07-17 | 2025-01-16 |
 | [You Don't Cry Enough](https://open.spotify.com/track/3iqOWdl8nZwJpGNKQyw6es) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [404 USER NOT FOUND](https://open.spotify.com/album/1WzrSVf7J69Fp0kzM3TycY) | 2:44 | 2022-03-16 | 2022-04-27 |
 | [You Don't Know](https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [You Don't Know](https://open.spotify.com/album/5uJPLnhXp8zYGSwCG3rRwg) | 4:41 | 2024-07-03 | 2024-08-29 |
+| [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 | 2025-01-24 |  |
 | [You Know That I'm Around](https://open.spotify.com/track/0yMe0g5uPUrzBhGIEg3x5O) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [A Good Friend](https://open.spotify.com/album/5Xh5pjZ8xqmzKBCgEvsWYF) | 2:49 | 2023-05-17 | 2023-06-15 |
 | [You Know That I've Stayed](https://open.spotify.com/track/5TvcR7q7t62vNpBqVNlhr4) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver](https://open.spotify.com/album/5OQ0N0i26LsukbGcYeSa65) | 2:37 | 2023-08-23 | 2023-09-21 |
 | [You Mystery](https://open.spotify.com/track/1esiDQEngT2DLHCoLpk56f) | [Dog Door](https://open.spotify.com/artist/0HFSEAMwDryJdG23Pg28xt) | [You Mystery](https://open.spotify.com/album/05qYRLzx3g18ikJyCkE66b) | 5:22 | 2023-09-06 | 2023-10-19 |

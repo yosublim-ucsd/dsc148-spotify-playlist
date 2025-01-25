@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u63fa\u3089\u304e\uff08yuragi\uff09",
-  "num_followers": 60354,
+  "num_followers": 60402,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-01-23 15:00:29",
       "album": {
-        "name": "Lucif\u00e9rine",
-        "url": "https://open.spotify.com/album/0SpLGc25URm3IjnGs41Eq4"
-      },
-      "artists": [
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 301907,
-      "name": "Lucif\u00e9rine",
-      "url": "https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1"
-    },
-    {
-      "added_at": "2025-01-23 15:00:29",
-      "album": {
         "name": "Re:Re:",
         "url": "https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 251522,
       "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
       "url": "https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH"
+    },
+    {
+      "added_at": "2025-01-23 15:00:29",
+      "album": {
+        "name": "Lucif\u00e9rine",
+        "url": "https://open.spotify.com/album/0SpLGc25URm3IjnGs41Eq4"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 301907,
+      "name": "Lucif\u00e9rine",
+      "url": "https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1"
     },
     {
       "added_at": "2025-01-23 15:00:29",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-01-23 15:00:29",
       "album": {
-        "name": "Bothering / Daiji Rushing",
-        "url": "https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww"
-      },
-      "artists": [
-        {
-          "name": "ermhoi",
-          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
-        }
-      ],
-      "duration_ms": 158731,
-      "name": "Bothering",
-      "url": "https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v"
-    },
-    {
-      "added_at": "2025-01-23 15:00:29",
-      "album": {
         "name": "Genie",
         "url": "https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU"
       },
@@ -1171,6 +1155,38 @@
     {
       "added_at": "2025-01-23 15:00:29",
       "album": {
+        "name": "\u3042\u307e\u308a\u98a8",
+        "url": "https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz"
+      },
+      "artists": [
+        {
+          "name": "AprilBlue",
+          "url": "https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ"
+        }
+      ],
+      "duration_ms": 240857,
+      "name": "\u3042\u307e\u308a\u98a8",
+      "url": "https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75"
+    },
+    {
+      "added_at": "2025-01-23 15:00:29",
+      "album": {
+        "name": "Bothering / Daiji Rushing",
+        "url": "https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "duration_ms": 158731,
+      "name": "Bothering",
+      "url": "https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v"
+    },
+    {
+      "added_at": "2025-01-23 15:00:29",
+      "album": {
         "name": "A Winter Song",
         "url": "https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo"
       },
@@ -1183,6 +1199,38 @@
       "duration_ms": 164666,
       "name": "A Winter Song",
       "url": "https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv"
+    },
+    {
+      "added_at": "2025-01-23 15:00:29",
+      "album": {
+        "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
+        "url": "https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 274750,
+      "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
+      "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
+    },
+    {
+      "added_at": "2025-01-23 15:00:29",
+      "album": {
+        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
+        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "duration_ms": 175578,
+      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
+      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
     },
     {
       "added_at": "2025-01-23 15:00:29",
@@ -1207,58 +1255,6 @@
       "duration_ms": 239057,
       "name": "New Morning",
       "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
-    },
-    {
-      "added_at": "2025-01-23 15:00:29",
-      "album": {
-        "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
-        "url": "https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 274750,
-      "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
-      "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
-    },
-    {
-      "added_at": "2025-01-23 15:00:29",
-      "album": {
-        "name": "Forest (feat. ACE COOL)",
-        "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
-      },
-      "artists": [
-        {
-          "name": "\u3093oon",
-          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
-        },
-        {
-          "name": "ACE COOL",
-          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
-        }
-      ],
-      "duration_ms": 183397,
-      "name": "Forest - feat. ACE COOL",
-      "url": "https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH"
-    },
-    {
-      "added_at": "2025-01-23 15:00:29",
-      "album": {
-        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
-        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
-          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
-      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
     }
   ],
   "unique_name": "Edge!",

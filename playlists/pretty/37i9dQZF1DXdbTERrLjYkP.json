@@ -1,13 +1,61 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Esha Tewari",
-  "num_followers": 217450,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Bex",
+  "num_followers": 217475,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nj8AAAAADQLU4QRaRunRmg848epOvA",
+  "snapshot_id": "Z5MefwAAAADCUTNrU5ZSSzba0QGAG9u+",
   "tracks": [
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5"
+      },
+      "artists": [
+        {
+          "name": "Bex",
+          "url": "https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Pictures Of You",
+        "url": "https://open.spotify.com/album/4gxmr0oHbHJQ9cve16vfve"
+      },
+      "artists": [
+        {
+          "name": "Myya's Diary",
+          "url": "https://open.spotify.com/artist/34InewAqwTV9yX2PCK3y77"
+        }
+      ],
+      "duration_ms": 142417,
+      "name": "Pictures Of You",
+      "url": "https://open.spotify.com/track/6Q1i73OuBudnyvDLyxdyMJ"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "the boys who don't know what they want",
+        "url": "https://open.spotify.com/album/28B6KgtCFs2qUZGbafX8sZ"
+      },
+      "artists": [
+        {
+          "name": "Avery Lynch",
+          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
+        }
+      ],
+      "duration_ms": 215552,
+      "name": "the boys who don't know what they want",
+      "url": "https://open.spotify.com/track/7ejsOM6vM20LCgU6vyvYkN"
+    },
     {
       "added_at": "2025-01-17 05:00:32",
       "album": {
@@ -25,6 +73,26 @@
       "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
     },
     {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Liberty",
+        "url": "https://open.spotify.com/album/1VN56rB3ieWrvWvy91HY35"
+      },
+      "artists": [
+        {
+          "name": "Chad Courtney",
+          "url": "https://open.spotify.com/artist/33CH0EJ3lVwCOt2HVkVIRp"
+        },
+        {
+          "name": "Riley Polanski",
+          "url": "https://open.spotify.com/artist/064i0vbQsJA9rXIwjEOPzo"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/1rwzOORcMwl9UgQRlFmGfR"
+    },
+    {
       "added_at": "2025-01-17 05:00:32",
       "album": {
         "name": "you were just drunk",
@@ -39,6 +107,38 @@
       "duration_ms": 176652,
       "name": "you were just drunk",
       "url": "https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Hurts Different",
+        "url": "https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc"
+      },
+      "artists": [
+        {
+          "name": "Isabella Kearney",
+          "url": "https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL"
+        }
+      ],
+      "duration_ms": 141265,
+      "name": "Hurts Different",
+      "url": "https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Minor Inconveniences",
+        "url": "https://open.spotify.com/album/0hy2RxRbnzbs9eTgqIEhd0"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 152035,
+      "name": "Minor Inconveniences",
+      "url": "https://open.spotify.com/track/1uLPjjdIKUXvzC3Y2jSdjC"
     },
     {
       "added_at": "2025-01-17 05:00:32",
@@ -411,22 +511,6 @@
       "duration_ms": 223187,
       "name": "I just don't think I'll make it over you.",
       "url": "https://open.spotify.com/track/3GrePGRplvl9v5EFZs2xzj"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/43iRFJBKyigjwAIXnCBSEt"
-      },
-      "artists": [
-        {
-          "name": "Avery Lynch",
-          "url": "https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth"
     },
     {
       "added_at": "2024-11-08 05:00:00",

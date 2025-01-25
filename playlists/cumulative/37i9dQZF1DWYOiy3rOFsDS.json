@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 243983,
       "name": "Bailando Bonito",
       "url": "https://open.spotify.com/track/2C47Ri3AXxD67NH8VLnprW"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 210000,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2qFz72y9UVVZ4ENn133tEv"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 181853,
       "name": "El Reloj",
       "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
@@ -2445,6 +2445,24 @@
     },
     {
       "album": {
+        "name": "Himitsu",
+        "url": "https://open.spotify.com/album/3CqKTvQdxWuG7WLf9sn6dQ"
+      },
+      "artists": [
+        {
+          "name": "Joheel Rodmar",
+          "url": "https://open.spotify.com/artist/2IhzYqwXcAUGMbJ2qxz4Ik"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214875,
+      "name": "Himitsu",
+      "url": "https://open.spotify.com/track/7cbszk4BdWqD9xRlVktTX6"
+    },
+    {
+      "album": {
         "name": "Mis Boleros Favoritos",
         "url": "https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2"
       },
@@ -2558,6 +2576,24 @@
       "duration_ms": 191546,
       "name": "Jacaranda",
       "url": "https://open.spotify.com/track/3BuXMPHThfHp3znFM3vOnp"
+    },
+    {
+      "album": {
+        "name": "Jaque Mate",
+        "url": "https://open.spotify.com/album/6ISwwA1Y7kKGEjH2EoxsjZ"
+      },
+      "artists": [
+        {
+          "name": "Fer Sober\u00f3n",
+          "url": "https://open.spotify.com/artist/7N3Td3Wa6ADFhGYc9wp88U"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186491,
+      "name": "Jaque Mate",
+      "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
     },
     {
       "album": {
@@ -4286,7 +4322,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 206173,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/6deDgyezRHEFVrQqBewImr"
@@ -5258,7 +5294,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Sin Raz\u00f3n",
       "url": "https://open.spotify.com/track/0ICVsFzO2T3j2FJ54rmFxk"
@@ -5700,7 +5736,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 264440,
       "name": "Tiempo al Tiempo",
       "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"

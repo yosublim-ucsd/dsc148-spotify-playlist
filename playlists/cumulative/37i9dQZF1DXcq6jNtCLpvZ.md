@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcq6jNtCLpvZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcq6jNtCLpvZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcq6jNtCLpvZ)
 
-### [Symphogear 戦姫絶唱シンフォギア](https://open.spotify.com/playlist/37i9dQZF1DXcq6jNtCLpvZ)
+### [Symphogear](https://open.spotify.com/playlist/37i9dQZF1DXcq6jNtCLpvZ)
 
-> Music from "Symphogear"! /アニメ「戦姫絶唱シンフォギア」の楽曲を1つのプレイリストで。Ⓒproject シンフォギアXV
+> Music from "Symphogear"! Ⓒproject シンフォギアXV
 
 72 songs - 5 hr 14 min
 

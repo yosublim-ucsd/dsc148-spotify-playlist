@@ -4083,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/75z7BsjM6xczGJ8GHEnsX7"
+      },
+      "artists": [
+        {
+          "name": "Landon Smith",
+          "url": "https://open.spotify.com/artist/3xYWSAnkKiD6rqoMtOod1m"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178320,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/11jpBiMgL6JzX8ixmrWK6T"
+    },
+    {
+      "album": {
         "name": "Whatever We Are",
         "url": "https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ"
       },

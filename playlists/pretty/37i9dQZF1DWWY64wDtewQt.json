@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 9461985,
+  "num_followers": 9465956,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4p32gAAAABoeVy23W6+HRak1ScgRSNM",
+  "snapshot_id": "Z5PBRQAAAACF9ZEk3g3lLGMQkfIa2r5F",
   "tracks": [
     {
       "added_at": "2024-10-04 13:19:49",
@@ -39,6 +39,26 @@
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "added_at": "2024-11-15 15:00:00",
+      "album": {
+        "name": "BAD PARENTING FUNK",
+        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
+      },
+      "artists": [
+        {
+          "name": "DJ CEREJASS",
+          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "duration_ms": 87834,
+      "name": "BAD PARENTING FUNK",
+      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
     },
     {
       "added_at": "2024-03-29 15:57:27",
@@ -113,26 +133,6 @@
       "url": "https://open.spotify.com/track/1kZiI82AcevKgv7RCUiG3l"
     },
     {
-      "added_at": "2024-11-15 15:00:00",
-      "album": {
-        "name": "BAD PARENTING FUNK",
-        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
-      },
-      "artists": [
-        {
-          "name": "DJ CEREJASS",
-          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
-        },
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        }
-      ],
-      "duration_ms": 87834,
-      "name": "BAD PARENTING FUNK",
-      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
-    },
-    {
       "added_at": "2024-03-22 16:01:00",
       "album": {
         "name": "CUTE DEPRESSED",
@@ -169,6 +169,58 @@
       "url": "https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k"
     },
     {
+      "added_at": "2024-05-17 14:03:55",
+      "album": {
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+      },
+      "artists": [
+        {
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+        }
+      ],
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
+    },
+    {
+      "added_at": "2025-01-17 15:31:38",
+      "album": {
+        "name": "BLAH!",
+        "url": "https://open.spotify.com/album/5B75p8BlV3QNlZJa5gQKff"
+      },
+      "artists": [
+        {
+          "name": "Nomi XD",
+          "url": "https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM"
+        },
+        {
+          "name": "VYRUS",
+          "url": "https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "BLAH!",
+      "url": "https://open.spotify.com/track/6nRCWTNboe0qbrXTO0QbzX"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
       "added_at": "2024-02-09 15:25:18",
       "album": {
         "name": "FUNKED UP",
@@ -187,54 +239,6 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
-    },
-    {
-      "added_at": "2024-05-17 14:03:55",
-      "album": {
-        "name": "Eu Sento Gabu!",
-        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
-      },
-      "artists": [
-        {
-          "name": "PXLWYSE",
-          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
-        }
-      ],
-      "duration_ms": 83754,
-      "name": "Eu Sento Gabu!",
-      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
-    },
-    {
-      "added_at": "2024-10-25 15:19:02",
-      "album": {
-        "name": "UH VEI VEI",
-        "url": "https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y"
-      },
-      "artists": [
-        {
-          "name": "KREZUS",
-          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "UH VEI VEI",
-      "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
       "added_at": "2022-05-20 10:12:52",
@@ -289,26 +293,6 @@
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
     },
     {
-      "added_at": "2025-01-17 15:31:38",
-      "album": {
-        "name": "BLAH!",
-        "url": "https://open.spotify.com/album/5B75p8BlV3QNlZJa5gQKff"
-      },
-      "artists": [
-        {
-          "name": "Nomi XD",
-          "url": "https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM"
-        },
-        {
-          "name": "VYRUS",
-          "url": "https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "BLAH!",
-      "url": "https://open.spotify.com/track/6nRCWTNboe0qbrXTO0QbzX"
-    },
-    {
       "added_at": "2024-04-12 15:41:29",
       "album": {
         "name": "MASHA ULTRAFUNK",
@@ -327,6 +311,22 @@
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
+    },
+    {
+      "added_at": "2024-10-25 15:19:02",
+      "album": {
+        "name": "UH VEI VEI",
+        "url": "https://open.spotify.com/album/64Qg2tLfJaSj9wSlrIwt8y"
+      },
+      "artists": [
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "UH VEI VEI",
+      "url": "https://open.spotify.com/track/5Uph2AVeAtXBBdNIBUKeB1"
     },
     {
       "added_at": "2023-12-01 14:11:37",
@@ -419,26 +419,6 @@
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn"
-    },
-    {
-      "added_at": "2023-08-04 15:24:45",
-      "album": {
-        "name": "Memory Reboot",
-        "url": "https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx"
-      },
-      "artists": [
-        {
-          "name": "V\u00d8J",
-          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
-        },
-        {
-          "name": "Narvent",
-          "url": "https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7"
-        }
-      ],
-      "duration_ms": 209416,
-      "name": "Memory Reboot",
-      "url": "https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI"
     },
     {
       "added_at": "2024-10-11 19:53:38",
@@ -629,22 +609,6 @@
       "url": "https://open.spotify.com/track/4XdP1OCiSv3sc2jKnH2sGN"
     },
     {
-      "added_at": "2024-07-19 16:15:00",
-      "album": {
-        "name": "Cuando se te moja la tarea 2",
-        "url": "https://open.spotify.com/album/5hUTWbVLPE7Vo9KtS06U15"
-      },
-      "artists": [
-        {
-          "name": "LDRR",
-          "url": "https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU"
-        }
-      ],
-      "duration_ms": 179302,
-      "name": "Cuando se te moja la tarea 2",
-      "url": "https://open.spotify.com/track/2NVY5DJmbIxMr0a4glhyHU"
-    },
-    {
       "added_at": "2022-04-13 07:53:17",
       "album": {
         "name": "RAVE",
@@ -755,6 +719,22 @@
       "duration_ms": 75697,
       "name": "ACIDO",
       "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
+    },
+    {
+      "added_at": "2024-07-19 16:15:00",
+      "album": {
+        "name": "Cuando se te moja la tarea 2",
+        "url": "https://open.spotify.com/album/5hUTWbVLPE7Vo9KtS06U15"
+      },
+      "artists": [
+        {
+          "name": "LDRR",
+          "url": "https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU"
+        }
+      ],
+      "duration_ms": 179302,
+      "name": "Cuando se te moja la tarea 2",
+      "url": "https://open.spotify.com/track/2NVY5DJmbIxMr0a4glhyHU"
     },
     {
       "added_at": "2024-08-30 14:20:17",
@@ -889,28 +869,24 @@
       "url": "https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza"
     },
     {
-      "added_at": "2025-01-17 15:31:38",
+      "added_at": "2024-12-13 05:45:00",
       "album": {
-        "name": "EMPTY FUNK",
-        "url": "https://open.spotify.com/album/5BKAwGbVKGIu7cJspBFsjs"
+        "name": "MAZKO",
+        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
       },
       "artists": [
         {
-          "name": "DJ Anemia",
-          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
+          "name": "S4nri0",
+          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
         },
         {
-          "name": "crier",
-          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
-        },
-        {
-          "name": "sixnite",
-          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+          "name": "MC LyC4N",
+          "url": "https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz"
         }
       ],
-      "duration_ms": 121666,
-      "name": "EMPTY FUNK",
-      "url": "https://open.spotify.com/track/35vfzOdNc9qIMlcIjzwxJP"
+      "duration_ms": 75692,
+      "name": "MAZKO",
+      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
     },
     {
       "added_at": "2023-02-10 16:54:18",
@@ -985,24 +961,24 @@
       "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
     },
     {
-      "added_at": "2024-12-13 05:45:00",
+      "added_at": "2025-01-24 16:35:17",
       "album": {
-        "name": "MAZKO",
-        "url": "https://open.spotify.com/album/4F2WvpcBhSzlbn3WIITz2B"
+        "name": "Lya Funk",
+        "url": "https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH"
       },
       "artists": [
         {
-          "name": "S4nri0",
-          "url": "https://open.spotify.com/artist/0oV5Z0bl2CEOKxeN8FZHi7"
+          "name": "V\u00d8J",
+          "url": "https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI"
         },
         {
-          "name": "MC LyC4N",
-          "url": "https://open.spotify.com/artist/4fVQieL685dgYwFDrcYxsz"
+          "name": "TRVNSPORTER",
+          "url": "https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq"
         }
       ],
-      "duration_ms": 75692,
-      "name": "MAZKO",
-      "url": "https://open.spotify.com/track/7xsDWgQfb3szawKuUZyk5N"
+      "duration_ms": 129597,
+      "name": "Lya Funk",
+      "url": "https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A"
     },
     {
       "added_at": "2023-06-09 13:51:36",
@@ -1235,6 +1211,30 @@
       "duration_ms": 144000,
       "name": "O Melhor no Que Faz 3.0 [Slowed]",
       "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
+    },
+    {
+      "added_at": "2025-01-17 15:31:38",
+      "album": {
+        "name": "EMPTY FUNK",
+        "url": "https://open.spotify.com/album/5BKAwGbVKGIu7cJspBFsjs"
+      },
+      "artists": [
+        {
+          "name": "DJ Anemia",
+          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
+        },
+        {
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
+        },
+        {
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+        }
+      ],
+      "duration_ms": 121666,
+      "name": "EMPTY FUNK",
+      "url": "https://open.spotify.com/track/35vfzOdNc9qIMlcIjzwxJP"
     },
     {
       "added_at": "2024-07-12 15:05:31",

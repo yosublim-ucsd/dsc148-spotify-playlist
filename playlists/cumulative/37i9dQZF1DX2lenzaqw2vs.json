@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 207157,
       "name": "Besos",
       "url": "https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk"
@@ -4810,6 +4810,24 @@
       "duration_ms": 196363,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
+    },
+    {
+      "album": {
+        "name": "Pega2",
+        "url": "https://open.spotify.com/album/4TGljR0Lp1JMzNLNZmQJdI"
+      },
+      "artists": [
+        {
+          "name": "Dyhzy",
+          "url": "https://open.spotify.com/artist/1JBcxqcjiYemMkPp5FvlGQ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206175,
+      "name": "Pega2",
+      "url": "https://open.spotify.com/track/7CUAMhWuh7iFsgAkHjgqcg"
     },
     {
       "album": {

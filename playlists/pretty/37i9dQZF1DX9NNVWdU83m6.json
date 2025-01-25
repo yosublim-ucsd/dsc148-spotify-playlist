@@ -1,13 +1,29 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 56556,
+  "num_followers": 56571,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAACzRmo36Rm3tnaj3cB83Hix",
+  "snapshot_id": "Z5MeaQAAAAAi4Wurd6HjbGfY8PahLB+U",
   "tracks": [
+    {
+      "added_at": "2025-01-24 05:00:25",
+      "album": {
+        "name": "Malcolm's Law",
+        "url": "https://open.spotify.com/album/5tymJw5lEO3MicwrrtQ2RM"
+      },
+      "artists": [
+        {
+          "name": "Waldo's Gift",
+          "url": "https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Classic Waldi Anthem",
+      "url": "https://open.spotify.com/track/6XFeMpbt70h8KLd9RZUtF4"
+    },
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {

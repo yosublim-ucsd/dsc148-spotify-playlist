@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-393 songs - 18 hr 59 min
+395 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [DiscoTech](https://open.spotify.com/track/17F6myLWeg7xqutfsyUEgq) | [Boslyk](https://open.spotify.com/artist/1rGIIV4URDuQj5y0FYoL0r) | [DiscoTech](https://open.spotify.com/album/698cfH6j3yX8vBqWSAg5lt) | 2:28 | 2024-04-12 |  |
 | [Disengage](https://open.spotify.com/track/5NGLGbbClZvq7n8L4VRnfy) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP) | [Disengage](https://open.spotify.com/album/0yytK65AucnQcLwfMbiKB9) | 3:17 | 2023-04-25 |  |
 | [Diss You](https://open.spotify.com/track/7zQhHRCbfA5z3rY56O9REd) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh) | 2:05 | 2024-05-17 |  |
+| [Do Not Come](https://open.spotify.com/track/1OleIA0tFVoX8ZNQoIN1Io) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ) | [Do Not Come](https://open.spotify.com/album/097TUD9a7Ni4LAAFxORIpH) | 1:59 | 2025-01-24 |  |
 | [Don't Wanna Wait \- VIP Mix](https://open.spotify.com/track/6BRq5B5uUrcP5cRtgX5cuk) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Don’t Wanna Wait \(VIP Mix\)](https://open.spotify.com/album/1WtzNNAKtES4PqaVQrtZ8d) | 2:37 | 2022-05-06 | 2022-07-28 |
 | [Donk Alert](https://open.spotify.com/track/5xvGFPucysPs9keOdFnz6B) | [TYEGUYS](https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F), [BEL AIR WITCH](https://open.spotify.com/artist/5ehyiszRBoCkewPb1mTN6x) | [Donk Alert](https://open.spotify.com/album/0MIp9mtloeM1hfWXuVCHr9) | 3:34 | 2022-05-06 | 2022-08-03 |
 | [Don’t Keep Me Waiting \(feat\. Mila Falls\)](https://open.spotify.com/track/0iRxPHydedV81XOsc3JWu7) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Don’t Keep Me Waiting \(feat\. Mila Falls\)](https://open.spotify.com/album/2Zm55SQeHeeK2fK9UBJlrE) | 2:38 | 2024-07-08 |  |
@@ -236,6 +237,7 @@
 | [Midnight \(feat\. LINK\)](https://open.spotify.com/track/5HpRQNBXWdFdXcLCNS5Niv) | [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa), [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [Midnight \(feat\. LINK\)](https://open.spotify.com/album/2jSolctatBqVTEUDJ6lRyD) | 2:12 | 2023-02-17 | 2023-04-09 |
 | [Miedo](https://open.spotify.com/track/5QyP1mCvTyBasfWC8Qdp9i) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Miedo](https://open.spotify.com/album/5Q7ygUBxpsQpQowIBdwLBF) | 3:00 | 2022-05-06 | 2022-07-09 |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-05-06 | 2022-10-18 |
+| [Mirage](https://open.spotify.com/track/3ovm13iXtXLluAoG1sDNZ0) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa), [Skellytn](https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3) | [Mirage](https://open.spotify.com/album/7JnuNp4aQOwJbZWAMXEWTs) | 3:32 | 2025-01-24 |  |
 | [Money On The Line](https://open.spotify.com/track/7BYOJ9urVhhq6DVOb38Mj1) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Money On The Line](https://open.spotify.com/album/5S48I4R8aNkh2fGZw5O91m) | 3:00 | 2024-10-30 |  |
 | [MOON](https://open.spotify.com/track/0wsPWksjRwQkYofsre9rMD) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [MOON](https://open.spotify.com/album/77E1Q1IxMPpC96tLpXzrvy) | 3:27 | 2024-07-26 |  |
 | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/track/6u2XCvRMgI7kQZ32RbiAbk) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [GIANNI TAYLOR](https://open.spotify.com/artist/3fNJYQvnucBeI9BfNwMC5i) | [Moonlight \(feat\. Gianni Taylor\)](https://open.spotify.com/album/1faudGW99AwyzM2vIZxYzt) | 2:53 | 2023-01-27 | 2023-04-09 |

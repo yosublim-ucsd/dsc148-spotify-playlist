@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative en rock songs\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,618 likes - 67 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,653 likes - 67 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

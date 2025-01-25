@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-979 songs - 2 day 4 hr 47 min
+980 songs - 2 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -764,7 +764,7 @@
 | [Schedule](https://open.spotify.com/track/5eGsHi6RcL33gb9k89UYaB) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Schedule](https://open.spotify.com/album/0XtDEAGgkFrbNNaukE8pEF) | 2:28 | 2021-12-02 | 2022-04-06 |
 | [School Di Topper](https://open.spotify.com/track/4GUogCvTf9ivQy3Zy12sQG) | [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [School Di Topper](https://open.spotify.com/album/4KqpRg2Eq4qeZKyM44l06K) | 3:32 | 2022-08-19 | 2022-09-01 |
 | [Senorita](https://open.spotify.com/track/2X43mUjx1b3Y2TPnRVU0oW) | [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5) | [Senorita](https://open.spotify.com/album/5UYxAn1wqzf3xOc1M9qxUe) | 3:33 | 2022-03-02 | 2022-04-06 |
-| [Setting](https://open.spotify.com/track/3HJRVmgJQ8Bg1guFckZKh9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Setting](https://open.spotify.com/album/1JFhr0vyVxFixL5DBM2fQr) | 2:40 | 2023-02-27 |  |
+| [Setting](https://open.spotify.com/track/3HJRVmgJQ8Bg1guFckZKh9) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Setting](https://open.spotify.com/album/1JFhr0vyVxFixL5DBM2fQr) | 2:40 | 2023-02-27 | 2025-01-25 |
 | [Shadow](https://open.spotify.com/track/0NWWEG9qTxDKNARVQf6eDS) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 2:45 | 2022-03-16 | 2022-04-06 |
 | [Sharaab](https://open.spotify.com/track/5yAu5xEsC4eJvVL4B2Gjl4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq) | [State of Art](https://open.spotify.com/album/62Wlbcq0ip7IThBYtmxEi6) | 2:49 | 2022-05-06 | 2022-07-06 |
 | [Shart Lagake](https://open.spotify.com/track/1IffRKiB73SXuSIY216UXK) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Shart Lagake](https://open.spotify.com/album/6WYypqpmi4WzMEhecA7NPX) | 2:31 | 2023-12-18 | 2024-02-07 |
@@ -938,6 +938,7 @@
 | [Ve Haaniyaan](https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan](https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5) | 4:00 | 2024-02-06 | 2024-09-06 |
 | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/track/2hjARU9stCimSBlpSliMSQ) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/album/3t8B4tf2XXm8bRggCe0KTO) | 3:23 | 2024-08-14 |  |
 | [Veham](https://open.spotify.com/track/2eZv9lBnm3x8mtCG8h1jJC) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Veham](https://open.spotify.com/album/0aR1TwlOoL2EDURRu06JrW) | 2:54 | 2022-07-22 | 2022-08-18 |
+| [Vekhan Nu](https://open.spotify.com/track/5xHj6H5slknXw3Mb5A2VUy) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Vekhan Nu](https://open.spotify.com/album/6yLUJetgjlcqhskoOUBSD9) | 3:27 | 2025-01-24 |  |
 | [Velly Touch](https://open.spotify.com/track/69w7HEi8HNfceDTx1rpWYl) | [Harjot](https://open.spotify.com/artist/7xk9bcMbRjtMCraHg4kSAd), [Meharwani](https://open.spotify.com/artist/6yYJCb4Qd0Uek7s1uDQLeW) | [Velly Touch](https://open.spotify.com/album/4gNRYP2tI4Sv5Tl57uTWrS) | 3:24 | 2022-03-21 | 2022-04-06 |
 | [Viah Da Card](https://open.spotify.com/track/231DYXxOB9cdA2OOhhlEIw) | [Dilpreet Matharu](https://open.spotify.com/artist/1gUNTGQ3bSoZfHXjPOncbL) | [Viah Da Card](https://open.spotify.com/album/0cybM6rUwqUug1y24DTESZ) | 2:54 | 2022-01-10 | 2022-02-01 |
 | [Vibe](https://open.spotify.com/track/3VzH1l9nxlrCZTjEDTCEqc) | [Preetinder](https://open.spotify.com/artist/1r8t9QJtZZL9OsSCG2qij9) | [Vibe](https://open.spotify.com/album/7cU75aJMGcx8gkBgU5EjDG) | 2:46 | 2022-07-21 | 2022-08-18 |

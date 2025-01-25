@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7gGgYckDfuN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7gGgYckDfuN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7gGgYckDfuN)
 
-### [ジョジョの奇妙な冒険 \-JOJO's Bizarre Adventure\-シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX7gGgYckDfuN)
+### [JOJO's Bizarre Adventure](https://open.spotify.com/playlist/37i9dQZF1DX7gGgYckDfuN)
 
-> Enjoy Music From "JoJo's Bizarre Adventure" series! ジョジョの歴代関連楽曲が一堂に会した公式プレイリスト！©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
+> Enjoy Music From "JoJo's Bizarre Adventure" series! ©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SO製作委員会
 
 98 songs - 8 hr 23 min
 

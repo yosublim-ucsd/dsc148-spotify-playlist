@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-143 songs - 9 hr 39 min
+144 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [My Sunshine, You’re Moonlight](https://open.spotify.com/track/5qfvCRrYR5tXbas6BmgPsH) | [朔間 凛月\(CV.山下 大輝\)](https://open.spotify.com/artist/7ir1mefb6IQNMPZ5Co21Np) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 4:07 | 2024-05-24 | 2024-12-04 |
 | [Mystic Fragrance](https://open.spotify.com/track/3u6HywP3wR5eObLRReV6w6) | [Knights/朱桜 司\(CV.土田 玲央\)、月永 レオ\(CV.浅沼 晋太郎\)、瀬名 泉\(CV.伊藤 マサミ\)、朔間 凛月\(CV.山下 大輝\)、鳴上 嵐\(CV.北村 諒\)](https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 3:43 | 2024-05-24 | 2024-12-02 |
 | [NEW DAYBREAK](https://open.spotify.com/track/2iom8kZCmuUny8MfbH94VK) | [流星隊/南雲 鉄虎\(CV.中島 ヨシキ\)、高峯 翠\(CV.渡辺 拓海\)、仙石 忍\(CV.新田 杏樹\)、守沢 千秋\(CV.帆世 雄一\)、深海 奏汰\(CV.西山 宏太朗\)](https://open.spotify.com/artist/0cvDPbtYkcYQsdy9MONamK) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊](https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid) | 3:40 | 2024-04-26 | 2024-12-19 |
+| [No name yet](https://open.spotify.com/track/34siwMLyNV8M8V5RwaF4Re) | [Double Face/三毛縞 斑\(CV.鳥海 浩輔\)、桜河 こはく\(CV.海渡 翼\)](https://open.spotify.com/artist/3dtzZMV1ZuvWrpmR1s89ju) | [Double Face「No name yet」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb) | 4:14 | 2025-01-14 |  |
 | [Noir Neige](https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e) | [La Mort/朔間 零\(CV.増田 俊樹\)、朔間 凛月\(CV.山下 大輝\)、桜河 こはく\(CV.海渡 翼\)、乱 凪砂\(CV.諏訪部 順一\)、礼瀬 マヨイ\(CV.重松 千晴\)](https://open.spotify.com/artist/5xqD2ghxWZj83s7a5o74UF) | [あんさんぶるスターズ！！ シャッフルユニットソング コレクション \(vol.02\)](https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k) | 3:07 | 2024-04-26 |  |
 | [Noisy:Beep](https://open.spotify.com/track/2txvj2W5aUiSUdjx9bca3o) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [Crazy:B「指先のアリアドネ」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/6GdnM9XjuFotzIXuCsirrO) | 4:02 | 2025-01-14 |  |
 | [One with One \- 2023 Ver.](https://open.spotify.com/track/7j5H4YKvzjWbifzdWYd9cu) | [ESオールスターズ](https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO) | [『あんさんぶるスターズ！！』8th Anniversary song「One with One」 \(2023 Ver.\)](https://open.spotify.com/album/36KMa5R5FWUtwpI8wC1EEb) | 4:19 | 2024-04-26 | 2024-07-15 |
@@ -141,7 +142,7 @@
 | [星の鳴動響きし時に](https://open.spotify.com/track/4HfzaFfOFv2zIAzXT37LC6) | [Valkyrie](https://open.spotify.com/artist/4nMEbXMHbM2myBdwQueSrz) | [あんさんぶるスターズ！！ ESアイドルソング season5 Valkyrie「星の鳴動響きし時に」](https://open.spotify.com/album/0oTq1rLPPyyOmjIqEY0km5) | 6:19 | 2025-01-14 |  |
 | [月光奇譚](https://open.spotify.com/track/705LiBmCJHgFJaOj2bEiEE) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [紅月「月光奇譚」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/069zrfaEQIbpcoLh2YX5kH) | 4:23 | 2025-01-14 |  |
 | [流星花火](https://open.spotify.com/track/75ZhCM7iQI3I6X1qOTjXLl) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 4:13 | 2024-12-12 | 2025-01-22 |
-| [百花繚乱、紅月夜](https://open.spotify.com/track/2tU9EY1nufIeoOcbMWxBIN) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！ アルバムシリーズ 紅月](https://open.spotify.com/album/2n2oBQlnhZm1CSS2SUp2SY) | 4:22 | 2024-04-26 |  |
+| [百花繚乱、紅月夜](https://open.spotify.com/track/2tU9EY1nufIeoOcbMWxBIN) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！ アルバムシリーズ 紅月](https://open.spotify.com/album/2n2oBQlnhZm1CSS2SUp2SY) | 4:22 | 2024-04-26 | 2025-01-25 |
 | [百花繚乱、紅月夜 \(2025 ver.\)](https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf) | [紅月](https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs) | [あんさんぶるスターズ！！ ESアイドルソング season5 紅月「百花繚乱、紅月夜」 \(2025 ver.\)](https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz) | 4:20 | 2025-01-08 |  |
 | [祝福のLibrary](https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie](https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF) | 4:03 | 2024-04-26 | 2024-12-21 |
 | [終わらないシンフォニア](https://open.spotify.com/track/4wCMUwMxEl4pgMq9RAQBmm) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！アルバムシリーズ fine](https://open.spotify.com/album/4z49lX1K56H1WPOgE12LMl) | 4:11 | 2024-11-09 |  |

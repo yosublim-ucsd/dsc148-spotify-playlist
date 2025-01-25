@@ -1,29 +1,13 @@
 {
-  "description": "The <a href=\"https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245\">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap ",
-  "num_followers": 1175628,
+  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Lorem, just another word for...</a> Cover: Djo",
+  "num_followers": 1175742,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5KcIwAAAADbt9TkIKj+Go+i8mROLYQ7",
+  "snapshot_id": "Z5RArAAAAABnIQQRdk0cUfkYdm0ROvuo",
   "tracks": [
-    {
-      "added_at": "2025-01-17 05:00:48",
-      "album": {
-        "name": "LIE DOWN..",
-        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 309381,
-      "name": "LIE DOWN..",
-      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
-    },
     {
       "added_at": "2025-01-23 19:44:34",
       "album": {
@@ -41,20 +25,20 @@
       "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
     },
     {
-      "added_at": "2025-01-15 16:08:53",
+      "added_at": "2025-01-24 05:28:49",
       "album": {
-        "name": "shoreline",
-        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
       },
       "artists": [
         {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         }
       ],
-      "duration_ms": 244473,
-      "name": "shoreline",
-      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
+      "duration_ms": 236893,
+      "name": "Girl Feels Good",
+      "url": "https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV"
     },
     {
       "added_at": "2025-01-21 20:48:26",
@@ -71,22 +55,6 @@
       "duration_ms": 215338,
       "name": "Headlock",
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
-    },
-    {
-      "added_at": "2025-01-21 20:48:26",
-      "album": {
-        "name": "Eusexua",
-        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Eusexua",
-      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
     },
     {
       "added_at": "2025-01-23 19:44:34",
@@ -121,6 +89,22 @@
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
+      "added_at": "2025-01-24 05:28:49",
+      "album": {
+        "name": "Basic Being Basic",
+        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+    },
+    {
       "added_at": "2025-01-16 18:42:36",
       "album": {
         "name": "Foxbase Alpha",
@@ -137,6 +121,54 @@
       "url": "https://open.spotify.com/track/2l2JonC9Mmrqs5sC7G0SlD"
     },
     {
+      "added_at": "2025-01-24 05:28:49",
+      "album": {
+        "name": "Enything",
+        "url": "https://open.spotify.com/album/5dOyFR717iZJDNeOoWtHQj"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 281526,
+      "name": "Enything",
+      "url": "https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO"
+    },
+    {
+      "added_at": "2025-01-17 05:00:48",
+      "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
+    },
+    {
+      "added_at": "2025-01-21 20:48:26",
+      "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
+    },
+    {
       "added_at": "2025-01-17 05:00:48",
       "album": {
         "name": "you were mine",
@@ -151,6 +183,22 @@
       "duration_ms": 221584,
       "name": "you were mine",
       "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
+    },
+    {
+      "added_at": "2025-01-15 16:08:53",
+      "album": {
+        "name": "shoreline",
+        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 244473,
+      "name": "shoreline",
+      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
     },
     {
       "added_at": "2024-11-15 00:36:59",
@@ -201,6 +249,22 @@
       "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
     },
     {
+      "added_at": "2025-01-24 05:28:49",
+      "album": {
+        "name": "Raw Blue",
+        "url": "https://open.spotify.com/album/7sjPkabCV2TmmnlitookOK"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 265074,
+      "name": "Raw Blue",
+      "url": "https://open.spotify.com/track/0jJQSNZdmRyVgBSFsNuGXJ"
+    },
+    {
       "added_at": "2025-01-17 05:00:48",
       "album": {
         "name": "flora maniia",
@@ -217,20 +281,20 @@
       "url": "https://open.spotify.com/track/72IYR4cNkBipxd5yChDAKB"
     },
     {
-      "added_at": "2025-01-17 05:00:48",
+      "added_at": "2025-01-24 05:28:49",
       "album": {
-        "name": "Bovine Excision",
-        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
+        "name": "no good",
+        "url": "https://open.spotify.com/album/1Tj19geckD4ZtT3ZyJpVPl"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "OHYUNG",
+          "url": "https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG"
         }
       ],
-      "duration_ms": 173177,
-      "name": "Bovine Excision",
-      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
+      "duration_ms": 251164,
+      "name": "no good",
+      "url": "https://open.spotify.com/track/5tFuR5TIvYsH7uj9liPEaQ"
     },
     {
       "added_at": "2025-01-15 16:08:53",
@@ -297,6 +361,22 @@
       "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
     },
     {
+      "added_at": "2025-01-17 05:00:48",
+      "album": {
+        "name": "Bovine Excision",
+        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 173177,
+      "name": "Bovine Excision",
+      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
+    },
+    {
       "added_at": "2025-01-10 05:00:37",
       "album": {
         "name": "T&A",
@@ -313,20 +393,20 @@
       "url": "https://open.spotify.com/track/3FnEDWy3YuQh7EHekPsQfn"
     },
     {
-      "added_at": "2025-01-14 19:31:30",
+      "added_at": "2024-12-20 21:07:08",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1JnjcAIKQ9TSJFVFierTB8"
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 237640,
-      "name": "Bel Air",
-      "url": "https://open.spotify.com/track/1OI3ZMcABE1U7hnhf9BENL"
+      "duration_ms": 205214,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r"
     },
     {
       "added_at": "2025-01-17 05:00:48",
@@ -395,22 +475,6 @@
       "duration_ms": 189600,
       "name": "Omophagia",
       "url": "https://open.spotify.com/track/1Mr3Q6p42q7REF5DAuhtj6"
-    },
-    {
-      "added_at": "2024-12-20 21:07:08",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 205214,
-      "name": "Another Life",
-      "url": "https://open.spotify.com/track/4tfOoCcYPtb08J5HWlSo3r"
     },
     {
       "added_at": "2025-01-17 05:00:48",
@@ -1441,26 +1505,6 @@
       "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
     },
     {
-      "added_at": "2025-01-22 18:19:25",
-      "album": {
-        "name": "Just A Western (Boy Harsher Remix)",
-        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        },
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 241379,
-      "name": "Just A Western - Boy Harsher Remix",
-      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Scantily Clad",
@@ -1539,22 +1583,6 @@
       "duration_ms": 212927,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
-    },
-    {
-      "added_at": "2025-01-22 18:19:25",
-      "album": {
-        "name": "C,XOXO (Magic City Edition)",
-        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "B.O.A.T.",
-      "url": "https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6"
     },
     {
       "added_at": "2024-10-04 04:00:00",

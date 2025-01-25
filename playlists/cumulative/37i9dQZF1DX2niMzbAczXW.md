@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2niMzbAczXW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2niMzbAczXW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2niMzbAczXW)
 
-### [COWBOY BEBOP \-カウボーイビバップ\-](https://open.spotify.com/playlist/37i9dQZF1DX2niMzbAczXW)
+### [COWBOY BEBOP](https://open.spotify.com/playlist/37i9dQZF1DX2niMzbAczXW)
 
-> Enjoy the world of “COWBOY BEBOP”! アニメ「カウボーイビバップ」の世界を1つのプレイリストで！©SUNRISE
+> Enjoy the world of “COWBOY BEBOP” ©SUNRISE
 
 102 songs - 6 hr 55 min
 

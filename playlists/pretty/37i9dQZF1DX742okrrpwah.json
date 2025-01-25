@@ -1,12 +1,12 @@
 {
   "description": "Teddy Swims au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 359684,
+  "num_followers": 360281,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LKCQAAAABOOOzijSTG75AdoFVQ5392",
+  "snapshot_id": "Z5NSvQAAAABtuFUkv2K4zO2CwEj90uEN",
   "tracks": [
     {
       "added_at": "2025-01-23 23:00:25",
@@ -271,6 +271,22 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "added_at": "2025-01-24 08:43:41",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -737,7 +753,7 @@
         },
         {
           "name": "North West",
-          "url": "https://open.spotify.com/artist/0FA269a5zotCJp9gK55Hcs"
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
         }
       ],
       "duration_ms": 150773,
@@ -775,6 +791,26 @@
       "duration_ms": 159813,
       "name": "Call Of",
       "url": "https://open.spotify.com/track/1MbnWmMVrMZZdXtJu5Aepb"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -942,10 +978,6 @@
         {
           "name": "Morad",
           "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Booska-P",
-          "url": "https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh"
         }
       ],
       "duration_ms": 169248,
@@ -1536,7 +1568,7 @@
           "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
         }
       ],
-      "duration_ms": 94500,
+      "duration_ms": 94000,
       "name": "materiaL hor$e",
       "url": "https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q"
     },

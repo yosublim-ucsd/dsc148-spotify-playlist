@@ -1,15 +1,35 @@
 {
-  "description": "Fresh Punjabi Rap. Cover: Chani Nattan, Inderpal Moga & Sukha",
-  "num_followers": 40496,
+  "description": "Nava Hip-Hop Punjabi! Cover: tricksingh",
+  "num_followers": 40523,
   "original_name": "New Rap Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z49TzwAAAAB1uJkH/X344aU9aQmPOGIm",
+  "snapshot_id": "Z5O8nAAAAABeLBeeVNHOabGsevQL94Fz",
   "tracks": [
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "WITH ALL DUE DISRESPECT",
+        "url": "https://open.spotify.com/album/0pQjT5bGs5THjcJEK1UpGa"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "duration_ms": 163326,
+      "name": "FUCKER WITH THE FLOW",
+      "url": "https://open.spotify.com/track/7b7WzNRbqWM7Jb2FNZS1NM"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Sicario",
         "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "HUNDO",
         "url": "https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Punjab Side",
         "url": "https://open.spotify.com/album/3J3fbc0gObeq2U7UlBblSo"
@@ -73,27 +93,7 @@
       "url": "https://open.spotify.com/track/2iYo0ZV94uTjcTvnILatmf"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PGkyiUJgwkZLnGsKwQX2s"
-      },
-      "artists": [
-        {
-          "name": "R Nait",
-          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
-        },
-        {
-          "name": "Syphr",
-          "url": "https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM"
-        }
-      ],
-      "duration_ms": 136533,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5lTZyjvGnA9HpARZS7knTb"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "TEST DRIVE",
         "url": "https://open.spotify.com/album/6F7GKw9i5afmAGi1ZSnAqz"
@@ -117,7 +117,31 @@
       "url": "https://open.spotify.com/track/4nUxzShEPETd5QX5DNNws2"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "Brat",
+        "url": "https://open.spotify.com/album/0IxXM1yXTKjECCAlaTxIlY"
+      },
+      "artists": [
+        {
+          "name": "Heera Kunder",
+          "url": "https://open.spotify.com/artist/7ASDFNNpurzlYyrXT9cACh"
+        },
+        {
+          "name": "Daddy Beats",
+          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
+        },
+        {
+          "name": "Meaow",
+          "url": "https://open.spotify.com/artist/7FHbO6Lm0DJbdwPRkp3mqQ"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "Brat",
+      "url": "https://open.spotify.com/track/5Jugrt4U7Xa0FPw7YvjXWU"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/5hh3dwYGighmN4Rb7lvBwb"
@@ -133,23 +157,7 @@
       "url": "https://open.spotify.com/track/7sX6jOlmeiFp4KBcYdjF3A"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "Sicario",
-        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
@@ -165,7 +173,43 @@
       "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "WITH ALL DUE DISRESPECT",
+        "url": "https://open.spotify.com/album/0pQjT5bGs5THjcJEK1UpGa"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "duration_ms": 144804,
+      "name": "CHAAR BORDER PAAR",
+      "url": "https://open.spotify.com/track/1DVApJcniHmTSCzm2ZLZ6B"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "GG",
         "url": "https://open.spotify.com/album/3B1FhuvH8Nl68eESJpiArG"
@@ -181,7 +225,7 @@
       "url": "https://open.spotify.com/track/1VdKsYkSBX2SObNrROtwjO"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Parameters",
         "url": "https://open.spotify.com/album/36owvSVQ9X2k1CEE2aSiTX"
@@ -201,7 +245,27 @@
       "url": "https://open.spotify.com/track/70mtJtGHK7dVCboKkhIFCv"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PGkyiUJgwkZLnGsKwQX2s"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Syphr",
+          "url": "https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM"
+        }
+      ],
+      "duration_ms": 136533,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5lTZyjvGnA9HpARZS7knTb"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "STARFACE",
         "url": "https://open.spotify.com/album/1J7hFM273iBvqjfPx0PPmq"
@@ -209,11 +273,11 @@
       "artists": [
         {
           "name": "The Kidd",
-          "url": "https://open.spotify.com/artist/69NQgCPPwq05n5zewAYd8c"
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
         },
         {
           "name": "Ilam",
-          "url": "https://open.spotify.com/artist/5pB85Z8kuXW8shdMReACvc"
+          "url": "https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT"
         }
       ],
       "duration_ms": 144000,
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/1sfsjPiKMRvPLQmKifR27i"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/5Siy0qCtL6AH7usGrS7KaU"
@@ -237,7 +301,7 @@
       "url": "https://open.spotify.com/track/0XmC9isScjR1DJEDZhPcsR"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Colony",
         "url": "https://open.spotify.com/album/4YWcq7QtdxkcJEpAhH4lYe"
@@ -253,7 +317,7 @@
       "url": "https://open.spotify.com/track/63MGLh1VeCyzCC6CAZaNLc"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Bore",
         "url": "https://open.spotify.com/album/7poK3d3NJUZiKq2S9rRX1r"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/6Txn9w8r6exq6wEg6CL2pH"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Sigma",
         "url": "https://open.spotify.com/album/07SVxPTvANcxc6pMFhlC94"
@@ -297,7 +361,59 @@
       "url": "https://open.spotify.com/track/1eXSfpPY8IB68u0es7t9eE"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "WITH ALL DUE DISRESPECT",
+        "url": "https://open.spotify.com/album/0pQjT5bGs5THjcJEK1UpGa"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "duration_ms": 106836,
+      "name": "GENERATIONAL",
+      "url": "https://open.spotify.com/track/7EEV4uWbHvFj9zE5taVKyh"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "I \"M\" Possible",
+        "url": "https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43"
+      },
+      "artists": [
+        {
+          "name": "NIJJAR",
+          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
+        }
+      ],
+      "duration_ms": 183821,
+      "name": "Kaim",
+      "url": "https://open.spotify.com/track/0NTkmAMoSNWQ8cFVZEFrKB"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "LSD",
         "url": "https://open.spotify.com/album/6AFSLzgh1u7s7vpbBGsnjZ"
@@ -317,7 +433,7 @@
       "url": "https://open.spotify.com/track/5PT1znVzJhx4WUC9ezsSba"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Cheek",
         "url": "https://open.spotify.com/album/2h9Qf8fh0eEihKKgtpFXTr"
@@ -337,23 +453,7 @@
       "url": "https://open.spotify.com/track/2uYnwVbFTXGgXTIF55XI9v"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "Sicario",
-        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Bars",
-      "url": "https://open.spotify.com/track/3VBjpYmyCGOr06tZtjuOVu"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Escobar",
         "url": "https://open.spotify.com/album/48sFZClAG8IvpjS3LYYon4"
@@ -369,7 +469,7 @@
       "url": "https://open.spotify.com/track/5Ar1HIezILlPKgYUn9Ruz9"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Russian Bandana (Punjabi Version)",
         "url": "https://open.spotify.com/album/04bpZkDk8XFVe0KpYWYVem"
@@ -385,7 +485,7 @@
       "url": "https://open.spotify.com/track/4OfC2MGw49esB4COewRwYV"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "What Else ?",
         "url": "https://open.spotify.com/album/3job1rw4Ymmg34d6hRHYKo"
@@ -401,7 +501,7 @@
       "url": "https://open.spotify.com/track/4VA4swn4zSD48mL7F6kcT7"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Winning Folk's",
         "url": "https://open.spotify.com/album/26dWlC6ggVJSAVwE24afvP"
@@ -417,7 +517,7 @@
       "url": "https://open.spotify.com/track/3iipYe0AbbjWYpa8Y05cO1"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "God Father",
         "url": "https://open.spotify.com/album/5a1uJMsluMCKlYQSV3Wdyt"
@@ -437,7 +537,23 @@
       "url": "https://open.spotify.com/track/7kpPJRde66DRLOmqRtkyl6"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
+      "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Bars",
+      "url": "https://open.spotify.com/track/3VBjpYmyCGOr06tZtjuOVu"
+    },
+    {
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Nazare",
         "url": "https://open.spotify.com/album/1eU1YyzA2qJDPDqPRAa3GA"
@@ -453,7 +569,7 @@
       "url": "https://open.spotify.com/track/0Qn6EFbONvtOHlMdx8SEPT"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/5nq1H0zG0LN6uaBE4YJLKy"
@@ -469,7 +585,7 @@
       "url": "https://open.spotify.com/track/4JYk1cLcpJjJChjjCNT97x"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Old Skool",
         "url": "https://open.spotify.com/album/2wlVGZmlhYvicoFtfKcTIh"
@@ -485,7 +601,7 @@
       "url": "https://open.spotify.com/track/3tXuFOowQ7SamPWnzst75j"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/0qNt44oK9mQrBzKrzE1Hna"
@@ -505,7 +621,7 @@
       "url": "https://open.spotify.com/track/5Grs9MEerG6BGPX7s9UAyS"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/4S2lKrS9IsNwIq1zHgKitR"
@@ -525,7 +641,7 @@
       "url": "https://open.spotify.com/track/5EQCNhTYfFaa0KQj2OZPm5"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/5kl4CwRrqXmk9ERRpZTHV1"
@@ -545,7 +661,7 @@
       "url": "https://open.spotify.com/track/1bI7RJMQzNPRyc1SYabY0H"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Desi Hood",
         "url": "https://open.spotify.com/album/0BUGgVVyQ6FGVHBqEc1aVT"
@@ -561,7 +677,7 @@
       "url": "https://open.spotify.com/track/53DWoWiuuIvwHyKKWW2TRU"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Banger",
         "url": "https://open.spotify.com/album/1h24R2SCtFu8Q1Du0J7bmH"
@@ -577,7 +693,7 @@
       "url": "https://open.spotify.com/track/6mHs7AjwYCdkb9xT7NcD4S"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Don't Stress",
         "url": "https://open.spotify.com/album/6tjl3au4LKY8Ktz1GkzuE5"
@@ -601,7 +717,7 @@
       "url": "https://open.spotify.com/track/5kbr3I2frP3xoxBAFCE9U9"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Who's That Boy",
         "url": "https://open.spotify.com/album/64vOiVH7EJ4AF6gvg2T109"
@@ -621,7 +737,7 @@
       "url": "https://open.spotify.com/track/7qEbeSUmsRg3w1vJ29aktD"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Links",
         "url": "https://open.spotify.com/album/60S8AvGNNAmYkeK2RgJODY"
@@ -641,7 +757,7 @@
       "url": "https://open.spotify.com/track/2xaC6YEI9n8HpzxnI2K5t5"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Doabe Aale",
         "url": "https://open.spotify.com/album/3Z1OGHurkCl1iD9nODEEgq"
@@ -661,7 +777,7 @@
       "url": "https://open.spotify.com/track/4giuDqNTVBjFSFbvXe5faK"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Warriors Honour",
         "url": "https://open.spotify.com/album/5iNzw2rmrjRPgoB4p9CbgN"
@@ -681,7 +797,7 @@
       "url": "https://open.spotify.com/track/3jf41pbEadrfqfbf58LdDo"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "2025 FLOW",
         "url": "https://open.spotify.com/album/7rhYIxUBvfOSO5QuCoMVKx"
@@ -701,7 +817,7 @@
       "url": "https://open.spotify.com/track/0o6j2OLr5tUvpGldAYjLUw"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Knock Out",
         "url": "https://open.spotify.com/album/0ZNiNTFJP2NhsrhWihtSPk"
@@ -721,7 +837,7 @@
       "url": "https://open.spotify.com/track/0ZB0r2hhVcletU076W6v9y"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/5Siy0qCtL6AH7usGrS7KaU"
@@ -737,7 +853,7 @@
       "url": "https://open.spotify.com/track/0apu9olWa3pa5JoXljuDeT"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Puadh Ki Vaar",
         "url": "https://open.spotify.com/album/0LJ0Hobb9xIoVWK4BUvKy2"
@@ -753,7 +869,7 @@
       "url": "https://open.spotify.com/track/6HGtJUnsIZ8GaYkvT2tkgk"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "3 Case",
         "url": "https://open.spotify.com/album/4QdzzhZ3KL5mxEbihrajXs"
@@ -773,7 +889,7 @@
       "url": "https://open.spotify.com/track/29LOwNLNY7U5gbrtDQhS6r"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Jungli",
         "url": "https://open.spotify.com/album/3iPPqaX73obBXLWbkB7PXK"
@@ -793,7 +909,7 @@
       "url": "https://open.spotify.com/track/61Ttaf7MkJWuZo1nWH4ZGU"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Parda",
         "url": "https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4"
@@ -821,7 +937,7 @@
       "url": "https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Yaari Hood",
         "url": "https://open.spotify.com/album/1TbrlWZMAK2Cqni47DRdI6"
@@ -837,7 +953,7 @@
       "url": "https://open.spotify.com/track/72lykxjGBmwCq8RMtchJDS"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Wrong Life",
         "url": "https://open.spotify.com/album/1WueoOL4Hu6L8A4eSw6Q13"
@@ -865,7 +981,7 @@
       "url": "https://open.spotify.com/track/7F4c5Xio4eQLI1VuzPAOaO"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Different League",
         "url": "https://open.spotify.com/album/6DuMKfBvNksZL5iwiRXUWt"
@@ -889,7 +1005,7 @@
       "url": "https://open.spotify.com/track/3tK8v9IEB5oO07ww4zf2ND"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Step Off",
         "url": "https://open.spotify.com/album/1Bk4eBrF6sqCuROPRPz64L"
@@ -909,7 +1025,7 @@
       "url": "https://open.spotify.com/track/22IxDIvUChzzwbElWLeIVE"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/5N9L6tYacD0NXNZZbbDWde"
@@ -929,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6kprKPgyWUBzNyXLze0Otd"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Chase",
         "url": "https://open.spotify.com/album/2oD59l8aV0NkxaVKpLKMMS"
@@ -945,23 +1061,7 @@
       "url": "https://open.spotify.com/track/2Du6igdtpo8uRtRgs9zg0S"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/3RMcMUuJ0YiDz6zDeRnrCO"
-      },
-      "artists": [
-        {
-          "name": "Iqbal",
-          "url": "https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp"
-        }
-      ],
-      "duration_ms": 182741,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3o2GS3lgHVk0F4RYC0bIA0"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Take Notes",
         "url": "https://open.spotify.com/album/7GuRYgr68KDBHH3qkyDKJz"
@@ -981,23 +1081,7 @@
       "url": "https://open.spotify.com/track/5efskZFM1q5dOYrnXRsW4F"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "I \"M\" Possible",
-        "url": "https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43"
-      },
-      "artists": [
-        {
-          "name": "NIJJAR",
-          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
-        }
-      ],
-      "duration_ms": 183821,
-      "name": "Kaim",
-      "url": "https://open.spotify.com/track/0NTkmAMoSNWQ8cFVZEFrKB"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Baari Barsi",
         "url": "https://open.spotify.com/album/25NoXODrqtkM9xd75MnL9Q"
@@ -1021,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2HGJVQdduQ756MmKArW0Vj"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "C4",
         "url": "https://open.spotify.com/album/1wvMCYQ1JGhnV6rsUS7xqC"
@@ -1041,7 +1125,7 @@
       "url": "https://open.spotify.com/track/1114qWncoGza22TR62wiTh"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Professor",
         "url": "https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP"
@@ -1065,7 +1149,7 @@
       "url": "https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Sultan Rahi",
         "url": "https://open.spotify.com/album/5S3aMciVvdj3cl0X39UMWj"
@@ -1085,7 +1169,7 @@
       "url": "https://open.spotify.com/track/6xynqprt4AGDohJraoSEhZ"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "I \"M\" Possible",
         "url": "https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43"
@@ -1101,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0nhMNbpjXFDJCAyAoorfMN"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Hustler",
         "url": "https://open.spotify.com/album/04G5wa2MYgirsIXWESITcn"
@@ -1121,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2OcY01R8TlA3co5aDHJG2G"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "The Flow",
         "url": "https://open.spotify.com/album/21ZSpe7ee0L2wQz9PRoJXg"
@@ -1141,7 +1225,7 @@
       "url": "https://open.spotify.com/track/1Pk7D9aRHKhfu9A5BN18Jf"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "4 Da Gang",
         "url": "https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH"
@@ -1157,7 +1241,7 @@
       "url": "https://open.spotify.com/track/1jFtGMCWES8Z9UfivWVhuy"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Now They See",
         "url": "https://open.spotify.com/album/77aaKtyfnKa4FC3r3Z1tub"
@@ -1177,7 +1261,7 @@
       "url": "https://open.spotify.com/track/4tgZJA6om51mMKozSljKnQ"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/6IAcOAoiDp8x5qUdr0YyqU"
@@ -1197,7 +1281,7 @@
       "url": "https://open.spotify.com/track/6TYZu7oyO4cVHaYP9QJyAt"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Ranjha Criminal",
         "url": "https://open.spotify.com/album/00HLcnCuuB0fDm4gPJFisX"
@@ -1217,23 +1301,7 @@
       "url": "https://open.spotify.com/track/4HvZjBDXmrSKSVHODa43Qa"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "Link",
-        "url": "https://open.spotify.com/album/6d6kAyu48tZW5a43LPzX1x"
-      },
-      "artists": [
-        {
-          "name": "Jaani Jakhepal",
-          "url": "https://open.spotify.com/artist/4J5pgkNXWLEtyPR0wDyJwX"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Link",
-      "url": "https://open.spotify.com/track/5hTAVFqScpqsdppfU7Ntcg"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Patandar",
         "url": "https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh"
@@ -1249,27 +1317,7 @@
       "url": "https://open.spotify.com/track/4DSrqUJX30NN9Gip0BSB7c"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "Fortune Flow",
-        "url": "https://open.spotify.com/album/5ekbJghLmnTKUh1esfdEte"
-      },
-      "artists": [
-        {
-          "name": "Sagar Bhatoa",
-          "url": "https://open.spotify.com/artist/63l0cVf3XrP2qcTNVjuhS5"
-        },
-        {
-          "name": "Lavish Dhiman",
-          "url": "https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc"
-        }
-      ],
-      "duration_ms": 144566,
-      "name": "Fortune Flow",
-      "url": "https://open.spotify.com/track/2mpPbUicGRYOXVif9TMYiI"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Desi Jatt",
         "url": "https://open.spotify.com/album/4BjxiS88Mhi8Ts0ScjJk0r"
@@ -1285,23 +1333,7 @@
       "url": "https://open.spotify.com/track/0NrEFzswvLKRRzTKgJ8DFu"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "Five - O",
-        "url": "https://open.spotify.com/album/0dxGtJMmOFBSZCMcu8TTwn"
-      },
-      "artists": [
-        {
-          "name": "PB5 Bawa",
-          "url": "https://open.spotify.com/artist/0JUoKtGanhfpyPNEwaTVDa"
-        }
-      ],
-      "duration_ms": 192995,
-      "name": "Five - O",
-      "url": "https://open.spotify.com/track/467Y30r6HtSYuLrF4LwYIm"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "MTCD",
         "url": "https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq"
@@ -1321,7 +1353,7 @@
       "url": "https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/53hhOMLONIzABRycuPn47x"
@@ -1341,7 +1373,7 @@
       "url": "https://open.spotify.com/track/4VXPY3Caz6Tmmfh5WQJ8ih"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4xgtLuP2QVVRyG54TNlfbK"
@@ -1357,27 +1389,7 @@
       "url": "https://open.spotify.com/track/6szgLz2R9DuvttnAb0BiY4"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
-      "album": {
-        "name": "Mere Wallon",
-        "url": "https://open.spotify.com/album/6BN9wFU6czz81EShkSGJhj"
-      },
-      "artists": [
-        {
-          "name": "Romey Maan",
-          "url": "https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg"
-        },
-        {
-          "name": "Sulfa",
-          "url": "https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0"
-        }
-      ],
-      "duration_ms": 174468,
-      "name": "Mere Wallon",
-      "url": "https://open.spotify.com/track/7fBTt5sTxWAFlT6LlCrocn"
-    },
-    {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "4 Da Gang",
         "url": "https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH"
@@ -1393,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0nYq0xnkv00EZMylciD3XY"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "Cash Flow",
         "url": "https://open.spotify.com/album/6oToj3eQlsBeuKcZnFBE2t"
@@ -1417,7 +1429,7 @@
       "url": "https://open.spotify.com/track/3N8QJXbV2PjxbkC1wVMNdu"
     },
     {
-      "added_at": "2025-01-21 07:59:11",
+      "added_at": "2025-01-24 16:15:24",
       "album": {
         "name": "CULLINAN",
         "url": "https://open.spotify.com/album/5JzoIApW11QEo5xKj0NJhl"

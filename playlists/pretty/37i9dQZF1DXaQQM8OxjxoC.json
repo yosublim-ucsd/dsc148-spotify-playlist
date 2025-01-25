@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 115507,
+  "num_followers": 115553,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Brahms: 4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
+        "url": "https://open.spotify.com/album/6Aj0UehiTC5FPW590ywIbd"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Jeremy Denk",
+          "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
+        }
+      ],
+      "duration_ms": 235573,
+      "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
+      "url": "https://open.spotify.com/track/77StsLxzzl5SD77dwTp45y"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Johannes Brahms - Sonaten f\u00fcr Viola und Klavier",
         "url": "https://open.spotify.com/album/3yiMLkiQKbp7yed4opl90W"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 509626,
       "name": "Viola Sonata in E-Flat Major, Op. 120 No. 2: I. Allegro amabile",
       "url": "https://open.spotify.com/track/5n59IoAAGpJrGuY0bJVh2I"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Brahms: 4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
-        "url": "https://open.spotify.com/album/6Aj0UehiTC5FPW590ywIbd"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Jeremy Denk",
-          "url": "https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP"
-        }
-      ],
-      "duration_ms": 235573,
-      "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
-      "url": "https://open.spotify.com/track/77StsLxzzl5SD77dwTp45y"
     },
     {
       "added_at": "2022-09-30 04:00:00",

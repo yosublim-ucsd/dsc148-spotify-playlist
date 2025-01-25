@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones.  en portada. Codiciado en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones.  Aldo Trujillo en portada.",
   "name": "Corridos 2025",
   "tracks": [
     {
@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Animate",
+        "url": "https://open.spotify.com/album/66BMRPRbEe7HU5Zt3aPAUP"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154026,
+      "name": "Animate",
+      "url": "https://open.spotify.com/track/3IFDLF58iL3P0F7XMjHMMF"
+    },
+    {
+      "album": {
         "name": "Los de Encargo",
         "url": "https://open.spotify.com/album/0plhq5tBqUttzN7yFpXaj9"
       },
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 193898,
       "name": "Armados",
       "url": "https://open.spotify.com/track/77nszaM1mzW02JUMf6w9nd"
@@ -2587,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Blackjack",
+        "url": "https://open.spotify.com/album/4meU6vwQy6izFIInCZTPOm"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173430,
+      "name": "Blackjack",
+      "url": "https://open.spotify.com/track/21u72Pe9uaOlLOhk6LGkcf"
+    },
+    {
+      "album": {
         "name": "Blanca Nieves",
         "url": "https://open.spotify.com/album/70riXpr57NKCdX0b6h2siw"
       },
@@ -2688,6 +2724,24 @@
       "duration_ms": 143146,
       "name": "Bola De Envidiosos",
       "url": "https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S"
+    },
+    {
+      "album": {
+        "name": "AXEL",
+        "url": "https://open.spotify.com/album/5e7ipY8CPfWFLJ56Y1483l"
+      },
+      "artists": [
+        {
+          "name": "Axel Coronado",
+          "url": "https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153706,
+      "name": "Bolsa Manchada",
+      "url": "https://open.spotify.com/track/1hzmILy2JJsyt0H7w8Gt0S"
     },
     {
       "album": {
@@ -6175,6 +6229,28 @@
     },
     {
       "album": {
+        "name": "El 3",
+        "url": "https://open.spotify.com/album/6gtATD4kCcrjfnYSchrG0M"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "El 3",
+      "url": "https://open.spotify.com/track/33AIdiKIDEjHB9lG3EtTOD"
+    },
+    {
+      "album": {
         "name": "El 3 De Durango",
         "url": "https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm"
       },
@@ -8684,7 +8760,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 143680,
       "name": "El Favorito (Chalo Araujo)",
       "url": "https://open.spotify.com/track/0gThcCWyJO0kiob48Peye5"
@@ -9284,7 +9360,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 211866,
       "name": "El G\u00fcero Rey del Pop",
       "url": "https://open.spotify.com/track/5H4qUtRQC0rJxWolOaEaPy"
@@ -11180,7 +11256,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 265610,
       "name": "El Primito",
       "url": "https://open.spotify.com/track/1zh4DhpFFRqRr08HMMrTvA"
@@ -13494,6 +13570,28 @@
       "duration_ms": 117260,
       "name": "Estilos Distintos (Versi\u00f3n Banda)",
       "url": "https://open.spotify.com/track/0DM0Ajf4ZXoreMnOeDkYCx"
+    },
+    {
+      "album": {
+        "name": "Con Tokio",
+        "url": "https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "El Compa JD",
+          "url": "https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153388,
+      "name": "Estoy Carita",
+      "url": "https://open.spotify.com/track/7jaMFGMuicBDg6hc39OS42"
     },
     {
       "album": {
@@ -17298,7 +17396,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 155403,
       "name": "La Meta",
       "url": "https://open.spotify.com/track/60J52I2dRWoc5K3KbN2Hx6"
@@ -17706,7 +17804,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 172006,
       "name": "La Sierrita",
       "url": "https://open.spotify.com/track/1p5uH0Mvsncir0kPaWNwoh"
@@ -20961,6 +21059,28 @@
     },
     {
       "album": {
+        "name": "Mi Viaje",
+        "url": "https://open.spotify.com/album/5LuK14q66KOfObu1k8Jg3g"
+      },
+      "artists": [
+        {
+          "name": "Jaime Y Fernando",
+          "url": "https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm"
+        },
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186193,
+      "name": "Mi Viaje",
+      "url": "https://open.spotify.com/track/53S15456rt1CeCFDBjug6F"
+    },
+    {
+      "album": {
         "name": "Mi Vida Mis Gustos",
         "url": "https://open.spotify.com/album/5HAFlblyEArfjdxWpCpcbQ"
       },
@@ -21558,7 +21678,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 199000,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/7ojxKoDddEnm7dOuQrCi0Z"
@@ -23388,7 +23508,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 187063,
       "name": "Por Clave P1",
       "url": "https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR"
@@ -24463,6 +24583,28 @@
     },
     {
       "album": {
+        "name": "Respeto El Comentario (En Vivo)",
+        "url": "https://open.spotify.com/album/3l4SxZaWndcO4B4OdVj9T2"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201662,
+      "name": "Respeto El Comentario (En Vivo)",
+      "url": "https://open.spotify.com/track/4bK5hf33BQHGGEzEVUL0VQ"
+    },
+    {
+      "album": {
         "name": "Ricky Ricon",
         "url": "https://open.spotify.com/album/1NzJ1HnEx3aIv4Jqa28fBz"
       },
@@ -24588,7 +24730,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 177590,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
@@ -25827,6 +25969,24 @@
     },
     {
       "album": {
+        "name": "SMOKING",
+        "url": "https://open.spotify.com/album/0qJe3Gd8xCEzeIJsZI9h9W"
+      },
+      "artists": [
+        {
+          "name": "Hector Rubio",
+          "url": "https://open.spotify.com/artist/2uSJ9ywE44eIRoTMatARAy"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147543,
+      "name": "Smoking",
+      "url": "https://open.spotify.com/track/6OXxkXMduFmgRuvBpgjSyH"
+    },
+    {
+      "album": {
         "name": "Snacky",
         "url": "https://open.spotify.com/album/7cBx4L7KACUuvncWle7iOX"
       },
@@ -25998,7 +26158,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 173114,
       "name": "Son 4 Letras",
       "url": "https://open.spotify.com/track/6nscJz3NrjGywtsRhqunoI"
@@ -27375,6 +27535,28 @@
     },
     {
       "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/0LYJfeFcoFq7sJKTF3djRI"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174485,
+      "name": "Un 2X3",
+      "url": "https://open.spotify.com/track/7gPyZNuhbN4VWxgL6RsFyI"
+    },
+    {
+      "album": {
         "name": "Un Cabr\u00f3n Anda Suelto",
         "url": "https://open.spotify.com/album/0UjFjbugEamjgm7EQ3ORzx"
       },
@@ -28694,6 +28876,28 @@
       "duration_ms": 184533,
       "name": "Zona Roja R1",
       "url": "https://open.spotify.com/track/06xoj7olTITKHMB9iVgQsF"
+    },
+    {
+      "album": {
+        "name": "Zumbando",
+        "url": "https://open.spotify.com/album/69QHwlax8x6W9M2FixB2YD"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Alonso Ortiz",
+          "url": "https://open.spotify.com/artist/7cxq5jTv6N3KjPehEhnlXG"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163071,
+      "name": "Zumbando",
+      "url": "https://open.spotify.com/track/4i81ERie6TCR9iBjDfxbug"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Dengar lagu\-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia
 
-49 songs - 3 hr 16 min
+50 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Ragu](https://open.spotify.com/track/6pSRXKAwftu2a7KOjRlbz3) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Ragu](https://open.spotify.com/album/3FWd0eQDsSRsU2TK0ZYL8s) | 4:12 | 2023-02-23 |  |
 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 | 2023-02-23 | 2024-04-19 |
 | [Serba Salah](https://open.spotify.com/track/7xBXFplDgedkHsk8tYMzsB) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 4:22 | 2024-03-26 |  |
+| [Si Paling Mahir](https://open.spotify.com/track/13PG6EwYObFHU3hMWT5HBt) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Si Paling Mahir](https://open.spotify.com/album/0MLJXJNbm6XtlrWqPZ9vpE) | 4:15 | 2025-01-24 |  |
 | [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 | 2023-12-15 |  |
 | [Teka Teki](https://open.spotify.com/track/5FEcywzPnpul59cCsBmZ6p) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heart To Heart](https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB) | 3:30 | 2023-02-23 | 2024-04-19 |
 | [Teka Teki](https://open.spotify.com/track/613C0IwjG3e0qBZ8bUe9wh) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heart to Heart](https://open.spotify.com/album/4OaVx6l378wjkKkWEfSuj9) | 3:30 | 2024-03-26 |  |

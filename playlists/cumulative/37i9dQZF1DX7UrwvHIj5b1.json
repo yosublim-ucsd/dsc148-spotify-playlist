@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 373839,
       "name": "Bliss - Original Mix",
       "url": "https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20"
@@ -494,6 +494,24 @@
       "duration_ms": 336000,
       "name": "Encounter",
       "url": "https://open.spotify.com/track/0yd51BSGyLz852FDZjvK8Q"
+    },
+    {
+      "album": {
+        "name": "The Architects, Vol. 2: Alchemy",
+        "url": "https://open.spotify.com/album/3y5y4TcD0jxfGIdBCQA8D3"
+      },
+      "artists": [
+        {
+          "name": "Mystic State",
+          "url": "https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323134,
+      "name": "Even Further Dub",
+      "url": "https://open.spotify.com/track/520OpnxEGmwvqhjjveLbjI"
     },
     {
       "album": {

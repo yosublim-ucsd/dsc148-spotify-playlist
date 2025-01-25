@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUog0OWGDgtd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUog0OWGDgtd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUog0OWGDgtd)
 
-### [Bungo Stray Dogs 文豪ストレイドッグス](https://open.spotify.com/playlist/37i9dQZF1DWUog0OWGDgtd)
+### [Bungo Stray Dogs](https://open.spotify.com/playlist/37i9dQZF1DWUog0OWGDgtd)
 
-> Music from "Bungo Stray Dogs"\. 文豪ストレイドッグスの楽曲を1つのプレイリストで。©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
+> Music from "Bungo Stray Dogs"\. ©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
 
 67 songs - 4 hr 9 min
 

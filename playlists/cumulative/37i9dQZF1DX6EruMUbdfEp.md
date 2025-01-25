@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6EruMUbdfEp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6EruMUbdfEp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6EruMUbdfEp)
 
-### [鋼の錬金術師 FULLMETAL ALCHEMIST / FULLMETAL ALCHEMIST BROTHERHOOD](https://open.spotify.com/playlist/37i9dQZF1DX6EruMUbdfEp)
+### [FULLMETAL ALCHEMIST / FULLMETAL ALCHEMIST BROTHERHOOD](https://open.spotify.com/playlist/37i9dQZF1DX6EruMUbdfEp)
 
-> Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! / 音楽で辿る、2009年放送開始のアニメ「鋼の錬金術師 FULLMETAL ALCHEMIST」の世界。<a href="https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv?si=476b380d14f24147">鋼の錬金術師</a>\(2003年放送開始\)はこちら\(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
+> Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! \(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
 109 songs - 4 hr 33 min
 

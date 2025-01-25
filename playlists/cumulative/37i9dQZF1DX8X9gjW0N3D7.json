@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: St\u00e9phanie Boulay",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Pierre Lapointe",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 258540,
       "name": "Ami imaginaire",
       "url": "https://open.spotify.com/track/5fy9vWmI4x38nkNZIf67eR"
+    },
+    {
+      "album": {
+        "name": "Baby (Version fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/35xdutf5J4ypyLnZQl0LuZ"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226674,
+      "name": "Baby (Version fran\u00e7aise)",
+      "url": "https://open.spotify.com/track/0iaPZE774qhQg2I1OXpS7x"
     },
     {
       "album": {
@@ -564,7 +582,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 223560,
       "name": "Encore",
       "url": "https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS"
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 194480,
       "name": "Le poids",
       "url": "https://open.spotify.com/track/2q52DuDG1eGxriSt0wggM2"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 185573,
       "name": "L\u00e9o",
       "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
@@ -1733,6 +1751,24 @@
     },
     {
       "album": {
+        "name": "Quand m\u00eame",
+        "url": "https://open.spotify.com/album/5gUYflyaZi4JNtAkoJcRNJ"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "Quand m\u00eame",
+      "url": "https://open.spotify.com/track/1sC4zWgATUKk6hNnaWOeKa"
+    },
+    {
+      "album": {
         "name": "Quelque part",
         "url": "https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe"
       },
@@ -1939,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Tour de force",
+        "url": "https://open.spotify.com/album/7FZTXjf8KGLUZTdHA5PE90"
+      },
+      "artists": [
+        {
+          "name": "Renzo Rivolta",
+          "url": "https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "Si tu demandais",
+      "url": "https://open.spotify.com/track/5LFJRjiD32OZbLnaMSWWpj"
+    },
+    {
+      "album": {
         "name": "Sous terre",
         "url": "https://open.spotify.com/album/4FZAZueu52fRQLMZfbJPtO"
       },
@@ -1972,7 +2026,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 236826,
       "name": "St. Denis",
       "url": "https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n"
@@ -2362,6 +2416,24 @@
       "duration_ms": 173993,
       "name": "\u00c0 la bonne place au bon moment",
       "url": "https://open.spotify.com/track/2kEcw9Ek5Knk1qL8iyypqL"
+    },
+    {
+      "album": {
+        "name": "\u00c0 quand les vacances",
+        "url": "https://open.spotify.com/album/6DqlBT724KRL48bCsabY5y"
+      },
+      "artists": [
+        {
+          "name": "Jeanne C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "\u00c0 quand les vacances",
+      "url": "https://open.spotify.com/track/0TAzgVxTwP1cCPzkzyNsUU"
     },
     {
       "album": {

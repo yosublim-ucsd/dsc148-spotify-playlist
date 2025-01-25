@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. M\u00e9ne en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. Miranda Santizo en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 151449,
       "name": "ALGOD\u00d3N",
       "url": "https://open.spotify.com/track/5ChrHxifzFvm7Xw8W7Cdnm"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 115105,
       "name": "aunque digas que lo sientes (og)",
       "url": "https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 171000,
       "name": "Cambio De Ciudad",
       "url": "https://open.spotify.com/track/39rB0FtKibYVi5Lo9kD177"
@@ -926,6 +926,24 @@
       "duration_ms": 138000,
       "name": "Canci\u00f3n de Cuna Para mi Amor",
       "url": "https://open.spotify.com/track/7oVscokaAqXztmruCWVAXq"
+    },
+    {
+      "album": {
+        "name": "Capricho",
+        "url": "https://open.spotify.com/album/3NtAnlBQDSuLoBGtuO8coL"
+      },
+      "artists": [
+        {
+          "name": "FRNCE",
+          "url": "https://open.spotify.com/artist/6JgntWpSBHDYhbJbpMuD4f"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163137,
+      "name": "Capricho",
+      "url": "https://open.spotify.com/track/458cSEghPwtxKFE9O14bZy"
     },
     {
       "album": {
@@ -1277,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "DE NUEVO",
+        "url": "https://open.spotify.com/album/4FIzUwE5KHpj1EwOcWiC1G"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183996,
+      "name": "DE NUEVO",
+      "url": "https://open.spotify.com/track/2rZilRO9QcpDmLYjPPmyga"
+    },
+    {
+      "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/52Jmrr9uvQnQgJ47fnBgH7"
       },
@@ -1456,6 +1496,24 @@
       "duration_ms": 150346,
       "name": "drugz",
       "url": "https://open.spotify.com/track/0fhjJlerul4dkEudwle6Au"
+    },
+    {
+      "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/07Ro6kWfKX2zFf3rDzOZgz"
+      },
+      "artists": [
+        {
+          "name": "Costa Felina",
+          "url": "https://open.spotify.com/artist/742Og7D5C7u1USoNJHNiOT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/64yewFiUI9XUKqs92FMFcu"
     },
     {
       "album": {
@@ -1774,7 +1832,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 268909,
       "name": "Eterno",
       "url": "https://open.spotify.com/track/5XcDT7Lae6b5Q73qHBUtNQ"
@@ -1916,7 +1974,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 220706,
       "name": "Fugazi",
       "url": "https://open.spotify.com/track/0NkV5RzA3Nb3zS04eURa9b"
@@ -2685,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "MEDIO LLENO: medio vac\u00edo",
+        "url": "https://open.spotify.com/album/3B3jVJecGNaL1gaEvkHbwT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9rida",
+          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "MEDIO LLENO: medio vac\u00edo",
+      "url": "https://open.spotify.com/track/38uBvlxu8rchby9QF2mqbo"
+    },
+    {
+      "album": {
         "name": "MI CORAZ\u00d3N, coraz\u00f3n",
         "url": "https://open.spotify.com/album/1eSXjp1vmSn1pHrRu53jBR"
       },
@@ -2895,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "No Ha Sido F\u00e1cil",
+        "url": "https://open.spotify.com/album/6g7AUzGI96jcoN1SftAVMN"
+      },
+      "artists": [
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142135,
+      "name": "No Ha Sido F\u00e1cil",
+      "url": "https://open.spotify.com/track/3hZqPIMJkGF7mnivtVSyFn"
+    },
+    {
+      "album": {
         "name": "La M\u00e1quina Persona",
         "url": "https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP"
       },
@@ -3054,7 +3148,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 153984,
       "name": "Para Elisa",
       "url": "https://open.spotify.com/track/3oSfPOgansftRA56i0tcqJ"
@@ -3429,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Quisiera Viajar En El Tiempo",
+        "url": "https://open.spotify.com/album/6EyXIMcrAAvCtQR4iShx1F"
+      },
+      "artists": [
+        {
+          "name": "Alan Troy",
+          "url": "https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Quisiera Viajar En El Tiempo",
+      "url": "https://open.spotify.com/track/4VbjzlTMyY4nVMVhRHfpSb"
+    },
+    {
+      "album": {
         "name": "Red Pill",
         "url": "https://open.spotify.com/album/27coIALm5CqtoSdZ7lel7m"
       },
@@ -3476,10 +3588,28 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 141428,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/3TKXgblkumvEQOgscTjxnc"
+    },
+    {
+      "album": {
+        "name": "SAMPLE",
+        "url": "https://open.spotify.com/album/3O8Ne1bfLwW9ddFvltybCh"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "SAMPLE",
+      "url": "https://open.spotify.com/track/7BJnKDg5L76sozy9KPzJXN"
     },
     {
       "album": {
@@ -4060,7 +4190,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 228138,
       "name": "TODO CAMBI\u00d3",
       "url": "https://open.spotify.com/track/1jwOS9cqk6hfap3V8VcQnC"
@@ -4414,6 +4544,32 @@
       "duration_ms": 236181,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/2Y8KA0iCtLQa7G3gC5lPvv"
+    },
+    {
+      "album": {
+        "name": "Y Fue As\u00ed Que te Imagin\u00e9 (YFAQTI)",
+        "url": "https://open.spotify.com/album/0mRGH1QLqZa5LVHycEb02Z"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e1lico",
+          "url": "https://open.spotify.com/artist/3hhtfGYjabVZN2FwiONts6"
+        },
+        {
+          "name": "Iv\u00e1n Ivengo",
+          "url": "https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x"
+        },
+        {
+          "name": "Aldo Carpes",
+          "url": "https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220829,
+      "name": "Y Fue As\u00ed Que te Imagin\u00e9 (YFAQTI)",
+      "url": "https://open.spotify.com/track/4fe8e4Wg8uWTKklxfzEOY5"
     },
     {
       "album": {

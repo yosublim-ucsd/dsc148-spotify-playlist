@@ -2051,6 +2051,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Rise Up, Sing Out (Season 2)",
+        "url": "https://open.spotify.com/album/3lo4mPpHP1c3a6QNQiG1GM"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102677,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/0hoONVJGmyiawIHNPNyboJ"
+    },
+    {
+      "album": {
         "name": "Let's Play",
         "url": "https://open.spotify.com/album/2vijAF119YGvdaJpxHu5An"
       },

@@ -4,23 +4,24 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,458 likes - 14 songs - 48 min 25 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,458 likes - 15 songs - 52 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ZNAK](https://open.spotify.com/track/6MjRY9RZkbIatwVh0sBocS) | [nipplepeople](https://open.spotify.com/artist/0jhlqMZUO16o7MwU4VsUol) | [ZNAK](https://open.spotify.com/album/7gEuSEEx04PzKYQKDau85m) | 2:59 |
-| 2 | [Demons](https://open.spotify.com/track/3zdU9eUufJDF6IFc1zThAS) | [Cătălina Solomac](https://open.spotify.com/artist/5JJo3OJiLGZqfBxCUvOSGv) | [Demons](https://open.spotify.com/album/2F9xKINjsLqPgKl3pyMNal) | 3:05 |
-| 3 | [Measure Of The Glass](https://open.spotify.com/track/15n0BNiPGAaMcUWxIsr2qJ) | [Emily Hall](https://open.spotify.com/artist/1qvmLmXKLOHw3vsI06tJQ7), [Sofia Jernberg](https://open.spotify.com/artist/4YDeGdDS6Jc9NYKUp60gp7), [Oliver Coates](https://open.spotify.com/artist/2NvY29yKP1pgWhLo9Rd5NH) | [Measure Of The Glass](https://open.spotify.com/album/2XguzsgcMu32DNTurtOMf6) | 2:20 |
-| 4 | [Flaunting \- Extended Version](https://open.spotify.com/track/0vxOElfMI7exeiWjHkBegO) | [Zenaro](https://open.spotify.com/artist/6a3NfD6ZB63jWwWLrUldB6) | [Flaunting](https://open.spotify.com/album/4VMsfAmiI7vXhLBkMesjqu) | 4:11 |
-| 5 | [Lumiukko](https://open.spotify.com/track/6XwGXCuPIWC2a4ytQS9Cu1) | [Janne Masalin](https://open.spotify.com/artist/5rp6LWIIqxqq4swyJNhoJM) | [Lumiukko](https://open.spotify.com/album/4S3K2UqBzOjfU9lfi0jU2u) | 3:58 |
-| 6 | [Scared \(of falling\)](https://open.spotify.com/track/0P405bQlMLSYPlkOtLmIwB) | [ANGELICA](https://open.spotify.com/artist/7yHxpT7YSJOHtVnCYnoC27) | [Scared \(of falling\)](https://open.spotify.com/album/2eRYcrZFpormjfykhy2mT7) | 2:51 |
-| 7 | [Drifting away](https://open.spotify.com/track/10DB3y0YI38AgqBf2TrE4n) | [Tungs10](https://open.spotify.com/artist/6QGn4OevZnwAwAjlbzblZD) | [Chronicles of the living](https://open.spotify.com/album/2mug6jKcmJKtDqyrN0ejwU) | 4:52 |
-| 8 | [Stronger Love](https://open.spotify.com/track/73CJiVtdQCKd5nPDGnL8AX) | [MALIS](https://open.spotify.com/artist/2xvOaZUV91ID0Ykw9iB4cR) | [Stronger Love](https://open.spotify.com/album/64qffTg85gO8Man1RrdNUD) | 3:17 |
-| 9 | [Wild Skies](https://open.spotify.com/track/7ufyDHbhMMv8jgeVvldaQU) | [FOARN](https://open.spotify.com/artist/1Jh1rD9CNq7MulCTiFTw0o) | [Wild Skies](https://open.spotify.com/album/7qXpwx5zhyAvN6lYxUHIKp) | 3:16 |
-| 10 | [Time for You](https://open.spotify.com/track/7AhV5rOp2vSDImVNKEdXt2) | [Tekne](https://open.spotify.com/artist/52hpwKLXeycbIT7kCS6MM2) | [Time for You](https://open.spotify.com/album/2zKN7w8cmXkEOhG1MvqlQl) | 5:56 |
-| 11 | [Lobster](https://open.spotify.com/track/7H2bt9jTCvC26LmW9dg6D9) | [BERGET](https://open.spotify.com/artist/5UUGn25tV0AesjkUV8wET4) | [Lobster](https://open.spotify.com/album/6huVM7ObsOeQ1ozcLQK0Rr) | 2:51 |
-| 12 | [litry łez](https://open.spotify.com/track/3eBJaIRO8lDiAdte3cGhFT) | [anitka](https://open.spotify.com/artist/1EnmuFANsPdN3iDoMEovgA) | [litry łez](https://open.spotify.com/album/0VKYVBJTWWXid8nPzCFI08) | 1:49 |
-| 13 | [what love really feels like](https://open.spotify.com/track/5llwKiQemUxEHuKgL9SnmW) | [Pearl Valentine](https://open.spotify.com/artist/05SEy5OKlBFBONypOzMRIe) | [what love really feels like](https://open.spotify.com/album/52trsuHDmjmoHU7IaDSda8) | 3:38 |
-| 14 | [Chanel](https://open.spotify.com/track/46I8jwjuWZP1Ghj4XZkG6w) | [MiA MiU](https://open.spotify.com/artist/6Vn8gccHuLh2r3GuuGUcvl) | [Chanel](https://open.spotify.com/album/74MYCROXq1xqjR6EmlJM1d) | 3:17 |
+| 1 | [Scream](https://open.spotify.com/track/24an7dJToKivN6oV5pCNpK) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [Scream](https://open.spotify.com/album/7HuZ90o08kZHEDrsbTCtaP) | 3:23 |
+| 2 | [Hydro](https://open.spotify.com/track/0iVOkA7rFkww3NnxziX7Pd) | [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8), [back pockets](https://open.spotify.com/artist/1opF8wXbUWfibFd6JYrnLx) | [Hydro](https://open.spotify.com/album/5UzkXvPMDuDyYm63EwYjyZ) | 1:36 |
+| 3 | [My Shadowblade](https://open.spotify.com/track/06QyD3Yh2db8f2tsbTHocX) | [VOITH](https://open.spotify.com/artist/4c6Pk5LZuaThZIZ0rSwxmD) | [My Shadowblade](https://open.spotify.com/album/2L4mQCySKI9ZhcgIkx1dUL) | 2:48 |
+| 4 | [Storsamling](https://open.spotify.com/track/6QVM3PqP3ft9QQXRLYJuCm) | [Di Blå](https://open.spotify.com/artist/6CJhWUJBU10X51P1VoCbqS) | [STORSAMLING](https://open.spotify.com/album/2EdKRUz3QRVWZXVC6HFROP) | 2:27 |
+| 5 | [GRAVITY](https://open.spotify.com/track/1iDEX43QqJ5Y5T9Ah74t2c) | [Tee Ford](https://open.spotify.com/artist/3mSmHikXYIDRlork6rx1NI) | [GRAVITY](https://open.spotify.com/album/2uuDZYfUXYPaij7CMv9BTf) | 3:32 |
+| 6 | [The Greatest Movie Of All Time](https://open.spotify.com/track/55p8AkSsaViiVgpAPQMrU3) | [Annie](https://open.spotify.com/artist/6CmLjbX98aI1zSKyTvNcRc) | [The Greatest Movie Of All Time](https://open.spotify.com/album/1XdMc9Sz325nMK5G0mkhe4) | 4:52 |
+| 7 | [Prickbaiter](https://open.spotify.com/track/5K3frFyC28pl3LKl2iegJ4) | [Wasted Wiltons](https://open.spotify.com/artist/6epj0nmAW85XlHvm71X6iM) | [Brand New Insoles](https://open.spotify.com/album/2qA8eBy7MwSH8agk5zemiU) | 2:03 |
+| 8 | [Gult lys](https://open.spotify.com/track/6149xwXCGwksiQW16D4eRT) | [Tungtrødd](https://open.spotify.com/artist/3nBz3Kaj6ucr1Vk9pMBLTG) | [Gult lys](https://open.spotify.com/album/2eYdW21wKEvG13miA5WuP8) | 4:49 |
+| 9 | [I Always Knew](https://open.spotify.com/track/5ydfZ3vDtpqfZOvzQC9vU7) | [Molly James](https://open.spotify.com/artist/4ZUE8ck5BsovhUXPD3ODSK) | [I Always Knew](https://open.spotify.com/album/1Lq8oiQrrCXaD6IxUAiRB1) | 3:51 |
+| 10 | [VIVO](https://open.spotify.com/track/6LZp9uiUS6v5eKDCmoS0Zr) | [Pamela](https://open.spotify.com/artist/6h4hggCVRYtwxt811tOvHz) | [VIVO](https://open.spotify.com/album/2dMIwagFhBNa46KkT4bBXF) | 3:42 |
+| 11 | [Hardship to Meaning](https://open.spotify.com/track/0Kd0Flg8fVNdEHC4VKQ8nU) | [LESTOPIAT](https://open.spotify.com/artist/56QVVacydHoFM9XekY8TeY) | [Hardship to Meaning](https://open.spotify.com/album/0b8JZceKSsKIH3xqrsrz2o) | 6:07 |
+| 12 | [Call Me Highway](https://open.spotify.com/track/5wqk7Go8vW2cHxTEMABei6) | [One Trick Pony](https://open.spotify.com/artist/3h9e6iOuobD3B9dkfgzH1z) | [Speed of Life](https://open.spotify.com/album/5w9KKvGBnIjQeKSzvZbW2U) | 3:04 |
+| 13 | [LIKE LIGHT](https://open.spotify.com/track/7bg0lafMRl0eTz6eajzVK6) | [LAWRENCE LEWIS](https://open.spotify.com/artist/4XN9uu84gkwAU205TYjsWm) | [LIKE LIGHT](https://open.spotify.com/album/6ajYwVo4GHXLWeDexGg4wi) | 2:49 |
+| 14 | [Confessions To The Sea \(CTTS\)](https://open.spotify.com/track/4Ji5ip8Z3Ftwmr56pixUI0) | [ProjectedMusic](https://open.spotify.com/artist/08bomUbuQXoKSVQgno5DRu) | [Confessions To The Sea \(CTTS\)](https://open.spotify.com/album/4OantaafW6hXNIxUWecOQP) | 4:30 |
+| 15 | [Kom och lalla](https://open.spotify.com/track/2yCaxY1SZllmpuclTAvfoG) | [Krisgruppen](https://open.spotify.com/artist/7nobroRHlBTReJR4TcTxfI) | [Kom och lalla](https://open.spotify.com/album/2o0PFt4smg0uwLwkZMbx4z) | 3:05 |
 
-Snapshot ID: `AAAEAuXEIs36imSoo/G7ZzumxL/+Qq4L`
+Snapshot ID: `AAAEBNRnhZIaO7aTt+ttjKETcOm10SfA`

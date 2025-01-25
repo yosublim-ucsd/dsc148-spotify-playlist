@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 242800,
       "name": "A grand love theme",
       "url": "https://open.spotify.com/track/0pg2VKzTsBdbxPzcOkReY2"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 491333,
       "name": "Edony - Clap your Hands",
       "url": "https://open.spotify.com/track/6KB39k2DejOxaIxOp5qwji"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 277800,
       "name": "Feeling for You",
       "url": "https://open.spotify.com/track/0UHhtA7tNKZaEPh7hYZVGP"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 372160,
       "name": "Gym tonic - Original",
       "url": "https://open.spotify.com/track/4DgPcCPpxVN28ZOQBZBhu4"
@@ -612,6 +612,24 @@
       "duration_ms": 222407,
       "name": "I <3 U SO",
       "url": "https://open.spotify.com/track/1mizZEavK16AN2Jo4mG93O"
+    },
+    {
+      "album": {
+        "name": "Champs Elys\u00e9es",
+        "url": "https://open.spotify.com/album/62DMpTTW3o6sYaNVYxtq2B"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350813,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/7opq9mMuTcHUXTY3EO3hym"
     },
     {
       "album": {
@@ -900,7 +918,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 252493,
       "name": "Jacques You Body (Make Me Sweat)",
       "url": "https://open.spotify.com/track/0s7uW5Dknk4liaRaqen50U"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 538066,
       "name": "La Mouche - DJ Falcon Metal Mix",
       "url": "https://open.spotify.com/track/43yQiATsXbfGkY7kKj40iM"
@@ -1038,6 +1056,24 @@
       "duration_ms": 274466,
       "name": "Look",
       "url": "https://open.spotify.com/track/6WieZpY4oFb5oZNZQacgxb"
+    },
+    {
+      "album": {
+        "name": "Just a Little More Love",
+        "url": "https://open.spotify.com/album/51fJbB1qe3EfUvb3fMK2jr"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/0mIAWTIXUP9Os5RBXKclO6"
     },
     {
       "album": {
@@ -1401,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "OK Cowboy",
+        "url": "https://open.spotify.com/album/3FbISaAK2oqQeLZACLifbo"
+      },
+      "artists": [
+        {
+          "name": "Vitalic",
+          "url": "https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323000,
+      "name": "Poney Pt. I",
+      "url": "https://open.spotify.com/track/6PSRMbqr5se9zwl5iOYOA8"
+    },
+    {
+      "album": {
         "name": "My Contribution to the Global Warming",
         "url": "https://open.spotify.com/album/4QiFOpTIMw3JQsUZQUIt82"
       },
@@ -1491,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "Rocking Music",
+        "url": "https://open.spotify.com/album/1iGqmQkFg3TVlB0NuAdn6h"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222120,
+      "name": "Rocking Music (Edit)",
+      "url": "https://open.spotify.com/track/6y5tyuZF4Wyo4pMlfUseXs"
+    },
+    {
+      "album": {
         "name": "Yellow Productions: 20 Years of Music",
         "url": "https://open.spotify.com/album/1VOyqL5y9mvfiWh8Gk1Ty5"
       },
@@ -1564,6 +1636,32 @@
       "duration_ms": 218626,
       "name": "Signatune - Thomas Bangalter Edit",
       "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
+    },
+    {
+      "album": {
+        "name": "Steak",
+        "url": "https://open.spotify.com/album/6a4wMqczzcvMjgiGWLAI0e"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        },
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        },
+        {
+          "name": "SebastiAn",
+          "url": "https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130413,
+      "name": "Skatesteak",
+      "url": "https://open.spotify.com/track/4QwhvLfdH0gbjeRZgwTBrO"
     },
     {
       "album": {
@@ -1693,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4N0w6QcQRd6jCTDCX23SoF"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179293,
+      "name": "The Beat Goes On",
+      "url": "https://open.spotify.com/track/4tClmTsIP0y4VVkkflKGIj"
+    },
+    {
+      "album": {
         "name": "You My Baby And I",
         "url": "https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U"
       },
@@ -1801,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/22qL6wSWqQxmYw1xhXdkFL"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2xHFrZUKjKtDBOR3NPKGks"
+    },
+    {
+      "album": {
         "name": "15 Again (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB"
       },
@@ -1830,7 +1964,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 245004,
       "name": "Ultra Light",
       "url": "https://open.spotify.com/track/0Fi7MjMYYERiLiTeGMP6VV"

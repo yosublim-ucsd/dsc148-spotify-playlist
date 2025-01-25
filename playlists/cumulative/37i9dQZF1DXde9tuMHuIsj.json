@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 150280,
       "name": "B2B",
       "url": "https://open.spotify.com/track/1oglkR9kIXl23lYFEpL20P"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 185312,
       "name": "Bajo El Sol",
       "url": "https://open.spotify.com/track/57mxKzlcRGGZKLlVVDpztL"
@@ -3867,6 +3867,28 @@
     },
     {
       "album": {
+        "name": "FCK LOVE",
+        "url": "https://open.spotify.com/album/3wcTfahjRB6Oz3IyyGJWOH"
+      },
+      "artists": [
+        {
+          "name": "G.O.K.B.",
+          "url": "https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE"
+        },
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "FCK LOVE",
+      "url": "https://open.spotify.com/track/044s0YuJx6qFv3fYQTLYb2"
+    },
+    {
+      "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
@@ -4094,7 +4116,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 174545,
       "name": "FUNNY",
       "url": "https://open.spotify.com/track/72DYpX9rw0QPTalkJpvjMB"
@@ -7211,6 +7233,28 @@
     },
     {
       "album": {
+        "name": "Osea",
+        "url": "https://open.spotify.com/album/0VO3ZS3hDS2blyRQNfcZfP"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Osea",
+      "url": "https://open.spotify.com/track/5linIf2EVMfHV0KDKFmORd"
+    },
+    {
+      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -8228,6 +8272,28 @@
       "duration_ms": 150060,
       "name": "RONCA FREESTYLE",
       "url": "https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI"
+    },
+    {
+      "album": {
+        "name": "Ropita Europea",
+        "url": "https://open.spotify.com/album/5IakfukxkOh2OlVEAN4OUM"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "Ropita Europea",
+      "url": "https://open.spotify.com/track/1Mm8wiKEBryswVSnI6bEkb"
     },
     {
       "album": {

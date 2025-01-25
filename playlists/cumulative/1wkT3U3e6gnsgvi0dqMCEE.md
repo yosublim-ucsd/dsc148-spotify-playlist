@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-231 songs - 14 hr 55 min
+234 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Centuries](https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:48 | 2024-08-12 |  |
 | [Ch\-Check It Out](https://open.spotify.com/track/56H98l4uinRifnTH8e308N) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [To The 5 Boroughs](https://open.spotify.com/album/4nnQZQWLibK1VIhCGDFjk3) | 3:12 | 2024-06-14 |  |
 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 | 2023-10-16 | 2024-05-24 |
+| [Chest Fever \- Live At The Royal Albert Hall, June 1971](https://open.spotify.com/track/4iQaqlpFMLUyTr2ZXDlod9) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Bob Clearmountain](https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO) | [Stage Fright \(Deluxe Edition / 2020 Remix\)](https://open.spotify.com/album/54mtQxZFH965tRxVbmpUjv) | 5:10 | 2025-01-24 |  |
 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 | 2023-10-16 | 2024-05-24 |
 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 | 2023-10-16 | 2024-05-24 |
 | [Cosmic Love \- BBC Proms at the Royal Albert Hall](https://open.spotify.com/track/2aisf4mcN6SdM2Z4Pjekb2) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Symphony of Lungs \- BBC Proms at the Royal Albert Hall](https://open.spotify.com/album/6qaCznAyIPlFLBbbh2vHub) | 9:11 | 2024-10-25 |  |
@@ -60,6 +61,7 @@
 | [Don't Say Nuthin'](https://open.spotify.com/track/1f6CFsufAwVPHrcNdlACRQ) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [The Tipping Point](https://open.spotify.com/album/2fw2PxmN6epMmz6qZXXNLn) | 3:35 | 2024-07-12 |  |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 | 2024-06-14 |  |
 | [Drawbridge & The Baroness](https://open.spotify.com/track/36wxxeCHvKWpTYfNQGkiZW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 | 2024-11-01 |  |
+| [Dublin \- Acoustic Version](https://open.spotify.com/track/6y3NPdiyP6SVw3NPtcVfDy) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Dublin \(Acoustic Version\)](https://open.spotify.com/album/2RFRXuA9wXANvvcdi4jetw) | 2:34 | 2025-01-24 |  |
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2023-10-16 | 2024-05-24 |
 | [Every Breath You Take \- Demo](https://open.spotify.com/track/7lJ4MkFMFmaMfCbFdkMyMA) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take \(Demo\)](https://open.spotify.com/album/1k2V6pFwOwjH923AM1wAIy) | 4:00 | 2024-07-26 |  |
 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2023-10-16 | 2024-05-24 |
@@ -101,6 +103,7 @@
 | [Just Like 73 \- Tom Morello Version](https://open.spotify.com/track/11DxHa7QIQ5NfdiHstN2O2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Just Like 73 \(Tom Morello Version\)](https://open.spotify.com/album/7afy0Ytt67hzFxYlLzmKyq) | 3:43 | 2024-06-14 |  |
 | [Keep Yourself Alive \- De Lane Lea Demo / 2024 Mix](https://open.spotify.com/track/1zOJvOAzlLUtBDAHXwOBbn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen I \(Collector's Edition\)](https://open.spotify.com/album/2vSW70hwFzUyFd4Mlgap0J) | 3:49 | 2024-10-25 |  |
 | [King Of Pain \- Demo](https://open.spotify.com/track/3zygIi9BmfAo6ORqJlfyqv) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [King Of Pain \(Demo\)](https://open.spotify.com/album/01eQ5d9ozwnYAdAFVzPo7z) | 4:14 | 2024-05-31 |  |
+| [Kiss Me Quick](https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Dark Moon](https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5) | 3:45 | 2025-01-24 |  |
 | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 | 2023-10-16 | 2024-05-24 |
 | [L.A\. Is My Lady \- 2024 Mix](https://open.spotify.com/track/1ICfHpchiAJ9jfClA4hzHu) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [L.A\. Is My Lady \(Deluxe Edition / 2024 Mix\)](https://open.spotify.com/album/4Ca98FQtAMzv5h1SiFZjX8) | 3:16 | 2024-10-25 |  |
 | [Le blues d'la métropole \- Edition Remixée](https://open.spotify.com/track/0yRkEh3ZjjdK5Uf3yeCXIA) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp), [Ghyslain\-Luc Lavigne](https://open.spotify.com/artist/7fCX4sRNEnnfHxiHQgyu6P) | [Le blues d'la métropole \(Edition Remixée\)](https://open.spotify.com/album/7m8zl4j1H4mHDOsmo5ooVZ) | 4:11 | 2024-10-11 |  |

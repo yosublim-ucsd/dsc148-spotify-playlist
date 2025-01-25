@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 168688,
       "name": "Bella ciao",
       "url": "https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM"
@@ -1468,6 +1468,24 @@
       "duration_ms": 202895,
       "name": "Born To Be Alive",
       "url": "https://open.spotify.com/track/7pdDdKVMm14RuRrEmNNN7X"
+    },
+    {
+      "album": {
+        "name": "Brain Fog",
+        "url": "https://open.spotify.com/album/0ooVwVhbr3WBUon42OeKdA"
+      },
+      "artists": [
+        {
+          "name": "Sad Snack",
+          "url": "https://open.spotify.com/artist/7KtN9nQaFrGOwyKyF59bA9"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214783,
+      "name": "Brain Fog",
+      "url": "https://open.spotify.com/track/0euk5bvRuclLsZ7aJ6bqJO"
     },
     {
       "album": {
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
@@ -3336,7 +3354,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 225880,
       "name": "Forza St. Pauli",
       "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
@@ -3946,6 +3964,24 @@
       "duration_ms": 195773,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3X9rYh3wcI2gRYYvgVvT7i"
+    },
+    {
+      "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/0B2c0NmlcodNuk20IbKFnF"
+      },
+      "artists": [
+        {
+          "name": "Half Past Two",
+          "url": "https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171394,
+      "name": "Holiday (Turnstile)",
+      "url": "https://open.spotify.com/track/345hUjolzsNlcZonwMUh8Y"
     },
     {
       "album": {
@@ -5015,6 +5051,28 @@
     },
     {
       "album": {
+        "name": "La Ranchera",
+        "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187744,
+      "name": "La Ranchera",
+      "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"
+    },
+    {
+      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -6042,7 +6100,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 208178,
       "name": "MOB MENTALITY",
       "url": "https://open.spotify.com/track/4UprhJk2iui8bLAAu0uLPO"
@@ -6712,7 +6770,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 189266,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP"
@@ -9875,6 +9933,24 @@
     },
     {
       "album": {
+        "name": "Swings and Roundabouts",
+        "url": "https://open.spotify.com/album/38cqTGYMGJ5ZR3FGpWKJ5W"
+      },
+      "artists": [
+        {
+          "name": "Abraskadabra",
+          "url": "https://open.spotify.com/artist/0YYh1MN3VtMPwamadN4xp2"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183159,
+      "name": "Swings and Roundabouts",
+      "url": "https://open.spotify.com/track/4yWCppWwgdnLZtSfJqiLqk"
+    },
+    {
+      "album": {
         "name": "Klub ska",
         "url": "https://open.spotify.com/album/4FiDsEVAFgxVG9xUnXnf51"
       },
@@ -11553,6 +11629,24 @@
     },
     {
       "album": {
+        "name": "Wir kommen in Frieden",
+        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234061,
+      "name": "Wir kommen in Frieden",
+      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
+    },
+    {
+      "album": {
         "name": "Wir sind wieder wer",
         "url": "https://open.spotify.com/album/5RvndlPhi6eqt0QxN2hP0q"
       },
@@ -11564,7 +11658,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 207295,
       "name": "Wir sind wieder wer",
       "url": "https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb"
@@ -11972,6 +12066,24 @@
       "duration_ms": 202373,
       "name": "\u0429\u0430\u0441\u0442\u044c\u0435",
       "url": "https://open.spotify.com/track/06zAGNmYEeAjVqEF9TrB7p"
+    },
+    {
+      "album": {
+        "name": "\u8e0a\u308d\u3088Baby",
+        "url": "https://open.spotify.com/album/6JKlfUQmjOwbYPmVb4LD9M"
+      },
+      "artists": [
+        {
+          "name": "Oi-SKALL MATES",
+          "url": "https://open.spotify.com/artist/4T6BfNnLnplUMDL4fo6WQA"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237907,
+      "name": "\u3044\u304b\u308c\u305fBaby",
+      "url": "https://open.spotify.com/track/4mOWsVZg0vgeokNYHW1Ji9"
     },
     {
       "album": {

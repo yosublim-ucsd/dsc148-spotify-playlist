@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Teddy Swims & Giveon",
+  "description": "Music for your soul. Cover: Skiifall",
   "name": "BUTTER",
   "tracks": [
     {
@@ -1088,6 +1088,24 @@
       "duration_ms": 162861,
       "name": "All Caps",
       "url": "https://open.spotify.com/track/3KD5AnJm4LlibbdykzcfzP"
+    },
+    {
+      "album": {
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/0Qjj0htf2HULFnHvhmb9XW"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208329,
+      "name": "All Cylinders",
+      "url": "https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv"
     },
     {
       "album": {
@@ -3101,6 +3119,28 @@
     },
     {
       "album": {
+        "name": "Bigger (feat. Choklate)",
+        "url": "https://open.spotify.com/album/0BloqjQ5VC2gNODlsgKuqq"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Choklate",
+          "url": "https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289226,
+      "name": "Bigger - feat. Choklate",
+      "url": "https://open.spotify.com/track/1wBEGfsrI9V50EmfUvoxu2"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL"
       },
@@ -4790,7 +4830,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
@@ -5482,6 +5522,48 @@
       "duration_ms": 241233,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/2M5Ua4xtwQ4TYq7bxTpz1P"
+    },
+    {
+      "album": {
+        "name": "COMMUNITY",
+        "url": "https://open.spotify.com/album/0XAZV2Q7q57anNWzQPARET"
+      },
+      "artists": [
+        {
+          "name": "NARCY",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Niko Is",
+          "url": "https://open.spotify.com/artist/7Ci28o541njEn2byuNfjfs"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Dave Chappelle",
+          "url": "https://open.spotify.com/artist/504DdVupqJJUEkzmHzJEfs"
+        },
+        {
+          "name": "Mo Amer",
+          "url": "https://open.spotify.com/artist/3vpLWyYdXNnZx3eJKrwxz7"
+        },
+        {
+          "name": "Donnell Rawlings",
+          "url": "https://open.spotify.com/artist/5nvjpU3Y7L6Hpe54QuvDjy"
+        },
+        {
+          "name": "Issa Ali",
+          "url": "https://open.spotify.com/artist/6VRdQzjxhLf81RwMrEba9W"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319180,
+      "name": "COMMUNITY",
+      "url": "https://open.spotify.com/track/3IDL1MuZlqnTBsfljKA0Jd"
     },
     {
       "album": {
@@ -6772,6 +6854,28 @@
       "duration_ms": 134600,
       "name": "Dirtknock",
       "url": "https://open.spotify.com/track/6Eo6VMANKQi3Zc1IdkDfSp"
+    },
+    {
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315640,
+      "name": "DJ's Chord Organ (feat. SZA)",
+      "url": "https://open.spotify.com/track/1JtAIBbCgomz38qPBSJzCn"
     },
     {
       "album": {
@@ -10952,7 +11056,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
@@ -20172,7 +20276,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 190500,
       "name": "Pocket Change",
       "url": "https://open.spotify.com/track/6Idi9LJfUXnEycEItDViBd"
@@ -26626,7 +26730,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 231049,
       "name": "Toda Cor",
       "url": "https://open.spotify.com/track/1oA6MATf7n8LAu1fPOY0Lb"

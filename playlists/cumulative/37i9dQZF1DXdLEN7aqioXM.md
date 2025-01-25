@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-483 songs - 1 day 10 hr 30 min
+484 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Breathe](https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG) | [Ace Buchannon](https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb) | [Breathe](https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw) | 4:00 | 2023-10-23 |  |
 | [Breathe](https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz) | [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [Breathe](https://open.spotify.com/album/7K3KhtyrxHyaMXO5YlB6in) | 3:48 | 2021-10-15 | 2022-07-28 |
 | [Burn It Down \- Rework](https://open.spotify.com/track/3Is5Q2dJMMVXviLh9PmOXD) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Burn It Down \- Rework](https://open.spotify.com/album/1Bj2waZd2HdJrWChKrQJ1F) | 4:16 | 2022-09-30 | 2022-12-17 |
+| [Buy Me](https://open.spotify.com/track/22ejcFtMrp99hdr3AFPxw2) | [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [Buy Me](https://open.spotify.com/album/59psRtPdqQKw9158IcjLtW) | 3:31 | 2024-09-11 |  |
 | [Chariot](https://open.spotify.com/track/7LRx0xmYQqpWPaBsTUWzC2) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Chariot](https://open.spotify.com/album/0PfC70uRWNCjhgJwHZ1uNb) | 4:25 | 2024-09-11 |  |
 | [Chauma](https://open.spotify.com/track/46U7cjUbIwsMr6XwlEcE35) | [pothOles](https://open.spotify.com/artist/4FsQtPo1pvWq2GKKcKXyRH) | [Chauma](https://open.spotify.com/album/38umTMbcj2n8RB7COoIr18) | 4:50 | 2022-02-04 | 2023-10-24 |
 | [Choose Love \- Gerd Janson Remix](https://open.spotify.com/track/6v5cHVwMYQMDvAIlfr2Kwa) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Choose Love \(Gerd Janson Remix\)](https://open.spotify.com/album/4zYngChJ5qPNtbxb6Z3MSo) | 3:44 | 2022-04-01 | 2022-04-16 |
@@ -422,7 +423,7 @@
 | [Take Flight](https://open.spotify.com/track/7Hp4SrtQicQtSgPLxKB574) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A) | [Slipstream](https://open.spotify.com/album/28OaB4YG2bRU8XxyWmUlfu) | 4:33 | 2022-07-22 | 2023-07-01 |
 | [Takeoff](https://open.spotify.com/track/4smnlSoB45rmAGV2hDdY5g) | [Starcop](https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh) | [Galaxy](https://open.spotify.com/album/1IpJnmVSsimq6AWU7f3zyV) | 2:39 | 2021-10-15 | 2022-07-29 |
 | [Takeoff](https://open.spotify.com/track/0arPXiG9R6d6gJokFBujIu) | [Starcop](https://open.spotify.com/artist/0Wo8zfu7LaSPQrI8Ov6XQh) | [Synthwave, Vol\. 5 \(Retro Dreams\)](https://open.spotify.com/album/7bvzc53iIULMZfSJYPFkZ9) | 2:39 | 2022-07-22 | 2022-10-19 |
-| [Tan Lines And Fizzy Wine](https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G) | [RSS Disco](https://open.spotify.com/artist/2sgfNG93dC6iGZK8weLmtp) | [Tan Lines and Fizzy Wine](https://open.spotify.com/album/0hUVC3smHare27tVcN270U) | 6:46 | 2022-04-08 |  |
+| [Tan Lines And Fizzy Wine](https://open.spotify.com/track/30ymNUw28IrHmVGv4anY9G) | [RSS Disco](https://open.spotify.com/artist/2sgfNG93dC6iGZK8weLmtp) | [Tan Lines and Fizzy Wine](https://open.spotify.com/album/0hUVC3smHare27tVcN270U) | 6:46 | 2022-04-08 | 2025-01-25 |
 | [Teenage Dreams](https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Teenage Dreams](https://open.spotify.com/album/5kXBWACLETvBqSSAPJk66T) | 3:28 | 2023-10-23 |  |
 | [Tenshi](https://open.spotify.com/track/7EVasoq7DMEcwgB8AJSi3t) | [Formal One](https://open.spotify.com/artist/7t9RzoO6u80uVTQGEt5p59) | [Tenshi](https://open.spotify.com/album/0ee0sndipg58Uqr5a6bhq7) | 4:15 | 2022-07-15 | 2024-05-19 |
 | [Terraform](https://open.spotify.com/track/5gEwTLSV33opPhxQ8im1Jj) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [New & Improved](https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa) | 5:08 | 2022-02-04 |  |

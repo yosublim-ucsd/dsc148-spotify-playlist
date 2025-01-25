@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Junior H en portada. ",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Gabito Ballesteros y eddy en portada. ",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Ambiciones",
+        "url": "https://open.spotify.com/album/7vGR7HsVhp03wQP3m3IjO7"
+      },
+      "artists": [
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188178,
+      "name": "Atenea",
+      "url": "https://open.spotify.com/track/3aRSCHA7rQKooRTxOGx8IH"
+    },
+    {
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 174017,
       "name": "Casi Merito",
       "url": "https://open.spotify.com/track/4pYFPNbPVidU5ZxhZ9YDzU"
@@ -1138,6 +1156,24 @@
       "duration_ms": 256641,
       "name": "Classroom Love",
       "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
+    },
+    {
+      "album": {
+        "name": "Ambiciones",
+        "url": "https://open.spotify.com/album/7vGR7HsVhp03wQP3m3IjO7"
+      },
+      "artists": [
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233100,
+      "name": "Como Te Olvido",
+      "url": "https://open.spotify.com/track/3UnPolWiDF49MjUr2w0gZh"
     },
     {
       "album": {
@@ -1348,7 +1384,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 196250,
       "name": "Culpa De Los Dos",
       "url": "https://open.spotify.com/track/0RBuJZebXW2yqGUyKfUaSd"
@@ -2328,6 +2364,28 @@
       "duration_ms": 156352,
       "name": "Falt\u00f3",
       "url": "https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic"
+    },
+    {
+      "album": {
+        "name": "Feliz A\u00f1o Nuevo",
+        "url": "https://open.spotify.com/album/195dzz0SiiPFv47u7cigxm"
+      },
+      "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Feliz A\u00f1o Nuevo",
+      "url": "https://open.spotify.com/track/2c7qukqmQVOn4qLcspoUcN"
     },
     {
       "album": {
@@ -4552,7 +4610,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 181657,
       "name": "Ojitos Rojos",
       "url": "https://open.spotify.com/track/3laLiRlOtNA6HBKklPSE1E"
@@ -5269,6 +5327,28 @@
     },
     {
       "album": {
+        "name": "Que Pedo",
+        "url": "https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "Que Pedo",
+      "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
+    },
+    {
+      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -5368,6 +5448,24 @@
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Bonita",
+        "url": "https://open.spotify.com/album/7EzmgX7Dkh3vGd7Yweo9OL"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Qu\u00e9 Bonita",
+      "url": "https://open.spotify.com/track/6GsAFahdCxVEiIYK0uXe79"
     },
     {
       "album": {
@@ -5730,7 +5828,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 167589,
       "name": "Sentimientos",
       "url": "https://open.spotify.com/track/7aXhbpc2yJhV39jjU7Tncs"
@@ -7588,7 +7686,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 136800,
       "name": "Ya Le Dijiste",
       "url": "https://open.spotify.com/track/1AGVkZeo2M4Svtcruwy2oN"

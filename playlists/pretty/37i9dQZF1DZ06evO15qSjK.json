@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 172806,
+  "num_followers": 172804,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5A1AAAAAAAzxZ7hDYBWhp0oIR9CVLQB",
+  "snapshot_id": "Z5GGgAAAAADuGCH/+eP58bdRqEZgVpkM",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,70 @@
       "duration_ms": 150695,
       "name": "Certified BOP",
       "url": "https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOT TO GO!",
+        "url": "https://open.spotify.com/album/5v5NhSYwKmuQbtB7caQhtR"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 185519,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/19Gh9vtYx8Jwe3kkynR8dA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 154822,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/6i0atmeYVUoeI58dINmglw"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 135001,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/2qVxkSW21r1r6aXRbCA3Q6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/2CmK9RwQuLkYSkMFz4vzGC"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 183930,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/4KegIoLXt4cv3MgU4G0GYe"
     },
     {
       "added_at": null,
@@ -315,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apple",
-        "url": "https://open.spotify.com/album/6i0atmeYVUoeI58dINmglw"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 135001,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/2qVxkSW21r1r6aXRbCA3Q6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 32",
         "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
       },
@@ -343,6 +391,22 @@
       "duration_ms": 204533,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2023",
+        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 192008,
+      "name": "About That Time",
+      "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
     },
     {
       "added_at": null,
@@ -379,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2023",
-        "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 192008,
-      "name": "About That Time",
-      "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
       },
@@ -427,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Good 4 U",
-      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 34",
         "url": "https://open.spotify.com/album/2tLmEW6OUwHh2cncZOVpQ7"
       },
@@ -455,6 +487,22 @@
       "duration_ms": 176866,
       "name": "24K Magic",
       "url": "https://open.spotify.com/track/0uO8gotUNmO7v5agFzqS7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
     },
     {
       "added_at": null,
@@ -500,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 146233,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
+      "duration_ms": 162410,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg"
     },
     {
       "added_at": null,
@@ -564,25 +612,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 162410,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/6gnkJg4PI3nFB2dH0p7Zcg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 172158,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c"
+      "duration_ms": 146233,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr"
     },
     {
       "added_at": null,
@@ -603,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 172158,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP Super POP!",
         "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
       },
@@ -615,54 +663,6 @@
       "duration_ms": 162257,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7FRpO17fjYvHTniQmq3Rav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HOT TO GO!",
-        "url": "https://open.spotify.com/album/5v5NhSYwKmuQbtB7caQhtR"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 185519,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/19Gh9vtYx8Jwe3kkynR8dA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 154822,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/2CmK9RwQuLkYSkMFz4vzGC"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 183930,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/4KegIoLXt4cv3MgU4G0GYe"
     }
   ],
   "unique_name": "This Is Kidz Bop Kids",

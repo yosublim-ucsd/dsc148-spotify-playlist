@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 238597,
       "name": "Anarqu\u00eda en Buenos Aires",
       "url": "https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 195603,
       "name": "Aquello que llaman amor",
       "url": "https://open.spotify.com/track/2mRhNjLh1qflTjUPsn92of"
@@ -1380,6 +1380,24 @@
       "duration_ms": 253911,
       "name": "Cicatriz",
       "url": "https://open.spotify.com/track/1rg5jQyjIOLDVY1pVIvAp2"
+    },
+    {
+      "album": {
+        "name": "Circuito Poetas",
+        "url": "https://open.spotify.com/album/70lS1nF2L27eQlsIjTmyh2"
+      },
+      "artists": [
+        {
+          "name": "May Sunday",
+          "url": "https://open.spotify.com/artist/08SkBrVjxq80ivZKnGh1LE"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218322,
+      "name": "Circuito Poetas",
+      "url": "https://open.spotify.com/track/5kUi3MwSJP70g0rKcsNBfI"
     },
     {
       "album": {
@@ -9387,6 +9405,28 @@
     },
     {
       "album": {
+        "name": "Todo Lo Que Fue",
+        "url": "https://open.spotify.com/album/0FRn4ltt8bTuNAqUSb4jWB"
+      },
+      "artists": [
+        {
+          "name": "ZEEVA",
+          "url": "https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH"
+        },
+        {
+          "name": "xKori",
+          "url": "https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158649,
+      "name": "Todo Lo Que Fue",
+      "url": "https://open.spotify.com/track/3t94KpTxLehlg6nm7h5wVY"
+    },
+    {
+      "album": {
         "name": "Escombros",
         "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
       },
@@ -9456,7 +9496,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 176250,
       "name": "Tragos de Amargo Licor",
       "url": "https://open.spotify.com/track/4DANpl1NXr6YJIlP37vm7W"
@@ -10496,6 +10536,24 @@
       "duration_ms": 153960,
       "name": "Zeppelin",
       "url": "https://open.spotify.com/track/2pKX8ad4udW2XIbka2P3fe"
+    },
+    {
+      "album": {
+        "name": "\u00a1Al Coro De Las Masas!",
+        "url": "https://open.spotify.com/album/4QHxMHv9BhOGTyLSUFFeal"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200433,
+      "name": "\u00a1Al Coro De Las Masas!",
+      "url": "https://open.spotify.com/track/2QplKbIvgdUdonosp0tMhz"
     },
     {
       "album": {

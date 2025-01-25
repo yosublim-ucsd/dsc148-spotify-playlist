@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from The Lumineers
+> The best in folk & acoustic today featuring music from Mumford & Sons
 
 649 songs - 1 day 16 hr 4 min
 

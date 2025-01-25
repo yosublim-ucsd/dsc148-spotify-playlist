@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The best of modern blues rock. Cover: Joe Bonamassa",
+  "description": "The best of modern blues rock. Cover: Larkin Poe",
   "name": "Modern Blues Rock",
   "tracks": [
     {
@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247080,
+      "name": "Easy Love Part 1",
+      "url": "https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn"
+    },
+    {
+      "album": {
         "name": "Trouble Is Good",
         "url": "https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY"
       },
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 275200,
       "name": "Half-Tongue",
       "url": "https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM"

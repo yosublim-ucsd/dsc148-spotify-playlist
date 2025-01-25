@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-282 songs - 1 day 3 hr 26 min
+284 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 | 2023-05-05 | 2024-01-27 |
 | [Jupiter](https://open.spotify.com/track/57szAdxfyg37GXI3t4ECgr) | [Bucher](https://open.spotify.com/artist/4aKnbbm21oXzvP2LYvLvq7) | [Jupiter](https://open.spotify.com/album/2bNG8S7nPGtCWAYVLnDh6m) | 7:49 | 2022-09-16 | 2023-03-25 |
 | [Jupiter \- Kollektiv Turmstrasse Remix](https://open.spotify.com/track/7lqdOVhUoKnjRyjipj4Z9k) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Watergate 27 EP \#1](https://open.spotify.com/album/0ZD1D7rbIEFtfkzyZouLtp) | 8:20 | 2022-09-16 | 2023-10-07 |
+| [Kick It \- Andrea Botez Remix](https://open.spotify.com/track/1CbZd4FBm8Insquq3HGTGP) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Kick It \(Andrea Botez Remix\)](https://open.spotify.com/album/6qKyW0Y52WFG8zPV24rJ8p) | 3:25 | 2025-01-24 |  |
 | [Kinematic Motion](https://open.spotify.com/track/4rUhhO3Ztf1Ij9gjumbz8W) | [Co\-Fusion](https://open.spotify.com/artist/54lOUDySWQlDC4tb81wjDT) | [Porcupine EP](https://open.spotify.com/album/06OzwkhkR0MPA4mT2SUdBD) | 7:45 | 2022-11-07 | 2023-03-04 |
 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 | 2022-12-02 | 2023-02-04 |
 | [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 | 2022-10-27 | 2023-02-18 |
@@ -149,6 +150,7 @@
 | [Lost In Complexity \- DJ Lion Remix](https://open.spotify.com/track/6b88cZdqkkfRozZY8Ws35F) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [ILAYO](https://open.spotify.com/artist/2Wzl6ov46GbQTZHUpy23iR), [DJ Lion](https://open.spotify.com/artist/0ZwTI7HIWqX7mz1KwdZSoq) | [Lost In Complexity \(Edit\) + Remixes](https://open.spotify.com/album/1C1pAoJA45saJXg3HZfBXC) | 7:06 | 2023-11-24 | 2024-06-29 |
 | [Lost In Complexity \- Edit](https://open.spotify.com/track/5XkCL9BU3CzHdf4e3kJX7V) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [ILAYO](https://open.spotify.com/artist/2Wzl6ov46GbQTZHUpy23iR) | [Lost In Complexity \(Edit\) + Remixes](https://open.spotify.com/album/1C1pAoJA45saJXg3HZfBXC) | 4:14 | 2023-10-06 | 2023-10-28 |
 | [Lost In Complexity \- Nusha Remix](https://open.spotify.com/track/627lNP3VLOIz68JigQiS9u) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [ILAYO](https://open.spotify.com/artist/2Wzl6ov46GbQTZHUpy23iR), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Lost In Complexity \(Edit\) + Remixes](https://open.spotify.com/album/1C1pAoJA45saJXg3HZfBXC) | 6:32 | 2023-10-06 | 2024-06-29 |
+| [Lost in the Labyrinth](https://open.spotify.com/track/44fLHRYTOm2GBUXTbiNHVM) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [Lost in the Labyrinth](https://open.spotify.com/album/1dD5PvJl63IaMYXipKVZWA) | 7:03 | 2025-01-24 |  |
 | [Love And Forgive](https://open.spotify.com/track/6Qy9lpJM7rvPJ6edx9gYbI) | [The Timewriter](https://open.spotify.com/artist/4aBd3jIK7ZGYMzV8CkL6rr) | [Love And Forgive](https://open.spotify.com/album/03SCD6AOiVJEeA6GkvfY2N) | 4:50 | 2022-09-16 | 2022-12-10 |
 | [Love Beats](https://open.spotify.com/track/0zfu5E1Iz3BrzHewwbcDRu) | [Tony Senghore](https://open.spotify.com/artist/5ZK1SZxMVlg0vKMmBOTbIw) | [Lovepack One](https://open.spotify.com/album/14RX2tQt9pqiRDJ163hCnj) | 4:21 | 2023-05-19 | 2023-12-09 |
 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 | 2022-09-16 | 2022-09-24 |

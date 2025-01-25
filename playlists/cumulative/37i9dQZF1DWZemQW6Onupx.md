@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZemQW6Onupx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZemQW6Onupx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZemQW6Onupx)
 
-### [Panty & Stocking with Garterbelt  \-パンティ＆ストッキングwithガーターベルト\-](https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx)
+### [Panty & Stocking with Garterbelt](https://open.spotify.com/playlist/37i9dQZF1DWZemQW6Onupx)
 
-> Enjoy music from "Panty & Stocking with Garterbelt"! 「パンティ＆ストッキングwithガーターベルト」公式プレイリスト！\(C\)2010 GAINAX/GEEKS
+> Enjoy music from "Panty & Stocking with Garterbelt"! \(C\)2010 GAINAX/GEEKS
 
 43 songs - 2 hr 19 min
 

@@ -1,13 +1,29 @@
 {
-  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Mustafa",
+  "description": "Showcasing the world of Indie; feel the vibes and enjoy the ride. Cover: Mae Martin",
   "num_followers": 8512,
   "original_name": "Chill Indie Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAblj3QL+AC/wqAmOxSw3ni9BSCXOFz",
+  "snapshot_id": "AAAbmbbI7oenoX44AHH9Ce2QzxHGcNH1",
   "tracks": [
+    {
+      "added_at": "2025-01-24 13:31:09",
+      "album": {
+        "name": "Good Dream / Stowaway",
+        "url": "https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE"
+      },
+      "artists": [
+        {
+          "name": "Mae Martin",
+          "url": "https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn"
+        }
+      ],
+      "duration_ms": 183821,
+      "name": "Good Dream",
+      "url": "https://open.spotify.com/track/1U4jlnas1vDAI9BNtpyohV"
+    },
     {
       "added_at": "2025-01-10 18:50:58",
       "album": {

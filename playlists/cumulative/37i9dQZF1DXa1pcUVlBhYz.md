@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: Jon Casey
 
-419 songs - 1 day 1 hr 1 min
+420 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Drugs Du Jour](https://open.spotify.com/track/62HGGtTszF9K7xl5G2uuJp) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Drugs Du Jour](https://open.spotify.com/album/3kTWkkQ0zCC2KtTLabg3lk) | 2:33 | 2022-08-05 | 2022-09-10 |
 | [Dust of Angels](https://open.spotify.com/track/4XYzb8Pokzdi3XOXZmBPIi) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ) | [Dust of Angels](https://open.spotify.com/album/0vwnYSUtBZXFWGucbmVCp1) | 6:53 | 2023-09-22 | 2024-05-03 |
 | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/track/7msMFkuYQdBaJhiav2UrM1) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [Echoes \(feat\. Tony Duardo, Manana & Lusanda\)](https://open.spotify.com/album/6GPfETz7e4MYd3kU4CtLIK) | 4:05 | 2023-08-18 | 2024-05-03 |
-| [Embrace](https://open.spotify.com/track/0oa66icSKEwocNbRcGY52J) | [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ), [Tasha LaRae](https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ) | [Embrace](https://open.spotify.com/album/1QENZAuYIf0wAXwZrTBbKM) | 3:41 | 2024-09-06 |  |
+| [Embrace](https://open.spotify.com/track/0oa66icSKEwocNbRcGY52J) | [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ), [Tasha LaRae](https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ) | [Embrace](https://open.spotify.com/album/1QENZAuYIf0wAXwZrTBbKM) | 3:41 | 2024-09-06 | 2025-01-25 |
 | [Emergency](https://open.spotify.com/track/5TxwSZehxrjoWLWeqvKpO3) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Emergency](https://open.spotify.com/album/4tKLixwon07V12KehsBcFZ) | 3:15 | 2022-02-01 | 2022-05-28 |
 | [Ethiopia \- Boddhi Satva Ancestral Soul Dub](https://open.spotify.com/track/7CKDVz4lP7qJz6M2y3ZlYU) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Ethiopia \(Boddhi Satva Ancestral Soul Dub\)](https://open.spotify.com/album/5NllzQSC7PQYXXF2qccTK5) | 4:09 | 2022-02-25 | 2023-02-11 |
 | [Evening Time \(feat\. KAM\-BU & BXKS\)](https://open.spotify.com/track/25D1IY6rHJhm8PZHN9DNev) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Evening Time \(feat\. KAM\-BU & BXKS\)](https://open.spotify.com/album/5V9hEnW2hEWOK7SR8p8PgF) | 3:16 | 2023-02-10 | 2024-04-06 |
@@ -401,6 +401,7 @@
 | [We'll Stand Together](https://open.spotify.com/track/7bEcCqfWWO6r8KBrNjwhRo) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [We'll Stand Together](https://open.spotify.com/album/09Lb2n6nP2iFB32FQQ3gv4) | 3:09 | 2022-06-17 | 2023-03-13 |
 | [We'll Stand Together](https://open.spotify.com/track/1kj4aaLoC4HXAAjHJQmoN5) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [We'll Stand Together](https://open.spotify.com/album/7C8ELPO9dxoIqszNXHawvr) | 3:09 | 2023-03-10 | 2023-06-17 |
 | [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 | 2023-05-19 | 2024-02-17 |
+| [WERK](https://open.spotify.com/track/2VDw979OnlkTwykK6URUe4) | [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ) | [WERK](https://open.spotify.com/album/30jPPGYeCAiRfQTy77VrFp) | 2:08 | 2025-01-24 |  |
 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 | 2023-01-27 | 2023-08-19 |
 | [What A Friend](https://open.spotify.com/track/7tpD7nFwbdtvsTJ5gJva2P) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [What A Friend](https://open.spotify.com/album/4VNjlXl9VPYzCGhaJ0rnLR) | 4:10 | 2024-04-05 | 2024-06-08 |
 | [What Chu Waiting For?](https://open.spotify.com/track/6FpJyIZaQiRFQliaMnJIyK) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Dai Burger](https://open.spotify.com/artist/1y6hiqeSWkQrJYXkU5PvUk) | [Heartbeats](https://open.spotify.com/album/0ZR5JXKysRQEEAZ0oWrxmJ) | 3:20 | 2022-02-01 | 2023-01-28 |

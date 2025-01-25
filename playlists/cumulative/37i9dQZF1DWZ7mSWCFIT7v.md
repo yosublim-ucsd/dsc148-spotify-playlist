@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2025-01-23 |
+| [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 |  |
 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 | 2022-12-20 |  |
 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 |  |
 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 | 2021-10-06 | 2022-07-29 |
@@ -371,7 +371,7 @@
 | [Yulquen](https://open.spotify.com/track/7oZwhOIxuFxRzqKmOKDgiO) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:37 | 2021-10-06 | 2024-04-19 |
 | [Zero](https://open.spotify.com/track/3HEy3iRI7Z5yb4G7cJp1Ii) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Zero](https://open.spotify.com/album/7aCYZPFnKoO8R4YNutJl1e) | 4:52 | 2021-10-06 | 2022-07-29 |
 | [Я не хочу знать](https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B) | [Gilb'r](https://open.spotify.com/artist/2KqugPbttJDL3ZdRUTpU4x), [Cosmic Neman](https://open.spotify.com/artist/7gdIA6xBjnLNBBIXyBKGbn) | [On danse comme des fous](https://open.spotify.com/album/5mCWVbQXAd2kMKS0mj3HMU) | 3:28 | 2021-10-06 |  |
-| [ゾッド](https://open.spotify.com/track/59HhbPtgARl5cLuJGjP1Ow) | [Mukqs](https://open.spotify.com/artist/2pM2N6yzrf4201puxjeIKY) | [起き上がり](https://open.spotify.com/album/71NkK6ps2GTJ0Tq6nRBU9k) | 9:42 | 2021-10-06 |  |
+| [ゾッド](https://open.spotify.com/track/59HhbPtgARl5cLuJGjP1Ow) | [Mukqs](https://open.spotify.com/artist/2pM2N6yzrf4201puxjeIKY) | [起き上がり](https://open.spotify.com/album/71NkK6ps2GTJ0Tq6nRBU9k) | 9:42 | 2021-10-06 | 2025-01-25 |
 | [ニイミ](https://open.spotify.com/track/6uXnpJHSF3kWKMdy3EX1tU) | [Kentaro Minoura](https://open.spotify.com/artist/0xzPunBbhUsUCfv5WaxYGb) | [御徒街徒御](https://open.spotify.com/album/00NDibpwFIVSYsD9DRR4H1) | 5:22 | 2021-10-06 | 2022-07-28 |
 | [悲哀](https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 9:23 | 2021-10-06 |  |
 

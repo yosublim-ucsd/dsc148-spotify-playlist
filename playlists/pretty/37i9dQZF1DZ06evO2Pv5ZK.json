@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 107722,
+  "num_followers": 107734,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5A1AAAAAACP1jYzuCUpZ6dLN8EgICYr",
+  "snapshot_id": "Z5GGgAAAAABEiu8dss5tFSyjZ/mmBOJc",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 314333,
-      "name": "Twenty Eighth Parallel",
-      "url": "https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq"
+      "duration_ms": 118893,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 118893,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM"
+      "duration_ms": 314333,
+      "name": "Twenty Eighth Parallel",
+      "url": "https://open.spotify.com/track/15I4SzvLAI1mguGr9mgIUq"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
       "duration_ms": 463773,
       "name": "Fields of Coral",
       "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/7vI1UAd3OZNdsZ7sth2CDf"
     }
   ],
   "unique_name": "This Is Vangelis",

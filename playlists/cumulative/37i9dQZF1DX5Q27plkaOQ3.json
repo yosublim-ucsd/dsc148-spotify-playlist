@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "2 Da Floor",
+        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Cruze",
+          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "2 Da Floor",
+      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
+    },
+    {
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/3iTuXWdNjq2uPoi2tW0rZW"
       },
@@ -1761,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+    },
+    {
+      "album": {
         "name": "Black And Blue",
         "url": "https://open.spotify.com/album/1Yd0NddTgPRW1iyWsUkWgY"
       },
@@ -2522,7 +2566,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 255655,
       "name": "Burnin",
       "url": "https://open.spotify.com/track/31MOGp9qJCW3NK4RHMizrF"
@@ -4002,7 +4046,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 214374,
       "name": "Defeatist",
       "url": "https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO"
@@ -6030,7 +6074,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 181846,
       "name": "FEEL THIS",
       "url": "https://open.spotify.com/track/3YKVO9jYj0hcadXjcUrb0Y"
@@ -6794,7 +6838,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 165517,
       "name": "Game On",
       "url": "https://open.spotify.com/track/1dj526NJ5TxxFqHOOS9sdX"
@@ -7590,6 +7634,24 @@
       "duration_ms": 154400,
       "name": "Headshot (feat. Mikey Ceaser)",
       "url": "https://open.spotify.com/track/4ZImeX5bzp2EFkN2ClFBMo"
+    },
+    {
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3lt8HF91bthKnbiGO1uN83"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170339,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2eYQw2SkWD4tw4U5TUMnOI"
     },
     {
       "album": {
@@ -8397,6 +8459,36 @@
     },
     {
       "album": {
+        "name": "I'm A Problem",
+        "url": "https://open.spotify.com/album/012gqhYTFMrjG1yYBewkKk"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/3jMedC3hOKPz5KlAXxyXBp"
+        },
+        {
+          "name": "Jayceeoh",
+          "url": "https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL"
+        },
+        {
+          "name": "1000volts",
+          "url": "https://open.spotify.com/artist/6MiWYUZOD7VJbJNSx8nUNW"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "I'm A Problem",
+      "url": "https://open.spotify.com/track/2bBWkRy3WkTHH1yDjcMCnQ"
+    },
+    {
+      "album": {
         "name": "I'm Delighted",
         "url": "https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h"
       },
@@ -8478,7 +8570,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 157241,
       "name": "if you wanna",
       "url": "https://open.spotify.com/track/6E3rVTQWxbSBhSDqclngEy"
@@ -9347,6 +9439,28 @@
     },
     {
       "album": {
+        "name": "KREAM TEAM / HAPPY ACCIDENTS",
+        "url": "https://open.spotify.com/album/5TKCKaU9ydW6VA1ezddm3h"
+      },
+      "artists": [
+        {
+          "name": "MAD DUBZ",
+          "url": "https://open.spotify.com/artist/4TQ72C7aaARXGuHB7qBPk7"
+        },
+        {
+          "name": "ONARA",
+          "url": "https://open.spotify.com/artist/6nKV0eZr3wETvLH7Ca885r"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "KREAM TEAM",
+      "url": "https://open.spotify.com/track/6uTkzx51j8pRJSjzKZrlar"
+    },
+    {
+      "album": {
         "name": "Give Up The Ghost",
         "url": "https://open.spotify.com/album/7ya7R7sEXTSgU1HuExQQY9"
       },
@@ -9548,6 +9662,28 @@
       "duration_ms": 204800,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/64GlbmPkapZqVmgOcnaziU"
+    },
+    {
+      "album": {
+        "name": "STONED TO DEATH",
+        "url": "https://open.spotify.com/album/7zN2WrH19JPH36pn1kMnN6"
+      },
+      "artists": [
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        },
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231549,
+      "name": "LETHAL STRAIN",
+      "url": "https://open.spotify.com/track/4dL5HeS9tyI9RgmYl9wUdj"
     },
     {
       "album": {
@@ -11034,6 +11170,28 @@
       "duration_ms": 200000,
       "name": "Next Shot",
       "url": "https://open.spotify.com/track/450ieMdH9byHoYTXfx8ORV"
+    },
+    {
+      "album": {
+        "name": "next to me",
+        "url": "https://open.spotify.com/album/4hR2oacIqkUxpe2sU79kTt"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "next to me",
+      "url": "https://open.spotify.com/track/0FOOCagwIFa58SOekbmVzj"
     },
     {
       "album": {
@@ -14104,7 +14262,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 210000,
       "name": "Screwface",
       "url": "https://open.spotify.com/track/0G1fEa6TnotzEx0qkQ373Q"
@@ -15736,7 +15894,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 137142,
       "name": "Street Brawl",
       "url": "https://open.spotify.com/track/1Pqg3vbJfQLCKX2qpEVeYL"

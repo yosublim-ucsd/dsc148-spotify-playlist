@@ -1,13 +1,29 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 289761,
+  "num_followers": 289754,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAINTM9pZjk/yOmus6Qy+/RG2iHQ7OO",
+  "snapshot_id": "AAAINq3o9zNmbUkwFBzSec5FYzKkUez0",
   "tracks": [
+    {
+      "added_at": "2025-01-24 21:42:30",
+      "album": {
+        "name": "North, West, South, East",
+        "url": "https://open.spotify.com/album/4RaPQf3X9EfNNqbS9LJR2u"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 147651,
+      "name": "North, West, South, East",
+      "url": "https://open.spotify.com/track/5wZCXsK5v970hRFkxXmcSa"
+    },
     {
       "added_at": "2025-01-21 10:42:42",
       "album": {

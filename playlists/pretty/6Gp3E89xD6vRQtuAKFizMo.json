@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44210,
+  "num_followers": 44211,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZ0p/Qg8VGZ1O0Q4YsXyhzMTLPYfDe",
+  "snapshot_id": "AAAZ1RP6VbKKHhgo86xMl7nZFQYeOLWM",
   "tracks": [
+    {
+      "added_at": "2025-01-24 14:55:15",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/7JnuNp4aQOwJbZWAMXEWTs"
+      },
+      "artists": [
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        },
+        {
+          "name": "Skellytn",
+          "url": "https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3"
+        }
+      ],
+      "duration_ms": 212068,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/3ovm13iXtXLluAoG1sDNZ0"
+    },
+    {
+      "added_at": "2025-01-24 14:55:03",
+      "album": {
+        "name": "Do Not Come",
+        "url": "https://open.spotify.com/album/097TUD9a7Ni4LAAFxORIpH"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        }
+      ],
+      "duration_ms": 119548,
+      "name": "Do Not Come",
+      "url": "https://open.spotify.com/track/1OleIA0tFVoX8ZNQoIN1Io"
+    },
     {
       "added_at": "2025-01-17 16:14:41",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: LIM KIM & Kim Chang-Wan(\ub9bc\ud0b4 & \uae40\ucc3d\uc644)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Sogaksogak(\uc18c\uac01\uc18c\uac01)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 227691,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/09lkEZvJPX5Lto9Ei7SFxt"
@@ -3114,7 +3114,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227506,
-      "name": "HONEY (Feat. Crucial Star)",
+      "name": "HONEY",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
@@ -3246,6 +3246,24 @@
       "duration_ms": 219496,
       "name": "Hug me",
       "url": "https://open.spotify.com/track/089QvCGproM6tZgdaszIBO"
+    },
+    {
+      "album": {
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4SsSzJ8ApOuMh4OOTbP9Bi"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/2DM7WqaeAdXGjuXIFejZNK"
     },
     {
       "album": {
@@ -4390,7 +4408,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 234466,
       "name": "Late Night Walk",
       "url": "https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm"
@@ -5362,7 +5380,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 266146,
       "name": "My Ultimate First Love",
       "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
@@ -6346,6 +6364,24 @@
       "duration_ms": 280507,
       "name": "RAINING",
       "url": "https://open.spotify.com/track/423tVeKOEyAnYZoUg6mAwG"
+    },
+    {
+      "album": {
+        "name": "Rainy Day Reverie",
+        "url": "https://open.spotify.com/album/46Btr5TOgiwPMD22DKtddU"
+      },
+      "artists": [
+        {
+          "name": "SIWOO",
+          "url": "https://open.spotify.com/artist/5y9D9PvN3LtLo7huOAKeRO"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229999,
+      "name": "Rainy Day Reverie",
+      "url": "https://open.spotify.com/track/7hfrzdSIC2a5hV7J4RqiMa"
     },
     {
       "album": {
@@ -8228,7 +8264,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 246649,
       "name": "To Love You More",
       "url": "https://open.spotify.com/track/0wnFLe7zakzjBcw12cuyyP"

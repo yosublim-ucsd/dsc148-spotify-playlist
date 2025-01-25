@@ -1,12 +1,12 @@
 {
   "description": "New year, same Kitty. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.",
-  "num_followers": 246946,
+  "num_followers": 248467,
   "original_name": "XO, Kitty Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5AvkgAAAAA5FzdEx8ceeuZf2OeDbMN6",
+  "snapshot_id": "Z5QrFAAAAAC1VcVuf+orqi8nGFhFRqpt",
   "tracks": [
     {
       "added_at": "2025-01-16 08:00:28",
@@ -23,6 +23,22 @@
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f"
+    },
+    {
+      "added_at": "2025-01-24 21:27:11",
+      "album": {
+        "name": "Favorite Son (From XO, Kitty Season 2)",
+        "url": "https://open.spotify.com/album/7hjK7rJh2qdkIYaTi7USNg"
+      },
+      "artists": [
+        {
+          "name": "dv/sn",
+          "url": "https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS"
+        }
+      ],
+      "duration_ms": 118020,
+      "name": "Favorite Son (From XO, Kitty Season 2)",
+      "url": "https://open.spotify.com/track/6j7x60LgykoSpz9jJleuSb"
     },
     {
       "added_at": "2025-01-16 08:00:28",

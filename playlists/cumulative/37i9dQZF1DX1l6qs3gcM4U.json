@@ -726,7 +726,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 166000,
       "name": "At\u00e9 Quando",
       "url": "https://open.spotify.com/track/7slbyYPHe4LvQwySBudRLP"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 180026,
       "name": "Benka Benka",
       "url": "https://open.spotify.com/track/1qyB67YZSNblHfX5hQ09Ko"
@@ -2054,6 +2054,28 @@
       "duration_ms": 169407,
       "name": "Deixa o Clima Rolar",
       "url": "https://open.spotify.com/track/5Jpa5TYgS6Eqdp3395ZtjG"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/2TD6g3V1Petbnarg0kGWHq"
+      },
+      "artists": [
+        {
+          "name": "Tercy Costa",
+          "url": "https://open.spotify.com/artist/6AnQYXkegZ9EQzuAHzFrA0"
+        },
+        {
+          "name": "Kaysha",
+          "url": "https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218845,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6AwrhWNb5rkvDibLSniMGK"
     },
     {
       "album": {
@@ -3110,7 +3132,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 199285,
       "name": "Fine Design",
       "url": "https://open.spotify.com/track/7p5cYq2tTAlLetEf34Yxy0"
@@ -5472,7 +5494,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 171600,
       "name": "Not An Angel",
       "url": "https://open.spotify.com/track/06mZxnffGe3vWuzXZv8W72"
@@ -6003,6 +6025,24 @@
     },
     {
       "album": {
+        "name": "OHMAR",
+        "url": "https://open.spotify.com/album/22DbnZ5C91fxAuLHDuGxtk"
+      },
+      "artists": [
+        {
+          "name": "CESF",
+          "url": "https://open.spotify.com/artist/2vuYAHr48feo9PXfmvpNsW"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "OHMAR",
+      "url": "https://open.spotify.com/track/3dZR4wSc1leYgB8wxiVTg9"
+    },
+    {
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/3jQGpLyTwrw96I0lWeawGA"
       },
@@ -6040,7 +6080,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 211796,
       "name": "Outro Amor",
       "url": "https://open.spotify.com/track/4OYtHdw2kUdIObSTgmU2Gf"
@@ -8469,6 +8509,24 @@
     },
     {
       "album": {
+        "name": "Tudo Bem",
+        "url": "https://open.spotify.com/album/2cvYW2LoY5Zx7FNvvboMQ1"
+      },
+      "artists": [
+        {
+          "name": "Barbie Africana",
+          "url": "https://open.spotify.com/artist/6Y98odeUz2ubIvj01pO2iF"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/3VEAP3lAzIPj2GmVCE1Iz0"
+    },
+    {
+      "album": {
         "name": "Tudo bem, N\u00e3o est\u00e1 tudo bem",
         "url": "https://open.spotify.com/album/7eRuUEGWadfsnXVB1l8Qyn"
       },
@@ -8781,6 +8839,32 @@
     },
     {
       "album": {
+        "name": "Vai Render",
+        "url": "https://open.spotify.com/album/2x9mPfbAxptEyj7FscjXco"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Tony Z",
+          "url": "https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt"
+        },
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182817,
+      "name": "Vai Render",
+      "url": "https://open.spotify.com/track/65DiPgRyzRXrhLY1L35dDx"
+    },
+    {
+      "album": {
         "name": "Vais Me Perder",
         "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
       },
@@ -8832,6 +8916,24 @@
       "duration_ms": 165000,
       "name": "Van Mij",
       "url": "https://open.spotify.com/track/6ABD5xqDPVX0sJbvE4pWHB"
+    },
+    {
+      "album": {
+        "name": "Vem Ser Feliz",
+        "url": "https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK"
+      },
+      "artists": [
+        {
+          "name": "Lurhany",
+          "url": "https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Vem Ser Feliz",
+      "url": "https://open.spotify.com/track/6i3jg8knbFP7BzxtO5FOsO"
     },
     {
       "album": {

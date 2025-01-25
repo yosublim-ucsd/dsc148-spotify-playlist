@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-388 songs - 22 hr 14 min
+389 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 | 2022-03-09 | 2022-05-24 |
 | [1999](https://open.spotify.com/track/70Y2ZoJssFfGhqIxWfdDeP) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Rawkus Presents Soundbombing II](https://open.spotify.com/album/4cgM0H8iGi1tlMm7bpv1WT) | 4:10 | 2022-01-14 | 2022-07-09 |
 | [23 FEB MADRID FREESTYLE](https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:30 | 2022-03-25 | 2022-04-09 |
+| [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 | 2025-01-24 |  |
 | [505](https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 3:07 | 2022-03-25 | 2024-11-08 |
 | [89](https://open.spotify.com/track/5qIEf0IMDI9CvQTu9qDIc0) | [McGyver](https://open.spotify.com/artist/1XCur6DOUnQ2RqQGUMpOj4), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [89](https://open.spotify.com/album/0ATQiUflK5V9yVCdvnBPMK) | 3:10 | 2022-04-22 | 2022-07-28 |
 | [\[Admire Her\] \(with Gunna\)](https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 2:37 | 2022-04-15 | 2025-01-18 |
@@ -245,7 +246,7 @@
 | [Never Fail \(with Benny The Butcher\)](https://open.spotify.com/track/0myEYpzyBetSo4tgKs7oUx) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Never Fail \(with Benny The Butcher\)](https://open.spotify.com/album/4U7gKEk4Q7fdNPTdhobpRq) | 3:20 | 2022-01-14 | 2022-03-05 |
 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 | 2022-04-08 | 2022-04-23 |
 | [Next Level](https://open.spotify.com/track/76Hv2fTXOTBmMnTyzbhrCz) | [Showbiz](https://open.spotify.com/artist/3euwln1nsG64HZaIoyDpiz), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE) | [Best of Old School Hip\-Hop](https://open.spotify.com/album/6DAmZeinawrXXeMZftok37) | 4:09 | 2022-01-14 | 2022-03-09 |
-| [Nikes on My Feet](https://open.spotify.com/track/4Hq1q82uvzNxUYmgBOxPco) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Nikes on My Feet](https://open.spotify.com/album/251tFbDekSN0fthVyqG7sL) | 2:44 | 2022-01-14 |  |
+| [Nikes on My Feet](https://open.spotify.com/track/4Hq1q82uvzNxUYmgBOxPco) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Nikes on My Feet](https://open.spotify.com/album/251tFbDekSN0fthVyqG7sL) | 2:44 | 2022-01-14 | 2025-01-25 |
 | [Nikes on My Feet](https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:44 | 2023-04-21 | 2024-04-19 |
 | [No Bark When I Bite \(feat\. Rick Ross & Cruel Youth\)](https://open.spotify.com/track/1ab84pPNDrYToyqsYj9skD) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Cruel Youth](https://open.spotify.com/artist/4YrURxtCHtPBfNDmMNp7IG) | [No Bark When I Bite \(feat\. Rick Ross & Cruel Youth\)](https://open.spotify.com/album/6HXMTndPlH5GAqSM9DSxc8) | 2:32 | 2022-01-14 | 2022-07-28 |
 | [No Distractions](https://open.spotify.com/track/7tmlt7mrxRcss23czKZTMF) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [No Distractions](https://open.spotify.com/album/3axNoaSEpTM4Wr4TQt7Ut6) | 2:59 | 2023-11-10 | 2024-11-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "The latest and the greatest of CHH!  Cover: Anike, Jackie Hill Perry, Lecrae, Trip Lee, and Alexxander",
+  "description": "The latest and the greatest of CHH!  Cover: Tedashii",
   "name": "The Blaze",
   "tracks": [
     {
@@ -198,6 +198,24 @@
       "duration_ms": 126830,
       "name": "ALL FOR YOU.",
       "url": "https://open.spotify.com/track/1GQQZItCvS148yTNYrRaSl"
+    },
+    {
+      "album": {
+        "name": "All Love",
+        "url": "https://open.spotify.com/album/01zrJmLrY1sJxrvwlFz3rq"
+      },
+      "artists": [
+        {
+          "name": "Tylan1k",
+          "url": "https://open.spotify.com/artist/6PY88og97O47AlwuyFFRhr"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169892,
+      "name": "All Love",
+      "url": "https://open.spotify.com/track/2NcUMWCMavTipD8xzxbmQo"
     },
     {
       "album": {
@@ -463,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Bad Bad Feeling",
+        "url": "https://open.spotify.com/album/54YmdjxB7txHZyU2FlAstM"
+      },
+      "artists": [
+        {
+          "name": "outr.cty",
+          "url": "https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w"
+        },
+        {
+          "name": "Kaleb Mitchell",
+          "url": "https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146842,
+      "name": "Bad Bad Feeling",
+      "url": "https://open.spotify.com/track/4ktmIlTnfDLxRWQwTbwoWa"
+    },
+    {
+      "album": {
         "name": "Bando",
         "url": "https://open.spotify.com/album/7MvoDoYgjs1aVnK9fGRIam"
       },
@@ -659,6 +699,24 @@
     },
     {
       "album": {
+        "name": "GROWING PAINS",
+        "url": "https://open.spotify.com/album/0xs2MyBKAOQAGb076Imq01"
+      },
+      "artists": [
+        {
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232350,
+      "name": "Blame Game",
+      "url": "https://open.spotify.com/track/7cZGTttxEkQXgNcr5Zo1lE"
+    },
+    {
+      "album": {
         "name": "BLESSED",
         "url": "https://open.spotify.com/album/3BePNExIOm54F4e5h40r86"
       },
@@ -718,10 +776,36 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 123765,
       "name": "BLOSSOM",
       "url": "https://open.spotify.com/track/7qkazIcmxt0r8tp6U2HHTq"
+    },
+    {
+      "album": {
+        "name": "BLOSSOM (With Angel Hill)",
+        "url": "https://open.spotify.com/album/6NBlu2ozb9CoPR5Tt9GI34"
+      },
+      "artists": [
+        {
+          "name": "3NOTS",
+          "url": "https://open.spotify.com/artist/5huJjsRn6Qy4ZBiLgMwx4H"
+        },
+        {
+          "name": "Justin Stone",
+          "url": "https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk"
+        },
+        {
+          "name": "Angel Hill",
+          "url": "https://open.spotify.com/artist/0v4Iw2QsGo7sa1kzpccz6k"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187741,
+      "name": "BLOSSOM (With Angel Hill)",
+      "url": "https://open.spotify.com/track/7dRYYrMV18dN3hDO6eKnnh"
     },
     {
       "album": {
@@ -823,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Silent Beast",
+        "url": "https://open.spotify.com/album/1gHmsQb6P6O4h1tbHSXrHT"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253181,
+      "name": "Born To Rise",
+      "url": "https://open.spotify.com/track/28Nsw55Css2588Fifie1n7"
+    },
+    {
+      "album": {
         "name": "BOSSA NOVA",
         "url": "https://open.spotify.com/album/5rAx6q2Bto6TWbeqKMGrEa"
       },
@@ -890,7 +992,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 173419,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/2XHHvlufkH8h5osYYiuYLM"
@@ -934,6 +1036,32 @@
       "duration_ms": 168240,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/4Tz6eyLb0J9ICJFtSaL78C"
+    },
+    {
+      "album": {
+        "name": "Call the Father",
+        "url": "https://open.spotify.com/album/6Ord6iPTK4z4hpGpYoTWjq"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        },
+        {
+          "name": "Minister Taf",
+          "url": "https://open.spotify.com/artist/1ezk4wCEQQTUDbmBVo2Wm2"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155495,
+      "name": "Call the Father",
+      "url": "https://open.spotify.com/track/7anRj0ePN0dHzPNyzlsu14"
     },
     {
       "album": {
@@ -1004,6 +1132,24 @@
       "duration_ms": 143653,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/4yrqHxAUBDU6Uwrcn3oVo9"
+    },
+    {
+      "album": {
+        "name": "Championship Ring",
+        "url": "https://open.spotify.com/album/5fn91vH0P9WKykYME4U7Cf"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164796,
+      "name": "Championship Ring",
+      "url": "https://open.spotify.com/track/0jkPGZsE4JGyW4WOPOjsqp"
     },
     {
       "album": {
@@ -1116,7 +1262,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 149610,
       "name": "close like",
       "url": "https://open.spotify.com/track/6QvpbjvbqQb1tlJjWc8HpF"
@@ -1403,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "DROP!",
+        "url": "https://open.spotify.com/album/2sTP4Wk2ctDugKJ6SPnv8p"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234271,
+      "name": "DROP!",
+      "url": "https://open.spotify.com/track/4MgpHcDBkz2k84ao1BrBHK"
+    },
+    {
+      "album": {
         "name": "The Shining Instrumental",
         "url": "https://open.spotify.com/album/2ZcZ21vMvMSt1JFhCe1SME"
       },
@@ -1454,6 +1618,28 @@
       "duration_ms": 135697,
       "name": "Echoes of the Innocent",
       "url": "https://open.spotify.com/track/2w3xsKxgMOmIf9yjHX6bhO"
+    },
+    {
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/36XPlyx8PfUG5Z0VnrixCu"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        },
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/00XqexNnIOLUzYH8IJVD3N"
     },
     {
       "album": {
@@ -2431,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "Gotta Tell Somebody",
+        "url": "https://open.spotify.com/album/7oQcqGM0utW9oIy4uEJNt9"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142144,
+      "name": "Gotta Tell Somebody",
+      "url": "https://open.spotify.com/track/02cMuUDsAIyywK22jz1M1L"
+    },
+    {
+      "album": {
         "name": "GRACE & MERCY",
         "url": "https://open.spotify.com/album/7qBELAtbyUeurx5QbL4MEl"
       },
@@ -2577,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "HEMI TURNER",
+        "url": "https://open.spotify.com/album/7mH8GUP2AXV1qOS3Jgn5Kr"
+      },
+      "artists": [
+        {
+          "name": "JWOODZ",
+          "url": "https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84690,
+      "name": "HEMI TURNER",
+      "url": "https://open.spotify.com/track/4zhWNcqE6DeySC0VlsImUL"
+    },
+    {
+      "album": {
         "name": "HI-C",
         "url": "https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J"
       },
@@ -2714,6 +2936,28 @@
       "duration_ms": 193274,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/19b2G4T5aYMWapNWh6BDYd"
+    },
+    {
+      "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/5tGtEL4znCe3EWOimM3Rzm"
+      },
+      "artists": [
+        {
+          "name": "Faith Child",
+          "url": "https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241888,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/67j3cTOjh1YglZgOFj131d"
     },
     {
       "album": {
@@ -2926,7 +3170,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 178474,
       "name": "Image",
       "url": "https://open.spotify.com/track/16EYzt2DbPz7881N773UcK"
@@ -3340,6 +3584,32 @@
       "duration_ms": 185441,
       "name": "Let Go Let God (The Anthem)",
       "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+    },
+    {
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/7HfYhRiE3Bvy4IBiHIXI5F"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        },
+        {
+          "name": "Errol Allen",
+          "url": "https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc"
+        },
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210308,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2yZQ1G3VXrbJ6hcccOpaou"
     },
     {
       "album": {
@@ -4361,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "NO WAY!",
+        "url": "https://open.spotify.com/album/1Fd1fG9vNRwtQpP5TFT278"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90769,
+      "name": "NO WAY!",
+      "url": "https://open.spotify.com/track/0KPfpY1FjH7o4askP0qSAB"
+    },
+    {
+      "album": {
         "name": "Not One",
         "url": "https://open.spotify.com/album/1k1PSqQeK7qHKNnlAqLVRG"
       },
@@ -4532,6 +4820,32 @@
       "duration_ms": 158897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4E8nSjhQh0PBoi7szlJRzm"
+    },
+    {
+      "album": {
+        "name": "Outside Wit It",
+        "url": "https://open.spotify.com/album/6kkYJaAoE3dAGyS7nll3Lm"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Sevin",
+          "url": "https://open.spotify.com/artist/1I402d4s0Xe8EntQI3u96l"
+        },
+        {
+          "name": "Murcy 34",
+          "url": "https://open.spotify.com/artist/3ShiorUjSlxwvPUr2ofZSJ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193343,
+      "name": "Outside Wit It",
+      "url": "https://open.spotify.com/track/0Hj0ZWxEtxqJZwx18YEsrZ"
     },
     {
       "album": {
@@ -5012,7 +5326,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 155758,
       "name": "RAIN.",
       "url": "https://open.spotify.com/track/206M8hpRSGXnpgJQC4QrVf"
@@ -5060,6 +5374,24 @@
       "duration_ms": 175890,
       "name": "Readjust",
       "url": "https://open.spotify.com/track/7BT9FmLbpJzRc3uPGNaIdc"
+    },
+    {
+      "album": {
+        "name": "Red Mercedes",
+        "url": "https://open.spotify.com/album/4FqEdIjwG6wdCyEx2tyxcz"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157895,
+      "name": "Red Mercedes",
+      "url": "https://open.spotify.com/track/3II7QddbZjEKhYh7XoBb1Y"
     },
     {
       "album": {
@@ -5591,6 +5923,28 @@
     },
     {
       "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/0NSbsyWg8s2pP9bzNtbiIa"
+      },
+      "artists": [
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216396,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/623ojrBv5jizMDQ5vrpWiy"
+    },
+    {
+      "album": {
         "name": "Stay Around",
         "url": "https://open.spotify.com/album/1iDzsnX71TnbYEU6PLQUd4"
       },
@@ -5798,6 +6152,24 @@
       "duration_ms": 164210,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/1Gro4Q3KEZZXEcERr7udH1"
+    },
+    {
+      "album": {
+        "name": "Take It Easy",
+        "url": "https://open.spotify.com/album/1tBeo17QNX6hPtoaawxqj8"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/6UNTPqxzTfAzTHrOxzRJnV"
     },
     {
       "album": {
@@ -6155,6 +6527,24 @@
     },
     {
       "album": {
+        "name": "The Otherside",
+        "url": "https://open.spotify.com/album/2EfEAI0mBL78YBmnrCIZPJ"
+      },
+      "artists": [
+        {
+          "name": "Cutright",
+          "url": "https://open.spotify.com/artist/0Dt2s4Xri6vm6DfilZyjvQ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163979,
+      "name": "The Otherside",
+      "url": "https://open.spotify.com/track/0jCOpmhnvBnNb29Gtv7sWc"
+    },
+    {
+      "album": {
         "name": "The Prologue",
         "url": "https://open.spotify.com/album/5iaf3oYOybrKkKzM2a57Rx"
       },
@@ -6274,6 +6664,24 @@
       "duration_ms": 187826,
       "name": "Time",
       "url": "https://open.spotify.com/track/6BN9UHl3oe8Gfq6ogJVNPw"
+    },
+    {
+      "album": {
+        "name": "Time is Now",
+        "url": "https://open.spotify.com/album/16uGafcL0xoAQdcnTQaymy"
+      },
+      "artists": [
+        {
+          "name": "Wayne Klassik",
+          "url": "https://open.spotify.com/artist/3rmqwsgWN75pX6EzDK5xTv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172286,
+      "name": "Time is Now",
+      "url": "https://open.spotify.com/track/0UTEzvluaENGECcjj600GT"
     },
     {
       "album": {
@@ -6681,6 +7089,24 @@
     },
     {
       "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/4JhXDLw4qNWuMtHEubAyYU"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172950,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/2giMMPQslkGE9UD2mNV0cz"
+    },
+    {
+      "album": {
         "name": "Pray Forum",
         "url": "https://open.spotify.com/album/0PkWXffcZQxCvqZQHBUIrL"
       },
@@ -6758,6 +7184,32 @@
       "duration_ms": 158458,
       "name": "When It's Cold",
       "url": "https://open.spotify.com/track/2o9LVPMR3Ld9UCejac6y0W"
+    },
+    {
+      "album": {
+        "name": "When the Praises Go Up (The Blessings Come Down) [Remix]",
+        "url": "https://open.spotify.com/album/5YB1uVKX7VrQiY67hBvxDL"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "Jazze Pha",
+          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+        },
+        {
+          "name": "Maya Marchelle",
+          "url": "https://open.spotify.com/artist/76o8Rrk9uKYx52z9JoS31k"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "When the Praises Go Up (The Blessings Come Down) - Remix",
+      "url": "https://open.spotify.com/track/56zLcPW4h3aVu7tFxUEw7W"
     },
     {
       "album": {
@@ -7096,6 +7548,24 @@
       "duration_ms": 169513,
       "name": "You a Star",
       "url": "https://open.spotify.com/track/6uxojjJgdqg7BQJU7qJ6YV"
+    },
+    {
+      "album": {
+        "name": "YOU ARE NOT HIM!",
+        "url": "https://open.spotify.com/album/5fWjc5LYOcnB2rQN0VICQb"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152312,
+      "name": "YOU ARE NOT HIM!",
+      "url": "https://open.spotify.com/track/4z7ZzVvVmEkRBuvWQ8bmQf"
     },
     {
       "album": {

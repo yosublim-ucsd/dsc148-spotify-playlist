@@ -6,8 +6,28 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAES1hS62o7nWW+Ir6tW6p808d9fmW9",
+  "snapshot_id": "AAAETbPLY7YcKYPssPcB51B8GXkq+Q1N",
   "tracks": [
+    {
+      "added_at": "2025-01-24 13:27:33",
+      "album": {
+        "name": "All Too Late",
+        "url": "https://open.spotify.com/album/7uz6W3xnVGod7qtJHbAePW"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Rhode",
+          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "All Too Late",
+      "url": "https://open.spotify.com/track/4m1KSPhZ74hYFDd6pq5Cz6"
+    },
     {
       "added_at": "2025-01-17 21:35:05",
       "album": {

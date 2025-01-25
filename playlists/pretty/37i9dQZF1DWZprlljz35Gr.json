@@ -1,13 +1,29 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 10186,
+  "num_followers": 10193,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAA0tDUn7O99kZx/sAaxpoV5",
+  "snapshot_id": "Z5MeaQAAAAC59MIFYyC9lwxu8Fo9ZY2e",
   "tracks": [
+    {
+      "added_at": "2025-01-24 05:00:25",
+      "album": {
+        "name": "Bluestronic",
+        "url": "https://open.spotify.com/album/5ouYd9u3TLiLi2I8QgWgA3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "duration_ms": 179619,
+      "name": "A Long Time Ago",
+      "url": "https://open.spotify.com/track/4Ptou8vgEF6aYsW7rKPb5o"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {

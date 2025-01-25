@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-362 songs - 18 hr 46 min
+363 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Make The Crowd Go Nuts](https://open.spotify.com/track/6iEgZHl3B8BZCGYJEdUKJV) | [Tom & Jame](https://open.spotify.com/artist/6ZXRsQeAoGPspf8tNeEtPo) | [Make The Crowd Go Nuts](https://open.spotify.com/album/3JX1xk6oaxSJSMCMUi8rR6) | 4:04 | 2023-09-01 | 2024-05-01 |
 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2023-10-13 | 2024-08-03 |
 | [manic at the disco](https://open.spotify.com/track/55TELAw1zkLz4uWzD0GgaS) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [manic at the disco](https://open.spotify.com/album/1w0vFtU6Yjsa4ZU9RwJc3t) | 3:13 | 2025-01-17 |  |
+| [Marathon](https://open.spotify.com/track/1CyaiI6M9K4XBgj9XKSEkZ) | [Vertigini](https://open.spotify.com/artist/60le92YZ1Nbf59c65NQIEV) | [Marathon / Blowfish](https://open.spotify.com/album/7ITHLZE2vIMoJ2hdNnY9g8) | 4:27 | 2025-01-24 |  |
 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 | 2023-04-26 |  |
 | [Mbili](https://open.spotify.com/track/7vDXgStinvrwXGxq3aA6yq) | [Tommie Sox](https://open.spotify.com/artist/3xLjzqgFNvUMm8pnutD5Jp), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mbili](https://open.spotify.com/album/3R71N2Ji3CsgWGegCQZJuE) | 4:41 | 2023-09-08 | 2024-03-14 |
 | [Me Gustas Tu \- Tech House Remix](https://open.spotify.com/track/4oaauPY9f4GA95Ils2jmrV) | [Hot Monkey Music](https://open.spotify.com/artist/5G2XfZyhbMoSCI3ntkrnKv) | [Me Gustas Tu \(Tech House Remix\)](https://open.spotify.com/album/0MccwVTbQhHtukwpzbI5l5) | 3:06 | 2023-07-10 | 2024-03-14 |

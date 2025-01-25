@@ -10001,6 +10001,24 @@
     },
     {
       "album": {
+        "name": "Walking",
+        "url": "https://open.spotify.com/album/1C6fA2HwKexJ5wV2bXOmua"
+      },
+      "artists": [
+        {
+          "name": "Tyran Roy",
+          "url": "https://open.spotify.com/artist/2p6HLFF5VnxaOEUwDNh7VF"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Walking",
+      "url": "https://open.spotify.com/track/0FwEcDBaCxjzZWhp1LY4Oo"
+    },
+    {
+      "album": {
         "name": "WAR",
         "url": "https://open.spotify.com/album/2TBi0FV18WhlGi1zGbkgxE"
       },

@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Gratitude Meditation",
+        "url": "https://open.spotify.com/album/55rugSQQmqZ2W6INromCi7"
+      },
+      "artists": [
+        {
+          "name": "The Guided Meditation Gurus",
+          "url": "https://open.spotify.com/artist/0iXhnZJOVEgRuSBIzawn87"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478134,
+      "name": "Gratitude Meditation",
+      "url": "https://open.spotify.com/track/1B2BEQ5MBUmTnloR5HhC77"
+    },
+    {
+      "album": {
         "name": "Grounded - Guided Meditation",
         "url": "https://open.spotify.com/album/3ghWlIj8OyoYPVj7af8KNc"
       },
@@ -1086,6 +1104,32 @@
       "duration_ms": 470796,
       "name": "Guided Meditation For Overthinking",
       "url": "https://open.spotify.com/track/6lMLQPi23nO33cZu2aHPq5"
+    },
+    {
+      "album": {
+        "name": "Guided Meditation For Postive Energy (5 Minute Meditation - Guided Meditation For Positive Energy & Anxiety)",
+        "url": "https://open.spotify.com/album/3wkDpAbkDCECZkStM0rZsN"
+      },
+      "artists": [
+        {
+          "name": "Guided Meditation",
+          "url": "https://open.spotify.com/artist/5lWKhMEB1HAYGo8i3AndCm"
+        },
+        {
+          "name": "Guided Meditations",
+          "url": "https://open.spotify.com/artist/5AGIWpp3DbeJlgUy8Y67ZM"
+        },
+        {
+          "name": "Meditation Guided",
+          "url": "https://open.spotify.com/artist/6dnW5kfYaNv9lSzCHJhXsv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281379,
+      "name": "Guided Meditation For Postive Energy - 5 Minute Meditation - Guided Meditation For Positive Energy & Anxiety",
+      "url": "https://open.spotify.com/track/3j1hq7Jz3IqSI3MHVNPipm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,653 likes - 162 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,821 likes - 162 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 80 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomás Peire\-Serrate](https://open.spotify.com/artist/0oVqqVWGJCZSI3QXzd13du) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 |
 | 81 | [I Want To Know What Love Is](https://open.spotify.com/track/48NJRzCcD6t3d65nOJcrhg) | [Rock Me Classical](https://open.spotify.com/artist/08tuXNeG1BJ8mn3jixU8Rj), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [I Want To Know What Love Is](https://open.spotify.com/album/1IcD6YtmkSavyvatxFxnax) | 3:37 |
 | 82 | [Love Me Like You Do](https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions II](https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe) | 3:15 |
-| 83 | [Give Me Everything \(Arr\. Piano\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/2rDmCIiu0GjN6NB6JkKbJL) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [My Little Lullabies](https://open.spotify.com/artist/1T7on2viSsmYu1BJh9nsQC) | [Give Me Everything \(Arr\. Piano\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/2IpV7sJRwfIcZpJkS7K939) | 3:33 |
+| 83 | [Give Me Everything \(Arr\. Piano\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/2rDmCIiu0GjN6NB6JkKbJL) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Give Me Everything \(Arr\. Piano\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/2IpV7sJRwfIcZpJkS7K939) | 3:33 |
 | 84 | [Despacito](https://open.spotify.com/track/3vqyauyYbp9MqUwrCEmWJ0) | [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Luis Rodriguez](https://open.spotify.com/artist/7dTPvuNcEXLkQ1XiAuiWIP), [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Despacito](https://open.spotify.com/album/4uRarQtP1NTEVKBtKu3Irc) | 2:26 |
 | 85 | [Traitor \(arr\. String Quartet \(inspired by Bridgerton\)\)](https://open.spotify.com/track/4KgoCx0x5Tln9FBt5N6Zca) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Traitor \(arr\. String Quartet \(inspired by Bridgerton\)\)](https://open.spotify.com/album/4IfBP36KdwEmPXXtLQKmga) | 3:42 |
 | 86 | [Espresso](https://open.spotify.com/track/2OjCGfWEUucEtxUICbLtwv) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [Espresso](https://open.spotify.com/album/7ELfx0oBkNrKUznbqj9WBy) | 2:54 |

@@ -7663,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "astronaut",
+        "url": "https://open.spotify.com/album/2E39FMBCAqXS6jGHg7MpgW"
+      },
+      "artists": [
+        {
+          "name": "the tofu paradigm",
+          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "astronaut",
+      "url": "https://open.spotify.com/track/1ZaXTx0lasJIaiCZeNFg5C"
+    },
+    {
+      "album": {
         "name": "Evergreen Tape",
         "url": "https://open.spotify.com/album/3UWTfQWqBmrgh8tOhHTfHP"
       },
@@ -16872,7 +16890,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 115601,
       "name": "BSQT",
       "url": "https://open.spotify.com/track/4j6Rx04joLZDk8WNXs5Et0"
@@ -18020,6 +18038,28 @@
       "duration_ms": 101000,
       "name": "Cabin",
       "url": "https://open.spotify.com/track/15I41aDgEvvqFh7fy4AU4I"
+    },
+    {
+      "album": {
+        "name": "cabin morning",
+        "url": "https://open.spotify.com/album/2VIJzurWWxBucXDskaDEiB"
+      },
+      "artists": [
+        {
+          "name": "HM Surf",
+          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+        },
+        {
+          "name": "sove",
+          "url": "https://open.spotify.com/artist/3qpcpvSv3LQSgRzofyKLlt"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85590,
+      "name": "cabin morning",
+      "url": "https://open.spotify.com/track/7dAYK6GAuyfKGp3MAe9Ap0"
     },
     {
       "album": {
@@ -22820,6 +22860,24 @@
       "duration_ms": 145714,
       "name": "cliffside",
       "url": "https://open.spotify.com/track/4XL5qF8dwrMczCGJLswco9"
+    },
+    {
+      "album": {
+        "name": "climb",
+        "url": "https://open.spotify.com/album/1nQaRb82pXUGES8Usg9glx"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "climb",
+      "url": "https://open.spotify.com/track/7gPV4crSQEYWOvtPP6U7yC"
     },
     {
       "album": {
@@ -36710,7 +36768,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 131165,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/4tRa3UrTEfuiwpTdsRSqDP"
@@ -37828,6 +37886,28 @@
       "duration_ms": 124235,
       "name": "Evening Lights",
       "url": "https://open.spotify.com/track/0O67R58LAQpZOVj45jRjJc"
+    },
+    {
+      "album": {
+        "name": "Evening Lounge",
+        "url": "https://open.spotify.com/album/0OrigkcfAG5WjHGnCf6rne"
+      },
+      "artists": [
+        {
+          "name": "Screwaholic",
+          "url": "https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123409,
+      "name": "Evening Lounge",
+      "url": "https://open.spotify.com/track/6rI8pIawMxhUOG9afvFMBK"
     },
     {
       "album": {
@@ -42554,7 +42634,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 132750,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/2mEay3PsQgJhdM7ab1T0k5"
@@ -52863,6 +52943,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3CrtBrLpMJIYcj1pocp52q"
+      },
+      "artists": [
+        {
+          "name": "Katashi Kait\u014d",
+          "url": "https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124245,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0wXszBslvStTDWzKYD5YNG"
+    },
+    {
+      "album": {
         "name": "higher",
         "url": "https://open.spotify.com/album/2JIRIG79MPFLsKlZE1wOse"
       },
@@ -56859,6 +56957,24 @@
     },
     {
       "album": {
+        "name": "Im Like Ice, Buddy",
+        "url": "https://open.spotify.com/album/7limCyVYGVJjik6yeFef92"
+      },
+      "artists": [
+        {
+          "name": "Cosmoo",
+          "url": "https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124895,
+      "name": "Im Like Ice, Buddy",
+      "url": "https://open.spotify.com/track/0QEfHUCh4fM9BOziJAZRG4"
+    },
+    {
+      "album": {
         "name": "IMAGINARY FRIEND",
         "url": "https://open.spotify.com/album/1D2rZkH4CRiusHPXCxSmES"
       },
@@ -59190,7 +59306,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 116928,
       "name": "Invisibility",
       "url": "https://open.spotify.com/track/5UVEkE6YiK12v125Pbgn2H"
@@ -70716,7 +70832,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 98816,
       "name": "Lost Track",
       "url": "https://open.spotify.com/track/3y3EGDwhprjjVR8IJCHaOh"
@@ -72832,7 +72948,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 174239,
       "name": "made sense",
       "url": "https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy"
@@ -84120,7 +84236,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 141408,
       "name": "nightvibez",
       "url": "https://open.spotify.com/track/1SLlIviQNwOqyJ5pPMZ0pn"
@@ -87342,7 +87458,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 129278,
       "name": "Old Love",
       "url": "https://open.spotify.com/track/21WBrczpr70HHfctPt4tBE"
@@ -103028,6 +103144,28 @@
     {
       "album": {
         "name": "Saudade",
+        "url": "https://open.spotify.com/album/3zb2PgzfCcSQ4qYgRApIlu"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152026,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/32cwqzRNRzCLP8stZ5HNaK"
+    },
+    {
+      "album": {
+        "name": "Saudade",
         "url": "https://open.spotify.com/album/2rbaRvCC6gtcdGLZ8IlS3p"
       },
       "artists": [
@@ -105406,6 +105544,28 @@
       "duration_ms": 144000,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/2gqkFZaswsWNygqZihEdX6"
+    },
+    {
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/4QDR0G4bG02o7AACjMV72p"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "blndspot",
+          "url": "https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/0xqFNXEveVXtVc9pjaaD3e"
     },
     {
       "album": {
@@ -108182,7 +108342,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 98863,
       "name": "slowly",
       "url": "https://open.spotify.com/track/0OQycB6AjHHMbGii30Mo56"
@@ -126278,7 +126438,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 91490,
       "name": "Trineos",
       "url": "https://open.spotify.com/track/45qPHGAfaTDAyg11FMFkwY"
@@ -130274,7 +130434,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 158918,
       "name": "Vibrancy",
       "url": "https://open.spotify.com/track/4Uy5XZYvp88ntwQhHoyN84"
@@ -135499,6 +135659,24 @@
     },
     {
       "album": {
+        "name": "Wiggy joe",
+        "url": "https://open.spotify.com/album/2wM4Pd3us7eIBJxtHfQAO2"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128780,
+      "name": "Wiggy joe",
+      "url": "https://open.spotify.com/track/206c8AjWo0t21vS4YkvKuT"
+    },
+    {
+      "album": {
         "name": "wild blue yonder",
         "url": "https://open.spotify.com/album/4UZcjVH3KKVgfGCnMPXMou"
       },
@@ -138831,6 +139009,24 @@
     },
     {
       "album": {
+        "name": "yours truly",
+        "url": "https://open.spotify.com/album/2uMAreQ0aVTPpbnFaDLaJi"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8wkey",
+          "url": "https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "yours truly",
+      "url": "https://open.spotify.com/track/1FOoMGHdKqIFguj834ROf1"
+    },
+    {
+      "album": {
         "name": "Youthful Spirit",
         "url": "https://open.spotify.com/album/2LiwJJaTROBzfBQWDixD5k"
       },
@@ -139270,7 +139466,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 139232,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/01tUhIL7bgA6UrByND0Cg3"

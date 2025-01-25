@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,972 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,967 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 17 | [VEEKSHANA](https://open.spotify.com/track/3LHP3JSY2g3cKWQgCG8xYs) | [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn), [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [VEEKSHANA](https://open.spotify.com/album/1DNy15Deb7DXZipKDxoi7z) | 3:41 |
 | 18 | [Soundarya Lahari](https://open.spotify.com/track/6UF17wbA3lGZnmtC5SQzZX) | [Anirudh Joshi](https://open.spotify.com/artist/6AqbTkpCtH1Tb8hwGgIC7l) | [Soundarya Lahari](https://open.spotify.com/album/2GqhuwmW6iptfgG0p2Zvuy) | 2:58 |
 | 19 | [Eeroje](https://open.spotify.com/track/3bVDOouNAzL5tHsISeCbgw) | [Fleep & Arin](https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl) | [Eeroje](https://open.spotify.com/album/1wfq34tbWY4qN4ojUJJ81F) | 3:08 |
-| 20 | [Radha Rishi](https://open.spotify.com/track/2rgep6eTj60gjJTCe1zcqV) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Radha Rishi](https://open.spotify.com/album/1uN0ZHYawADrLNVmEDewu4) | 6:19 |
+| 20 | [Radha Rishi](https://open.spotify.com/track/2rgep6eTj60gjJTCe1zcqV) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN), [K.V\. Bharadwaj](https://open.spotify.com/artist/5Feq6xe7HtFEyEcmpoo3Kz) | [Radha Rishi](https://open.spotify.com/album/1uN0ZHYawADrLNVmEDewu4) | 6:19 |
 | 21 | [Priya](https://open.spotify.com/track/7mWKt0C20Q05fHNU60nfT3) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Priya](https://open.spotify.com/album/6mmK0Nb9PYIpC2s0vqE6in) | 4:40 |
 | 22 | [Sukkalanti Pilla](https://open.spotify.com/track/5ju8QKjaAVfjUhScNSVJjD) | [Pavan Kalyan](https://open.spotify.com/artist/0gpmv3FkE6npT2OWGPrJvi) | [Kousalya Tanaya Raghava](https://open.spotify.com/album/2DF0wrCT08UuosNBffUufB) | 2:56 |
 | 23 | [LABOUR \(Telugu\)](https://open.spotify.com/track/5a80e41LbpBreejyJlQTkY) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ananya Sritam Nanda](https://open.spotify.com/artist/5LEB7FszyBm9WvEwtbJeKS) | [LABOUR \(Telugu\)](https://open.spotify.com/album/07K6LgY8VG8guTJzrSwOkB) | 5:11 |

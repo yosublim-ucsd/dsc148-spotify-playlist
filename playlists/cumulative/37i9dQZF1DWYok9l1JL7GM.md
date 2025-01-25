@@ -4,7 +4,7 @@
 
 > The south got something to say\. Cover: Gucci Mane
 
-164 songs - 11 hr 47 min
+165 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [No Tears](https://open.spotify.com/track/6kYTywTCfycHZcH0WdLyRy) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Diary](https://open.spotify.com/album/2Z1lDWB2EfTUKV5ILxjdvu) | 2:26 | 2024-10-11 |  |
 | [North Memphis](https://open.spotify.com/track/5KQNhnUSvG8VSs24qEoSu9) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 1:38 | 2024-09-13 | 2024-10-12 |
 | [One Day](https://open.spotify.com/track/2GHp47AE8HTBF9xpG7FIoz) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Ridin' Dirty](https://open.spotify.com/album/4jTPQq9PSlKMOm1yLx2ATN) | 5:24 | 2021-04-02 | 2023-05-13 |
-| [Out There](https://open.spotify.com/track/3PU3neC9XmWz7ZjUn5rYIw) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 4:19 | 2024-09-13 |  |
+| [Out There](https://open.spotify.com/track/3PU3neC9XmWz7ZjUn5rYIw) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Ghetty Green](https://open.spotify.com/album/79C18fJJMGIe3IzT8LiuHR) | 4:19 | 2024-09-13 | 2025-01-25 |
 | [Player's Ball](https://open.spotify.com/track/1RXEb6UTxJ05RffnAWfUOE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 4:21 | 2024-04-26 | 2024-07-08 |
 | [Pocket Full of Stones](https://open.spotify.com/track/1yGbkbw0nLte46M4XYAQRl) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Too Hard To Swallow](https://open.spotify.com/album/4HzHd0EcjdHYKDi5NbS5xU) | 6:09 | 2023-04-07 | 2023-05-13 |
 | [Poppin' My Collar \(feat\. Project Pat\)](https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Most Known Unknown](https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB) | 2:56 | 2021-08-27 |  |
@@ -156,6 +156,7 @@
 | [U Don't Know Me](https://open.spotify.com/track/2SuMoyOaAVBg5AzfKyZaKV) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Urban Legend](https://open.spotify.com/album/1oFucub5OjyG4XPsDUzhil) | 4:03 | 2022-02-28 | 2022-07-29 |
 | [Vica Versa](https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr) | [Pastor Troy](https://open.spotify.com/artist/3D04N2X2w6vUGeyG94FBaY) | [Face Off](https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU) | 4:23 | 2021-03-09 | 2022-07-29 |
 | [Wait \(The Whisper Song\)](https://open.spotify.com/track/5Y78yINSOCW6xbOfGWNBg4) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [U.S.A\. \(United State of Atlanta\)](https://open.spotify.com/album/0tkYbxsTPQ5kTVdrvj4S3f) | 2:59 | 2022-02-28 | 2024-10-31 |
+| [Walk It Out](https://open.spotify.com/track/0JPntF36B28bSTUkjplyNd) | [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Beat'n Down Yo Block](https://open.spotify.com/album/6Q8uQNmP4FbZuYYWokMeTZ) | 2:53 | 2025-01-25 |  |
 | [Wanna Be A Baller](https://open.spotify.com/track/6lEIjrQNwJPecJ7mMXjhjo) | [Lil' Troy](https://open.spotify.com/artist/12mkoe71zJDWs4j0rCeXGR) | [Sittin' Fat Down South](https://open.spotify.com/album/2czjXveZPf9X2dutQGlh2r) | 5:55 | 2023-01-06 |  |
 | [Wasted \(feat\. Plies\)](https://open.spotify.com/track/11hQvcLydGTyXS3Wo6AkmW) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [The State vs\. Radric Davis \(Deluxe\)](https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq) | 4:09 | 2024-12-06 |  |
 | [We On Fire](https://open.spotify.com/track/7q5YMVbbbsEQATnv0tVctx) | [Hot Boys](https://open.spotify.com/artist/0ecnb1WPePfrHg4yfQfmqN) | [Guerrilla Warfare](https://open.spotify.com/album/6eUYT38tLl7YwqZFJm1Ulb) | 4:11 | 2024-07-07 | 2024-08-10 |

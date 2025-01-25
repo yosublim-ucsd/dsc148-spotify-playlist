@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcWN1IuaY8rd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcWN1IuaY8rd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcWN1IuaY8rd)
 
-### [Black Clover \-ブラッククローバー\-](https://open.spotify.com/playlist/37i9dQZF1DXcWN1IuaY8rd)
+### [Black Clover](https://open.spotify.com/playlist/37i9dQZF1DXcWN1IuaY8rd)
 
-> Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
+> Enjoy the world of “Black Clover”! © 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
 45 songs - 2 hr 26 min
 

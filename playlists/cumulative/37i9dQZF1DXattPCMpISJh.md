@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-297 songs - 18 hr 23 min
+298 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [studio 54](https://open.spotify.com/track/6AXWkW1rqe4oluI58ztI5L) | [Khwezi](https://open.spotify.com/artist/3MVH60Zb3YkbJ0Ua26X07F) | [XCIII](https://open.spotify.com/album/56wo2b21FTLTq0uuJPR1Vm) | 3:50 | 2022-03-04 | 2023-02-04 |
 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 | 2022-07-29 |  |
 | [Sunshine](https://open.spotify.com/track/0hrc8oZQB9RwTGW0VdvIDC) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf) | [Sunshine](https://open.spotify.com/album/1ATx0b2ZqFx0RRFMdRBRgV) | 3:16 | 2022-07-01 | 2022-10-22 |
-| [Supernova](https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Supernova](https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd) | 3:39 | 2024-10-11 |  |
+| [Supernova](https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Supernova](https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd) | 3:39 | 2024-10-11 | 2025-01-25 |
+| [Supernova \- Jafunk Remix](https://open.spotify.com/track/57peujtPGEpGAS68azZVO1) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Supernova \(Jafunk Remix\)](https://open.spotify.com/album/5NSavRdY14U1AZeg5qKSIM) | 2:48 | 2025-01-24 |  |
 | [Sure Know Something \- Ladies on Mars Remix](https://open.spotify.com/track/1Hh1Pl8kSPgft3LVTh2zZ9) | [Javier Penna](https://open.spotify.com/artist/1cUBpGGDgNQZ3XZn4wIzpV), [DiscoRocks](https://open.spotify.com/artist/7nlUWRkv3L73cmbSwRVfmA), [Ladies On Mars](https://open.spotify.com/artist/6tJrp4FYVXfFRZ3oIBD4SU) | [Sure Know Something \(Ladies on Mars Remix\)](https://open.spotify.com/album/5rn9Uu4qsjJFFWPgcyjzdJ) | 3:54 | 2023-06-16 |  |
 | [Survive \[Feat\. Walk Off The Earth\]](https://open.spotify.com/track/2qVZY6UtkkwV3wi2r2cocx) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Duality](https://open.spotify.com/album/124LdmYiB3SM7x2EefHBoa) | 3:17 | 2024-06-14 |  |
 | [Take A Bite](https://open.spotify.com/track/2gvc8fKa2ELYbAiMfOb8th) | [LOYD](https://open.spotify.com/artist/4W3LY6UUKv4HYj40P52RE2), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Take A Bite](https://open.spotify.com/album/7wAIiKgXJm1ybhi9kIcGGu) | 3:12 | 2024-03-22 |  |

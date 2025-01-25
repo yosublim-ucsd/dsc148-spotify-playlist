@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>
 
-216 songs - 10 hr 30 min
+218 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Czuję, więc jestem?](https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Czuję, więc jestem?](https://open.spotify.com/album/0watoDNiZdQSkbNesj21rq) | 3:10 | 2024-06-18 | 2024-07-19 |
 | [Daję Ci słowo](https://open.spotify.com/track/3vascTwzAFu8bvHbhvEduF) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Blinders](https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J), [Karbid](https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l) | [Daję Ci słowo](https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T) | 2:07 | 2024-07-15 |  |
 | [Daleko stąd](https://open.spotify.com/track/5V8OKHgCznsrd5eCqUdwIe) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Daleko stąd](https://open.spotify.com/album/6mSqRLq4Ju5SVHlNFIJQzS) | 4:31 | 2024-12-09 |  |
-| [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 | 2024-06-18 |  |
+| [Day Off](https://open.spotify.com/track/0CHNm6X7QyULKOG5nTtQhj) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Day Off](https://open.spotify.com/album/3BERK2KU0lyYSFfJclRuYD) | 2:22 | 2024-06-18 | 2025-01-25 |
 | [Decision](https://open.spotify.com/track/1EmDi8X1q2vwLVQ3mcKNVt) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 4:26 | 2024-10-11 |  |
 | [Diament](https://open.spotify.com/track/4snpPHFGYvqvAywbtGTk61) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Diament](https://open.spotify.com/album/0hcPWow9eAkb1iUxhj65aQ) | 3:08 | 2023-09-01 |  |
 | [diament](https://open.spotify.com/track/4KfljmtnpDmiZNpSRqKx5b) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [diament](https://open.spotify.com/album/3Fms2vMgiBYcKFA9O4DE8W) | 3:23 | 2024-11-18 |  |
@@ -77,6 +77,7 @@
 | [happy song :\)](https://open.spotify.com/track/0rS8KJ7sh52X3QBWbBFjtm) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [happy song :\)](https://open.spotify.com/album/5BkGfDOWhUVZVElMQ90Eei) | 3:00 | 2023-04-14 | 2023-09-16 |
 | [Haribo](https://open.spotify.com/track/1tsdI9LIUwxbCNiBPotSTx) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Haribo](https://open.spotify.com/album/2GYjVNl9rsOY58IXJxWqIH) | 3:03 | 2022-08-26 | 2022-09-24 |
 | [hyperstar](https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [hyperstar](https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl) | 2:33 | 2024-08-20 | 2024-11-19 |
+| [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-24 |  |
 | [Interpretacje](https://open.spotify.com/track/34uVjVFFAuzSwuJcSBcYAA) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Obrazy Uczuć](https://open.spotify.com/album/1bzgcHJGgN78CTvBgIhsha) | 3:24 | 2024-06-18 | 2024-08-23 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-05-16 | 2023-11-11 |
 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 | 2024-08-30 | 2024-10-08 |
@@ -148,7 +149,7 @@
 | [Pali się](https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Pali się](https://open.spotify.com/album/369rO73bOJfA2t2DZiNB6h) | 2:20 | 2024-12-09 |  |
 | [Pan ten](https://open.spotify.com/track/1LdeDUCyrxAIoSzfbqyElX) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Pętla](https://open.spotify.com/album/5XUJwC1TtVT7xm3Qjtev4I) | 3:48 | 2022-08-26 | 2023-11-11 |
 | [Paranoja](https://open.spotify.com/track/5UjySTc8dqT4iF7r23yDVo) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Paranoja](https://open.spotify.com/album/3INlwdlKAUbAc52aD2Gn5y) | 2:37 | 2024-09-30 |  |
-| [Paranoje](https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Paranoje](https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz) | 3:39 | 2023-04-14 |  |
+| [Paranoje](https://open.spotify.com/track/6GTPiI6jzm8rrITO1bq0bj) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [Paranoje](https://open.spotify.com/album/2CxrNr8fIO0axRTxVdQqxz) | 3:39 | 2023-04-14 | 2025-01-25 |
 | [Peter Pan](https://open.spotify.com/track/59CaZAXx7Qorn2KGjxvsCc) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [PARANOJE](https://open.spotify.com/album/7rSEyUq8J0e0jVMakQ07ps) | 3:56 | 2023-05-16 |  |
 | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/track/5WkvdnhbWZVJsmUiXvfHzq) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Peter Pan \(Prometh Remix\)](https://open.spotify.com/album/08q8H2kQRgUlfdtkLsde84) | 4:29 | 2023-11-10 | 2024-12-10 |
 | [Plan F](https://open.spotify.com/track/0eqprQs8afmriQbN1tkA3I) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Plan F](https://open.spotify.com/album/2GFdILR5ikSH6JYtNw0RyP) | 2:11 | 2024-03-11 |  |
@@ -214,6 +215,7 @@
 | [Zapachy](https://open.spotify.com/track/4ts35aCwJQOvkZaEv3Z2vZ) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Zapachy](https://open.spotify.com/album/1WQ1CYkJxqh1EWABbTG33j) | 2:25 | 2022-09-23 | 2023-02-07 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-18 |  |
 | [Zapomnieli](https://open.spotify.com/track/00NRXYw9q24APKKfHK7Z4w) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Zapomnieli](https://open.spotify.com/album/6rsxb4mxMY0lnALsVO2fnw) | 2:24 | 2023-03-13 | 2023-08-01 |
+| [zawracam](https://open.spotify.com/track/5T1sKpYrHACnD7zCUPsZ47) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Patryk Pietrzak](https://open.spotify.com/artist/7462Bb4cx4Z0lGEbvAHC5D) | [zawracam](https://open.spotify.com/album/7iov5AnhxGxusDuULP5hJI) | 2:56 | 2025-01-24 |  |
 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 | 2022-08-26 | 2024-06-19 |
 | [Zero Calorie Cookie](https://open.spotify.com/track/36nKx8IoBlJhaKE42rOcjp) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [Cafe Mari](https://open.spotify.com/album/6B5digt716RUW1T9tSicWz) | 2:52 | 2024-06-18 | 2024-08-06 |
 | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [ZESPÓŁ ODSTAWIENNY](https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM) | 3:55 | 2024-08-05 |  |

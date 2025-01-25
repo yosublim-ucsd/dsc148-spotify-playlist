@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,107 songs - 2 day 9 hr 4 min
+1,108 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Head Shot](https://open.spotify.com/track/1w4NslJtxyBFRdEfKCrAIk) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Head Shot](https://open.spotify.com/album/4Xpkv0j5BFJEyiaqTGJke7) | 3:40 | 2022-04-04 | 2022-05-18 |
 | [Heads or Tails](https://open.spotify.com/track/7pZMTASk46RDJHVItGryu3) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab), [Jon Becker](https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr) | [Heads or Tails](https://open.spotify.com/album/3kHYWHLxLyZ1a4f0i7zUl9) | 2:37 | 2022-11-11 | 2022-11-24 |
 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 | 2023-01-19 | 2023-02-22 |
+| [Healing](https://open.spotify.com/track/2eYQw2SkWD4tw4U5TUMnOI) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Healing](https://open.spotify.com/album/3lt8HF91bthKnbiGO1uN83) | 2:50 | 2025-01-24 |  |
 | [Heard About Me](https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Heard About Me](https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5) | 3:03 | 2024-05-03 |  |
 | [Heart Out My Chest](https://open.spotify.com/track/7upmHVQPUsEisdIA7NuMdt) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Heart Out My Chest](https://open.spotify.com/album/7hNCn0U74ITDR6zDbQWJcl) | 3:15 | 2022-01-30 | 2022-03-05 |
 | [Heartbreak \(VincA Remix\)](https://open.spotify.com/track/7Gfk4en6FaREul71kx56pd) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [BrillLion](https://open.spotify.com/artist/1hzTGiVMoHHDQwybbnUClq), [ALYE](https://open.spotify.com/artist/3XjKB6D3ORDm8eRpiQYUvq), [VincA](https://open.spotify.com/artist/37lE1KxwTAZsq30j6Nqt7S) | [Heartbreak \(VincA Remix\)](https://open.spotify.com/album/7uDQl4R5rYBkSllsG0oB2O) | 3:31 | 2022-06-03 | 2022-07-02 |
@@ -619,7 +620,7 @@
 | [Misunderstood](https://open.spotify.com/track/3Mss2MDTVmUDJXeepx796f) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Misunderstood](https://open.spotify.com/album/2IixWbqy7LkeR17eg0Hvu8) | 4:00 | 2023-10-19 | 2024-01-30 |
 | [Mixed Emotions](https://open.spotify.com/track/48xtaMsWbLfX8aDNzfcRqM) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Second Nature](https://open.spotify.com/album/2kD4XTloruMrJ1vRs9Giks) | 4:27 | 2022-12-16 | 2022-12-27 |
 | [Miyako](https://open.spotify.com/track/7pkNtCOB3oitSNnzHNM5FX) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 4:09 | 2022-08-18 | 2023-02-22 |
-| [Moment](https://open.spotify.com/track/764CYWJzIeuBGGDaeu7b2n) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Moment](https://open.spotify.com/album/2wX9o4FhBhhRPXkLE1MvLe) | 2:45 | 2023-09-27 | 2024-01-20 |
+| [Moment](https://open.spotify.com/track/764CYWJzIeuBGGDaeu7b2n) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Moment](https://open.spotify.com/album/2wX9o4FhBhhRPXkLE1MvLe) | 2:45 | 2023-09-27 |  |
 | [Moment of Silence](https://open.spotify.com/track/3VCKjGMQgop5m47ZyivcWe) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Moment of Silence](https://open.spotify.com/album/4Wu0fiTgV59MxfYppJkSWU) | 3:13 | 2022-01-14 | 2022-09-15 |
 | [Momenta](https://open.spotify.com/track/1bmgQT91R4A3i7BZ6xZcXc) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD) | [Momenta](https://open.spotify.com/album/7px9SMxsw9B7cxZ0XxZ8oC) | 2:57 | 2022-01-14 | 2022-09-15 |
 | [Moments](https://open.spotify.com/track/0X6ywfxeGw4VMTq2oC06EL) | [COWBELL DYNASTY](https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p) | [Moments](https://open.spotify.com/album/3UWHvzVXaBA8EeFY5qQIle) | 2:04 | 2023-12-18 | 2024-07-02 |

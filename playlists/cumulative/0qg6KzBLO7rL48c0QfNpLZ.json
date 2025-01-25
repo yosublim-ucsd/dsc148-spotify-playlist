@@ -5651,6 +5651,28 @@
     },
     {
       "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/67Rpd9k40WvlveiUOG3Yjp"
+      },
+      "artists": [
+        {
+          "name": "dusk:dawn",
+          "url": "https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe"
+        },
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143135,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/4pupB5o3t5oFMqPpZxhh5f"
+    },
+    {
+      "album": {
         "name": "Fire In You",
         "url": "https://open.spotify.com/album/1QNMYAysxYGAa1QqGPBJMm"
       },
@@ -6943,6 +6965,24 @@
     },
     {
       "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/6zDV6j17HLX6sxpmz5g3JF"
+      },
+      "artists": [
+        {
+          "name": "Luna Blue",
+          "url": "https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/7E5KuXifEZu6duxZKg8sGs"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0QBz8VlPcghsKe4132L5IV"
       },
@@ -7350,6 +7390,24 @@
       "duration_ms": 142000,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa"
+    },
+    {
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/57zspTAwayJRH2JkhaZWAX"
+      },
+      "artists": [
+        {
+          "name": "TIANBO",
+          "url": "https://open.spotify.com/artist/3pnulfzomHoIuDdauRBnzv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/1CE2YZbgQSnCaOaGO45Hn0"
     },
     {
       "album": {
@@ -10165,6 +10223,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2CqMFgXrhQgIY4c57T81nP"
+      },
+      "artists": [
+        {
+          "name": "Plaha",
+          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/5WaNwAjrzkJsvT4stndh7n"
+    },
+    {
+      "album": {
         "name": "Lose You",
         "url": "https://open.spotify.com/album/4inY3Cim2lUd4ad6pvBYK4"
       },
@@ -11113,6 +11189,24 @@
     },
     {
       "album": {
+        "name": "Miss a Thing",
+        "url": "https://open.spotify.com/album/46fffKThWU6zXKL3x9qQCF"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/74JoJh1W94YJfQmnxyQE36"
+    },
+    {
+      "album": {
         "name": "miss u",
         "url": "https://open.spotify.com/album/1VwDSfKPiHPNSYk6dxeMMA"
       },
@@ -11564,7 +11658,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 140686,
       "name": "My Sunshine",
       "url": "https://open.spotify.com/track/3ZNZqvp0s1oc7ZtnrDLpsx"
@@ -11734,7 +11828,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 155567,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/04uBbx5F711bR1BLdesgbj"
@@ -12182,7 +12276,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 173312,
       "name": "Ocean Pass",
       "url": "https://open.spotify.com/track/4KX4lgScLric00Mn6iulvf"
@@ -12948,7 +13042,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 156072,
       "name": "Place We Know",
       "url": "https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX"
@@ -13112,6 +13206,28 @@
       "duration_ms": 133770,
       "name": "Problems",
       "url": "https://open.spotify.com/track/3M2NjmFrDeLxGHL1niL1Ha"
+    },
+    {
+      "album": {
+        "name": "Promise (Fireflies)",
+        "url": "https://open.spotify.com/album/2SZBOiG8lIgPieOaffifpK"
+      },
+      "artists": [
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        },
+        {
+          "name": "Isa Luna",
+          "url": "https://open.spotify.com/artist/2kn3hZieiEfLsU1vpdaMX4"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143773,
+      "name": "Promise (Fireflies)",
+      "url": "https://open.spotify.com/track/446Oco5OqT0DiTPz9MLt83"
     },
     {
       "album": {
@@ -15552,6 +15668,28 @@
       "duration_ms": 144000,
       "name": "Summer Dream",
       "url": "https://open.spotify.com/track/6lmFmtxcyLJv9f3rsuX6ll"
+    },
+    {
+      "album": {
+        "name": "Summer For The Healing",
+        "url": "https://open.spotify.com/album/7d33haH7lyX8qztbG6wEY8"
+      },
+      "artists": [
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Summer For The Healing",
+      "url": "https://open.spotify.com/track/2VX99GNxqBFQSWfCxDvoGD"
     },
     {
       "album": {
@@ -18398,6 +18536,32 @@
       "duration_ms": 174130,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/3GUTO72xMmBI05cHKion9x"
+    },
+    {
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/1iMa1NxG9yQJTLpRnmJfQZ"
+      },
+      "artists": [
+        {
+          "name": "Summer Dusk",
+          "url": "https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "Pherick",
+          "url": "https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/0zGjgy0MGo9zrQZ2h8L64m"
     },
     {
       "album": {

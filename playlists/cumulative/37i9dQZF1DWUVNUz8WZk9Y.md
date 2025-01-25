@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUVNUz8WZk9Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUVNUz8WZk9Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUVNUz8WZk9Y)
 
-### [映画ドラえもん \-Doraemon The Movie\-](https://open.spotify.com/playlist/37i9dQZF1DWUVNUz8WZk9Y)
+### [Doraemon The Movie\-](https://open.spotify.com/playlist/37i9dQZF1DWUVNUz8WZk9Y)
 
-> 最新作公開記念！映画ドラえもんを彩ってきた歴代主題歌、挿入歌を集めた公式プレイリスト。Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
+> Enjoy music from Doraemon The Movie! ⓒ藤子プロ・小学館・テレビ朝日・シンエイ・ADK 2024
 
 51 songs - 3 hr 33 min
 

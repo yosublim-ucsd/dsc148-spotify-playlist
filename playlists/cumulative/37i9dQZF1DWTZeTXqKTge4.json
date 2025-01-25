@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: MB",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: White-B",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -741,6 +741,28 @@
     },
     {
       "album": {
+        "name": "Allez",
+        "url": "https://open.spotify.com/album/1aUewgj8QzwXqcWukIG9yl"
+      },
+      "artists": [
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Allez",
+      "url": "https://open.spotify.com/track/6CFUaCvxQ0O0My0Lg2imF5"
+    },
+    {
+      "album": {
         "name": "Allo c\u2019est qui?",
         "url": "https://open.spotify.com/album/4QBGKhrngSOqtwohuYVHgz"
       },
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 146468,
       "name": "Atari",
       "url": "https://open.spotify.com/track/7iIGOm4UGzri6mAMZuIYOP"
@@ -3961,6 +3983,28 @@
     },
     {
       "album": {
+        "name": "Silence Complice",
+        "url": "https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        },
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200594,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/0PrbABQPMBSUCGXzMrWf9Z"
+    },
+    {
+      "album": {
         "name": "Non conventionnel",
         "url": "https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l"
       },
@@ -4676,6 +4720,24 @@
       "duration_ms": 148800,
       "name": "EGK",
       "url": "https://open.spotify.com/track/5EDdPjs1fNdxmHGUCiV7MQ"
+    },
+    {
+      "album": {
+        "name": "Silence Complice",
+        "url": "https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179100,
+      "name": "Elle est bonne",
+      "url": "https://open.spotify.com/track/1NY5sirmSCfQ7w8eIwQ6nB"
     },
     {
       "album": {
@@ -6430,7 +6492,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 156000,
       "name": "HOL\u00c9MAINS",
       "url": "https://open.spotify.com/track/1r0wKIQV2p6koGNfvxwh16"
@@ -7527,6 +7589,28 @@
     },
     {
       "album": {
+        "name": "Kilom\u00e8tres",
+        "url": "https://open.spotify.com/album/73grrVOz0TsGWx25fBR1cb"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        },
+        {
+          "name": "Lebza Khey",
+          "url": "https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Kilom\u00e8tres",
+      "url": "https://open.spotify.com/track/1pqw2vMRpSyGfuas76tXcp"
+    },
+    {
+      "album": {
         "name": "King-V",
         "url": "https://open.spotify.com/album/11XbARlvVaV8ujs9BsGnhY"
       },
@@ -8300,7 +8384,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 155592,
       "name": "Locked Up",
       "url": "https://open.spotify.com/track/3ftGuXapLDXSxQvf3o6751"
@@ -9240,7 +9324,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 152079,
       "name": "Monde \u00e0 l'envers",
       "url": "https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp"
@@ -10646,6 +10730,24 @@
       "duration_ms": 171546,
       "name": "Pansements",
       "url": "https://open.spotify.com/track/744G65vSbCfEiibL52vfTP"
+    },
+    {
+      "album": {
+        "name": "Silence Complice",
+        "url": "https://open.spotify.com/album/64UVL7qphiTIfq1hTCy9fB"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171682,
+      "name": "Papa n'\u00e9tait plus l\u00e0",
+      "url": "https://open.spotify.com/track/4Cs8POKuvs6YCoxRLcxDmv"
     },
     {
       "album": {
@@ -14490,7 +14592,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 132562,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6fisfuQP2L5hwoeiNBWw7l"

@@ -4,7 +4,7 @@
 
 > Tulum szn
 
-798 songs - 2 day 8 hr 41 min
+799 songs - 2 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,6 +750,7 @@
 | [Vi igen \- Bella Boo Remix \- Extended Version](https://open.spotify.com/track/1K3Ky8TyPIbkQTZYkK4XuE) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Vi igen \(Bella Boo Remix\)](https://open.spotify.com/album/386pYuYI3WWg2g11TqzfHx) | 4:38 | 2023-06-29 | 2025-01-10 |
 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 | 2023-10-12 | 2024-06-21 |
 | [Vibing in Ay \- Folamour Remix](https://open.spotify.com/track/3wVqIQelhLtb8PJSPeZD7c) | [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Vibing in Ay \(Folamour Remix\)](https://open.spotify.com/album/22hAOwVGK4d5JZDCs9Dv1i) | 5:06 | 2023-12-14 | 2025-01-10 |
+| [volar](https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Driving Towards The Sunset Tapes](https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL) | 3:59 | 2025-01-24 |  |
 | [Voyage \(feat\. Amadou & Mariam\)](https://open.spotify.com/track/7ochILP42boyfaJITMUMGF) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Voyage \(feat\. Amadou & Mariam\)](https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA) | 4:45 | 2023-04-27 | 2025-01-10 |
 | [W Y H A](https://open.spotify.com/track/2cCK5YYzakAFVTnYSZhYmQ) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [W Y H A](https://open.spotify.com/album/0s5icgE1FdbFG4uD31DlrC) | 7:21 | 2024-08-22 |  |
 | [W4U \(feat\. Jen\)](https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [JEN](https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE) | [W4U \(feat\. Jen\)](https://open.spotify.com/album/39syP387YYwH46TnrvcpbP) | 3:59 | 2024-12-05 |  |

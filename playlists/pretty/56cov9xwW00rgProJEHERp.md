@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,552 likes - 60 songs - 3 hr 25 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,552 likes - 63 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,8 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 58 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 |
 | 59 | [Felt Too Good!](https://open.spotify.com/track/2LI1mrR3LCyQitVw6vHBdX) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Felt Too Good!](https://open.spotify.com/album/4dxyVZMH7oFr3OjpHef5l4) | 3:04 |
 | 60 | [I'm The Leader](https://open.spotify.com/track/6c4B0ZzFfUDB38JYwoZ9TM) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [I'm The Leader](https://open.spotify.com/album/7mBUrXQwDZ78xjZ6OVPIFu) | 2:46 |
+| 61 | [Oh California](https://open.spotify.com/track/2dOSQFePDgBFEQIakDkF3K) | [Basset](https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3) | [Oh California](https://open.spotify.com/album/1NBVldvVewNukGARZGf383) | 3:23 |
+| 62 | [High \- Acoustic](https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High \(Acoustic\)](https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL) | 2:33 |
+| 63 | [Waiting On You](https://open.spotify.com/track/5rpqJU8hFJhqJx6ieJW3Fl) | [Cecilia Castleman](https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH) | [Cecilia Castleman](https://open.spotify.com/album/318wRVPe2r8qSHTeYay3nk) | 3:45 |
 
-Snapshot ID: `AAAU7W/iMh414KDudm3dXdygdbK68SOV`
+Snapshot ID: `AAAU8HqH3v0KrFCRn/4PpPkRdf2gJNEI`

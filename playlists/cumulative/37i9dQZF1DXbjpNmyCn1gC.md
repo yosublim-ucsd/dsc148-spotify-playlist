@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbjpNmyCn1gC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbjpNmyCn1gC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbjpNmyCn1gC)
 
-### [NARUTO \-ナルト\-シリーズ](https://open.spotify.com/playlist/37i9dQZF1DXbjpNmyCn1gC)
+### [NARUTO](https://open.spotify.com/playlist/37i9dQZF1DXbjpNmyCn1gC)
 
-> Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
+> Enjoy music from "NARUTO" series! ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
 156 songs - 10 hr 44 min
 

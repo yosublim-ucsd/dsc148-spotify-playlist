@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 206409,
       "name": "A Pervasive Awareness",
       "url": "https://open.spotify.com/track/1yomRVFAS05Kw4CRSm15Ii"
@@ -4078,7 +4078,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-23",
+      "date_removed": null,
       "duration_ms": 460000,
       "name": "Frost",
       "url": "https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM"
@@ -5600,7 +5600,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-10",
+      "date_removed": null,
       "duration_ms": 165706,
       "name": "June Love",
       "url": "https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L"
@@ -5658,6 +5658,28 @@
       "duration_ms": 819320,
       "name": "KI-KI-KI",
       "url": "https://open.spotify.com/track/7C7nnQSwudlE7K7zKVks0b"
+    },
+    {
+      "album": {
+        "name": "no floor",
+        "url": "https://open.spotify.com/album/6g4taOTq57JhbX3csMw6EW"
+      },
+      "artists": [
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196418,
+      "name": "kinda tropical",
+      "url": "https://open.spotify.com/track/2LZB38Y5WJCISdXgxfhbpD"
     },
     {
       "album": {
@@ -9854,7 +9876,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 287293,
       "name": "Sn\u00e5cko",
       "url": "https://open.spotify.com/track/0p6cXpEEZIv1IYIIGkwPzW"
@@ -9892,7 +9914,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 155066,
       "name": "Soft Sand",
       "url": "https://open.spotify.com/track/0v41u1Hiy29OCBXjLo63LP"
@@ -10760,7 +10782,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 345758,
       "name": "Susaki (Flotsam)",
       "url": "https://open.spotify.com/track/3QARboLjMyWbdrT52pGQMx"
@@ -13304,6 +13326,24 @@
       "duration_ms": 89226,
       "name": "\u753b\u5ba4",
       "url": "https://open.spotify.com/track/0HRs4PCNlgRxWZuCkwqXor"
+    },
+    {
+      "album": {
+        "name": "\u795e\u69d8\u306e\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/1xtbw2HzyWubGlsgO2gEGe"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400874,
+      "name": "\u795e\u69d8\u306e\u30e1\u30ed\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/565p6EISKgCjN66vmqs0H5"
     },
     {
       "album": {

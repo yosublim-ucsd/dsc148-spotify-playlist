@@ -1,13 +1,85 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 458,
+  "num_followers": 461,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADIAxBuOmsO9+acVOJCWN6ZSE2f/8y",
+  "snapshot_id": "AAADJBd1g+8u5Wxj6KwzRokiN2ZC9aPG",
   "tracks": [
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "Who Said That",
+        "url": "https://open.spotify.com/album/3SPgSAt8hTqInA7pLKid4h"
+      },
+      "artists": [
+        {
+          "name": "mammalfriend",
+          "url": "https://open.spotify.com/artist/1soXXPru4RPo5CvGbvQeA5"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "N.B.F.",
+      "url": "https://open.spotify.com/track/6l3DJKWBAf4HtKLRuimEm2"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "opal",
+        "url": "https://open.spotify.com/album/34Zr3RTwjMsQcTAedwWwpg"
+      },
+      "artists": [
+        {
+          "name": "lulamoon",
+          "url": "https://open.spotify.com/artist/0DAelTYQOImud40A6DFnYR"
+        },
+        {
+          "name": "robin's ghost",
+          "url": "https://open.spotify.com/artist/7wluTUzWSlXbe33U5TC94G"
+        }
+      ],
+      "duration_ms": 196928,
+      "name": "gen3mlp",
+      "url": "https://open.spotify.com/track/2pq1qNcFLdWKas7DLNsOMF"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "spinnin round my head",
+        "url": "https://open.spotify.com/album/4k1EN8sYA2ujbVVbohtd5p"
+      },
+      "artists": [
+        {
+          "name": "phimtown",
+          "url": "https://open.spotify.com/artist/6vdmfIild6uUDUbmw3y53X"
+        },
+        {
+          "name": "fauxx",
+          "url": "https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU"
+        }
+      ],
+      "duration_ms": 111818,
+      "name": "spinnin round my head",
+      "url": "https://open.spotify.com/track/7DSWwFavn5AqUs9Mg2FkrQ"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "Forgotten Arcade",
+        "url": "https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n"
+      },
+      "artists": [
+        {
+          "name": "Frizk",
+          "url": "https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K"
+        }
+      ],
+      "duration_ms": 129503,
+      "name": "Gorveve",
+      "url": "https://open.spotify.com/track/2golnpSgmVjIgUjvlz4CWk"
+    },
     {
       "added_at": "2025-01-23 07:22:11",
       "album": {
@@ -23,6 +95,198 @@
       "duration_ms": 82758,
       "name": "you get me fucked",
       "url": "https://open.spotify.com/track/5TdU9RvPbL1OIOyIc1D71d"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "Just Be Competent",
+        "url": "https://open.spotify.com/album/1y1d8qRhQtD3UkkUFHsJOS"
+      },
+      "artists": [
+        {
+          "name": "r u s s e l b u c k",
+          "url": "https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2"
+        }
+      ],
+      "duration_ms": 156458,
+      "name": "Just Be Competent",
+      "url": "https://open.spotify.com/track/2q5JF3bRPDeAS8EO8KIjEH"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "partners",
+        "url": "https://open.spotify.com/album/6ZiZe0XmjcnIycBJCYynbo"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 132250,
+      "name": "something to hold",
+      "url": "https://open.spotify.com/track/3XGmJg7p3an829jy9GqwtQ"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "PAYDAY",
+        "url": "https://open.spotify.com/album/7DBDDEEBeZimthRql76K90"
+      },
+      "artists": [
+        {
+          "name": "coyote2",
+          "url": "https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "creeping up the neck 2 fast",
+      "url": "https://open.spotify.com/track/6J4JQq30CCd4rygtxzvkoq"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "Hockey",
+        "url": "https://open.spotify.com/album/6rJcckvCabsY3tXwAyDL4w"
+      },
+      "artists": [
+        {
+          "name": "Clarence Kelly",
+          "url": "https://open.spotify.com/artist/63ecaIQEQ1kWQbi6ZKVYiB"
+        }
+      ],
+      "duration_ms": 257100,
+      "name": "Hockey",
+      "url": "https://open.spotify.com/track/6b39sywjsmS8Zo7g4PMQeM"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "FAIRY",
+        "url": "https://open.spotify.com/album/3el8ORbUoeVju2nQVCpnv4"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 107416,
+      "name": "give up - Bonus Track",
+      "url": "https://open.spotify.com/track/6WTexBsSst0whdc35bBEIW"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "omggg im so emotional and my heart is broken :(",
+        "url": "https://open.spotify.com/album/531U8P5mybgfThxGXxueBB"
+      },
+      "artists": [
+        {
+          "name": "snazzyvaka",
+          "url": "https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2"
+        }
+      ],
+      "duration_ms": 133655,
+      "name": "omggg im so emotional and my heart is broken :(",
+      "url": "https://open.spotify.com/track/5oHcO0PLT3E1icEIWpt7cs"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "all lizards go to heaven!!!",
+        "url": "https://open.spotify.com/album/1CRlPPBbbvKRuyyam4ypvP"
+      },
+      "artists": [
+        {
+          "name": "lizzy's personal army",
+          "url": "https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "break my teeth!",
+      "url": "https://open.spotify.com/track/5175pAIG48D5o4h9apqmCi"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "Lost Dogs",
+        "url": "https://open.spotify.com/album/0fJE2dUwhoF5pZA1HlnCsP"
+      },
+      "artists": [
+        {
+          "name": "Keep it Together",
+          "url": "https://open.spotify.com/artist/3ofzJ1WKyqzCkAQLC9SIA8"
+        }
+      ],
+      "duration_ms": 197817,
+      "name": "Dashcam",
+      "url": "https://open.spotify.com/track/5ERWwximXbQ0djxnudZf3Q"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "DESIIRE",
+        "url": "https://open.spotify.com/album/4CAT5NIGLKgWkFKy2E7Sb7"
+      },
+      "artists": [
+        {
+          "name": "\u2665 GOJII \u2665",
+          "url": "https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY"
+        }
+      ],
+      "duration_ms": 304714,
+      "name": "DESIIRE",
+      "url": "https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "ONLY US, NEVER THEM",
+        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "lil boy",
+      "url": "https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "Robin Hood",
+        "url": "https://open.spotify.com/album/5lx5UeqilTSBCzoPh6v87E"
+      },
+      "artists": [
+        {
+          "name": "$leazy EZ",
+          "url": "https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT"
+        }
+      ],
+      "duration_ms": 199436,
+      "name": "Robin Hood",
+      "url": "https://open.spotify.com/track/6K9smrlakXex53vhl5r5dC"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "mutt county",
+        "url": "https://open.spotify.com/album/4Jc4ExxRw4sMNLJWfgRzZr"
+      },
+      "artists": [
+        {
+          "name": "ghostsocial",
+          "url": "https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN"
+        }
+      ],
+      "duration_ms": 99848,
+      "name": "ember",
+      "url": "https://open.spotify.com/track/12ItWZIjCZ62hZJEtow1YT"
     },
     {
       "added_at": "2025-01-23 01:15:54",
@@ -415,6 +679,22 @@
       "duration_ms": 209500,
       "name": "Sleep For Tonight",
       "url": "https://open.spotify.com/track/0hK1TRuegL0eGH7El9ZdZd"
+    },
+    {
+      "added_at": "2025-01-25 02:26:36",
+      "album": {
+        "name": "Parasocial",
+        "url": "https://open.spotify.com/album/5zbyAiUZgCKZsuGohtQ7He"
+      },
+      "artists": [
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Parasocial",
+      "url": "https://open.spotify.com/track/5AJv67iLT79uijDdzfTPUm"
     },
     {
       "added_at": "2024-11-25 11:19:21",

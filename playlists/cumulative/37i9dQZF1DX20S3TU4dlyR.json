@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este es el Reggae, al sur del continente americano. Foto: Dancing Mood",
+  "description": "Este es el Reggae, al sur del continente americano. Foto: Leonchalon.",
   "name": "Reggae al Sur",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 239280,
       "name": "Buena Suerte",
       "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
@@ -826,6 +826,28 @@
       "duration_ms": 308522,
       "name": "C\u00f3mo Ver?",
       "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
+    },
+    {
+      "album": {
+        "name": "Dame Luz",
+        "url": "https://open.spotify.com/album/0Zo5NnlPkKY0S3q6Zolznh"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        },
+        {
+          "name": "La Bomba de Tiempo",
+          "url": "https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262473,
+      "name": "Dame Luz",
+      "url": "https://open.spotify.com/track/1ZiJ7EjTejif5RnpfISAkm"
     },
     {
       "album": {
@@ -1936,6 +1958,32 @@
       "duration_ms": 279625,
       "name": "Hombres De Hierro",
       "url": "https://open.spotify.com/track/3Hejy2uyKY41La7CrqLCnD"
+    },
+    {
+      "album": {
+        "name": "Homer Seeds",
+        "url": "https://open.spotify.com/album/5N4hAPUZNMyO9C8BE1t9w2"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Homer Seeds",
+          "url": "https://open.spotify.com/artist/7qw7HbBmpXwL8CvkyXrDTq"
+        },
+        {
+          "name": "Joan Sprei",
+          "url": "https://open.spotify.com/artist/0QyJKIHzo2iUJFwSg5YfhW"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172692,
+      "name": "Homer Seeds",
+      "url": "https://open.spotify.com/track/7Fbz6LvabXBD37RNgHaM8A"
     },
     {
       "album": {
@@ -3112,7 +3160,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 223405,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"
@@ -3692,7 +3740,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 186533,
       "name": "Reggae en el Universo",
       "url": "https://open.spotify.com/track/6mn3ZBR2oH6OzrywqZUvzQ"
@@ -3926,7 +3974,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 225586,
       "name": "Ruta",
       "url": "https://open.spotify.com/track/0zskgFCZkUPqWsQ3ThZXyR"
@@ -3952,6 +4000,24 @@
       "duration_ms": 259217,
       "name": "Saber a D\u00f3nde ir",
       "url": "https://open.spotify.com/track/0DidJz0r4fFToEohpkHxoT"
+    },
+    {
+      "album": {
+        "name": "Se va la luna",
+        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181889,
+      "name": "Se va la luna",
+      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
     },
     {
       "album": {
@@ -4788,6 +4854,28 @@
       "duration_ms": 183829,
       "name": "Un Mundo Mejor",
       "url": "https://open.spotify.com/track/6eKYlDXNbMTKYyt7APb8kn"
+    },
+    {
+      "album": {
+        "name": "Uno atr\u00e1s del otro",
+        "url": "https://open.spotify.com/album/3rDzQe7r99cctE3LLB0qHQ"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        },
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "Uno atr\u00e1s del otro",
+      "url": "https://open.spotify.com/track/4yLPu2EzbQi7ABXJlFbKfF"
     },
     {
       "album": {

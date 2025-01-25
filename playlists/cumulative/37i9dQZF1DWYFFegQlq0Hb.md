@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYFFegQlq0Hb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYFFegQlq0Hb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYFFegQlq0Hb)
 
-### [呪術廻戦 \- Jujutsu Kaisen \-](https://open.spotify.com/playlist/37i9dQZF1DWYFFegQlq0Hb)
+### [Jujutsu Kaisen](https://open.spotify.com/playlist/37i9dQZF1DWYFFegQlq0Hb)
 
-> TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。これまでのOP/ED曲、 <a href="spotify:show:1OApR2wyRtWRAydfmg3Vto">「呪術廻戦 じゅじゅとーく ニキ </a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
+> Enjoy music and podcast from Jujutsu Kaisen!
 
 249 songs - 1 day 0 hr 17 min
 

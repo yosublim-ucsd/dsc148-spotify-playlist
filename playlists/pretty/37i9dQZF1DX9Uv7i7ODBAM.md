@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain](/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Uv7i7ODBAM)
 
-### [My Hero Academia \-僕のヒーローアカデミア\-](https://open.spotify.com/playlist/37i9dQZF1DX9Uv7i7ODBAM)
+### [My Hero Academia](https://open.spotify.com/playlist/37i9dQZF1DX9Uv7i7ODBAM)
 
-> Enjoy music from "My Hero Academia"! 歴代OP/ED、サントラ曲で辿る<a href="http://heroaca.com/">「僕のヒーローアカデミア」</a>の世界。©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
+> Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,030 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,099 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 76 | [The Demon Lord](https://open.spotify.com/track/4uS0zKWIQBy2uaSdMvshHo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 3:10 |
 | 77 | [You Say Run \-Succession\-](https://open.spotify.com/track/79pUjmHv3aAN8aWyvTqrvk) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 10:37 |
 
-Snapshot ID: `Zq4UDAAAAAAff2bLJOW2rfobYiLwAtXB`
+Snapshot ID: `Z5O+yQAAAABbYkSihTEVT+0kNni+3twQ`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6yabeKM0YaX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6yabeKM0YaX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6yabeKM0YaX)
 
-### [Precure プリキュア ](https://open.spotify.com/playlist/37i9dQZF1DX6yabeKM0YaX)
+### [Precure](https://open.spotify.com/playlist/37i9dQZF1DX6yabeKM0YaX)
 
-> Music From "Pretty Cure" series! 音楽で辿る「プリキュア」シリーズの世界!
+> Music From "Pretty Cure" series!
 
 36 songs - 2 hr 24 min
 

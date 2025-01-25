@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 
 > There's no stopping the game\. Listen to the music from Squid Game, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,421 likes - 55 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,147 likes - 58 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTThV2562fDa.md) - [plain]
 | 53 | [Uh…](https://open.spotify.com/track/5PxNCkwhzYFN3Cwh4eBfS5) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:38 |
 | 54 | [Dawn](https://open.spotify.com/track/3x5kegiXk53hWQiK1jraV3) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 6:41 |
 | 55 | [Let’s Go Out Tonight](https://open.spotify.com/track/3UGvD1GlibzODZGxddpzAl) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:27 |
+| 56 | [Here to Have Fun](https://open.spotify.com/track/7IRzcOXT7mnV5WNFwH8NEo) | [Stephen Rippy](https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ) | [Squid Game: Unleashed \(Soundtrack from the Netflix Game\)](https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh) | 1:16 |
+| 57 | [1.1](https://open.spotify.com/track/4NT2yAV1bTLeeE3Db6ABXw) | [Stephen Rippy](https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ) | [Squid Game: Unleashed \(Soundtrack from the Netflix Game\)](https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh) | 1:15 |
+| 58 | [No "I" in "Team"](https://open.spotify.com/track/1vV2d8ykwUpi2m0eWwomuo) | [Stephen Rippy](https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ) | [Squid Game: Unleashed \(Soundtrack from the Netflix Game\)](https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh) | 1:02 |
 
-Snapshot ID: `Z25elwAAAAAY7OYf5yilXgTaBb7BXQy5`
+Snapshot ID: `Z5QGTgAAAACN4UORDhiOi+AuLhrF4GjO`

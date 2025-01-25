@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Anaïs Cardot
 
-259 songs - 15 hr 20 min
+260 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Here Before](https://open.spotify.com/track/2G2qENlHGYoYTRvGz7rMiV) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Here Before](https://open.spotify.com/track/4NVDb2IBFPZaM2YgIaQQKC) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 4:29 | 2022-11-03 | 2022-11-13 |
 | [Hiding](https://open.spotify.com/track/3TtaRCNXoXdILzYfhtBxmu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Hiding](https://open.spotify.com/album/3bUCBkQCU0nxwbwiwqZ1K0) | 3:17 | 2023-06-08 |  |
+| [High \- Acoustic](https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High \(Acoustic\)](https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL) | 2:33 | 2025-01-24 |  |
 | [High Stakes](https://open.spotify.com/track/1aGkUVrkbCU0VsbhMtDA9D) | [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [High Stakes](https://open.spotify.com/album/3jRhDfVPGPSw7A8jODjbLB) | 2:00 | 2021-12-09 | 2022-01-14 |
 | [Hills](https://open.spotify.com/track/2PCdovP3wSlSS73NOtopJI) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Hills](https://open.spotify.com/album/6vbnNu3cvLpiYLNxDnQYi0) | 3:01 | 2023-02-17 |  |
 | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/track/2lYzTx7NDIUxF4yMHLzozs) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Hit And Run \(Acoustic Version\)](https://open.spotify.com/album/0KE0S54WCmXk139uyrQjmz) | 3:11 | 2021-12-09 | 2023-11-10 |

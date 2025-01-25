@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "American Elegy",
+        "url": "https://open.spotify.com/album/64PRNlplBvOh9X4bELGO4h"
+      },
+      "artists": [
+        {
+          "name": "Mark Grundhoefer",
+          "url": "https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w"
+        },
+        {
+          "name": "David Brimer",
+          "url": "https://open.spotify.com/artist/668Oojl6P3J0BOUymsWnOh"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150334,
+      "name": "American Elegy",
+      "url": "https://open.spotify.com/track/4aly3QbwUf1YXwsusenvQq"
+    },
+    {
+      "album": {
         "name": "The New Modern Hymns",
         "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
@@ -462,6 +484,28 @@
       "duration_ms": 300575,
       "name": "Black Muddy River",
       "url": "https://open.spotify.com/track/62lkirMIvYO6h6o07xwZpH"
+    },
+    {
+      "album": {
+        "name": "Songs from the River",
+        "url": "https://open.spotify.com/album/6bI3FFzvnOmKGghdMoLycs"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        },
+        {
+          "name": "Anders Osborne",
+          "url": "https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379576,
+      "name": "Black Muddy River",
+      "url": "https://open.spotify.com/track/56uENpwmYPdyAUZVqNSvyr"
     },
     {
       "album": {
@@ -1927,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Ghosts Are Weak",
+        "url": "https://open.spotify.com/album/5KttJOsdaXELYl9UkY4XlD"
+      },
+      "artists": [
+        {
+          "name": "The Devil Makes Three",
+          "url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188441,
+      "name": "Ghosts are Weak",
+      "url": "https://open.spotify.com/track/71f2ka5owKm2ocIEwnD7GD"
+    },
+    {
+      "album": {
         "name": "Highway Prayers",
         "url": "https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo"
       },
@@ -1964,6 +2026,42 @@
       "duration_ms": 230960,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0cu0Jlsd2N5xfMBcsUskRa"
+    },
+    {
+      "album": {
+        "name": "Glory Land Is Just in Sight",
+        "url": "https://open.spotify.com/album/7krHbmYsfl8JLpcYqAlPAC"
+      },
+      "artists": [
+        {
+          "name": "The Gospel Plowboys",
+          "url": "https://open.spotify.com/artist/43Gssso581XyRUxLIKWvC5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141280,
+      "name": "Glory Land Is Just in Sight",
+      "url": "https://open.spotify.com/track/3DJbr0ruiNhsUiQANSwPsq"
+    },
+    {
+      "album": {
+        "name": "Goat Canyon Trestle",
+        "url": "https://open.spotify.com/album/0d7swVUfMapfSJ7OExWBsY"
+      },
+      "artists": [
+        {
+          "name": "Tyler Grant",
+          "url": "https://open.spotify.com/artist/3pmRu7jLRNPmo5sYhX0Svx"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Goat Canyon Trestle",
+      "url": "https://open.spotify.com/track/6afac1BVf0zhsCiZQPSFgQ"
     },
     {
       "album": {
@@ -3309,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Little Red Bird",
+        "url": "https://open.spotify.com/album/0se4e2n0a5LdtEcpfW20Tr"
+      },
+      "artists": [
+        {
+          "name": "Tori Miller",
+          "url": "https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Little Red Bird",
+      "url": "https://open.spotify.com/track/3AfsvvUMCqzByCNlV6eYEa"
+    },
+    {
+      "album": {
         "name": "Lo, How a Rose E'er Blooming",
         "url": "https://open.spotify.com/album/5IzsTo7WDIkgsjJbPio2Bu"
       },
@@ -3324,6 +3440,24 @@
       "duration_ms": 206600,
       "name": "Lo, How a Rose E'er Blooming",
       "url": "https://open.spotify.com/track/4TmqCAAP2I21pwv4h8lWSV"
+    },
+    {
+      "album": {
+        "name": "Lonely As It Gets",
+        "url": "https://open.spotify.com/album/2SYXTbHH8KoF40TrSuPb0s"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Lonely As It Gets",
+      "url": "https://open.spotify.com/track/51R2mhekMWUWKwPk3wfSDK"
     },
     {
       "album": {
@@ -3720,6 +3854,24 @@
       "duration_ms": 137737,
       "name": "More And More",
       "url": "https://open.spotify.com/track/7sUBvHfUFCIzRgmoeklLeR"
+    },
+    {
+      "album": {
+        "name": "My Heart",
+        "url": "https://open.spotify.com/album/6H3Fq8UMXoqhfibrFLBKHL"
+      },
+      "artists": [
+        {
+          "name": "Deeper Shade Of Blue",
+          "url": "https://open.spotify.com/artist/51LQcIwpY2hJc4Lr2nJ1Bn"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152653,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/0I0IhCuV0b2mQVHxTbC9zm"
     },
     {
       "album": {
@@ -4526,6 +4678,46 @@
       "duration_ms": 292746,
       "name": "Reach",
       "url": "https://open.spotify.com/track/47S2RlZ3NUdIf5B9W6Gdea"
+    },
+    {
+      "album": {
+        "name": "Ready and Waiting",
+        "url": "https://open.spotify.com/album/1Bkx0l9l7TH2tYbRwPh8Yl"
+      },
+      "artists": [
+        {
+          "name": "The King James Boys",
+          "url": "https://open.spotify.com/artist/3PdQ90nNOjxy7irFjCd2Af"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "Ready and Waiting",
+      "url": "https://open.spotify.com/track/5smWk74x7rF1OGQWjZkPYa"
+    },
+    {
+      "album": {
+        "name": "Red Bandana",
+        "url": "https://open.spotify.com/album/0wTMaeBSpwVT2Mo3l68a3S"
+      },
+      "artists": [
+        {
+          "name": "Laura Orshaw",
+          "url": "https://open.spotify.com/artist/0AGDlPc4c5TUpNltDn99es"
+        },
+        {
+          "name": "The Slocan Ramblers",
+          "url": "https://open.spotify.com/artist/1F81FTiMCbp4fxZ1EMStbk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174030,
+      "name": "Red Bandana",
+      "url": "https://open.spotify.com/track/57jkyzooZEkrKV8lVDRKxC"
     },
     {
       "album": {

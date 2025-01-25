@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rodolfo Abrantes",
-  "num_followers": 142654,
+  "num_followers": 142677,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/1wjNERJXlOittc9xz6avDL"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 221820,
       "name": "O Que Me Espera",
       "url": "https://open.spotify.com/track/7nC1xiw6oZ0dA7hLzvEju3"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Registrado",
-        "url": "https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN"
-      },
-      "artists": [
-        {
-          "name": "Catedral",
-          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
-        }
-      ],
-      "duration_ms": 136083,
-      "name": "O Perfeito Mundo Imperfeito",
-      "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "Palavrantiga Ao Vivo (Pt. 3)",
         "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 250600,
       "name": "Palavra Antiga - Ao Vivo",
       "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Registrado",
+        "url": "https://open.spotify.com/album/1C2WhKKZ2EmTzoSlHw8cAN"
+      },
+      "artists": [
+        {
+          "name": "Catedral",
+          "url": "https://open.spotify.com/artist/0SJRRI0eT6oeymfwyWsImX"
+        }
+      ],
+      "duration_ms": 136083,
+      "name": "O Perfeito Mundo Imperfeito",
+      "url": "https://open.spotify.com/track/5DVD4rw30tKY0z1NHc1xVw"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "Me Ensina a Seguir",
         "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 246333,
       "name": "Me Ensina a Seguir",
       "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -899,26 +899,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Maranata (Trono)",
-        "url": "https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw"
-      },
-      "artists": [
-        {
-          "name": "Igor Pinheiro de Lima",
-          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
-        },
-        {
-          "name": "Lari Lindstron",
-          "url": "https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd"
-        }
-      ],
-      "duration_ms": 303775,
-      "name": "Maranata (Trono)",
-      "url": "https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "Imerecido Amor",
         "url": "https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 190967,
       "name": "Imerecido Amor",
       "url": "https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Maranata (Trono)",
+        "url": "https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw"
+      },
+      "artists": [
+        {
+          "name": "Igor Pinheiro de Lima",
+          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
+        },
+        {
+          "name": "Lari Lindstron",
+          "url": "https://open.spotify.com/artist/15JLGAUpRQL7mhsxj2CdDd"
+        }
+      ],
+      "duration_ms": 303775,
+      "name": "Maranata (Trono)",
+      "url": "https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo"
     },
     {
       "added_at": "2025-01-03 03:01:06",

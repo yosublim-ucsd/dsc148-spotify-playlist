@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5JzVNcx3f5j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5JzVNcx3f5j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5JzVNcx3f5j)
 
-### [Gintama Series 銀魂シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX5JzVNcx3f5j)
+### [Gintama Series](https://open.spotify.com/playlist/37i9dQZF1DX5JzVNcx3f5j)
 
-> Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
+> Music from "Gintama" Series ! ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
 88 songs - 4 hr 53 min
 

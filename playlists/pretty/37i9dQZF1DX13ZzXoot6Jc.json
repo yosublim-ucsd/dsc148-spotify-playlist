@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Cameron Whitcomb",
-  "num_followers": 452239,
+  "num_followers": 452207,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-01-17 05:00:26",
       "album": {
-        "name": "Called Crazy",
-        "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
-      },
-      "artists": [
-        {
-          "name": "Kassi Ashton",
-          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Called Crazy",
-      "url": "https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt"
-    },
-    {
-      "added_at": "2025-01-17 05:00:26",
-      "album": {
         "name": "Friends Like That",
         "url": "https://open.spotify.com/album/1jktyxNVwYBwiARCZCsXBA"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 186293,
       "name": "Friends Like That",
       "url": "https://open.spotify.com/track/0s8XDcxja9874FZvKo4IGO"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Called Crazy",
+        "url": "https://open.spotify.com/album/1gJwEquu8r3LUCkkaGvnB8"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Called Crazy",
+      "url": "https://open.spotify.com/track/4SrGX1rwNtpiTx5BLQpggt"
     },
     {
       "added_at": "2025-01-17 05:00:26",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-01-17 05:00:26",
       "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU"
-    },
-    {
-      "added_at": "2025-01-17 05:00:26",
-      "album": {
         "name": "Carolyn's Boy",
         "url": "https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 226546,
       "name": "Fires Don't Start Themselves",
       "url": "https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/31sj5KDqCjfBymlJxgtbDO"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/08MvBKdeKFvWwiE5fTagkU"
     },
     {
       "added_at": "2025-01-17 05:00:26",

@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: RIAN
 
-980 songs - 1 day 22 hr 27 min
+981 songs - 1 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,7 +610,7 @@
 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 | 2024-10-31 | 2024-12-13 |
 | [Nazis erschiessen](https://open.spotify.com/track/5Bh3fCer3pZp49sBNL5130) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Nazis erschiessen](https://open.spotify.com/album/7C7n3Viy7sds2WZ8y0a0Su) | 2:51 | 2024-07-18 | 2024-10-25 |
 | [Nero](https://open.spotify.com/track/1ySWFxPIPHpjA5EsRx39Q7) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Nero](https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS) | 3:02 | 2023-02-23 | 2023-03-31 |
-| [neue Notiz](https://open.spotify.com/track/2YLzaZ3hhHd2ambyl3K0u3) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [neue Notiz](https://open.spotify.com/album/6QCo9CnoOWoSkmGOxiuPxX) | 2:09 | 2024-12-05 |  |
+| [neue Notiz](https://open.spotify.com/track/2YLzaZ3hhHd2ambyl3K0u3) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [neue Notiz](https://open.spotify.com/album/6QCo9CnoOWoSkmGOxiuPxX) | 2:09 | 2024-12-05 | 2025-01-25 |
 | [neue welt](https://open.spotify.com/track/4BahctFbZ15m6Yw1ZsSOuq) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [schönheit die in schmerzen liegt](https://open.spotify.com/album/0VHB5d6cpwtQi6KZ2UZfUB) | 2:51 | 2023-11-24 | 2024-05-24 |
 | [Nicht Gern Allein](https://open.spotify.com/track/0zcHQjv29G0w1fwkBTzMOs) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Nicht gern allein](https://open.spotify.com/album/5eBnFfpvZhq0XEnPnm7aZy) | 3:41 | 2023-02-02 | 2023-06-02 |
 | [Nichts für immer](https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Nichts für immer](https://open.spotify.com/album/1ikXu7Cq3SEFP34uqSNCRS) | 2:31 | 2024-01-12 | 2024-05-24 |
@@ -730,6 +730,7 @@
 | [Schlaf gut](https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Schlaf gut](https://open.spotify.com/album/1Swdd6ktgwOrIYVCk3v4m7) | 3:21 | 2023-10-12 | 2024-09-06 |
 | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/track/1gKwm6VnYXf12VFx4fRGhO) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m), [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Schlaflied \(feat\. MELLER\)](https://open.spotify.com/album/4RzJ7FaPYVCrAUwuj6mqQU) | 2:48 | 2024-09-12 | 2024-10-11 |
 | [Schnee von morgen](https://open.spotify.com/track/1s6cXY4Fx1GcAMEDHuU0cJ) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [Schnee von morgen](https://open.spotify.com/album/3ywFR8ZscNRvrtCQjnjX8m) | 2:46 | 2025-01-09 |  |
+| [Schneeballschlacht](https://open.spotify.com/track/17U4l3bkLDBeR4BHp77s6l) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Schneeballschlacht](https://open.spotify.com/album/7Cva23tNGI1u0QBOtwXKSa) | 1:50 | 2025-01-24 |  |
 | [Schrei Es Raus](https://open.spotify.com/track/0RV3WPpJxwxce4X5cN11V2) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Schrei Es Raus](https://open.spotify.com/album/5SLzzCL9Cse7Mo2crW0gk3) | 2:33 | 2023-07-27 | 2023-11-17 |
 | [Schreien!](https://open.spotify.com/track/6n12nfjzuGGJSK5IAmfx8A) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Schreien!](https://open.spotify.com/album/4e6jAKuaVuz2cuHju2vSyJ) | 2:54 | 2023-02-02 | 2023-03-18 |
 | [Schritt für Schritt](https://open.spotify.com/track/3uQFTCi3SuEdBO5MEZLYhz) | [Tigermilch](https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN) | [Schritt für Schritt](https://open.spotify.com/album/5m1TXHF7JagAB954yDSn6w) | 2:18 | 2024-01-25 | 2024-02-23 |

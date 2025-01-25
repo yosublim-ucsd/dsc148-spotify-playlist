@@ -2239,6 +2239,32 @@
     },
     {
       "album": {
+        "name": "Neighbor Like Me (From \"Your Friendly Neighborhood Spider-Man\")",
+        "url": "https://open.spotify.com/album/30qd0n4PQMAReSBvrFMlRh"
+      },
+      "artists": [
+        {
+          "name": "The Math Club",
+          "url": "https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN"
+        },
+        {
+          "name": "Relaye",
+          "url": "https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya"
+        },
+        {
+          "name": "Melo Makes Music",
+          "url": "https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214136,
+      "name": "Neighbor Like Me - From \"Your Friendly Neighborhood Spider-Man\"",
+      "url": "https://open.spotify.com/track/2wogAW9Yxufq70Gsa4WxN7"
+    },
+    {
+      "album": {
         "name": "Avengers: Age of Ultron (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP"
       },

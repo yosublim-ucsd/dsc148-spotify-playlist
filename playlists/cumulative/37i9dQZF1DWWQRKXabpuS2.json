@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u063a\u0644\u0627\u0641: \u062d\u0646\u064a\u0646 \u062d\u0633\u064a\u0646",
+  "description": " \u0643\u0644 \u0634\u064a \u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f. \u063a\u0644\u0627\u0641: \u0633\u0644\u0637\u0627\u0646 \u0627\u0644\u0645\u0631\u0634\u062f",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -3776,7 +3776,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 200624,
       "name": "Mn Aaba Ebtala",
       "url": "https://open.spotify.com/track/5VWQaRorDIB9FTgX5hlUdq"
@@ -4368,7 +4368,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 308336,
       "name": "Saqat Aamdan",
       "url": "https://open.spotify.com/track/707mEqg0arM4lj6fC0q4QP"
@@ -5494,6 +5494,24 @@
       "duration_ms": 182538,
       "name": "Yemkn Kheera",
       "url": "https://open.spotify.com/track/0Djyg3c83BhOexIq9J7gk1"
+    },
+    {
+      "album": {
+        "name": "Yeshbah lak Aljaw",
+        "url": "https://open.spotify.com/album/2gzokC633j9ojBjcAfSxvy"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196225,
+      "name": "Yeshbah lak Aljaw",
+      "url": "https://open.spotify.com/track/2YnkBkoDFhwBt1cEU28iHZ"
     },
     {
       "album": {

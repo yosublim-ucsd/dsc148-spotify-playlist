@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
-  "num_followers": 124892,
+  "num_followers": 124927,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nj7AAAAAAdX8HfQ/md8At4200KdQwl",
+  "snapshot_id": "Z5MeeQAAAAB4c/kYzDy39R9Z59y/+PIp",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -65,6 +65,38 @@
       "url": "https://open.spotify.com/track/2VGJ4YLOCVotXBoqLYIDoG"
     },
     {
+      "added_at": "2025-01-24 05:00:41",
+      "album": {
+        "name": "Comparsa",
+        "url": "https://open.spotify.com/album/1064Ebjb8litnox1UxJV3B"
+      },
+      "artists": [
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "El Tiex",
+          "url": "https://open.spotify.com/artist/6464frNa6A3iV5HovTeKd9"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "duration_ms": 230304,
+      "name": "Comparsa",
+      "url": "https://open.spotify.com/track/49a0tpl791nV7LMtGKVLp5"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "FAVELA",
@@ -119,6 +151,30 @@
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2025-01-24 05:00:41",
+      "album": {
+        "name": "Chikiti",
+        "url": "https://open.spotify.com/album/3dsjnuy63b3g1gpcMjXrvq"
+      },
+      "artists": [
+        {
+          "name": "Daronn",
+          "url": "https://open.spotify.com/artist/3V9mbzeIDSmSSjSigs3Sg2"
+        },
+        {
+          "name": "Monster",
+          "url": "https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa"
+        },
+        {
+          "name": "Myko",
+          "url": "https://open.spotify.com/artist/417N1phMxyoi8CAtTlxO1h"
+        }
+      ],
+      "duration_ms": 151607,
+      "name": "Chikiti",
+      "url": "https://open.spotify.com/track/08GfUxDxY4YJCPVb309gN8"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -265,26 +321,6 @@
       "url": "https://open.spotify.com/track/4dmK0F5E0jVMUPgY5tMkI3"
     },
     {
-      "added_at": "2025-01-15 23:14:54",
-      "album": {
-        "name": "Dinero No Respeta",
-        "url": "https://open.spotify.com/album/1lEdJg74hLFIzSq44LVVi6"
-      },
-      "artists": [
-        {
-          "name": "Armani G",
-          "url": "https://open.spotify.com/artist/4KEqWCkkut3IlKYlQeyVti"
-        },
-        {
-          "name": "VLA Music Entertainment",
-          "url": "https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC"
-        }
-      ],
-      "duration_ms": 156722,
-      "name": "Dinero No Respeta",
-      "url": "https://open.spotify.com/track/1lqN4gOvA0aGccIuHUxwsS"
-    },
-    {
       "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Bolero",
@@ -391,30 +427,6 @@
       "duration_ms": 209920,
       "name": "Por Que Me Dejaste",
       "url": "https://open.spotify.com/track/6Axtt8cR01vgBskI1iHXGs"
-    },
-    {
-      "added_at": "2025-01-15 23:14:54",
-      "album": {
-        "name": "Lo Tengo Todo",
-        "url": "https://open.spotify.com/album/60fdOigbDF3HFwgozM5ksw"
-      },
-      "artists": [
-        {
-          "name": "Dariel Noel",
-          "url": "https://open.spotify.com/artist/5RF3Mpcs2RXyheE0hzngPk"
-        },
-        {
-          "name": "Hennessy",
-          "url": "https://open.spotify.com/artist/1LoeAMwjd44lrd6zU5Lh6U"
-        },
-        {
-          "name": "AREVIR",
-          "url": "https://open.spotify.com/artist/35fCQ3fpDZ0ITZ4Uv2s1bb"
-        }
-      ],
-      "duration_ms": 209780,
-      "name": "Lo Tengo Todo",
-      "url": "https://open.spotify.com/track/3FYNVSbhDZEHjtVMsybgAW"
     },
     {
       "added_at": "2024-02-02 05:00:00",

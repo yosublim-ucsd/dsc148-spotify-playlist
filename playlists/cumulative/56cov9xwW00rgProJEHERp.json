@@ -1549,6 +1549,24 @@
     },
     {
       "album": {
+        "name": "High (Acoustic)",
+        "url": "https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153066,
+      "name": "High - Acoustic",
+      "url": "https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa"
+    },
+    {
+      "album": {
         "name": "HLYTW",
         "url": "https://open.spotify.com/album/5jqnnvVT2ETofdjd0qD7mz"
       },
@@ -2616,6 +2634,24 @@
       "duration_ms": 165746,
       "name": "October Passed Me By",
       "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+    },
+    {
+      "album": {
+        "name": "Oh California",
+        "url": "https://open.spotify.com/album/1NBVldvVewNukGARZGf383"
+      },
+      "artists": [
+        {
+          "name": "Basset",
+          "url": "https://open.spotify.com/artist/6PK5jTymkiAxeOjjqOIAQ3"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203794,
+      "name": "Oh California",
+      "url": "https://open.spotify.com/track/2dOSQFePDgBFEQIakDkF3K"
     },
     {
       "album": {
@@ -3746,6 +3782,24 @@
       "duration_ms": 201533,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "album": {
+        "name": "Cecilia Castleman",
+        "url": "https://open.spotify.com/album/318wRVPe2r8qSHTeYay3nk"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225795,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/5rpqJU8hFJhqJx6ieJW3Fl"
     },
     {
       "album": {

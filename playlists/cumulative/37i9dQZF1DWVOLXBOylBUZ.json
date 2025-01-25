@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Bad Gyal & Trueno.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Alex Krack, Jombriel & Ryan Castro.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 155246,
       "name": "24",
       "url": "https://open.spotify.com/track/2ZJtRsJjRgzTAat3bStWx5"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 163813,
       "name": "2C",
       "url": "https://open.spotify.com/track/0Rlawc9ZR6YQvrBxmCDHCt"
@@ -1168,6 +1168,28 @@
       "duration_ms": 195275,
       "name": "AL NATURAL",
       "url": "https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE"
+    },
+    {
+      "album": {
+        "name": "AL X MAYOR",
+        "url": "https://open.spotify.com/album/6L05NbQNzxtg8EOeMtiFd8"
+      },
+      "artists": [
+        {
+          "name": "Ben\u00fa",
+          "url": "https://open.spotify.com/artist/138oFdOfNhLF3lctCm8d20"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "AL X MAYOR",
+      "url": "https://open.spotify.com/track/5J4EnQf9SpzeWoa3J2WsDR"
     },
     {
       "album": {
@@ -2246,7 +2268,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 230510,
       "name": "Azucena",
       "url": "https://open.spotify.com/track/6Fyl1WowJ2Syk0eWgp5kL4"
@@ -4622,7 +4644,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 183709,
       "name": "CASUALIDAD",
       "url": "https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu"
@@ -5360,7 +5382,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 131997,
       "name": "COMO ANTES",
       "url": "https://open.spotify.com/track/4VmBKKtk1FPUvTCPhky3hx"
@@ -5674,6 +5696,32 @@
       "duration_ms": 152500,
       "name": "Coquette",
       "url": "https://open.spotify.com/track/6sPKOxspAQdgYVkuwEvBf9"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Puro",
+        "url": "https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "Coraz\u00f3n Puro",
+      "url": "https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ"
     },
     {
       "album": {
@@ -6910,6 +6958,36 @@
       "duration_ms": 174251,
       "name": "Derrumb\u00e1ndome",
       "url": "https://open.spotify.com/track/3oy9KuES1OB6lUeGrA3slD"
+    },
+    {
+      "album": {
+        "name": "Descaro 2.0",
+        "url": "https://open.spotify.com/album/5M5oPUHmII7DOfjH2xssey"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269960,
+      "name": "Descaro 2.0",
+      "url": "https://open.spotify.com/track/1W7pLeUgPbFdDzASi4kUFA"
     },
     {
       "album": {
@@ -9278,7 +9356,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 183157,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
@@ -9748,7 +9826,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 171147,
       "name": "FP",
       "url": "https://open.spotify.com/track/0wWPgAzbZprVYu4GQEU4UJ"
@@ -10124,6 +10202,48 @@
       "duration_ms": 174065,
       "name": "Garantias",
       "url": "https://open.spotify.com/track/0iKJTCvE5Nuuambux6LXmr"
+    },
+    {
+      "album": {
+        "name": "Garreada De Shein (feat. Charly Flames, Starboooy., Alberto Producer, Brau Y Tito)",
+        "url": "https://open.spotify.com/album/24ALnNo6sLBE1Zwt2oB8RS"
+      },
+      "artists": [
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "BASTIDA 555",
+          "url": "https://open.spotify.com/artist/0IWMGTdF2RJzFuMR4fRChH"
+        },
+        {
+          "name": "Alberto Producer",
+          "url": "https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93"
+        },
+        {
+          "name": "Brau Y Tito",
+          "url": "https://open.spotify.com/artist/3PLCECqsLTy4jgK08Fpkme"
+        },
+        {
+          "name": "Charly Flames",
+          "url": "https://open.spotify.com/artist/4S6FyxHolnF0drJlH3chrM"
+        },
+        {
+          "name": "Starboooy.",
+          "url": "https://open.spotify.com/artist/4utu1WEJsJVw2G3EuiQzQ4"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157893,
+      "name": "Garreada De Shein (feat. Charly Flames, Starboooy., Alberto Producer, Brau Y Tito)",
+      "url": "https://open.spotify.com/track/5eyNqiT0jJbjoq9Qr7XgOV"
     },
     {
       "album": {
@@ -11646,6 +11766,24 @@
       "duration_ms": 180280,
       "name": "L0JI",
       "url": "https://open.spotify.com/track/71ZRd9N8f5p1Z4u1vXwdxI"
+    },
+    {
+      "album": {
+        "name": "LA ARGENTINA",
+        "url": "https://open.spotify.com/album/02QO9gZnZv8mzQcju6FQij"
+      },
+      "artists": [
+        {
+          "name": "Mike Castillo",
+          "url": "https://open.spotify.com/artist/0KKwvsJId3Wsd7z7gRCfbn"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127819,
+      "name": "LA ARGENTINA",
+      "url": "https://open.spotify.com/track/5NI13kE0LM2I6THfd3hWjW"
     },
     {
       "album": {
@@ -15937,6 +16075,28 @@
     },
     {
       "album": {
+        "name": "NI X EL PUTXS",
+        "url": "https://open.spotify.com/album/60BWMQAOZyitudi2E543PQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187368,
+      "name": "NI X EL PUTXS",
+      "url": "https://open.spotify.com/track/1KL5rlmHCcyqkoGHjsle8v"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -18002,10 +18162,36 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 238805,
       "name": "Parcerita - Remix",
       "url": "https://open.spotify.com/track/4itmNzm3xL7tOAetohHNQC"
+    },
+    {
+      "album": {
+        "name": "Parte & Choke (with Ryan Castro) [Remix]",
+        "url": "https://open.spotify.com/album/1PfV9iBFxlx2heeOjRM8jO"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Alex Krack",
+          "url": "https://open.spotify.com/artist/1YZcJWydWAbSpknMUKtD9m"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218591,
+      "name": "Parte & Choke (with Ryan Castro) - Remix",
+      "url": "https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50"
     },
     {
       "album": {
@@ -18840,7 +19026,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 144293,
       "name": "Polvito",
       "url": "https://open.spotify.com/track/0BmkXhJwHALpRSbqzQeR3j"
@@ -19956,6 +20142,24 @@
       "duration_ms": 141031,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
+    },
+    {
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
       "album": {
@@ -22723,6 +22927,32 @@
     },
     {
       "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/0xYVipVvxgFXVkkIbWCe3F"
+      },
+      "artists": [
+        {
+          "name": "Jared",
+          "url": "https://open.spotify.com/artist/7mccMACHaRkUsmX5Y4TPdg"
+        },
+        {
+          "name": "B Sanz",
+          "url": "https://open.spotify.com/artist/1xj7SYyEFaa23BgBMTs9nk"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199298,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/0VkdIb1s5W0t9c6qXKzVB3"
+    },
+    {
+      "album": {
         "name": "COLABORACIONES",
         "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
       },
@@ -23366,7 +23596,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 170688,
       "name": "Trakata",
       "url": "https://open.spotify.com/track/5YQDQrhCQQqjG8nBqYMrPJ"
@@ -24527,6 +24757,24 @@
     },
     {
       "album": {
+        "name": "VITAMINA",
+        "url": "https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157755,
+      "name": "VITAMINA",
+      "url": "https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5"
+    },
+    {
+      "album": {
         "name": "VITAMINA D",
         "url": "https://open.spotify.com/album/4psggAblmOxpE19d4XoDsw"
       },
@@ -25171,6 +25419,32 @@
     },
     {
       "album": {
+        "name": "De La Calle Pa Tu Cora",
+        "url": "https://open.spotify.com/album/3UXH6Yk3zm7s87fXASKvnV"
+      },
+      "artists": [
+        {
+          "name": "Daizak",
+          "url": "https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ"
+        },
+        {
+          "name": "Samir Guerrero",
+          "url": "https://open.spotify.com/artist/48GvKgVJh2wvVwNy2sfUWU"
+        },
+        {
+          "name": "Danilex",
+          "url": "https://open.spotify.com/artist/1tJvBbdeukuj5PqfXaPwgx"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250786,
+      "name": "X Qu\u00e9 Le Mientes A Tu Cora",
+      "url": "https://open.spotify.com/track/4K1z8mqujEXUbPHRgRG2Do"
+    },
+    {
+      "album": {
         "name": "X SI VOLVEMOS",
         "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
       },
@@ -25716,7 +25990,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 130838,
       "name": "\u00a1Ya no me pregunten por mi ex!",
       "url": "https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7"

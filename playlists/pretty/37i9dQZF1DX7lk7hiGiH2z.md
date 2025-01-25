@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,096 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,089 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 27 | [Kleiner Eisbär, wohin fährst du?](https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8) | [Kleiner Eisbär](https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6) | [Kleiner Eisbär: Rettet die Rentiere](https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L) | 3:57 |
 | 28 | [Klingelingeling \(feat\. Dominikus Weilede\)](https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Dominikus Weilede](https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 3:01 |
 | 29 | [Lametta](https://open.spotify.com/track/2h40veh7G3sIpaRJgWMcFD) | [Pauken und Planeten](https://open.spotify.com/artist/60mnI2b1MwVTA6q5EZ2iMT) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:55 |
-| 30 | [Winter ist wie Sommer nur in kalt](https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7) | [Die Liga der gewöhnlichen Gentlemen](https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:27 |
-| 31 | [Ich will Schnee](https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61) | [Deniz & Ove](https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X), [WIM](https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:11 |
+| 30 | [Ich will Schnee](https://open.spotify.com/track/45c5OmNGQCZd0c6RIn9H61) | [Deniz & Ove](https://open.spotify.com/artist/6mExL2mzC5cf1JsQz0MA9X), [WIM](https://open.spotify.com/artist/5jCFF91eZDDh1NS9gfQW4F) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:11 |
+| 31 | [Winter ist wie Sommer nur in kalt](https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7) | [Die Liga der gewöhnlichen Gentlemen](https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:27 |
 | 32 | [Eisbärn \(Kinderlied zum Winter\)](https://open.spotify.com/track/4gyo2WVkVnMnncxuxfsGJi) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Winterlieder: Bayerisch\-Verschmitzte Kinderlieder für Winter und Weihnachten](https://open.spotify.com/album/6YzQeq4xFBkK29bKA1RgQJ) | 4:33 |
 | 33 | [Leise rieselt der Schnee](https://open.spotify.com/track/5ElQqxkOJVS1sGSw7Xycsm) | [Annett Louisan](https://open.spotify.com/artist/0kcGSitPHYyZ9B7bP7wJo8), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:25 |
 | 34 | [Pingpong im Dezember](https://open.spotify.com/track/0h7kmWkVXYcWD1PrcWLCQO) | [Sebastian Krämer](https://open.spotify.com/artist/1qgGiKd6ht1mBHj1CuaiFq) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:36 |

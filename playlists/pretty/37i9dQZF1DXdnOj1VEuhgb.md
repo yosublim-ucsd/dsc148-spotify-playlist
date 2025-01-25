@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385,522 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,537 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 9 | [Interpol](https://open.spotify.com/track/1H5c3Y6gwY0FdPcBm1O9mb) | [Massaka](https://open.spotify.com/artist/4Fn5clYETVpCxnIcFSZhr9) | [7](https://open.spotify.com/album/1Q6UEiNn3P0IjsxaKT81NI) | 1:55 |
 | 10 | [Gibi](https://open.spotify.com/track/4iKftOZWorMkLpeZpGI2nF) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [2024 Bootleg](https://open.spotify.com/album/2gHBAriairZLVMKT4yn0Mo) | 3:21 |
 | 11 | [Nereye Gitsem](https://open.spotify.com/track/1QqqTDLV7M7ituLCDF3xUD) | [Ados](https://open.spotify.com/artist/4jtv7mIerRdHNQOkFtKyDW), [Kezzo](https://open.spotify.com/artist/6IFL211nZF4xuxG0u8G6HH) | [NEC PLUS ULTRA](https://open.spotify.com/album/6A0Falcx1Yh7Ii6AlSy3ES) | 3:37 |
-| 12 | [BRAPAP](https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BRAPAP](https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx) | 2:23 |
+| 12 | [BRAPAP](https://open.spotify.com/track/7zTNMaXRLjiQwi8rRlvReb) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BRAPAP](https://open.spotify.com/album/13dAE2L8DBSKVsHEB7OeBx) | 2:23 |
 | 13 | [AM2TERDAM](https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [AM2TERDAM](https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C) | 3:26 |
 | 14 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
 | 15 | [Kuklacı](https://open.spotify.com/track/3cNQH9IDa0JAuJiAgDXFp1) | [Rota](https://open.spotify.com/artist/4m53kPdPFJpnF0qcJqfwNB) | [Kuklacı](https://open.spotify.com/album/7iGpoDgQzT0pn46EolP4v3) | 3:18 |

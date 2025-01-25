@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-169 songs - 15 hr 23 min
+170 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Carbon](https://open.spotify.com/track/2gLPb0qvByFYlL6HAkaToU) | [Zu](https://open.spotify.com/artist/5S2qz9t9m2OSBtSLZz4tMx) | [Carboniferous](https://open.spotify.com/album/21ttx8IAdJrq2a9oz2HMNC) | 4:24 | 2021-01-27 |  |
 | [Carsten Kalder](https://open.spotify.com/track/0BacymjAXUcd3ZEILwk777) | [Mathias Heise Quadrillion](https://open.spotify.com/artist/3QuZw5X0grwQpZa02Vby2r) | [Carsten Kalder](https://open.spotify.com/album/4zFzUzz8KTqf6hklyerROz) | 7:50 | 2022-04-11 |  |
 | [Check Up](https://open.spotify.com/track/5N46vPN2peIdK1CEx4Y67m) | [Wojtek Pilichowski](https://open.spotify.com/artist/4hVUP1qT3yMGXvGhBaXmId) | [Jericho Brass Collective](https://open.spotify.com/album/7krzLV2PW1yh9OlnZPDsHb) | 7:49 | 2021-12-17 |  |
+| [Classic Waldi Anthem](https://open.spotify.com/track/6XFeMpbt70h8KLd9RZUtF4) | [Waldo's Gift](https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb) | [Malcolm's Law](https://open.spotify.com/album/5tymJw5lEO3MicwrrtQ2RM) | 3:40 | 2025-01-24 |  |
 | [Closer](https://open.spotify.com/track/3B5Wk1AhqKSSB4EQAP7WBO) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Terreon Gully](https://open.spotify.com/artist/1SqJPsQ1Xl7SqS7bNcea5P), [Dario Chiazzolino](https://open.spotify.com/artist/0FCdAfxz2PRzUfKzzVM5LG), [Jermaine Paul](https://open.spotify.com/artist/302jOsgU7aZW71XhLem57k), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Closer](https://open.spotify.com/album/5FmLzaMLG8dIHvYNpJrgWu) | 5:27 | 2023-09-08 |  |
 | [Cloud Of Oort](https://open.spotify.com/track/5DFSRzVn40kObZNfi9i7w6) | [Jonathan Lundberg](https://open.spotify.com/artist/6t3AHrm1phB25xs2XpST7p), [Hadrien Feraud](https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j), [Christopher Clark](https://open.spotify.com/artist/4PrvXi9ekhPzzcqRqFa3bB), [Johan Hansén\-Larson](https://open.spotify.com/artist/5844YBpApbEWeMcEVpNpNR) | [Cloud Of Oort](https://open.spotify.com/album/3J4x5mfj4UtoJZZJkC45ga) | 6:51 | 2022-05-06 |  |
 | [Colliding Chimps](https://open.spotify.com/track/7M3oG4mQrOn81hNgSRqUqP) | [Brett Garsed](https://open.spotify.com/artist/01mN2lVKpGYTgyu1X9Tfas), [Tj\. Helmerich](https://open.spotify.com/artist/4iLrFjLcUnQUEUOxUiEDl6), [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ), [Scott Kinsey](https://open.spotify.com/artist/1503sX3VD2I5aLcBA9wjjK), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Uncle Moe's Space Ranch](https://open.spotify.com/album/5V89sbJdj6RDqqUHW7bCnX) | 6:16 | 2021-01-27 |  |

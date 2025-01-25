@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 150861,
+  "num_followers": 150859,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1u/VAAAAACcJEmTIPRGq5WHDl2X8W6M",
+  "snapshot_id": "Z5MebAAAAAB8m55ghkovq+sXGlCPTDP3",
   "tracks": [
+    {
+      "added_at": "2025-01-24 05:00:28",
+      "album": {
+        "name": "Wherever You Are (Radio Mix)",
+        "url": "https://open.spotify.com/album/6Ml1tPseDakWkVH1C8XX9T"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 203872,
+      "name": "Wherever You Are - Radio Mix",
+      "url": "https://open.spotify.com/track/7x1WL4uE97GjAdWe9IMiNE"
+    },
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 190040,
       "name": "Gossip",
       "url": "https://open.spotify.com/track/65XSifoolPRjDZAQQnwJOa"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 203872,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/1Q0ANkWXGEMDpAOkR0vOTg"
     },
     {
       "added_at": "2024-11-15 05:00:00",

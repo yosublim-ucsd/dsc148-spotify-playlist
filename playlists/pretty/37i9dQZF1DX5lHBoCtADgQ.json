@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Gurdas Maan ",
-  "num_followers": 38827,
+  "num_followers": 38849,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-01-08 11:18:09",
       "album": {
-        "name": "Punjabi Lok Rang",
-        "url": "https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG"
-      },
-      "artists": [
-        {
-          "name": "Surinder Kaur",
-          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Latthe Di Chadar - Mahiya",
-      "url": "https://open.spotify.com/track/4hvesFus234aJFjiExrWmY"
-    },
-    {
-      "added_at": "2025-01-08 11:18:09",
-      "album": {
         "name": "Tere Jeya Hor Disda",
         "url": "https://open.spotify.com/album/7n5DGiPi4rR8yBnH3I8osc"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 275368,
       "name": "Tere Jeya Hor Disda",
       "url": "https://open.spotify.com/track/3XIi6msH1YV5Nncnz07mIj"
+    },
+    {
+      "added_at": "2025-01-08 11:18:09",
+      "album": {
+        "name": "Punjabi Lok Rang",
+        "url": "https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Latthe Di Chadar - Mahiya",
+      "url": "https://open.spotify.com/track/4hvesFus234aJFjiExrWmY"
     },
     {
       "added_at": "2025-01-08 11:18:09",

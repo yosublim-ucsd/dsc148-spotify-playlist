@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-785 songs - 1 day 4 hr 57 min
+786 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Louca Encubada](https://open.spotify.com/track/5pvVt1ak0vsGRE0Hl4kudu) | [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [Rodricci](https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Louca Encubada](https://open.spotify.com/album/4Qmw0mV9qMba2FQVUh0BYz) | 1:59 | 2023-12-01 | 2024-04-19 |
 | [Love Bound](https://open.spotify.com/track/6SBvZsLtZY8oRwAvPfSRcc) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [Love Bound](https://open.spotify.com/album/5OxjqpaOnjbVZlNi07ZJoD) | 3:11 | 2022-02-04 | 2022-05-14 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-09-08 |  |
+| [Lya Funk](https://open.spotify.com/track/2FYlmspnovRvPOP0a5d53A) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [TRVNSPORTER](https://open.spotify.com/artist/7qxDImq6MFph8fLy0FOTCq) | [Lya Funk](https://open.spotify.com/album/3kJEka5x8yw9xg02X0mwBH) | 2:09 | 2025-01-24 |  |
 | [Machiavelli](https://open.spotify.com/track/70U2jTJb22sGH2qVYLZJQ0) | [DAZI](https://open.spotify.com/artist/2bUeVsRE7j8IL8NqTpGPRf) | [Machiavelli](https://open.spotify.com/album/52B9z7TUl4OI2ACFBGoY0C) | 2:01 | 2022-08-05 | 2022-09-10 |
 | [MAD!](https://open.spotify.com/track/6kYAPKJjFEbKNze2uz11js) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [FXRR](https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i) | [MAD!](https://open.spotify.com/album/4ANbJ89NmCeIMbBr5sVZe6) | 1:58 | 2023-03-31 | 2023-05-06 |
 | [MADNESS](https://open.spotify.com/track/6iZh7kG2Bjt3DHmnWcc0ov) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC), [GREEN ORXNGE](https://open.spotify.com/artist/57QsdaQhaRhRruISmg7W2G) | [MADNESS](https://open.spotify.com/album/2YHvfutjzC1HDdkFY45ksr) | 2:27 | 2022-02-04 | 2022-07-30 |
@@ -416,7 +417,7 @@
 | [medusa!](https://open.spotify.com/track/0V1nzshK4HW8wSI8q2Nymz) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [medusa!](https://open.spotify.com/album/09HZNB7tcsqtCAJLOjj4yf) | 1:41 | 2022-11-04 | 2023-04-15 |
 | [Melancholy](https://open.spotify.com/track/67J9oAUsdZEsXpELyhPiSD) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [Melancholy](https://open.spotify.com/album/5Y81AI6VC3qqOYwJd3kdzA) | 3:25 | 2021-12-03 | 2022-04-05 |
 | [MEMORIES](https://open.spotify.com/track/2HFbD90hYcAaJAdwhBNauH) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [SLXEPING TOKYO](https://open.spotify.com/artist/1fA3zdJing6RF5bIQ2lSve) | [MEMORIES](https://open.spotify.com/album/5zJRBXrAoigPupBkX4kPUy) | 3:34 | 2021-11-12 | 2022-02-19 |
-| [Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx) | 3:29 | 2023-08-04 |  |
+| [Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/134MPeCAA7a1yRC1rRFQCx) | 3:29 | 2023-08-04 | 2025-01-25 |
 | [MERCURIAL](https://open.spotify.com/track/3KoqNeQ5sHcVlRLdJbCDz6) | [ditro](https://open.spotify.com/artist/22Hb8KWTIUTq3WmUBwXWoJ) | [MERCURIAL](https://open.spotify.com/album/2EDMOapuWPjpFI6Mklnm4h) | 2:58 | 2022-10-07 | 2022-11-19 |
 | [Mercury Retrograde](https://open.spotify.com/track/2dTYNnBPJDkb5RsFozDnGV) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz) | [State of the Art](https://open.spotify.com/album/0CN998CRgRgKRBoZKF1rpE) | 3:16 | 2022-01-06 | 2022-02-05 |
 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 | 2022-05-20 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the centre of electronic music culture. Cover: Babymorocco",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Cover: Shygirl",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -2003,6 +2003,28 @@
     },
     {
       "album": {
+        "name": "FOREVER 21 w/ MISS LUXURY",
+        "url": "https://open.spotify.com/album/7me2zDjFfeJZiO8NvtKLY0"
+      },
+      "artists": [
+        {
+          "name": "LyteSpeed",
+          "url": "https://open.spotify.com/artist/4XIl1fxI6tJQzbSMb2fNAr"
+        },
+        {
+          "name": "MISS LUXURY",
+          "url": "https://open.spotify.com/artist/6KlmTJ2jv8hMPUzuUEKNbZ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124721,
+      "name": "FOREVER 21 w/ MISS LUXURY",
+      "url": "https://open.spotify.com/track/5DFk9bjNR334on2mT4zhVq"
+    },
+    {
+      "album": {
         "name": "Face to Phase",
         "url": "https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu"
       },
@@ -2830,7 +2852,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 182813,
       "name": "I'm Free (feat. Rina Sawayama)",
       "url": "https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI"
@@ -2848,7 +2870,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 188500,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/5mbk7278CTgKPCUmHDjkNU"
@@ -3258,7 +3280,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 126511,
       "name": "Lesbians <3",
       "url": "https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY"
@@ -3774,6 +3796,24 @@
       "duration_ms": 398215,
       "name": "Marlene",
       "url": "https://open.spotify.com/track/79oTqgo2EgUkLQ5IYwTteW"
+    },
+    {
+      "album": {
+        "name": "v.i.p. - very important pony",
+        "url": "https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "materiaL hor$e",
+      "url": "https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q"
     },
     {
       "album": {
@@ -4638,7 +4678,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 179750,
       "name": "PRETTY GIRLS WANT IT HARD",
       "url": "https://open.spotify.com/track/1QnL8rwfB4DsubtuxG1rVb"
@@ -5176,6 +5216,24 @@
       "duration_ms": 248573,
       "name": "Secretariat (feat. Shaun J. Wright & Kon)",
       "url": "https://open.spotify.com/track/6NZ2pm3CO9C5HeXLLzMvlh"
+    },
+    {
+      "album": {
+        "name": "Security",
+        "url": "https://open.spotify.com/album/33mSENjZtsyhTYKXDV3UIZ"
+      },
+      "artists": [
+        {
+          "name": "Big Softy",
+          "url": "https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Security",
+      "url": "https://open.spotify.com/track/34XD74XzRNiojWYXAveUKj"
     },
     {
       "album": {
@@ -5960,6 +6018,36 @@
       "duration_ms": 191369,
       "name": "True Love to the Grave (feat. Claudia Kane)",
       "url": "https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC"
+    },
+    {
+      "album": {
+        "name": "True Religion",
+        "url": "https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Indie Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXbO6rt3GhXDY)
 
-> You know em, you love em, these are indie pop hits\. Cover: Magdalena Bay
+> You know em, you love em, these are indie pop hits\. Cover: Lola Young
 
 171 songs - 9 hr 21 min
 

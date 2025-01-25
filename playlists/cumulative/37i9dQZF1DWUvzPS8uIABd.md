@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Nelli Matula.
 
-406 songs - 20 hr 16 min
+407 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Kuuma kesä \(feat\. THESAARINEN\) \[Vain elämää kausi 15\]](https://open.spotify.com/track/6QSSHZukWMUvirtxXFmp2D) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [THESAARINEN](https://open.spotify.com/artist/4gDJhG6M2ryh3phj6ZrmAF) | [Kuuma kesä \(feat\. THESAARINEN\) \[Vain elämää kausi 15\]](https://open.spotify.com/album/5zw4xTOYUO32tVgZEzYeHc) | 2:34 | 2024-09-13 | 2024-09-20 |
 | [Kyyneleet sateessa](https://open.spotify.com/track/6LtPm6eJ3xywabrHNWdWPg) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kyyneleet sateessa](https://open.spotify.com/album/5lvrLlE64eXGmTVJ4WNBni) | 2:48 | 2024-07-02 | 2025-01-03 |
 | [Kyyneliä kaulaliinaan](https://open.spotify.com/track/0DBzoxR8kYMKnEHXoRFrQZ) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Kyyneliä kaulaliinaan](https://open.spotify.com/album/4bt6rY5ycgP8rj3PVngHPh) | 2:55 | 2024-10-24 | 2024-11-15 |
+| [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 | 2025-01-24 |  |
 | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/track/0j9htEbDldJZMzUSFrGRfY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Labyrintti \(feat\. Pyrythekid\)](https://open.spotify.com/album/09wnzTC0pSgc7kKfO1OYcL) | 3:01 | 2024-07-02 | 2024-07-27 |
 | [Laiffi är nu \(feat\. Pandora\) \[Vain elämää kausi 15\]](https://open.spotify.com/track/30gb3qbZc39go2t8ORvsEj) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [Laiffi är nu \(feat\. Pandora\) \[Vain elämää kausi 15\]](https://open.spotify.com/album/2Wp1kN7HG1pulLiPH1jDEP) | 2:56 | 2024-10-10 | 2024-10-18 |
 | [Lainasydän](https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Lainasydän](https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U) | 2:51 | 2024-10-03 | 2024-11-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Hadrian en portada.",
+  "description": "Bienvenidx a la trampa mexa. Dan Garc\u00eda, Sheeno y ND Kobi' en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -6726,6 +6726,32 @@
       "duration_ms": 206769,
       "name": "Tirando Flow Sesh #12",
       "url": "https://open.spotify.com/track/6DddJtjNkqAmo5HghXa5iB"
+    },
+    {
+      "album": {
+        "name": "Tirando Flow Sesh #19",
+        "url": "https://open.spotify.com/album/1M3wmvv4O8noPCxZD3mbFl"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
+        },
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Tirando Flow Sesh #19",
+      "url": "https://open.spotify.com/track/4dv15mTCsAA1t2zYRbKyfQ"
     },
     {
       "album": {

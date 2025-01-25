@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Mollie Collins
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Morten &amp; David Guetta
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,581 likes - 30 songs - 1 hr 23 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,584 likes - 30 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 29 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 |
 | 30 | [MF Mosh Pit](https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Und3rsound](https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47) | [MF Mosh Pit](https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk) | 2:14 |
 
-Snapshot ID: `AAAerZZo/++Hv/Ng5HH/DGFxdJME/4Fl`
+Snapshot ID: `AAAerjBgELxsBR55aJGo1ho3KV8AQBiZ`

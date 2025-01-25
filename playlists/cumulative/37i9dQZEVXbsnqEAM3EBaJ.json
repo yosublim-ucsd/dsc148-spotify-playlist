@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 214221,
       "name": "Amor de Carnaval",
       "url": "https://open.spotify.com/track/3gHmSTdbytqCTzUKN2TYaW"
@@ -6822,6 +6822,28 @@
       "duration_ms": 405106,
       "name": "Chasing Light",
       "url": "https://open.spotify.com/track/0aHwh2rqyJNN0eZ4sGZLEt"
+    },
+    {
+      "album": {
+        "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
+        "url": "https://open.spotify.com/album/0iQY3aaPTbpMtyIOeGjCTP"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152456,
+      "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
+      "url": "https://open.spotify.com/track/3LYcvqGyM07ezEJaqNoSZH"
     },
     {
       "album": {
@@ -12305,6 +12327,24 @@
     },
     {
       "album": {
+        "name": "Even If It Kills Me",
+        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212239,
+      "name": "Even If It Kills Me",
+      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
+    },
+    {
+      "album": {
         "name": "Eventide",
         "url": "https://open.spotify.com/album/2ib7EVPNqDdFJ4eTSnixWT"
       },
@@ -12360,7 +12400,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 296616,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/7KjEU4cLKPFfQIc0gTzjqS"
@@ -16985,6 +17025,24 @@
     },
     {
       "album": {
+        "name": "Hot For You Baby",
+        "url": "https://open.spotify.com/album/06UN5FS25CSUgSyqrpZxp8"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283103,
+      "name": "Hot For You Baby",
+      "url": "https://open.spotify.com/track/7LYGiSEES9KJlThWIkNbGF"
+    },
+    {
+      "album": {
         "name": "Hot Rails To Hell (Live)",
         "url": "https://open.spotify.com/album/0Q4w3H4RI9IBeVQ592IiyE"
       },
@@ -17252,6 +17310,46 @@
       "duration_ms": 253359,
       "name": "I Am the Devil",
       "url": "https://open.spotify.com/track/4zQaaikXNVSzB4HTKcH4MB"
+    },
+    {
+      "album": {
+        "name": "I Am... All of Me (Female Version) [from \"Shadow the Hedgehog\"]",
+        "url": "https://open.spotify.com/album/6UvwPTxwk5mrN556LHn9Qh"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        },
+        {
+          "name": "Lufca",
+          "url": "https://open.spotify.com/artist/5LzTcLf1lyJ9ic2xBtREcg"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232736,
+      "name": "I Am... All of Me (Female Version) [from \"Shadow the Hedgehog\"]",
+      "url": "https://open.spotify.com/track/5ODWnK1k9inOsY6HC9ZVAN"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
     },
     {
       "album": {
@@ -19594,6 +19692,28 @@
       "duration_ms": 263925,
       "name": "It's Called Paradise",
       "url": "https://open.spotify.com/track/645MkmRB7md78K9cIUemDn"
+    },
+    {
+      "album": {
+        "name": "It's My Ego (3mix)",
+        "url": "https://open.spotify.com/album/4ShJe9chOSEQWZEkc1MxeX"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165631,
+      "name": "It's My Ego - 3mix",
+      "url": "https://open.spotify.com/track/4fx2mGAwYCaxkZQjUTOxXj"
     },
     {
       "album": {
@@ -23827,6 +23947,24 @@
     },
     {
       "album": {
+        "name": "Mayonaka no Door~stay with me (classic)",
+        "url": "https://open.spotify.com/album/4ZV03YxMBJlU4xDctDmVqw"
+      },
+      "artists": [
+        {
+          "name": "Miki Matsubara",
+          "url": "https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301840,
+      "name": "Mayonaka no Door~stay with me - classic",
+      "url": "https://open.spotify.com/track/1RN8sxd66EvvUcIAYiAcoq"
+    },
+    {
+      "album": {
         "name": "Mayonaka no Door~stay with me 2024",
         "url": "https://open.spotify.com/album/3kDcz6EbJfyQyoYlJe0iCA"
       },
@@ -24408,6 +24546,24 @@
       "duration_ms": 219853,
       "name": "Middle Ground (feat. Mickey Guyton)",
       "url": "https://open.spotify.com/track/3UK3ZCRxqV3FOEMnGxeFZa"
+    },
+    {
+      "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
       "album": {
@@ -25668,7 +25824,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 149326,
       "name": "NEED U",
       "url": "https://open.spotify.com/track/3aN1TfhitJgNm1p6wZIRQb"
@@ -26307,6 +26463,36 @@
     },
     {
       "album": {
+        "name": "Fuera de Casa",
+        "url": "https://open.spotify.com/album/03MogqU59znbLPj8ny2Kcp"
+      },
+      "artists": [
+        {
+          "name": "Niel Brown",
+          "url": "https://open.spotify.com/artist/6RugsUanaXiMwuBjzSEXM2"
+        },
+        {
+          "name": "MC Billeta",
+          "url": "https://open.spotify.com/artist/58KYre2g7s5J5U9ECk08An"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "JAMBRO",
+          "url": "https://open.spotify.com/artist/7u1VTRpxocp3EPB7dpSgM4"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "No Me Hagan Reir",
+      "url": "https://open.spotify.com/track/1J6DYoPyMg7h5sgQX77NrQ"
+    },
+    {
+      "album": {
         "name": "La Dieta del Murci\u00e9lago (Instrumentales)",
         "url": "https://open.spotify.com/album/2ZGVSITaf9Jmne4WH1lhOC"
       },
@@ -26482,6 +26668,24 @@
       "duration_ms": 209293,
       "name": "Nocturnal Fear (Celtically Processed)",
       "url": "https://open.spotify.com/track/7weyREHgfGWpKJDBRzUFo1"
+    },
+    {
+      "album": {
+        "name": "Nod",
+        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
     },
     {
       "album": {
@@ -28024,7 +28228,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 187862,
       "name": "Overdose - feat. Blindside",
       "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
@@ -28346,6 +28550,28 @@
       "duration_ms": 230840,
       "name": "Parklife - Live at Wembley Stadium",
       "url": "https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS"
+    },
+    {
+      "album": {
+        "name": "Desfragmentado",
+        "url": "https://open.spotify.com/album/0CIzhS5H1mNPH3uPuoeBbh"
+      },
+      "artists": [
+        {
+          "name": "Waly",
+          "url": "https://open.spotify.com/artist/1hiKLjsL5uJ1RswZDhWJAP"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233248,
+      "name": "Partir de cero",
+      "url": "https://open.spotify.com/track/2K0Cj8FW678xTAlFy6yU1D"
     },
     {
       "album": {
@@ -32524,7 +32750,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 196394,
       "name": "Seasons In The Sun",
       "url": "https://open.spotify.com/track/6tuc1fY6tRnRK3HRFuvezY"
@@ -35660,7 +35886,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 177460,
       "name": "Subways of Your Mind - Original version of TMMS",
       "url": "https://open.spotify.com/track/76WgRMMswzaSMfo6wIuhwO"
@@ -38649,6 +38875,24 @@
     },
     {
       "album": {
+        "name": "The Prodigal Ones",
+        "url": "https://open.spotify.com/album/3fTCl3lz6B08gV5WO8a2sI"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "The Prodigal Ones",
+      "url": "https://open.spotify.com/track/4Wu5bEby9DaBGBypEfQN8g"
+    },
+    {
+      "album": {
         "name": "The prophecy",
         "url": "https://open.spotify.com/album/55NsiB7f1pvz5YMp8St93K"
       },
@@ -40130,6 +40374,24 @@
       "duration_ms": 227044,
       "name": "Timing",
       "url": "https://open.spotify.com/track/41oqR5tkYYJWNRI0efZfcA"
+    },
+    {
+      "album": {
+        "name": "To Live Deliciously",
+        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332226,
+      "name": "To Live Deliciously",
+      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
     },
     {
       "album": {
@@ -44082,7 +44344,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 333466,
       "name": "Wishing (If I Had A Photograph Of You) - Re-recorded - 2021 mix",
       "url": "https://open.spotify.com/track/0ISbNB0NA2InVcGjVCKgV0"

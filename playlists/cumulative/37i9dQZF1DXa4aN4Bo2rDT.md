@@ -2,7 +2,7 @@
 
 ### [Pokémon Sleep](https://open.spotify.com/playlist/37i9dQZF1DXa4aN4Bo2rDT)
 
-> 睡眠ゲームアプリ『Pokémon Sleep』の音楽を楽しもう！A soothing selection of music from Pokémon Sleep! ©Pokémon/Nintendo/CR/GF
+> A soothing selection of music from Pokémon Sleep! ©Pokémon/Nintendo/CR/GF
 
 20 songs - 1 hr 11 min
 

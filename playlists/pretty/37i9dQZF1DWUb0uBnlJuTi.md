@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Skinny Hightower
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,269 likes - 200 songs - 15 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,402 likes - 200 songs - 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wrong Turn](https://open.spotify.com/track/3mWbe25jgcrW3YjeLLtbgP) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Jerry Léonide](https://open.spotify.com/artist/5Af1TsVHdJnJKt6R9kInBe), [Kevin Reveyrand](https://open.spotify.com/artist/6e8iJWw2WfJQjYmZPFmmra) | [Status Quo](https://open.spotify.com/album/0kbdRU8fGz15dmhPrWygqB) | 5:24 |
-| 2 | [Along The Coast](https://open.spotify.com/track/07Sa86wC3tmFwvLeshtUgb) | [Simon Oslender](https://open.spotify.com/artist/5VJSyBgSYK1K2b45QCSJsM), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun) | [Along The Coast](https://open.spotify.com/album/0aDqGYl1WzNPR0P9x4q3vq) | 6:04 |
-| 3 | [BEEF](https://open.spotify.com/track/3IrwWVOz5YZNuOcilwwzqX) | [Andrew Huang](https://open.spotify.com/artist/7HifubxN0gO1nHbRIqWhrY), [4L3X 4LM1R4LL](https://open.spotify.com/artist/3NZb54JKVDSE7E333Tx39z) | [BEEF](https://open.spotify.com/album/2HAfxkMuf3MSAFrPJaFS4H) | 2:54 |
-| 4 | [ORGANICS](https://open.spotify.com/track/0PAF2exzV27bNk6YPikLt8) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THE MAN](https://open.spotify.com/album/7LvM2OjHj4lqjkWjUOGN3t) | 3:25 |
+| 1 | [TAXI](https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Tyler Gauldin](https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU) | [TAXI](https://open.spotify.com/album/1kDbUfS7ad8KOFxrSPOX2W) | 6:21 |
+| 2 | [Wrong Turn](https://open.spotify.com/track/3mWbe25jgcrW3YjeLLtbgP) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Jerry Léonide](https://open.spotify.com/artist/5Af1TsVHdJnJKt6R9kInBe), [Kevin Reveyrand](https://open.spotify.com/artist/6e8iJWw2WfJQjYmZPFmmra) | [Status Quo](https://open.spotify.com/album/0kbdRU8fGz15dmhPrWygqB) | 5:24 |
+| 3 | [Along The Coast](https://open.spotify.com/track/07Sa86wC3tmFwvLeshtUgb) | [Simon Oslender](https://open.spotify.com/artist/5VJSyBgSYK1K2b45QCSJsM), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun) | [Along The Coast](https://open.spotify.com/album/0aDqGYl1WzNPR0P9x4q3vq) | 6:04 |
+| 4 | [BEEF](https://open.spotify.com/track/3IrwWVOz5YZNuOcilwwzqX) | [Andrew Huang](https://open.spotify.com/artist/7HifubxN0gO1nHbRIqWhrY), [4L3X 4LM1R4LL](https://open.spotify.com/artist/3NZb54JKVDSE7E333Tx39z) | [BEEF](https://open.spotify.com/album/2HAfxkMuf3MSAFrPJaFS4H) | 2:54 |
 | 5 | [Wonder Boy \- Audiotree Live Version](https://open.spotify.com/track/6QkWcBNgOfs4ue8I0qL7u9) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Huntertones on Audiotree Live](https://open.spotify.com/album/4wwenK3MApnh1R3ky0eaKT) | 4:46 |
 | 6 | [CHIPS & DIP \(EXTRA CHUNKY\)](https://open.spotify.com/track/5CcomoaWjlLHRg7VBOPIi0) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [CHIPS & DIP \(EXTRA CHUNKY\)](https://open.spotify.com/album/0jwlcFngQXwHdTVFNrnTm6) | 5:08 |
 | 7 | [Burning](https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Burning](https://open.spotify.com/album/7tCy6wL8s3hXKXAG6whYG6) | 3:19 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Feel The Bern \- Alt Take](https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Outtakes: 'Law of Attraction' Session](https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo) | 2:00 |
 | 200 | [So Cold](https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb) | 4:12 |
 
-Snapshot ID: `Z4nj6gAAAAB7rdMEvOelzEQsUmkC00Qg`
+Snapshot ID: `Z5MeaQAAAAAd8bH3DikrutX6CVrKrg9a`

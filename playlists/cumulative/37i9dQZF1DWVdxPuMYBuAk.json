@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Favorite Son (From XO, Kitty Season 2)",
+        "url": "https://open.spotify.com/album/7hjK7rJh2qdkIYaTi7USNg"
+      },
+      "artists": [
+        {
+          "name": "dv/sn",
+          "url": "https://open.spotify.com/artist/2IGjOiTyvZdlRP8PCJ1EvS"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118020,
+      "name": "Favorite Son (From XO, Kitty Season 2)",
+      "url": "https://open.spotify.com/track/6j7x60LgykoSpz9jJleuSb"
+    },
+    {
+      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },

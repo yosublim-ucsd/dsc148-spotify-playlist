@@ -2367,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "Kick It (Andrea Botez Remix)",
+        "url": "https://open.spotify.com/album/6qKyW0Y52WFG8zPV24rJ8p"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205687,
+      "name": "Kick It - Andrea Botez Remix",
+      "url": "https://open.spotify.com/track/1CbZd4FBm8Insquq3HGTGP"
+    },
+    {
+      "album": {
         "name": "Porcupine EP",
         "url": "https://open.spotify.com/album/06OzwkhkR0MPA4mT2SUdBD"
       },
@@ -2748,6 +2770,24 @@
       "duration_ms": 392888,
       "name": "Lost In Complexity - Nusha Remix",
       "url": "https://open.spotify.com/track/627lNP3VLOIz68JigQiS9u"
+    },
+    {
+      "album": {
+        "name": "Lost in the Labyrinth",
+        "url": "https://open.spotify.com/album/1dD5PvJl63IaMYXipKVZWA"
+      },
+      "artists": [
+        {
+          "name": "Prevision",
+          "url": "https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423750,
+      "name": "Lost in the Labyrinth",
+      "url": "https://open.spotify.com/track/44fLHRYTOm2GBUXTbiNHVM"
     },
     {
       "album": {

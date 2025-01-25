@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 105048,
       "name": "Baawe She Callin",
       "url": "https://open.spotify.com/track/1cgtnrPjZpHdeRkIrSiFsc"
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 229768,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/0uKQs0gwQzWe7HazpkhioU"
@@ -5098,7 +5098,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
@@ -8272,7 +8272,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 308589,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/03XeWmadwkt3osO7cozsqm"
@@ -12867,6 +12867,28 @@
     },
     {
       "album": {
+        "name": "Facts",
+        "url": "https://open.spotify.com/album/7DZ0fu9KXeChA0Mp11PBBA"
+      },
+      "artists": [
+        {
+          "name": "Exit Se7en",
+          "url": "https://open.spotify.com/artist/298NQMSxkcwPaXQ1gRYPiq"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Facts",
+      "url": "https://open.spotify.com/track/39JAn4sn5NOtT3fU9KQiLj"
+    },
+    {
+      "album": {
         "name": "FACTS",
         "url": "https://open.spotify.com/album/2aWJw4wM4FuXfZPoOGcg3i"
       },
@@ -15449,6 +15471,28 @@
     },
     {
       "album": {
+        "name": "GBP (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
+    },
+    {
+      "album": {
         "name": "WU-KRAUTZ",
         "url": "https://open.spotify.com/album/75eLMUhuD57QCqKJvmtExA"
       },
@@ -16598,7 +16642,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 156800,
       "name": "GOT DAMN",
       "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
@@ -17688,7 +17732,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 135996,
       "name": "Hello, Hi",
       "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
@@ -21343,6 +21387,28 @@
     },
     {
       "album": {
+        "name": "DIVE (DELUXE)",
+        "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182386,
+      "name": "jupiter",
+      "url": "https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4"
+    },
+    {
+      "album": {
         "name": "Perchance to Dream Concept Album",
         "url": "https://open.spotify.com/album/2zza9WICtWr7Nsc1ifLOzS"
       },
@@ -21756,6 +21822,24 @@
       "duration_ms": 194962,
       "name": "Keep It Rising",
       "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+    },
+    {
+      "album": {
+        "name": "Keep Me Satisfied",
+        "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145663,
+      "name": "Keep Me Satisfied",
+      "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
     },
     {
       "album": {
@@ -25212,7 +25296,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 270336,
       "name": "Man Of Culture - J-Burns Chandelier Mix",
       "url": "https://open.spotify.com/track/1qiGNVlZoLmD9oU6eOQCU2"
@@ -26004,6 +26088,24 @@
       "duration_ms": 474837,
       "name": "Metamorphosis Two",
       "url": "https://open.spotify.com/track/30zbZYVVPiFmnwhiYvsCdM"
+    },
+    {
+      "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
       "album": {
@@ -31512,7 +31614,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 120412,
       "name": "Pink Dreads",
       "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
@@ -31886,6 +31988,28 @@
       "duration_ms": 241789,
       "name": "Pop A Toast",
       "url": "https://open.spotify.com/track/3TEL2gBT4CU84SI33OXSmq"
+    },
+    {
+      "album": {
+        "name": "Pop It Off",
+        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Pop It Off",
+      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
       "album": {
@@ -32586,6 +32710,24 @@
       "duration_ms": 499234,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4Kh0yUcMyxVENH4lgtcuHX"
+    },
+    {
+      "album": {
+        "name": "PROTECT THE CROSS",
+        "url": "https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169570,
+      "name": "PROTECT THE CROSS",
+      "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
     },
     {
       "album": {
@@ -36759,6 +36901,28 @@
     },
     {
       "album": {
+        "name": "Thrill Seeker: 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Adam Dutkiewicz",
+          "url": "https://open.spotify.com/artist/7MQmvww3EAbsmv7p1O0ufN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243281,
+      "name": "Speech Impediment",
+      "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
+    },
+    {
+      "album": {
         "name": "Speshal Methods",
         "url": "https://open.spotify.com/album/1su23FuruHX4CT2pFy7sW4"
       },
@@ -39456,7 +39620,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 174072,
       "name": "THAT GUY",
       "url": "https://open.spotify.com/track/0tNmqPu4DwGKXCIOpV2USh"
@@ -39478,7 +39642,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 173819,
       "name": "That Guy",
       "url": "https://open.spotify.com/track/2lXqn9L4hRksbYKJAsM3R0"
@@ -40679,6 +40843,36 @@
     },
     {
       "album": {
+        "name": "The Move",
+        "url": "https://open.spotify.com/album/1LlT9ujGNiDPGGOC7ID9D4"
+      },
+      "artists": [
+        {
+          "name": "44th Move",
+          "url": "https://open.spotify.com/artist/0RLaOKZ3L4fiKuOvgt0VYx"
+        },
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        },
+        {
+          "name": "Quelle Chris",
+          "url": "https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196386,
+      "name": "The Move",
+      "url": "https://open.spotify.com/track/2XeoPCq3tFl7nwdvUr8Pps"
+    },
+    {
+      "album": {
         "name": "The Muffin Man (Metal Version)",
         "url": "https://open.spotify.com/album/2mvUfnVH97YRGRMTOf2WsI"
       },
@@ -41402,6 +41596,28 @@
       "duration_ms": 191445,
       "name": "The Workload",
       "url": "https://open.spotify.com/track/6IrG5DFdKKotGMbkg4Qoow"
+    },
+    {
+      "album": {
+        "name": "The World is Worth Saving",
+        "url": "https://open.spotify.com/album/0ls1b1eWgAqZWQ7SrrQBO2"
+      },
+      "artists": [
+        {
+          "name": "The Neighborhood Kids",
+          "url": "https://open.spotify.com/artist/1enMjOsdrtrz7T4lULtzxC"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249840,
+      "name": "The World is Worth Saving",
+      "url": "https://open.spotify.com/track/30n7EJGlXLz4OzRbQQM4kC"
     },
     {
       "album": {
@@ -42926,10 +43142,28 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 189473,
       "name": "Tweaker",
       "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
+    },
+    {
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189544,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
     },
     {
       "album": {
@@ -45555,6 +45789,24 @@
     },
     {
       "album": {
+        "name": "Whispers of the Cosmos",
+        "url": "https://open.spotify.com/album/1567yLOgqGQADuzwudofFL"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420006,
+      "name": "Whispers of the Cosmos",
+      "url": "https://open.spotify.com/track/5kuXsUCZaqY1cmfJeChcEw"
+    },
+    {
+      "album": {
         "name": "Lone Ranger",
         "url": "https://open.spotify.com/album/55j7iGarUmVtwLlcYFvtSQ"
       },
@@ -46008,7 +46260,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 333466,
       "name": "Wishing (If I Had A Photograph Of You) - Re-recorded - 2021 mix",
       "url": "https://open.spotify.com/track/0ISbNB0NA2InVcGjVCKgV0"
@@ -47316,7 +47568,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 187666,
       "name": "Your New Favorite Song",
       "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"

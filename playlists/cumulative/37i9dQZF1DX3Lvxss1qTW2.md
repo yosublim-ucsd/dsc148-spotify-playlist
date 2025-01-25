@@ -2,9 +2,9 @@
 
 ### [Bubblin'](https://open.spotify.com/playlist/37i9dQZF1DX3Lvxss1qTW2)
 
-> The future hits of today\. <br/>Cover: Lasmid, Bhadboy OML
+> The future hits of today\. <br/>Cover: TML Vibez
 
-275 songs - 12 hr 50 min
+276 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Jogodo](https://open.spotify.com/track/5I0j0gw2TMhjcii9EW2VOH) | [Jaypizzle](https://open.spotify.com/artist/7m2YS3Z0kOYnllpJBaR792), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Volumes](https://open.spotify.com/album/2HLWeCMgXmKvrZNRbJj9iD) | 2:35 | 2024-10-18 | 2024-10-26 |
 | [Jostimilo](https://open.spotify.com/track/0zKgp4hE1VnNANbMgKFWA5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Jostimilo](https://open.spotify.com/album/71i0Q7sZiqg8j7QoKdcskH) | 1:57 | 2024-11-29 |  |
 | [Joy](https://open.spotify.com/track/4xoWfwadlc6X4MxzL0gXM2) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ) | [Liberian Boy](https://open.spotify.com/album/1l1ZbJu5nz1CQXK3DwcOnc) | 2:41 | 2024-09-13 | 2024-12-13 |
-| [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2025-01-14 |  |
+| [Joy Is Coming](https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Joy Is Coming](https://open.spotify.com/album/7atewPIxl0JTjtFmJfzLdT) | 3:08 | 2025-01-14 | 2025-01-25 |
 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 | 2024-09-06 | 2024-09-13 |
 | [Jumpin Bumpin](https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Jumpin Bumpin](https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw) | 2:49 | 2024-09-06 | 2024-10-01 |
 | [Kel\-P Vibes](https://open.spotify.com/track/5uNWbjRJFAWfOWcumCu0QE) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:33 | 2024-06-28 | 2024-10-04 |
@@ -206,6 +206,7 @@
 | [Orobo](https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Orobo](https://open.spotify.com/album/5SVqny41nPBVFenG1k4XJa) | 2:13 | 2024-10-18 |  |
 | [oSHA\-PIANO](https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [oSHA\-PIANO](https://open.spotify.com/album/5Blk5rVGndIswfPVDBIMjr) | 2:55 | 2024-06-28 | 2024-09-06 |
 | [Oshimiri](https://open.spotify.com/track/7CX3rEmKtC54tx6sOuLicM) | [RAGEE](https://open.spotify.com/artist/0mjNWMrcydC0CNQWBwjDuu), [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Oshimiri](https://open.spotify.com/album/1POl3m0J5qgozQW5kTvhnP) | 2:36 | 2024-07-08 | 2024-08-02 |
+| [Paper](https://open.spotify.com/track/5u6IZWUOEnvVYfNDxppXqr) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Paper](https://open.spotify.com/album/1Zio0hgdWu8Ngc5q816ETl) | 2:16 | 2025-01-24 |  |
 | [Pepper Dem](https://open.spotify.com/track/4u1H2ZQ5sh188p2XFd5Ehs) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Pepper Dem](https://open.spotify.com/album/7BLuaIUb92iX8QT3YMk5wK) | 2:36 | 2024-08-30 | 2024-10-01 |
 | [Pity Me](https://open.spotify.com/track/2RVUFIMYxs6HeebK7i2Ff3) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Pity Me](https://open.spotify.com/album/2ZFUvGdlMsY949oyKZdcXW) | 2:09 | 2024-10-04 | 2024-11-29 |
 | [PON MY MIND](https://open.spotify.com/track/61Fgo7az4lKB2sVPxhoCCO) | [Bolu Ajibade](https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg) | [PON MY MIND](https://open.spotify.com/album/1mMoebjcoBQNUSGkgyo4Kw) | 1:40 | 2024-09-27 | 2024-10-26 |

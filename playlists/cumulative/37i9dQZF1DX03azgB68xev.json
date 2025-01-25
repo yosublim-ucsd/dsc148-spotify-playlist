@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Pop bops for the saints!  Cover: Forrest Frank",
+  "description": "Pop bops for the saints!  Cover: Ryan Stevenson",
   "name": "Christian Pop",
   "tracks": [
     {
@@ -2575,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "FUNNY",
+        "url": "https://open.spotify.com/album/3JR7hKZYIhmMequwo1C5S1"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147988,
+      "name": "FUNNY",
+      "url": "https://open.spotify.com/track/5dUEw9YLflCgGZ7Nqaq36F"
+    },
+    {
+      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
       },
@@ -3392,7 +3410,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 180413,
       "name": "Highs and Lows",
       "url": "https://open.spotify.com/track/1HdNqsGqTZp1MINmpvPYUM"
@@ -3482,7 +3500,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 175738,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/2KZmhyKheOl8klQlHNuGEa"
@@ -4054,7 +4072,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 225946,
       "name": "Jireh (feat. Lloyd Nicks & Vanessa Campagna)",
       "url": "https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE"
@@ -4076,7 +4094,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 184012,
       "name": "Jireh - Reyer Remix",
       "url": "https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg"
@@ -4098,6 +4116,32 @@
       "duration_ms": 213333,
       "name": "Jump",
       "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+    },
+    {
+      "album": {
+        "name": "jumpin' (H3nry Thr!ll Version)",
+        "url": "https://open.spotify.com/album/31LdRZWMKj1JavRbTpX8xS"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "LOGE",
+          "url": "https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x"
+        },
+        {
+          "name": "H3nry Thr!ll",
+          "url": "https://open.spotify.com/artist/2GKIFC9wCaMs2vohojNLk5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133669,
+      "name": "jumpin' - H3nry Thr!ll Version",
+      "url": "https://open.spotify.com/track/7CtTW08xlFcsBHmnsvAMtF"
     },
     {
       "album": {
@@ -4862,7 +4906,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 193934,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl"
@@ -5862,10 +5906,32 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 204263,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3fxejBCZDRMhp1Er5B7gtm"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Phillips",
+          "url": "https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187894,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx"
     },
     {
       "album": {
@@ -5995,6 +6061,28 @@
     },
     {
       "album": {
+        "name": "Valley Lows, Mountain Highs",
+        "url": "https://open.spotify.com/album/1WXrHDDetbOkM0r3ZBVoIi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181138,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/4OoozIyMWD2b6t09M5oOkG"
+    },
+    {
+      "album": {
         "name": "Precious",
         "url": "https://open.spotify.com/album/4kPmrOm92X5Z9320B6IOsG"
       },
@@ -6072,6 +6160,24 @@
       "duration_ms": 154624,
       "name": "Radical",
       "url": "https://open.spotify.com/track/5mC2t7kjmfdkggREiH5Xuh"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/53JXiB6cQFo2JIkEbIdTWE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212876,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/64xTDRWYWyhfcx0rZexbhO"
     },
     {
       "album": {
@@ -6454,7 +6560,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 249084,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
@@ -6508,7 +6614,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 195358,
       "name": "Say Goodbye (Say Hello)",
       "url": "https://open.spotify.com/track/25lxh52ko6CaGeE615bdGI"
@@ -6900,6 +7006,24 @@
       "duration_ms": 185026,
       "name": "SPEED DIAL",
       "url": "https://open.spotify.com/track/0olodLskiHNM1J9iEOV2vf"
+    },
+    {
+      "album": {
+        "name": "Spin",
+        "url": "https://open.spotify.com/album/56oxjTQPDqah11iDoxcSXT"
+      },
+      "artists": [
+        {
+          "name": "Madison Watkins",
+          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/1XveQjUn4yVtlDZHP8hWMz"
     },
     {
       "album": {
@@ -7997,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "WAR IS WON",
+        "url": "https://open.spotify.com/album/17QpkVbAJx97Qtsl6gwSpN"
+      },
+      "artists": [
+        {
+          "name": "FIREROSE",
+          "url": "https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "WAR IS WON",
+      "url": "https://open.spotify.com/track/4pjgIveYr9h0MYKpkhJoB7"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/59IUZfwB5cpxuYHQ9bz37b"
       },
@@ -8070,6 +8212,32 @@
       "duration_ms": 391922,
       "name": "Ways",
       "url": "https://open.spotify.com/track/2cHPNIoM61Ialj6hUrV2Jj"
+    },
+    {
+      "album": {
+        "name": "We Can Burn Bright (LUMINARY VERSION)",
+        "url": "https://open.spotify.com/album/4FUhf72OnYBXzcZsv1R2YM"
+      },
+      "artists": [
+        {
+          "name": "Joshua's Giants",
+          "url": "https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T"
+        },
+        {
+          "name": "Pat Soul",
+          "url": "https://open.spotify.com/artist/41D38SWrxqpCfDZbQYzDKt"
+        },
+        {
+          "name": "LUMINARY",
+          "url": "https://open.spotify.com/artist/4NqkG3isJAqW5lx4w8DUpU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215656,
+      "name": "We Can Burn Bright - LUMINARY VERSION",
+      "url": "https://open.spotify.com/track/05Mq5hR6o2hFJhud2OOYNg"
     },
     {
       "album": {
@@ -8316,7 +8484,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 121225,
       "name": "with me",
       "url": "https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0"
@@ -8640,6 +8808,24 @@
       "duration_ms": 135882,
       "name": "You Loved Me To You",
       "url": "https://open.spotify.com/track/6z9tITZ9EtBDjPbLrK1BCG"
+    },
+    {
+      "album": {
+        "name": "your heart",
+        "url": "https://open.spotify.com/album/5t9OYWSYJsCQOOI7TbezIk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240326,
+      "name": "your heart",
+      "url": "https://open.spotify.com/track/6urZR6wOHZPEsCuhgrlsdb"
     },
     {
       "album": {

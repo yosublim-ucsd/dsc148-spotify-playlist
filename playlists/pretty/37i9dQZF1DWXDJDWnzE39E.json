@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 722904,
+  "num_followers": 723171,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Spit.",
-        "url": "https://open.spotify.com/album/4N8vRR39A9ttCbAVW5Gztx"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Spit.",
-      "url": "https://open.spotify.com/track/3H6KM1WMpTIMlwlJBwDBkV"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -519,18 +503,34 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Sevas Tra",
-        "url": "https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA"
+        "name": "Spit.",
+        "url": "https://open.spotify.com/album/4N8vRR39A9ttCbAVW5Gztx"
       },
       "artists": [
         {
-          "name": "Otep",
-          "url": "https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF"
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
         }
       ],
-      "duration_ms": 261680,
-      "name": "Battle Ready",
-      "url": "https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp"
+      "duration_ms": 248000,
+      "name": "Spit.",
+      "url": "https://open.spotify.com/track/3H6KM1WMpTIMlwlJBwDBkV"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 203994,
+      "name": "STFU!",
+      "url": "https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "SAWAYAMA",
-        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+        "name": "Sevas Tra",
+        "url": "https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "Otep",
+          "url": "https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF"
         }
       ],
-      "duration_ms": 203994,
-      "name": "STFU!",
-      "url": "https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw"
+      "duration_ms": 261680,
+      "name": "Battle Ready",
+      "url": "https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Soma",
-        "url": "https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69"
-      },
-      "artists": [
-        {
-          "name": "Eths",
-          "url": "https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf"
-        }
-      ],
-      "duration_ms": 215146,
-      "name": "Crucif\u00e8re",
-      "url": "https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "You're Welcome",
         "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 155788,
       "name": "Boys in the Band",
       "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Soma",
+        "url": "https://open.spotify.com/album/0NJnkmiOTt8jf3Ve4u6s69"
+      },
+      "artists": [
+        {
+          "name": "Eths",
+          "url": "https://open.spotify.com/artist/2IZkG4M2WcpLtfraGYJISf"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Crucif\u00e8re",
+      "url": "https://open.spotify.com/track/6qjdS4EwDwnwliqqgvukv8"
     },
     {
       "added_at": "2024-07-19 14:26:43",

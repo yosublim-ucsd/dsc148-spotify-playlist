@@ -1,12 +1,12 @@
 {
   "description": "There's no stopping the game. Listen to the music from Squid Game, now streaming on Netflix.",
-  "num_followers": 114421,
+  "num_followers": 116147,
   "original_name": "Squid Game Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z25elwAAAAAY7OYf5yilXgTaBb7BXQy5",
+  "snapshot_id": "Z5QGTgAAAACN4UORDhiOi+AuLhrF4GjO",
   "tracks": [
     {
       "added_at": "2022-01-26 01:49:10",
@@ -895,6 +895,54 @@
       "duration_ms": 207504,
       "name": "Let\u2019s Go Out Tonight",
       "url": "https://open.spotify.com/track/3UGvD1GlibzODZGxddpzAl"
+    },
+    {
+      "added_at": "2025-01-24 21:29:50",
+      "album": {
+        "name": "Squid Game: Unleashed (Soundtrack from the Netflix Game)",
+        "url": "https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh"
+      },
+      "artists": [
+        {
+          "name": "Stephen Rippy",
+          "url": "https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ"
+        }
+      ],
+      "duration_ms": 76226,
+      "name": "Here to Have Fun",
+      "url": "https://open.spotify.com/track/7IRzcOXT7mnV5WNFwH8NEo"
+    },
+    {
+      "added_at": "2025-01-24 21:29:50",
+      "album": {
+        "name": "Squid Game: Unleashed (Soundtrack from the Netflix Game)",
+        "url": "https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh"
+      },
+      "artists": [
+        {
+          "name": "Stephen Rippy",
+          "url": "https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ"
+        }
+      ],
+      "duration_ms": 75433,
+      "name": "1.1",
+      "url": "https://open.spotify.com/track/4NT2yAV1bTLeeE3Db6ABXw"
+    },
+    {
+      "added_at": "2025-01-24 21:29:50",
+      "album": {
+        "name": "Squid Game: Unleashed (Soundtrack from the Netflix Game)",
+        "url": "https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh"
+      },
+      "artists": [
+        {
+          "name": "Stephen Rippy",
+          "url": "https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ"
+        }
+      ],
+      "duration_ms": 62873,
+      "name": "No \"I\" in \"Team\"",
+      "url": "https://open.spotify.com/track/1vV2d8ykwUpi2m0eWwomuo"
     }
   ],
   "unique_name": "Squid Game Official Playlist",

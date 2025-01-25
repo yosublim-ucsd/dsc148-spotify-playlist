@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX05YNpFuDzLK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX05YNpFuDzLK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX05YNpFuDzLK)
 
-### [CODE GEASS SERIES「コードギアス」シリーズ](https://open.spotify.com/playlist/37i9dQZF1DX05YNpFuDzLK)
+### [CODE GEASS SERIES](https://open.spotify.com/playlist/37i9dQZF1DX05YNpFuDzLK)
 
-> Welcome to the world of “Code Geass” series!  歴代OP/ED、サントラ曲で辿るアニメ「コードギアス」シリーズの世界！©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
+> Welcome to the world of “Code Geass” series!  ©SUNRISE／PROJECT G\-ROZE　Character Design ©2006\-2024 CLAMP・ST
 
 121 songs - 7 hr 27 min
 

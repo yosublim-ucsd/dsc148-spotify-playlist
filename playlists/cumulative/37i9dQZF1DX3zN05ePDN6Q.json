@@ -2223,6 +2223,32 @@
     },
     {
       "album": {
+        "name": "Depois Que a \u00c1gua Baixou",
+        "url": "https://open.spotify.com/album/6uWhJ9wZZHns07u8xs5tbR"
+      },
+      "artists": [
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        },
+        {
+          "name": "yung vegan",
+          "url": "https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV"
+        },
+        {
+          "name": "vinicreizi",
+          "url": "https://open.spotify.com/artist/3IJMUMn5Id2E18JigLSCxf"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "Cabelo de Pivete, Faca e F\u00e9",
+      "url": "https://open.spotify.com/track/0DXzzItjkrniwbrveUb9Ln"
+    },
+    {
+      "album": {
         "name": "Cabra",
         "url": "https://open.spotify.com/album/43VNY5HGA36AxRdKXT3PfR"
       },
@@ -2356,7 +2382,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 270791,
       "name": "Carro Bixo",
       "url": "https://open.spotify.com/track/0ZMrc3LsGEvc1g6uBAp0r9"
@@ -7616,7 +7642,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 212321,
       "name": "Minha Cultura",
       "url": "https://open.spotify.com/track/0EAzWBm9hawgoNgmFUyxbQ"
@@ -8174,6 +8200,24 @@
       "duration_ms": 217847,
       "name": "Nota de Escurecimento",
       "url": "https://open.spotify.com/track/0iKmIwWJptZgyC1RE0IzRe"
+    },
+    {
+      "album": {
+        "name": "Novo Ano",
+        "url": "https://open.spotify.com/album/2yXTKY4c1W5x6cVOsu07N2"
+      },
+      "artists": [
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Novo Ano",
+      "url": "https://open.spotify.com/track/5fQw6W1j2N8JgHPf8ItpUc"
     },
     {
       "album": {

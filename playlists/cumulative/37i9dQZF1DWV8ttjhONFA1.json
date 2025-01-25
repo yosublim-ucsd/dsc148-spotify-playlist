@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Marki y Sofia Mora",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: LUAS\u00d3",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -832,6 +832,24 @@
       "duration_ms": 192520,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/1UjqPxX0ctIYOX5tlKSKGa"
+    },
+    {
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/7pGO4s7Fy3oEt9SFXPtvIs"
+      },
+      "artists": [
+        {
+          "name": "RENE",
+          "url": "https://open.spotify.com/artist/7fd0yw8CBSWW8EhCwiQmtQ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198782,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/4QE94tGcWV3QrWucq3cgu0"
     },
     {
       "album": {
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 183918,
       "name": "El Desastre",
       "url": "https://open.spotify.com/track/720C5RPAKsNi5GqKlwOYcL"
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 285517,
       "name": "LO QUE DIGA HOY",
       "url": "https://open.spotify.com/track/7FkFhyOgUqQPt6wlv07zt0"
@@ -4220,6 +4238,24 @@
       "duration_ms": 210000,
       "name": "No Necesito",
       "url": "https://open.spotify.com/track/1Eb2UZizkuq7pLsRr0bDk9"
+    },
+    {
+      "album": {
+        "name": "No Queda Nada",
+        "url": "https://open.spotify.com/album/3u5y0f4jmVEMRfYQwhVhYf"
+      },
+      "artists": [
+        {
+          "name": "LUAS\u00d3",
+          "url": "https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227157,
+      "name": "No Queda Nada",
+      "url": "https://open.spotify.com/track/08IaZh6hNzDvxevR9d0Pa9"
     },
     {
       "album": {

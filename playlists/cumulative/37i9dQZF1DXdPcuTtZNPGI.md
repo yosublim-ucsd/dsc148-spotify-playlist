@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-151 songs - 10 hr 4 min
+152 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [アンチシステム's \(feat\. Ado\)](https://open.spotify.com/track/5miZR0gaiujR2fHpbgFlPE) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [アンチシステム's](https://open.spotify.com/album/3QAy79kXjvWraeN5MahR5p) | 3:31 | 2024-02-22 |  |
 | [イート \(feat\. Ado\)](https://open.spotify.com/track/0SZpeQSnORlHv90AlQqnwT) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [イート \(feat\. Ado\)](https://open.spotify.com/album/1a04HkS3qdf6ogQ6XNDmfB) | 3:24 | 2024-02-22 |  |
 | [ウタカタララバイ](https://open.spotify.com/track/3IhHrBYZaxySuRu1zI7Vuk) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 2:53 | 2024-02-22 |  |
+| [エルフ](https://open.spotify.com/track/5pnqpz99CGAvdzmMRsB5sD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [エルフ](https://open.spotify.com/album/7bstlR1nYVqjkyTlYKzv9D) | 4:20 | 2025-01-24 |  |
 | [オールナイトレディオ](https://open.spotify.com/track/72i4fS8xte6PrbLDlERwol) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:32 | 2024-07-09 |  |
 | [オールナイトレディオ](https://open.spotify.com/track/3dBFEPvQIgJEF8Vbk0AU4z) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [オールナイトレディオ](https://open.spotify.com/album/0HkrY8eSE16gMPiKWD0J3E) | 3:33 | 2024-02-22 | 2024-07-10 |
 | [オールナイトレディオ](https://open.spotify.com/track/7cojiKLtAxeBttS2zDPsYd) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:33 | 2024-01-30 | 2024-04-19 |

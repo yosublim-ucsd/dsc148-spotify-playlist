@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: <a href="spotify:artist:30hElzuHCZ1qzCl364SHma">Teejay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,992 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,716 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [African Star](https://open.spotify.com/track/2QzUres1KsvErXanC7xtkW) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [African Movements](https://open.spotify.com/album/26u2RxQ4Buhpcz3uW2V5o1) | 3:45 |
-| 2 | [Str8 Vybz](https://open.spotify.com/track/2IkaY20NsArTchrbGCmc6g) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Str8 Vybz](https://open.spotify.com/album/0KoWIs2inu6HLYuwGshLsq) | 2:18 |
-| 3 | [Her World \(feat\. Jorja Smith\)](https://open.spotify.com/track/1DSJqQC90lUY9OLKFH1bHe) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lovers Till I'm Gone](https://open.spotify.com/album/4WAgGUPLsCdOqGpiJcbN52) | 2:25 |
+| 1 | [Cut The Link](https://open.spotify.com/track/4vmSIXuD6f3I3Ap0RAMLmi) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Cut The Link](https://open.spotify.com/album/3uhAtGve245x44l7Yc2afC) | 3:22 |
+| 2 | [Head Mad](https://open.spotify.com/track/0oICohEsRLouAvUSxhNNJM) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [ProdByPanda](https://open.spotify.com/artist/1T6qr1gEMrwWCflNaoxY0Y) | [Head Mad](https://open.spotify.com/album/393G4I5jPQB1fjbote4Z0O) | 2:03 |
+| 3 | [Str8 Vybz](https://open.spotify.com/track/2IkaY20NsArTchrbGCmc6g) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Str8 Vybz](https://open.spotify.com/album/0KoWIs2inu6HLYuwGshLsq) | 2:18 |
 | 4 | [Your Smile](https://open.spotify.com/track/7gR7YocOc0TIhn14bbLvX4) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Your Smile](https://open.spotify.com/album/1JhRkgb6ta1CUVaKss5RRf) | 2:58 |
 | 5 | [Treasure & Gold](https://open.spotify.com/track/52BSDtdTZwLXluBjwtyQmZ) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Treasure & Gold](https://open.spotify.com/album/4RJSYrL7sBW7zPhEIbHeYa) | 3:21 |
 | 6 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 99 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 |
 | 100 | [More Money](https://open.spotify.com/track/5ycfmjGhq6e9vvFHweiAOb) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Tanto Blacks](https://open.spotify.com/artist/4lmElIMV37akQs59AhoIF9) | [More Money](https://open.spotify.com/album/29Y0BC1C3AD4SzfMHvcXzg) | 2:30 |
 
-Snapshot ID: `Z4mjMwAAAACZTWvWmPiW0xgbIMbD3L9g`
+Snapshot ID: `Z5PSSwAAAAC/oEcdSgOaGlyHfYfJxbEC`

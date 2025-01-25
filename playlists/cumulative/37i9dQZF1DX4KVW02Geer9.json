@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "The Bagatelles Vol. 1 - Mary Halvorson Quartet",
+        "url": "https://open.spotify.com/album/5IYKfKnExWq9zD37LAJ5Ux"
+      },
+      "artists": [
+        {
+          "name": "John Zorn",
+          "url": "https://open.spotify.com/artist/3gkJ7lXtLpE4KauFHpk2vK"
+        },
+        {
+          "name": "Mary Halvorson Quartet",
+          "url": "https://open.spotify.com/artist/0qpbgpdWREqsGuNrsHxIYM"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286457,
+      "name": "Bagatelle #57",
+      "url": "https://open.spotify.com/track/7Me3uOpXhpVVCuvnzHabJ5"
+    },
+    {
+      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/4mOqoMKP19bGbBdTrWRBZW"
       },
@@ -288,6 +310,28 @@
       "duration_ms": 282600,
       "name": "BAKKI BAKI",
       "url": "https://open.spotify.com/track/0bssc9MtiwbdN759YEqDa1"
+    },
+    {
+      "album": {
+        "name": "Balloon Pop",
+        "url": "https://open.spotify.com/album/4FzFNTd84JsiPzggATL5Kn"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Sonicwonder",
+          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377533,
+      "name": "Balloon Pop",
+      "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
     },
     {
       "album": {
@@ -653,6 +697,32 @@
     },
     {
       "album": {
+        "name": "Celestial Beasts",
+        "url": "https://open.spotify.com/album/5ctjR5CZBucJQoT2NvpsHF"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286586,
+      "name": "Celestial Beasts",
+      "url": "https://open.spotify.com/track/5QA9KogJ2qbpO8zLQIOlYa"
+    },
+    {
+      "album": {
         "name": "Mid Spiral: Growth",
         "url": "https://open.spotify.com/album/5CqumIo51QeCiboYgpxpN8"
       },
@@ -846,7 +916,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 231720,
       "name": "Crazy Focus",
       "url": "https://open.spotify.com/track/2OlFUTNB9hQHwL7U63r4fg"
@@ -990,7 +1060,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 182680,
       "name": "Desert Belly",
       "url": "https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc"
@@ -1074,7 +1144,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 150000,
       "name": "Drummer is Dreamer",
       "url": "https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz"
@@ -1476,6 +1546,32 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "album": {
+        "name": "Half Past Something feat. Imani J & Hikaru Arata",
+        "url": "https://open.spotify.com/album/3GSZNwNBkywtBRQWHi746k"
+      },
+      "artists": [
+        {
+          "name": "ALFA B",
+          "url": "https://open.spotify.com/artist/4f97pMKxRRKriperqmNHWW"
+        },
+        {
+          "name": "Imani J",
+          "url": "https://open.spotify.com/artist/14pucqDOzazKI7ZrxSk9xj"
+        },
+        {
+          "name": "Hikaru Arata",
+          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441029,
+      "name": "Half Past Something feat. Imani J & Hikaru Arata",
+      "url": "https://open.spotify.com/track/2TTSIDn06bL3uplkLBVglR"
     },
     {
       "album": {
@@ -1944,7 +2040,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 216119,
       "name": "Kamifubuki",
       "url": "https://open.spotify.com/track/4QnmAXTYJ15aHVRgM33awx"
@@ -2118,6 +2214,24 @@
       "duration_ms": 225855,
       "name": "Knock on Your Door",
       "url": "https://open.spotify.com/track/2UKqtkRB0uoplAMNTGr6yW"
+    },
+    {
+      "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341501,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK"
     },
     {
       "album": {
@@ -2930,7 +3044,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 294883,
       "name": "Our Love Affairs",
       "url": "https://open.spotify.com/track/6QLTZJAc9hnVNBUuBbbyYP"
@@ -3166,7 +3280,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 324000,
       "name": "Ra",
       "url": "https://open.spotify.com/track/65QqzOBCUjxbAV1fu1XVJv"
@@ -3440,7 +3554,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 205683,
       "name": "Sonder",
       "url": "https://open.spotify.com/track/5mmwd1hld9h0fEhMnY08jl"
@@ -3670,6 +3784,46 @@
       "duration_ms": 343719,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/7Ay3m1nRtwKq13t6yDzHgf"
+    },
+    {
+      "album": {
+        "name": "TAXI",
+        "url": "https://open.spotify.com/album/1kDbUfS7ad8KOFxrSPOX2W"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Tyler Gauldin",
+          "url": "https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381800,
+      "name": "TAXI",
+      "url": "https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq"
+    },
+    {
+      "album": {
+        "name": "The Fork",
+        "url": "https://open.spotify.com/album/4tOa0LnXeeZUoR6M1f0SS2"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280306,
+      "name": "The Fork",
+      "url": "https://open.spotify.com/track/41RSAwJRmy3heet0Uy4qa0"
     },
     {
       "album": {
@@ -4016,6 +4170,24 @@
       "duration_ms": 207533,
       "name": "Waterscape",
       "url": "https://open.spotify.com/track/5EzbxbknclMlwNVJlCVY9w"
+    },
+    {
+      "album": {
+        "name": "Silhouettes: A Dream Sphere Journal",
+        "url": "https://open.spotify.com/album/5HBvvp3lcKavJbw9vnHMwP"
+      },
+      "artists": [
+        {
+          "name": "MATTERS UNKNOWN",
+          "url": "https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215168,
+      "name": "What Are You About?",
+      "url": "https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5A1AAAAAAB9a75nfwDhVR1u22WpHSHI",
+  "snapshot_id": "Z5GGgAAAAACYt8HQwfR5jQFEh6Yki9Nz",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rage Unplugged",
-        "url": "https://open.spotify.com/album/0uw8iYxkyP0pZJRkwvrr6i"
-      },
-      "artists": [
-        {
-          "name": "Eric Slick",
-          "url": "https://open.spotify.com/artist/5odtYnxUvkfTC6wmwR53aI"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "The Moment - Acoustic",
-      "url": "https://open.spotify.com/track/5TL9oxmDIsT0KIFEvAZo5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WELL WELL",
         "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 150444,
       "name": "Braver (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/5v7u7TkiuIhS9iD7zS3B96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rage Unplugged",
+        "url": "https://open.spotify.com/album/0uw8iYxkyP0pZJRkwvrr6i"
+      },
+      "artists": [
+        {
+          "name": "Eric Slick",
+          "url": "https://open.spotify.com/artist/5odtYnxUvkfTC6wmwR53aI"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 216493,
+      "name": "The Moment - Acoustic",
+      "url": "https://open.spotify.com/track/5TL9oxmDIsT0KIFEvAZo5n"
     },
     {
       "added_at": null,

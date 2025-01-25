@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1404,
+  "num_followers": 1406,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Nkutuse",
+        "url": "https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Nkutuse",
+      "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Bwogana",
         "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 181028,
       "name": "Bwogana",
       "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Nkutuse",
-        "url": "https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Nkutuse",
-      "url": "https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Doctor",
-        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        }
-      ],
-      "duration_ms": 193859,
-      "name": "Doctor",
-      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Rambada",
         "url": "https://open.spotify.com/album/3CemRlISKRsUZTfpexaEK0"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 161632,
       "name": "Rambada",
       "url": "https://open.spotify.com/track/05snCTfapTB6et7XoqIUDB"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        }
+      ],
+      "duration_ms": 193859,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Sikyegomba",
         "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 210364,
       "name": "Sikyegomba",
       "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Ahabwe",
-          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
-        },
-        {
-          "name": "Andy Muzic",
-          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6G0B9SiRE7ZoJNatb9VKHZ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Ahabwe",
+          "url": "https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl"
+        },
+        {
+          "name": "Andy Muzic",
+          "url": "https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
     },
     {
       "added_at": "2024-03-01 12:07:08",

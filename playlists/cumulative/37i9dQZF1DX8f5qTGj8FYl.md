@@ -4,7 +4,7 @@
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-272 songs - 18 hr 44 min
+273 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Prospect Park West](https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ) | [Jerry McHoy](https://open.spotify.com/artist/3RyPaTgdLCj9NnEvjoI8Jf) | [Prospect Park West](https://open.spotify.com/album/0zWAfTc8xuvjciEGSfp6EJ) | 2:56 | 2022-07-08 | 2023-08-05 |
 | [Psychic Powers](https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/4JWBQMTD8OEsmELMJPxcTu) | 2:38 | 2022-04-01 | 2024-04-19 |
 | [Psychic Powers](https://open.spotify.com/track/5xhQ3UWq2LhlYKFy1G1kY5) | [Janko Nilovic](https://open.spotify.com/artist/44w54ag6mZjclpEET3ROf9), [The Soul Surfers](https://open.spotify.com/artist/1UST9Gt4W7PFIPrBuxTMP8) | [Psychic Powers](https://open.spotify.com/album/3JfCmBfzyP1Na1ZYOblBCz) | 2:38 | 2022-04-01 |  |
+| [Rain Man](https://open.spotify.com/track/5ptjyu9U6GLHiSBhav57fg) | [CAZAYOUX](https://open.spotify.com/artist/5sRAaGdTzuhQkFYk6Uw8rS) | [Rain Man](https://open.spotify.com/album/1vQK1NNUmG0OcBQY8ikHzJ) | 4:26 | 2025-01-24 |  |
 | [Rambam](https://open.spotify.com/track/2ghseSfWtRLRUwiJKCJJcc) | [New Amsterdam Rhythm Band](https://open.spotify.com/artist/6V9DxwZ6L3HyhVT37TZQ2G) | [New Amsterdam Rhythm Band](https://open.spotify.com/album/3zAVri6vQQ4E6H8yyXvNsc) | 3:15 | 2023-12-08 |  |
 | [Rambam](https://open.spotify.com/track/76SkJYXnaxU5Rgx0RW6qCu) | [New Amsterdam Rhythm Band](https://open.spotify.com/artist/6V9DxwZ6L3HyhVT37TZQ2G) | [New Amsterdam Rhythm Band](https://open.spotify.com/album/1Zlw0ITMQNhEfyzLfNTxlJ) | 3:15 | 2023-12-08 | 2024-04-19 |
 | [Return of the Haggis](https://open.spotify.com/track/2EijA4bczPGQ43cdx9qfdp) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [What Comes to Mind](https://open.spotify.com/album/530KNZYoofT4NHsueeogDI) | 4:10 | 2020-11-13 | 2022-07-08 |
@@ -273,7 +274,7 @@
 | [West Coast Jam](https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 3:58 | 2020-11-13 |  |
 | [When It Hits](https://open.spotify.com/track/14ysAyuv7YTQehcQpMdf35) | [The Jazztronauts](https://open.spotify.com/artist/5BDqasby7EHFEtTQJQdWcG) | [When It Hits](https://open.spotify.com/album/60DolNauIU1EFAaXzzBOwu) | 2:35 | 2023-08-04 |  |
 | [Whistle Bump](https://open.spotify.com/track/12KsTSPgKRxekOejhNzmDZ) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [New York City / Whistle Bump](https://open.spotify.com/album/0EvrBroh6KnYLr6xbTTS6E) | 4:32 | 2020-11-13 |  |
-| [Wind Up](https://open.spotify.com/track/6KRxXzHU5aVOdl2iznTfyL) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Wind Up](https://open.spotify.com/album/4A16KOhHDBvC9tqrl4WeyU) | 4:13 | 2023-08-04 |  |
+| [Wind Up](https://open.spotify.com/track/6KRxXzHU5aVOdl2iznTfyL) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Wind Up](https://open.spotify.com/album/4A16KOhHDBvC9tqrl4WeyU) | 4:13 | 2023-08-04 | 2025-01-25 |
 | [Wishbone \(Deluxe Edition Bonus Track\)](https://open.spotify.com/track/05NJyGGPmJwOcAS8Mn6WuX) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 3:21 | 2023-08-04 | 2024-04-19 |
 | [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/4XSI6vXCaovfgVboUrQNpA) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 3:21 | 2023-08-04 | 2023-11-18 |
 | [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/6kElTefmRx2J8nYe84vWRj) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/0SGSbCsHJrgkaUe2FiR8Tp) | 3:21 | 2021-12-03 |  |

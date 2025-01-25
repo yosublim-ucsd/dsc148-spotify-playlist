@@ -42095,6 +42095,24 @@
     },
     {
       "album": {
+        "name": "red",
+        "url": "https://open.spotify.com/album/1YpxCyDht9Admi6b754DR3"
+      },
+      "artists": [
+        {
+          "name": "JONAVI",
+          "url": "https://open.spotify.com/artist/6zKX6Ksa6Yk5OZRG1Fk7vA"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211292,
+      "name": "red",
+      "url": "https://open.spotify.com/track/4wIBkQrL7N3yWPtpwwzsYW"
+    },
+    {
+      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/5T1xKd7Mc4rA6qGGJlyURy"
       },

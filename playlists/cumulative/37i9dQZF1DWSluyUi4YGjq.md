@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. cover: Trauma Ray
 
-724 songs - 1 day 22 hr 49 min
+729 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 | 2024-11-01 |  |
 | [All My Life, My Heart Has Yearned For A Thing I Cannot Name](https://open.spotify.com/track/1LEZb9NLQiq935IrSlbWyV) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [All My Life, My Heart Has Yearned For A Thing I Cannot Name](https://open.spotify.com/album/34ySsZAtskfVOYm3x7Q3ZH) | 4:04 | 2024-06-21 |  |
 | [All That I've Wasted](https://open.spotify.com/track/2tHAj5Py3sXE8pJyh5ouPz) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [All That I've Wasted](https://open.spotify.com/album/76O4Nw778B7Xa34TASnvA8) | 3:22 | 2023-03-24 | 2023-08-05 |
+| [all tied up](https://open.spotify.com/track/3leEuA0pLARgAtq0UZSVuO) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [all tied up](https://open.spotify.com/album/6soPAWofOHY1VwH3h87tIF) | 4:02 | 2025-01-24 |  |
 | [All Under The Sky](https://open.spotify.com/track/7wyECc1POvxhV7CPnteNSu) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Everything at Once](https://open.spotify.com/album/5TBEBYAXEMrIKMBZKxGyYl) | 4:37 | 2023-05-25 | 2023-11-28 |
 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 | 2021-10-19 | 2023-01-14 |
 | [Alps](https://open.spotify.com/track/0uM9bCyh6vqgN8SY5wuLJC) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/5vyNQFfjgpgacXr0kVjALl) | 5:30 | 2023-06-30 | 2024-01-25 |
@@ -147,6 +148,7 @@
 | [Clinging to the Ground](https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2), [Rew](https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT) | [Clinging to the Ground](https://open.spotify.com/album/08BiEP4rj0gHNLmm5epckO) | 3:59 | 2023-02-27 | 2023-03-16 |
 | [Coffee Eyes](https://open.spotify.com/track/1SqH29T70wzsscFIYtjjbv) | [Old Coke](https://open.spotify.com/artist/4hLXhGTDiIeQ2YmqNGXJz2) | [Coffee Eyes](https://open.spotify.com/album/6VolhK60da80I3yQdrO2TE) | 4:50 | 2024-04-05 |  |
 | [coil](https://open.spotify.com/track/4NqRrnjbPG0vefHMAEpiSl) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [extra life](https://open.spotify.com/album/2Aievrt0QBfOlhWmvvsOsN) | 4:54 | 2023-02-17 | 2023-02-22 |
+| [Collect Sadness](https://open.spotify.com/track/1515TA6wXAx8C8eYdJUvTt) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Raw Blue](https://open.spotify.com/album/7sjPkabCV2TmmnlitookOK) | 5:20 | 2025-01-24 |  |
 | [colonthree](https://open.spotify.com/track/0h02WpRNz7E3pAGelLGCEZ) | [Photographic Memory](https://open.spotify.com/artist/64x3JwG14gkRHW8lVDvvSV), [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [colonthree](https://open.spotify.com/album/5BK4RdkaH5CrpzreqZxNQY) | 2:19 | 2024-04-12 |  |
 | [coma](https://open.spotify.com/track/5gpEgBBVfRQRJCC7qfC0bu) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [coma](https://open.spotify.com/album/0G0FpaE92mPvnBpEnaimyg) | 2:46 | 2023-09-20 | 2024-04-13 |
 | [Comatose](https://open.spotify.com/track/0u0SIh7y7UopLQMFUvEhvp) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Stepdream](https://open.spotify.com/album/5E3MchKg9tSmjcinajvShd) | 3:48 | 2023-12-11 | 2024-02-24 |
@@ -275,6 +277,7 @@
 | [Gargoyle](https://open.spotify.com/track/78Pa6VQi8WSq9We8ENTrZ9) | [Flesh Tape](https://open.spotify.com/artist/2US2chOUWgrParRSXTZE3Z) | [Flesh Tape](https://open.spotify.com/album/1ui9Z9p0vRRvnTrFk5aXJK) | 3:05 | 2024-02-09 |  |
 | [gave you my all](https://open.spotify.com/track/4FkQp96ud503gquiM2Ur9l) | [juggler](https://open.spotify.com/artist/0HX7DEWAlnzbE3sikNXQik) | [gave you my all](https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp) | 3:13 | 2023-07-21 |  |
 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 | 2021-10-19 | 2023-01-14 |
+| [Gentle reset](https://open.spotify.com/track/04YGAdVSfrNVZPl2h0ZldS) | [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [Gentle reset](https://open.spotify.com/album/1D5xb4VQaA5YUxm5LlM3nX) | 2:12 | 2025-01-24 |  |
 | [glare](https://open.spotify.com/track/0UlLwrulUUCDwhwSDBYBxy) | [greedi](https://open.spotify.com/artist/7jNHfp2AvBrUvrcQOwUXxg) | [search party](https://open.spotify.com/album/28k5OrYOF4jpBbY4f0jUOx) | 2:34 | 2023-07-28 | 2023-11-16 |
 | [Glass Valley](https://open.spotify.com/track/1r55rKvt0UH8nyEaras6V6) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [View No Country](https://open.spotify.com/album/3BNTd1ct9IBA2k2Gzp8EHj) | 2:58 | 2021-10-19 | 2022-12-16 |
 | [Glass Valley](https://open.spotify.com/track/5TqYhJBV22End06snSsWLq) | [Kraus](https://open.spotify.com/artist/3e5kCmgoxtTlHdtlteC951) | [Glass Valley](https://open.spotify.com/album/3ey2323WoTKzqzKq8APUwO) | 2:58 | 2021-10-19 | 2022-07-29 |
@@ -297,6 +300,7 @@
 | [Gyoninzaka in Spring](https://open.spotify.com/track/4UqlQWqFdxCrGFo2axMVW8) | [東京酒吐座\(Tokyo Shoegazer\)](https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX) | [Gyoninzaka in the Four Seasons](https://open.spotify.com/album/4ssNmWRnW42GJPCwi6MvD0) | 5:40 | 2023-01-04 | 2023-02-22 |
 | [Handsome Man](https://open.spotify.com/track/69AmXsTIzhpL1PzKzq4FRP) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Handsome Man](https://open.spotify.com/album/6NKe1FLpu6vd6XlccHhRYw) | 2:28 | 2021-10-19 | 2022-07-29 |
 | [Handsome Man](https://open.spotify.com/track/7JCBX2hcQ7f7WpjlG89xGh) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 2:28 | 2021-10-19 | 2023-06-08 |
+| [Happy](https://open.spotify.com/track/7GLnUYH74hJCx8Kmo6rakD) | [Alison's Halo](https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg) | [Happy](https://open.spotify.com/album/0hxoOa10f0i3uTgFd8Sp0G) | 4:05 | 2025-01-24 |  |
 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 | 2021-10-19 | 2023-06-08 |
 | [Happy Medium](https://open.spotify.com/track/6kNN5kQNZ2IzF6G6tSMQVR) | [tenbin O](https://open.spotify.com/artist/66pusDfU9XmtLaRHi52tK3) | [Lack Of Heroism](https://open.spotify.com/album/1XX6tEANGokhlXGrOvEZXk) | 4:47 | 2023-12-08 | 2024-04-13 |
 | [Hare Tarot Lies](https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4) | 3:26 | 2021-10-19 | 2023-01-06 |
@@ -563,6 +567,7 @@
 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 | 2022-05-06 | 2022-07-29 |
 | [shaniatwainlovestory](https://open.spotify.com/track/4S6r4rZ2wwHPMmgNtjyEm9) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [shaniatwainlovestory](https://open.spotify.com/album/1GGxbMVuViCHfjNkdukpvr) | 2:46 | 2024-06-09 |  |
 | [shaniatwainlovestory \- They Are Gutting a Body of Water Remix](https://open.spotify.com/track/2ZJFXFhJNMe6lk3WavrYjR) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [shaniatwainlovestory \(They Are Gutting a Body of Water Remix\)](https://open.spotify.com/album/7gJXn2ZxxhDnwaTqHq6D3H) | 3:44 | 2024-09-13 |  |
+| [Shannon Waves](https://open.spotify.com/track/4HHJVIp3sTKCGT7R52gaIW) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Shannon Waves](https://open.spotify.com/album/653q7cYSLyPhkciK3hdfe2) | 3:33 | 2025-01-24 |  |
 | [Sharron Apple](https://open.spotify.com/track/7yuX2OzkFAm6eKOj2AnL1R) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:17 | 2021-10-19 | 2022-12-16 |
 | [she left](https://open.spotify.com/track/3JxybPHJrgfuF2C7aYHsrb) | [elsie sue](https://open.spotify.com/artist/7t7QD0bzhYdW6POYrkeuRI) | [she left](https://open.spotify.com/album/6GzzKcYJRwROX6cWFVNMOB) | 4:41 | 2023-01-04 | 2023-02-22 |
 | [Shiny Shiny](https://open.spotify.com/track/33AccsjCXPy04llhvJbHFm) | [Infinite Siennas](https://open.spotify.com/artist/6yWPwEnWb3v7gro5aUz8Gi) | [Shiny Shiny](https://open.spotify.com/album/2cJCFPoCtzzywEywkl7p4D) | 4:36 | 2021-10-19 | 2022-07-29 |

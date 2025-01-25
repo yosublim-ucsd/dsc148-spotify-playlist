@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Lasmid, Bhadboy OML ",
+  "description": "The future hits of today. \nCover: TML Vibez",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -2728,7 +2728,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 188571,
       "name": "Joy Is Coming",
       "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
@@ -4194,6 +4194,32 @@
       "duration_ms": 156029,
       "name": "Oshimiri",
       "url": "https://open.spotify.com/track/7CX3rEmKtC54tx6sOuLicM"
+    },
+    {
+      "album": {
+        "name": "Paper",
+        "url": "https://open.spotify.com/album/1Zio0hgdWu8Ngc5q816ETl"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Dj 4kerty",
+          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/5u6IZWUOEnvVYfNDxppXqr"
     },
     {
       "album": {

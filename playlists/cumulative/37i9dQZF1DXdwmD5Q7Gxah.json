@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "The <a href=\"https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245\">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap ",
+  "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Lorem, just another word for...</a> Cover: Djo",
   "name": "Lorem",
   "tracks": [
     {
@@ -4102,7 +4102,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 176986,
       "name": "B.O.A.T.",
       "url": "https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6"
@@ -4809,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "Basic Being Basic",
+        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158109,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+    },
+    {
+      "album": {
         "name": "batman",
         "url": "https://open.spotify.com/album/0UKYBwb2EobiKlYAvQRxTN"
       },
@@ -5224,7 +5242,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 237640,
       "name": "Bel Air",
       "url": "https://open.spotify.com/track/1OI3ZMcABE1U7hnhf9BENL"
@@ -15705,6 +15723,24 @@
     },
     {
       "album": {
+        "name": "Enything",
+        "url": "https://open.spotify.com/album/5dOyFR717iZJDNeOoWtHQj"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281526,
+      "name": "Enything",
+      "url": "https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO"
+    },
+    {
+      "album": {
         "name": "Erase",
         "url": "https://open.spotify.com/album/6DDLcNQXmKpWTW195gkI0d"
       },
@@ -19392,6 +19428,24 @@
       "duration_ms": 201869,
       "name": "Girl Blue",
       "url": "https://open.spotify.com/track/5bBDRBBJdt3MjOyQL3uKer"
+    },
+    {
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "Girl Feels Good",
+      "url": "https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV"
     },
     {
       "album": {
@@ -27662,7 +27716,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 241379,
       "name": "Just A Western - Boy Harsher Remix",
       "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
@@ -35603,6 +35657,24 @@
     },
     {
       "album": {
+        "name": "no good",
+        "url": "https://open.spotify.com/album/1Tj19geckD4ZtT3ZyJpVPl"
+      },
+      "artists": [
+        {
+          "name": "OHYUNG",
+          "url": "https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251164,
+      "name": "no good",
+      "url": "https://open.spotify.com/track/5tFuR5TIvYsH7uj9liPEaQ"
+    },
+    {
+      "album": {
         "name": "GINGER",
         "url": "https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f"
       },
@@ -40872,6 +40944,24 @@
       "duration_ms": 134388,
       "name": "Rattle Trap",
       "url": "https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ"
+    },
+    {
+      "album": {
+        "name": "Raw Blue",
+        "url": "https://open.spotify.com/album/7sjPkabCV2TmmnlitookOK"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265074,
+      "name": "Raw Blue",
+      "url": "https://open.spotify.com/track/0jJQSNZdmRyVgBSFsNuGXJ"
     },
     {
       "album": {

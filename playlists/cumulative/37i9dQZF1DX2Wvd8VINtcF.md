@@ -4,7 +4,7 @@
 
 > Pearl of the week: Djo
 
-1,668 songs - 3 day 18 hr 35 min
+1,669 songs - 3 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Chasing Paradise \(veggi Remix\)](https://open.spotify.com/track/14d8Wq66lf1dVeWJHIfkYj) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Chasing Paradise \(veggi Remix\)](https://open.spotify.com/album/0tikmnRkujvStXn026TY9J) | 2:19 | 2022-10-28 | 2022-11-18 |
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-06-08 | 2023-06-30 |
 | [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-19 |  |
-| [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/0FA269a5zotCJp9gK55Hcs) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-23 |  |
+| [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-23 |  |
 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 | 2023-11-16 | 2023-12-01 |
 | [Chip Away](https://open.spotify.com/track/1rz1Hyail9C6tIIIhvY8Tq) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Chip Away](https://open.spotify.com/album/4GUMqyuv73hdiPJTQnxGko) | 2:10 | 2024-06-06 | 2024-06-14 |
 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-21 |  |
@@ -1097,6 +1097,7 @@
 | [P4IN \(feat\. Bones\)](https://open.spotify.com/track/4H8zM0MKfmrEbj2hNeTgTZ) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 2:45 | 2024-10-17 | 2025-01-24 |
 | [parachute \(feat\. Finding Hope\)](https://open.spotify.com/track/3WaEyZXCEKX8TxmKciVNHm) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [parachute \(feat\. Finding Hope\)](https://open.spotify.com/album/1BIE4nVzZLtQ6sZenFfvx7) | 2:33 | 2022-10-28 | 2022-11-11 |
 | [Parachute \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/0BlxpYD81CZucSEvCS11Ed) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Parachute \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/6TRdgdNykVKxmg4GAoyGfl) | 3:53 | 2024-05-16 | 2024-08-16 |
+| [Paraply](https://open.spotify.com/track/3jAnOgVvU8qZk6F0W8J6il) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Paraply](https://open.spotify.com/album/3pRz34qaaewLHolbPYT0FM) | 1:55 | 2025-01-24 |  |
 | [Pari Mon Cheri](https://open.spotify.com/track/7as7LZUBGdh9kfxrjgc5Nt) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k), [Shadi G](https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D) | [Pari Mon Cheri](https://open.spotify.com/album/3Rz1UxLFaJ7H8UfSpkoovQ) | 2:44 | 2024-11-07 | 2025-01-17 |
 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 | 2022-12-15 | 2023-02-03 |
 | [pass on over](https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [pass on over](https://open.spotify.com/album/3ZbbMzhyLBIqrpjtBA75X7) | 2:37 | 2022-12-15 | 2023-04-07 |

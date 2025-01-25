@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 482398,
+  "num_followers": 482468,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5A1AAAAAACufgRn3vSy+cPC1c9G9e7L",
+  "snapshot_id": "Z5GGgAAAAAC7x7Khote04Ch+2d06dbwc",
   "tracks": [
     {
       "added_at": null,
@@ -604,10 +604,6 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         },
         {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        },
-        {
           "name": "The Very Best",
           "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
         },
@@ -616,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
         }
       ],
-      "duration_ms": 240453,
-      "name": "Wona",
-      "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
+      "duration_ms": 221099,
+      "name": "Fool You\u2019ve Landed",
+      "url": "https://open.spotify.com/track/0MKQZo1oHR4IOoc63V6Mxg"
     },
     {
       "added_at": null,
@@ -648,6 +644,10 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         },
         {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
+        {
           "name": "The Very Best",
           "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
         },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
         }
       ],
-      "duration_ms": 221099,
-      "name": "Fool You\u2019ve Landed",
-      "url": "https://open.spotify.com/track/0MKQZo1oHR4IOoc63V6Mxg"
+      "duration_ms": 240453,
+      "name": "Wona",
+      "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
     }
   ],
   "unique_name": "This Is Mumford & Sons",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: Airbag",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre. Foto: Turf",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -4114,7 +4114,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 296869,
       "name": "Mis Heridas Cure",
       "url": "https://open.spotify.com/track/0Df4DMHMVGCM9fjG8EThIf"
@@ -4998,6 +4998,24 @@
       "duration_ms": 263130,
       "name": "QUEMAR\u00c1S",
       "url": "https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF"
+    },
+    {
+      "album": {
+        "name": "Quieren Rock",
+        "url": "https://open.spotify.com/album/6ac8a2d1p3ZiIuh6Zlg6Mf"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146724,
+      "name": "Quieren Rock",
+      "url": "https://open.spotify.com/track/72ZJmxjPVSaze6EJMJSigT"
     },
     {
       "album": {

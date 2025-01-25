@@ -4,7 +4,7 @@
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-313 songs - 16 hr 58 min
+315 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Paraphrase on the Prelude in C\-Sharp Major, BWV 872 \(Transcribed by Alexander Siloti\)](https://open.spotify.com/track/4UNU5p6xnVWBUU1gXEyqYQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Paraphrase on the Prelude in C\-Sharp Major, BWV 872 \(Transcribed by Alexander Siloti\)](https://open.spotify.com/album/7ciZjUqM2hwEVaEGcqUYs9) | 2:27 | 2024-01-12 |  |
 | [Parasite](https://open.spotify.com/track/2Vxu4YbLsRwRe3f9iMqabD) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Parasite](https://open.spotify.com/album/3HwldKeTaesvpyA8V56f4b) | 5:49 | 2023-03-27 | 2023-11-11 |
 | [Passacaglia](https://open.spotify.com/track/0RAKUbl5xv1S9hNKjZEEGM) | [Silvius Leopold Weiss](https://open.spotify.com/artist/4bRcNJTLwLZmJM598wTQ3A), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4) | [Baroque](https://open.spotify.com/album/21RQ5ToNB79hGsqOobGGQi) | 3:36 | 2023-10-13 | 2024-12-19 |
+| [Pavane Floue](https://open.spotify.com/track/6FxxwOmQkkym2WJkqRosvz) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Pavane Floue](https://open.spotify.com/album/4UQWJkNFyhumm5vouylxGu) | 2:51 | 2025-01-24 |  |
 | [Pavane, Op\. 50 \(Arr\. for Violin, Cello and Piano by Ehsan Mohagheghi Fard\)](https://open.spotify.com/track/0hVl0ef4yDfvp19ymr53zi) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Fauré: Pavane, Op\. 50 \(Trio Version\)](https://open.spotify.com/album/2XaTKzgPLVEhTzZ0QcIjM6) | 2:41 | 2024-01-19 |  |
 | [Peace](https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:22 | 2023-05-05 | 2024-09-04 |
 | [Peaceful Paradise](https://open.spotify.com/track/3AKXbF7VasGhPv8Z10S6Dh) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Peaceful Paradise](https://open.spotify.com/album/24oSL9rC8r8OBsjVzbRhzG) | 2:44 | 2024-08-09 |  |
@@ -314,6 +315,7 @@
 | [Weave](https://open.spotify.com/track/3lev3E2vFskKRujXqsrHqZ) | [Paddy Mulcahy](https://open.spotify.com/artist/675ED60nNejweHsAdDFR7C) | [Weave](https://open.spotify.com/album/55zLInCNQMOLDZNUpyTWCY) | 2:41 | 2022-07-13 | 2024-09-28 |
 | [Weekend Walk](https://open.spotify.com/track/6VxaQ1pN4VJNaFkSmgsA4q) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Weekend Walk](https://open.spotify.com/album/6HQWw0c6fDNtJVLUcgzYCc) | 2:56 | 2024-12-18 |  |
 | [When the Bells Ring](https://open.spotify.com/track/16nh5oCtsTVq9GBQU8xxEw) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [When the Bells Ring](https://open.spotify.com/album/39L6Mn2b1cuxpsUQ7Ck3qK) | 2:18 | 2023-03-27 | 2024-09-04 |
+| [Wiegala \(Arr\. for Violin and String Quintet by Esther Abrami\)](https://open.spotify.com/track/047hDThUrQfxqye3s4zahb) | [Ilse Weber](https://open.spotify.com/artist/4y6L0sR2VEMm4JtuRoCtJ6), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Esther Abrami Ensemble](https://open.spotify.com/artist/3RwLOpBYQ4MK3htNGKimtz) | [Wiegala \(Arr\. for Violin and String Quintet by Esther Abrami\)](https://open.spotify.com/album/2f82mjX0vistYuipYG1rsx) | 3:02 | 2025-01-24 |  |
 | [Wildberry Lillet \(Piano Version\)](https://open.spotify.com/track/3XZG0bBeWQlPiZTJQuzo3z) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Wildberry Lillet \(Piano Version\)](https://open.spotify.com/album/4ePI4Gsj4Sm9G2cqB5kmZn) | 2:50 | 2023-09-14 | 2024-12-19 |
 | [Wind Resonance](https://open.spotify.com/track/4qk4wzAp8rUSvpU7OuuSZf) | [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [e.Dreamer \- Solo Piano Version](https://open.spotify.com/album/7KuxrT1DfUcAphR9DClJFk) | 2:39 | 2023-03-03 | 2024-12-19 |
 | [wintering](https://open.spotify.com/track/1MhLfAiBnkL52Ym0FUq3Kd) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [wintering](https://open.spotify.com/album/47Z3h7x2mkk2Z87J5OjNPR) | 3:53 | 2022-08-15 | 2023-11-11 |

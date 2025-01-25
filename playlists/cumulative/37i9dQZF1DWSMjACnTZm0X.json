@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Scottie B",
+  "description": "Top and emerging tracks from around the world inspired by the amapiano movement. Cover: Mabel, King Promise",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -252,6 +252,28 @@
       "duration_ms": 333951,
       "name": "All of This - Major League Djz x Dlala Mlungu Remix",
       "url": "https://open.spotify.com/track/6WPLujVPQnO6KKiKeM55JD"
+    },
+    {
+      "album": {
+        "name": "All Over You",
+        "url": "https://open.spotify.com/album/14H3fiskpQWJasXznFiSkx"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157905,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/4Hf4m5aPeoXxxhDR29PnWO"
     },
     {
       "album": {
@@ -1794,7 +1816,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 185450,
       "name": "Exes - Tune Day Remix",
       "url": "https://open.spotify.com/track/2zoULMtc7toVv50PMg7zwK"
@@ -2849,6 +2871,48 @@
     },
     {
       "album": {
+        "name": "Kadigong (Remix)",
+        "url": "https://open.spotify.com/album/7zZBu99Hr8dyzyHi5Z52Lb"
+      },
+      "artists": [
+        {
+          "name": "Sho Madjozi",
+          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Zeze Kingston",
+          "url": "https://open.spotify.com/artist/3cCg8lYVs3rcecDKbdt7TC"
+        },
+        {
+          "name": "Gemini Major",
+          "url": "https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM"
+        },
+        {
+          "name": "Ntando Yamahlubi",
+          "url": "https://open.spotify.com/artist/6MRPRBeOdS17yOGNjKJFn8"
+        },
+        {
+          "name": "Exclusive Drumz",
+          "url": "https://open.spotify.com/artist/3rNiGadXFR9NyaHAT0utl6"
+        },
+        {
+          "name": "Tee Jay",
+          "url": "https://open.spotify.com/artist/6zSKeBN9ykGZaYLGa6Qvar"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308571,
+      "name": "Kadigong - Remix",
+      "url": "https://open.spotify.com/track/5Qr5Iuk8h20vQrbeHkVqMn"
+    },
+    {
+      "album": {
         "name": "Kautaka",
         "url": "https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA"
       },
@@ -3215,6 +3279,28 @@
     },
     {
       "album": {
+        "name": "Logged",
+        "url": "https://open.spotify.com/album/113hRPby5uDdkWo8qVvtpI"
+      },
+      "artists": [
+        {
+          "name": "whereislema",
+          "url": "https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV"
+        },
+        {
+          "name": "Inkedrebelle",
+          "url": "https://open.spotify.com/artist/7IKPH4XIyRsDb48OSko1gT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229830,
+      "name": "Logged",
+      "url": "https://open.spotify.com/track/5bwdEFW38msRVqnWZhHSHc"
+    },
+    {
+      "album": {
         "name": "Lwandle",
         "url": "https://open.spotify.com/album/0cw3WwpYA47jWC2FICfW0F"
       },
@@ -3560,7 +3646,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 254867,
       "name": "Mine For The Night",
       "url": "https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK"
@@ -3774,7 +3860,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 152920,
       "name": "MYSTERIOUS LOVE",
       "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
@@ -4204,7 +4290,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 255072,
       "name": "Off My Mind (feat. Bien and Moliy)",
       "url": "https://open.spotify.com/track/7guMnTaBWCDcOWONIYZTGp"
@@ -4362,7 +4448,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 192000,
       "name": "Paper - Tumelo_za & SjavasDaDeejay Remix",
       "url": "https://open.spotify.com/track/29frpkDeEsRdG81FRRl0nO"
@@ -4666,7 +4752,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 210279,
       "name": "Rudo",
       "url": "https://open.spotify.com/track/48tvQhZFaNw7yDOqmEMpea"
@@ -4706,7 +4792,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 186902,
       "name": "Rwina",
       "url": "https://open.spotify.com/track/73CKzmFl0HBDVh28xOEHU6"
@@ -4961,6 +5047,28 @@
     },
     {
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/1WbCN78350GdM7AH7eXF7N"
+      },
+      "artists": [
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        },
+        {
+          "name": "Nina Nevra",
+          "url": "https://open.spotify.com/artist/0LfTLvRKowL8aXYL8NSO7c"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231511,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/0HJh9qKJ1OnqNBf4AszBcf"
+    },
+    {
+      "album": {
         "name": "Single Again",
         "url": "https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI"
       },
@@ -5212,7 +5320,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 115200,
       "name": "Sweat - Yumbs Remix",
       "url": "https://open.spotify.com/track/1Mu7Wh7hNeoC7GFBcIcjhc"
@@ -5460,7 +5568,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 229285,
       "name": "Thela (feat. Prime De 1st)",
       "url": "https://open.spotify.com/track/60BR8SaYgLxUbVRVjaldcv"
@@ -5496,7 +5604,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 143589,
       "name": "Ti RIRI",
       "url": "https://open.spotify.com/track/1IjFRytMHtnZlB0hsropac"

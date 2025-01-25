@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Disco Bus",
+        "url": "https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Disco Bus",
+      "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
+    },
+    {
+      "album": {
         "name": "Do It EP",
         "url": "https://open.spotify.com/album/3hbhIZLHUjUJJcjZ8G7ReC"
       },
@@ -3351,6 +3369,28 @@
     },
     {
       "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Grant Nelson",
+          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204843,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
+    },
+    {
+      "album": {
         "name": "Paris Is Burnin'",
         "url": "https://open.spotify.com/album/3NWTdCmKURYI7K5vm8tvKa"
       },
@@ -3956,6 +3996,24 @@
       "duration_ms": 204500,
       "name": "SOS (feat. Polina) - Skylark Remix - Nic Fanciulli Edit",
       "url": "https://open.spotify.com/track/2kX1q43CjN75TjgB5uKHkk"
+    },
+    {
+      "album": {
+        "name": "Start The Party",
+        "url": "https://open.spotify.com/album/69OjLBCghiR663cJrwuRlP"
+      },
+      "artists": [
+        {
+          "name": "George Smeddles",
+          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400000,
+      "name": "Start The Party",
+      "url": "https://open.spotify.com/track/3JTs35pIOfY4SFW37OSCuP"
     },
     {
       "album": {

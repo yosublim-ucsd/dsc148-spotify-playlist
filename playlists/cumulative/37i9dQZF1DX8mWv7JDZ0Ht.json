@@ -216,7 +216,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 150000,
       "name": "A Gente Tem Tudo a Ver",
       "url": "https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk"
@@ -1426,6 +1426,24 @@
       "duration_ms": 165382,
       "name": "At\u00e9 o Topo do Mundo",
       "url": "https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 Que Eu Gostei",
+        "url": "https://open.spotify.com/album/1V3wO2cbHUDQf0dCgzaCWI"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130112,
+      "name": "At\u00e9 Que Eu Gostei",
+      "url": "https://open.spotify.com/track/6cH27jbd3Dy3HlTAlfIeKV"
     },
     {
       "album": {
@@ -6435,6 +6453,28 @@
     },
     {
       "album": {
+        "name": "HOMENS S\u00c3O DE MARTE",
+        "url": "https://open.spotify.com/album/3TJ6m6bk3nfeQz2362qgTR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Nandes",
+          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
+        },
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161079,
+      "name": "HOMENS S\u00c3O DE MARTE",
+      "url": "https://open.spotify.com/track/6STnMIg2g9fwOnsbGauDQO"
+    },
+    {
+      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/2yfBvpXbJ15VXJSKU6YTJH"
       },
@@ -9844,7 +9884,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 230016,
       "name": "Paradis\u00edaca",
       "url": "https://open.spotify.com/track/145uCiVidzLD0MIffEzfnM"

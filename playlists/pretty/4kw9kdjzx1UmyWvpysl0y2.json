@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125501,
+  "num_followers": 125504,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATjybU3ci0bbeeI46Umf8jYL00pBma",
+  "snapshot_id": "AAATkasHSYjCb3SFFz780bemwiUPqg+R",
   "tracks": [
+    {
+      "added_at": "2025-01-24 15:59:51",
+      "album": {
+        "name": "CHAOS WILL BRING PEACE",
+        "url": "https://open.spotify.com/album/4cBCMwA1k3oOwFd1RSGs7r"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "CHAOS WILL BRING PEACE",
+      "url": "https://open.spotify.com/track/6OBJOJLrj6X3rr4O09ROKa"
+    },
     {
       "added_at": "2025-01-23 15:11:13",
       "album": {
@@ -1143,54 +1159,6 @@
       "duration_ms": 231500,
       "name": "Stealing Fire",
       "url": "https://open.spotify.com/track/6aTN1V5VCHjn8q73XsXTCT"
-    },
-    {
-      "added_at": "2024-10-17 14:55:39",
-      "album": {
-        "name": "Violet Sky",
-        "url": "https://open.spotify.com/album/0DFlOSSgdDUMVCiFdgr9j0"
-      },
-      "artists": [
-        {
-          "name": "Conro",
-          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Violet Sky (A Letter For You)",
-      "url": "https://open.spotify.com/track/3YLwSJoYBTWBrFaGYG0jkc"
-    },
-    {
-      "added_at": "2024-10-16 15:15:31",
-      "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/7CvTWqSSlQw1ZQlJBQh4bg"
-      },
-      "artists": [
-        {
-          "name": "Grant",
-          "url": "https://open.spotify.com/artist/2Hchwjfl1DioXcIwbOJkus"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/0ZLBYoLxyONV8gOhlYXL6q"
-    },
-    {
-      "added_at": "2024-10-15 15:31:39",
-      "album": {
-        "name": "Echoes Of You",
-        "url": "https://open.spotify.com/album/2sMz70D7NB9J6mCrCbO0vk"
-      },
-      "artists": [
-        {
-          "name": "Aftruu",
-          "url": "https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Echoes Of You",
-      "url": "https://open.spotify.com/track/6oFhzKeMvRq8LwjpEPYqJc"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

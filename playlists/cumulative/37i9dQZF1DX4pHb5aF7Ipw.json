@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Rap. Cover: Chani Nattan, Inderpal Moga & Sukha",
+  "description": "Nava Hip-Hop Punjabi! Cover: tricksingh",
   "name": "New Rap Punjabi",
   "tracks": [
     {
@@ -1107,6 +1107,32 @@
     },
     {
       "album": {
+        "name": "Brat",
+        "url": "https://open.spotify.com/album/0IxXM1yXTKjECCAlaTxIlY"
+      },
+      "artists": [
+        {
+          "name": "Heera Kunder",
+          "url": "https://open.spotify.com/artist/7ASDFNNpurzlYyrXT9cACh"
+        },
+        {
+          "name": "Daddy Beats",
+          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
+        },
+        {
+          "name": "Meaow",
+          "url": "https://open.spotify.com/artist/7FHbO6Lm0DJbdwPRkp3mqQ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178714,
+      "name": "Brat",
+      "url": "https://open.spotify.com/track/5Jugrt4U7Xa0FPw7YvjXWU"
+    },
+    {
+      "album": {
         "name": "Brooklyn Bars",
         "url": "https://open.spotify.com/album/2PpPlmH9xGVWGx6kW36OiZ"
       },
@@ -1350,6 +1376,28 @@
       "duration_ms": 146625,
       "name": "Cee",
       "url": "https://open.spotify.com/track/1fFlCCS4QhAbKWJ7K5xqWn"
+    },
+    {
+      "album": {
+        "name": "WITH ALL DUE DISRESPECT",
+        "url": "https://open.spotify.com/album/0pQjT5bGs5THjcJEK1UpGa"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144804,
+      "name": "CHAAR BORDER PAAR",
+      "url": "https://open.spotify.com/track/1DVApJcniHmTSCzm2ZLZ6B"
     },
     {
       "album": {
@@ -2434,7 +2482,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 192995,
       "name": "Five - O",
       "url": "https://open.spotify.com/track/467Y30r6HtSYuLrF4LwYIm"
@@ -2532,7 +2580,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 144566,
       "name": "Fortune Flow",
       "url": "https://open.spotify.com/track/2mpPbUicGRYOXVif9TMYiI"
@@ -2645,6 +2693,28 @@
     },
     {
       "album": {
+        "name": "WITH ALL DUE DISRESPECT",
+        "url": "https://open.spotify.com/album/0pQjT5bGs5THjcJEK1UpGa"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163326,
+      "name": "FUCKER WITH THE FLOW",
+      "url": "https://open.spotify.com/track/7b7WzNRbqWM7Jb2FNZS1NM"
+    },
+    {
+      "album": {
         "name": "G 63",
         "url": "https://open.spotify.com/album/7MvOnpoBtLSHLMVbzg6DXe"
       },
@@ -2748,6 +2818,28 @@
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
+    },
+    {
+      "album": {
+        "name": "WITH ALL DUE DISRESPECT",
+        "url": "https://open.spotify.com/album/0pQjT5bGs5THjcJEK1UpGa"
+      },
+      "artists": [
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106836,
+      "name": "GENERATIONAL",
+      "url": "https://open.spotify.com/track/7EEV4uWbHvFj9zE5taVKyh"
     },
     {
       "album": {
@@ -3880,7 +3972,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 182741,
       "name": "King",
       "url": "https://open.spotify.com/track/3o2GS3lgHVk0F4RYC0bIA0"
@@ -4048,7 +4140,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 158666,
       "name": "Link",
       "url": "https://open.spotify.com/track/5hTAVFqScpqsdppfU7Ntcg"
@@ -4430,7 +4522,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 174468,
       "name": "Mere Wallon",
       "url": "https://open.spotify.com/track/7fBTt5sTxWAFlT6LlCrocn"
@@ -5701,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL"
+    },
+    {
+      "album": {
         "name": "Six Tape",
         "url": "https://open.spotify.com/album/0LP3NKwgyM2pzxSpEZCRIP"
       },
@@ -6233,11 +6343,11 @@
       "artists": [
         {
           "name": "The Kidd",
-          "url": "https://open.spotify.com/artist/69NQgCPPwq05n5zewAYd8c"
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
         },
         {
           "name": "Ilam",
-          "url": "https://open.spotify.com/artist/5pB85Z8kuXW8shdMReACvc"
+          "url": "https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT"
         }
       ],
       "date_added": "2025-01-21",

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain](/playlists/plain/37i9dQZF1DWVNqlGoNYpy6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVNqlGoNYpy6)
 
-### [Frieren: Beyond Journey's End 葬送のフリーレン](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)
+### [Frieren: Beyond Journey's End](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)
 
-> Enjoy music from Anime "Frieren"\. アニメ「葬送のフリーレン」プレイリスト。Enjoy Frieren Music\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
+> Enjoy music from Anime "Frieren"\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,264 likes - 45 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,402 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNqlGoNYpy6.md) - [plain]
 | 44 | [New and Dangerous Magic](https://open.spotify.com/track/6l9mWX2k6RnNelUT9sEu6P) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:04 |
 | 45 | [Song for the Beyond](https://open.spotify.com/track/1hLVa6m0C7y7FqXcbpBNf7) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:58 |
 
-Snapshot ID: `ZsNB0AAAAAC/wcgmJTEL28boB9E3oImZ`
+Snapshot ID: `Z5O+EQAAAAAFQPlI4+aLsNe5WouhJvU8`

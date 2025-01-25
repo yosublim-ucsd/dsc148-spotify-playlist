@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 溫室雜草 \(Easy Weeds\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,783 likes - 73 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,784 likes - 73 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 25 | [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 |
 | 26 | [知己 feat\. 九澤CP](https://open.spotify.com/track/6kmvbtrjLRmeJeZBTcyNge) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [結伴\(豪華版\)](https://open.spotify.com/album/11eHWo34XKwBnBCMMCKM0c) | 4:51 |
 | 27 | [年少的我們永遠輕狂](https://open.spotify.com/track/1lYLNUL6ZIqVFepQ2LBip8) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [年少的我們永遠輕狂](https://open.spotify.com/album/39EAbQkvuzTLASXB94Lj7a) | 4:31 |
-| 28 | [一起看黄昏 \(Teleportation chinese ver.\) \[OT：テレポーテーション Teleportation\]](https://open.spotify.com/track/2WbJ2gT6rI0pLxjhZ87qnG) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [一起看黃昏](https://open.spotify.com/album/1QHTxeYbYQRwq4sZzIIVPj) | 4:50 |
+| 28 | [一起看黃昏 \(Teleportation chinese ver.\) \[OT：テレポーテーション Teleportation\]](https://open.spotify.com/track/2WbJ2gT6rI0pLxjhZ87qnG) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [一起看黃昏](https://open.spotify.com/album/1QHTxeYbYQRwq4sZzIIVPj) | 4:50 |
 | 29 | [你在哪裡](https://open.spotify.com/track/4SBrGswUzLYp2uXNqSEYZ1) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G), [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [你在哪裡](https://open.spotify.com/album/6LT7YFr4Mw6MEUZIcy6Dz3) | 4:06 |
 | 30 | [神的孩子都在摔跤](https://open.spotify.com/track/5qANggpluY26UYONwunDtv) | [無妄合作社](https://open.spotify.com/artist/6py5j29igdKEvG75sZpTbW) | [開往天堂的海盜船](https://open.spotify.com/album/4MeuCJLMPrbkEO8Q9alBtQ) | 5:45 |
 | 31 | [幸福的末班車](https://open.spotify.com/track/4odyxCOjYB1aBmc28hP1X2) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [幸福的末班車](https://open.spotify.com/album/31u2uhLaDEmK5U8heLLIzD) | 5:20 |

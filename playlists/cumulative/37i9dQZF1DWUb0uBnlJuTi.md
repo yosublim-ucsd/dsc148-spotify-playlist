@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Skinny Hightower
 
-435 songs - 1 day 9 hr 9 min
+436 songs - 1 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Oozing](https://open.spotify.com/track/6xKoMynnenKx4iYNYWohj9) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Uzi Ramirez](https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm), [Ofri Nehemya](https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX) | [Oozing](https://open.spotify.com/album/0JV9K93YG2HRIyZNatCCnf) | 4:40 | 2022-11-11 | 2023-04-30 |
 | [Oozing](https://open.spotify.com/track/72FdNmSimeEJrUKE9l9iUH) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1), [Nomok](https://open.spotify.com/artist/2a24cfhTFjaIUk1AoYLfN3), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Uzi Ramirez](https://open.spotify.com/artist/3lTo1RLFeLDQeytnn94IUm), [Ofri Nehemya](https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX) | [Oozing](https://open.spotify.com/album/1qYiorYpWx4macFmQ2bj0f) | 4:40 | 2022-11-18 | 2024-03-09 |
 | [Open Sesame](https://open.spotify.com/track/4lvCJIy2hOB4hwkHm06xsU) | [Beggar & Co.](https://open.spotify.com/artist/0SxsCZtZBwcd6hzwXAQLgl), [The Jazz Funk Collective](https://open.spotify.com/artist/3MbFOvsNcExYWIIwuQzjDl) | [Open Sesame](https://open.spotify.com/album/1B6rnmCG6ewSB6qWEOqNzM) | 5:35 | 2020-10-09 | 2024-06-15 |
-| [ORGANICS](https://open.spotify.com/track/0PAF2exzV27bNk6YPikLt8) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THE MAN](https://open.spotify.com/album/7LvM2OjHj4lqjkWjUOGN3t) | 3:25 | 2024-11-01 |  |
+| [ORGANICS](https://open.spotify.com/track/0PAF2exzV27bNk6YPikLt8) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [THE MAN](https://open.spotify.com/album/7LvM2OjHj4lqjkWjUOGN3t) | 3:25 | 2024-11-01 | 2025-01-25 |
 | [Other Way Pt\. III](https://open.spotify.com/track/0ybJLX9Kg0NRKmTGf66KOF) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Other Way Pt\. III](https://open.spotify.com/album/0MAIK4mHFehGM9U3tri0kn) | 4:02 | 2021-07-16 | 2022-07-29 |
 | [Pace](https://open.spotify.com/track/1RdLaq5tDG4k22fGRr9a6L) | [Ferge X Fisherman](https://open.spotify.com/artist/0fNCdYRIRFern2T46bEVDV), [Victoryaz](https://open.spotify.com/artist/6F71TTGaz9SrRCJhCzGhNk) | [Pace](https://open.spotify.com/album/3lD5NKDqVxqs2zedgYt9mS) | 3:17 | 2021-11-26 |  |
 | [Palm Grease](https://open.spotify.com/track/7inW3Cs2l4laNgLKp5R17K) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Thrust](https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k) | 10:36 | 2020-10-09 | 2023-05-13 |
@@ -351,6 +351,7 @@
 | [Take a Breath](https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [Take a Breath](https://open.spotify.com/album/0OAvrB1xafqyl9Yf60LL5J) | 5:27 | 2021-06-25 |  |
 | [Take a Breath \(Live\)](https://open.spotify.com/track/1qjy5HEADS29zdpNwvBVYT) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [O.T.S\. \(Live\)](https://open.spotify.com/album/50R9IUC6X5mY1IJACWYyo1) | 5:27 | 2021-06-25 | 2024-04-19 |
 | [Talent Stick](https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Talent Stick](https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW) | 4:00 | 2023-04-28 | 2023-05-20 |
+| [TAXI](https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Tyler Gauldin](https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU) | [TAXI](https://open.spotify.com/album/1kDbUfS7ad8KOFxrSPOX2W) | 6:21 | 2025-01-24 |  |
 | [Tell Me What To Do](https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 5:17 | 2020-10-09 | 2023-10-21 |
 | [Tell Me What To Do](https://open.spotify.com/track/4uMmOXFsZ1YJSTqTNifMhF) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/65fQ2OhECWQBzLdtEKqK0U) | 5:19 | 2020-10-09 | 2022-04-17 |
 | [Tema de Benja](https://open.spotify.com/track/3xWWQ10PFmASoMTeCBmyBW) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Patricia "Piojo" Zappia](https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK) | [Melomazeando](https://open.spotify.com/album/5KTKZNtFdtY8jf5bN8uO45) | 4:55 | 2023-05-19 | 2024-04-13 |

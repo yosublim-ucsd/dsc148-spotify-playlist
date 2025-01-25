@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,789 likes - 82 songs - 3 hr 31 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,788 likes - 82 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 41 | [TROLLIN'](https://open.spotify.com/track/63T2RxfAIE3xFoQX9QvHza) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [TROLLIN'](https://open.spotify.com/album/7r1OGEAEnZNv76t9jB5kcx) | 2:31 |
 | 42 | [LIVE AND LET DIE](https://open.spotify.com/track/0EaTgcYikwnfkAmybrinn5) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [LIVE AND LET DIE](https://open.spotify.com/album/4FhOSZGWH8aOEtwT2XyenM) | 2:05 |
 | 43 | [Turn Up The Flame](https://open.spotify.com/track/24ASg9u0yaDQB2jKhU4Kdn) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Turn Up The Flame](https://open.spotify.com/album/3k4JzsekugZULGW2mNceS6) | 3:00 |
-| 44 | [ILMSY \(MOVES\)](https://open.spotify.com/track/4G3f62XB30a856AZalkgWn) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [ILMSY \(MOVES\)](https://open.spotify.com/album/7B7nVSyWiF23lE87PlMPks) | 2:59 |
+| 44 | [I Love Me Some You \(ILMSY\)](https://open.spotify.com/track/4G3f62XB30a856AZalkgWn) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [I Love Me Some You \(ILMSY\)](https://open.spotify.com/album/7B7nVSyWiF23lE87PlMPks) | 2:59 |
 | 45 | [Blickem](https://open.spotify.com/track/0mGpCVUnUH22arDaAOAiOT) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [REBIRTH](https://open.spotify.com/album/77sVwtEu49RVgkTutoFk8t) | 2:04 |
 | 46 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 |
 | 47 | [Loose Leaf \(feat\. 03 Greedo\)](https://open.spotify.com/track/587M6QEBcA3g25WZvyDsWu) | [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Loose Leaf \(feat\. 03 Greedo\)](https://open.spotify.com/album/2qKpxeQNWbPqmB0GvKwLql) | 3:40 |

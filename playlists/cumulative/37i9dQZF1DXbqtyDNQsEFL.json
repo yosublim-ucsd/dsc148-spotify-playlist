@@ -4357,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "KASALA",
+        "url": "https://open.spotify.com/album/0VBE5HaU33800S64toSedh"
+      },
+      "artists": [
+        {
+          "name": "John Cohen",
+          "url": "https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261758,
+      "name": "KASALA",
+      "url": "https://open.spotify.com/track/2lFtWNaAtdf9LZsrcTaWrz"
+    },
+    {
+      "album": {
         "name": "The Bridge",
         "url": "https://open.spotify.com/album/0hpcHJ05OUYD81SFjR2odm"
       },
@@ -6654,7 +6672,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 160857,
       "name": "P&A",
       "url": "https://open.spotify.com/track/7jptixxxwHCtk1wiZxbw42"

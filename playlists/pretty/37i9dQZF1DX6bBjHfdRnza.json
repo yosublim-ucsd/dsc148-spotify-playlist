@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Featuring LAMMER. Artwork by Rewina Beshue",
-  "num_followers": 191118,
+  "num_followers": 191207,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5EsBgAAAADIiQis9qkXbA8e08lKZgqm",
+  "snapshot_id": "Z5PaMgAAAADwZdacODoiSXA/9T7n9xFL",
   "tracks": [
     {
       "added_at": "2025-01-15 05:00:03",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/0Y8B1zHNuWZdn2BA4wv3Z9"
     },
     {
+      "added_at": "2025-01-24 17:55:23",
+      "album": {
+        "name": "Beat on My Mind",
+        "url": "https://open.spotify.com/album/2NSeQqHNeAnQ2DUK3iSgYT"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "duration_ms": 141936,
+      "name": "Beat On My Mind",
+      "url": "https://open.spotify.com/track/5Fa6YIRJUYJOrXIJ5rvEJR"
+    },
+    {
       "added_at": "2025-01-15 05:00:03",
       "album": {
         "name": "People (feat. Club Azur)",
@@ -69,20 +85,36 @@
       "url": "https://open.spotify.com/track/6OlK7sPU2naVspkttQZsj7"
     },
     {
-      "added_at": "2025-01-22 17:33:58",
+      "added_at": "2025-01-24 05:00:52",
       "album": {
-        "name": "No Sunshine",
-        "url": "https://open.spotify.com/album/0JFyMRP4Zs1nsANeMCxewJ"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3gZ0u7KZCj0WNVMyg6MsJl"
       },
       "artists": [
         {
-          "name": "Jazir",
-          "url": "https://open.spotify.com/artist/1AyxHP7cwxDjR5HxtxRo1C"
+          "name": "Old Hermit Crab",
+          "url": "https://open.spotify.com/artist/04xdmP44NY4yb14rEgjFm5"
         }
       ],
-      "duration_ms": 260992,
-      "name": "No Sunshine",
-      "url": "https://open.spotify.com/track/232SVNNeXmvlthch2ohP7G"
+      "duration_ms": 326383,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5CkqQX3UXxgWW5RJ1Kus2o"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Partyman 3000",
+        "url": "https://open.spotify.com/album/1Q8CtTaYYcfpNWXK1U7arG"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Partyman 3000",
+      "url": "https://open.spotify.com/track/4QKAkux3PgARFLf2OjZQeu"
     },
     {
       "added_at": "2025-01-15 05:00:03",
@@ -119,6 +151,54 @@
       "duration_ms": 170571,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
+    },
+    {
+      "added_at": "2025-01-24 18:21:38",
+      "album": {
+        "name": "I Need To Know",
+        "url": "https://open.spotify.com/album/5tXfnhu1b9dyOSXBXjwJ6m"
+      },
+      "artists": [
+        {
+          "name": "Freddie Lineker",
+          "url": "https://open.spotify.com/artist/7hrFzMXtUWxM2zeCpBrx4w"
+        }
+      ],
+      "duration_ms": 163308,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/4FXgEovOf3Zw7kJ3R9i8ih"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Fantasies",
+        "url": "https://open.spotify.com/album/5ZXmA40qxKsawQ36CDasQj"
+      },
+      "artists": [
+        {
+          "name": "Knife Girl",
+          "url": "https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Fantasies",
+      "url": "https://open.spotify.com/track/4mLr8WI3QGcHN9g4bnjgTr"
+    },
+    {
+      "added_at": "2025-01-15 05:00:03",
+      "album": {
+        "name": "Hustler",
+        "url": "https://open.spotify.com/album/02vdJvt0pOPBd7AnJXMi8v"
+      },
+      "artists": [
+        {
+          "name": "ESSE",
+          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
+        }
+      ],
+      "duration_ms": 153779,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/7Ga3eawAui0Ocf06y25sH2"
     },
     {
       "added_at": "2025-01-22 17:33:58",
@@ -159,6 +239,22 @@
     {
       "added_at": "2025-01-22 17:33:58",
       "album": {
+        "name": "No Sunshine",
+        "url": "https://open.spotify.com/album/0JFyMRP4Zs1nsANeMCxewJ"
+      },
+      "artists": [
+        {
+          "name": "Jazir",
+          "url": "https://open.spotify.com/artist/1AyxHP7cwxDjR5HxtxRo1C"
+        }
+      ],
+      "duration_ms": 260992,
+      "name": "No Sunshine",
+      "url": "https://open.spotify.com/track/232SVNNeXmvlthch2ohP7G"
+    },
+    {
+      "added_at": "2025-01-22 17:33:58",
+      "album": {
         "name": "About Changes",
         "url": "https://open.spotify.com/album/0ng4Hq2eERmPYao7DuovA8"
       },
@@ -171,6 +267,38 @@
       "duration_ms": 178181,
       "name": "About Changes",
       "url": "https://open.spotify.com/track/5IGfLpsn1AZHH05OEL96I0"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Talk To Me",
+        "url": "https://open.spotify.com/album/1wcVXT9boBDEqxOcOkIP6v"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/5ZTRxwqNEDMg7itvpIH8aK"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/7EbXVZsEuOxvwDE4xzB45K"
+      },
+      "artists": [
+        {
+          "name": "Oots",
+          "url": "https://open.spotify.com/artist/3JO3KocIZryOFTLKFmRV8X"
+        }
+      ],
+      "duration_ms": 187195,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/1xxqbpKesgEeBj9Hmzyu9t"
     },
     {
       "added_at": "2025-01-17 05:00:52",
@@ -203,22 +331,6 @@
       "duration_ms": 155538,
       "name": "Coolin",
       "url": "https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11"
-    },
-    {
-      "added_at": "2025-01-15 05:00:03",
-      "album": {
-        "name": "Hustler",
-        "url": "https://open.spotify.com/album/02vdJvt0pOPBd7AnJXMi8v"
-      },
-      "artists": [
-        {
-          "name": "ESSE",
-          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
-        }
-      ],
-      "duration_ms": 153779,
-      "name": "Hustler",
-      "url": "https://open.spotify.com/track/7Ga3eawAui0Ocf06y25sH2"
     },
     {
       "added_at": "2025-01-15 05:00:03",
@@ -299,6 +411,22 @@
       "duration_ms": 187142,
       "name": "Consequences (One Day At A Time)",
       "url": "https://open.spotify.com/track/0WWOCAXVa0aQWxJUGktFhX"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/1qc36c9vswNHSGG2saKPEY"
+      },
+      "artists": [
+        {
+          "name": "Saraga",
+          "url": "https://open.spotify.com/artist/68iQrOCMSJ2ThzXU1ELap6"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/3uQtNuFkvqWVf9WZqnLRlt"
     },
     {
       "added_at": "2025-01-15 05:00:03",
@@ -459,6 +587,26 @@
       "duration_ms": 179340,
       "name": "Until The Sun Dies",
       "url": "https://open.spotify.com/track/0cKcUqgyDSb2M6kGHUmPH5"
+    },
+    {
+      "added_at": "2025-01-24 05:00:52",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0ImZZPtmPlCcka1v9e9dFv"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        },
+        {
+          "name": "Low Mileage",
+          "url": "https://open.spotify.com/artist/0dLhJRQpTrk32TbujPeN8u"
+        }
+      ],
+      "duration_ms": 134160,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1Msjub09jLhkGbyThmMLsp"
     },
     {
       "added_at": "2025-01-17 05:00:52",

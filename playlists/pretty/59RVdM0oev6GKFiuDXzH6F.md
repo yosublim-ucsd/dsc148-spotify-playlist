@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,252 likes - 150 songs - 8 hr 8 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,252 likes - 152 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 148 | [A Night in Napoli](https://open.spotify.com/track/3rzogXbN3tFrK7OkLnximr) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [VS Prjct](https://open.spotify.com/artist/5NGhNgjAPerBPAAKlYt9ie) | [A Night in Napoli](https://open.spotify.com/album/5NvfuWHSSn7eOdiMEp6w7W) | 3:55 |
 | 149 | [Miroir Miroir \- Romain Garcia Remix](https://open.spotify.com/track/27Bi7tiQKHPxPkStLn2fHW) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM), [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h) | [Miroir Miroir \(Romain Garcia & Qrion Mixes\)](https://open.spotify.com/album/4ITkRnfS31YuP5s6zixkNs) | 3:29 |
 | 150 | [Parachute](https://open.spotify.com/track/5Wwh8AAnLV1IDTqzK4acm2) | [NATHAN.C](https://open.spotify.com/artist/3LrmSJZYs1azOa66PzwJco) | [Parachute](https://open.spotify.com/album/2B56AFu47qri8KBhgNbUpz) | 2:27 |
+| 151 | [Vibin'](https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Vibin’](https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7) | 2:47 |
+| 152 | [Sensation](https://open.spotify.com/track/7lyvmLVL8GFZHOkaCxMVI2) | [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol), [Snrs](https://open.spotify.com/artist/61mK2JbF5F6tqgZOJMWloW) | [Sensation](https://open.spotify.com/album/11gB9AGVS9AKsaQ5SMVSm2) | 2:21 |
 
-Snapshot ID: `AAAP15WQySAMPWUZ1Er+RX2gN5TTWt9t`
+Snapshot ID: `AAAP2RrHEaTkmP0lCJu4w2OCjtDDe/9p`

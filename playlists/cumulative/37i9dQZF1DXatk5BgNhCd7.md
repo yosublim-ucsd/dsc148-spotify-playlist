@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Soledad & Luck Ra.
 
-3,402 songs - 8 day 5 hr 52 min
+3,403 songs - 8 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2183,6 +2183,7 @@
 | [Número 1](https://open.spotify.com/track/6uGS9RkexSSAhsBvofvlIU) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Número 1](https://open.spotify.com/album/2YgGEgUcjVM8wa438b0wux) | 2:47 | 2022-08-12 | 2022-08-20 |
 | [Número uno](https://open.spotify.com/track/31yZgYCSyiVNTgtG4JLRXp) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Número uno](https://open.spotify.com/album/1Q9jbi1NJwuHv5i8dJJc6J) | 2:25 | 2024-12-13 | 2024-12-21 |
 | [Oasis de Amor](https://open.spotify.com/track/6NiL7jn3KELGS16BiBhWqS) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Oasis de Amor](https://open.spotify.com/album/7qPXPggvnc90E34FVtPFjZ) | 3:08 | 2024-12-28 |  |
+| [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 | 2025-01-24 |  |
 | [Odio Que No Te Odio](https://open.spotify.com/track/1xQ0pZrzRz8QH1jxGZJsoh) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Odio Que No Te Odio](https://open.spotify.com/album/7N0sYjeUmp6MfQDY0Rtyhh) | 3:42 | 2022-07-15 | 2022-07-23 |
 | [OHNANA](https://open.spotify.com/track/2uuaPXA9MoNU6n0iw8KNfI) | [La Pleyer](https://open.spotify.com/artist/2aNUpJ7j735QzVplzYdlRJ), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [QueSigaLaGira \#10](https://open.spotify.com/album/16gNjbZBxq6zYr1xlYDPfk) | 2:24 | 2024-12-20 | 2025-01-24 |
 | [Ojala \- 15Th Aniversary \- Radio Edit](https://open.spotify.com/track/5IlzhrqVi9GfNhIeN6q2xM) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Urban Latin DJ's](https://open.spotify.com/artist/41ZgAaZP94MxspGvHyi8iA), [Eslan Martin](https://open.spotify.com/artist/5lZlM1S5aRatqK23vrddNf) | [AMOR EXTRA Vol.2 \- Un Viaje de Amor, donde la Bachata romantica no tiene fin \(Grandes Exitos Romanticos 15 anos Extra\)](https://open.spotify.com/album/2Ojl7NWAJgCxEYOSSPuMx1) | 3:39 | 2023-11-24 | 2023-12-02 |

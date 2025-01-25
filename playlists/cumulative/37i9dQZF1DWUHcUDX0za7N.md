@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Bhadboi OML
+> Hip hop and rap music from Nigeria\. Cover: Olamide
 
-532 songs - 1 day 1 hr 13 min
+533 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Belong to You](https://open.spotify.com/track/4JDB6Rqf7lkWNx9wzs4kVb) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Belong to You](https://open.spotify.com/album/4wQ95SQDjYY9WxDp3ClIrU) | 3:02 | 2024-01-26 | 2024-11-22 |
 | [Beng Beng Beng](https://open.spotify.com/track/1QJr0nCavAGYteCOLUf2lN) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Ransom Beatz](https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [Beng Beng Beng](https://open.spotify.com/album/3xm1v6Cpd221YgVdfhEPFm) | 2:22 | 2024-08-02 | 2024-10-18 |
 | [Bestfriend](https://open.spotify.com/track/5yPuzx6e37uehcBxjI37aU) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [We Not Done Yet \(Deluxe\)](https://open.spotify.com/album/0PtvLy4eCkA6VM9KVxQmVk) | 2:35 | 2024-10-25 | 2024-11-16 |
-| [BETELGEUSE](https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe), [Veelantyne](https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz), [s0ru](https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj), [Fred the Prod.](https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA) | [BETELGEUSE](https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj) | 3:28 | 2024-11-22 |  |
+| [BETELGEUSE](https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe), [Veelantyne](https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz), [s0ru](https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj), [Fred the Prod.](https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA) | [BETELGEUSE](https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj) | 3:28 | 2024-11-22 | 2025-01-25 |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-28 | 2023-11-11 |
 | [Big 7](https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:23 | 2023-11-10 | 2024-04-19 |
 | [BIG CHIEF](https://open.spotify.com/track/4LKn9gJAmNkcGJydMf2jjM) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [BIG CHIEF](https://open.spotify.com/album/739Mu88Ai8sLeRaZS1yi4S) | 3:04 | 2024-06-21 | 2024-12-07 |
@@ -231,6 +231,7 @@
 | [I Met Nas in a Dream](https://open.spotify.com/track/53ji2kOnMFVz81RblzTCSc) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8) | [I Met Nas in a Dream](https://open.spotify.com/album/0RLi8gzE8HYWZly3iMoVIT) | 2:42 | 2024-11-22 | 2024-11-30 |
 | [Ice Cream](https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ice Cream](https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5) | 2:15 | 2022-06-09 | 2023-02-24 |
 | [IDAN](https://open.spotify.com/track/6b5Xz3pqizdtTU0UvMSyki) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67) | [IDAN](https://open.spotify.com/album/1dOxtUsvRR96cU5ptMn6zb) | 3:05 | 2024-11-22 | 2024-11-30 |
+| [Idan Buruku \(Freestyle\)](https://open.spotify.com/track/5DfbRtg9E4jx7SuCTbUUq6) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Idan Buruku \(Freestyle\)](https://open.spotify.com/album/2s6XjErO2LqXTXgvFUVfD8) | 1:31 | 2025-01-24 |  |
 | [IDme \(owo to po leti\)](https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [IDme \(owo to po leti\)](https://open.spotify.com/album/3oohgPgt3Cj2hhsRUZRpvi) | 2:25 | 2023-09-14 | 2023-09-29 |
 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 | 2024-01-12 | 2024-09-28 |
 | [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 | 2024-05-10 | 2024-10-05 |

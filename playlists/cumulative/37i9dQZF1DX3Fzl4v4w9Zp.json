@@ -3255,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247080,
+      "name": "Easy Love Part 1",
+      "url": "https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn"
+    },
+    {
+      "album": {
         "name": "El Mirador",
         "url": "https://open.spotify.com/album/0G9Bc2RYNUkCjUFK4zWKlX"
       },

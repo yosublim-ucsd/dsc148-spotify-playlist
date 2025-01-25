@@ -1609,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Asliyah",
+        "url": "https://open.spotify.com/album/4asoomU1I56N5Bt6CunOgU"
+      },
+      "artists": [
+        {
+          "name": "Asayel",
+          "url": "https://open.spotify.com/artist/31UcNVT6d7myOObOy0LsNS"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Asliyah",
+      "url": "https://open.spotify.com/track/5IHH65QmmSkqhbATP3sZFt"
+    },
+    {
+      "album": {
         "name": "Atoul",
         "url": "https://open.spotify.com/album/7uR9bmwan77bo430VOvIzX"
       },
@@ -1916,7 +1934,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 213428,
       "name": "Bahki Annak",
       "url": "https://open.spotify.com/track/7MqKFhAg2hHT4ek4bqonoJ"
@@ -3456,7 +3474,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 248674,
       "name": "Ensan",
       "url": "https://open.spotify.com/track/21xIjsztSuItovFkeCOL96"
@@ -6473,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Mamnou",
+        "url": "https://open.spotify.com/album/2iWdwVPGIDUp0Mac5ha72k"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148853,
+      "name": "Mamnou",
+      "url": "https://open.spotify.com/track/1wELuVZY0U4OavIv86CKyh"
+    },
+    {
+      "album": {
         "name": "Mamnounlak",
         "url": "https://open.spotify.com/album/4JVzSKHgVOJXWqzK1huMBy"
       },
@@ -9288,7 +9324,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 238269,
       "name": "Wana Lewahdy",
       "url": "https://open.spotify.com/track/70z2Zrg6oDt0oDWOhUMB5m"
@@ -11732,6 +11768,24 @@
       "duration_ms": 236004,
       "name": "\u063a\u0634\u064a\u062a \u0646\u0641\u0633\u0643",
       "url": "https://open.spotify.com/track/6TTxFFhwTGnNBWGsjLSjzg"
+    },
+    {
+      "album": {
+        "name": "\u063a\u0635\u0646 \u0631\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k"
+      },
+      "artists": [
+        {
+          "name": "Maryam Shehab",
+          "url": "https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150326,
+      "name": "\u063a\u0635\u0646 \u0631\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv"
     },
     {
       "album": {

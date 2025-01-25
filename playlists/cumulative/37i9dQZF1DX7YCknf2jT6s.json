@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Butcher Brown",
+  "description": "New jazz for open minds. Cover: Jeremy Pelt",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2963,6 +2963,28 @@
     },
     {
       "album": {
+        "name": "Balloon Pop",
+        "url": "https://open.spotify.com/album/4FzFNTd84JsiPzggATL5Kn"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Sonicwonder",
+          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377533,
+      "name": "Balloon Pop",
+      "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
+    },
+    {
+      "album": {
         "name": "Zeal EP",
         "url": "https://open.spotify.com/album/1r2Yh46iOWNS6fnoc1qPhW"
       },
@@ -5008,7 +5030,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 77086,
       "name": "Calling Dreams (feat. Flyana Boss)",
       "url": "https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN"
@@ -9126,7 +9148,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 415307,
       "name": "Embracing Dawn",
       "url": "https://open.spotify.com/track/5hyprZ1NQJMmJfjoQm2eBA"
@@ -9886,7 +9908,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 284493,
       "name": "Fair Weather",
       "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
@@ -10576,7 +10598,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 251640,
       "name": "Fly",
       "url": "https://open.spotify.com/track/34fWjE24BlikDPyZ7XP8W5"
@@ -13106,6 +13128,40 @@
       "duration_ms": 339858,
       "name": "Hors d'Oeuvre",
       "url": "https://open.spotify.com/track/3OICS3ShxY7KnOPsLHsj1g"
+    },
+    {
+      "album": {
+        "name": "Hotel Clara",
+        "url": "https://open.spotify.com/album/0royvZusJQXJnXqHJGKQyW"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        },
+        {
+          "name": "Efajemue",
+          "url": "https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1"
+        },
+        {
+          "name": "Lytmus",
+          "url": "https://open.spotify.com/artist/3elSNWFEqrOArFscSKfQn9"
+        },
+        {
+          "name": "Oliver Crosby",
+          "url": "https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203418,
+      "name": "Hotel Clara",
+      "url": "https://open.spotify.com/track/2iOLyeDMmAX790wKqdl9om"
     },
     {
       "album": {
@@ -15891,6 +15947,24 @@
     },
     {
       "album": {
+        "name": "Komorebi",
+        "url": "https://open.spotify.com/album/1x51CSL5uqbcjtkKTMN2H5"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341501,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/3wjJfYAHTbYGCRG7qqlLMK"
+    },
+    {
+      "album": {
         "name": "kulungile",
         "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
       },
@@ -15980,6 +16054,24 @@
       "duration_ms": 224915,
       "name": "La Tijera",
       "url": "https://open.spotify.com/track/7LLdhEEpwgOLdNz737nhYS"
+    },
+    {
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/2lMyYDTMT8AAy2WuXOlqaP"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274626,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/5AfsUCR2ai6YcQS9cfxDMw"
     },
     {
       "album": {
@@ -20610,7 +20702,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 376773,
       "name": "Nominor",
       "url": "https://open.spotify.com/track/5oiPuAbpv58XGorZCbo8XM"
@@ -25329,6 +25421,24 @@
     },
     {
       "album": {
+        "name": "A Blessed Leap Into Eternity",
+        "url": "https://open.spotify.com/album/0Kwi4ccHJuwdU4Nw8TxdyX"
+      },
+      "artists": [
+        {
+          "name": "Corey Bernhard",
+          "url": "https://open.spotify.com/artist/7o6LIWyGSmkzHsDwDY1GCn"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476896,
+      "name": "Sagittarius",
+      "url": "https://open.spotify.com/track/4Rob1o4UHPpjiEs5YUFaHd"
+    },
+    {
+      "album": {
         "name": "Sais (Egypt)",
         "url": "https://open.spotify.com/album/7BgYo9YPlQ6sk3BVX9K2Ys"
       },
@@ -26628,7 +26738,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 158435,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/4hX4cUIsRXyja4tDbEcE60"
@@ -28401,6 +28511,24 @@
     },
     {
       "album": {
+        "name": "Sun flex",
+        "url": "https://open.spotify.com/album/6d4GZromXEy8ep4yXRh8tV"
+      },
+      "artists": [
+        {
+          "name": "Enemy",
+          "url": "https://open.spotify.com/artist/6nef6002aZx63N9P9KSmCF"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177208,
+      "name": "Sun flex",
+      "url": "https://open.spotify.com/track/3MEnOo2zXRX8nTq30smqno"
+    },
+    {
+      "album": {
         "name": "Sun Go Down",
         "url": "https://open.spotify.com/album/6tGejsu1Row5Qg2MD6fRl3"
       },
@@ -29214,6 +29342,28 @@
       "duration_ms": 209336,
       "name": "Tarkon Tarko",
       "url": "https://open.spotify.com/track/4JOhoXUVaj3NAiF3sFiyqk"
+    },
+    {
+      "album": {
+        "name": "TAXI",
+        "url": "https://open.spotify.com/album/1kDbUfS7ad8KOFxrSPOX2W"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        },
+        {
+          "name": "Tyler Gauldin",
+          "url": "https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381800,
+      "name": "TAXI",
+      "url": "https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq"
     },
     {
       "album": {
@@ -31094,7 +31244,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 327103,
       "name": "The Smile of the Snake",
       "url": "https://open.spotify.com/track/6HNo6vEDnSxCVOwxXCRTMn"
@@ -34271,6 +34421,24 @@
     },
     {
       "album": {
+        "name": "Silhouettes: A Dream Sphere Journal",
+        "url": "https://open.spotify.com/album/5HBvvp3lcKavJbw9vnHMwP"
+      },
+      "artists": [
+        {
+          "name": "MATTERS UNKNOWN",
+          "url": "https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215168,
+      "name": "What Are You About?",
+      "url": "https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh"
+    },
+    {
+      "album": {
         "name": "What Are You Doing the Rest of Your Life?",
         "url": "https://open.spotify.com/album/4C9bsmeHvh168BMnqd5stY"
       },
@@ -35818,7 +35986,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 287198,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/15iMGU3HQnMnVQ53YsNhnv"

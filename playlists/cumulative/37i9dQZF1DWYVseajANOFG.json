@@ -1247,6 +1247,32 @@
     },
     {
       "album": {
+        "name": "Chikiti",
+        "url": "https://open.spotify.com/album/3dsjnuy63b3g1gpcMjXrvq"
+      },
+      "artists": [
+        {
+          "name": "Daronn",
+          "url": "https://open.spotify.com/artist/3V9mbzeIDSmSSjSigs3Sg2"
+        },
+        {
+          "name": "Monster",
+          "url": "https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa"
+        },
+        {
+          "name": "Myko",
+          "url": "https://open.spotify.com/artist/417N1phMxyoi8CAtTlxO1h"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151607,
+      "name": "Chikiti",
+      "url": "https://open.spotify.com/track/08GfUxDxY4YJCPVb309gN8"
+    },
+    {
+      "album": {
         "name": "Cinco de Mayo",
         "url": "https://open.spotify.com/album/2OaQ6lM6XfLGkSqKnirlhq"
       },
@@ -1316,6 +1342,40 @@
       "duration_ms": 182050,
       "name": "Como Yo Te Lo Doy",
       "url": "https://open.spotify.com/track/0VCBEPVBRZEO79xM3cHfhv"
+    },
+    {
+      "album": {
+        "name": "Comparsa",
+        "url": "https://open.spotify.com/album/1064Ebjb8litnox1UxJV3B"
+      },
+      "artists": [
+        {
+          "name": "JEYSON",
+          "url": "https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb"
+        },
+        {
+          "name": "El Tiex",
+          "url": "https://open.spotify.com/artist/6464frNa6A3iV5HovTeKd9"
+        },
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "Don Pablo Mures",
+          "url": "https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230304,
+      "name": "Comparsa",
+      "url": "https://open.spotify.com/track/49a0tpl791nV7LMtGKVLp5"
     },
     {
       "album": {
@@ -1826,7 +1886,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 156722,
       "name": "Dinero No Respeta",
       "url": "https://open.spotify.com/track/1lqN4gOvA0aGccIuHUxwsS"
@@ -4282,7 +4342,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 209780,
       "name": "Lo Tengo Todo",
       "url": "https://open.spotify.com/track/3FYNVSbhDZEHjtVMsybgAW"

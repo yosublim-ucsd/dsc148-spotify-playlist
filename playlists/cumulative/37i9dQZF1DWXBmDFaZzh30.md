@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXBmDFaZzh30.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXBmDFaZzh30) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXBmDFaZzh30)
 
-### [Tokyo Ghoul \-東京喰種トーキョーグール\- Compiled by Sui Ishida](https://open.spotify.com/playlist/37i9dQZF1DWXBmDFaZzh30)
+### [Tokyo Ghoul \- Compiled by Sui Ishida](https://open.spotify.com/playlist/37i9dQZF1DWXBmDFaZzh30)
 
-> Exclusive playlist by the author of "Tokyo Ghoul" \-<a href="https://smar.lnk.to/qbyK6">『東京喰種』コンピ</a>発売記念Spotify限定プレイリスト！TVアニメ歴代OP/EDに加え、原作者石田スイが作品と共に聴いて欲しい楽曲を新規セレクト！© I/S © I/S,TGPC © I/S,TGRPC
+> Exclusive playlist by the author of "Tokyo Ghoul" © I/S © I/S,TGPC © I/S,TGRPC
 
 59 songs - 4 hr 3 min
 

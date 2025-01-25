@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: THEY.
+> R&B of the moment by the artists of the future\. Cover: Aqyila
 
-1,140 songs - 2 day 9 hr 59 min
+1,142 songs - 2 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Demon Time](https://open.spotify.com/track/0BC0b1t148YdN82r0baRvi) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 4:01 | 2022-11-27 | 2022-12-03 |
 | [Destiny](https://open.spotify.com/track/6500uBEUQTXfSepkef2k0Z) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Destiny](https://open.spotify.com/album/3oPRTBwivYD0ppPh7vaGYl) | 3:30 | 2024-06-07 | 2024-11-16 |
 | [Diamonds And Pearls](https://open.spotify.com/track/2fKW2z6VAOGSaEeOTBTOWt) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Diamonds And Pearls](https://open.spotify.com/album/17v5uQhPTOV1xbNcHBWivY) | 3:09 | 2024-06-21 |  |
+| [Different Ways](https://open.spotify.com/track/4V0scczF99AVzyAYI35Ft4) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Different Ways](https://open.spotify.com/album/42Y8CqoFNq9mVyzGIVjb0Z) | 3:28 | 2025-01-24 |  |
 | [Dinner Table](https://open.spotify.com/track/5BI42WLndbA5yLiCllZAzW) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Maybe I’m Best Alone](https://open.spotify.com/album/6gjIEUtHdzYvBGYAIFuvDt) | 1:58 | 2022-12-02 | 2023-01-21 |
 | [dirty dancer \- A COLORS SHOW](https://open.spotify.com/track/4sqoYcOLKALBqsVWRFwMqn) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer \- A COLORS SHOW](https://open.spotify.com/album/3e3DNi5ZuSeIqqVj5TUKj4) | 2:49 | 2022-04-08 | 2022-04-29 |
 | [Disappear](https://open.spotify.com/track/4jmFQAiHWGmgUBIuWY74be) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Disappear](https://open.spotify.com/album/7kTB0TcBJLcEDlfeG9HFTS) | 2:25 | 2022-04-29 | 2022-06-25 |
@@ -346,7 +347,7 @@
 | [Final Dance](https://open.spotify.com/track/39Z6LwZezDkLN4YcGezypr) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Final Dance](https://open.spotify.com/album/76YhHsvtsqmToA8YEWA5uz) | 3:02 | 2022-04-08 | 2022-05-21 |
 | [Finally](https://open.spotify.com/track/5d7uaddNeJAcTUAxll0pMS) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y) | [Maybe In Another Life](https://open.spotify.com/album/06eUuvfojvijkzWKr8uxLL) | 3:02 | 2024-07-12 | 2024-11-09 |
 | [Find Out](https://open.spotify.com/track/5q7lMdy4gRlklJfUj0rGHu) | [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm) | [Find Out](https://open.spotify.com/album/4fb6nRbdtHukZzKROJulFZ) | 2:01 | 2022-03-25 | 2022-04-09 |
-| [Find Out](https://open.spotify.com/track/50ya4OPn83WoR4kssGh088) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [It's Complicated](https://open.spotify.com/album/3rx7MeU8pWqIq9vZG2nr5p) | 2:45 | 2024-07-19 |  |
+| [Find Out](https://open.spotify.com/track/50ya4OPn83WoR4kssGh088) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [It's Complicated](https://open.spotify.com/album/3rx7MeU8pWqIq9vZG2nr5p) | 2:45 | 2024-07-19 | 2025-01-25 |
 | [Find Out](https://open.spotify.com/track/71e1X3xV66f3ZeaPg6ztqn) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [Find Out](https://open.spotify.com/album/2riOJEMeaodyfB9RN8hE5f) | 2:45 | 2024-07-12 | 2024-07-20 |
 | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/track/3WfgYlFwZMt0Gszdj6TsQo) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fine Wine \(ft\. Amaarae\)](https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61) | 3:06 | 2023-01-20 | 2023-01-27 |
 | [Fine With Me](https://open.spotify.com/track/2EsvKqdrDBYttjRimh8QMu) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Luvr](https://open.spotify.com/album/2sKQrhLFA3O4N1I47S39vO) | 2:58 | 2024-07-19 | 2024-10-26 |
@@ -361,6 +362,7 @@
 | [Flow State](https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Flow State](https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP) | 4:02 | 2024-01-10 | 2024-03-30 |
 | [Flowers](https://open.spotify.com/track/0892L8jMWtFSKq5Xo9EEfA) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Flowers](https://open.spotify.com/album/2k16zP9LysfnBtxnyw6Ihd) | 3:10 | 2024-03-22 | 2024-10-19 |
 | [Fly Girl](https://open.spotify.com/track/3W87RPGCLGupGSWEcNbyED) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Fly Girl](https://open.spotify.com/album/3DxsNT0EdadtakLU9wAGke) | 3:12 | 2023-08-18 | 2024-03-30 |
+| [Focus](https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Focus](https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF) | 3:03 | 2025-01-24 |  |
 | [Fold](https://open.spotify.com/track/5PeH63iIPRhJ8PH1NYU7VP) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Fold](https://open.spotify.com/album/7G9J7ME1E89jnBT6Kyx3YG) | 2:37 | 2024-09-13 |  |
 | [Fool](https://open.spotify.com/track/6zr3r5MNP6Fu0dfJcaMxof) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Fool](https://open.spotify.com/album/4YrTWDTEsPnRaJSbbOe3Zp) | 3:10 | 2022-07-15 | 2023-01-21 |
 | [Fool In Love](https://open.spotify.com/track/20WDv1X4tp93CoTYA71eiB) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Fool In Love](https://open.spotify.com/album/5NGoaWPpVG2Q2LiAdoFoJN) | 3:20 | 2022-04-08 | 2022-05-21 |
@@ -560,7 +562,7 @@
 | [Lately](https://open.spotify.com/track/2UPZsKorPS5xSr4BRhOxny) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Sis\. He wasn't the one](https://open.spotify.com/album/5YevC69TIurE8iNXuEH4U3) | 3:02 | 2021-12-15 | 2022-02-26 |
 | [Lately \(with 6LACK\)](https://open.spotify.com/track/6QyNMgB28X9oCdz2rAEnp7) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Lately \(with 6LACK\)](https://open.spotify.com/album/2WjGKlC8Em8IspICjgXpoU) | 3:51 | 2022-03-18 | 2022-10-29 |
 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 | 2023-01-20 | 2023-10-28 |
-| [Leaking Love](https://open.spotify.com/track/15nLf4ZUYQQpP0oYSzwiWA) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Leaking Love](https://open.spotify.com/album/6KipeXjL2m0WYIB0JK65xy) | 3:24 | 2024-08-09 |  |
+| [Leaking Love](https://open.spotify.com/track/15nLf4ZUYQQpP0oYSzwiWA) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Leaking Love](https://open.spotify.com/album/6KipeXjL2m0WYIB0JK65xy) | 3:24 | 2024-08-09 | 2025-01-25 |
 | [Leave It](https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:52 | 2022-07-15 | 2022-07-30 |
 | [Leave Me Alone](https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Leave Me Alone](https://open.spotify.com/album/1jnZuo1cL5ICy4uKci9aHb) | 2:36 | 2022-08-19 | 2022-10-08 |
 | [Leaving Summer](https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Leaving Summer](https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT) | 2:37 | 2022-09-09 | 2023-02-04 |

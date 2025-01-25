@@ -2,9 +2,9 @@
 
 ### [El Barrio MP3](https://open.spotify.com/playlist/37i9dQZF1DXbH5bzpmFWXy)
 
-> Dos estilos, dos sonidos, un mismo origen: El Barrio\. Eme MalaFe en portada.
+> Dos estilos, dos sonidos, un mismo origen: El Barrio\. Sabino y Código FN en portada.
 
-552 songs - 1 day 5 hr 33 min
+553 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Niño De Oro](https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Niño De Oro \(Deluxe Version\)](https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz) | 2:56 | 2022-12-05 | 2023-08-05 |
 | [No Flow](https://open.spotify.com/track/4PWfBZUo6p3KxE4YOAQ4Xo) | [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR), [Plata Shail](https://open.spotify.com/artist/5QIgS0S5tO51LnPTrJeLsl), [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [No Flow](https://open.spotify.com/album/2791swiBI1oyQc1e6r4ZqU) | 3:29 | 2023-01-27 | 2023-02-25 |
 | [No Fue Facil](https://open.spotify.com/track/1aujiU9g5Af18KIofFxzIM) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [No Fue Facil](https://open.spotify.com/album/7qNBZNApCX1DMJFTuMAedY) | 2:18 | 2024-06-07 | 2024-07-13 |
+| [No Fui Yo](https://open.spotify.com/track/3AJAJkOQJwzxaOFjjGommM) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Fui Yo](https://open.spotify.com/album/34OHzJXw1nvzoqv5Ml32DJ) | 3:22 | 2025-01-24 |  |
 | [No Hay Manera](https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM) | 4:03 | 2023-01-27 |  |
 | [No Hay Pedo Hay Peda](https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX) | [El Enfermo](https://open.spotify.com/artist/3derxbyWBTqAU8H8DPzn0q), [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [No Hay Pedo Hay Peda](https://open.spotify.com/album/1LCAjw1LW3nWqJmgPR8JqT) | 4:00 | 2022-12-09 | 2022-12-31 |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-07-05 | 2023-07-15 |
@@ -536,7 +537,7 @@
 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/5gZOpqxK3J5b5BSjzG1PkM) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/7tcgJJT6XQ22P9V6JII4G4) | 3:10 | 2022-11-07 | 2023-08-02 |
 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 | 2022-11-07 | 2024-03-16 |
 | [VAN A VER](https://open.spotify.com/track/3DMbXac1r9ZOwOZKs1Pd1O) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Town Shit Vol\. 3](https://open.spotify.com/album/6vRbcfIeASWMzW5xXoaPUA) | 2:24 | 2023-12-01 | 2024-01-13 |
-| [Van Cleef](https://open.spotify.com/track/1yRWBqzIjOrizGaBfxFBvc) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Van Cleef](https://open.spotify.com/album/547ls3Aoqi2xExYUlW00lT) | 2:24 | 2024-09-13 |  |
+| [Van Cleef](https://open.spotify.com/track/1yRWBqzIjOrizGaBfxFBvc) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Van Cleef](https://open.spotify.com/album/547ls3Aoqi2xExYUlW00lT) | 2:24 | 2024-09-13 | 2025-01-25 |
 | [Vegetales Con Pescado](https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Vegetales Con Pescado](https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3) | 3:02 | 2022-12-16 | 2023-01-10 |
 | [VETE YA](https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:50 | 2022-12-05 | 2023-03-11 |
 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 | 2022-09-30 | 2022-10-29 |

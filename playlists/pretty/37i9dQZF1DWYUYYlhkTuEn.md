@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 
 > Let's flow to the beats of downtempo deep house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,550 likes - 60 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,606 likes - 60 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 | 26 | [Eolian](https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D) | [Xande \(IT\)](https://open.spotify.com/artist/13HuSRmBchb6XxM5M0lJU8), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Eolian](https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87) | 6:21 |
 | 27 | [Nora](https://open.spotify.com/track/3fVzBXXUFzRM6XURKp1igd) | [Rønhöff](https://open.spotify.com/artist/72t5YrC7X2SMgDkR9AuBja), [Louin](https://open.spotify.com/artist/0ISK7Y2BUefYiHtHTLBSuw), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Nora](https://open.spotify.com/album/2d4C3Bw7VVfgi4RXOHeQW9) | 5:35 |
 | 28 | [Closer](https://open.spotify.com/track/3yS5UQXtnT68AJ3FLaRsIm) | [Jonas Schilling](https://open.spotify.com/artist/4KvdEbdoiioc52G5hno5gf) | [Closer](https://open.spotify.com/album/2dOKbtR9SFr4Sd60pN5biF) | 5:28 |
-| 29 | [Roy \- End Of Time Remix](https://open.spotify.com/track/5OswDjImZswxhu4OCr86tE) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3), [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0), [End of Time](https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C) | [Roy \(End Of Time Remix\)](https://open.spotify.com/album/65jhfn3YIn0wZMT7uKDkmX) | 7:09 |
-| 30 | [Jupiter \- Slow Nomaden Remix](https://open.spotify.com/track/2iiEgScmvQcmr1Ygj5DoOi) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Jupiter \(Incl\. Slow Nomaden Remix\)](https://open.spotify.com/album/4ydqaMHbHtDofKIdxqSOtu) | 5:49 |
-| 31 | [Mira](https://open.spotify.com/track/5KSLQv83fE43xD5uA2Q8Y5) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Mira](https://open.spotify.com/album/5cmUsfZLHlOhZUVRbbbToB) | 4:53 |
-| 32 | [Mitj Mitj](https://open.spotify.com/track/6BgrFLWNiq7QU3ZFuUrzz9) | [Los Cabra](https://open.spotify.com/artist/2ydAsSbCgpyurEmh7aSQdz), [Max Joni](https://open.spotify.com/artist/7zcSZ1NiajqeGERguLtlzo), [MUKKIMIAU](https://open.spotify.com/artist/4ONnAzuhNN3zOvCRD8eplf) | [Mitj Mitj](https://open.spotify.com/album/7zepJdZJ5aZapM20LZd5G9) | 6:39 |
-| 33 | [Uroboros](https://open.spotify.com/track/6niycFFZQRazmAXnsqS68T) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Uroboros](https://open.spotify.com/album/2auGNCYlRgdJDaA6R3eJta) | 4:45 |
-| 34 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 |
+| 29 | [Jupiter \- Slow Nomaden Remix](https://open.spotify.com/track/2iiEgScmvQcmr1Ygj5DoOi) | [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw), [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Jupiter \(Incl\. Slow Nomaden Remix\)](https://open.spotify.com/album/4ydqaMHbHtDofKIdxqSOtu) | 5:49 |
+| 30 | [Mira](https://open.spotify.com/track/5KSLQv83fE43xD5uA2Q8Y5) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN) | [Mira](https://open.spotify.com/album/5cmUsfZLHlOhZUVRbbbToB) | 4:53 |
+| 31 | [Mitj Mitj](https://open.spotify.com/track/6BgrFLWNiq7QU3ZFuUrzz9) | [Los Cabra](https://open.spotify.com/artist/2ydAsSbCgpyurEmh7aSQdz), [Max Joni](https://open.spotify.com/artist/7zcSZ1NiajqeGERguLtlzo), [MUKKIMIAU](https://open.spotify.com/artist/4ONnAzuhNN3zOvCRD8eplf) | [Mitj Mitj](https://open.spotify.com/album/7zepJdZJ5aZapM20LZd5G9) | 6:39 |
+| 32 | [Uroboros](https://open.spotify.com/track/6niycFFZQRazmAXnsqS68T) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Uroboros](https://open.spotify.com/album/2auGNCYlRgdJDaA6R3eJta) | 4:45 |
+| 33 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 |
+| 34 | [Nana](https://open.spotify.com/track/06zE1VMROQHcAA0N0Xh5bA) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Nana](https://open.spotify.com/album/5OZ4HObV1d6XDld5JtuuF9) | 6:18 |
 | 35 | [Dux](https://open.spotify.com/track/7E6F2SyR55q7MywnswiNzv) | [Jan Soutschek](https://open.spotify.com/artist/6wY8ksT1DsvH2HtwLJ0JRP) | [Fugue](https://open.spotify.com/album/5YgmU9xOWmjLwnEDPXeOVH) | 5:50 |
 | 36 | [El Dolor](https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu) | [Mux](https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE) | [Ancestry](https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP) | 4:54 |
 | 37 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 | 59 | [Beautiful Fields](https://open.spotify.com/track/42lAfXPF206dlqzN2v8Y3s) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Beautiful Fields](https://open.spotify.com/album/1MV5RZDGOyn6bFpffuJTKp) | 6:59 |
 | 60 | [sunflower](https://open.spotify.com/track/4pmoV05KcsSw2JnGgTxVea) | [plant milk](https://open.spotify.com/artist/7sdP82BOHQI8W6dT3FSAjc) | [sunflower](https://open.spotify.com/album/73PNYwqdDCfdVJCUl1jaKR) | 2:18 |
 
-Snapshot ID: `ZpV/FgAAAAB0FVx6HC2lvoqt4sLKj5R6`
+Snapshot ID: `Z5MeagAAAAAKpLEgsjroOis99MBPeidL`

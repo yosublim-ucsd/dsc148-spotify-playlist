@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-404 songs - 20 hr 27 min
+405 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Heads Up](https://open.spotify.com/track/2FTO3XZkp89p0CgbGYzwZf) | [Ori Kul](https://open.spotify.com/artist/5z8cjgepcL6KMXRzOJXVf5) | [Heads Up](https://open.spotify.com/album/0GBz9hb37EU9qvSJirMXm9) | 2:24 | 2022-04-15 | 2023-02-10 |
 | [Healing](https://open.spotify.com/track/6BFgRgJWIuIba0K5IKupnT) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Healing](https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF) | 4:11 | 2022-07-08 | 2023-01-20 |
 | [hello](https://open.spotify.com/track/2TWUe5nUlFPlpAz1wa2xgC) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [hello](https://open.spotify.com/album/5W3f79N5K3AXzCOOlfdoCa) | 2:22 | 2024-09-02 |  |
-| [hi mom](https://open.spotify.com/track/0KaFgsGMbu8dQiUaStQOXF) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [hi mom](https://open.spotify.com/album/0izTf2ZcAZJbHZfhyUVJPM) | 3:13 | 2022-11-25 |  |
+| [hi mom](https://open.spotify.com/track/0KaFgsGMbu8dQiUaStQOXF) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [hi mom](https://open.spotify.com/album/0izTf2ZcAZJbHZfhyUVJPM) | 3:13 | 2022-11-25 | 2025-01-25 |
 | [Home Alone](https://open.spotify.com/track/6roZ651oxAHSdsUaycVC0n) | [Glyfada](https://open.spotify.com/artist/6yILmfnaoG59nbzSSHAhnE) | [Home Alone](https://open.spotify.com/album/4XiocnKrPgSJKDw8NJRXlj) | 2:22 | 2024-01-23 |  |
 | [Hop Notch](https://open.spotify.com/track/6EbSt5wjOSSxTA4FKNdBoc) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [Hop Notch](https://open.spotify.com/album/4fGkYjNUU6vqq4MD9f0kfS) | 3:19 | 2022-04-15 | 2022-05-11 |
 | [Hot Summer](https://open.spotify.com/track/1Huk1qu2Iw8Y220O6aJX0w) | [Kel Lee](https://open.spotify.com/artist/0JcZM0msHdzQ4WiL1OlHiJ) | [Hot Summer](https://open.spotify.com/album/3MK2VO9vdpHMGb7RizZ72l) | 2:28 | 2022-04-15 | 2023-01-20 |
@@ -310,6 +310,7 @@
 | [Revival](https://open.spotify.com/track/4HS5hXkEL1rOdTQ3WG2LiR) | [Julian Tremolino](https://open.spotify.com/artist/5o5JIIWm9kQ1kCknZrw84F) | [Revival](https://open.spotify.com/album/1CyUxm0fFU994FDj32HJHj) | 2:56 | 2022-04-15 | 2024-09-03 |
 | [Rhodos 02 \- Remix](https://open.spotify.com/track/1sgHOElq9SxmhJGo0PK34Y) | [Hankerman](https://open.spotify.com/artist/1GlhYXeeRZBtr3peDzzg0F) | [Rhodos 02 \- Remix](https://open.spotify.com/album/1gCjhYqfKeTixgcN2zQrK7) | 2:46 | 2022-04-15 | 2022-09-02 |
 | [Right Days](https://open.spotify.com/track/33LCCushOR1xZnjwlQqpqp) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Right Days](https://open.spotify.com/album/5ze159FKhoZpJZ3VZy9H3E) | 3:33 | 2022-04-15 | 2022-08-19 |
+| [Right Here](https://open.spotify.com/track/73Rwp7w3uRgJ3JljtIELV4) | [Niriko](https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M) | [Right Here](https://open.spotify.com/album/19mYd7yE8HNuwOYnB54CQ1) | 2:40 | 2025-01-24 |  |
 | [Rise](https://open.spotify.com/track/1qkg7lW4KprxKYNMD1jijN) | [Martin Bloumy](https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h) | [Rise](https://open.spotify.com/album/19FmBtvkHhlajoNqElPpIA) | 2:57 | 2025-01-17 |  |
 | [Riviera Blue](https://open.spotify.com/track/7DiVzbxu9xlNNVEossvvGO) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [Riviera Blue](https://open.spotify.com/album/5xPcqCeZu9xKNJgQI1vriZ) | 2:40 | 2023-11-24 |  |
 | [Rolling Waves](https://open.spotify.com/track/04lYylciCngy12eu6fvRtY) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Rolling Waves](https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID) | 2:53 | 2022-05-10 | 2023-01-07 |

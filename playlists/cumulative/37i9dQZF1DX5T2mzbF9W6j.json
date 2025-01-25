@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 153253,
       "name": "A mo\u017ce",
       "url": "https://open.spotify.com/track/4LN6Yc7911kZjA1BpfKFLo"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 187537,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Co noc",
+        "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Co noc",
+      "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
+    },
+    {
+      "album": {
         "name": "Timeless (Deluxe)",
         "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -700,6 +718,24 @@
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
+    },
+    {
+      "album": {
+        "name": "Dramy",
+        "url": "https://open.spotify.com/album/2V2mFKNecBrdFOrO7Wk9h1"
+      },
+      "artists": [
+        {
+          "name": "Sophie Coal",
+          "url": "https://open.spotify.com/artist/0caffJ4V83KuZaLoO4dpnp"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233454,
+      "name": "Dramy",
+      "url": "https://open.spotify.com/track/5twkYusIohXsRInwxF6sv8"
     },
     {
       "album": {
@@ -888,6 +924,24 @@
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
+    },
+    {
+      "album": {
+        "name": "Feel Anything",
+        "url": "https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162768,
+      "name": "Feel Anything",
+      "url": "https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ"
     },
     {
       "album": {
@@ -1210,7 +1264,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 152349,
       "name": "I Like It (with Nate Smith)",
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
@@ -1326,7 +1380,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
@@ -1352,7 +1406,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 192162,
       "name": "Jab\u0142onie",
       "url": "https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2"
@@ -1370,7 +1424,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 243582,
       "name": "Jenga",
       "url": "https://open.spotify.com/track/4vIK2tyE73DXgvpJzdcMfI"
@@ -1454,7 +1508,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 154687,
       "name": "KONFETTI",
       "url": "https://open.spotify.com/track/4EvCYXjPweKzMgTCRYgmp2"
@@ -1777,6 +1831,28 @@
     },
     {
       "album": {
+        "name": "NA ZAWSZE",
+        "url": "https://open.spotify.com/album/7KWCqttOI3ViyT004P1Nr5"
+      },
+      "artists": [
+        {
+          "name": "Kleks",
+          "url": "https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx"
+        },
+        {
+          "name": "Marta Bijan",
+          "url": "https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "NA ZAWSZE",
+      "url": "https://open.spotify.com/track/6CrpiFbI4s1kINkvYpYgCh"
+    },
+    {
+      "album": {
         "name": "Nad Morze",
         "url": "https://open.spotify.com/album/6vLQyZsVUjc7CGaj14TO4h"
       },
@@ -1896,7 +1972,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 133621,
       "name": "Nie trzeba mi nic",
       "url": "https://open.spotify.com/track/6fFsWZDzd2Hdw48ZYkxLz6"
@@ -2052,7 +2128,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 121397,
       "name": "Oh, Natalie",
       "url": "https://open.spotify.com/track/6TBxVHcy4JOBlEKUzAnxaT"
@@ -2070,7 +2146,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 196594,
       "name": "Ostatni Dzie\u0144",
       "url": "https://open.spotify.com/track/7u6SXBolmVuQIYIzKzdNLb"
@@ -2190,10 +2266,28 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 142596,
       "name": "Personal Torture",
       "url": "https://open.spotify.com/track/1pV1rRJhXFovH0m5UcgDLO"
+    },
+    {
+      "album": {
+        "name": "Pe\u0142en Bak",
+        "url": "https://open.spotify.com/album/6v8iOkZs0ytWRQNTJ2jDeR"
+      },
+      "artists": [
+        {
+          "name": "Verde",
+          "url": "https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Pe\u0142en Bak",
+      "url": "https://open.spotify.com/track/2v9TRUcnhmH7jG51x2jtrj"
     },
     {
       "album": {
@@ -2314,7 +2408,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 159055,
       "name": "Ready For Your Love",
       "url": "https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP"
@@ -2524,7 +2618,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 186069,
       "name": "si\u00f3dme \u2013 nie kradnij",
       "url": "https://open.spotify.com/track/0RIlA05vDlIoEmz6R3Mlpg"
@@ -2712,7 +2806,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 185597,
       "name": "Szybkie tempo",
       "url": "https://open.spotify.com/track/3vUOx5hDgZPOdmdTMzw6M0"
@@ -2954,6 +3048,24 @@
       "duration_ms": 193262,
       "name": "Treadmill",
       "url": "https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA"
+    },
+    {
+      "album": {
+        "name": "Tw\u00f3j g\u0142os (Muzyka z filmu \"Piep*zy\u0107 Mickiewicza 2\")",
+        "url": "https://open.spotify.com/album/13wUT9lqifK3B7zhvvQ6Kf"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141732,
+      "name": "Tw\u00f3j g\u0142os - Muzyka z filmu \"Piep*zy\u0107 Mickiewicza 2\"",
+      "url": "https://open.spotify.com/track/5MDz37AV22b6q8XBAXnryU"
     },
     {
       "album": {
@@ -3257,6 +3369,28 @@
     },
     {
       "album": {
+        "name": "Nie umiem ta\u0144czy\u0107",
+        "url": "https://open.spotify.com/album/2oy1VAURRFI9h5U6Y060mM"
+      },
+      "artists": [
+        {
+          "name": "Mikromusic",
+          "url": "https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5"
+        },
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195893,
+      "name": "Wrony",
+      "url": "https://open.spotify.com/track/1gHxj1TdRassgePaJ1YyY0"
+    },
+    {
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -3326,7 +3460,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 156781,
       "name": "Zwierciad\u0142o",
       "url": "https://open.spotify.com/track/129TCiLRD80ck8JcEu0JmC"

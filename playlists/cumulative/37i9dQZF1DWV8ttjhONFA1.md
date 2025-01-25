@@ -2,9 +2,9 @@
 
 ### [Indie Argentina](https://open.spotify.com/playlist/37i9dQZF1DWV8ttjhONFA1)
 
-> El nuevo sonido argentino lo encontrás acá\. Foto: Marki y Sofia Mora
+> El nuevo sonido argentino lo encontrás acá\. Foto: LUASÓ
 
-331 songs - 18 hr 7 min
+333 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Caballos](https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Arco y Flecha](https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR) | 2:43 | 2024-06-14 |  |
 | [Cabildo y Juramento](https://open.spotify.com/track/0fQbLONJQqFSePMz1I4UNT) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 3:23 | 2024-04-05 |  |
 | [Cada Vez](https://open.spotify.com/track/1UjqPxX0ctIYOX5tlKSKGa) | [Ele Mariani](https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S) | [Cada Vez](https://open.spotify.com/album/5p9ZmyEOHBMRG0d2MsBeB5) | 3:12 | 2024-08-02 | 2024-11-30 |
+| [Calma](https://open.spotify.com/track/4QE94tGcWV3QrWucq3cgu0) | [RENE](https://open.spotify.com/artist/7fd0yw8CBSWW8EhCwiQmtQ) | [Calma](https://open.spotify.com/album/7pGO4s7Fy3oEt9SFXPtvIs) | 3:18 | 2025-01-24 |  |
 | [Calor](https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6) | [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Calor](https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0) | 3:44 | 2023-12-15 | 2024-01-27 |
 | [Caminar en Cristal](https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Caminar en Cristal](https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S) | 2:24 | 2024-06-07 | 2024-09-14 |
 | [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 | 2024-03-01 | 2024-04-06 |
@@ -115,7 +116,7 @@
 | [EL APAGÓN](https://open.spotify.com/track/1xLIUx6fhZxWllAnu6vYM1) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [EL APAGÓN](https://open.spotify.com/album/5btAcC6nuoUTeBlkpLDFhn) | 3:48 | 2024-04-26 | 2024-08-03 |
 | [El Cielo](https://open.spotify.com/track/2byqdQCSM7RLq7J97BpD8B) | [Los Besos](https://open.spotify.com/artist/7nbOE0RhCrS1GrDEaVUVee) | [El Cielo](https://open.spotify.com/album/4ItQlfDHnru0cP5zlfqtEn) | 4:19 | 2023-12-15 | 2024-07-19 |
 | [El Dato \- Vivo La Plata](https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Vivo La Plata](https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA) | 3:36 | 2024-10-11 | 2024-11-30 |
-| [El Desastre](https://open.spotify.com/track/720C5RPAKsNi5GqKlwOYcL) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Del otro lado](https://open.spotify.com/album/34o49o7XS7KTEVc379Zz1y) | 3:03 | 2024-10-25 |  |
+| [El Desastre](https://open.spotify.com/track/720C5RPAKsNi5GqKlwOYcL) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Del otro lado](https://open.spotify.com/album/34o49o7XS7KTEVc379Zz1y) | 3:03 | 2024-10-25 | 2025-01-25 |
 | [El fin](https://open.spotify.com/track/7uS5cwaPY5QqIf5U21oOew) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [El fin](https://open.spotify.com/album/7fh5YlpCehNSXuEaSs1pMG) | 3:03 | 2023-12-15 | 2024-04-06 |
 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2023-12-15 | 2024-03-23 |
 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 | 2023-12-15 | 2024-04-06 |
@@ -182,7 +183,7 @@
 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 | 2024-03-29 | 2024-05-03 |
 | [Leopardos](https://open.spotify.com/track/6YEe62bQirKl9Wcg93j7RJ) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Leopardos](https://open.spotify.com/album/67sfwNS6PquCyhLNVgHykg) | 3:18 | 2024-01-12 |  |
 | [Libros y Gente](https://open.spotify.com/track/0NVvNt05tdDca2BO80gHMy) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Libros y Gente](https://open.spotify.com/album/2KGr8C1Z3DiMAZdiiKPfSh) | 3:35 | 2024-10-11 |  |
-| [LO QUE DIGA HOY](https://open.spotify.com/track/7FkFhyOgUqQPt6wlv07zt0) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [ZONA CERO](https://open.spotify.com/album/6jVb93RDOvcxcov098RAfE) | 4:45 | 2024-11-08 |  |
+| [LO QUE DIGA HOY](https://open.spotify.com/track/7FkFhyOgUqQPt6wlv07zt0) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [ZONA CERO](https://open.spotify.com/album/6jVb93RDOvcxcov098RAfE) | 4:45 | 2024-11-08 | 2025-01-25 |
 | [Lo que nos queda](https://open.spotify.com/track/0J7wanexG2VHYWzLpTGkz3) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc), [martin allende](https://open.spotify.com/artist/2jKATrLpgygKpgHv4nAweQ) | [Lo que nos queda](https://open.spotify.com/album/7yWm9dEsqhR6CJ7j5TAVbV) | 3:46 | 2024-12-06 | 2025-01-11 |
 | [lo único que quería este verano](https://open.spotify.com/track/7AcWGIqtd7MDMe6f1eSi79) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [lo único que quería este verano](https://open.spotify.com/album/4Oh1JcGS5Ws13ZXVGxtXO4) | 3:24 | 2024-03-15 | 2024-10-12 |
 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 | 2024-04-05 | 2024-09-07 |
@@ -227,6 +228,7 @@
 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-16 | 2024-09-14 |
 | [No Me Quiero Ir Lejos](https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee) | [No Me Quiero Ir Lejos](https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy) | 3:24 | 2024-03-01 | 2024-04-06 |
 | [No Necesito](https://open.spotify.com/track/1Eb2UZizkuq7pLsRr0bDk9) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [No Necesito](https://open.spotify.com/album/50EqGBQOkwChY0J6ehpNGW) | 3:30 | 2024-06-07 | 2024-07-19 |
+| [No Queda Nada](https://open.spotify.com/track/08IaZh6hNzDvxevR9d0Pa9) | [LUASÓ](https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7) | [No Queda Nada](https://open.spotify.com/album/3u5y0f4jmVEMRfYQwhVhYf) | 3:47 | 2025-01-24 |  |
 | [NO TE ALEJES](https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:30 | 2023-12-15 | 2024-04-19 |
 | [NO TE ALEJES](https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ) | 3:30 | 2024-04-12 | 2024-06-08 |
 | [No Te Olvidaras De Mi](https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [No Te Olvidarás de Mí](https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr) | 2:40 | 2024-11-08 |  |

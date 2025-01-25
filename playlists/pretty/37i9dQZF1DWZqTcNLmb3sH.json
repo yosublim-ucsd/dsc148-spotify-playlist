@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62496,
+  "num_followers": 62503,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5IOGAAAAACOyUSa8ori4nUFjLnEIty7",
+  "snapshot_id": "Z5NktgAAAABGRfk5hme69AuVr/AcmE5Z",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -79,6 +79,34 @@
       "duration_ms": 243271,
       "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
+    },
+    {
+      "added_at": "2025-01-24 10:00:22",
+      "album": {
+        "name": "Andakalttille (From \"Avanirabekittu\")",
+        "url": "https://open.spotify.com/album/3ljgjhgytgSKBHujNy87mD"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Arfaz Ullal",
+          "url": "https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq"
+        },
+        {
+          "name": "Loki Tavasya",
+          "url": "https://open.spotify.com/artist/5NAV2Nwh1sHl7ce2SiwHUR"
+        },
+        {
+          "name": "Ashok Samrat",
+          "url": "https://open.spotify.com/artist/1NMEgtPqXUgRG76dl691Hh"
+        }
+      ],
+      "duration_ms": 246608,
+      "name": "Andakalttille (From \"Avanirabekittu\")",
+      "url": "https://open.spotify.com/track/1gf6r5Xesd8HPLZ1WVfuZb"
     },
     {
       "added_at": "2025-01-23 09:38:32",
@@ -1691,26 +1719,6 @@
       "duration_ms": 301439,
       "name": "Maaya Jinke",
       "url": "https://open.spotify.com/track/04tijw4Lw9C1MynKmSPH6R"
-    },
-    {
-      "added_at": "2024-11-26 15:46:48",
-      "album": {
-        "name": "Amaran (Kannada)",
-        "url": "https://open.spotify.com/album/4dGeBs5BWlkbjsv43eiSoY"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Akhil Dev",
-          "url": "https://open.spotify.com/artist/23Nszr9DnsdJ1Meh1suQxl"
-        }
-      ],
-      "duration_ms": 286265,
-      "name": "Maleye Maleye",
-      "url": "https://open.spotify.com/track/0yzLKBVJpq8IcSArOrA1Fz"
     },
     {
       "added_at": "2024-11-21 13:10:07",

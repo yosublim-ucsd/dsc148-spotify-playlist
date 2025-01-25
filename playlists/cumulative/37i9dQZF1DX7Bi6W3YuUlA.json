@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Inspirational hip hop. Cover:  DMX",
+  "description": "Inspirational hip hop. Cover:  Dee-1",
   "name": "High Lights",
   "tracks": [
     {
@@ -8398,7 +8398,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 156645,
       "name": "Survivor\u2019s Remorse",
       "url": "https://open.spotify.com/track/4PR5VsJOO1GVLqVd92MB02"
@@ -8740,6 +8740,32 @@
       "duration_ms": 201578,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas"
+    },
+    {
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/4S0QVgdgtTbl63O18ydUiP"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+        },
+        {
+          "name": "Mannie Fresh",
+          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "The Very Best",
+      "url": "https://open.spotify.com/track/2M1KyNwYomukvS9luSdhWw"
     },
     {
       "album": {

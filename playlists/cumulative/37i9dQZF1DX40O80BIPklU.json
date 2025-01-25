@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "250K",
+        "url": "https://open.spotify.com/album/0GdG720oULvg1em53FZi9f"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179541,
+      "name": "250K",
+      "url": "https://open.spotify.com/track/3N9oVmLefspH8zUVMLnEFd"
+    },
+    {
+      "album": {
         "name": "166",
         "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
       },
@@ -1922,6 +1940,32 @@
       "duration_ms": 192000,
       "name": "Chambean",
       "url": "https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz"
+    },
+    {
+      "album": {
+        "name": "Chilling & High",
+        "url": "https://open.spotify.com/album/69jZ24MP8tHqDeDGi0KKGR"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        },
+        {
+          "name": "Lowqua",
+          "url": "https://open.spotify.com/artist/2yR9132htniL5Kgs0Opqzl"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161370,
+      "name": "Chilling & High",
+      "url": "https://open.spotify.com/track/5bVRrYnBhNbpgcx9RomnAV"
     },
     {
       "album": {
@@ -6485,6 +6529,28 @@
     },
     {
       "album": {
+        "name": "Monstruo Sagrado",
+        "url": "https://open.spotify.com/album/1RKIlvS825wRtLMm2NYUNg"
+      },
+      "artists": [
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        },
+        {
+          "name": "Phul King Fu",
+          "url": "https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152021,
+      "name": "Monstruo Sagrado",
+      "url": "https://open.spotify.com/track/3UCfyTA2zTL9pfGMDL97hP"
+    },
+    {
+      "album": {
         "name": "Monumental",
         "url": "https://open.spotify.com/album/1fkoPsQUgGHOqwNamgSzNL"
       },
@@ -7712,7 +7778,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 306352,
       "name": "Problemas",
       "url": "https://open.spotify.com/track/0iYuu90RJ5U5HkaunW1bC2"
@@ -8296,6 +8362,28 @@
       "duration_ms": 194507,
       "name": "Rosario / \u201cQue Bueno Es Tenerte\u201d",
       "url": "https://open.spotify.com/track/1Gqbvr9teof5F8vj7aBft4"
+    },
+    {
+      "album": {
+        "name": "RUNTZ",
+        "url": "https://open.spotify.com/album/0ooFpJWD2CNeuAWntb3fEO"
+      },
+      "artists": [
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Clpbtz",
+          "url": "https://open.spotify.com/artist/76HlTeMZ0C1OGoUGVF4ZwT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155888,
+      "name": "RUNTZ",
+      "url": "https://open.spotify.com/track/39K9lxrLW19pIBhKHSnm0F"
     },
     {
       "album": {
@@ -9140,7 +9228,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 219992,
       "name": "Tata",
       "url": "https://open.spotify.com/track/0Qcpbv4g9H3OT2glujvsLP"
@@ -9888,7 +9976,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 275960,
       "name": "Un D\u00eda Est\u00e1s Aqu\u00ed",
       "url": "https://open.spotify.com/track/2Clw9WqL0pxtQkvoxKa3ua"
@@ -10082,7 +10170,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 185973,
       "name": "Verano",
       "url": "https://open.spotify.com/track/5Jkv87bzjnfvY5cIQk6s0H"

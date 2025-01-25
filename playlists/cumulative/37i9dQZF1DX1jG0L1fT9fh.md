@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1jG0L1fT9fh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1jG0L1fT9fh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1jG0L1fT9fh)
 
-### [KENGAN ASHURA \-ケンガンアシュラ \-](https://open.spotify.com/playlist/37i9dQZF1DX1jG0L1fT9fh)
+### [KENGAN ASHURA](https://open.spotify.com/playlist/37i9dQZF1DX1jG0L1fT9fh)
 
-> Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
+> Enjoy music from "KENGAN ASHURA"!
 
 88 songs - 5 hr 26 min
 

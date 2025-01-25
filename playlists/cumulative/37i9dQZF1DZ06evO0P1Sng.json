@@ -837,6 +837,28 @@
     },
     {
       "album": {
+        "name": "Hipnotiza",
+        "url": "https://open.spotify.com/album/3KZ2vF4yiS47f2lglqimsH"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Hipnotiza",
+      "url": "https://open.spotify.com/track/2uEYMeOQFrRqugiXB6zaCU"
+    },
+    {
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },

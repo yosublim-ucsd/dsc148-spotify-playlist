@@ -46073,6 +46073,24 @@
     },
     {
       "album": {
+        "name": "Tell You Somethin'",
+        "url": "https://open.spotify.com/album/5kg0062RTAfuULsektLcOj"
+      },
+      "artists": [
+        {
+          "name": "Christopher Normann",
+          "url": "https://open.spotify.com/artist/71Ba2c5KQ692t9amjwR2FK"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163160,
+      "name": "Tell You Somethin'",
+      "url": "https://open.spotify.com/track/48C0ivZhtG5kLMVAgkQKja"
+    },
+    {
+      "album": {
         "name": "TEMPLE OF THE DRAGON",
         "url": "https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW"
       },
@@ -53788,6 +53806,24 @@
       "duration_ms": 281178,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/5NDyOh0RpCpUuVA1IQTReh"
+    },
+    {
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA"
+      },
+      "artists": [
+        {
+          "name": "Nico Play",
+          "url": "https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176212,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
     },
     {
       "album": {

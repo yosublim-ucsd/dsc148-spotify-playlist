@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXXaIQy2nTx.md) - [plain](/playlists/plain/37i9dQZF1DXbXXaIQy2nTx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbXXaIQy2nTx)
 
-### [SAMURAI CHAMPLOO サムライチャンプルー](https://open.spotify.com/playlist/37i9dQZF1DXbXXaIQy2nTx)
+### [SAMURAI CHAMPLOO](https://open.spotify.com/playlist/37i9dQZF1DXbXXaIQy2nTx)
 
-> Music from "SAMURAI CHAMPLOO" /「サムライチャンプルー」の楽曲を1つのプレイリストで。©︎manglobe／下井草チャンプルーズ
+> Music from "SAMURAI CHAMPLOO" ©︎manglobe／下井草チャンプルーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,091 likes - 78 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,178 likes - 78 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXXaIQy2nTx.md) - [plain]
 | 77 | [the updater](https://open.spotify.com/track/2hwZSpy60J9QzO7OVJXVRX) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record playlist](https://open.spotify.com/album/69CfIMNkw5i2BP3D0n6tOa) | 3:57 |
 | 78 | [offers](https://open.spotify.com/track/23r4j72HEmigROqIEGZfdD) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [samurai champloo music record playlist](https://open.spotify.com/album/69CfIMNkw5i2BP3D0n6tOa) | 3:35 |
 
-Snapshot ID: `ZsNB0AAAAABo0jBn0RdzUWSRhJjim9FF`
+Snapshot ID: `Z5PBIAAAAAAIV4yHNvB5QLXSF96XOO1D`

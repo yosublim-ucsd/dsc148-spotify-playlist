@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-433 songs - 23 hr 49 min
+434 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Love You Appa](https://open.spotify.com/track/5mr3rb3qVTLtJNPjizsqNI) | [Manu Sangolli](https://open.spotify.com/artist/12ZR4TMf5V2fOVymcCUeJY), [Deepu Gowda S](https://open.spotify.com/artist/3w7IOfIkKmpVMpL5XYJvKX), [Yashwanth Bhupathi](https://open.spotify.com/artist/2pO1ahdhpA7V2l0JItxTFp) | [Love You Appa](https://open.spotify.com/album/0FZd4X3RtrndvGTKd8JQ0H) | 3:27 | 2024-11-08 |  |
 | [Madanaari](https://open.spotify.com/track/4xzx4jWCxPwXQNyVcQz3Sq) | [Chethan Shrinivas](https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem), [Kiran Manjunath](https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz) | [Madanaari](https://open.spotify.com/album/6r93mUXmJovD9aAJODJHCF) | 4:07 | 2024-06-21 | 2024-12-20 |
 | [MADE IN KARNATAKA](https://open.spotify.com/track/02Zr33EJNBLMJOUgLxWBwb) | [YASHICA RAJ](https://open.spotify.com/artist/0mlHmQy2Zursbiill6EeXd), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [MADE IN KARNATAKA](https://open.spotify.com/album/19gnp7j1D1BKrNMXzfNw91) | 1:36 | 2024-01-31 | 2024-06-11 |
+| [Madhura Saagara](https://open.spotify.com/track/0M2sipZTcTQTfhj6TthgnU) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Madhura Saagara](https://open.spotify.com/album/3I6gZPaX8wKukvRffrE4iB) | 3:06 | 2025-01-24 |  |
 | [Madhya Raatri](https://open.spotify.com/track/3vyaUrfqe16FA0njHxK8fE) | [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx), [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Madhya Raatri](https://open.spotify.com/album/5CsVCGI8MUuW7xSjG4rTDg) | 3:15 | 2022-09-05 | 2023-06-13 |
 | [Maha Ganapathim](https://open.spotify.com/track/0DY2HqSTGGBtTFKfsshNYd) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Maha Ganapathim](https://open.spotify.com/album/4CHgztUDbbXxRZSTohaQvQ) | 4:09 | 2023-01-18 | 2023-08-25 |
 | [Maleya Hani](https://open.spotify.com/track/4thlFzlnGYPkBq02BYTL2P) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Maleya Hani](https://open.spotify.com/album/6nAYaR0bpIaYFOmUC0qjKk) | 2:45 | 2024-05-13 | 2024-10-08 |
@@ -432,7 +433,7 @@
 | [We Love You Appu](https://open.spotify.com/track/4rN0TpRauE4g3cGsGmzrtm) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq) | [We Love You Appu \- Single](https://open.spotify.com/album/2ixJIpff1eIVyy1yvqRF7L) | 3:23 | 2023-03-15 | 2023-11-30 |
 | [Yaake](https://open.spotify.com/track/4ZmkKdM0gDNRINsYbQqOg6) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Yaake](https://open.spotify.com/album/0iN9Bt8QcPfz0OiUm9AE2f) | 2:43 | 2023-05-25 | 2023-06-08 |
 | [Yaake Ni Heege?](https://open.spotify.com/track/4OeTmbpN23HcBQUxk8CBAX) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Yaake Ni Heege?](https://open.spotify.com/album/55RCaTpiNeCcpcGk6CwQRG) | 2:59 | 2022-10-25 | 2024-02-01 |
-| [Yaare Nee](https://open.spotify.com/track/4yyKf2B5mx9OyH5mn3dUIu) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yaare Nee](https://open.spotify.com/album/6ETtB3AjBpZ2T4MPbhurj8) | 3:03 | 2024-06-28 |  |
+| [Yaare Nee](https://open.spotify.com/track/4yyKf2B5mx9OyH5mn3dUIu) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yaare Nee](https://open.spotify.com/album/6ETtB3AjBpZ2T4MPbhurj8) | 3:03 | 2024-06-28 | 2025-01-25 |
 | [Yaaro Neenyaaro](https://open.spotify.com/track/3lXpkJdsMcNUEDMNZdT4By) | [Keerthana Chandru](https://open.spotify.com/artist/4cSbty2ketEhsSrDHO4Txr), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [Yaaro Neenyaaro](https://open.spotify.com/album/7esoBgXho81ZK9U6OMnvxP) | 5:07 | 2024-09-18 |  |
 | [Yako Summane](https://open.spotify.com/track/4x7hQ6ipLFDJvP1INn9JUx) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/1szU4FhUx9R0noVqGn2tQF) | 3:31 | 2023-05-02 | 2024-02-09 |
 | [Yako Summane](https://open.spotify.com/track/6wXLAGmcocKOh846HxQMEW) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Yako Summane](https://open.spotify.com/album/7cdGMetF7ex4TgwDFvKv5g) | 3:31 | 2023-05-02 | 2024-01-03 |

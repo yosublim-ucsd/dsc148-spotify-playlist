@@ -8969,6 +8969,24 @@
     },
     {
       "album": {
+        "name": "Miss a Thing",
+        "url": "https://open.spotify.com/album/46fffKThWU6zXKL3x9qQCF"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/74JoJh1W94YJfQmnxyQE36"
+    },
+    {
+      "album": {
         "name": "Miss California (DeejaVu Remix)",
         "url": "https://open.spotify.com/album/2sFp6y92TdXxw1bxwRuu7e"
       },
@@ -10514,6 +10532,28 @@
       "duration_ms": 159203,
       "name": "Prayer In C",
       "url": "https://open.spotify.com/track/3y9GDhOJ8GUFIa3DOqLAPZ"
+    },
+    {
+      "album": {
+        "name": "Promise (Fireflies)",
+        "url": "https://open.spotify.com/album/2SZBOiG8lIgPieOaffifpK"
+      },
+      "artists": [
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        },
+        {
+          "name": "Isa Luna",
+          "url": "https://open.spotify.com/artist/2kn3hZieiEfLsU1vpdaMX4"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143773,
+      "name": "Promise (Fireflies)",
+      "url": "https://open.spotify.com/track/446Oco5OqT0DiTPz9MLt83"
     },
     {
       "album": {
@@ -12596,6 +12636,28 @@
       "duration_ms": 157000,
       "name": "Summer Dreams",
       "url": "https://open.spotify.com/track/5VF5Z29RricPLDtUugnbOr"
+    },
+    {
+      "album": {
+        "name": "Summer For The Healing",
+        "url": "https://open.spotify.com/album/7d33haH7lyX8qztbG6wEY8"
+      },
+      "artists": [
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Summer For The Healing",
+      "url": "https://open.spotify.com/track/2VX99GNxqBFQSWfCxDvoGD"
     },
     {
       "album": {

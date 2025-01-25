@@ -1,13 +1,61 @@
 {
   "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa?si=QmnRf0g8Rj-aI86JHvO89g\">Stephen Willo</a>",
-  "num_followers": 12378,
+  "num_followers": 12380,
   "original_name": "Indie GO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4oA1gAAAABItVRpL2L6NdxC/XOOgKFs",
+  "snapshot_id": "Z5M1jQAAAAD6BjVb/oiKhV3nXe5hV4be",
   "tracks": [
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "look what you're doing to me",
+        "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "look what you're doing to me",
+      "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "Sunrise on the River",
+        "url": "https://open.spotify.com/album/51994iHGJIquxFw7z1fveh"
+      },
+      "artists": [
+        {
+          "name": "Kayla The Crow",
+          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Sunrise on the River",
+      "url": "https://open.spotify.com/track/7oCGTx3dpnXb7neSD4lKeA"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1nTunof0h6rRsRb7S0fxcZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "duration_ms": 226478,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1DJxgr5EBDty2LY1HP089Z"
+    },
     {
       "added_at": "2025-01-16 22:00:25",
       "album": {
@@ -23,6 +71,150 @@
       "duration_ms": 187376,
       "name": "First Love",
       "url": "https://open.spotify.com/track/5qG1bS0QJMdBQ7ZWS7ARCx"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/4yTddo2XsZacF6j9gyBPTS"
+      },
+      "artists": [
+        {
+          "name": "We Are All Fossils",
+          "url": "https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw"
+        }
+      ],
+      "duration_ms": 196209,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6gQodFKbDOA04EDEsHjMzY"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "Hey Girl",
+        "url": "https://open.spotify.com/album/1sqkjBBA4hm4VBA5QGVEo6"
+      },
+      "artists": [
+        {
+          "name": "Wynand Fourie",
+          "url": "https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/5S55dI6jG6noOUcU1ZIS1E"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "One More Trip Around The Sun",
+        "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "One More Trip Around The Sun",
+      "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "Torrential",
+        "url": "https://open.spotify.com/album/1laoB6Ha6YDaBVdg3gk8kD"
+      },
+      "artists": [
+        {
+          "name": "Cara Knox",
+          "url": "https://open.spotify.com/artist/6LcWpV7gWFKYXfwyAWV8MR"
+        }
+      ],
+      "duration_ms": 196899,
+      "name": "Torrential",
+      "url": "https://open.spotify.com/track/4hFGBfQoyjk1FhvZ8HZqlJ"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "Oh No I'm in Love",
+        "url": "https://open.spotify.com/album/1zgKL2sH0z2GM92EIAjgpg"
+      },
+      "artists": [
+        {
+          "name": "Leon\u00e9 Murphy",
+          "url": "https://open.spotify.com/artist/0ScxP19sE2M47pvrhLy3fU"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Oh No I'm in Love",
+      "url": "https://open.spotify.com/track/3V64DXodINEWxCUylLhlK5"
+    },
+    {
+      "added_at": "2025-01-24 06:39:09",
+      "album": {
+        "name": "u know about it",
+        "url": "https://open.spotify.com/album/7MEbiJq82JKpOfs78gr4yr"
+      },
+      "artists": [
+        {
+          "name": "Taking Back March",
+          "url": "https://open.spotify.com/artist/4DXdfwRdIQSELsgnKI8qzq"
+        }
+      ],
+      "duration_ms": 208301,
+      "name": "u know about it",
+      "url": "https://open.spotify.com/track/0oF06SeT3eG44fqHQGLyLT"
     },
     {
       "added_at": "2025-01-16 22:00:25",
@@ -1435,214 +1627,6 @@
       "duration_ms": 185624,
       "name": "i love you don't worry xx",
       "url": "https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "Jour 1596",
-        "url": "https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn"
-      },
-      "artists": [
-        {
-          "name": "Hildegard",
-          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
-        }
-      ],
-      "duration_ms": 190282,
-      "name": "Pour Your Heart Out",
-      "url": "https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "Loveblood",
-        "url": "https://open.spotify.com/album/26bQs0BRvymbLHvVl8VoG2"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        },
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 229174,
-      "name": "Loveblood",
-      "url": "https://open.spotify.com/track/3PQlR66Jx5nWw28jD7bbZJ"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "I Wanna Dive in the Seven Seas",
-        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
-      },
-      "artists": [
-        {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        }
-      ],
-      "duration_ms": 164523,
-      "name": "I Wanna Dive in the Seven Seas",
-      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "words from a wishing well",
-        "url": "https://open.spotify.com/album/369tShTNrYrCMkXRepABx9"
-      },
-      "artists": [
-        {
-          "name": "shower curtain",
-          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "bedbugs",
-      "url": "https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "Heavyweight Champion",
-        "url": "https://open.spotify.com/album/4lwGU1857xh1ukKDey2zJl"
-      },
-      "artists": [
-        {
-          "name": "Donkey Kid",
-          "url": "https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4"
-        }
-      ],
-      "duration_ms": 143407,
-      "name": "Keep On Calling",
-      "url": "https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "Idolise",
-        "url": "https://open.spotify.com/album/44vGAFKdCTGM68Sx84FMml"
-      },
-      "artists": [
-        {
-          "name": "Emma Hearne",
-          "url": "https://open.spotify.com/artist/0haG9bnYlkguLdKQkcxECf"
-        }
-      ],
-      "duration_ms": 292436,
-      "name": "Idolise",
-      "url": "https://open.spotify.com/track/5fa2yadkc9n1j6YNaf0mI2"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "the way that i am",
-        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 177149,
-      "name": "the way that i am",
-      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "Who Said",
-        "url": "https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 187348,
-      "name": "Who Said",
-      "url": "https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "Not Crazy",
-        "url": "https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I"
-      },
-      "artists": [
-        {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "Not Crazy",
-      "url": "https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "Break Me Down",
-        "url": "https://open.spotify.com/album/5GxzwB5MNabNYCjgFX8ml0"
-      },
-      "artists": [
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/1TZTHHoSj7OcBIn23pV0SJ"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/3wbVUd1XQVEBnwoDyqgV2l"
-      },
-      "artists": [
-        {
-          "name": "Aircraft",
-          "url": "https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0"
-        }
-      ],
-      "duration_ms": 309802,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/0lgw3WqZTvPxF0SD6qLy2Y"
-    },
-    {
-      "added_at": "2025-01-16 22:00:25",
-      "album": {
-        "name": "29m2",
-        "url": "https://open.spotify.com/album/582Fnz7HfLw73TITPkm5WQ"
-      },
-      "artists": [
-        {
-          "name": "Nic van Graan",
-          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
-        }
-      ],
-      "duration_ms": 186486,
-      "name": "29m2",
-      "url": "https://open.spotify.com/track/1C7APhs9wHwq6DpURYsct9"
     }
   ],
   "unique_name": "Indie GO",

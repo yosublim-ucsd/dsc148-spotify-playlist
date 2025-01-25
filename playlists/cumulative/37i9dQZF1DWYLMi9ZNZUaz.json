@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI",
+  "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: tlinh",
   "name": "Hip-hop Vi\u1ec7t",
   "tracks": [
     {
@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 156000,
       "name": "Ch\u00ecm S\u00e2u",
       "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
@@ -1463,6 +1463,28 @@
     },
     {
       "album": {
+        "name": "C\u1ee9u L\u1ea5y \u00c2m Nh\u1ea1c",
+        "url": "https://open.spotify.com/album/3starTMIbNsFpGCLQtGESr"
+      },
+      "artists": [
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        },
+        {
+          "name": "itsnk",
+          "url": "https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183479,
+      "name": "C\u1ee9u L\u1ea5y \u00c2m Nh\u1ea1c",
+      "url": "https://open.spotify.com/track/229P16G6GFOCDUNiUNusc4"
+    },
+    {
+      "album": {
         "name": "DATLE",
         "url": "https://open.spotify.com/album/58wjwUv3ixhbN3uAMITvPc"
       },
@@ -1736,7 +1758,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 258023,
       "name": "Ex's Hate Me",
       "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
@@ -3496,6 +3518,28 @@
       "duration_ms": 252428,
       "name": "NG\u00c1O NG\u01a0 (feat. HIEUTHUHAI, ERIK, Anh T\u00fa Atus, JSOL & Orange)",
       "url": "https://open.spotify.com/track/64PCybDxes3edHijrcsPV4"
+    },
+    {
+      "album": {
+        "name": "FLVR",
+        "url": "https://open.spotify.com/album/71L9y03HASgkNoYodycslE"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158905,
+      "name": "NG\u00c2N",
+      "url": "https://open.spotify.com/track/1TcmqSx576eBcuTxTtcEAk"
     },
     {
       "album": {

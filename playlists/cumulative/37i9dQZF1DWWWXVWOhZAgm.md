@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWWXVWOhZAgm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWWXVWOhZAgm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWWXVWOhZAgm)
 
-### [Violet Evergarden \-ヴァイオレット・エヴァーガーデン\-](https://open.spotify.com/playlist/37i9dQZF1DWWWXVWOhZAgm)
+### [Violet Evergarden](https://open.spotify.com/playlist/37i9dQZF1DWWWXVWOhZAgm)
 
-> Music From "Violet Evergarden"! 音楽で辿る「ヴァイオレット・エヴァーガーデン」の世界! ©暁佳奈・京都アニメーション／ヴァイオレット・エヴァーガーデン製作委員会
+> Music From "Violet Evergarden"!  ©暁佳奈・京都アニメーション／ヴァイオレット・エヴァーガーデン製作委員会
 
 70 songs - 3 hr 40 min
 

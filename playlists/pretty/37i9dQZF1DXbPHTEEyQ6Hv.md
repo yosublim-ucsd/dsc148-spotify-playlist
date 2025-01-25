@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,930 likes - 174 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,843 likes - 174 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 28 | [Angels we have heard on high](https://open.spotify.com/track/0aKcKvWqSyONTfnYFHpEEP) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [The light of Christmas](https://open.spotify.com/album/40v781mjX1k3sU5mAEw5q7) | 2:56 |
 | 29 | [Hark The Herald](https://open.spotify.com/track/5hfn8q9HJZNHXMBaEWhxit) | [Rocky Road Heaven](https://open.spotify.com/artist/5Sl6AeIxVJBWaJp4kWYeQ9) | [Hark The Herald](https://open.spotify.com/album/3B4TAUrtHxcuFVyj6kmha2) | 2:33 |
 | 30 | [Wonderful Christmastime](https://open.spotify.com/track/5UV3QXxlUbm9UQgGllDneU) | [Gus Ayers](https://open.spotify.com/artist/3Ap9S9cThcOOH0vlzOV8ov) | [Wonderful Christmastime](https://open.spotify.com/album/2Rf17n8BdW5CVUa4xQkS88) | 2:14 |
-| 31 | [Santa Claus is Coming to Town \(Arr\. Piano\)](https://open.spotify.com/track/1YTPIe5uGTuflzfM3E1maJ) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Santa Claus is Coming to Town \(Arr\. Piano\)](https://open.spotify.com/album/4M9fOuTczjV1FChMwVRuNx) | 2:18 |
+| 31 | [Santa Claus is Coming to Town \(Arr\. Piano\)](https://open.spotify.com/track/1YTPIe5uGTuflzfM3E1maJ) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Santa Claus is Coming to Town \(Arr\. Piano\)](https://open.spotify.com/album/4M9fOuTczjV1FChMwVRuNx) | 2:18 |
 | 32 | [Deck The Halls](https://open.spotify.com/track/1Wh7xh62V00NwPugwqdy64) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [Deck The Halls](https://open.spotify.com/album/1b4CPJfcGYkFOf7XzTOK1z) | 2:10 |
 | 33 | [Away in a Manger](https://open.spotify.com/track/0GfX4NbiEv4aWTIlYfmSwU) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [Away in a Manger](https://open.spotify.com/album/1XhPeNwIBg1IucJhoTERaP) | 2:19 |
 | 34 | [O Come, All Ye Faithful](https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:11 |

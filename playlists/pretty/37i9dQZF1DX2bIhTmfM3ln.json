@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 41390,
+  "num_followers": 41409,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
         "name": "Tears Of A Mad Man",
         "url": "https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 178775,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
+      "duration_ms": 155695,
+      "name": "Lagos Love Story",
+      "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1215,22 +1231,6 @@
       "duration_ms": 149454,
       "name": "Wayo",
       "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 155695,
-      "name": "Lagos Love Story",
-      "url": "https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Days Pass By",
-        "url": "https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ"
       },
       "artists": [
         {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 146666,
-      "name": "Days Pass By",
-      "url": "https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn"
+      "duration_ms": 178144,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ"
+        "name": "Days Pass By",
+        "url": "https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP"
       },
       "artists": [
         {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 178144,
-      "name": "Soul",
-      "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
+      "duration_ms": 146666,
+      "name": "Days Pass By",
+      "url": "https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1467,22 +1467,38 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/63Ige7U9L2jtGSOkstekfj"
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6"
       },
       "artists": [
         {
           "name": "Joshua Baraka",
           "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
+        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         },
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
       "duration_ms": 180000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/77vjnIc75JPGhsrVujcgfA"
+      "name": "Sara Jay",
+      "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1535,26 +1551,6 @@
       "duration_ms": 150857,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5u6yrgzMJRdM33dwdF6jNb"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
-        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sara Jay",
-      "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
     }
   ],
   "unique_name": "Lovin' Beats",

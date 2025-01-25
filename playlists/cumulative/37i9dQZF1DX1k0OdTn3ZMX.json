@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "A Line in the Dust",
+        "url": "https://open.spotify.com/album/0QeSlVSiJRan9ocKl2tQWv"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Mat Welsh",
+          "url": "https://open.spotify.com/artist/41qbLh8IPItyHRIHAQafft"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235443,
+      "name": "A Line in the Dust",
+      "url": "https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P"
+    },
+    {
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/0BX61gwMlOKkAzSxrdtwye"
       },
@@ -636,7 +662,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 185253,
       "name": "CRITICAL HIT",
       "url": "https://open.spotify.com/track/3MEcXeZVj8Io90EExEWgjX"
@@ -1336,7 +1362,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 197600,
       "name": "Fuck What You Heard",
       "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
@@ -2181,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Merciless",
+        "url": "https://open.spotify.com/album/4BMssodRLk2w2YFGGxxGmv"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "Merciless",
+      "url": "https://open.spotify.com/track/3JVa8Bai4qTtm6vkip0IFW"
+    },
+    {
+      "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE"
       },
@@ -2228,7 +2272,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 183423,
       "name": "MOTION",
       "url": "https://open.spotify.com/track/4zYeji5OBFpZexwyaCqNk3"
@@ -2394,6 +2438,32 @@
       "duration_ms": 268141,
       "name": "Nu Delhi",
       "url": "https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a"
+    },
+    {
+      "album": {
+        "name": "OBLIVION",
+        "url": "https://open.spotify.com/album/1m2VtP942tkAi3Po9htEwS"
+      },
+      "artists": [
+        {
+          "name": "Halo Boy",
+          "url": "https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj"
+        },
+        {
+          "name": "Kamiyada+",
+          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+        },
+        {
+          "name": "A.Vi",
+          "url": "https://open.spotify.com/artist/1Ucr7N9QlDIcc4mIaaL3nk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214918,
+      "name": "OBLIVION",
+      "url": "https://open.spotify.com/track/7nphBQdCsszPPqjR68CBn2"
     },
     {
       "album": {
@@ -2942,7 +3012,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 242666,
       "name": "Remains of Us",
       "url": "https://open.spotify.com/track/6PY6sVyljtBGLd5lXHKeXA"
@@ -3000,6 +3070,24 @@
       "duration_ms": 212413,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
+    },
+    {
+      "album": {
+        "name": "Saccharine",
+        "url": "https://open.spotify.com/album/4JKSFwpmyXKYnSdplEcKXz"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192347,
+      "name": "Saccharine",
+      "url": "https://open.spotify.com/track/1NiPI7ATyw4ZwI2b858XrT"
     },
     {
       "album": {
@@ -3986,7 +4074,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 173265,
       "name": "VANDALISM",
       "url": "https://open.spotify.com/track/6uZ8FTXfW15gerPPmaRZ9J"
@@ -4214,6 +4302,24 @@
       "duration_ms": 174919,
       "name": "WILDLIFE",
       "url": "https://open.spotify.com/track/3RDSLS7jjYebu90AsfXHsk"
+    },
+    {
+      "album": {
+        "name": "Will You Love Me When I\u2019m Dead",
+        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193798,
+      "name": "Will You Love Me When I\u2019m Dead",
+      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rimas argentinas. Foto: Sara Hebe.",
+  "description": "Rimas argentinas. Foto: Deyco, Faker & Lowqua.",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -1417,6 +1417,32 @@
     },
     {
       "album": {
+        "name": "Chilling & High",
+        "url": "https://open.spotify.com/album/69jZ24MP8tHqDeDGi0KKGR"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "Faker",
+          "url": "https://open.spotify.com/artist/1MmrJd6XHOisSPsWttJcaL"
+        },
+        {
+          "name": "Lowqua",
+          "url": "https://open.spotify.com/artist/2yR9132htniL5Kgs0Opqzl"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161370,
+      "name": "Chilling & High",
+      "url": "https://open.spotify.com/track/5bVRrYnBhNbpgcx9RomnAV"
+    },
+    {
+      "album": {
         "name": "Clandestino",
         "url": "https://open.spotify.com/album/4znDf5sa8TygYv4Ypabebx"
       },
@@ -1458,6 +1484,28 @@
       "duration_ms": 261333,
       "name": "Con Billetes",
       "url": "https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC"
+    },
+    {
+      "album": {
+        "name": "Con Vos",
+        "url": "https://open.spotify.com/album/6pR3IOwXOTHDjblmJm5MGx"
+      },
+      "artists": [
+        {
+          "name": "Brapis",
+          "url": "https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L"
+        },
+        {
+          "name": "Cofran Olima",
+          "url": "https://open.spotify.com/artist/3HtJSyjCHB5mii6zpG5967"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184581,
+      "name": "Con Vos",
+      "url": "https://open.spotify.com/track/0CHUTfMOOri04WUYwtDQu7"
     },
     {
       "album": {
@@ -2044,7 +2092,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 223448,
       "name": "DIENTE EN MANO",
       "url": "https://open.spotify.com/track/16OsWoYQrdMKrwBktAhoM5"
@@ -3406,7 +3454,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 41996,
       "name": "INTRO",
       "url": "https://open.spotify.com/track/5OKy5809rOuZGRiCyWwfZS"
@@ -4232,7 +4280,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 138008,
       "name": "ME GUSTAS T\u00da",
       "url": "https://open.spotify.com/track/4lwj9sRfjk0LkE1nn1qwkj"
@@ -5794,6 +5842,28 @@
       "duration_ms": 151384,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1W7z3gxk8bWS4p1GAkFnVL"
+    },
+    {
+      "album": {
+        "name": "RUNTZ",
+        "url": "https://open.spotify.com/album/0ooFpJWD2CNeuAWntb3fEO"
+      },
+      "artists": [
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Clpbtz",
+          "url": "https://open.spotify.com/artist/76HlTeMZ0C1OGoUGVF4ZwT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155888,
+      "name": "RUNTZ",
+      "url": "https://open.spotify.com/track/39K9lxrLW19pIBhKHSnm0F"
     },
     {
       "album": {

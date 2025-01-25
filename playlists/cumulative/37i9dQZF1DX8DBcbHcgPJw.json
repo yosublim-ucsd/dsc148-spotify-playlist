@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Ian Lucas, La T y La M, Fede Vigevani & Marama.",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: La T & La M & Lauty Gram.",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 178089,
       "name": "Alas De Papel",
       "url": "https://open.spotify.com/track/4TtJ19MjslA4AK6BP6rfYx"
@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 133829,
       "name": "El Doctorado",
       "url": "https://open.spotify.com/track/3K17sPli1ZwYitB1rBQH0l"
@@ -5202,7 +5202,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 169714,
       "name": "La \u00daltima Granada",
       "url": "https://open.spotify.com/track/35esji5rX330GTC7V4dW4M"
@@ -6242,7 +6242,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 143899,
       "name": "Mas De Lo Que Te Imaginas",
       "url": "https://open.spotify.com/track/5J4sXiSksnPC4BVn6Gn4GR"
@@ -6768,7 +6768,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 147157,
       "name": "Mil Males",
       "url": "https://open.spotify.com/track/0JCngRTr2hdBxUhsc5zLjp"
@@ -6828,7 +6828,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 127244,
       "name": "Mirame - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/6UVw3cOnIQ0XqCYaeVKGGI"
@@ -8075,6 +8075,28 @@
     },
     {
       "album": {
+        "name": "Pacto de Amor",
+        "url": "https://open.spotify.com/album/77v4S4zkVES8fDaoeCAf22"
+      },
+      "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
+        {
+          "name": "Zayana",
+          "url": "https://open.spotify.com/artist/0UaovQ3AOfm1NWEnw9m1I4"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143825,
+      "name": "Pacto de Amor",
+      "url": "https://open.spotify.com/track/4KBUEDmesunIr1WVxH746F"
+    },
+    {
+      "album": {
         "name": "Pareja del A\u00f1o / Makinon",
         "url": "https://open.spotify.com/album/4zfrXkEZ1Eo5JsU35oftmX"
       },
@@ -8444,7 +8466,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 296254,
       "name": "Persia / YO SE QUE TU / Millonario",
       "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"
@@ -8704,7 +8726,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 138267,
       "name": "Por qu\u00e9",
       "url": "https://open.spotify.com/track/77DXfpaf3P35skLHohbjZq"
@@ -9617,6 +9639,28 @@
     },
     {
       "album": {
+        "name": "Se Me Subi\u00f3 a la Cabeza",
+        "url": "https://open.spotify.com/album/1xq8nEeT1blmO9zm9TjSQN"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        },
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129242,
+      "name": "Se Me Subi\u00f3 a la Cabeza",
+      "url": "https://open.spotify.com/track/5DPGJa7K4dTByJG9BF1t7r"
+    },
+    {
+      "album": {
         "name": "Se me va la voz / Normal",
         "url": "https://open.spotify.com/album/3lEPODcqZx2MNFj1xbXAd8"
       },
@@ -10092,7 +10136,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 182599,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
@@ -10322,7 +10366,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 147109,
       "name": "Solos",
       "url": "https://open.spotify.com/track/4FQxbGkh0bWEHC28r1jCOo"
@@ -10404,6 +10448,28 @@
       "duration_ms": 195502,
       "name": "Soltero Hasta la Tumba - Remix",
       "url": "https://open.spotify.com/track/2Ue6HKn8jqcOaOT467gQHw"
+    },
+    {
+      "album": {
+        "name": "Somos o no somos",
+        "url": "https://open.spotify.com/album/2WZMuMeSmu4RQyGx5fWGLU"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165997,
+      "name": "Somos o no somos",
+      "url": "https://open.spotify.com/track/2AZ23mGgDkXaeuM49kzRWl"
     },
     {
       "album": {
@@ -12184,7 +12250,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 156893,
       "name": "Verano 2024",
       "url": "https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6"

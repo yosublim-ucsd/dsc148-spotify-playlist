@@ -6,7 +6,7 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACezdRd0JEncXST+k3/8FxXoa/KPYr",
+  "snapshot_id": "AAACg8GZwlW2OghzCH3oF5tZsogXERiQ",
   "tracks": [
     {
       "added_at": "2025-01-10 16:49:38",
@@ -23,6 +23,22 @@
       "duration_ms": 247441,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/3ZOmz7Ifs4nejDbO6EWQQV"
+    },
+    {
+      "added_at": "2025-01-24 18:22:26",
+      "album": {
+        "name": "Dark Moon",
+        "url": "https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "duration_ms": 225440,
+      "name": "Kiss Me Quick",
+      "url": "https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh"
     },
     {
       "added_at": "2024-12-13 12:57:02",
@@ -43,26 +59,6 @@
       "duration_ms": 260722,
       "name": "\u2018It's A Good Life If You Don't Weaken\u2019 - Live From \u2018No Dress Rehearsal\u2019",
       "url": "https://open.spotify.com/track/3e3n50pd0H0E0JsvDgSeqQ"
-    },
-    {
-      "added_at": "2024-11-22 15:03:47",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/4ndbGpeNneXLCcbfHelFKk"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 218360,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/5nOSZSLwy5k8qpZdtWtXAA"
     },
     {
       "added_at": "2024-11-22 15:03:47",
@@ -99,6 +95,42 @@
       "duration_ms": 216596,
       "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
       "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
+    },
+    {
+      "added_at": "2024-11-22 15:03:47",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/4ndbGpeNneXLCcbfHelFKk"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/5nOSZSLwy5k8qpZdtWtXAA"
+    },
+    {
+      "added_at": "2025-01-24 18:23:00",
+      "album": {
+        "name": "Dublin (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2RFRXuA9wXANvvcdi4jetw"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "Dublin - Acoustic Version",
+      "url": "https://open.spotify.com/track/6y3NPdiyP6SVw3NPtcVfDy"
     },
     {
       "added_at": "2024-11-22 15:03:47",
@@ -283,6 +315,26 @@
       "duration_ms": 185352,
       "name": "Take Me to the Beach (feat. Baker Boy)",
       "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"
+    },
+    {
+      "added_at": "2025-01-24 18:22:02",
+      "album": {
+        "name": "Stage Fright (Deluxe Edition / 2020 Remix)",
+        "url": "https://open.spotify.com/album/54mtQxZFH965tRxVbmpUjv"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        },
+        {
+          "name": "Bob Clearmountain",
+          "url": "https://open.spotify.com/artist/7iWYCIyfxwVyVae6u7qJaO"
+        }
+      ],
+      "duration_ms": 310573,
+      "name": "Chest Fever - Live At The Royal Albert Hall, June 1971",
+      "url": "https://open.spotify.com/track/4iQaqlpFMLUyTr2ZXDlod9"
     },
     {
       "added_at": "2024-11-22 15:03:47",

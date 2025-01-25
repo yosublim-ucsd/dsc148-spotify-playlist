@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-437 songs - 1 day 3 hr 54 min
+438 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bad Girls](https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Bad Girls](https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH) | 2:01 | 2024-02-22 |  |
 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 | 2024-12-20 |
 | [BAE](https://open.spotify.com/track/4kpx4wMn5AGVY5gVN3XbB8) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [BAE](https://open.spotify.com/album/5FX52nvZnmpFdzeYP3e7wB) | 3:52 | 2023-03-10 | 2024-05-28 |
-| [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 | 2024-06-06 |  |
+| [Baianá](https://open.spotify.com/track/2vmuR6Zh4WI4KRuRo1IMtq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Baianá](https://open.spotify.com/album/3foBvekNqnihmlPoLZbjH2) | 2:22 | 2024-06-06 | 2025-01-25 |
 | [Bam Oida](https://open.spotify.com/track/2oNEsIYiF665XUC0fOtYYA) | [Dj Schinkensuppe](https://open.spotify.com/artist/5HgSrauRrOxaH1tIt91d6i) | [Bam Oida](https://open.spotify.com/album/3zSrvihyiWgjQKVoGkSWMz) | 2:28 | 2024-07-04 | 2024-07-27 |
 | [Bananas](https://open.spotify.com/track/6Hze42mslIeUDRGeq8NnlQ) | [Black Girl / White Girl](https://open.spotify.com/artist/4suufHyoFCOPWuFgTdQVPz) | [Bananas](https://open.spotify.com/album/1bpgQaBBbuBJKFsBBCBpUT) | 3:11 | 2023-04-27 | 2023-05-06 |
 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 | 2024-05-23 |  |
@@ -244,6 +244,7 @@
 | [Make It Thru](https://open.spotify.com/track/2jD9uQeNEPIqFEJmJ33zuk) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Make It Thru](https://open.spotify.com/album/4jlRkCwvRARTe4ua3T1Lzb) | 3:41 | 2023-04-27 | 2023-06-23 |
 | [Make Me](https://open.spotify.com/track/4r1c5xnKiha0kpRVD3Ycrz) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1) | [Make Me \(Paul Sirrell Remix\)](https://open.spotify.com/album/7mJ5hKo7cf9e32HEvItvuZ) | 2:31 | 2024-12-28 | 2025-01-07 |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2024-12-28 |  |
+| [Maneater](https://open.spotify.com/track/3XDMzgyn93dezeGvfWG0Ov) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Maneater](https://open.spotify.com/album/0BBJeh8FNbTA7SrZ46lnwL) | 3:02 | 2025-01-23 |  |
 | [Maria](https://open.spotify.com/track/0hoQxwMYszyihTEIat81Lk) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr) | [Maria](https://open.spotify.com/album/2Vw9w5bOu7zgyLFeFODOEw) | 2:00 | 2024-10-25 | 2024-11-12 |
 | [Mayday Anthem \- Thomas Schumacher Remix](https://open.spotify.com/track/0h5bjHIioNsHAV58lcNVqs) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Mayday Anthem \(Thomas Schumacher Remix\)](https://open.spotify.com/album/52DgryHGie1RWvB99nbVT3) | 4:13 | 2023-04-27 | 2023-05-06 |
 | [Mean One](https://open.spotify.com/track/1d2PMswJrEctjjLNq6IPXK) | [Elon Bass](https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr), [Luciano Bradini](https://open.spotify.com/artist/3wCqxSoBL0bnPTs3akvLni) | [Mean One](https://open.spotify.com/album/1JR7HiWMo9YiHha5xxrKrY) | 4:38 | 2024-08-01 | 2024-08-23 |

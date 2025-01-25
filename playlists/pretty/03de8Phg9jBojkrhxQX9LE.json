@@ -1,13 +1,617 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21139,
+  "num_followers": 21144,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAJTeL1DPHgdogEUhR/982qY6ZUYUhF",
+  "snapshot_id": "AAAJTx3aikHHZtwn/56fkcCT44mryfhN",
   "tracks": [
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Abomination",
+        "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 168017,
+      "name": "Abomination",
+      "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 170142,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Push The Tempo (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/3J39d41BkleUhTqYJG2e2S"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "Push The Tempo - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/3lUpvA6ty7qoNLxcBOu2Q1"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2nddSx3jiONF70tHFlYfN2"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        },
+        {
+          "name": "Rickyxsan",
+          "url": "https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/2ZJn2mR3K3vgxEpuXN3V9G"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 265706,
+      "name": "Room Of Fools",
+      "url": "https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "All Too Late",
+        "url": "https://open.spotify.com/album/7uz6W3xnVGod7qtJHbAePW"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Rhode",
+          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "All Too Late",
+      "url": "https://open.spotify.com/track/4m1KSPhZ74hYFDd6pq5Cz6"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/1dM08WgaDeGuJoXB6WWaBR"
+      },
+      "artists": [
+        {
+          "name": "KRANE",
+          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
+        },
+        {
+          "name": "Jupe",
+          "url": "https://open.spotify.com/artist/3evbznUo9BuH3Ykqid374c"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/3PoryKWD1bAghIRPM3r5zU"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "WHO WANNA FIGHT",
+        "url": "https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 152624,
+      "name": "WHO WANNA FIGHT",
+      "url": "https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/0zK4P8P0z9Hcf5uQISQ2fT"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 133577,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/1ac3DHLii728GuifgZRjFh"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "'Til Tomorrow",
+        "url": "https://open.spotify.com/album/6lNZirW2o0knujzrLydFEQ"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "duration_ms": 180953,
+      "name": "'Til Tomorrow",
+      "url": "https://open.spotify.com/track/3Pntr5dHwavXxNQv0ktXY2"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Bitches Over Boys",
+        "url": "https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 147947,
+      "name": "Bitches Over Boys",
+      "url": "https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Heather Park (salute Remix)",
+        "url": "https://open.spotify.com/album/3sXuFwBddm8PW2y9dzpkZa"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        },
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 375111,
+      "name": "Heather Park - salute Remix",
+      "url": "https://open.spotify.com/track/12IXYei6KVHIXSOJIL2f8M"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 231044,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "guess i\u2019ll call you back",
+        "url": "https://open.spotify.com/album/7f7CrbxY74X1KQHRVqxlGw"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "guess i\u2019ll call you back",
+      "url": "https://open.spotify.com/track/3bbMxsA9xZmoUwXlGwNjuf"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Good Girls",
+        "url": "https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 181850,
+      "name": "Good Girls",
+      "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "The Love We Had",
+        "url": "https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "duration_ms": 221793,
+      "name": "The Love We Had",
+      "url": "https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "5AM At Bagleys",
+        "url": "https://open.spotify.com/album/1BJAJAuOKPc5HoNfpzZrIK"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 250250,
+      "name": "5AM At Bagleys",
+      "url": "https://open.spotify.com/track/3nKFvxs17ez3awL6S0IS8k"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "next to me",
+        "url": "https://open.spotify.com/album/4hR2oacIqkUxpe2sU79kTt"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "beastboi.",
+          "url": "https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "next to me",
+      "url": "https://open.spotify.com/track/0FOOCagwIFa58SOekbmVzj"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Dancing In The Dark",
+        "url": "https://open.spotify.com/album/7omszKcmeM2AvJ61dGoAsT"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Annaca",
+          "url": "https://open.spotify.com/artist/68bTh9UzHWFypy6Kt54NDZ"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/0v4y0mPJaLyCKOWC5khfmg"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "2 Da Floor",
+        "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Cruze",
+          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "2 Da Floor",
+      "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Shaking Things Up",
+        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Shaking Things Up",
+      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/3XExdzq3IxgpNLkSSLjA8s"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jevin Julian",
+          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
+        }
+      ],
+      "duration_ms": 226406,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/7u4q2L9ralNz0A6J9P4ihL"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "SPACE",
+        "url": "https://open.spotify.com/album/70I7e2wEgktCR8KjY8YbZD"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "SPACE",
+      "url": "https://open.spotify.com/track/1TwbmmMh4HwhSn96OM7INU"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "ROTATION",
+        "url": "https://open.spotify.com/album/6FvYSejmjBfZSjB65JMzsw"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "ROTATION",
+      "url": "https://open.spotify.com/track/7GTUoWhahYmX0jxJea2IFg"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "llamando",
+        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 156184,
+      "name": "llamando",
+      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "v.i.p. - very important pony",
+        "url": "https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 94000,
+      "name": "materiaL hor$e",
+      "url": "https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "BREAKTHROUGH",
+        "url": "https://open.spotify.com/album/2yybSjGLJ70jX0e6GpmuRp"
+      },
+      "artists": [
+        {
+          "name": "REMNANT.exe",
+          "url": "https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3"
+        },
+        {
+          "name": "Dyzphoria",
+          "url": "https://open.spotify.com/artist/6SehYBqIfg08SBrc7Ydreg"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "BREAKTHROUGH",
+      "url": "https://open.spotify.com/track/6qRZ7NUJ3VH7A8ahV2wX7D"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Blunted / Glacial Gaze",
+        "url": "https://open.spotify.com/album/2lBJgmWHJzsWASio8PADq5"
+      },
+      "artists": [
+        {
+          "name": "Two Swords",
+          "url": "https://open.spotify.com/artist/3Dky4rWifn4wikHCC2fFOv"
+        },
+        {
+          "name": "Hyroglifics",
+          "url": "https://open.spotify.com/artist/6hNELDwN2cBEdL74cpXKc0"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Blunted",
+      "url": "https://open.spotify.com/track/3WrB3EV8wyPdMW26Pj0Tql"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "Need Right / Dogma",
+        "url": "https://open.spotify.com/album/1Mwbe4PnWuhMnLSzVBgDdx"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "duration_ms": 278931,
+      "name": "Need Right",
+      "url": "https://open.spotify.com/track/6yfA9fcHa6BDSWU8Osy5OO"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "GHOST MODE",
+        "url": "https://open.spotify.com/album/2oHznCAeq0SUG9ntJmlJuT"
+      },
+      "artists": [
+        {
+          "name": "STVSH",
+          "url": "https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "GHOST MODE",
+      "url": "https://open.spotify.com/track/0BrdcpiPJH0BC9W7MYCvKg"
+    },
+    {
+      "added_at": "2025-01-24 21:51:54",
+      "album": {
+        "name": "talk2me (tenshi & Tudd VIP)",
+        "url": "https://open.spotify.com/album/51lfoVYae4XawnXLBlx9Ol"
+      },
+      "artists": [
+        {
+          "name": "tenshi",
+          "url": "https://open.spotify.com/artist/16WeQsKRT4Og5OwoKhxzew"
+        },
+        {
+          "name": "Tudd",
+          "url": "https://open.spotify.com/artist/44Tlzkl1NhWhqz2CatNmtP"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "talk2me (tenshi & Tudd VIP)",
+      "url": "https://open.spotify.com/track/4TJMfzhfSpnVR1fV4wYEC9"
+    },
+    {
+      "added_at": "2025-01-25 01:38:37",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1rU8691Vsqh2eKq4RDsulu"
+      },
+      "artists": [
+        {
+          "name": "K1N",
+          "url": "https://open.spotify.com/artist/3VII2iX6TP0AsYjpCR09Lh"
+        }
+      ],
+      "duration_ms": 251586,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2mNhljEd6qm3aLd2Fco9Kj"
+    },
     {
       "added_at": "2025-01-17 22:55:49",
       "album": {

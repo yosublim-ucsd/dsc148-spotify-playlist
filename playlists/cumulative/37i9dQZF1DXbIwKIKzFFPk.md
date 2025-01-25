@@ -2,7 +2,7 @@
 
 ### [BLEACH](https://open.spotify.com/playlist/37i9dQZF1DXbIwKIKzFFPk)
 
-> Music from "BLEACH" !「BLEACH」の楽曲を1つのプレイリストで。©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
+> Music from "BLEACH" ! ©久保帯人／集英社・テレビ東京・ｄｅｎｔｓｕ・ぴえろ
 
 103 songs - 6 hr 13 min
 

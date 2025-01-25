@@ -4,7 +4,7 @@
 
 > Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.
 
-178 songs - 8 hr 31 min
+179 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Where You Come From](https://open.spotify.com/track/6FzBEWmvVFmdJnX7MTL47R) | [Diamond White](https://open.spotify.com/artist/0Ns29jDBaYI2wbHvTR1B9j) | [Marvel's Moon Girl and Devil Dinosaur \(Original Soundtrack\)](https://open.spotify.com/album/31zZeDmG2Va5zvgfIyJuOy) | 2:36 | 2024-05-22 |  |
 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 | 2024-05-22 |  |
 | [Wildside \- From "Adventures in Babysitting"](https://open.spotify.com/track/0FgzKYAKXRPlu9BEZwYeV0) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Wildside \(From "Adventures in Babysitting"\)](https://open.spotify.com/album/4hWifUINe2aRCLtbqczRKB) | 3:07 | 2024-05-22 |  |
+| [Wizards Beyond Waverly Place Theme Song \- From "Wizards Beyond Waverly Place"](https://open.spotify.com/track/6ddAEgwxZqgHZNwQ28ps0Y) | [Janice LeAnn Brown](https://open.spotify.com/artist/4R010RX8x0Hrga0YO6FeyF) | [Wizards Beyond Waverly Place Theme Song \(From "Wizards Beyond Waverly Place"\)](https://open.spotify.com/album/16pLjr2bH7Dnx2O4xcobhP) | 0:45 | 2025-01-25 |  |
 | [Wondering](https://open.spotify.com/track/6vGnPFWExk8QXcRmxaoX3e) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Julia Lester](https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 3:45 | 2024-05-22 |  |
 | [Wouldn't Change a Thing \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/0Di5p4ItolIUZB8c2P0pvs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:23 | 2024-05-22 |  |
 | [You and Me](https://open.spotify.com/track/5AiD2doxfh5xlfkNc63WPV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/4Rk63Jz61wwbmQru0PdltI) | 3:32 | 2024-05-22 |  |

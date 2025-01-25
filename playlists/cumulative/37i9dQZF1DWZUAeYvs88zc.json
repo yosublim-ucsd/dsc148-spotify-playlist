@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Cigarettes In The Dark",
+        "url": "https://open.spotify.com/album/3T1Enym3lGotejtAoh1a0A"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119949,
+      "name": "Cigarettes In The Dark",
+      "url": "https://open.spotify.com/track/2YQlk3PPrJKXKpJYCXUD0E"
+    },
+    {
+      "album": {
         "name": "Last Year Was Complicated",
         "url": "https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna"
       },
@@ -5832,7 +5850,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 177524,
       "name": "missin u",
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"

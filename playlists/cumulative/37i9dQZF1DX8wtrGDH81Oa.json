@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "5K Club",
+        "url": "https://open.spotify.com/album/6WzgLgSJZZLPmgFIX9XlDa"
+      },
+      "artists": [
+        {
+          "name": "People Safari",
+          "url": "https://open.spotify.com/artist/4iHmCfEwNugPXuVF2D523z"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170076,
+      "name": "5K Club",
+      "url": "https://open.spotify.com/track/6a8AkINWevwd9bwrkgAbbz"
+    },
+    {
+      "album": {
         "name": "86",
         "url": "https://open.spotify.com/album/6DdiNsX0LHGqtOO8jfdVJ1"
       },
@@ -348,6 +366,24 @@
       "duration_ms": 193243,
       "name": "Attakai",
       "url": "https://open.spotify.com/track/31oZ4m7CyWTwpYD7R6NPTz"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0LX06zeKTWjO5GUBfx7CqB"
+      },
+      "artists": [
+        {
+          "name": "Florem Ipsum",
+          "url": "https://open.spotify.com/artist/594PMnBcYcEU1sTCC75Iir"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3xhTIo9o6Dd7fRYjBGjmv6"
     },
     {
       "album": {
@@ -780,6 +816,24 @@
       "duration_ms": 184490,
       "name": "Bungalow",
       "url": "https://open.spotify.com/track/09ipJgU2qrFphh9I3udSiN"
+    },
+    {
+      "album": {
+        "name": "Burnin' - Edit",
+        "url": "https://open.spotify.com/album/55xcEkFt681QTDwpMIAcvC"
+      },
+      "artists": [
+        {
+          "name": "Soul to Speak",
+          "url": "https://open.spotify.com/artist/0uYPjw4NSVY5IiZZd6kHdd"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140388,
+      "name": "Burnin' - Edit",
+      "url": "https://open.spotify.com/track/18PZJGU3y50qFwcvLgxhzN"
     },
     {
       "album": {
@@ -1604,7 +1658,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 228463,
       "name": "Drinks on You",
       "url": "https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD"
@@ -1928,7 +1982,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 184186,
       "name": "Floating",
       "url": "https://open.spotify.com/track/2z1Dv4pDF2J8s6aoV5OHzl"
@@ -3681,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Palms",
+        "url": "https://open.spotify.com/album/6SyzKLGFlsioflsbJg6wcD"
+      },
+      "artists": [
+        {
+          "name": "moe sizzle",
+          "url": "https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146838,
+      "name": "Palms",
+      "url": "https://open.spotify.com/track/1J0Iyt2Cqd1bHAHe63Pph7"
+    },
+    {
+      "album": {
         "name": "Paper Hearts",
         "url": "https://open.spotify.com/album/2RZcdZ676S2NEEsmaYQxHL"
       },
@@ -3750,6 +3822,24 @@
       "duration_ms": 177396,
       "name": "Passage",
       "url": "https://open.spotify.com/track/7wOZCITHxHO4j7dQ5jd2iL"
+    },
+    {
+      "album": {
+        "name": "Perfect Days",
+        "url": "https://open.spotify.com/album/6VDgQ2KL8UNW2EAzrMlVof"
+      },
+      "artists": [
+        {
+          "name": "frukks",
+          "url": "https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "Perfect Days",
+      "url": "https://open.spotify.com/track/6MVDli0oEUcNToqCnqng9x"
     },
     {
       "album": {
@@ -4124,10 +4214,28 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 214250,
       "name": "Right Direction",
       "url": "https://open.spotify.com/track/3PQlWzST5koIKZDgKqV0Pc"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/19mYd7yE8HNuwOYnB54CQ1"
+      },
+      "artists": [
+        {
+          "name": "Niriko",
+          "url": "https://open.spotify.com/artist/249Q1LZa29XL7XIatTN45M"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160972,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/73Rwp7w3uRgJ3JljtIELV4"
     },
     {
       "album": {
@@ -4149,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/19FmBtvkHhlajoNqElPpIA"
+      },
+      "artists": [
+        {
+          "name": "Martin Bloumy",
+          "url": "https://open.spotify.com/artist/2Y3zwpx6WWFI15VYRisM4h"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177795,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1qkg7lW4KprxKYNMD1jijN"
+    },
+    {
+      "album": {
         "name": "Rolling Waves",
         "url": "https://open.spotify.com/album/06wNwawAlHk2tglBJkeCID"
       },
@@ -4164,6 +4290,24 @@
       "duration_ms": 173559,
       "name": "Rolling Waves",
       "url": "https://open.spotify.com/track/04lYylciCngy12eu6fvRtY"
+    },
+    {
+      "album": {
+        "name": "Romance De Ver\u00e3o - Edit",
+        "url": "https://open.spotify.com/album/2dcw5pPpt0aDvVObghlqKs"
+      },
+      "artists": [
+        {
+          "name": "Alex Caipirinha",
+          "url": "https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "Romance De Verao - Edit",
+      "url": "https://open.spotify.com/track/1936Zbphpffs5ItrZWwCaq"
     },
     {
       "album": {

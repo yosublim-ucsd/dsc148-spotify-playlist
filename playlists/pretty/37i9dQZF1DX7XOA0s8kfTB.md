@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain](/playlists/plain/37i9dQZF1DX7XOA0s8kfTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7XOA0s8kfTB)
 
-### [Girls Band Cry ガールズバンドクライ](https://open.spotify.com/playlist/37i9dQZF1DX7XOA0s8kfTB)
+### [Girls Band Cry](https://open.spotify.com/playlist/37i9dQZF1DX7XOA0s8kfTB)
 
-> Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
+> Music from “Girls Band Cry” ©東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,857 likes - 31 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,895 likes - 31 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XOA0s8kfTB.md) - [plain]
 | 30 | [運命に賭けたい論理](https://open.spotify.com/track/5HXSZoSZuivD65nPk7POH0) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命に賭けたい論理](https://open.spotify.com/album/2O18JMMWL9S389Sw5tXiyn) | 3:15 |
 | 31 | [サヨナラサヨナラサヨナラ](https://open.spotify.com/track/3OCcXnMn1lOwJtsOwbzEsN) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [サヨナラサヨナラサヨナラ](https://open.spotify.com/album/4L4vKyM8psqZ1Us7aEmeS0) | 2:35 |
 
-Snapshot ID: `Zs3p8AAAAABCnhQOreosA8Zi4L+Mku7j`
+Snapshot ID: `Z5PN6AAAAABL1SrGc/NfvJ1A5r/DEsjM`

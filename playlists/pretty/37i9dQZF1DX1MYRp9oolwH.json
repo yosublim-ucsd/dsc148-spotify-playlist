@@ -1,18 +1,18 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Thandel",
-  "num_followers": 144328,
+  "num_followers": 144733,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4e8BgAAAAB0Tr+2zJ5Sp4YQJBCNhIvO",
+  "snapshot_id": "Z5MtAQAAAADwrsTvv18JgOVHzQb1jv/F",
   "tracks": [
     {
-      "added_at": "2024-11-21 12:53:10",
+      "added_at": "2025-01-24 05:54:39",
       "album": {
-        "name": "Bujji Thalli (From \"Thandel\")",
-        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
+        "name": "Hilesso Hilessa (From \"Thandel\")",
+        "url": "https://open.spotify.com/album/7jFMSnvSEvOM812n3TV5yy"
       },
       "artists": [
         {
@@ -20,17 +20,21 @@
           "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
         },
         {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         },
         {
           "name": "Shree Mani",
           "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
         }
       ],
-      "duration_ms": 248825,
-      "name": "Bujji Thalli (From \"Thandel\")",
-      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
+      "duration_ms": 209482,
+      "name": "Hilesso Hilessa (From \"Thandel\")",
+      "url": "https://open.spotify.com/track/66nCmAQwd4RaLVqDxr23FZ"
     },
     {
       "added_at": "2024-12-03 15:50:23",
@@ -135,6 +139,30 @@
       "duration_ms": 282000,
       "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"
+    },
+    {
+      "added_at": "2024-11-21 12:53:10",
+      "album": {
+        "name": "Bujji Thalli (From \"Thandel\")",
+        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Shree Mani",
+          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
+        }
+      ],
+      "duration_ms": 248825,
+      "name": "Bujji Thalli (From \"Thandel\")",
+      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
     },
     {
       "added_at": "2024-08-05 12:07:16",
@@ -1107,34 +1135,6 @@
       "duration_ms": 211060,
       "name": "Manase Marala Marala (From \"Sandeham\")",
       "url": "https://open.spotify.com/track/3sTqB033Q4oBQJqOMs5IvL"
-    },
-    {
-      "added_at": "2023-07-21 15:21:27",
-      "album": {
-        "name": "Milky Beauty (From \"Bholaa Shankar\")(Telugu)",
-        "url": "https://open.spotify.com/album/5U5PEnuwaXr8ffWWmydl5X"
-      },
-      "artists": [
-        {
-          "name": "Mahati Swara Sagar",
-          "url": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Sanjana Kalmanje",
-          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Milky Beauty (From \"Bholaa Shankar\")(Telugu)",
-      "url": "https://open.spotify.com/track/0FM8wzHhV64mwrDdEEuGdG"
     },
     {
       "added_at": "2023-07-27 13:16:48",

@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "All I See (feat. KnownAsNat)",
+        "url": "https://open.spotify.com/album/1sObC0a46KNlPlijLFhZEl"
+      },
+      "artists": [
+        {
+          "name": "Dead Rose",
+          "url": "https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM"
+        },
+        {
+          "name": "KnownAsNat",
+          "url": "https://open.spotify.com/artist/4CxkpkQVs7cguL10DtmyjR"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206484,
+      "name": "All I See (feat. KnownAsNat)",
+      "url": "https://open.spotify.com/track/54wsqLavOI0gGqF0fnKr69"
+    },
+    {
+      "album": {
         "name": "All That Really Matters",
         "url": "https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q"
       },
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 268800,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt"
@@ -5364,7 +5386,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 242200,
       "name": "Give Out",
       "url": "https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o"
@@ -6642,7 +6664,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 235714,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/0EkUz1zkIuFeEUbyT1lLNe"
@@ -12755,6 +12777,28 @@
     },
     {
       "album": {
+        "name": "Someone You Forget",
+        "url": "https://open.spotify.com/album/2D2ektN5qMfIV98wsZbwNg"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Armen Paul",
+          "url": "https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323555,
+      "name": "Someone You Forget",
+      "url": "https://open.spotify.com/track/1oLxRluTxUVVsp4k86y21R"
+    },
+    {
+      "album": {
         "name": "Something To Hold On To",
         "url": "https://open.spotify.com/album/3rm0YLNGsLrIvzXODYkgkW"
       },
@@ -13323,6 +13367,24 @@
     },
     {
       "album": {
+        "name": "Passerby",
+        "url": "https://open.spotify.com/album/3wxmtlbLIKW8zDZdHTpbMV"
+      },
+      "artists": [
+        {
+          "name": "Neddie",
+          "url": "https://open.spotify.com/artist/2RMZ8H29R6pconMzF89At5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294857,
+      "name": "Strangers, the vision, isolation",
+      "url": "https://open.spotify.com/track/0zuVZp6un5Lo6GgGf3XRck"
+    },
+    {
+      "album": {
         "name": "Stuck On You (feat. Donna Tella)",
         "url": "https://open.spotify.com/album/2cBjRVbv7Vvh0E4BVwZuai"
       },
@@ -13828,6 +13890,28 @@
       "duration_ms": 202285,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/5XlufuPluY6GRBlXZvnZVJ"
+    },
+    {
+      "album": {
+        "name": "The Love We Had",
+        "url": "https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221793,
+      "name": "The Love We Had",
+      "url": "https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd"
     },
     {
       "album": {
@@ -14582,7 +14666,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 171517,
       "name": "Until It's Over",
       "url": "https://open.spotify.com/track/0t5mk7ANQJbof0AVH6i2G0"

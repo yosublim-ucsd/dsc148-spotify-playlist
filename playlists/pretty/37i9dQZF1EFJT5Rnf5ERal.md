@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,538 likes - 264 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540 likes - 264 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 121 | [Exactly](https://open.spotify.com/track/08LjGHJ3xsccMyCJdztsns) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 1:59 |
 | 122 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 |
 | 123 | [Birthday](https://open.spotify.com/track/226FfuxQsS6SZhgSGUPZvs) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Birthday](https://open.spotify.com/album/6v28T4BDeCA1VkQSy32PNs) | 3:46 |
-| 124 | [Shoot It Out \(feat\. Worl & Hott LockedN\)](https://open.spotify.com/track/7EWbJUXghym5DDufw9NwI2) | [T.R.U.](https://open.spotify.com/artist/7uwQPQsBYgrSd63xgeMyuM), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Sleepy Rose](https://open.spotify.com/artist/3lrylIPGKLtK1wam8gLsV1), [Worl](https://open.spotify.com/artist/3IWnphotT2WN2jXtYl2AWs), [Hott LockedN](https://open.spotify.com/artist/6UCNcF9kuan6Eym0EK9MOO) | [No Face No Case](https://open.spotify.com/album/4ZZTAaaz4zrCL1q3cfTnYt) | 3:19 |
+| 124 | [Shoot It Out \(feat\. Worl & Hott LockedN\)](https://open.spotify.com/track/7EWbJUXghym5DDufw9NwI2) | [T.R.U.](https://open.spotify.com/artist/7uwQPQsBYgrSd63xgeMyuM), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Sleepy Rose](https://open.spotify.com/artist/3lrylIPGKLtK1wam8gLsV1), [Worl](https://open.spotify.com/artist/0dPOFwpYJGqkrus3jfZ7uC), [Hott LockedN](https://open.spotify.com/artist/4oRhxYo5lIWOEa1Urm0qyT) | [No Face No Case](https://open.spotify.com/album/4ZZTAaaz4zrCL1q3cfTnYt) | 3:19 |
 | 125 | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/track/7IEza6BqarXfa8TjJidAvS) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3) | [Clark Street Baby](https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann) | 2:27 |
 | 126 | [Kostas](https://open.spotify.com/track/30hui0n0IE1y699MAEPNGp) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 5:33 |
 | 127 | [Sno Cone \(feat\. Quavo & Gucci Mane\)](https://open.spotify.com/track/3n1nexKECrkHZPyAJgUSmC) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clark Street Baby](https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann) | 3:10 |
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 263 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 264 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbnqoAAAAAC4FnD4DnmCR63Ud/3vIjB3`
+Snapshot ID: `AbnwLAAAAABkJbJRQ2AmvZHZRqqXnE44`

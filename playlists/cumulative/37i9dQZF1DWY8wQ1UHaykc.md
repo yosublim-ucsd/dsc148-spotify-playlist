@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-188 songs - 12 hr 55 min
+192 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,11 @@
 | [Jalanmu Bukan Jalanku](https://open.spotify.com/track/6IShpxM4RpGRF9T19Uiaia) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Love, Faith & Hope](https://open.spotify.com/album/25GAJAfXxwGBD5yitZBLE8) | 3:47 | 2024-04-19 |  |
 | [Jangan Cintai Aku Apa Adanya](https://open.spotify.com/track/51oQZ1A2BZe6b4klnpTFzK) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:41 | 2024-01-05 |  |
 | [Jangan Pernah Lelah Menunggu](https://open.spotify.com/track/768LwJlurO4pTZooYHe2fw) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Anugrah Terindah](https://open.spotify.com/album/4X6T4uzDfLdij4oZjzf3wb) | 3:33 | 2024-01-05 |  |
+| [Jatuh Hati](https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 3:27 | 2025-01-24 |  |
+| [Jika Cinta Dia](https://open.spotify.com/track/0YeFGeuL7nr9V4GKjflsDa) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Seleksi Hits](https://open.spotify.com/album/1Y8F20UfzbynDnmWAlCTYB) | 4:11 | 2025-01-24 |  |
 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 | 2024-01-05 |  |
 | [Jodoh Pasti Bertemu](https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:05 | 2024-01-05 |  |
+| [Kali Kedua](https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:17 | 2025-01-24 |  |
 | [Kamu](https://open.spotify.com/track/4kMQVpke2L9tlWOINuAo07) | [Coboy Junior](https://open.spotify.com/artist/1fw9jZ1duJbRsYjugzA0TW) | [Coboy Junior](https://open.spotify.com/album/1qc0sadKhvsDc8w9uu7r69) | 3:49 | 2024-01-05 |  |
 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 | 2024-01-05 |  |
 | [Karena Aku Tlah Denganmu \(feat\. Ariel Tatum\)](https://open.spotify.com/track/71OJVBHhKbSTbjcTTv6tIF) | [Ari Lasso](https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr), [Ariel Tatum](https://open.spotify.com/artist/0dycqOerM3RKuAFLARysza) | [Yang Terbaik](https://open.spotify.com/album/2MFPiwsRfJJ8PG3QnPGdGD) | 3:38 | 2024-11-22 |  |
@@ -140,6 +143,7 @@
 | [Sampai Akhir \(feat\. DuMa\)](https://open.spotify.com/track/1apPmtDyQfYTtsMdfziIdN) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Duma](https://open.spotify.com/artist/2cr8btrYdgBNUPhdskgSPO) | [Judika Mencari Cinta](https://open.spotify.com/album/5ePas69moZqjAW6RZU3jhX) | 3:25 | 2024-05-27 |  |
 | [Sampai Mati](https://open.spotify.com/track/5hOuU9pRHH8cDGRUgAwQMJ) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/5wSRegL5ELwoQDYSamgQ5U) | 4:31 | 2024-04-19 |  |
 | [Sampai Mati](https://open.spotify.com/track/0VMb5OupyZA27f2u6Sck01) | [Putih](https://open.spotify.com/artist/3Yn6aM7XCgMbWGmOrI7zTO) | [Apa Kabar Cinta](https://open.spotify.com/album/0uAfzhtdFkD5AfShuX8610) | 4:31 | 2024-01-05 | 2024-04-19 |
+| [Sang Penggoda](https://open.spotify.com/track/7uP1XTPVEI40AZGVKNzITm) | [Tata Janeeta](https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz), [Maia Estianty](https://open.spotify.com/artist/5a4jEOtU2mISDG7jshDF0j) | [Sang Penggoda](https://open.spotify.com/album/2LtXJXiTmmd2mGbVi7PzLH) | 4:31 | 2025-01-24 |  |
 | [Satu Satunya Cinta](https://open.spotify.com/track/075wHMrSCuSvxkjk1nBinw) | [Maha Dewi](https://open.spotify.com/artist/6C8fWAXkiO9boKHvfwu25E) | [Nagaswara Hot 1OO](https://open.spotify.com/album/7mGv7jCKHT44LuRgwp5WIa) | 4:15 | 2024-08-22 |  |
 | [Sayang](https://open.spotify.com/track/1dDpZbX1MfvWNBqhJhvXgm) | [Supernova](https://open.spotify.com/artist/7kydkMNIMNhr7jDgeOQd4H) | [Bercahaya](https://open.spotify.com/album/7Bk0NnaNXmQHq4WKHy8kWK) | 3:54 | 2024-01-05 |  |
 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 | 2024-01-05 |  |

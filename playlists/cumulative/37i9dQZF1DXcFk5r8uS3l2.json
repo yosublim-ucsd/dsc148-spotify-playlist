@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Baby Wild",
+        "url": "https://open.spotify.com/album/5mb2wuyjdavQOzU72Yd2S1"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250750,
+      "name": "Baby Wild",
+      "url": "https://open.spotify.com/track/0jVHzZhnTRduhq5y0fyu2U"
+    },
+    {
+      "album": {
         "name": "Baby's Long Gone",
         "url": "https://open.spotify.com/album/5Y9vR6neUQGJsCG64yqxFn"
       },
@@ -574,6 +592,24 @@
       "duration_ms": 188504,
       "name": "bad blood",
       "url": "https://open.spotify.com/track/7lqyiS447jxNlaMpzsYfkY"
+    },
+    {
+      "album": {
+        "name": "Bad News",
+        "url": "https://open.spotify.com/album/09j5cMuAxke4rblpRXq9Qp"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140941,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/2tFedHU8BK2n9y345jAaO7"
     },
     {
       "album": {
@@ -1792,7 +1828,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 163026,
       "name": "Everywhere You Go There You Are",
       "url": "https://open.spotify.com/track/1GFbtNQ3OFeHA00PJNphPb"
@@ -7404,7 +7440,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 148000,
       "name": "When It Gets Dark",
       "url": "https://open.spotify.com/track/5g53x9XQ3zDJHZ52xcsAH2"

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Ligaya Escueta  Artwork: Isu Kim
 
-2,950 songs - 7 day 4 hr 59 min
+2,951 songs - 7 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2195,6 +2195,7 @@
 | [Reasons](https://open.spotify.com/track/0mhq0NkWdy5rMHd7JbYpS2) | [Rose Lovingco](https://open.spotify.com/artist/2s9k75SID9Jn6T64W8K3Sg) | [Few Feet Wide](https://open.spotify.com/album/7vBFU9Rp5GTSl3EH6jqPRc) | 3:53 | 2022-09-08 | 2022-10-14 |
 | [Reborn](https://open.spotify.com/track/3tpvxYG1Z9OVZrVEgMhrwT) | [Do Not Delay](https://open.spotify.com/artist/6DOWst9zrPHTSfuA8ISbcv), [Francis Alden of TNG](https://open.spotify.com/artist/30WYKmzJGxSIlKwAxMLvFx) | [Reborn](https://open.spotify.com/album/1oCKVzpDAHNrIxFDzEAbCs) | 4:15 | 2024-09-05 | 2024-09-27 |
 | [Reckless](https://open.spotify.com/track/7v9EXUIIfY04MYrTThX4Xw) | [Lilfina](https://open.spotify.com/artist/0tnC36MXlHHOQo2JnDmnTN) | [Reckless](https://open.spotify.com/album/6b9OPYJiLw4OIzBHN1tTiB) | 3:03 | 2023-02-03 | 2023-02-17 |
+| [red](https://open.spotify.com/track/4wIBkQrL7N3yWPtpwwzsYW) | [JONAVI](https://open.spotify.com/artist/6zKX6Ksa6Yk5OZRG1Fk7vA) | [red](https://open.spotify.com/album/1YpxCyDht9Admi6b754DR3) | 3:31 | 2025-01-23 |  |
 | [Red](https://open.spotify.com/track/6UXigWkdBLtCJ8ljbJCxgf) | [Reseta](https://open.spotify.com/artist/30V1yWmoHMIYbeLLnaU31M) | [Red](https://open.spotify.com/album/5T1xKd7Mc4rA6qGGJlyURy) | 3:05 | 2024-10-10 | 2025-01-24 |
 | [Red Dress](https://open.spotify.com/track/4WirvE8YjU6ACR6PCqWGnm) | [Elton Clark](https://open.spotify.com/artist/7DCpfcT30flUpKkII1DTqL) | [Red Dress](https://open.spotify.com/album/3dG0SiVIRYhu9QO0N1iAqp) | 3:59 | 2024-04-18 | 2024-06-07 |
 | [Relapse](https://open.spotify.com/track/54h96RwWQeIrkP0Ymmu2ty) | [Julia Q](https://open.spotify.com/artist/1WxSQcHJPIq91UHobxQxWE) | [Relapse](https://open.spotify.com/album/2za5aHFsR5imY7Ef2xZcIc) | 4:47 | 2023-04-13 | 2023-05-05 |

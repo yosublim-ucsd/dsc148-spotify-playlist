@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Sethi
 
-164 songs - 8 hr 35 min
+165 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Tu Aja](https://open.spotify.com/track/21H0pA5BplgAi32C6wLaDm) | [Masood Bukhari](https://open.spotify.com/artist/0Wktv02lmO5dcK4RI7bZIK), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m), [Muhammad Ali](https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX) | [Tu Aja](https://open.spotify.com/album/3WGkm1QIs7yvNv8xVcZ4Ey) | 2:15 | 2024-09-09 | 2025-01-17 |
 | [Tu hai kahan](https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf) | 4:23 | 2024-06-28 | 2025-01-17 |
 | [tu mila](https://open.spotify.com/track/2o0qrukiIFbiGUSQBhYeKT) | [bitrees](https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb) | [tu mila](https://open.spotify.com/album/7yBzRZXeyX2XwWXVZnaF7p) | 3:28 | 2024-11-07 | 2025-01-17 |
+| [TUM](https://open.spotify.com/track/3wpz9ZDyrSH3EdGjOV94lP) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [TUM](https://open.spotify.com/album/41Uv32fOQN5vgX8ehDzp7K) | 3:13 | 2025-01-24 |  |
 | [Ud jana](https://open.spotify.com/track/6TTEZ1vo7Wu4JvajcaDgmH) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM) | [Are you okay?](https://open.spotify.com/album/5t4TDgKqaJD7rkUsGQHCv7) | 4:00 | 2025-01-17 |  |
 | [Umeed](https://open.spotify.com/track/4BCA8oZlL95CWFBryL7waK) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Rohama Justus Nassir](https://open.spotify.com/artist/4AFNLHlWCtJBa7zB6aDSgt) | [Umeed](https://open.spotify.com/album/7IS8nCf4BQtuyYeoaS4ICg) | 3:18 | 2024-06-28 | 2024-10-05 |
 | [Umeedon Ki](https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Umeedon Ki](https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH) | 4:50 | 2025-01-17 |  |

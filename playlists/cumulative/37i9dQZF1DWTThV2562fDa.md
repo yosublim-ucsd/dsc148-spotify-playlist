@@ -4,10 +4,11 @@
 
 > There's no stopping the game\. Listen to the music from Squid Game, now streaming on Netflix.
 
-57 songs - 2 hr 56 min
+60 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1.1](https://open.spotify.com/track/4NT2yAV1bTLeeE3Db6ABXw) | [Stephen Rippy](https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ) | [Squid Game: Unleashed \(Soundtrack from the Netflix Game\)](https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh) | 1:15 | 2025-01-24 |  |
 | [A Five People Game](https://open.spotify.com/track/1plB9h5PIGncxBj0oCT4ma) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 4:30 | 2024-12-27 |  |
 | [A Toilet Fight I](https://open.spotify.com/track/0h97KdHO7a2DGrQlnV5WUd) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 3:10 | 2024-12-27 |  |
 | [A White Limousine II](https://open.spotify.com/track/2G5H7tlAxuASRiPal2RC5T) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 1:33 | 2024-12-27 |  |
@@ -19,6 +20,7 @@
 | [Don't Die in Vain](https://open.spotify.com/track/0ygCjNaSn2a6DC7dkuHzYo) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 4:01 | 2024-12-27 |  |
 | [Funeral](https://open.spotify.com/track/6MFerMHYPycq8OZmWp7J7j) | [Kim Sungsoo](https://open.spotify.com/artist/3QP8DvkVdQVhxEEeULzrff) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 3:25 | 2024-12-27 |  |
 | [Gong\-gi with Bullets](https://open.spotify.com/track/482XAn8mXxrnyKln862Rik) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 2:20 | 2024-12-27 |  |
+| [Here to Have Fun](https://open.spotify.com/track/7IRzcOXT7mnV5WNFwH8NEo) | [Stephen Rippy](https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ) | [Squid Game: Unleashed \(Soundtrack from the Netflix Game\)](https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh) | 1:16 | 2025-01-24 |  |
 | [Hostage Crisis](https://open.spotify.com/track/3RbI5JNk19sSytyXQDzvI9) | [23](https://open.spotify.com/artist/2YsdzHeTSiaIBz9eYBjq6C) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 2:22 | 2022-01-26 |  |
 | [Hyun\-ju](https://open.spotify.com/track/1Rb47STKKEGcBWL7jCy0zQ) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 2:14 | 2024-12-27 |  |
 | [I Believe Your Courage](https://open.spotify.com/track/7t9vdxzAMXQtVPVnazJt2l) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 1:14 | 2024-12-27 |  |
@@ -32,6 +34,7 @@
 | [Molar I](https://open.spotify.com/track/18b2pboAijwGn8vBUwV888) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 0:41 | 2024-12-27 |  |
 | [Murder Without Violence](https://open.spotify.com/track/4pJFFGjoHCA4g1yJOzP5Kb) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 1:53 | 2022-01-26 |  |
 | [Needles and Dalgona](https://open.spotify.com/track/4ZcrC5jf6Sj0AiEXEEDnRz) | [Park Min Joo](https://open.spotify.com/artist/1xdJgXDFdLZyWwV8qPD7lw) | [Squid Game \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/3LUdxlF9Gq90Jcd9Y24ZH8) | 3:44 | 2022-01-26 |  |
+| [No "I" in "Team"](https://open.spotify.com/track/1vV2d8ykwUpi2m0eWwomuo) | [Stephen Rippy](https://open.spotify.com/artist/7q07gjcF7sg6LMZKvp1TRZ) | [Squid Game: Unleashed \(Soundtrack from the Netflix Game\)](https://open.spotify.com/album/3nsHL0Bqoku5scKM8O0pdh) | 1:02 | 2025-01-24 |  |
 | [No way back](https://open.spotify.com/track/7ARjsYD2p06luO53nfxzYt) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 2:17 | 2024-12-27 |  |
 | [O X I](https://open.spotify.com/track/2BD2o6dlR1NJyvlM60Hfhx) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 3:09 | 2024-12-27 |  |
 | [O X II](https://open.spotify.com/track/4kOGd4NIkOFh81lqcdnE5p) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Squid Game 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/38I81fquwK20vSrvstSjZO) | 3:30 | 2024-12-27 |  |

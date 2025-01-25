@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: Silent Planet
 
-1,109 songs - 2 day 20 hr 17 min
+1,110 songs - 2 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Arkangel](https://open.spotify.com/track/07dXbgUPrylumB0XpFTULY) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Arkangel](https://open.spotify.com/album/3S8mn8c5yKRKAdE9eaD3pW) | 4:10 | 2022-01-28 | 2022-05-06 |
 | [As If It Never Was](https://open.spotify.com/track/5ihb2wN6ltF6kciiBEDFGM) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [The Sun Sleeps, As If It Never Was](https://open.spotify.com/album/3BkRwfs7XLuJA0hILM9EXB) | 4:54 | 2021-12-17 | 2022-01-08 |
 | [Ascent of the Blessed](https://open.spotify.com/track/3JMYyEl5CVxJir4o32n31E) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL) | [Ascent of the Blessed](https://open.spotify.com/album/2hYXcPB1gSjiWJgB6hE13S) | 4:10 | 2022-01-21 | 2022-07-23 |
+| [Ashes \- feat\. Jaakko Mäntymaa](https://open.spotify.com/track/1d9tRG6qVmnkVdAkJMdA5g) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E), [Jaakko Mäntymaa](https://open.spotify.com/artist/3MBKgg1tQv36q6rZ5hLWvZ) | [Ashes](https://open.spotify.com/album/2SqVjN3xK8uQnBg9ggaRt4) | 4:22 | 2025-01-17 |  |
 | [Asphalt](https://open.spotify.com/track/6cvLTmswL7v9jKjB0D1z7u) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Asphalt](https://open.spotify.com/album/2RPj3QDULrgTP4NEc9fbvy) | 4:10 | 2024-08-12 | 2024-09-21 |
 | [Asymmetry](https://open.spotify.com/track/3DKSM1HppHmGgEztFS5q2T) | [Eradicate Me](https://open.spotify.com/artist/1PqHlQtpYfnuWGNoWhZB6l) | [Asymmetry](https://open.spotify.com/album/5ArIhP5EoNogavKjUzWg89) | 3:13 | 2022-07-13 | 2022-07-23 |
 | [Atonement](https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Atonement](https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV) | 3:57 | 2022-03-25 | 2022-05-28 |
@@ -820,7 +821,7 @@
 | [Safe And Sound](https://open.spotify.com/track/1LtXoOrqBYS8kcheVUt5Pr) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Safe And Sound](https://open.spotify.com/album/3QUEnfQoenkZIyLZDMSegH) | 3:21 | 2023-02-24 | 2023-12-09 |
 | [Salt](https://open.spotify.com/track/5Ve3eqZmguw75vcY7iwwZY) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Salt](https://open.spotify.com/album/1HqkZxWaoHVC5OPhGlHGa0) | 3:27 | 2022-06-10 | 2023-03-18 |
 | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/track/4giP4hSHWfO7LfvlG50Z44) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Salt \(feat\. Dayseeker\)](https://open.spotify.com/album/3aniEhGPueequKj0nUJzfP) | 3:27 | 2023-09-15 | 2024-03-09 |
-| [Salt and Ash](https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Salt and Ash](https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m) | 2:08 | 2024-12-18 |  |
+| [Salt and Ash](https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Salt and Ash](https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m) | 2:08 | 2024-12-18 | 2025-01-25 |
 | [Samsara](https://open.spotify.com/track/75hUTjvvI6X6CQJ0HvmmX8) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Samsara](https://open.spotify.com/album/1aJPBAfywf1Vsi5vkvSMMV) | 3:44 | 2021-12-17 | 2022-02-18 |
 | [Sandman](https://open.spotify.com/track/5w0e7sRMMTKgJphpfr11oF) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Sandman](https://open.spotify.com/album/0AQpexEpqOXWsGeKBmnb9F) | 3:42 | 2024-10-18 | 2024-12-19 |
 | [Sapiens](https://open.spotify.com/track/5EgV8FKEaHyIItt0swNjhO) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Sapiens](https://open.spotify.com/album/2DuGroRwamTPVVIWZxJNWz) | 3:43 | 2021-12-17 | 2022-02-18 |

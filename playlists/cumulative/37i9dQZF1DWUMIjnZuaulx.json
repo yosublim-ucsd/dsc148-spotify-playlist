@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Mercy Chinwo",
+  "description": "Spread the Good News with the best Gospel songs of the moment. Cover: Chandler Moore, Jordin Sparks, & Anthony Gargiula",
   "name": "Spread the Gospel",
   "tracks": [
     {
@@ -2233,6 +2233,28 @@
     },
     {
       "album": {
+        "name": "Even If Extended Version",
+        "url": "https://open.spotify.com/album/6jyiAFxEifoKfwjBmcjVFU"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567100,
+      "name": "Even If Extended Version",
+      "url": "https://open.spotify.com/track/54Jo9jId9m4vcLhdW988ob"
+    },
+    {
+      "album": {
         "name": "Transitions (Live)",
         "url": "https://open.spotify.com/album/5mD4kziOFHDka8m5xqFSzV"
       },
@@ -4444,7 +4466,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 236003,
       "name": "Home - Radio Edit",
       "url": "https://open.spotify.com/track/5CKIHOvdEwa7KC7U8rrswe"
@@ -7180,7 +7202,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 344260,
       "name": "More Than Anything - Live",
       "url": "https://open.spotify.com/track/4rj3rvwZo0IYe3Usm0IdVN"
@@ -11882,6 +11904,32 @@
       "duration_ms": 235000,
       "name": "When I Think - Radio Edit / Live",
       "url": "https://open.spotify.com/track/4AoH3vZnIqEFVzNe5PPOS0"
+    },
+    {
+      "album": {
+        "name": "When the Praises Go Up (The Blessings Come Down) [Remix]",
+        "url": "https://open.spotify.com/album/5YB1uVKX7VrQiY67hBvxDL"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "Jazze Pha",
+          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+        },
+        {
+          "name": "Maya Marchelle",
+          "url": "https://open.spotify.com/artist/76o8Rrk9uKYx52z9JoS31k"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "When the Praises Go Up (The Blessings Come Down) - Remix",
+      "url": "https://open.spotify.com/track/56zLcPW4h3aVu7tFxUEw7W"
     },
     {
       "album": {

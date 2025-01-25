@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,840 likes - 186 songs - 17 hr 32 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,848 likes - 186 songs - 17 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 8 | [He Who Is To Come](https://open.spotify.com/track/5qoQKIpbl0z7oEyIPtlFJe) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [He Who Is To Come](https://open.spotify.com/album/5kVU9uVjpylXgoqNAxs7EP) | 5:16 |
 | 9 | [How Many Times](https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Worldwide Revival \(Pt\. 1\)](https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r) | 3:12 |
 | 10 | [I Know That I Know \- Live](https://open.spotify.com/track/2StfK9QdCBoRcGzIDWIaQy) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [David Dennis](https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK) | [I Know That I Know \(Live\)](https://open.spotify.com/album/4H5BjT8TcWnUjHvppL3Fb5) | 5:13 |
-| 11 | [Praise Is The Breakthrough](https://open.spotify.com/track/6XtE7xTr9ME1EMw5aqcPzu) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [Chapel Sessions \(Vol\. 1\)](https://open.spotify.com/album/3N9X0XqmjcwlNO3ma61Ufc) | 5:21 |
+| 11 | [Victory On The Way](https://open.spotify.com/track/2IrVVbJFfWhnkKuaC99HvT) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2) | 4:46 |
 | 12 | [Making Room](https://open.spotify.com/track/04MpvZX3ddrTjhDuKqc5Zt) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Making Room](https://open.spotify.com/album/2xmKVwLGNiDeVFXgUHqWXo) | 4:21 |
 | 13 | [Known By You \- Live](https://open.spotify.com/track/0vOw510PyX1EIuRZwURX9H) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Known By You \(Live\)](https://open.spotify.com/album/3CJaSJ6sruq0ntn4BzbQfl) | 10:59 |
 | 14 | [Blood of Jesus \- Live](https://open.spotify.com/track/75kvOR4YandG5GCLUdQQzt) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Raffi Greco](https://open.spotify.com/artist/01p8kdKJ0NXFqKym7SlOza), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Blood Of Jesus \(Live\)](https://open.spotify.com/album/5yo7sW9VJcJNERPpjNsNDv) | 4:35 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 185 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/56SvYdddE1igvBFZn17hRx) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:26 |
 | 186 | [King Of Kings](https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Awake](https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC) | 4:25 |
 
-Snapshot ID: `AAAgDa0TRxhsmJIxL4DNIwVtSAa3l15M`
+Snapshot ID: `AAAgD3GDhmmREsKjF/VwwCGeZozRxVFA`

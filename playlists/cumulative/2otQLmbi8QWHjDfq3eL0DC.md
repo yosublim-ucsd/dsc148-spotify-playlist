@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-278 songs - 13 hr 27 min
+279 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Don't Play by the Rules](https://open.spotify.com/track/58PyYwBXk5933MqJdmjQDn) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Don't Play by the Rules](https://open.spotify.com/album/4U69qf0FGOA4nD95iiP4cz) | 2:43 | 2023-11-03 | 2024-12-07 |
 | [Dreamteam](https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Dreamteam](https://open.spotify.com/album/15YushxelouREDwAN3cdV1) | 3:01 | 2023-11-03 | 2023-11-25 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-12-08 | 2024-02-03 |
-| [Drugs](https://open.spotify.com/track/1Y6ERLfCqcgRqaQk6AOksf) | [ZDS](https://open.spotify.com/artist/5JWq7Qs3NyKX13mLUdRui5) | [Drugs](https://open.spotify.com/album/2MBcWzJ3gY9sW3WHJHsomq) | 3:31 | 2025-01-17 |  |
+| [Drugs](https://open.spotify.com/track/1Y6ERLfCqcgRqaQk6AOksf) | [ZDS](https://open.spotify.com/artist/5JWq7Qs3NyKX13mLUdRui5) | [Drugs](https://open.spotify.com/album/2MBcWzJ3gY9sW3WHJHsomq) | 3:31 | 2025-01-17 | 2025-01-25 |
 | [Dumb](https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Dumb](https://open.spotify.com/album/3DmtKnIJ7d7OJlLe3eHHmz) | 2:29 | 2023-11-03 |  |
 | [Easy On My Heart](https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Easy On My Heart](https://open.spotify.com/album/4HW5Zf1o0eOxIfQETZFqab) | 2:58 | 2023-11-03 | 2024-02-10 |
 | [Echoes](https://open.spotify.com/track/2uRiijCGIqZI4f2vCHwGb2) | [Josh Hunter](https://open.spotify.com/artist/3DWpDqNBdUvlSfzRk27N4z), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Echoes](https://open.spotify.com/album/1dSokYM4bQNCqX9dI0wfJd) | 3:11 | 2024-08-19 |  |
@@ -148,6 +148,7 @@
 | [Left Or Right](https://open.spotify.com/track/5UGOIEo6EyUm9WFfFfU9NN) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Matthew Nolan](https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn) | [Left Or Right](https://open.spotify.com/album/7ugGaIBq4zFiaIiKDDWRlZ) | 3:13 | 2024-06-17 |  |
 | [Lies \(feat\. Mila Falls\)](https://open.spotify.com/track/0nZtIF76gwedFKYur7Wwxd) | [Fubu](https://open.spotify.com/artist/5U99N4P6k5PDjiOJz8qE96), [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Lies \(feat\. Mila Falls\)](https://open.spotify.com/album/3aDUGFHbqWla3M3xJ9mTZG) | 2:46 | 2023-11-03 |  |
 | [Life's Gonna Change](https://open.spotify.com/track/4U4UGlmJGQqXMkzKq2dum3) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Life's Gonna Change](https://open.spotify.com/album/3LYeXzEsOlwUmitzzjGNU0) | 2:30 | 2024-06-28 |  |
+| [Lights](https://open.spotify.com/track/3rDOyXJIF0RIgFJsdP8D1B) | [Charlie Knox](https://open.spotify.com/artist/7pPwVoW9SP3X6AA0mSgXto), [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Lights](https://open.spotify.com/album/4MeSQ5psZg9Z3wW2Bqhn36) | 2:35 | 2025-01-24 |  |
 | [Like I Used To](https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Like I Used To](https://open.spotify.com/album/5bRtAP2yHcZ7dW7tqkTmx6) | 3:06 | 2023-11-03 | 2024-06-22 |
 | [Little Bit Yours](https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Little Bit Yours](https://open.spotify.com/album/1AAnGhmJLEL4usZgEyIS97) | 3:16 | 2023-11-24 | 2023-12-09 |
 | [Locked Away](https://open.spotify.com/track/0eQnK7e4DXG70OUehk8JIf) | [Josh Dorey](https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id) | [Locked Away](https://open.spotify.com/album/5AxWy3hNmjoQjk9vTCbDXC) | 3:11 | 2024-07-12 | 2024-12-07 |

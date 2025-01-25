@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7XOA0s8kfTB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7XOA0s8kfTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7XOA0s8kfTB)
 
-### [Girls Band Cry ガールズバンドクライ](https://open.spotify.com/playlist/37i9dQZF1DX7XOA0s8kfTB)
+### [Girls Band Cry](https://open.spotify.com/playlist/37i9dQZF1DX7XOA0s8kfTB)
 
-> Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
+> Music from “Girls Band Cry” ©東映アニメーション
 
 45 songs - 1 hr 59 min
 

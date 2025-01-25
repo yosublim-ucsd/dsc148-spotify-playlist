@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,979 songs - 5 day 3 hr 22 min
+1,980 songs - 5 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1235,6 +1235,7 @@
 | [NOBODY // ME](https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [NOBODY // ME](https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4) | 3:35 | 2024-10-05 | 2024-10-13 |
 | [Nobody Else](https://open.spotify.com/track/0D8T0ibtaX7PkBcpKlzo3Z) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Extra Time](https://open.spotify.com/album/49qaWr7XitNvgKzobKGiGg) | 3:50 | 2023-02-19 | 2023-02-25 |
 | [Nookoqo](https://open.spotify.com/track/4LW0r8BIPuMOilf1Zo8M6z) | [Chateau Flight](https://open.spotify.com/artist/6mtCXhF5yj1GUsQItDNDwr) | [Nookoqo](https://open.spotify.com/album/55XSqPsBwBRGVNdcDWaPDJ) | 6:17 | 2023-10-15 | 2023-10-29 |
+| [North, West, South, East](https://open.spotify.com/track/5wZCXsK5v970hRFkxXmcSa) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [North, West, South, East](https://open.spotify.com/album/4RaPQf3X9EfNNqbS9LJR2u) | 2:27 | 2025-01-24 |  |
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 | 2023-07-08 |
 | [Not As I](https://open.spotify.com/track/61RfBJBxMrWVFJS46TLQSX) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Not As I EP](https://open.spotify.com/album/0HRXAZ5LxIWi0nphhQLaOM) | 3:38 | 2023-07-07 | 2023-07-16 |
 | [Not Tonight](https://open.spotify.com/track/5HWv7EqjjiZPnniJQSbkSh) | [Cromby](https://open.spotify.com/artist/1qxDhjTatsIGuMVF3LMAOX) | [Potency 003](https://open.spotify.com/album/4uffQ8sXMdA9xT6Hbm6UCb) | 6:26 | 2023-06-30 | 2023-07-08 |

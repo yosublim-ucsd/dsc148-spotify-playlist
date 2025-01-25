@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU4aFimZ74X3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU4aFimZ74X3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU4aFimZ74X3)
 
-### [INITIAL D \-頭文字D](https://open.spotify.com/playlist/37i9dQZF1DWU4aFimZ74X3)
+### [INITIAL D](https://open.spotify.com/playlist/37i9dQZF1DWU4aFimZ74X3)
 
-> Music from the street racing manga series, “INITIAL D”! 「頭文字D」といえばコレ、という名曲を収録した公式プレイリスト！（C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
+> Music from the street racing manga series, “INITIAL D”! （C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
 43 songs - 3 hr 26 min
 

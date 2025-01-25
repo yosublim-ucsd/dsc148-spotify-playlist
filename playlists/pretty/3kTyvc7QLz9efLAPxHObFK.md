@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,978 songs - 4 day 9 hr 7 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,982 songs - 4 day 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1986,5 +1986,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1976 | [The Game](https://open.spotify.com/track/5N8YDNBc12gnCwcv8gspXf) | [Tylow](https://open.spotify.com/artist/4UJL3CXfxOeciUbLIEd5q9) | [The Game](https://open.spotify.com/album/2Kc1iSkWJsg5VmCMS17e2P) | 4:06 |
 | 1977 | [Bad Guy](https://open.spotify.com/track/2BmftBbC27DoPlNefYuHdP) | [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [Phil Phauler](https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS) | [Bad Guy](https://open.spotify.com/album/6gYnXbljh6CtsoLwtaip6V) | 2:20 |
 | 1978 | [Gangsta's Paradise](https://open.spotify.com/track/7dYWuswcYTfETp2NxUqpRn) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa) | [Gangsta's Paradise](https://open.spotify.com/album/5X4PVhTdLwvxY51nHu2X6K) | 2:48 |
+| 1979 | [Chain Reaction](https://open.spotify.com/track/4qG8EmmCt7XrXysqMRkv2d) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Chain Reaction](https://open.spotify.com/album/3D8qRahF2ngcOXZUSj8kI8) | 2:12 |
+| 1980 | [Shivaya \- Remix](https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Shivaya \(Remix\)](https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn) | 3:22 |
+| 1981 | [Hard Techno Rave \- Per Pleks Remix](https://open.spotify.com/track/24hpc8YPk7PdxkW6ZJRHqS) | [D\-Stroyer](https://open.spotify.com/artist/2WRMUXhCDLTcEzLzlIhPre), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Hard Techno Rave Remixes](https://open.spotify.com/album/4ou5THi6mhvGhq321UKbVP) | 3:50 |
+| 1982 | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/track/1L5WsT1jrgXRCIbu9jlk3F) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/album/25paSvklKJb1ENR1K7cMdh) | 3:49 |
 
-Snapshot ID: `AAAH8rjO9Go/aJqznZ5DNgq9vuFCbJ2n`
+Snapshot ID: `AAAH9khc6JMg2raqvICpL7jqFrJ1xrAg`

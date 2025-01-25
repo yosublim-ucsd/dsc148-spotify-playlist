@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Leanys",
+  "description": "Fresh Latin Indie you should know. Cover: Mario Puglia",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -3071,6 +3071,28 @@
     },
     {
       "album": {
+        "name": "DE NUEVO",
+        "url": "https://open.spotify.com/album/4FIzUwE5KHpj1EwOcWiC1G"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183996,
+      "name": "DE NUEVO",
+      "url": "https://open.spotify.com/track/2rZilRO9QcpDmLYjPPmyga"
+    },
+    {
+      "album": {
         "name": "deja vu",
         "url": "https://open.spotify.com/album/1AeWnVwD0xiMYTvfXh8EZj"
       },
@@ -3511,6 +3533,28 @@
     },
     {
       "album": {
+        "name": "Doce D\u00edas",
+        "url": "https://open.spotify.com/album/0sjl5aYDuxL6GAKDJ2ufFi"
+      },
+      "artists": [
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202286,
+      "name": "Doce D\u00edas",
+      "url": "https://open.spotify.com/track/1I2Znh79P0mKx2V3JbnOQk"
+    },
+    {
+      "album": {
         "name": "DUALITY",
         "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
       },
@@ -3740,6 +3784,24 @@
       "duration_ms": 154500,
       "name": "D\u00f3nde Tu Est\u00e1s",
       "url": "https://open.spotify.com/track/2evmjqcUcR6nRWjfz7GjWU"
+    },
+    {
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF"
+      },
+      "artists": [
+        {
+          "name": "Sara \u00c1ngel",
+          "url": "https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk"
     },
     {
       "album": {
@@ -6324,6 +6386,32 @@
       "duration_ms": 230179,
       "name": "La Burbuja",
       "url": "https://open.spotify.com/track/3YdqNKwtID5pip8QbnIHls"
+    },
+    {
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "la ciudad",
+      "url": "https://open.spotify.com/track/1uHasdVOWbOKA51ilcXsvx"
     },
     {
       "album": {
@@ -13702,6 +13790,24 @@
       "duration_ms": 178064,
       "name": "Terciopelo",
       "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
+    },
+    {
+      "album": {
+        "name": "Donde Duele",
+        "url": "https://open.spotify.com/album/3BiIJ3UNYkwnhcb0Zmd8Bo"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218152,
+      "name": "Terminar Mal",
+      "url": "https://open.spotify.com/track/7JyELzKIPeuFWPZEJ6Xvtt"
     },
     {
       "album": {

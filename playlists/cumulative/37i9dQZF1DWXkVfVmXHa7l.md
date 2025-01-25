@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXkVfVmXHa7l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXkVfVmXHa7l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXkVfVmXHa7l)
 
-### [Attack on Titan \-進撃の巨人\-](https://open.spotify.com/playlist/37i9dQZF1DWXkVfVmXHa7l)
+### [Attack on Titan](https://open.spotify.com/playlist/37i9dQZF1DWXkVfVmXHa7l)
 
-> Music from Attack on Titan!「進撃の巨人」公式プレイリスト！ ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
+> Music from Attack on Titan!  ©諫山創・講談社／「進撃の巨人」The Final Season製作委員会
 
 139 songs - 11 hr 7 min
 

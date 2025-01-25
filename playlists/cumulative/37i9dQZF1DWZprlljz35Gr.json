@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Bluestronic",
+        "url": "https://open.spotify.com/album/5ouYd9u3TLiLi2I8QgWgA3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179619,
+      "name": "A Long Time Ago",
+      "url": "https://open.spotify.com/track/4Ptou8vgEF6aYsW7rKPb5o"
+    },
+    {
+      "album": {
         "name": "Precious Time",
         "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
       },

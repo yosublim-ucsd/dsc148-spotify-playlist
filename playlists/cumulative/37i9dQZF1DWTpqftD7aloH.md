@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-378 songs - 1 day 12 hr 48 min
+379 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Como Será O Amanhã](https://open.spotify.com/track/6pn1RvIvRxkRbnNXQuXvBJ) | [Jefte Santos](https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV) | [Como Será O Amanhã](https://open.spotify.com/album/7GEV5TiNIQoN9aKNKR8OjB) | 3:16 | 2023-06-23 | 2023-08-21 |
 | [Comprou](https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Comprou](https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7) | 4:42 | 2024-09-06 |  |
 | [Conquistando o Impossível](https://open.spotify.com/track/2diKs21Dq3e6K2gfhMJLCO) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Conquistando O Impossível](https://open.spotify.com/album/1oqWPqtbHvtiP4o8EmxQ9y) | 4:28 | 2023-02-17 | 2023-10-21 |
-| [Cordeiro que Venceu \- Ao Vivo](https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Cordeiro que Venceu \(Ao Vivo\)](https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2) | 6:50 | 2023-09-01 |  |
+| [Cordeiro que Venceu \- Ao Vivo](https://open.spotify.com/track/2WovkwTBNGQrAIj3Zs5kSU) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs) | [Cordeiro que Venceu \(Ao Vivo\)](https://open.spotify.com/album/5w0pIstgEedppaWCw9EeB2) | 6:50 | 2023-09-01 | 2025-01-25 |
 | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/track/3yMXARmXJgM6c0sYrtLJDk) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Corra para os Braços do Pai \(If This World\) \[Ao Vivo Em Paris\]](https://open.spotify.com/album/02EClmGIfQz1LDlAw8XEER) | 4:49 | 2023-01-14 | 2023-01-21 |
 | [Creo En Ti](https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S) | 7:03 | 2022-09-09 | 2023-01-14 |
 | [Cuida De Mim](https://open.spotify.com/track/2vMdTPntkHh37YcrTLulXL) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cuida De Mim](https://open.spotify.com/album/3ZmrAlZNemvgYoOoPe1DoY) | 3:37 | 2023-10-20 | 2023-11-23 |
@@ -319,6 +319,7 @@
 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 | 2022-09-09 | 2023-02-25 |
 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 | 2022-09-09 | 2024-08-10 |
 | [Sobre As Águas](https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [20 Anos de Adoração](https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5) | 5:48 | 2023-09-01 |  |
+| [Sol inteiro](https://open.spotify.com/track/0L1MqPbLHeF2IWivOclJT8) | [José Jr](https://open.spotify.com/artist/2aHIXgsgccgg4j8BBzrvb6) | [das coisas que carrego dentro](https://open.spotify.com/album/6DiX9DyyRnNZBVRoAnyXa5) | 3:32 | 2025-01-24 |  |
 | [Somos \- Ao Vivo](https://open.spotify.com/track/3QvKLhzoyUbI30KtyrIdId) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh), [Edificando Adoradores](https://open.spotify.com/artist/6gMJxMyIgamvww0DeHJtvl), [Videira Music](https://open.spotify.com/artist/4dVK7wXc4Og6XSSB6D55IO) | [Somos \(Ao Vivo\)](https://open.spotify.com/album/0Rnnx81MAp9nzYhksTGHOd) | 5:17 | 2023-03-03 | 2023-03-12 |
 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb) | 6:07 | 2023-08-18 | 2024-03-29 |
 | [Sonda\-me, Usa\-me](https://open.spotify.com/track/44mL5VXSVj0Rm9GBiNPmUM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros \- Gospel Collection Ao Vivo](https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx) | 3:59 | 2022-09-09 | 2023-08-08 |

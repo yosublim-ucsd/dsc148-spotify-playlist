@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring FE7O\. Updates every Wednesday.
 
-2,450 songs - 5 day 11 hr 39 min
+2,451 songs - 5 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -695,6 +695,7 @@
 | [Dímelo](https://open.spotify.com/track/5AFXThdFLXk7MlnA9n68xb) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI), [MATAHONEY](https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt) | [Dimelo](https://open.spotify.com/album/7E4LpD4jday1FOwlS1S6Ee) | 2:45 | 2022-03-02 | 2022-03-17 |
 | [E.T.E.R.](https://open.spotify.com/track/6vLKWhu7daAUoj7xlUid3v) | [Oruga](https://open.spotify.com/artist/1Z7cXrGWV5wCBspuP253Hk) | [Oruga](https://open.spotify.com/album/6Oj8bHGWDpy1EQRuf7RR2n) | 3:24 | 2023-04-12 | 2023-04-27 |
 | [Easy](https://open.spotify.com/track/2E9yOBE0V7zo353wpIe89t) | [Bunlo](https://open.spotify.com/artist/75idTho2H32dlquJKSarJe), [Esco](https://open.spotify.com/artist/73gRTljGGFHIvTUUn9Ub4p) | [Easy](https://open.spotify.com/album/5m8SfEeRuowrvj777PxYwX) | 3:21 | 2022-03-16 | 2022-03-23 |
+| [ECHO](https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk) | [Sara Ángel](https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna) | [ECHO](https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF) | 3:36 | 2025-01-24 |  |
 | [Eclipse](https://open.spotify.com/track/07CeP0WT33Ksv9nFus8b05) | [Davo](https://open.spotify.com/artist/6bXwSRTVIBHKPJ2kE9gS80) | [Eclipse](https://open.spotify.com/album/23qgHHaZlo19SId91LPRHD) | 2:52 | 2023-03-15 | 2023-03-23 |
 | [Eclipse](https://open.spotify.com/track/0fGNKSW2BTa2AytRheXuDw) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx), [Alyko](https://open.spotify.com/artist/6LgOFiGZVIUExt48t3hpWd) | [Eclipse](https://open.spotify.com/album/69G45JAMGjkJbgEzOyDIvW) | 2:38 | 2023-07-26 | 2023-08-10 |
 | [Eclipse](https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC) | [Proyectosolo](https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa) | [Eclipse](https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf) | 3:16 | 2023-07-19 | 2023-08-03 |
@@ -1536,7 +1537,7 @@
 | [no llamaste \- Remix](https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [no llamaste \(Remix\)](https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7) | 4:06 | 2024-02-21 | 2024-03-07 |
 | [No Llores](https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [No Llores](https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN) | 2:58 | 2024-09-25 | 2024-10-17 |
 | [No Lo Mezclé](https://open.spotify.com/track/1Cm79NdvCDzC6NpXVb6cso) | [GlorySixVain](https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw) | [Jesus of Barcelonés Nord/Retarded Swag 4 U Dad](https://open.spotify.com/album/6ECQ5qwTcYvsGM7mpPIpRi) | 2:41 | 2022-04-06 | 2022-04-14 |
-| [No Lonely](https://open.spotify.com/track/6C6UCd0PJLPybJmBsFr1ku) | [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh) | [Palmera Nights](https://open.spotify.com/album/0DnRJFfuOdR2JaF8IbZ7Yy) | 2:47 | 2024-10-02 |  |
+| [No Lonely](https://open.spotify.com/track/6C6UCd0PJLPybJmBsFr1ku) | [Drea Dury](https://open.spotify.com/artist/7euT1r89ub1s001dTqp3gh) | [Palmera Nights](https://open.spotify.com/album/0DnRJFfuOdR2JaF8IbZ7Yy) | 2:47 | 2024-10-02 | 2025-01-25 |
 | [No Me Afecta](https://open.spotify.com/track/5NdattxSDaevBwA4TXT3ZY) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [No Me Afecta](https://open.spotify.com/album/5MBx8BOImNR9MsFAgA3DSP) | 4:44 | 2023-08-09 | 2024-01-11 |
 | [No Me Conoces](https://open.spotify.com/track/71zkmD0Icu8o2bfqu2Gsnc) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [No Me Conoces](https://open.spotify.com/album/03DuOKmnGp3ZWymASIWqyD) | 3:31 | 2024-01-10 | 2024-01-25 |
 | [No Me Da La Fokin' Gana](https://open.spotify.com/track/53rONYB3DQYqioJ2Q4YZVf) | [Ani Cordero](https://open.spotify.com/artist/0CRwWa8WxuhnF5eTf45lI1) | [No Me Da La Fokin' Gana](https://open.spotify.com/album/2rBPBckMjlPz4h1TRGHDSi) | 3:56 | 2023-04-12 | 2023-04-27 |

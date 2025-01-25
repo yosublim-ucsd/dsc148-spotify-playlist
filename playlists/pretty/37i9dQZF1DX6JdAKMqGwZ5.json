@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: trashi.",
-  "num_followers": 196554,
+  "num_followers": 196641,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
+        "name": "Nublado",
+        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        }
+      ],
+      "duration_ms": 168235,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
         "name": "Catro Cousas",
         "url": "https://open.spotify.com/album/6ids62t89U0VelXnAY1hHY"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "Nublado",
-        "url": "https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF"
+        "name": "Solo Quer\u00eda Probar",
+        "url": "https://open.spotify.com/album/0keWXIkbDuB1e5XSFD1TLX"
       },
       "artists": [
         {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+          "name": "Colectivo Da Silva",
+          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
         }
       ],
-      "duration_ms": 168235,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R"
+      "duration_ms": 169017,
+      "name": "Solo Quer\u00eda Probar",
+      "url": "https://open.spotify.com/track/4YGUjmT1iK1cxQ1mtjd23z"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -631,22 +647,6 @@
       "duration_ms": 176176,
       "name": "Pura geografia",
       "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
-        "name": "Solo Quer\u00eda Probar",
-        "url": "https://open.spotify.com/album/0keWXIkbDuB1e5XSFD1TLX"
-      },
-      "artists": [
-        {
-          "name": "Colectivo Da Silva",
-          "url": "https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY"
-        }
-      ],
-      "duration_ms": 169017,
-      "name": "Solo Quer\u00eda Probar",
-      "url": "https://open.spotify.com/track/4YGUjmT1iK1cxQ1mtjd23z"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "Salvavidas",
-        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
-      },
-      "artists": [
-        {
-          "name": "Gara Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Salvavidas",
-      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 199448,
       "name": "Echo de menos a los Arctic Monkeys",
       "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
+        "name": "Salvavidas",
+        "url": "https://open.spotify.com/album/7fR1EcIUbc5P3KdxSBTEfG"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Salvavidas",
+      "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "Bail\u00f3dromo, Vol. 1",
-        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
-      },
-      "artists": [
-        {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
-        }
-      ],
-      "duration_ms": 268253,
-      "name": "Siempre Vuelve",
-      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
         "name": "escocia",
         "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 177321,
       "name": "escocia",
       "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
+        "name": "Bail\u00f3dromo, Vol. 1",
+        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "duration_ms": 268253,
+      "name": "Siempre Vuelve",
+      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
+        "name": "Danzas de Amor y Veneno",
+        "url": "https://open.spotify.com/album/4ojYb3xrBf3rkfScHntCm6"
+      },
+      "artists": [
+        {
+          "name": "Sila Lua",
+          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+        }
+      ],
+      "duration_ms": 156551,
+      "name": "OJOS",
+      "url": "https://open.spotify.com/track/7IFSzI3yMiAgUaHFPQ4Kw6"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
         "name": "La Luna y el Sol",
         "url": "https://open.spotify.com/album/0ToGibJOn1bfAdexcLgAwp"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "YERBABUENA",
-        "url": "https://open.spotify.com/album/0EhdOLT75A27wDXTT7YCgj"
+        "name": "estoy exagerando???",
+        "url": "https://open.spotify.com/album/3xZu3Cr9aWpxjzON9D7WEK"
       },
       "artists": [
         {
-          "name": "Sila Lua",
-          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
         }
       ],
-      "duration_ms": 168000,
-      "name": "YERBABUENA",
-      "url": "https://open.spotify.com/track/74ujIumBc7STBhR0kL1rwP"
+      "duration_ms": 155145,
+      "name": "Cada superficie",
+      "url": "https://open.spotify.com/track/7LPVrmVk7D2GoXf8lRmWh1"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -1075,18 +1091,50 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "estoy exagerando???",
-        "url": "https://open.spotify.com/album/3xZu3Cr9aWpxjzON9D7WEK"
+        "name": "abrigo",
+        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
       },
       "artists": [
         {
-          "name": "Casero",
-          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 155145,
-      "name": "Cada superficie",
-      "url": "https://open.spotify.com/track/7LPVrmVk7D2GoXf8lRmWh1"
+      "duration_ms": 169955,
+      "name": "abrigo",
+      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
+        "name": "YERBABUENA",
+        "url": "https://open.spotify.com/album/0EhdOLT75A27wDXTT7YCgj"
+      },
+      "artists": [
+        {
+          "name": "Sila Lua",
+          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "YERBABUENA",
+      "url": "https://open.spotify.com/track/74ujIumBc7STBhR0kL1rwP"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
+        "name": "Espina",
+        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Espina",
+      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -1107,34 +1155,18 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "abrigo",
-        "url": "https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa"
+        "name": "la del karma",
+        "url": "https://open.spotify.com/album/3LyE6gMCvIoG13WJfUEbBF"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
         }
       ],
-      "duration_ms": 169955,
-      "name": "abrigo",
-      "url": "https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
-        "name": "Espina",
-        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Espina",
-      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
+      "duration_ms": 125500,
+      "name": "la del karma",
+      "url": "https://open.spotify.com/track/2YMhovCys5Zj2I3CsUPUBp"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -1159,38 +1191,6 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "Danzas de Amor y Veneno",
-        "url": "https://open.spotify.com/album/4ojYb3xrBf3rkfScHntCm6"
-      },
-      "artists": [
-        {
-          "name": "Sila Lua",
-          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
-        }
-      ],
-      "duration_ms": 156551,
-      "name": "OJOS",
-      "url": "https://open.spotify.com/track/7IFSzI3yMiAgUaHFPQ4Kw6"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
-        "name": "la del karma",
-        "url": "https://open.spotify.com/album/3LyE6gMCvIoG13WJfUEbBF"
-      },
-      "artists": [
-        {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
-        }
-      ],
-      "duration_ms": 125500,
-      "name": "la del karma",
-      "url": "https://open.spotify.com/track/2YMhovCys5Zj2I3CsUPUBp"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
         "name": "Demasiado Tarde",
         "url": "https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z"
       },
@@ -1207,26 +1207,6 @@
       "duration_ms": 165959,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
-        "name": "sangre y sal",
-        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 171921,
-      "name": "n\u00fameros rojos",
-      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
+        "name": "sangre y sal",
+        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 171921,
+      "name": "n\u00fameros rojos",
+      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
         "name": "Coraz\u00f3n vaquero",
         "url": "https://open.spotify.com/album/6vzNVVfoMoxv9oga5Yj7Q5"
       },
@@ -1311,7 +1311,7 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "El Espejo",
+        "name": "El Espejo (canci\u00f3n solidaria por la DANA)",
         "url": "https://open.spotify.com/album/0xkaHynYAcWhTJwbJBt6YH"
       },
       "artists": [
@@ -1365,7 +1365,7 @@
         }
       ],
       "duration_ms": 171627,
-      "name": "El Espejo",
+      "name": "El Espejo (canci\u00f3n solidaria por la DANA)",
       "url": "https://open.spotify.com/track/5Gb0VSkxfsusWe9VanUvcn"
     },
     {
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
-        "name": "Mirarte",
-        "url": "https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 188464,
-      "name": "Mirarte",
-      "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
         "name": "Reventarme",
         "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 186382,
       "name": "Reventarme",
       "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
+        "name": "Mirarte",
+        "url": "https://open.spotify.com/album/0oHBRHSQBrgQ9ENQ4dAFP9"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 188464,
+      "name": "Mirarte",
+      "url": "https://open.spotify.com/track/3hgXQHurkosJVHCHCnNh5p"
     },
     {
       "added_at": "2025-01-23 23:00:08",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2025-01-23 23:00:08",
       "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
+    },
+    {
+      "added_at": "2025-01-23 23:00:08",
+      "album": {
         "name": "Museo de las Desilusiones",
         "url": "https://open.spotify.com/album/4v1t5YPaVxisQ4Tre5UK2S"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 159146,
       "name": "Necesito Curarme",
       "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
-    },
-    {
-      "added_at": "2025-01-23 23:00:08",
-      "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225221,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
     }
   ],
   "unique_name": "Radar Indie",

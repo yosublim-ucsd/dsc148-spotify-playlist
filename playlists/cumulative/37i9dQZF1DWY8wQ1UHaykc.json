@@ -1327,6 +1327,42 @@
     },
     {
       "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207403,
+      "name": "Jatuh Hati",
+      "url": "https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw"
+    },
+    {
+      "album": {
+        "name": "Seleksi Hits",
+        "url": "https://open.spotify.com/album/1Y8F20UfzbynDnmWAlCTYB"
+      },
+      "artists": [
+        {
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251332,
+      "name": "Jika Cinta Dia",
+      "url": "https://open.spotify.com/track/0YeFGeuL7nr9V4GKjflsDa"
+    },
+    {
+      "album": {
         "name": "Judika",
         "url": "https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr"
       },
@@ -1360,6 +1396,24 @@
       "duration_ms": 245232,
       "name": "Jodoh Pasti Bertemu",
       "url": "https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX"
+    },
+    {
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257252,
+      "name": "Kali Kedua",
+      "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
     },
     {
       "album": {
@@ -2462,6 +2516,28 @@
       "duration_ms": 271751,
       "name": "Sampai Mati",
       "url": "https://open.spotify.com/track/0VMb5OupyZA27f2u6Sck01"
+    },
+    {
+      "album": {
+        "name": "Sang Penggoda",
+        "url": "https://open.spotify.com/album/2LtXJXiTmmd2mGbVi7PzLH"
+      },
+      "artists": [
+        {
+          "name": "Tata Janeeta",
+          "url": "https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz"
+        },
+        {
+          "name": "Maia Estianty",
+          "url": "https://open.spotify.com/artist/5a4jEOtU2mISDG7jshDF0j"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271804,
+      "name": "Sang Penggoda",
+      "url": "https://open.spotify.com/track/7uP1XTPVEI40AZGVKNzITm"
     },
     {
       "album": {

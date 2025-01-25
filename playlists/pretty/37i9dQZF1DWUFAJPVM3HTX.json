@@ -1,13 +1,373 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt?si=YX3RD7MbRfKlSj8eX7ExQQ\"> THEHONESTGUY </a>. Updates every Wednesday.",
-  "num_followers": 257732,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=W4ooKyZsTkKX5ZdKxoaseg\"> Nali </a>. Updates every Wednesday.",
+  "num_followers": 257839,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nkBgAAAABuOGuWqJJDdkIQ/6cK9bLm",
+  "snapshot_id": "Z5NkBQAAAACWmA2maOaUN1C40r+w0d96",
   "tracks": [
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "No Spaces",
+        "url": "https://open.spotify.com/album/4MyQEs6Nn34vwTy5Qxh84j"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "No Spaces",
+      "url": "https://open.spotify.com/track/0R2S5yZDLy5HtMkslO6sdf"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Craving For This Love",
+        "url": "https://open.spotify.com/album/4XnkHo4vBq77MYXh51tCu7"
+      },
+      "artists": [
+        {
+          "name": "Diedrick",
+          "url": "https://open.spotify.com/artist/1nC0rPpaZeJc0M6KkTzuDV"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Craving For This Love",
+      "url": "https://open.spotify.com/track/2yqfLFZsaIN1gEvU8wgnsL"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/6q3DI36bLzKZT9JpBjINLn"
+      },
+      "artists": [
+        {
+          "name": "JAWAN.mp3",
+          "url": "https://open.spotify.com/artist/090FQ8mQozGCRCttDhgEw7"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "Loved That Way",
+      "url": "https://open.spotify.com/track/1hvHmC7B6dAkigdmruFmMs"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "561",
+        "url": "https://open.spotify.com/album/1QWwpTh1lUAn7Kf6byyUhc"
+      },
+      "artists": [
+        {
+          "name": "bbyblu",
+          "url": "https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz"
+        },
+        {
+          "name": "Norah's World",
+          "url": "https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh"
+        },
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "duration_ms": 138463,
+      "name": "561",
+      "url": "https://open.spotify.com/track/1wVFdQBApaatPvfrhTaMxL"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "BAD OMEN",
+        "url": "https://open.spotify.com/album/4f0t92PPkPXZoCi1Z8gnUP"
+      },
+      "artists": [
+        {
+          "name": "Ezra Wood",
+          "url": "https://open.spotify.com/artist/1Tdm1ah8WWVOsv1gDSjJte"
+        }
+      ],
+      "duration_ms": 190151,
+      "name": "BAD OMEN",
+      "url": "https://open.spotify.com/track/5mxDUPoxGiiSNH8lSm3xRb"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/2l0bxficIDIUixmr40m6hj"
+      },
+      "artists": [
+        {
+          "name": "Andrea Valle",
+          "url": "https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe"
+        }
+      ],
+      "duration_ms": 170074,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/2iesLdfS09nohfkJunM4Z1"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Between Truth & Fiction",
+        "url": "https://open.spotify.com/album/4H0dXDZnV2OXYgvH7sgwt6"
+      },
+      "artists": [
+        {
+          "name": "Justin Garner",
+          "url": "https://open.spotify.com/artist/3xOsqNaO7F3UNdQjJJif8o"
+        }
+      ],
+      "duration_ms": 209049,
+      "name": "Ride Good (Smooch Smooch)",
+      "url": "https://open.spotify.com/track/1wlPWVdQ9rvc1LbTRQna26"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "To the Fockers",
+        "url": "https://open.spotify.com/album/39pzazluR6wtJOJtNFUwDD"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        }
+      ],
+      "duration_ms": 82291,
+      "name": "To the Fockers",
+      "url": "https://open.spotify.com/track/4cAUI0ob5D5nqD5umHYt6d"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Bad Man",
+        "url": "https://open.spotify.com/album/5VQzHkICEeB1vHZVJuIcDO"
+      },
+      "artists": [
+        {
+          "name": "Reece Miller",
+          "url": "https://open.spotify.com/artist/4WGJkLUI7nU4LI7ny0hRzY"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Bad Man",
+      "url": "https://open.spotify.com/track/0USVUZlVLc3mmE4j4nYNPL"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Rhythm For The Blues",
+        "url": "https://open.spotify.com/album/3D8ss43aJpd5l60PXYwEC9"
+      },
+      "artists": [
+        {
+          "name": "Aanya Martin",
+          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
+        }
+      ],
+      "duration_ms": 227164,
+      "name": "Rhythm For The Blues",
+      "url": "https://open.spotify.com/track/4GPEhOQV9O74wcREZc7udY"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "WAR",
+        "url": "https://open.spotify.com/album/7ySISELUXcFfxceYtsxnrV"
+      },
+      "artists": [
+        {
+          "name": "Nnashe",
+          "url": "https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu"
+        },
+        {
+          "name": "Jiggy Stapes",
+          "url": "https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF"
+        },
+        {
+          "name": "S-Que",
+          "url": "https://open.spotify.com/artist/0vQFWM1zpxvMVOwTdvtWjP"
+        }
+      ],
+      "duration_ms": 202315,
+      "name": "WAR",
+      "url": "https://open.spotify.com/track/2ufWMNpHTdnKrOrWRpCtQh"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "HARD 4 ME",
+        "url": "https://open.spotify.com/album/5nHNHB137xzJUewKVfk8SL"
+      },
+      "artists": [
+        {
+          "name": "Shelby Ruger",
+          "url": "https://open.spotify.com/artist/5wuTCMXCmLGpOk5eVnKBsx"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "HARD 4 ME",
+      "url": "https://open.spotify.com/track/11K4OJ96Rxot3BTXdbFcCK"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Rodeo Clown",
+        "url": "https://open.spotify.com/album/3gwoTJIpgFwiYWO54l6spB"
+      },
+      "artists": [
+        {
+          "name": "Keoni Usi",
+          "url": "https://open.spotify.com/artist/3cIPGzTCvyVMFhvsn550Wn"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Rodeo Clown",
+      "url": "https://open.spotify.com/track/6tGpYtEPOr3k2mk7ZLDhhG"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "'bout time",
+        "url": "https://open.spotify.com/album/2GBFfrc1DA0gwL0hSIQ4BP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "'bout time",
+      "url": "https://open.spotify.com/track/0HzPHOXGLBp10XbIZMwBQs"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Not That Girl",
+        "url": "https://open.spotify.com/album/6y7kaQRyoglCDSuIGCO3Ih"
+      },
+      "artists": [
+        {
+          "name": "Shaylin B",
+          "url": "https://open.spotify.com/artist/6eaTpXsq4COLIOczyJiWh0"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Not That Girl",
+      "url": "https://open.spotify.com/track/7K44cNgImV5Xh3cR2AZUi8"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Ain't Easy",
+        "url": "https://open.spotify.com/album/1TD7QHy48RPhLcBTfjNwth"
+      },
+      "artists": [
+        {
+          "name": "Demae",
+          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
+        }
+      ],
+      "duration_ms": 268056,
+      "name": "Ain't Easy",
+      "url": "https://open.spotify.com/track/7oRtVcdlys2I6s8fGhC6u0"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Addicted to Love",
+        "url": "https://open.spotify.com/album/2c2r7lAdeN4D8EC3imJid4"
+      },
+      "artists": [
+        {
+          "name": "KAYWHT",
+          "url": "https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje"
+        }
+      ],
+      "duration_ms": 148138,
+      "name": "Addicted to Love",
+      "url": "https://open.spotify.com/track/5e37QnU1xWKLJflHIsAEo5"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Saint Tropez",
+        "url": "https://open.spotify.com/album/70hshbhNmgnyst37PWNF07"
+      },
+      "artists": [
+        {
+          "name": "Landon Sears",
+          "url": "https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3"
+        },
+        {
+          "name": "Alex Slay",
+          "url": "https://open.spotify.com/artist/3ln3LqQWM10v8nj3TC8G59"
+        }
+      ],
+      "duration_ms": 110882,
+      "name": "Saint Tropez",
+      "url": "https://open.spotify.com/track/32kQcoN3P27UCmDC9KrZ6l"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "In The Water",
+        "url": "https://open.spotify.com/album/3tjk2jGCZcDLH14GtTlz74"
+      },
+      "artists": [
+        {
+          "name": "Cairo",
+          "url": "https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF"
+        }
+      ],
+      "duration_ms": 229597,
+      "name": "In The Water",
+      "url": "https://open.spotify.com/track/6Sm6vxBIc4v5ZsShRyDiX1"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "2ME",
+        "url": "https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK"
+      },
+      "artists": [
+        {
+          "name": "Stevan",
+          "url": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
+        }
+      ],
+      "duration_ms": 131732,
+      "name": "2ME",
+      "url": "https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR"
+    },
+    {
+      "added_at": "2025-01-24 09:57:25",
+      "album": {
+        "name": "Devious",
+        "url": "https://open.spotify.com/album/2hKy2M6BgurczFXqcgt3Ii"
+      },
+      "artists": [
+        {
+          "name": "Limage",
+          "url": "https://open.spotify.com/artist/7uezObA5zpd0BUDsxnQ0Y6"
+        }
+      ],
+      "duration_ms": 164391,
+      "name": "Devious",
+      "url": "https://open.spotify.com/track/7d0ABDOslwOiECv2MAY3gy"
+    },
     {
       "added_at": "2025-01-17 05:00:54",
       "album": {
@@ -1055,22 +1415,6 @@
       "duration_ms": 129029,
       "name": "F.N.F.",
       "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
-    },
-    {
-      "added_at": "2024-11-15 16:19:08",
-      "album": {
-        "name": "POOKIE'S REQUIEM",
-        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 108791,
-      "name": "POOKIE'S REQUIEM",
-      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
     },
     {
       "added_at": "2024-12-04 20:32:13",

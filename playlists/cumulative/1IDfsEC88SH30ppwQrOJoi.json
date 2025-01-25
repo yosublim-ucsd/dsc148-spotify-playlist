@@ -3759,6 +3759,24 @@
     },
     {
       "album": {
+        "name": "Marathon / Blowfish",
+        "url": "https://open.spotify.com/album/7ITHLZE2vIMoJ2hdNnY9g8"
+      },
+      "artists": [
+        {
+          "name": "Vertigini",
+          "url": "https://open.spotify.com/artist/60le92YZ1Nbf59c65NQIEV"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267923,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/1CyaiI6M9K4XBgj9XKSEkZ"
+    },
+    {
+      "album": {
         "name": "Maria Maria",
         "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },

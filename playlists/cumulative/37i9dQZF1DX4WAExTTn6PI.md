@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Noeline Hofmann
 
-235 songs - 14 hr 24 min
+236 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Waltz Across Texas](https://open.spotify.com/track/5drS8Hv8Q8fufYOn9km0UT) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU) | [Loving You](https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR) | 2:47 | 2023-06-23 | 2024-04-19 |
 | [Way Down Yonder](https://open.spotify.com/track/39y7924mLMb0Jqv5Z1BWkN) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7) | [Way Down Yonder](https://open.spotify.com/album/2FdypF8Zv8d6g2MX8WgyXH) | 3:36 | 2024-01-12 |  |
 | [We Are Here](https://open.spotify.com/track/604TjuOvRI4BTt9rlRrCqs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [We Are Here](https://open.spotify.com/album/24NMVCQrIlerOiB0o2fjVd) | 3:24 | 2022-01-28 | 2023-05-20 |
+| [Weekend](https://open.spotify.com/track/11jpBiMgL6JzX8ixmrWK6T) | [Landon Smith](https://open.spotify.com/artist/3xYWSAnkKiD6rqoMtOod1m) | [Weekend](https://open.spotify.com/album/75z7BsjM6xczGJ8GHEnsX7) | 2:58 | 2025-01-24 |  |
 | [Whatever We Are](https://open.spotify.com/track/4CmnqVb5QJ55IpaT65Il9f) | [Maia Sharp](https://open.spotify.com/artist/08vGa4eSfPKe22qVnkuI6N) | [Whatever We Are](https://open.spotify.com/album/71Ay0LRLm8DV0T9cl7c5KZ) | 3:31 | 2022-01-28 | 2023-04-09 |
 | [Where Berries Grow](https://open.spotify.com/track/0ideOQQL73HMu4KS99cL99) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Where Berries Grow](https://open.spotify.com/album/30vFeCWrEiXEH1MR75ILfU) | 3:36 | 2024-03-08 |  |
 | [Where Will I Go](https://open.spotify.com/track/4SKZBSVEJq6oSUr6HhBCnN) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Where Will I Go](https://open.spotify.com/album/74LQjfjqdiTdubRld7e1Jx) | 5:19 | 2023-06-16 | 2023-09-09 |

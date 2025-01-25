@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá que tá viral no seu feed sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,402 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,394 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 5 | [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/track/3xmIlL2CHBf9bwVU9g1oNI) | [Toca dos Hits](https://open.spotify.com/artist/4NWi1whEq7e8X2oAtcTTpZ) | [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/album/0tqaBiRR3qT3NQ2T8goA0B) | 4:22 |
 | 6 | [Eu Tô Sozinho, Tô Solteiro](https://open.spotify.com/track/1jihHPjnDlipkT1iSXwEio) | [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Bonde do gato preto](https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei) | [Eu Tô Sozinho, Tô Solteiro](https://open.spotify.com/album/3lDVqMcILrZuluTmF6bz96) | 2:46 |
 | 7 | [Tu Xera](https://open.spotify.com/track/3Sd5jsryYBah9GPAdVfsrA) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [Tu Xera](https://open.spotify.com/album/0jBodMyOYxuMCLVMRYxV4Z) | 2:43 |
-| 8 | [Me Leva](https://open.spotify.com/track/6VCQnqLbK7WSMap3V0SeCG) | [Companhia do kaprixxo](https://open.spotify.com/artist/7u4LPADrCy0Ok03X5bp9CA) | [Mexendo Com Você](https://open.spotify.com/album/7MjGZEfyKQC4MH5rYlDRlI) | 2:10 |
+| 8 | [Me Leva](https://open.spotify.com/track/6VCQnqLbK7WSMap3V0SeCG) | [Companhia do kaprixxo](https://open.spotify.com/artist/7u4LPADrCy0Ok03X5bp9CA), [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Mexendo Com Você](https://open.spotify.com/album/7MjGZEfyKQC4MH5rYlDRlI) | 2:10 |
 | 9 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 10 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 |
 | 11 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 1MILL",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DIAMOND MQT",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 254596,
       "name": "ACT",
       "url": "https://open.spotify.com/track/0wOdrGgxB3LzluAorVda5l"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/7hbchgX3dn1pSrjqhlA3gP"
+      },
+      "artists": [
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3RpYxHjhAptAGk5pmjDHYB"
     },
     {
       "album": {
@@ -1457,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Gethigh My Love",
+        "url": "https://open.spotify.com/album/4xNgD7LEJPkLMKWcQs4VS9"
+      },
+      "artists": [
+        {
+          "name": "BOSSSICK",
+          "url": "https://open.spotify.com/artist/246MafiP1QJBE888UZ3PRL"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189419,
+      "name": "Gethigh My Love",
+      "url": "https://open.spotify.com/track/1KWyMRhief1C3X7tlasgpT"
+    },
+    {
+      "album": {
         "name": "Ghosted",
         "url": "https://open.spotify.com/album/5GQi00TAPvs8TkfQt89Bhz"
       },
@@ -1698,6 +1734,28 @@
       "duration_ms": 171000,
       "name": "Hold on",
       "url": "https://open.spotify.com/track/2hiOoKjKDAcZEXaB9JwfBD"
+    },
+    {
+      "album": {
+        "name": "\u0e1f\u0e34\u0e25\u0e19\u0e2d\u0e01",
+        "url": "https://open.spotify.com/album/4gxQ1ACJY7ULGfHuVa6a6V"
+      },
+      "artists": [
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        },
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218644,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/4Orv09K4EN9aGAoV8CrRgf"
     },
     {
       "album": {
@@ -4280,7 +4338,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 166158,
       "name": "So Proud of You",
       "url": "https://open.spotify.com/track/1rmyCxU7a3MxBFs6e0UDFL"
@@ -4306,7 +4364,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 197500,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8"
@@ -4568,7 +4626,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 109268,
       "name": "Swag It Out",
       "url": "https://open.spotify.com/track/3P9KhTVZj708BcY8qQCKUM"
@@ -4925,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/4Nn9YdVaDHsYvAVqdoa4rQ"
+      },
+      "artists": [
+        {
+          "name": "BABY ROCKY",
+          "url": "https://open.spotify.com/artist/3ANMzDN6QHTKp9yr6eYxDX"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133250,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/2uz1YCfVlRgpwcxvik5SJo"
+    },
+    {
+      "album": {
         "name": "What You Do",
         "url": "https://open.spotify.com/album/23WKinRFL0kEqnx6jjCoav"
       },
@@ -5086,6 +5162,24 @@
       "duration_ms": 182951,
       "name": "You Are My Type",
       "url": "https://open.spotify.com/track/0GYtyikRBdKSLVvwbniZaK"
+    },
+    {
+      "album": {
+        "name": "YOU FEEL ME",
+        "url": "https://open.spotify.com/album/5p4unmpTsWc1Zl83EzPmmJ"
+      },
+      "artists": [
+        {
+          "name": "G-Bear",
+          "url": "https://open.spotify.com/artist/5B3DHZuVuSCKONCjAEaoib"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "YOU FEEL ME",
+      "url": "https://open.spotify.com/track/2Eov5dNBRsuJUnSy7JPI9S"
     },
     {
       "album": {
@@ -5330,7 +5424,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 207857,
       "name": "\u0e01\u0e47\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH"
@@ -5584,6 +5678,24 @@
       "duration_ms": 285842,
       "name": "\u0e02\u0e49\u0e32\u0e27\u0e2a\u0e32\u0e23",
       "url": "https://open.spotify.com/track/699wAn4tt0TBvrnkKDPkSe"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e02\u0e35\u0e49\u0e25\u0e37\u0e21",
+        "url": "https://open.spotify.com/album/6d7qXb9gqrXqNVsBsL4I4J"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168763,
+      "name": "\u0e04\u0e19\u0e02\u0e35\u0e49\u0e25\u0e37\u0e21",
+      "url": "https://open.spotify.com/track/2JsJp342QRfnwL4fhUJCLk"
     },
     {
       "album": {
@@ -7010,7 +7122,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 197142,
       "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
       "url": "https://open.spotify.com/track/71XNRIhUFi9cdDjLGnRgjr"
@@ -7922,7 +8034,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 212938,
       "name": "\u0e21\u0e35\u0e41\u0e15\u0e48\u0e25\u0e34\u0e1f\u0e15\u0e4c",
       "url": "https://open.spotify.com/track/4wXT43BAe7vI6OjdrU6hQo"
@@ -8100,7 +8212,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 256178,
       "name": "\u0e23\u0e16\u0e44\u0e1f\u0e1a\u0e19\u0e1f\u0e49\u0e32",
       "url": "https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp"
@@ -8399,6 +8511,28 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e07\u0e32",
+        "url": "https://open.spotify.com/album/6fyWn1awdpqHE4lqKorlcK"
+      },
+      "artists": [
+        {
+          "name": "LOYTHUG",
+          "url": "https://open.spotify.com/artist/1MgfB1R6d4Ad6qxm5d8QCs"
+        },
+        {
+          "name": "Cxpy",
+          "url": "https://open.spotify.com/artist/5I9ZPKvAY2tRPF8353PrZ1"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e40\u0e18\u0e2d\u0e40\u0e2b\u0e07\u0e32",
+      "url": "https://open.spotify.com/track/7l02Qwy8zGufT73QyHY3yk"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01 Feelin'",
         "url": "https://open.spotify.com/album/6LP5ttCSgrTsvyg5OiIYXm"
       },
@@ -8662,6 +8796,24 @@
       "duration_ms": 219573,
       "name": "\u0e25\u0e31\u0e48\u0e19\u0e44\u0e01",
       "url": "https://open.spotify.com/track/4gfNL0Jjz8zBey4uhkZJnG"
+    },
+    {
+      "album": {
+        "name": "\u0e25\u0e36\u0e01\u0e20\u0e32\u0e22\u0e43\u0e19\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/6wCzgBCjKOMQnRwoWPURAL"
+      },
+      "artists": [
+        {
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248205,
+      "name": "\u0e25\u0e36\u0e01\u0e20\u0e32\u0e22\u0e43\u0e19\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/1jVFs00BFrUUUd3iQ6GqCH"
     },
     {
       "album": {
@@ -11674,7 +11826,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 159855,
       "name": "\u0e44\u0e21\u0e48\u0e42\u0e17\u0e29\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/71TgfQlqTvv2rpKMBoa9dF"

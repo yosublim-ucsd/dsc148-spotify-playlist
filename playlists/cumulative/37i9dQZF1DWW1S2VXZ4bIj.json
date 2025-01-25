@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lomosonic",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GAVIN:D",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
+    {
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/7btOSZmc98v9gQlZmzO1c5"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195189,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/6PR5TxUGhB3SEe7lWJk4Jn"
+    },
     {
       "album": {
         "name": "2AM (\u0e04\u0e38\u0e13\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e21\u0e32\u0e01\u0e46\u0e21\u0e31\u0e49\u0e22?)",
@@ -136,7 +154,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -508,7 +526,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 133113,
       "name": "drinks or coffee",
       "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
@@ -696,6 +714,24 @@
       "duration_ms": 194666,
       "name": "heartstopper",
       "url": "https://open.spotify.com/track/5cnNLM3xWUXqVLXtvH8ZQa"
+    },
+    {
+      "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159797,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2"
     },
     {
       "album": {
@@ -1014,7 +1050,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
@@ -1339,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "WINTER HEPTAGON",
+        "url": "https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151773,
+      "name": "PYTHON",
+      "url": "https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv"
+    },
+    {
+      "album": {
         "name": "RAPSTAR",
         "url": "https://open.spotify.com/album/5k4H423NlDI2jyhN3cENua"
       },
@@ -1354,6 +1408,24 @@
       "duration_ms": 180000,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/3LJdM5B8POsS6aG4ri5TQ3"
+    },
+    {
+      "album": {
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197657,
+      "name": "Really Like You",
+      "url": "https://open.spotify.com/track/3entdIWiOuQfcXIkJEABsV"
     },
     {
       "album": {
@@ -1574,7 +1646,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 197500,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8"
@@ -1852,7 +1924,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -2398,7 +2470,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 248366,
       "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e1a\u0e19\u0e42\u0e25\u0e01(U)",
       "url": "https://open.spotify.com/track/2rcDi4sIkOPg102RWc3dmy"
@@ -2558,7 +2630,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 249600,
       "name": "\u0e04\u0e49\u0e32\u0e07 (STILL)",
       "url": "https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ"
@@ -2880,7 +2952,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 240000,
       "name": "\u0e14\u0e32\u0e27\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c",
       "url": "https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM"
@@ -2938,6 +3010,46 @@
       "duration_ms": 248250,
       "name": "\u0e14\u0e35\u0e43\u0e08\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32",
       "url": "https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e39\u0e21\u0e35\u0e44\u0e23 (DO ME RIGHT)",
+        "url": "https://open.spotify.com/album/4A5ylS0UkAv23sj1Xa4IHI"
+      },
+      "artists": [
+        {
+          "name": "ALIE BLACKCOBRA",
+          "url": "https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q"
+        },
+        {
+          "name": "\u0e40\u0e1a\u0e1a\u0e35\u0e49\u0e42\u0e08\u0e25\u0e35\u0e48\u0e2a\u0e15\u0e32\u0e23\u0e4c",
+          "url": "https://open.spotify.com/artist/7lMpWIQxYjz9P1BXYQ3XAt"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196551,
+      "name": "\u0e14\u0e39\u0e21\u0e35\u0e44\u0e23 (DO ME RIGHT)",
+      "url": "https://open.spotify.com/track/0WCpX9pvNy081MsecZY0Nk"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e01\u0e01\u0e30\u0e43\u0e08\u0e17\u0e33\u0e44\u0e14\u0e49\u0e25\u0e07 (Oops.)",
+        "url": "https://open.spotify.com/album/0X2Zoned5hpJUmS85ntwKp"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "\u0e15\u0e01\u0e01\u0e30\u0e43\u0e08\u0e17\u0e33\u0e44\u0e14\u0e49\u0e25\u0e07 (Oops.)",
+      "url": "https://open.spotify.com/track/7s9HxP7Oi2S5RpnEdQ3E6v"
     },
     {
       "album": {
@@ -3638,7 +3750,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 215040,
       "name": "\u0e21\u0e35\u0e1f\u0e35\u0e25 (ME FEEL)",
       "url": "https://open.spotify.com/track/6UCNG99CJkQri5xZnfRKaz"
@@ -4144,10 +4256,28 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 215250,
       "name": "\u0e2a\u0e38\u0e02\u0e2a\u0e31\u0e19\u0e15\u0e4c\u0e27\u0e31\u0e19\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07 (Happily Missing You)",
       "url": "https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e43\u0e08\u0e08\u0e30\u0e44\u0e02\u0e27\u0e48\u0e04\u0e27\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn"
+      },
+      "artists": [
+        {
+          "name": "Little John",
+          "url": "https://open.spotify.com/artist/5bNXBeR6aWZC2SrZL0oNFh"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314117,
+      "name": "\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e43\u0e08\u0e08\u0e30\u0e44\u0e02\u0e27\u0e48\u0e04\u0e27\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG"
     },
     {
       "album": {
@@ -4571,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "bammBurger",
+        "url": "https://open.spotify.com/album/59MqhsgWxxBC3R26qdTi4K"
+      },
+      "artists": [
+        {
+          "name": "bamm",
+          "url": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "\u0e40\u0e08\u0e2d\u0e22\u0e31\u0e07? (Still?)",
+      "url": "https://open.spotify.com/track/7sCrT0SpZzqZ6FyNFiHPzi"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e08\u0e33",
         "url": "https://open.spotify.com/album/0g1DORmV2JYixtOi4TBHMs"
       },
@@ -4925,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e25\u0e34\u0e01\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (Devoted)",
+        "url": "https://open.spotify.com/album/67XVH3rgkXaszOMnWgTUhY"
+      },
+      "artists": [
+        {
+          "name": "GAVIN:D",
+          "url": "https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212112,
+      "name": "\u0e40\u0e25\u0e34\u0e01\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (Devoted)",
+      "url": "https://open.spotify.com/track/1Mad9GFYbl6Hy8ZuhmLObt"
+    },
+    {
+      "album": {
         "name": "80 Kisses",
         "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
       },
@@ -5182,6 +5348,24 @@
       "duration_ms": 217714,
       "name": "\u0e41\u0e25\u0e01\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e47\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e04\u0e08\u0e23\u0e14\u0e49\u0e27\u0e22\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/5kQ5aqaOqQxzdRqVmB665s"
+      },
+      "artists": [
+        {
+          "name": "Goy Arachaporn",
+          "url": "https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222471,
+      "name": "\u0e42\u0e04\u0e08\u0e23\u0e14\u0e49\u0e27\u0e22\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/3WXNL4EFD2NMy0L2zO5RpV"
     },
     {
       "album": {

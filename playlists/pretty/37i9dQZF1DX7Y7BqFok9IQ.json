@@ -1,13 +1,29 @@
 {
-  "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 226860,
+  "description": "The best of modern blues rock. Cover: Larkin Poe",
+  "num_followers": 226922,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nj6wAAAABuH7PQEAjbBTQuglrItHeE",
+  "snapshot_id": "Z5MeegAAAADn3g1GLhgvh71dzyR8k4zV",
   "tracks": [
+    {
+      "added_at": "2025-01-24 05:00:42",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 247080,
+      "name": "Easy Love Part 1",
+      "url": "https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn"
+    },
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
@@ -1655,22 +1671,6 @@
       "duration_ms": 206277,
       "name": "Silver Paper",
       "url": "https://open.spotify.com/track/06eRzfVeA1wW3P7ZuJGSuh"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "ATW",
-        "url": "https://open.spotify.com/album/29zIQDGwvtcvbaqCISJSMC"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Half-Tongue",
-      "url": "https://open.spotify.com/track/3n2fRYNaGoDygheFYRJlNM"
     },
     {
       "added_at": "2022-08-12 04:02:00",

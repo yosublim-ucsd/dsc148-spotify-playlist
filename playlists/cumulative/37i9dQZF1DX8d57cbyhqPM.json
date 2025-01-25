@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tantine Theodora",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Naza et Leto",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -452,7 +452,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 138000,
       "name": "Arizona (#STATION 2)",
       "url": "https://open.spotify.com/track/5noe6Mk6YJyclcEwS3YUbh"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 177600,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/0qx78Gvw4GSjp3664A8ari"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 129714,
       "name": "Bendo",
       "url": "https://open.spotify.com/track/5ivj3W4YDsg9I5eDXYINO4"
@@ -1078,6 +1078,28 @@
       "duration_ms": 133838,
       "name": "BIGREAL #5",
       "url": "https://open.spotify.com/track/5osAPtycofwZRCG8zWqdTQ"
+    },
+    {
+      "album": {
+        "name": "Biloko Ya Mboka",
+        "url": "https://open.spotify.com/album/3JszjwgXWyN3BEaBQ2l45L"
+      },
+      "artists": [
+        {
+          "name": "Kiazi Malonga",
+          "url": "https://open.spotify.com/artist/00azyHPMjeELyFLc2uBxWg"
+        },
+        {
+          "name": "Likala Moto",
+          "url": "https://open.spotify.com/artist/3qklPFsCAyB3E0o5xY9Nlj"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305553,
+      "name": "Biloko Ya Mboka",
+      "url": "https://open.spotify.com/track/5lPVc5DqOZtt4WJGoaKZzg"
     },
     {
       "album": {
@@ -1406,6 +1428,24 @@
       "duration_ms": 148186,
       "name": "Boulot",
       "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
+    },
+    {
+      "album": {
+        "name": "Boutique",
+        "url": "https://open.spotify.com/album/7om6iQ5PzzYmH7jyGeG8X0"
+      },
+      "artists": [
+        {
+          "name": "Koffi Olomide",
+          "url": "https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314305,
+      "name": "Boutique",
+      "url": "https://open.spotify.com/track/7rfLyiczO4k3Ii3zbcIuN3"
     },
     {
       "album": {
@@ -3107,6 +3147,28 @@
     },
     {
       "album": {
+        "name": "Fav\u00e9la (#STATION 3)",
+        "url": "https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Fav\u00e9la (#STATION 3)",
+      "url": "https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs"
+    },
+    {
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/3xFXM7xa6al9Fgxn0m608C"
       },
@@ -4543,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "Kingongolo",
+        "url": "https://open.spotify.com/album/6igKzBruCXx8daOXfuSy6i"
+      },
+      "artists": [
+        {
+          "name": "Kin'Gongolo Kiniata",
+          "url": "https://open.spotify.com/artist/7zfl0DQa6Ds6AsB1OQBM54"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Kingongolo",
+      "url": "https://open.spotify.com/track/6mTfj7vAopajnjHHKbgeOh"
+    },
+    {
+      "album": {
         "name": "KISAKATA",
         "url": "https://open.spotify.com/album/4Pl8DaJ63mB0SPUerb3AGd"
       },
@@ -4958,7 +5038,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 136427,
       "name": "Les bons comptes",
       "url": "https://open.spotify.com/track/5dsseFiaekcJxuvbFJJwqc"
@@ -7247,6 +7327,24 @@
     },
     {
       "album": {
+        "name": "Nyonga",
+        "url": "https://open.spotify.com/album/147gWZmqapFKm2tc85GVvU"
+      },
+      "artists": [
+        {
+          "name": "DODY OBAMS",
+          "url": "https://open.spotify.com/artist/3B7F4YIsNAoFHm605iOcz9"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Nyonga",
+      "url": "https://open.spotify.com/track/3NthrOhvKorMzs4Mle09vP"
+    },
+    {
+      "album": {
         "name": "Nzinzi",
         "url": "https://open.spotify.com/album/0iJBsklN13ARWLxZKMYUud"
       },
@@ -7394,7 +7492,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 172380,
       "name": "Omoni",
       "url": "https://open.spotify.com/track/1dkJnYWsjro9HQ8zZFKYE5"
@@ -8899,6 +8997,24 @@
     },
     {
       "album": {
+        "name": "Sommet",
+        "url": "https://open.spotify.com/album/37CpJpO4pqOLOIQNH2bwxX"
+      },
+      "artists": [
+        {
+          "name": "Tienness Naja",
+          "url": "https://open.spotify.com/artist/7C9uegtEcc1ztrQWDaNRYY"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231595,
+      "name": "Sommet",
+      "url": "https://open.spotify.com/track/5dDNKlYn8Bkj1uG3dFpH0b"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/6TGfYxyok74SZjidtVZB79"
       },
@@ -9478,7 +9594,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 184047,
       "name": "Tourner",
       "url": "https://open.spotify.com/track/1LLk7c2XYipi2gLAQCajVY"

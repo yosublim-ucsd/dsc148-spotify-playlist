@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ\_MX](https://open.spotify.com/playlist/37i9dQZF1DXc5PHJQUwAnG)
 
-> Bienvenidx a la trampa mexa\. Hadrian en portada.
+> Bienvenidx a la trampa mexa\. Dan García, Sheeno y ND Kobi' en portada.
 
-336 songs - 15 hr 51 min
+337 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 | 2023-06-09 | 2023-07-01 |
 | [Tirando Flow Sesh \#10](https://open.spotify.com/track/6WmCmQuse2SjjSVab5EHxg) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [Tirando Flow Sesh \#10](https://open.spotify.com/album/5znfD7f3uRb1UMbrMDV3OQ) | 1:33 | 2023-06-09 |  |
 | [Tirando Flow Sesh \#12](https://open.spotify.com/track/6DddJtjNkqAmo5HghXa5iB) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [Tirando Flow Sesh \#12](https://open.spotify.com/album/0vFKvPG4pHq3r0MYgy7OfS) | 3:26 | 2023-09-15 | 2024-05-18 |
+| [Tirando Flow Sesh \#19](https://open.spotify.com/track/4dv15mTCsAA1t2zYRbKyfQ) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [Tirando Flow Sesh \#19](https://open.spotify.com/album/1M3wmvv4O8noPCxZD3mbFl) | 3:00 | 2025-01-24 |  |
 | [Tirando Flow Sesh \#8](https://open.spotify.com/track/48LRWkjqh0MuiyQmGkqzgP) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Tirando Flow Sesh \#8](https://open.spotify.com/album/6KVKStSWXUvoZF2ibE643k) | 2:36 | 2023-06-09 |  |
 | [TOMORROWLAND](https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [TOMORROWLAND](https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD) | 3:05 | 2024-07-26 |  |
 | [Tony](https://open.spotify.com/track/0C2qHMVmcdUnl5EkptgHYq) | [Clowx](https://open.spotify.com/artist/5MRD5kGSh7YBNAMfPXs1uq) | [Tony](https://open.spotify.com/album/4IfuSLPsg6F3ETOwH5D0PM) | 1:53 | 2024-06-28 | 2024-07-27 |

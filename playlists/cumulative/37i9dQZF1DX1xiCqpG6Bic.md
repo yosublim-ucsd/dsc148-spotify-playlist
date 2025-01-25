@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1xiCqpG6Bic.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1xiCqpG6Bic) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xiCqpG6Bic)
 
-### [CARDCAPTOR SAKURA \-カードキャプターさくら\-](https://open.spotify.com/playlist/37i9dQZF1DX1xiCqpG6Bic)
+### [CARDCAPTOR SAKURA](https://open.spotify.com/playlist/37i9dQZF1DX1xiCqpG6Bic)
 
-> Music From "CARDCAPTOR SAKURA"!「カードキャプターさくら クリアカード編」公式プレイリスト！歴代シリーズの名曲たちと併せてお楽しみ下さい。
+> Music From "CARDCAPTOR SAKURA"!
 
 80 songs - 4 hr 20 min
 

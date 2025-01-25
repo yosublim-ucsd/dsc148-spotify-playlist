@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Luccas Carlos
 
-260 songs - 13 hr 25 min
+261 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Contraponto](https://open.spotify.com/track/02Uf0sZHNFPxcOZ8pF3EJW) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Vanessa Macedo](https://open.spotify.com/artist/5G82Is68b0KHxvFBZSsd0r) | [Contraponto](https://open.spotify.com/album/2tY2W6wy7KGNk2vDfn2732) | 2:47 | 2022-11-18 | 2023-01-14 |
 | [Coração de Fogo](https://open.spotify.com/track/5PTljxsqsyMwwEBIm083rj) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Coração de Fogo](https://open.spotify.com/album/2kOawmhLWEE2XifSM9boX2) | 2:16 | 2023-04-07 | 2023-05-20 |
 | [Corro Atrás](https://open.spotify.com/track/3VJUR4rLMi2THddhBG5oiU) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk) | [Corro Atrás](https://open.spotify.com/album/50Rhfq6iyQcPjIJMiOXLgp) | 3:45 | 2023-08-25 | 2024-05-29 |
-| [curva escura](https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [curva escura](https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m) | 3:40 | 2024-04-05 |  |
+| [curva escura](https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [curva escura](https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m) | 3:40 | 2024-04-05 | 2025-01-25 |
 | [Céu Azul](https://open.spotify.com/track/42khSD2cPF1lTJFw72k7A9) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Céu Azul](https://open.spotify.com/album/2l5bUr8qR6Az6TNLPzAYqX) | 3:36 | 2024-11-15 |  |
 | [Daddy](https://open.spotify.com/track/5nuyy5eLGMCn10BW1yXQ5b) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Daddy](https://open.spotify.com/album/5hrJhU1uUGlw15hwCMqO5k) | 2:48 | 2022-12-01 | 2022-12-17 |
 | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Daqui pra Frente \- Dread Session, Vol\. 1](https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY) | 3:01 | 2024-04-12 |  |
@@ -218,6 +218,7 @@
 | [Seu Bem](https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Seu Bem](https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l) | 3:27 | 2022-11-18 |  |
 | [Seu Jogo](https://open.spotify.com/track/4e5bZHMpSrEJDovEdER2DK) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Seu Jogo](https://open.spotify.com/album/2SEQeYEUN1srTGXgOlX4Zs) | 2:34 | 2024-08-30 | 2024-11-30 |
 | [sexta de manhã](https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l) | [BIA DOXUM](https://open.spotify.com/artist/0XcasoDbYz9h2IedxeXKaV), [Vibox](https://open.spotify.com/artist/0PfNZmCTYovBPEfY5bZF4x), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Desse Meu Mel](https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM) | 4:42 | 2024-11-22 |  |
+| [sexysong.mp3](https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Arcanjo Beat](https://open.spotify.com/artist/6Ya4Wxa4p2uiMTmCAIj91V) | [sexysong.mp3](https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52) | 2:17 | 2025-01-24 |  |
 | [SHAWTY](https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/3iXjMKLo5yW4siR1I69G5k) | 2:53 | 2023-03-24 | 2023-04-24 |
 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 | 2022-11-18 | 2023-03-23 |
 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 | 2022-11-18 | 2024-02-03 |

@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Malcolm's Law",
+        "url": "https://open.spotify.com/album/5tymJw5lEO3MicwrrtQ2RM"
+      },
+      "artists": [
+        {
+          "name": "Waldo's Gift",
+          "url": "https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Classic Waldi Anthem",
+      "url": "https://open.spotify.com/track/6XFeMpbt70h8KLd9RZUtF4"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/5FmLzaMLG8dIHvYNpJrgWu"
       },

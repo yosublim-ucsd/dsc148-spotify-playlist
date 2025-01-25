@@ -2,15 +2,16 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: James Barker Band
+> The home of Canadian country music\. Cover: Connor Price
 
-186 songs - 10 hr 9 min
+188 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Days in July](https://open.spotify.com/track/7zsuy0Jay6R6dP7FAOGKVZ) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [10 Days in July](https://open.spotify.com/album/3oLByCCKupH8zrY2xfdhnn) | 3:09 | 2024-09-13 | 2024-09-28 |
 | [A Real Man](https://open.spotify.com/track/00SU9JMELyhWF2Kn6KQRc7) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [A Real Man](https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1) | 3:41 | 2024-06-28 | 2024-10-12 |
 | [Ahead of Our Time](https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Ahead Of Our Time](https://open.spotify.com/album/2RFEvvzKbTk5hvSG1gJW6J) | 3:07 | 2024-06-28 | 2024-08-03 |
+| [Another Farewell](https://open.spotify.com/track/4Gr5SX7lqBVsa9qFtktzSU) | [HORSEBATH](https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD) | [Another Farewell](https://open.spotify.com/album/3BOvYuLkTZX16QpZ1zVZV5) | 4:34 | 2025-01-24 |  |
 | [Another One](https://open.spotify.com/track/7hZxg7lxEGl5k8uFhorSKg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Another One](https://open.spotify.com/album/5FDSDpPMBfchzOlVmIM40g) | 3:32 | 2024-09-13 | 2024-11-23 |
 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 | 2024-06-28 | 2024-08-31 |
 | [August](https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [August](https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ) | 3:47 | 2024-08-30 | 2024-11-02 |
@@ -21,8 +22,8 @@
 | [Bigger Than This Town](https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Bigger Than This Town](https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP) | 2:54 | 2024-06-28 | 2024-10-19 |
 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 | 2024-06-28 | 2024-09-28 |
 | [Bobcaygeon](https://open.spotify.com/track/1GaSs9Hdkx3HeVUCplwOn0) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bobcaygeon](https://open.spotify.com/album/3wStCQJW33pHYfN9pmnil1) | 4:43 | 2024-09-27 | 2024-11-02 |
-| [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-07-19 |  |
-| [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK) | 3:06 | 2024-08-09 |  |
+| [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-07-19 | 2025-01-25 |
+| [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Broken Heart Thing \(feat\. Dustin Lynch\)](https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK) | 3:06 | 2024-08-09 | 2025-01-25 |
 | [Broken Man](https://open.spotify.com/track/5JlE9BmDHmUq5Ghy2j6rBg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Broken Man](https://open.spotify.com/album/08zJ8SCzKgWaRPI7Jguvug) | 3:45 | 2024-06-28 | 2024-08-10 |
 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 | 2024-10-04 |  |
 | [Canadian Dirt](https://open.spotify.com/track/5lXSTYtTQcobQ6msc54ABz) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Fire It Up](https://open.spotify.com/album/5UfiHSXHhrLNZ5ZTFGsawT) | 3:03 | 2024-06-28 | 2024-08-03 |
@@ -84,6 +85,7 @@
 | [If I Drink Enough](https://open.spotify.com/track/7A3zDyl2Gse2nm4cMq2Swm) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [One Beer Away](https://open.spotify.com/album/32sAylG8qewI9XNw5ycf3F) | 2:51 | 2024-08-09 |  |
 | [In Love With La](https://open.spotify.com/track/2lgWZMHYkOJG6695htHd5O) | [Emilie Roberts](https://open.spotify.com/artist/7J4Swtcm5xXwk5FRarp4v0) | [In Love With La](https://open.spotify.com/album/6XKWwqhcz0hXgimpL4jfze) | 3:14 | 2024-10-18 | 2024-11-02 |
 | [Jealous Of Jesus](https://open.spotify.com/track/3qEl16vIKrkvopkJp4Ii64) | [Mark Ledlin](https://open.spotify.com/artist/5qcJdMBiyDrEyqDgplPfh5) | [Jealous Of Jesus](https://open.spotify.com/album/3Xd8cwHVkyng3TW5XcsQdj) | 3:36 | 2024-11-15 |  |
+| [Just Like You](https://open.spotify.com/track/38ShN5IsaQSmKTSbvij0Qg) | [Jojo Mason](https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6) | [Just Like You](https://open.spotify.com/album/5M02zd9VpTG1Pkg2CQJrZp) | 3:03 | 2025-01-24 |  |
 | [Just Wanna Feel It](https://open.spotify.com/track/3iO4eyPq0CKGKuAlVNfHXq) | [Aaron Pritchett](https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX) | [Just Wanna Feel It](https://open.spotify.com/album/2vESO9JTAruodgv7S6OG45) | 3:15 | 2024-06-28 | 2024-07-06 |
 | [Kitchen Floor](https://open.spotify.com/track/43gddjt7nfv75xcRNHHHFP) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Kitchen Floor](https://open.spotify.com/album/0IeGo2aeK0Kph73AZaGgGs) | 3:54 | 2024-10-18 |  |
 | [Knew Girl](https://open.spotify.com/track/2EYdtkEFFpFJsfttT4fjHU) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Knew Girl](https://open.spotify.com/album/5PAlJmtfchaDSGhICcdtfB) | 2:52 | 2024-06-28 | 2024-07-06 |

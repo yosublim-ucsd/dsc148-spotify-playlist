@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Blasterjaxx x Kickbait x CERES
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Alok x Stephan Jolk x Kawz
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,513 likes - 27 songs - 1 hr 15 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,516 likes - 27 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 26 | [Infinity \(Dubdogz Remix\)](https://open.spotify.com/track/0EFlZ6qToxLzxBfZfNw3Ba) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Dubdogz Remix\)](https://open.spotify.com/album/3RG4SpdwLJR044NQ3k6kKZ) | 3:19 |
 | 27 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 |
 
-Snapshot ID: `AAAr2OanC3n7CWKcujjSwoQrCgmsSu49`
+Snapshot ID: `AAAr2evu4qdtdTAd2u7UmE7xDF6F6LJS`

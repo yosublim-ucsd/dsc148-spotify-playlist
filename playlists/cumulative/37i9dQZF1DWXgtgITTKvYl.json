@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Algorithm Is a Dancer",
+        "url": "https://open.spotify.com/album/6swrDtwC1LLfGLTHExUs4O"
+      },
+      "artists": [
+        {
+          "name": "Major Parkinson",
+          "url": "https://open.spotify.com/artist/5baLALm4KxY0I4z4OjumiZ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330516,
+      "name": "Algorithm Is a Dancer",
+      "url": "https://open.spotify.com/track/22cslhDRVR4nr1a4poMv8j"
+    },
+    {
+      "album": {
         "name": "All Because Of Me",
         "url": "https://open.spotify.com/album/0d9tJvwp8GFrn9AJ9uVH3K"
       },
@@ -236,7 +254,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 432483,
       "name": "All of a Sudden, You're Gone",
       "url": "https://open.spotify.com/track/4PgWfDa2qogMzEqwOzzq5q"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 302866,
       "name": "Cannibal (feat. Anders Frid\u00e9n)",
       "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
@@ -993,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "THE SOLUTION",
+        "url": "https://open.spotify.com/album/4v5ydnfymXMrETbGoltnNc"
+      },
+      "artists": [
+        {
+          "name": "LILCHICK",
+          "url": "https://open.spotify.com/artist/2YpDC3A8brQFHzfYbo0og8"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261687,
+      "name": "Downpour",
+      "url": "https://open.spotify.com/track/3Js84tBm5HNU8HZSHJqhXa"
+    },
+    {
+      "album": {
         "name": "A Flare On The Lens (Live)",
         "url": "https://open.spotify.com/album/73v44ExX2MnFSbPQWRoLGt"
       },
@@ -1214,7 +1250,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 176654,
       "name": "Evil Ghost - Nightcore",
       "url": "https://open.spotify.com/track/6IXbsJ8WGxWZwkXLCNa2iv"
@@ -1434,10 +1470,32 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 642006,
       "name": "Fugl F\u00f8nix",
       "url": "https://open.spotify.com/track/5vSWdH3Fh9vdT9ehTOsGg3"
+    },
+    {
+      "album": {
+        "name": "...Returns!",
+        "url": "https://open.spotify.com/album/51D4j5A6bClqy2PsKTE6q2"
+      },
+      "artists": [
+        {
+          "name": "Bumblefoot",
+          "url": "https://open.spotify.com/artist/1KGFAcP7ovMYuoQuloDhOj"
+        },
+        {
+          "name": "Ben Karas",
+          "url": "https://open.spotify.com/artist/4tbvm2EIhwRQFYjk9hruhD"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226725,
+      "name": "Funeral March",
+      "url": "https://open.spotify.com/track/3IpfRVjJIAZtqrCbE8Y1jx"
     },
     {
       "album": {
@@ -1470,7 +1528,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 207960,
       "name": "Giants Leaving",
       "url": "https://open.spotify.com/track/2r6myX3qOu9SDUbYhxnanU"
@@ -1676,6 +1734,24 @@
       "duration_ms": 106826,
       "name": "Horizons - Live at Trading Boundaries",
       "url": "https://open.spotify.com/track/6s0FpwrEl7LtG1A85QPzLR"
+    },
+    {
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/4sTkQGaGbwthXsjM2uq4vk"
+      },
+      "artists": [
+        {
+          "name": "Jelusick",
+          "url": "https://open.spotify.com/artist/2u8jLLgYaIE2ns6mAvI2rG"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321744,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/48xJvZbgqKyKpaXwetW3vr"
     },
     {
       "album": {
@@ -2365,6 +2441,24 @@
     },
     {
       "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
+    },
+    {
+      "album": {
         "name": "Gordian Naught",
         "url": "https://open.spotify.com/album/65scVmou0spzWY2FllcQay"
       },
@@ -2456,7 +2550,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 163293,
       "name": "Never Right - HORSKH Remix",
       "url": "https://open.spotify.com/track/1ZP53sI0x9wUJUhQ24ZnYy"
@@ -2510,7 +2604,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 361130,
       "name": "Night Terror - Radio Edit",
       "url": "https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF"
@@ -2860,6 +2954,24 @@
       "duration_ms": 243461,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/61OLiZOlb72LJCfl5zVMcG"
+    },
+    {
+      "album": {
+        "name": "Live ID.",
+        "url": "https://open.spotify.com/album/42vf8uOyBQKkiizxC1RCDL"
+      },
+      "artists": [
+        {
+          "name": "Riverside",
+          "url": "https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400733,
+      "name": "Post-Truth - Live ID.",
+      "url": "https://open.spotify.com/track/1UHO6wM8WJUWUsm0gVD6sK"
     },
     {
       "album": {
@@ -3295,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Serum",
+        "url": "https://open.spotify.com/album/6SMWcw4T5F18Tb9n6UYWxL"
+      },
+      "artists": [
+        {
+          "name": "Eldar Djangirov",
+          "url": "https://open.spotify.com/artist/7oOc9wIfiBHYBs6PC83vIW"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195877,
+      "name": "Serum",
+      "url": "https://open.spotify.com/track/164OJhNV0X9llMV1EKCvUT"
+    },
+    {
+      "album": {
         "name": "Variola Vera",
         "url": "https://open.spotify.com/album/1e7obwZMhNKs1uPrC4RTmq"
       },
@@ -3480,7 +3610,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 327624,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/7ewZokcaboUA2MTMyz0gv9"
@@ -3592,6 +3722,64 @@
       "duration_ms": 258800,
       "name": "Spectre At The Feast",
       "url": "https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp"
+    },
+    {
+      "album": {
+        "name": "Thrill Seeker: 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Adam Dutkiewicz",
+          "url": "https://open.spotify.com/artist/7MQmvww3EAbsmv7p1O0ufN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243281,
+      "name": "Speech Impediment",
+      "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
+    },
+    {
+      "album": {
+        "name": "A Better Man",
+        "url": "https://open.spotify.com/album/62FfyfSp0eQpKcJ4VF1oRx"
+      },
+      "artists": [
+        {
+          "name": "Oded Tamsoot",
+          "url": "https://open.spotify.com/artist/12lS5yc9cFJPBVyQ6sxvDs"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216187,
+      "name": "Standing in Line",
+      "url": "https://open.spotify.com/track/0D5o4zMRiepHDdCwqayx37"
+    },
+    {
+      "album": {
+        "name": "Stanley (Tonight's The Night)",
+        "url": "https://open.spotify.com/album/218wTgs1LdOYVY2c4JvDJ4"
+      },
+      "artists": [
+        {
+          "name": "Motorpsycho",
+          "url": "https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250160,
+      "name": "Stanley (Tonight's The Night)",
+      "url": "https://open.spotify.com/track/7IWmXeuQctq8BVA13kLnpo"
     },
     {
       "album": {
@@ -3798,7 +3986,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 233669,
       "name": "The Coven (with Greybloom)",
       "url": "https://open.spotify.com/track/79QJXlTyu8Xj5riSKj3Cod"
@@ -4090,10 +4278,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 297453,
       "name": "The Pursuit",
       "url": "https://open.spotify.com/track/2VMVBdS8oZ4BzAxTABWdE9"
+    },
+    {
+      "album": {
+        "name": "In The Vanishing Echoes Of Goodbye",
+        "url": "https://open.spotify.com/album/6jdczsp7kBGe5NbK7DJfql"
+      },
+      "artists": [
+        {
+          "name": "Labyrinth",
+          "url": "https://open.spotify.com/artist/3SG07EEING9Ytq5yFSSuff"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271692,
+      "name": "The Right Side Of This World",
+      "url": "https://open.spotify.com/track/0NKC5QwCu5oC3z9mBDypjw"
     },
     {
       "album": {
@@ -4364,7 +4570,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 330000,
       "name": "Two Way Mirror",
       "url": "https://open.spotify.com/track/0es5LEWVEDfHXu2CEzxhZG"
@@ -4440,7 +4646,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 355241,
       "name": "Untouchable Part 3",
       "url": "https://open.spotify.com/track/6s9852tBFBI3DgKB0Wo12y"
@@ -4560,6 +4766,24 @@
       "duration_ms": 265066,
       "name": "We Will Not Disband",
       "url": "https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z"
+    },
+    {
+      "album": {
+        "name": "Western Atmosphere",
+        "url": "https://open.spotify.com/album/0N7kbuc84YoO4AzfMwQ4qk"
+      },
+      "artists": [
+        {
+          "name": "Frost*",
+          "url": "https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384705,
+      "name": "Western Atmosphere",
+      "url": "https://open.spotify.com/track/5GwhpGsvpb3aoC4BcTEGmR"
     },
     {
       "album": {

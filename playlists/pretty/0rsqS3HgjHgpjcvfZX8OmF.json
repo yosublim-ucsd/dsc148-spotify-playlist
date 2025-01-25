@@ -1,13 +1,29 @@
 {
-  "description": "The best and latest rock and alternative. Cover: Offspring",
+  "description": "The best and latest rock and alternative. Cover: Rise Against",
   "num_followers": 9856,
   "original_name": "New Rock Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAcXNr+yMlRIJ6bYaTqNsLyA3o2pMC6",
+  "snapshot_id": "AAAcXz3++joVe4MTsK1llJuTzZloLeW8",
   "tracks": [
+    {
+      "added_at": "2025-01-24 13:24:55",
+      "album": {
+        "name": "Nod",
+        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
     {
       "added_at": "2025-01-19 03:29:11",
       "album": {

@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-451 songs - 1 day 4 hr 10 min
+452 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Joy to the World](https://open.spotify.com/track/2joShyZgEVz2HvQPBObGMj) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Joy to the World](https://open.spotify.com/album/6RuGvirkwRj40pdLi2TvhW) | 3:56 | 2021-12-24 |  |
 | [Joy to the World](https://open.spotify.com/track/1pOqWKECO0gJwtYFr0A8yt) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Joy to the World](https://open.spotify.com/album/146kgp4189ssjlBoLqe1Sn) | 2:43 | 2023-12-02 | 2024-08-02 |
 | [Joy to the World](https://open.spotify.com/track/7AhwEVUiUmDADTezn2ekCF) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Joy to the World](https://open.spotify.com/album/32MKTgKY4v7OwIrPG7qEnj) | 2:43 | 2023-12-15 | 2024-04-19 |
+| [Joy to the World](https://open.spotify.com/track/5TwapIqxrbdyLnmzQAq5IK) | [Justin Gambino](https://open.spotify.com/artist/6hlIXwl3renjvnuITo9NH5) | [Joy to the World](https://open.spotify.com/album/5kaFg4Jy1dkDmn5cnTzd9X) | 3:13 | 2024-12-13 |  |
 | [Joy to the World](https://open.spotify.com/track/739dYvWsVLOEV05GEepGgu) | [Lincoln Brewster](https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1) | [A Mostly Acoustic Christmas](https://open.spotify.com/album/5Wu7eVxaAAFeI1Cxvd1zqx) | 3:47 | 2021-12-24 | 2022-07-26 |
 | [Joy to the World](https://open.spotify.com/track/2vBpDLAMASEjALSF6v62Sl) | [Logan and Katie](https://open.spotify.com/artist/29mBJluOiESLCXX9eFpkJs) | [Joy to the World](https://open.spotify.com/album/6dvweY25iNsrxdeAimu24t) | 2:37 | 2024-11-17 |  |
 | [Joy To The World](https://open.spotify.com/track/4MKqPqXAC2xHkCZ6F0yBtp) | [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p) | [Joy To The World](https://open.spotify.com/album/4DTBHrhG5hr5Kp6H9H5ffo) | 3:52 | 2021-12-24 | 2023-11-29 |
@@ -435,7 +436,7 @@
 | [What Child is This?](https://open.spotify.com/track/4EQirVSV9LqKcdnLaGKMvh) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [A Worship Initiative Christmas, Vol\. 2](https://open.spotify.com/album/61lw866oRKSzdu8HvqAiRj) | 3:45 | 2021-12-24 |  |
 | [What Christmas Is All About](https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [What Christmas Is All About](https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY) | 3:15 | 2024-08-01 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2024-08-01 |  |
-| [What Christmas Means To Me \(Oh, Holy Night\)](https://open.spotify.com/track/0lwhpGX1HgJtgtcOUmp46J) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [What Christmas Means To Me \(Oh, Holy Night\)](https://open.spotify.com/album/1y6UezEmYLuHUKIXlb3EJ4) | 4:23 | 2023-12-02 |  |
+| [What Christmas Means To Me \(Oh, Holy Night\)](https://open.spotify.com/track/0lwhpGX1HgJtgtcOUmp46J) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [What Christmas Means To Me \(Oh, Holy Night\)](https://open.spotify.com/album/1y6UezEmYLuHUKIXlb3EJ4) | 4:23 | 2023-12-02 | 2025-01-25 |
 | [What Christmas Really Is](https://open.spotify.com/track/7x33graa1ek9f7kCCpeo6N) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Taylor Gall](https://open.spotify.com/artist/6Sg0UxyRCkV13v37ho3asV) | [Christmas, Vol\. 2](https://open.spotify.com/album/0mG4i5huZcB7j08LlfxY5D) | 4:39 | 2024-11-29 |  |
 | [When I Think Of Christmas](https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When I Think Of Christmas](https://open.spotify.com/album/52MmmN7xVswjL4XVBixhzK) | 3:25 | 2024-09-12 |  |
 | [Where Are You Christmas](https://open.spotify.com/track/2CIcYwDb52Z50ILtyddFhV) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc), [Shannon Armstrong](https://open.spotify.com/artist/1uvw6IJ4OqiX4yqkev6S80) | [Where Are You Christmas](https://open.spotify.com/album/3ZTm8SECJ9b3wXVmF5QJa7) | 3:13 | 2024-12-13 |  |

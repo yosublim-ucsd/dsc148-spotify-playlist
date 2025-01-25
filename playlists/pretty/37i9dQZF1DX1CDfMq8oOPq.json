@@ -1,6 +1,6 @@
 {
   "description": "big d com a senha da cena, fenomenal!",
-  "num_followers": 63252,
+  "num_followers": 63286,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,30 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
+        "name": "Len\u00e7ol",
+        "url": "https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Len\u00e7ol",
+      "url": "https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
         "name": "Seu Nome",
         "url": "https://open.spotify.com/album/7E5eMLXtr8OxdiJcIPtbpj"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 150508,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/50JauwWdLI3L5oTw5UZmuP"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
-        "name": "Len\u00e7ol",
-        "url": "https://open.spotify.com/album/6k2B1qx4XwaKcg2eni2Tgm"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Len\u00e7ol",
-      "url": "https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7"
     },
     {
       "added_at": "2024-12-13 13:06:33",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "Minha Vizinha",
-        "url": "https://open.spotify.com/album/5JVFF7QFkiSKyOhw1Swosm"
-      },
-      "artists": [
-        {
-          "name": "Maia",
-          "url": "https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 151400,
-      "name": "Minha Vizinha",
-      "url": "https://open.spotify.com/track/5paFjobSdeJRkL8HpponA3"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
         "name": "Hino Delas",
         "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 139854,
       "name": "Hino Delas",
       "url": "https://open.spotify.com/track/2k7EbkIovGbJJCWy7OoOgb"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "Minha Vizinha",
+        "url": "https://open.spotify.com/album/5JVFF7QFkiSKyOhw1Swosm"
+      },
+      "artists": [
+        {
+          "name": "Maia",
+          "url": "https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 151400,
+      "name": "Minha Vizinha",
+      "url": "https://open.spotify.com/track/5paFjobSdeJRkL8HpponA3"
     },
     {
       "added_at": "2024-12-13 13:06:33",

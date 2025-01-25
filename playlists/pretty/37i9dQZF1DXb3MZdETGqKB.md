@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,861 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,859 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Changing Suits](https://open.spotify.com/track/5UG0YMXwPnszPDDW4DXtPB) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Come Up Kid](https://open.spotify.com/album/1OOYRUliVouUyeqTDjTNB9) | 3:57 |
-| 2 | [Gossip](https://open.spotify.com/track/65XSifoolPRjDZAQQnwJOa) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Gossip](https://open.spotify.com/album/0lafTsLHcigE5J0EMO9HKx) | 3:10 |
-| 3 | [Wherever You Are](https://open.spotify.com/track/1Q0ANkWXGEMDpAOkR0vOTg) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are](https://open.spotify.com/album/6KVYtePHIPuCE6L8WmS3Fi) | 3:23 |
+| 1 | [Wherever You Are \- Radio Mix](https://open.spotify.com/track/7x1WL4uE97GjAdWe9IMiNE) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are \(Radio Mix\)](https://open.spotify.com/album/6Ml1tPseDakWkVH1C8XX9T) | 3:23 |
+| 2 | [Changing Suits](https://open.spotify.com/track/5UG0YMXwPnszPDDW4DXtPB) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Come Up Kid](https://open.spotify.com/album/1OOYRUliVouUyeqTDjTNB9) | 3:57 |
+| 3 | [Gossip](https://open.spotify.com/track/65XSifoolPRjDZAQQnwJOa) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Gossip](https://open.spotify.com/album/0lafTsLHcigE5J0EMO9HKx) | 3:10 |
 | 4 | [Father Let Me Go](https://open.spotify.com/track/2O6bD7GtWCQGRuMtdL0EtG) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Untold](https://open.spotify.com/album/1PajuQorortn4jOtkzOQ84) | 3:19 |
 | 5 | [Sure Thang](https://open.spotify.com/track/5S0mtfxpYaj0uNdlfsMOxR) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Sure Thang](https://open.spotify.com/album/50iJ7EiM7X4TxU062Mus3M) | 3:23 |
 | 6 | [Carry My Name](https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Time Is A Thief](https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Strike Gold](https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5YPy3q0MV7e5fJHFYNutjV) | 3:20 |
 | 100 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 |
 
-Snapshot ID: `Z1u/VAAAAACcJEmTIPRGq5WHDl2X8W6M`
+Snapshot ID: `Z5MebAAAAAB8m55ghkovq+sXGlCPTDP3`

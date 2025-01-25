@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 9994,
+  "num_followers": 9991,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Inny \u015awiat",
-        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
-      },
-      "artists": [
-        {
-          "name": "Dobry Dzieciak",
-          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Wowo",
-          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Inny \u015awiat",
-      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Park (DJ Eprom Version)",
         "url": "https://open.spotify.com/album/1E8RMvtqQeteUrVyzPgSAU"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 246816,
       "name": "Park - DJ Eprom Version",
       "url": "https://open.spotify.com/track/3UOrC4xBfgivme5fXh7PFN"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Inny \u015awiat",
+        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
+      },
+      "artists": [
+        {
+          "name": "Dobry Dzieciak",
+          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Wowo",
+          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Inny \u015awiat",
+      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
     },
     {
       "added_at": "2024-02-27 08:21:33",

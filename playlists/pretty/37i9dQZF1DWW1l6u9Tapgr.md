@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 
 > 3月19日\(水\)にSpotify O\-EASTにて開催される<a href="https://spotify\-earlynoise.jp/">Spotify Early Noise Night \#17</a>出演アーティストを特集！
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,922 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,934 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1l6u9Tapgr.md) - [plain]
 | 39 | [僕のスウィーティー](https://open.spotify.com/track/2HCALgfcFpoqoc3r706NUA) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [人類滅亡ワンダーランド](https://open.spotify.com/album/5e55sI0bkUXXVudsy8GZFK) | 2:55 |
 | 40 | [Bunny Girl \- Natural](https://open.spotify.com/track/5l4FTl6b2I0eSF4dltwjnD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:35 |
 
-Snapshot ID: `Z5GuewAAAADjBSy5rpJdF3pvgOZAvsxQ`
+Snapshot ID: `Z5NNdQAAAAD8x2z8LnKK/TrnuerGEueP`

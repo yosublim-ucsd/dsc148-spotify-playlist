@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain](/playlists/plain/37i9dQZF1DX6yabeKM0YaX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6yabeKM0YaX)
 
-### [Precure プリキュア ](https://open.spotify.com/playlist/37i9dQZF1DX6yabeKM0YaX)
+### [Precure](https://open.spotify.com/playlist/37i9dQZF1DX6yabeKM0YaX)
 
-> Music From "Pretty Cure" series! 音楽で辿る「プリキュア」シリーズの世界!
+> Music From "Pretty Cure" series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,004 likes - 36 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,022 likes - 36 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yabeKM0YaX.md) - [plain]
 | 35 | [パぺピプ☆ロマンチック](https://open.spotify.com/track/4XyZaBiykqs6bwOjnASHrH) | [吉武千颯](https://open.spotify.com/artist/7pSHeDPpr7dU6nkxAa2D83) | [「スター☆トゥインクルプリキュア」主題歌シングル【通常盤】OP：キラリ☆彡スター☆トゥインクルプリキュア／ED：パぺピプ☆ロマンチック](https://open.spotify.com/album/2hIuRKooWtlu78SP0opiuR) | 3:51 |
 | 36 | [WINくる！プリキュアミラクルユニバース☆](https://open.spotify.com/track/0npYCFz2U6PYS5CkTZ6thA) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) | [「映画プリキュアミラクルユニバース」主題歌シングル【通常盤】](https://open.spotify.com/album/5y5s8Hq6JDAUGleTPJe636) | 4:24 |
 
-Snapshot ID: `ZsNB0AAAAADNelLQGLh2Byk6TAYHtV6/`
+Snapshot ID: `Z5PGEAAAAAChOdo7ZRTLpOQEZDsw3DkJ`

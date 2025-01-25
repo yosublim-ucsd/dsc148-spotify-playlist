@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: iann dior
 
-671 songs - 1 day 6 hr 37 min
+672 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [lost my boat](https://open.spotify.com/track/6pZXxqSUq2Ldfep3F7Khum) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [lost my boat](https://open.spotify.com/album/0VuHQGgJuOFPKvFeXSP4AE) | 3:22 | 2022-06-17 | 2022-07-07 |
 | [Love Feels](https://open.spotify.com/track/1uhYNxtjZFc99TSUbhmwG6) | [The Grouch & Eligh](https://open.spotify.com/artist/6atrA9ysSgjJXw8NZH0vjZ) | [What Would Love Do](https://open.spotify.com/album/1VV3Zts79NLpNkquyyeO5U) | 3:44 | 2022-04-19 | 2022-05-20 |
 | [Love Lost](https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij) | 2:42 | 2022-07-22 | 2023-03-10 |
+| [Love On The Brain \(feat\. Hunxho\)](https://open.spotify.com/track/45QkbTDuk2TfCXb2Nu7j4F) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Season 4: I Need You](https://open.spotify.com/album/73J0FU0wZ6rGOR6zxwPwmR) | 2:37 | 2025-01-24 |  |
 | [love sux](https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [love sux](https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s) | 2:24 | 2021-12-17 | 2022-03-05 |
 | [Loved Me Back to Life](https://open.spotify.com/track/3u4QSVHHj9HJ1gjty8QSuS) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Loved Me Back to Life](https://open.spotify.com/album/2JVBPSq27UJhCgPmiY49bH) | 3:12 | 2021-11-16 | 2022-02-19 |
 | [Loved You Since I Was Young](https://open.spotify.com/track/0JTEcPbg192uSL2j7UJasI) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Loved You Since I Was Young](https://open.spotify.com/album/6MyeUwv1VQJgxiIJBdWJoH) | 3:03 | 2022-07-11 | 2022-10-13 |

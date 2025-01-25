@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbXXaIQy2nTx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbXXaIQy2nTx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbXXaIQy2nTx)
 
-### [SAMURAI CHAMPLOO サムライチャンプルー](https://open.spotify.com/playlist/37i9dQZF1DXbXXaIQy2nTx)
+### [SAMURAI CHAMPLOO](https://open.spotify.com/playlist/37i9dQZF1DXbXXaIQy2nTx)
 
-> Music from "SAMURAI CHAMPLOO" /「サムライチャンプルー」の楽曲を1つのプレイリストで。©︎manglobe／下井草チャンプルーズ
+> Music from "SAMURAI CHAMPLOO" ©︎manglobe／下井草チャンプルーズ
 
 156 songs - 9 hr 45 min
 

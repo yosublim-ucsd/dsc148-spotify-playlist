@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: José Jr
 
-193 songs - 11 hr 22 min
+194 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 | 2023-07-28 | 2024-04-20 |
 | [Deus É Bom \- Ao Vivo Em Lisboa](https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Deus É Bom \(Ao Vivo Em Lisboa\)](https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew) | 3:58 | 2023-11-24 |  |
 | [Dia de Festa](https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Dia de Festa](https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs) | 4:58 | 2023-10-06 |  |
+| [Do Meu Lado](https://open.spotify.com/track/1H1f46vLGZTa3c5JLvFbWb) | [Bruno Coutinho](https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO), [Coutinho Records](https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS) | [Do Meu Lado](https://open.spotify.com/album/4cscdogWJaGUU1h9AemC6E) | 3:21 | 2025-01-24 |  |
 | [Dono do Tempo](https://open.spotify.com/track/2NFXTNVoKxWVRdda1VDDwB) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Dono do Tempo](https://open.spotify.com/album/2y0vpcnHHc3MHQOMkEjzxD) | 3:41 | 2022-08-05 | 2023-02-25 |
 | [Dono dos Meus Dias](https://open.spotify.com/track/4DqMjreua66sH84GbccttX) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dono dos Meus Dias](https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU) | 3:59 | 2022-08-05 | 2024-08-31 |
 | [Ele Pode Fazer](https://open.spotify.com/track/1FJ4xull5V00YfAR7S2wxX) | [Lorhann](https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ) | [Ele Pode Fazer](https://open.spotify.com/album/4nC5v3UYIyGFMeT1LwZ67V) | 2:30 | 2024-08-30 |  |
@@ -105,7 +106,7 @@
 | [Me Alcançou \(Live Remix\)](https://open.spotify.com/track/0LG3JaVDTAtQwVLwaamxeL) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k) | [Me Alcançou \(Live Remix\)](https://open.spotify.com/album/4YYTCbKB8jkzJfDCuvFBgj) | 5:08 | 2023-07-14 | 2023-09-02 |
 | [Me Alcançou \(Remix\)](https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Yann RD](https://open.spotify.com/artist/4vRegmzSs4RfvmEJVWgOIL) | [Me Alcançou \(Remix\)](https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa) | 5:31 | 2023-04-21 | 2023-12-23 |
 | [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 | 2022-08-05 |  |
-| [ME CUIDA](https://open.spotify.com/track/44ou1P05l7xkl4vxDfGCja) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [ME CUIDA](https://open.spotify.com/album/16RVz9wwsbFuif2roEH1XX) | 2:31 | 2024-10-25 |  |
+| [ME CUIDA](https://open.spotify.com/track/44ou1P05l7xkl4vxDfGCja) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [ME CUIDA](https://open.spotify.com/album/16RVz9wwsbFuif2roEH1XX) | 2:31 | 2024-10-25 | 2025-01-25 |
 | [Me Ensina a Viver](https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Me Ensina a Viver](https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w) | 5:10 | 2022-08-05 |  |
 | [Me Esvaziar \(Releitura\)](https://open.spotify.com/track/0iYvEJ73ZzbYmYoJRnzK1T) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Me Esvaziar \(Releitura\)](https://open.spotify.com/album/0jzLyiWUcBCqzevujFH3qZ) | 3:03 | 2023-12-22 | 2024-04-20 |
 | [Me Leva Além](https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Me Leva Além](https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU) | 3:35 | 2022-08-05 |  |

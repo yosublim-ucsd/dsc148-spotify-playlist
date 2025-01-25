@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 220000,
       "name": "curva escura",
       "url": "https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp"
@@ -4610,6 +4610,28 @@
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
+    },
+    {
+      "album": {
+        "name": "sexysong.mp3",
+        "url": "https://open.spotify.com/album/7JNCO1lYxnADzxsFx5mH52"
+      },
+      "artists": [
+        {
+          "name": "Calena",
+          "url": "https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc"
+        },
+        {
+          "name": "Arcanjo Beat",
+          "url": "https://open.spotify.com/artist/6Ya4Wxa4p2uiMTmCAIj91V"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "sexysong.mp3",
+      "url": "https://open.spotify.com/track/35benEOWm4edq3z3D11Aqo"
     },
     {
       "album": {

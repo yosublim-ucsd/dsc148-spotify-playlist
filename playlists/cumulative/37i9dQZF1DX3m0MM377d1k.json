@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-06-28",
-  "description": "Music from \"\u3010OSHI NO KO\u3011\" /\u30a2\u30cb\u30e1\u3010\u63a8\u3057\u306e\u5b50\u3011\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\ufe0f\u8d64\u5742\u30a2\u30ab\u00d7\u6a2a\u69cd\u30e1\u30f3\u30b4\uff0f\u96c6\u82f1\u793e\u30fb\u3010\u63a8\u3057\u306e\u5b50\u3011\u88fd\u4f5c\u59d4\u54e1\u4f1a",
-  "name": "\u3010OSHI NO KO\u3011\u3010\u63a8\u3057\u306e\u5b50\u3011",
+  "description": "Music from \"\u3010OSHI NO KO\u3011\u00a9\ufe0f\u8d64\u5742\u30a2\u30ab\u00d7\u6a2a\u69cd\u30e1\u30f3\u30b4\uff0f\u96c6\u82f1\u793e\u30fb\u3010\u63a8\u3057\u306e\u5b50\u3011\u88fd\u4f5c\u59d4\u54e1\u4f1a\n",
+  "name": "\u3010OSHI NO KO\u3011",
   "tracks": [
     {
       "album": {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 110309,
       "name": "A plot",
       "url": "https://open.spotify.com/track/3QCZYBdRyP3YJODsuUj7fv"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 118065,
       "name": "Audition",
       "url": "https://open.spotify.com/track/47rVs2X2E4SUCeCK2TtzQd"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 142163,
       "name": "Awkwardness",
       "url": "https://open.spotify.com/track/05rXwMuCLO9La4ZfpFXUcn"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 135602,
       "name": "Chagrin",
       "url": "https://open.spotify.com/track/1qpfFVuag7PScV6J0P9AHy"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 125156,
       "name": "Explanation and Introduction",
       "url": "https://open.spotify.com/track/32P1QpYYJJ2dQ39ifvpECS"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 123676,
       "name": "Fury",
       "url": "https://open.spotify.com/track/74kI2YChQ02C5QAucXknte"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 165305,
       "name": "Kyo-Ama - I",
       "url": "https://open.spotify.com/track/7u8r7cfO0VJAKK5k1WJcxb"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 122051,
       "name": "My first TV series",
       "url": "https://open.spotify.com/track/3dglGjYrXd94ip5rCMO04m"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 114049,
       "name": "Mysterious",
       "url": "https://open.spotify.com/track/7dG3T7DAsHNxRNaVaNSsb2"
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 118157,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/2oppYEgZzf0giOcHF7Kwh1"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 118157,
       "name": "Mystery - w/o Perc.",
       "url": "https://open.spotify.com/track/6IrAb4z5mM7rKVrAh2tIDz"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 122016,
       "name": "Ominous",
       "url": "https://open.spotify.com/track/1fhNVmDdNNAxVF4n7bn4vd"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 267116,
       "name": "POP IN 2",
       "url": "https://open.spotify.com/track/6WGrtUmFwTaP5G8AeegajH"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 267016,
       "name": "POP IN 2 - \u30eb\u30d3\u30fc Solo Ver.-",
       "url": "https://open.spotify.com/track/7M4fv7sst5NxyCMs4pihCe"
@@ -1792,7 +1792,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 132076,
       "name": "Provocation",
       "url": "https://open.spotify.com/track/3POPRVBolIf42xjiugin2B"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 61746,
       "name": "Reincarnation",
       "url": "https://open.spotify.com/track/30ZAOSMbC8GpTbQQqCqU2U"
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 124963,
       "name": "Relief",
       "url": "https://open.spotify.com/track/69DqZSW3XUBanrXRONuDuK"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 211297,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/044IG30sd3aM7lzOx5bVKY"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 138729,
       "name": "Rivalry - I",
       "url": "https://open.spotify.com/track/58JxQjQiAloVFpRsnynoFI"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 122572,
       "name": "Rivalry - II",
       "url": "https://open.spotify.com/track/1IYqykfhlAGJq1z4PzD80Q"
@@ -2002,7 +2002,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 211550,
       "name": "Say What?",
       "url": "https://open.spotify.com/track/5xdy3xmkpSPGu8nweA8p7S"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 211550,
       "name": "Say What? - MEM\u3061\u3087 Solo Ver.-",
       "url": "https://open.spotify.com/track/4OU6euhmZWwlCBfh4vn6At"
@@ -2046,7 +2046,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 211550,
       "name": "Say What? - \u6709\u99ac\u304b\u306a Solo Ver.-",
       "url": "https://open.spotify.com/track/1EXcwEOn0O49d5ivs5Z290"
@@ -2370,7 +2370,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 198728,
       "name": "Under fire",
       "url": "https://open.spotify.com/track/6tDbTNJTyg5D1WwRYTC7m0"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 123246,
       "name": "Upset",
       "url": "https://open.spotify.com/track/2InjpceWmFfeLfIJqOrohG"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 159209,
       "name": "Worry and Fear",
       "url": "https://open.spotify.com/track/5R421ewnVzUZCQkPSjzkb6"
@@ -2892,7 +2892,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 174550,
       "name": "\u6df1\u6d7752Hz",
       "url": "https://open.spotify.com/track/1MIDRi2XzE1QHWPpEQqQbk"

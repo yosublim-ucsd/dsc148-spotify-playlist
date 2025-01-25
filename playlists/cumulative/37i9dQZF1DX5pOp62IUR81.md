@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-200 songs - 8 hr 26 min
+201 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Natasha](https://open.spotify.com/track/3FJPS6N8yqWpEbXL3B17Iq) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw), [Michael Paraskevas](https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84) | [Hawkeye: Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC) | 3:20 | 2024-01-05 |  |
 | [Natasha's Lullaby](https://open.spotify.com/track/7DXVDRuzfxi6Qoo1hH0G0I) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Black Widow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ov95v1bTRaC6ds2FaIIcK) | 3:24 | 2024-01-05 |  |
 | [Negative](https://open.spotify.com/track/4fFVnXExZnzxf7RMdcfYbA) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dark Phoenix \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12fXY8Frs87K8Rh3hkY72X) | 3:58 | 2024-01-05 |  |
+| [Neighbor Like Me \- From "Your Friendly Neighborhood Spider\-Man"](https://open.spotify.com/track/2wogAW9Yxufq70Gsa4WxN7) | [The Math Club](https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN), [Relaye](https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya), [Melo Makes Music](https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS) | [Neighbor Like Me \(From "Your Friendly Neighborhood Spider\-Man"\)](https://open.spotify.com/album/30qd0n4PQMAReSBvrFMlRh) | 3:34 | 2025-01-25 |  |
 | [New Avengers \- Avengers: Age of Ultron](https://open.spotify.com/track/1fNwvHEncsLvhwEKmzlO6S) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Avengers: Age of Ultron \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xJzVmrwTmCvzaXWzE7jbP) | 3:09 | 2024-01-05 |  |
 | [Nick Fury \(Main Title Theme\) \- From "Secret Invasion"](https://open.spotify.com/track/4eJekm7bfnUMUPSF54rdYJ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Nick Fury \(Main Title Theme\) \[From "Secret Invasion"\]](https://open.spotify.com/album/5RUHeweIAuU8wytVHP7mIm) | 2:03 | 2024-01-05 |  |
 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 | 2024-01-05 |  |

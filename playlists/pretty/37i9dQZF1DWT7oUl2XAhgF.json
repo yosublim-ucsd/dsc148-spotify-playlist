@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 355705,
+  "num_followers": 355733,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5J9GgAAAADlrt3KM/Vj37qwJ6lsEfqq",
+  "snapshot_id": "Z5MebAAAAACh3F/Q7vRnRRKNlmgK9Jin",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:26",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB"
     },
     {
+      "added_at": "2025-01-24 05:00:28",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/1pIPvngMvFfEJ2TnDrufNp"
+      },
+      "artists": [
+        {
+          "name": "James Tutson",
+          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+        }
+      ],
+      "duration_ms": 275195,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO"
+    },
+    {
       "added_at": "2025-01-10 05:00:09",
       "album": {
         "name": "Your Light",
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6"
     },
     {
-      "added_at": "2025-01-03 05:00:20",
+      "added_at": "2025-01-24 05:00:28",
       "album": {
-        "name": "What You Chose",
-        "url": "https://open.spotify.com/album/3wFPt6l1djsbjGxFIMCjnJ"
+        "name": "Walk With the Father",
+        "url": "https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX"
       },
       "artists": [
         {
-          "name": "James Tutson",
-          "url": "https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs"
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
         }
       ],
-      "duration_ms": 197418,
-      "name": "What You Chose",
-      "url": "https://open.spotify.com/track/3XkPTlF8G89tA3m0xv7Rmd"
+      "duration_ms": 200300,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys"
     },
     {
       "added_at": "2025-01-03 05:00:20",
@@ -71,6 +87,22 @@
       "duration_ms": 247400,
       "name": "Heal Me Good",
       "url": "https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U"
+    },
+    {
+      "added_at": "2025-01-24 05:00:28",
+      "album": {
+        "name": "I Can't Get You Out Of My Mind",
+        "url": "https://open.spotify.com/album/0IiBKeJR3hLccDd2fj4Ogo"
+      },
+      "artists": [
+        {
+          "name": "Luke Marzec",
+          "url": "https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh"
+        }
+      ],
+      "duration_ms": 244429,
+      "name": "I Can't Get You Out Of My Mind",
+      "url": "https://open.spotify.com/track/0ip8o1lEyLkuG6M4HieVpq"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -383,22 +415,6 @@
       "duration_ms": 253517,
       "name": "Sugar Me Up",
       "url": "https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Walk With the Father",
-        "url": "https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "Walk With the Father",
-      "url": "https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 237200,
       "name": "This Could Last Forever",
       "url": "https://open.spotify.com/track/4QvXMdjbpYKw86TDFFmXlI"
-    },
-    {
-      "added_at": "2023-09-08 04:01:00",
-      "album": {
-        "name": "Blink",
-        "url": "https://open.spotify.com/album/7IgkMSeDtEvAV6q0IIKtJf"
-      },
-      "artists": [
-        {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
-        }
-      ],
-      "duration_ms": 150920,
-      "name": "Blink",
-      "url": "https://open.spotify.com/track/6W67RESmxjAp10u5bQ6eH0"
     },
     {
       "added_at": "2023-09-29 04:01:00",

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVNqlGoNYpy6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVNqlGoNYpy6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVNqlGoNYpy6)
 
-### [Frieren: Beyond Journey's End 葬送のフリーレン](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)
+### [Frieren: Beyond Journey's End](https://open.spotify.com/playlist/37i9dQZF1DWVNqlGoNYpy6)
 
-> Enjoy music from Anime "Frieren"\. アニメ「葬送のフリーレン」プレイリスト。Enjoy Frieren Music\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
+> Enjoy music from Anime "Frieren"\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
 58 songs - 2 hr 31 min
 

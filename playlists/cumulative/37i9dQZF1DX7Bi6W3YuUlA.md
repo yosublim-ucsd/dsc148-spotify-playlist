@@ -2,9 +2,9 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip hop\. Cover:  DMX
+> Inspirational hip hop\. Cover:  Dee\-1
 
-475 songs - 23 hr 39 min
+476 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [Stuff Back](https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [Heavenz](https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo), [Church](https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW) | [Stuff Back](https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC) | 3:13 | 2022-11-18 | 2024-06-26 |
 | [Summertime](https://open.spotify.com/track/2pVXqvUkfOb9S7NNsRvQey) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Summertime](https://open.spotify.com/album/1g538z0oTFoZdKOciRvPJn) | 3:09 | 2022-05-28 | 2024-10-05 |
 | [Supernatural](https://open.spotify.com/track/1yeDabwKWVLBN8DoJMtwK5) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [Supernatural](https://open.spotify.com/album/4CA9N7MLaMCFUrGZddg7FD) | 2:19 | 2021-12-11 | 2024-08-27 |
-| [Survivor’s Remorse](https://open.spotify.com/track/4PR5VsJOO1GVLqVd92MB02) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/0KMKmN12KfDELl73qPxhyq) | 2:36 | 2024-11-24 |  |
+| [Survivor’s Remorse](https://open.spotify.com/track/4PR5VsJOO1GVLqVd92MB02) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/0KMKmN12KfDELl73qPxhyq) | 2:36 | 2024-11-24 | 2025-01-25 |
 | [Swerve That](https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP) | [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [Swerve That](https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11) | 2:36 | 2022-11-18 | 2024-08-27 |
 | [TANTRUM](https://open.spotify.com/track/3lAwtVPdYYw3tFtXTzTiAE) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TANTRUM](https://open.spotify.com/album/1ajUeF2vDMiRWRc8F0vZQ9) | 3:04 | 2024-12-13 |  |
 | [Tell Me](https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz) | [Aable](https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Tell Me](https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV) | 3:08 | 2022-05-28 | 2024-08-27 |
@@ -417,6 +417,7 @@
 | [The City Is Mine](https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [We Already Won](https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx) | 2:57 | 2024-06-25 | 2024-08-27 |
 | [The Offering](https://open.spotify.com/track/2t2T8tPFnwZm8UmwsUqsLB) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [The Offering](https://open.spotify.com/album/2M3BwnvthgGXqU4gcmXs3c) | 1:46 | 2022-05-28 | 2023-02-22 |
 | [The One Where I Talk To God](https://open.spotify.com/track/6ZW8f8xNkauNEKBQthQaas) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [Marty For President 2](https://open.spotify.com/album/5q0lLOpbosrUJTR3oRztJw) | 3:21 | 2021-12-11 | 2022-11-19 |
+| [The Very Best](https://open.spotify.com/track/2M1KyNwYomukvS9luSdhWw) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mannie Fresh](https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1) | [The Very Best](https://open.spotify.com/album/4S0QVgdgtTbl63O18ydUiP) | 3:54 | 2025-01-24 |  |
 | [The World](https://open.spotify.com/track/5MuCSfKyMqYXFHOUOZamYQ) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [The World](https://open.spotify.com/album/2Kv8p3JE1kS6H0znOkFwqS) | 2:05 | 2024-06-25 |  |
 | [Therapy](https://open.spotify.com/track/4ku1t1IGPCXAwENg0TKkXt) | [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI) | [Therapy](https://open.spotify.com/album/62AXGFrgC8CuLR7cp4tm4T) | 2:49 | 2022-03-19 | 2022-07-28 |
 | [They Didn’t Know II](https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [They Didn’t Know II](https://open.spotify.com/album/26C59sslJoOpwYIWhV8PvA) | 2:58 | 2022-03-25 | 2024-08-27 |

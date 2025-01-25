@@ -2,7 +2,7 @@
 
 ### [Women of R&B](https://open.spotify.com/playlist/37i9dQZF1DX1wNY9tfWQsS)
 
-> A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Tyla
+> A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Muni Long
 
 156 songs - 10 hr 7 min
 

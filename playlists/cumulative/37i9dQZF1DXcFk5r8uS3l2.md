@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-411 songs - 1 day 1 hr 46 min
+413 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,10 +34,12 @@
 | [Angel](https://open.spotify.com/track/5OCOEBBK7N9l6qh7LYgcmf) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 3:22 | 2023-03-10 | 2023-03-25 |
 | [Another Weary Soul](https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Elemental](https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz) | 4:07 | 2022-05-27 | 2022-06-11 |
 | [Baby What You Do](https://open.spotify.com/track/4TXGCfMrLa40VigIgJOywg) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Heavy Hymnal](https://open.spotify.com/album/4R6uI1hHGcUTKrOWdXrg4t) | 3:52 | 2023-06-23 |  |
+| [Baby Wild](https://open.spotify.com/track/0jVHzZhnTRduhq5y0fyu2U) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Baby Wild](https://open.spotify.com/album/5mb2wuyjdavQOzU72Yd2S1) | 4:10 | 2025-01-24 |  |
 | [Baby's Long Gone](https://open.spotify.com/track/708qzIZOYtob9OMFsxaDhI) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Baby's Long Gone](https://open.spotify.com/album/5Y9vR6neUQGJsCG64yqxFn) | 3:16 | 2023-12-08 |  |
 | [Back Seat](https://open.spotify.com/track/5cORKRcTX6dstvvBVSQan5) | [Chastity Brown](https://open.spotify.com/artist/6vRqjrYlvurWLEwRKvTdEw) | [Back Seat](https://open.spotify.com/album/04hqq9ebr9x6MRmJsyJkzF) | 3:49 | 2022-05-27 |  |
 | [bad blood](https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:08 | 2022-01-28 | 2023-05-13 |
 | [bad blood](https://open.spotify.com/track/7lqyiS447jxNlaMpzsYfkY) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [bad blood](https://open.spotify.com/album/0IYR6AlNwF9HW1u4Jzf1oo) | 3:08 | 2021-12-17 | 2022-06-12 |
+| [Bad News](https://open.spotify.com/track/2tFedHU8BK2n9y345jAaO7) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [Bad News](https://open.spotify.com/album/09j5cMuAxke4rblpRXq9Qp) | 2:20 | 2025-01-24 |  |
 | [Bad Spell \- Acoustic](https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX) | 3:14 | 2023-10-06 |  |
 | [Bad Spell \- Acoustic](https://open.spotify.com/track/3Y90hP16KZv4udp9gHdkY0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/4tu6Pfh0glVmyYFjQEcVPK) | 3:14 | 2023-09-15 | 2024-04-19 |
 | [Bayou Blues \- Demo Version](https://open.spotify.com/track/021PQTMq7rwoMDci9piPVm) | [Lily Belle](https://open.spotify.com/artist/52JMyJYhF7HqCb0Ric9Zqd) | [Bayou Blues \(Demo Version\)](https://open.spotify.com/album/4HpxmLgbT4eK3zMA4wVsQM) | 3:37 | 2023-02-03 |  |
@@ -102,7 +104,7 @@
 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 | 2021-12-17 | 2023-09-16 |
 | [Enjoy the Ride](https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Enjoy the Ride](https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE) | 3:39 | 2024-04-05 | 2024-05-03 |
 | [Everybody Wants To Be My Friend](https://open.spotify.com/track/2dHohxPASrUNxY5NDKWZ1e) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Everybody Wants To Be My Friend](https://open.spotify.com/album/1YTz5RAgMEKkSavrQAg3yN) | 3:37 | 2022-04-15 | 2022-06-12 |
-| [Everywhere You Go There You Are](https://open.spotify.com/track/1GFbtNQ3OFeHA00PJNphPb) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Flash\-A\-Magic](https://open.spotify.com/album/1gPMejW0HDebAGUxXqM8Vq) | 2:43 | 2024-09-06 |  |
+| [Everywhere You Go There You Are](https://open.spotify.com/track/1GFbtNQ3OFeHA00PJNphPb) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Flash\-A\-Magic](https://open.spotify.com/album/1gPMejW0HDebAGUxXqM8Vq) | 2:43 | 2024-09-06 | 2025-01-25 |
 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 | 2024-01-19 | 2024-02-10 |
 | [Fast](https://open.spotify.com/track/4lldt4nIrEzASVTCgQHAmC) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Fast](https://open.spotify.com/album/2pDvPsNV0z3QTxXO1A7qxL) | 3:29 | 2024-02-16 | 2024-04-13 |
 | [Feels Like Freedom](https://open.spotify.com/track/14HCZEU2biaM0hEoOEq1vd) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Feels Like Freedom](https://open.spotify.com/album/1oK1BuADbj2eCKKf24BPwL) | 3:50 | 2022-10-28 | 2024-06-01 |
@@ -402,7 +404,7 @@
 | [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 | 2021-12-17 | 2022-12-17 |
 | [What I Wouldn't Do](https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [What I Wouldn't Do](https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A) | 3:09 | 2024-06-07 |  |
 | [What's Real](https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [What's Real](https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF) | 4:08 | 2022-08-05 | 2022-08-27 |
-| [When It Gets Dark](https://open.spotify.com/track/5g53x9XQ3zDJHZ52xcsAH2) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [When It Gets Dark](https://open.spotify.com/album/1Sq7BpNCgBM7DiQZfnUZja) | 2:28 | 2024-10-18 |  |
+| [When It Gets Dark](https://open.spotify.com/track/5g53x9XQ3zDJHZ52xcsAH2) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [When It Gets Dark](https://open.spotify.com/album/1Sq7BpNCgBM7DiQZfnUZja) | 2:28 | 2024-10-18 | 2025-01-25 |
 | [Where the Black Flowers Grow](https://open.spotify.com/track/3vcQxSbPdsfrPX1xCLhea7) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Where the Black Flowers Grow](https://open.spotify.com/album/5szG872MpEekiCpIAPNzzD) | 4:17 | 2023-12-15 |  |
 | [Whiskey & Wonder](https://open.spotify.com/track/4TlOVtxbJpd9XTwjuVLHeM) | [Angel Forrest](https://open.spotify.com/artist/3kZNky4VEHNviUvh6zNRal), [Brandon Isaak](https://open.spotify.com/artist/7wRVElYhXOEFCgWbR21RQO) | [Whiskey & Wonder](https://open.spotify.com/album/3dZbWqY6QZPSIuVGEQN6mn) | 4:34 | 2022-03-11 | 2023-03-11 |
 | [Whom I Adore](https://open.spotify.com/track/0KyEGhg4AcfSuMrgPjMdEc) | [Oliver Wood](https://open.spotify.com/artist/74evjLDRTaA6Fz6s2rHudU) | [Fat Cat Silhouette](https://open.spotify.com/album/1yfKoTH7qutAxGbjpZGHJs) | 2:55 | 2024-06-14 |  |

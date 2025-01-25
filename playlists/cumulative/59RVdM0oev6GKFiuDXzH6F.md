@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-929 songs - 1 day 23 hr 24 min
+931 songs - 1 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Schemer](https://open.spotify.com/track/5Vd2Y0u0IgKUBssZhXlMYi) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Schemer](https://open.spotify.com/album/6peDhpkTBae0aIs1n9fHbx) | 4:58 | 2023-07-13 | 2023-12-14 |
 | [Searching](https://open.spotify.com/track/0IbfAqVf2uUWa1DNPzkfJk) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Searching](https://open.spotify.com/album/3mtkLlzhDmOu2hhAe8ecPl) | 4:14 | 2024-12-05 |  |
 | [Secrets In The Dark](https://open.spotify.com/track/18bvVlnfkZ0ZoBaq9yJGeh) | [ELI YAZ](https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R) | [Secrets In The Dark](https://open.spotify.com/album/7AikqLQHF8ouF6i5YTTmCM) | 5:16 | 2023-12-15 | 2025-01-09 |
+| [Sensation](https://open.spotify.com/track/7lyvmLVL8GFZHOkaCxMVI2) | [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol), [Snrs](https://open.spotify.com/artist/61mK2JbF5F6tqgZOJMWloW) | [Sensation](https://open.spotify.com/album/11gB9AGVS9AKsaQ5SMVSm2) | 2:21 | 2025-01-24 |  |
 | [Sex Drugs Energie](https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Sex Drugs Energie](https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe) | 2:32 | 2023-11-10 | 2024-09-26 |
 | [Shake It](https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w) | [BUTTER](https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO) | [Shake It](https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO) | 2:11 | 2024-05-17 | 2024-10-11 |
 | [Shake That](https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB) | [Icarix](https://open.spotify.com/artist/0MxIuhSYO3ek7VTPsOcbcr) | [Shake That](https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9) | 2:41 | 2025-01-10 |  |
@@ -861,6 +862,7 @@
 | [Vamo Que Vamo](https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Vamo Que Vamo](https://open.spotify.com/album/5qoafQqdcninxnfwZDhMCI) | 4:05 | 2024-02-29 | 2024-10-11 |
 | [Vamos](https://open.spotify.com/track/1oytvqcsXcvcbd81KZwoiE) | [YREDEF](https://open.spotify.com/artist/07xbheyrGLIZ6hTUT8jmu2), [Boust](https://open.spotify.com/artist/4efXHmLaJRXBmTvZZau48h) | [Vamos](https://open.spotify.com/album/0zR60PCzizfyrBPFKDB7cw) | 2:37 | 2023-07-14 | 2023-12-14 |
 | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF) | 2:55 | 2023-05-05 | 2023-12-23 |
+| [Vibin'](https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Vibin’](https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7) | 2:47 | 2025-01-24 |  |
 | [Vibration](https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Vibration](https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV) | 2:57 | 2023-11-17 | 2024-10-11 |
 | [Voidwalker](https://open.spotify.com/track/7f5UNraZZkf8zzPDNZ8a39) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA) | [Voidwalker](https://open.spotify.com/album/5PITAVHWbQmHVNmQW45bJf) | 3:05 | 2024-03-08 | 2024-04-26 |
 | [Voodoo](https://open.spotify.com/track/7oJQgko4T7fOpu07ogRQH5) | [Ibrahin Cuevas](https://open.spotify.com/artist/26yogyTGYEqR0wbVACTzoQ), [Thvndex](https://open.spotify.com/artist/0Eospqk319OpNppJNNb4Ol) | [Voodoo](https://open.spotify.com/album/6qnEnv7henF3Card4F7FTa) | 2:53 | 2023-02-12 | 2023-03-25 |

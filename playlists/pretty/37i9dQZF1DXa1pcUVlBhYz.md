@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Jon Casey
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,117 likes - 55 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,113 likes - 55 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 6 | [This Is My Life \- Bontan Remix](https://open.spotify.com/track/6CqPGAoMqPoOGCfxSKuKtC) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [This Is My Life \(Bontan Remix\)](https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG) | 3:22 |
 | 7 | [Ready 2 Go](https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Ready 2 Go](https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57) | 2:39 |
 | 8 | [CUNTY](https://open.spotify.com/track/6LhRu1fLeGpTvOvyrbBEO5) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [CUNTY](https://open.spotify.com/album/5OseEgpeXcRW39Jfim15QN) | 3:52 |
-| 9 | [Need I Say More](https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Need I Say More](https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp) | 2:58 |
-| 10 | [Embrace](https://open.spotify.com/track/0oa66icSKEwocNbRcGY52J) | [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ), [Tasha LaRae](https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ) | [Embrace](https://open.spotify.com/album/1QENZAuYIf0wAXwZrTBbKM) | 3:41 |
+| 9 | [WERK](https://open.spotify.com/track/2VDw979OnlkTwykK6URUe4) | [DJ E\-Clyps](https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ) | [WERK](https://open.spotify.com/album/30jPPGYeCAiRfQTy77VrFp) | 2:08 |
+| 10 | [Need I Say More](https://open.spotify.com/track/2UkRAahf0a1wvwxyfqbcLl) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Need I Say More](https://open.spotify.com/album/4s5r0xB87oOlLo9jEJ57vp) | 2:58 |
 | 11 | [I Am Free \- C&B's Deep Mix](https://open.spotify.com/track/6L0kVeuHGnSnrTJS53TwT8) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [I Am Free \(C&B's Deep Mix\)](https://open.spotify.com/album/6pqVO4XJZU0uOuSA66Hua8) | 3:32 |
 | 12 | [Melodica](https://open.spotify.com/track/1dPRwnQl9MzC7gnr21UcUG) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Melodica](https://open.spotify.com/album/4CV1oDU4IfYXmVvJrV2Hx5) | 4:03 |
 | 13 | [Made For Me \- HoneyLuv AfroLuv Remix](https://open.spotify.com/track/5yY3eGexmfm4rxuWXEibn6) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Made For Me \(HoneyLuv AfroLuv Remix\)](https://open.spotify.com/album/3bZFsyIthTUca3rBsVgHcy) | 3:48 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 54 | [Inter Transit](https://open.spotify.com/track/5LC0lrlC74v1onS2FoOkQ8) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [Inter Transit](https://open.spotify.com/album/5heGxFe0I0vDVKR3HTtMMy) | 5:16 |
 | 55 | [Cake Code](https://open.spotify.com/track/7G2OJpOOOLzN6nDQQUzUOb) | [Eddington Again](https://open.spotify.com/artist/1qx1wjImNcB4QRgT6OQceR) | [Naomi9](https://open.spotify.com/album/0cAFLIcNykqCrT2pJk1Htq) | 3:13 |
 
-Snapshot ID: `Z4q/TQAAAAA/LttJLCnUzFGFNEyp639+`
+Snapshot ID: `Z5MegAAAAADBGsMWCQaRQd6b1m1bLQsR`

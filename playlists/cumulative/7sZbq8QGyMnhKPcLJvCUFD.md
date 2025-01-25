@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-660 songs - 1 day 9 hr 29 min
+662 songs - 1 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [BANE](https://open.spotify.com/track/0a5xYmF0xUfXlU6bwzeqPi) | [Emin Nilsen](https://open.spotify.com/artist/59TVoD6bvD2JFs9xLZH9bX) | [BANE](https://open.spotify.com/album/1dICirHlSGKgaaWyYvug3l) | 2:01 | 2024-05-16 | 2024-12-09 |
 | [Bass Face](https://open.spotify.com/track/5sRe8o0v1CV3p5gFLrGzeH) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bass Face](https://open.spotify.com/album/3sp5KnHFEln5c0nAWZD5kv) | 2:56 | 2024-02-13 | 2024-08-28 |
 | [Beam \(ft\. Gabriella\)](https://open.spotify.com/track/0rE2636V6lX6xqlqILnRzS) | [Zeneth](https://open.spotify.com/artist/1Q0zpcJr81syOnC7SnbEGe), [Knoir](https://open.spotify.com/artist/7Knv331TlVGpUA1vRMZxZW), [Gabriella](https://open.spotify.com/artist/6SqSiJfIdigfPGJFq0DW9m) | [Beam \(ft\. Gabriella\)](https://open.spotify.com/album/2AfmqAi8KIlIEDvp98lYcx) | 3:34 | 2022-04-05 | 2023-04-28 |
+| [Beautiful Disaster](https://open.spotify.com/track/10bqTwaXtewouFtNz7p7kC) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Mason Musso](https://open.spotify.com/artist/4W9a2d2YNm0gNbt7y7ic2a), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ) | [Beautiful Disaster](https://open.spotify.com/album/1jZvUBWcgtdr4lrOWDk38V) | 2:34 | 2025-01-24 |  |
 | [Behind](https://open.spotify.com/track/6maXPePCZOGQQmwQurOOmG) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx) | [Behind](https://open.spotify.com/album/7w5XFHUG5e8dAjiwLyDfx9) | 3:05 | 2022-12-28 | 2023-04-28 |
 | [Believe Me](https://open.spotify.com/track/1RtI5pMsCPuxoMzsk9etiE) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [JAMZ](https://open.spotify.com/artist/7kYh4aJ1wzORt9hqML1IWZ), [SIMONNE](https://open.spotify.com/artist/290WOVLmzJRsj8KJjDIEtD) | [Believe Me](https://open.spotify.com/album/78EOsgCPheBmkCwXtA1nbt) | 3:16 | 2022-08-04 | 2023-04-28 |
 | [Black and White](https://open.spotify.com/track/5wL26G5AabUfJHTYgAMEfE) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Black and White](https://open.spotify.com/album/53N7fKh0OoBXO3OBAFGqZW) | 3:02 | 2023-06-02 | 2023-08-10 |
@@ -88,6 +89,7 @@
 | [Burned](https://open.spotify.com/track/3XfD2WZJmaxPOffgQfe88R) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE) | [Burned](https://open.spotify.com/album/2rhiCp8wA2uuERay3UfTIz) | 2:09 | 2023-06-15 | 2023-08-10 |
 | [Burning Wish](https://open.spotify.com/track/7aLni8hgkIvVHWZh6mx9js) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Burning Wish](https://open.spotify.com/album/6hYHHReXvw9Gv4Tt8JiL3L) | 2:33 | 2024-02-02 | 2025-01-08 |
 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 | 2024-02-01 |  |
+| [Button Masher](https://open.spotify.com/track/2QV8tGuECS8R3RxBooutFQ) | [MDK](https://open.spotify.com/artist/4AFmCAFHwoV2o3QR1Wgup4) | [Button Masher](https://open.spotify.com/album/7MhmXYLoIflQ4d2ImBiTLC) | 3:22 | 2025-01-24 |  |
 | [By My Side](https://open.spotify.com/track/66p1AS3IxyCUZSm1ZOoKjQ) | [Acejax](https://open.spotify.com/artist/4XJPVnaKHtfPw75SomdyQ5), [Danilyon](https://open.spotify.com/artist/1mn63wKYd6Ai2mhHmwk8Nh) | [By My Side](https://open.spotify.com/album/3zdnm0Xg32crPVdEKFPsRC) | 2:58 | 2023-08-08 | 2024-03-16 |
 | [By Your Side](https://open.spotify.com/track/7xdLOiw41ACPrR6lKRhMgk) | [God's Warrior](https://open.spotify.com/artist/4OGggb4JhHb8BejoK3Y0zh) | [By Your Side](https://open.spotify.com/album/0SprUbV3HTNOWG5guO0VSU) | 3:25 | 2022-10-26 | 2023-04-28 |
 | [bye bye](https://open.spotify.com/track/7q7W1iPAk23AM5k9nqPMlp) | [Andrah](https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk) | [bye bye](https://open.spotify.com/album/0um07umw9ZwBLm8LLym6II) | 2:48 | 2023-12-13 | 2024-04-17 |

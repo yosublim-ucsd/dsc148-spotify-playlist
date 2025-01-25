@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 19598,
+  "num_followers": 19614,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5A1AAAAAADmbv01zLbTqCWUMPjI1cvT",
+  "snapshot_id": "Z5GGgAAAAACt5AeFtJsifQ54Tb7wD+mG",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 173070,
-      "name": "Rugged Country",
-      "url": "https://open.spotify.com/track/5ezE3J5CjlBdPp2BFn8P7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 245562,
       "name": "The Ewer (Day)",
       "url": "https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 173070,
+      "name": "Rugged Country",
+      "url": "https://open.spotify.com/track/5ezE3J5CjlBdPp2BFn8P7P"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 75707,
-      "name": "Psychopomp",
-      "url": "https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 210625,
       "name": "Better the Mask",
       "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 75707,
+      "name": "Psychopomp",
+      "url": "https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj"
     },
     {
       "added_at": null,

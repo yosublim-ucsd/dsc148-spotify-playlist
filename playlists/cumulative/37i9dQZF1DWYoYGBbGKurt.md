@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,919 songs - 3 day 2 hr 20 min
+1,924 songs - 3 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [By The Sea](https://open.spotify.com/track/1o4X9LyVmM4F1CRfjVjHDQ) | [ord minami](https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV) | [CINEMA](https://open.spotify.com/album/1i4w92XNnwSw6gKaMyJu1j) | 2:18 | 2022-10-07 | 2022-12-24 |
 | [cabin weather](https://open.spotify.com/track/0gDrjkBGC61kkPHJhKyctN) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [cabin weather](https://open.spotify.com/album/0O0oH4FTGiqwi3Z0PhD1KL) | 2:57 | 2024-02-09 | 2024-12-21 |
 | [California Roll](https://open.spotify.com/track/4u3xsYgzrBd39HzEAaeVmF) | [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [Ole](https://open.spotify.com/artist/5FKvaEKPzl3Z5n2GtxpkSp) | [California Roll](https://open.spotify.com/album/6KyWWMXWrCugqjknimAHhz) | 2:49 | 2021-12-07 | 2022-04-22 |
+| [Call](https://open.spotify.com/track/0i0jD8aZfX9nZiVPOW2MuW) | [Indigo Songs](https://open.spotify.com/artist/2BWhKXeKs6nnuRF8Z7v7Mj) | [Call](https://open.spotify.com/album/1raqF7wEIuJexoReVIpJ4U) | 2:29 | 2025-01-24 |  |
 | [Call It A Day](https://open.spotify.com/track/6CY9Zcmxx1ejM8zLZ6zZt2) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Call It A Day](https://open.spotify.com/album/2lHULC9ckQqgTD9SQki0yZ) | 2:19 | 2022-10-07 | 2024-04-13 |
 | [Calm](https://open.spotify.com/track/5hREQn34kMIiz5voUzyoQx) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Calm](https://open.spotify.com/album/258lJChevzMSAhIjnVh7kQ) | 1:56 | 2022-09-16 | 2022-12-10 |
 | [Calm & Collected](https://open.spotify.com/track/3JDcsb799TVMIKDAuvyAit) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Calm & Collected](https://open.spotify.com/album/4mxxpsIfLlAcQ35Ezr50wB) | 3:21 | 2022-10-28 | 2023-04-21 |
@@ -429,6 +430,7 @@
 | [Dinner is Ready](https://open.spotify.com/track/0QIlgmnJBsd6zkH9u7MEcX) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98) | [Dinner is Ready](https://open.spotify.com/album/3kPBeasLZztiyyCPZ9l9wO) | 2:27 | 2021-12-07 | 2022-07-29 |
 | [Dirty Ensemble](https://open.spotify.com/track/0pGDCfVjkHuQRNnthF5ur5) | [Tonino Rocco](https://open.spotify.com/artist/5rxfOCfJz4t7u9sNU1t8O9) | [Emo Nemo](https://open.spotify.com/album/0X4jSnVgS8g6MWKdXhcwwh) | 2:08 | 2021-12-07 | 2023-03-09 |
 | [Discharge](https://open.spotify.com/track/4omWQdyYfgk8vtSN2m2tJ6) | [Hexpresso](https://open.spotify.com/artist/7tQtiWRdndymTqcxX8SUSb) | [Discharge](https://open.spotify.com/album/3LmwkJLui6lMH2j3xqL73A) | 1:53 | 2022-09-23 | 2023-11-17 |
+| [Disclosure](https://open.spotify.com/track/5J8OiTo5EjbnLE1t8MIW3r) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Disclosure](https://open.spotify.com/album/7cqyjrIndzQUO3cECvRYcw) | 2:57 | 2025-01-24 |  |
 | [Discovery](https://open.spotify.com/track/50wwUkxxLra9kBQs6p9YXb) | [Spinmont](https://open.spotify.com/artist/6CNlouXOE8j6UGHVmtagw6) | [Much Luv](https://open.spotify.com/album/7ACnv6hBb8kkeUKXOktgi5) | 2:24 | 2022-09-02 | 2022-12-03 |
 | [disjointed memories](https://open.spotify.com/track/61awqUtljTeWfP9k8XmgMF) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [disjointed memories](https://open.spotify.com/album/4XwCvK6zGqwLzMIc7enrHh) | 2:10 | 2022-09-02 | 2022-12-03 |
 | [Dissolve](https://open.spotify.com/track/7i5u11YJEJROzfw7vBsLoF) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Dissolve](https://open.spotify.com/album/4rGRWn9ywUci9E9RR1AmO0) | 2:14 | 2022-09-02 | 2022-12-03 |
@@ -623,6 +625,7 @@
 | [Flower Vibes](https://open.spotify.com/track/578YiQvMFbkARNwITtu6Ld) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Flower Vibes](https://open.spotify.com/album/6FAbfAFkLosmJWqCajzWk9) | 2:48 | 2022-07-15 | 2022-10-14 |
 | [Flowers](https://open.spotify.com/track/7KWdSkMxMR1dnUwBiGjdhL) | [Slooow](https://open.spotify.com/artist/1p2Mb0YhupIUEhwP1nbAU0) | [Flowers](https://open.spotify.com/album/7dFloEnoynZGJZPDnmkk6F) | 2:27 | 2022-11-11 | 2023-09-16 |
 | [Fluffity](https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl), [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Fluffity](https://open.spotify.com/album/7syd7u5StZKwBgcaFw7JUB) | 2:39 | 2023-10-27 | 2024-10-26 |
+| [Fluffy](https://open.spotify.com/track/5AKh7wnYUVtKgMfHfEK9GW) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Fluffy](https://open.spotify.com/album/5WYFLDHJLdZwfafzp6qHwl) | 2:29 | 2025-01-24 |  |
 | [Fly Away](https://open.spotify.com/track/3oNWULGNPPI2pPadF2gbVI) | [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Fly Away](https://open.spotify.com/album/3VjkTcP80q9hpwK6KYDTf6) | 1:53 | 2023-03-08 | 2023-09-22 |
 | [Fly With Me](https://open.spotify.com/track/5a4mjwTtgjSDYVUrMwpeq7) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Fly With Me](https://open.spotify.com/album/5wID84ngpCcTDA3WJRnjgo) | 2:08 | 2023-08-21 | 2023-11-11 |
 | [flying on the clouds](https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4) | [Chapter IX](https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV) | [flying on the clouds](https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr) | 2:25 | 2024-09-27 |  |
@@ -860,6 +863,7 @@
 | [Jazz Café](https://open.spotify.com/track/1QhCSyIQkNuN2RNOenda44) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Jazz Café](https://open.spotify.com/album/0nmoTwcKuhdZbuky8nb67u) | 2:21 | 2022-04-08 | 2022-10-14 |
 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 | 2022-09-02 | 2023-08-22 |
 | [Jericho Sun](https://open.spotify.com/track/4pDDvReURWfRQMrM0vSZXi) | [Neil Fonda](https://open.spotify.com/artist/5H1cu70jIQPO4nP9bjlKhp) | [Jericho Sun](https://open.spotify.com/album/5HgpaEHSoNk9HFFhMCqlH7) | 1:56 | 2021-12-07 | 2022-05-27 |
+| [Jester's Lullaby](https://open.spotify.com/track/2aC4EzyoeHagzpbzXZpCuS) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Jester's Lullaby](https://open.spotify.com/album/1xkP2sAu2JghaXPrWuvukZ) | 1:53 | 2025-01-24 |  |
 | [Joosin](https://open.spotify.com/track/3B5v26g0nd65Hs5WFzHRss) | [Software Soul](https://open.spotify.com/artist/2XVmqcuBGLwCHsBHizRMsx) | [Heart Songs](https://open.spotify.com/album/6jE8JZgJMdGG2UpILyWT9G) | 2:43 | 2021-12-07 | 2022-09-23 |
 | [Journey Through Time](https://open.spotify.com/track/3QBPjH5Me3YIgMi3SAhS0s) | [Amerettius](https://open.spotify.com/artist/46S1SxpfQQUugnv7HvAAZ4) | [Journey Through Time](https://open.spotify.com/album/4wmRTL1CNrBJp2g5h2kY2B) | 2:08 | 2021-12-07 | 2022-07-22 |
 | [Jumping Stairs](https://open.spotify.com/track/4hwavFxjOXAFhVxzkLdrXm) | [Casper Loe](https://open.spotify.com/artist/6sgFsC4m16h2OMCFptzH6S) | [Jumping Stairs](https://open.spotify.com/album/6dFhFCZMrfLxxKW3q7PpVW) | 1:54 | 2021-12-07 | 2022-09-10 |
@@ -1519,6 +1523,7 @@
 | [SoFi](https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [SoFi](https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6) | 2:11 | 2024-06-21 |  |
 | [Soft lap](https://open.spotify.com/track/6WgZFFZA4quhLJc0Ay2bHS) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Soft lap](https://open.spotify.com/album/6Gc20mipVb5HZDvnUl408B) | 2:52 | 2024-05-29 |  |
 | [Soft Pillows](https://open.spotify.com/track/0CeqaB8bIDeEb2p4qALWOj) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Fuji Fields](https://open.spotify.com/album/2mO2hsdDktSQ3WXFoR1cP6) | 1:53 | 2022-12-02 | 2023-10-06 |
+| [Soft Pine](https://open.spotify.com/track/47JLuUUqYMZQC0shyJ2bKU) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Soft Pine](https://open.spotify.com/album/2dACC8Y7xGpgWuxP8gm1Im) | 2:16 | 2025-01-24 |  |
 | [Soft Slap](https://open.spotify.com/track/3umoNiC2gyJ4oaGj7t74Zk) | [Dream Web](https://open.spotify.com/artist/0xhiRy2F05NVIpB4GKReES) | [Soft Slap](https://open.spotify.com/album/4KZNYiyOffr0ugdRRcgFMK) | 4:03 | 2021-12-07 | 2022-10-14 |
 | [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 |  |
 | [somebody else](https://open.spotify.com/track/4SwdZqpbUSk66Ml3LtV1JA) | [Miller Jones](https://open.spotify.com/artist/510OvGYbABEpEGZBCnL8Yd) | [somebody else](https://open.spotify.com/album/2Xge9gAY63AG4CL9vp27e9) | 1:39 | 2023-03-01 | 2023-10-20 |

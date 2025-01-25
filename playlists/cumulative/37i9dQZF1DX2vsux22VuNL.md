@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Jean Tassy
 
-444 songs - 23 hr 7 min
+445 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Maresia](https://open.spotify.com/track/64qtQNzG1jnbQ1f4oYw2z4) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Maresia](https://open.spotify.com/album/3mzRiSYaX1VOIznQOwf79J) | 2:15 | 2024-12-13 |  |
 | [Maria](https://open.spotify.com/track/2ux3Sb90r5aA74nLMls1u0) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 3:24 | 2024-09-27 |  |
 | [Maria](https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02) | [NIZZ](https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L) | [Maria](https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp) | 2:55 | 2023-07-07 | 2024-08-10 |
-| [Maria do Olho Verde](https://open.spotify.com/track/6c5AQO3llPWxeAK4b3cAut) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 3:24 | 2024-07-12 |  |
+| [Maria do Olho Verde](https://open.spotify.com/track/6c5AQO3llPWxeAK4b3cAut) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Vagabundo de Luxo](https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv) | 3:24 | 2024-07-12 | 2025-01-25 |
 | [Marrenta](https://open.spotify.com/track/5zs7ACiAUds9sAkE7CTd20) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Marrenta](https://open.spotify.com/album/3p2NXpcsYeBIJM0qg7eq7g) | 2:47 | 2022-05-23 | 2023-05-27 |
 | [Massagem](https://open.spotify.com/track/0rJvi7IQP6JLO5djPLvaZx) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Meu Tom](https://open.spotify.com/album/1scxBLyeF8CmbdErwhZgHj) | 3:23 | 2024-01-19 | 2024-03-30 |
 | [Me Diz Quando A Gente Vai Se Ver](https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Me Diz Quando A Gente Vai Se Ver](https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg) | 2:55 | 2024-09-13 |  |
@@ -329,6 +329,7 @@
 | [Puto de Luxo](https://open.spotify.com/track/07ju745iEQFzrMsX7UUzVc) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Puto de Luxo](https://open.spotify.com/album/6znvdqy8BOk5pPExvi18f5) | 2:24 | 2022-12-02 | 2023-07-15 |
 | [Púrpura](https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:10 | 2024-10-04 |  |
 | [Qatar Freestyle \(Papatracks \#9\)](https://open.spotify.com/track/7zYU3eU3vjLs44vUJivpO8) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Qatar Freestyle \(Papatracks \#9\)](https://open.spotify.com/album/0lxY3vzM1UydsvM3uKj5hF) | 2:23 | 2023-03-17 | 2023-06-24 |
+| [Quadrado Formado](https://open.spotify.com/track/3aXko8H02cLdkto6j2J45I) | [Morgado](https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN), [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Havine](https://open.spotify.com/artist/3Fx7ML3PVLgEDT73BlgTID) | [Terapia Grátis](https://open.spotify.com/album/5msB5hJsTwO5JLdyfV0alp) | 2:21 | 2025-01-24 |  |
 | [Quadrantes](https://open.spotify.com/track/4c0D88soVytSSLYS0m3FCl) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Quadrantes](https://open.spotify.com/album/4rBGuWhliwok2qvqUrF3Yn) | 2:17 | 2023-12-15 | 2024-01-27 |
 | [Qual É](https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf) | [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3), [Rico Dalasam](https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97) | [Summer Groove](https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5) | 2:42 | 2024-01-26 |  |
 | [Quando](https://open.spotify.com/track/1hzBmDY92rHMRkWpydY120) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Quando](https://open.spotify.com/album/2iwPRtSrvVoBU9VpAeylfY) | 3:14 | 2022-11-25 | 2022-11-29 |

@@ -1,29 +1,13 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 48212,
+  "num_followers": 48249,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nkAgAAAABFPXBTni3OBFj02P3iivuI",
+  "snapshot_id": "Z5MegwAAAADdYDMg3f/Z4jujpRBtfhxL",
   "tracks": [
-    {
-      "added_at": "2025-01-10 05:00:18",
-      "album": {
-        "name": "Serotonine EP",
-        "url": "https://open.spotify.com/album/2IJ0OyFYDdHyoWZ4ZRNx8s"
-      },
-      "artists": [
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Serotonine",
-      "url": "https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"
-    },
     {
       "added_at": "2024-12-31 01:32:19",
       "album": {
@@ -45,24 +29,36 @@
       "url": "https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F"
     },
     {
-      "added_at": "2025-01-17 05:00:50",
+      "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "Sample Inspector EP",
-        "url": "https://open.spotify.com/album/6aTGoiiAU7TOpsZe8GhjG6"
+        "name": "Don't Touch That Dial EP",
+        "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
       },
       "artists": [
         {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        },
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 182255,
-      "name": "Bigelectronic",
-      "url": "https://open.spotify.com/track/2AcrZKYp5IC6bB5MkCI9d0"
+      "duration_ms": 194000,
+      "name": "Don't Touch That Dial",
+      "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
+    },
+    {
+      "added_at": "2025-01-10 05:00:18",
+      "album": {
+        "name": "Serotonine EP",
+        "url": "https://open.spotify.com/album/2IJ0OyFYDdHyoWZ4ZRNx8s"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Serotonine",
+      "url": "https://open.spotify.com/track/7brE4PDHUmdJMFle4OTTAA"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -165,24 +161,20 @@
       "url": "https://open.spotify.com/track/17kxWsI8f7T1UEcboHmm9a"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/4zplw0xNTYIa6AWSNtEmC7"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/4aMjAjmddidXMjA5e65gaX"
       },
       "artists": [
         {
-          "name": "Goosey",
-          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
-        },
-        {
-          "name": "Mattia Scolaro",
-          "url": "https://open.spotify.com/artist/76v943xhTKzJCZuFT4QU1x"
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/1tXc3MKP0xGeKCN2RD3ryF"
+      "duration_ms": 326000,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7s4FWMmzcHjOkJvo4L2ZWs"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -269,72 +261,72 @@
       "url": "https://open.spotify.com/track/3GKus5g2N6czJ5Eo4oCGpd"
     },
     {
-      "added_at": "2024-11-13 17:19:58",
+      "added_at": "2024-12-13 05:00:18",
       "album": {
-        "name": "Smack Yo'",
-        "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
+        "name": "Disco Tetris (Edit)",
+        "url": "https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
         }
       ],
-      "duration_ms": 245669,
-      "name": "Smack Yo'",
-      "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
+      "duration_ms": 198675,
+      "name": "Disco Tetris - Edit",
+      "url": "https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
+      "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Misleading",
-        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
+        "name": "W Up EP",
+        "url": "https://open.spotify.com/album/1aG9J0UUaOLXdiKQnJ2gnk"
       },
       "artists": [
         {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+          "name": "EdiP",
+          "url": "https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE"
         }
       ],
-      "duration_ms": 187365,
-      "name": "Misleading",
-      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
+      "duration_ms": 195000,
+      "name": "W Up",
+      "url": "https://open.spotify.com/track/4sD8IER4xBNH6Onug5klHU"
     },
     {
-      "added_at": "2024-11-06 22:50:08",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Good Girls",
-        "url": "https://open.spotify.com/album/4GDSsm3nzzCrxeWrKVtxHH"
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/4zplw0xNTYIa6AWSNtEmC7"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "Goosey",
+          "url": "https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn"
         },
         {
-          "name": "George Privatti",
-          "url": "https://open.spotify.com/artist/2sasskQYJB0zDfvUUtw0L6"
+          "name": "Mattia Scolaro",
+          "url": "https://open.spotify.com/artist/76v943xhTKzJCZuFT4QU1x"
         }
       ],
-      "duration_ms": 190615,
-      "name": "Good Girls - Radio-Edit",
-      "url": "https://open.spotify.com/track/1ay3QtSwk4SVlIBdQzG8UO"
+      "duration_ms": 205161,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/1tXc3MKP0xGeKCN2RD3ryF"
     },
     {
-      "added_at": "2024-12-23 20:42:56",
+      "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "Blow Your Mind",
-        "url": "https://open.spotify.com/album/6beJ7OczdgHeqb2emAIO1G"
+        "name": "Get Wicked EP",
+        "url": "https://open.spotify.com/album/156t8HzipL7M634lftqyPX"
       },
       "artists": [
         {
-          "name": "Ryan Resso",
-          "url": "https://open.spotify.com/artist/5kgvSiEt7OdyYrM0xLHXO9"
+          "name": "JAYC",
+          "url": "https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ"
         }
       ],
-      "duration_ms": 213015,
-      "name": "Blow Your Mind",
-      "url": "https://open.spotify.com/track/6eQ5Fmp7v23vRhzPWaOxu5"
+      "duration_ms": 320000,
+      "name": "Infused",
+      "url": "https://open.spotify.com/track/4Iqkg75Fm8Gql8Uzy7sy05"
     },
     {
       "added_at": "2024-12-23 20:42:56",
@@ -423,18 +415,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Spiritually Tessellate",
-        "url": "https://open.spotify.com/album/5ZxjjfaZJf0fW1aOmxtMmp"
+        "name": "Sample Inspector EP",
+        "url": "https://open.spotify.com/album/6aTGoiiAU7TOpsZe8GhjG6"
       },
       "artists": [
         {
-          "name": "The Trip",
-          "url": "https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW"
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        },
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
         }
       ],
-      "duration_ms": 270851,
-      "name": "Delighful Funk - Edit",
-      "url": "https://open.spotify.com/track/6Etd6C7NbfWIivVIbXprzw"
+      "duration_ms": 182255,
+      "name": "Bigelectronic",
+      "url": "https://open.spotify.com/track/2AcrZKYp5IC6bB5MkCI9d0"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -469,20 +465,28 @@
       "url": "https://open.spotify.com/track/4bkWOqrai47OHFVTxySEmk"
     },
     {
-      "added_at": "2024-11-30 00:43:23",
+      "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "Take You On A Ride",
-        "url": "https://open.spotify.com/album/5toTQhxSjfy0rMaqbOBajk"
+        "name": "Dedication (feat. Dub Princess)",
+        "url": "https://open.spotify.com/album/00I0M1VEeKh21nHyBrSKBB"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Will Taylor (UK)",
+          "url": "https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX"
+        },
+        {
+          "name": "Isaac Chambers",
+          "url": "https://open.spotify.com/artist/3Z8221k9q4oLkXUEuizRJP"
+        },
+        {
+          "name": "Dub Princess",
+          "url": "https://open.spotify.com/artist/7HbkOfqsXZgUAJxaK2I3GJ"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Take You On A Ride",
-      "url": "https://open.spotify.com/track/0EHYJC5x9CNKumQe8WJA6k"
+      "duration_ms": 151384,
+      "name": "Dedication (feat. Dub Princess)",
+      "url": "https://open.spotify.com/track/14iVg2g7m1esAQ7qZfexBI"
     },
     {
       "added_at": "2024-12-23 20:42:56",
@@ -501,20 +505,20 @@
       "url": "https://open.spotify.com/track/3Zt3PHs6cb2ICbtiGo1b56"
     },
     {
-      "added_at": "2025-01-10 05:00:18",
+      "added_at": "2024-12-23 20:42:56",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5KJCpe9JburdcTRSjHGxL7"
+        "name": "Blow Your Mind",
+        "url": "https://open.spotify.com/album/6beJ7OczdgHeqb2emAIO1G"
       },
       "artists": [
         {
-          "name": "Ronnie Spiteri",
-          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+          "name": "Ryan Resso",
+          "url": "https://open.spotify.com/artist/5kgvSiEt7OdyYrM0xLHXO9"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Alive - Radio Edit",
-      "url": "https://open.spotify.com/track/18V03JCrwP7DLel4T55bpJ"
+      "duration_ms": 213015,
+      "name": "Blow Your Mind",
+      "url": "https://open.spotify.com/track/6eQ5Fmp7v23vRhzPWaOxu5"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -589,20 +593,20 @@
       "url": "https://open.spotify.com/track/7vvcLryn7Ty6BC4xt0rAqy"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-11-13 17:19:58",
       "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+        "name": "Smack Yo'",
+        "url": "https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         }
       ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
+      "duration_ms": 245669,
+      "name": "Smack Yo'",
+      "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -641,20 +645,36 @@
       "url": "https://open.spotify.com/track/49DRk5QjrcI6RXJ6Fwvq10"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Disco Tetris (Edit)",
-        "url": "https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2"
+        "name": "Misleading",
+        "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
       },
       "artists": [
         {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
         }
       ],
-      "duration_ms": 198675,
-      "name": "Disco Tetris - Edit",
-      "url": "https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45"
+      "duration_ms": 187365,
+      "name": "Misleading",
+      "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Won't Stop (Don't)",
+        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Won't Stop (Don't)",
+      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -671,6 +691,26 @@
       "duration_ms": 205714,
       "name": "Trip Advisor (Rhythm, Snare, Bass)",
       "url": "https://open.spotify.com/track/5kimJnpTUUYKMs8wccI0w2"
+    },
+    {
+      "added_at": "2025-01-24 05:00:51",
+      "album": {
+        "name": "Deright",
+        "url": "https://open.spotify.com/album/3NuJqENsjCkvQKyPWxxyAE"
+      },
+      "artists": [
+        {
+          "name": "Alonso Bierg",
+          "url": "https://open.spotify.com/artist/32Apq7bkLTi0XnADTMj4qt"
+        },
+        {
+          "name": "Andre Butano",
+          "url": "https://open.spotify.com/artist/1d8saXrZBqwtB9yQmqckWS"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Deright - Radio Mix",
+      "url": "https://open.spotify.com/track/2tDxRJuCgfDf9rcb00B3Hs"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -931,6 +971,38 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Little Man (Proud Of You)",
+        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 120902,
+      "name": "Little Man (Proud Of You)",
+      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Bass Up To The Top",
+        "url": "https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "Bass Up To The Top",
+      "url": "https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Its Time to Move",
         "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
       },
@@ -979,38 +1051,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Bass Up To The Top",
-        "url": "https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "Bass Up To The Top",
-      "url": "https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Little Man (Proud Of You)",
-        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 120902,
-      "name": "Little Man (Proud Of You)",
-      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Flawless",
         "url": "https://open.spotify.com/album/6rEA4FyIVN0s5pTj8M8d0R"
       },
@@ -1045,38 +1085,6 @@
       "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
     },
     {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "On Deck",
-        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "On Deck",
-      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
-    },
-    {
       "added_at": "2024-12-13 05:00:18",
       "album": {
         "name": "How Low Can You Go EP",
@@ -1091,6 +1099,38 @@
       "duration_ms": 232500,
       "name": "How Low Can You Go",
       "url": "https://open.spotify.com/track/3L4Sen9oMlDkmbeufDEU3Q"
+    },
+    {
+      "added_at": "2024-11-30 00:43:23",
+      "album": {
+        "name": "Take You On A Ride",
+        "url": "https://open.spotify.com/album/5toTQhxSjfy0rMaqbOBajk"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Take You On A Ride",
+      "url": "https://open.spotify.com/track/0EHYJC5x9CNKumQe8WJA6k"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1111,6 +1151,22 @@
       "duration_ms": 210909,
       "name": "Mezcal Bounce",
       "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1261,22 +1317,6 @@
       "url": "https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW"
     },
     {
-      "added_at": "2024-12-02 21:58:04",
-      "album": {
-        "name": "Red Alert",
-        "url": "https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 211732,
-      "name": "She Wants Bass",
-      "url": "https://open.spotify.com/track/539nhBaI2YCKDG3qPCs5vu"
-    },
-    {
       "added_at": "2024-11-20 16:52:26",
       "album": {
         "name": "Move",
@@ -1291,6 +1331,22 @@
       "duration_ms": 191166,
       "name": "Move",
       "url": "https://open.spotify.com/track/0yqsV9NZytn8U6HmwrVVBH"
+    },
+    {
+      "added_at": "2024-12-02 21:58:04",
+      "album": {
+        "name": "Red Alert",
+        "url": "https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 211732,
+      "name": "She Wants Bass",
+      "url": "https://open.spotify.com/track/539nhBaI2YCKDG3qPCs5vu"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1395,6 +1451,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Bad City",
+        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 381821,
+      "name": "Bad City",
+      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Journey LP",
         "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
       },
@@ -1423,22 +1495,6 @@
       "duration_ms": 203182,
       "name": "Red Alert",
       "url": "https://open.spotify.com/track/7F5cUAijc9EjGxjcgMfXph"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Bad City",
-        "url": "https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 381821,
-      "name": "Bad City",
-      "url": "https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1629,6 +1685,22 @@
       "url": "https://open.spotify.com/track/7MNdA4KvxD2qFilUBt8sys"
     },
     {
+      "added_at": "2024-12-23 20:42:56",
+      "album": {
+        "name": "Mystic Night EP",
+        "url": "https://open.spotify.com/album/40YAAXoujQSwhXlvcjxYSD"
+      },
+      "artists": [
+        {
+          "name": "Di Chiara Brothers",
+          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/45yjPHECGDAkbo5lp2oItr"
+    },
+    {
       "added_at": "2024-11-06 22:50:08",
       "album": {
         "name": "Running from the Noise (Edit)",
@@ -1647,22 +1719,6 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
-    },
-    {
-      "added_at": "2024-12-23 20:42:56",
-      "album": {
-        "name": "Mystic Night EP",
-        "url": "https://open.spotify.com/album/40YAAXoujQSwhXlvcjxYSD"
-      },
-      "artists": [
-        {
-          "name": "Di Chiara Brothers",
-          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/45yjPHECGDAkbo5lp2oItr"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1703,54 +1759,6 @@
       "duration_ms": 207000,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY"
-      },
-      "artists": [
-        {
-          "name": "Iglesias",
-          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
-        }
-      ],
-      "duration_ms": 396682,
-      "name": "Dynasty",
-      "url": "https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "ROCK THIS",
-        "url": "https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE"
-      },
-      "artists": [
-        {
-          "name": "Sergio Saffe",
-          "url": "https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "ROCK THIS",
-      "url": "https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/7cWNy3kWFzrzODFwR7k1Tg"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 144383,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7lOWnzFtxRsPYpzeCG8OuS"
     }
   ],
   "unique_name": "Minimal Tech",

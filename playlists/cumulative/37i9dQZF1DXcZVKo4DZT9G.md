@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcZVKo4DZT9G.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcZVKo4DZT9G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcZVKo4DZT9G)
 
-### [クレヨンしんちゃん\-Crayon Shinchan\-](https://open.spotify.com/playlist/37i9dQZF1DXcZVKo4DZT9G)
+### [Crayon Shinchan](https://open.spotify.com/playlist/37i9dQZF1DXcZVKo4DZT9G)
 
-> Theme songs from TV/ movie series of "Crayon Shinchan"! クレヨンしんちゃんのテレビアニメ主題歌、映画シリーズ歴代主題歌などを辿る公式プレイリスト！©︎臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2024
+> Theme songs from TV/ movie series of "Crayon Shinchan"! ©︎臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2024
 
 42 songs - 2 hr 38 min
 

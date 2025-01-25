@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Cameron Winter",
-  "num_followers": 239221,
+  "num_followers": 239277,
   "original_name": " Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5EkHgAAAAD9xreWTj4tRlpB6XZ8pY88",
+  "snapshot_id": "Z5Q5DAAAAACqRS3pnj0AA5sM31lfoGRo",
   "tracks": [
     {
       "added_at": "2025-01-15 17:00:22",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/0u4g7SYTCckp1HsyKGrv30"
     },
     {
+      "added_at": "2025-01-24 19:50:00",
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA"
+      },
+      "artists": [
+        {
+          "name": "Nico Play",
+          "url": "https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl"
+        }
+      ],
+      "duration_ms": 176212,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
+    },
+    {
       "added_at": "2025-01-22 17:00:14",
       "album": {
         "name": "Waiting on You!",
@@ -155,6 +171,22 @@
       "duration_ms": 566071,
       "name": "Spirit Echo",
       "url": "https://open.spotify.com/track/6PrfMSAC6UyCv7ZuNfYTsJ"
+    },
+    {
+      "added_at": "2025-01-25 01:06:20",
+      "album": {
+        "name": "Tell You Somethin'",
+        "url": "https://open.spotify.com/album/5kg0062RTAfuULsektLcOj"
+      },
+      "artists": [
+        {
+          "name": "Christopher Normann",
+          "url": "https://open.spotify.com/artist/71Ba2c5KQ692t9amjwR2FK"
+        }
+      ],
+      "duration_ms": 163160,
+      "name": "Tell You Somethin'",
+      "url": "https://open.spotify.com/track/48C0ivZhtG5kLMVAgkQKja"
     },
     {
       "added_at": "2025-01-22 17:00:14",

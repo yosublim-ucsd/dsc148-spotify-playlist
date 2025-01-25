@@ -1,13 +1,37 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180517,
+  "num_followers": 180527,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4GOrwAAAACcF5Aump40uEIxoNpYJVch",
+  "snapshot_id": "Z5QyPQAAAACLV2j4zOI/3okDThqR9SJJ",
   "tracks": [
+    {
+      "added_at": "2025-01-25 00:37:17",
+      "album": {
+        "name": "Neighbor Like Me (From \"Your Friendly Neighborhood Spider-Man\")",
+        "url": "https://open.spotify.com/album/30qd0n4PQMAReSBvrFMlRh"
+      },
+      "artists": [
+        {
+          "name": "The Math Club",
+          "url": "https://open.spotify.com/artist/2jv20xXmSWuTkPi3h0EelN"
+        },
+        {
+          "name": "Relaye",
+          "url": "https://open.spotify.com/artist/66tdy2Pn0JQDzaJFp74vya"
+        },
+        {
+          "name": "Melo Makes Music",
+          "url": "https://open.spotify.com/artist/6TiF1mKEGg9XB7i78VdYIS"
+        }
+      ],
+      "duration_ms": 214136,
+      "name": "Neighbor Like Me - From \"Your Friendly Neighborhood Spider-Man\"",
+      "url": "https://open.spotify.com/track/2wogAW9Yxufq70Gsa4WxN7"
+    },
     {
       "added_at": "2025-01-10 21:18:39",
       "album": {

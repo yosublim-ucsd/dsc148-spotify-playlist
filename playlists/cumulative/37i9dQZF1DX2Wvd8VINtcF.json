@@ -5387,7 +5387,7 @@
         },
         {
           "name": "North West",
-          "url": "https://open.spotify.com/artist/0FA269a5zotCJp9gK55Hcs"
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
         }
       ],
       "date_added": "2025-01-23",
@@ -21616,6 +21616,24 @@
       "duration_ms": 233898,
       "name": "Parachute (feat. Rachel Chinouriri)",
       "url": "https://open.spotify.com/track/0BlxpYD81CZucSEvCS11Ed"
+    },
+    {
+      "album": {
+        "name": "Paraply",
+        "url": "https://open.spotify.com/album/3pRz34qaaewLHolbPYT0FM"
+      },
+      "artists": [
+        {
+          "name": "Faaka",
+          "url": "https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115555,
+      "name": "Paraply",
+      "url": "https://open.spotify.com/track/3jAnOgVvU8qZk6F0W8J6il"
     },
     {
       "album": {

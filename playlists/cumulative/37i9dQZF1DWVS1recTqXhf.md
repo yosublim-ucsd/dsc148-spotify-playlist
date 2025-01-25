@@ -4,7 +4,7 @@
 
 > Guided meditations for a variety of needs.
 
-133 songs - 16 hr 8 min
+135 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Fear](https://open.spotify.com/track/305MoTuHU2wrKAZJce5Z9A) | [Deepak Chopra](https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6), [Adam Plack](https://open.spotify.com/artist/1QrGNjCiImbhaDJBmNt8n9) | [Soul of Healing Affirmations](https://open.spotify.com/album/4tNyKoCRMx8zhHOpkDh4TJ) | 1:57 | 2024-04-11 |  |
 | [Fear](https://open.spotify.com/track/3z3MwJyOz8gfYJP3juPie1) | [Deepak Chopra](https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6), [Adam Plack](https://open.spotify.com/artist/1QrGNjCiImbhaDJBmNt8n9) | [Soul of Healing Affirmations](https://open.spotify.com/album/2z4A7jYYtKSk1Dceafkip3) | 1:57 | 2023-08-22 | 2024-04-19 |
 | [Gratitude \(with Guided Meditation\)](https://open.spotify.com/track/1WhSiIdd2NR3RvWnO3mggO) | [Dreemy](https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum) | [Gratitude](https://open.spotify.com/album/5ScFsECiROA6op1LT2lYkD) | 4:14 | 2023-08-22 |  |
+| [Gratitude Meditation](https://open.spotify.com/track/1B2BEQ5MBUmTnloR5HhC77) | [The Guided Meditation Gurus](https://open.spotify.com/artist/0iXhnZJOVEgRuSBIzawn87) | [Gratitude Meditation](https://open.spotify.com/album/55rugSQQmqZ2W6INromCi7) | 7:58 | 2025-01-24 |  |
 | [Grounded \- Guided Meditation](https://open.spotify.com/track/7J6goi1udgaBa1nVAoeCoH) | [Eva Duarte](https://open.spotify.com/artist/0xnpKQPZgNhUM4l1UoRGZg) | [Grounded \- Guided Meditation](https://open.spotify.com/album/3ghWlIj8OyoYPVj7af8KNc) | 6:04 | 2023-08-22 |  |
 | [Guardian Angel](https://open.spotify.com/track/6dNNGJPjsgCAq6BaqlstGC) | [Manifesting for Change](https://open.spotify.com/artist/5PKoUXsVdla0JvF8uSBiYf), [LunaLight](https://open.spotify.com/artist/6FusMx9tVAbqvvSGXjOlnc) | [Abundance Affirmations](https://open.spotify.com/album/2yTAhUNxn22BUqnj2axSNn) | 4:15 | 2024-08-20 |  |
 | [Guided Meditation \(Full Body Decompression\)](https://open.spotify.com/track/5L3GvmG24jIZQh20jAGA37) | [Balanced Mindful Meditations](https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT) | [Mindful Guided Meditations](https://open.spotify.com/album/6jrClL3voPwohzal6Ah83f) | 10:30 | 2023-08-22 | 2023-12-14 |
@@ -66,6 +67,7 @@
 | [Guided Meditation for Higher Perspective](https://open.spotify.com/track/5v9E2NneragkpYB8Eaz8YO) | [Rising Higher Meditation](https://open.spotify.com/artist/5dYqiLBRNpmLk5oj8af9Uj), [Jess Shepherd](https://open.spotify.com/artist/0tb8jNmVT0pAeMX72rbK0q) | [Guided Meditation for Higher Perspective](https://open.spotify.com/album/1XHXCzIiccRMVPZTV9jZHl) | 10:45 | 2023-08-22 |  |
 | [Guided Meditation for Inner Peace 10 Minutes](https://open.spotify.com/track/5hKrFINdCcuyBTVNpIBWIK) | [Kelly Howell](https://open.spotify.com/artist/4KYmHtXXlx6QOA4h38Mqjp), [Brain Sync](https://open.spotify.com/artist/4CKIFWDUkBQIdqRzGHQP7e) | [Inner Peace Guided Meditations to Relieve Anxiety](https://open.spotify.com/album/4yo55VmZJ1gOBXDidsQEtE) | 10:00 | 2024-02-20 |  |
 | [Guided Meditation For Overthinking](https://open.spotify.com/track/6lMLQPi23nO33cZu2aHPq5) | [Sound FX Mix](https://open.spotify.com/artist/1f8s4TzwBABjfj1CYEzSYv) | [Pure Meditation And Miracle Tones](https://open.spotify.com/album/6pEt4hBvf0HAcNwfHfQBGK) | 7:50 | 2024-05-08 |  |
+| [Guided Meditation For Postive Energy \- 5 Minute Meditation \- Guided Meditation For Positive Energy & Anxiety](https://open.spotify.com/track/3j1hq7Jz3IqSI3MHVNPipm) | [Guided Meditation](https://open.spotify.com/artist/5lWKhMEB1HAYGo8i3AndCm), [Guided Meditations](https://open.spotify.com/artist/5AGIWpp3DbeJlgUy8Y67ZM), [Meditation Guided](https://open.spotify.com/artist/6dnW5kfYaNv9lSzCHJhXsv) | [Guided Meditation For Postive Energy \(5 Minute Meditation \- Guided Meditation For Positive Energy & Anxiety\)](https://open.spotify.com/album/3wkDpAbkDCECZkStM0rZsN) | 4:41 | 2025-01-24 |  |
 | [Guided Meditation for Seeing Your True Beauty](https://open.spotify.com/track/7Aj1EaeD8HxgUvQJS447Qc) | [Dr\. Ramdesh](https://open.spotify.com/artist/7ju4fPXUwjpcaV8aocO8R4) | [The Body Temple: Guided Meditations for Radical Self\-Love](https://open.spotify.com/album/7ARDRa6PsUQ2TCL6i5GZyk) | 5:29 | 2024-02-20 |  |
 | [Guided Meditation for Self\-Acceptance](https://open.spotify.com/track/3h6hjtCiZsHSqcmMKxVlOB) | [Dr\. Ramdesh](https://open.spotify.com/artist/7ju4fPXUwjpcaV8aocO8R4) | [The Body Temple: Guided Meditations for Radical Self\-Love](https://open.spotify.com/album/7ARDRa6PsUQ2TCL6i5GZyk) | 6:30 | 2024-02-20 |  |
 | [Guided Meditation for Sleep](https://open.spotify.com/track/2ff6Ft4EUPp7xeU2hVpHwa) | [Dr\. Ramdesh](https://open.spotify.com/artist/7ju4fPXUwjpcaV8aocO8R4) | [Relaxation Meditations: Guided Meditations for Transformation](https://open.spotify.com/album/55kJtnMk7LvCQVVpwYgneb) | 6:06 | 2023-08-22 |  |

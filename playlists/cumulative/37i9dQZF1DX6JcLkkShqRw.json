@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Flow sudamericano con Renzo ED & elaggume.",
+  "description": "Flow sudamericano con FEMI.",
   "name": "Flow al Sur",
   "tracks": [
     {
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 109644,
       "name": "2.0",
       "url": "https://open.spotify.com/track/7J1kvuFjpyuI6yFRYkkXLD"
@@ -580,6 +580,24 @@
       "duration_ms": 165214,
       "name": "22",
       "url": "https://open.spotify.com/track/15j9Oz1EILhR0LWwERTZ05"
+    },
+    {
+      "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/6UwxAA4ZiNTqaFgCv3O3Qj"
+      },
+      "artists": [
+        {
+          "name": "Falke 912",
+          "url": "https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182644,
+      "name": "23",
+      "url": "https://open.spotify.com/track/3r0VDcZI7et70kB81XObeq"
     },
     {
       "album": {
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 144000,
       "name": "Apenas pueda",
       "url": "https://open.spotify.com/track/7hFsWXXOOnOEVFn2zyPKVL"
@@ -11674,7 +11692,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 185526,
       "name": "Fino Siempre Brego",
       "url": "https://open.spotify.com/track/6VphjEZkYMKVqskBXSX8JJ"
@@ -13050,6 +13068,28 @@
       "duration_ms": 148621,
       "name": "GTA",
       "url": "https://open.spotify.com/track/3sPTwhv0Pqrzmq6kvRIaQY"
+    },
+    {
+      "album": {
+        "name": "GUAPA",
+        "url": "https://open.spotify.com/album/1jrkp733vjLW6058T7MznO"
+      },
+      "artists": [
+        {
+          "name": "Franux BB",
+          "url": "https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144516,
+      "name": "GUAPA",
+      "url": "https://open.spotify.com/track/0zEiaWjsQKWUCZ6QuG4yh8"
     },
     {
       "album": {
@@ -25802,6 +25842,24 @@
       "duration_ms": 130000,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/5GKu2JIXRNfUuttBCW8XLB"
+    },
+    {
+      "album": {
+        "name": "PURA POSE",
+        "url": "https://open.spotify.com/album/1fp5hN3kcj5N8gipxuCTX3"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186721,
+      "name": "PURA POSE",
+      "url": "https://open.spotify.com/track/2nxNiskZJuU0lka2ZVzizM"
     },
     {
       "album": {

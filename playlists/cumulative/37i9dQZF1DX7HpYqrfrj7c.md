@@ -4,13 +4,14 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-81 songs - 4 hr 9 min
+82 songs - 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999 \- Instrumental](https://open.spotify.com/track/0ebcW3QhEaMXocUXXUvEux) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1999 / Like They Used To Say \(Remixes\)](https://open.spotify.com/album/2byo9R6o9jefFbDe5AUUYf) | 4:16 | 2024-06-24 |  |
 | [Aiiiight](https://open.spotify.com/track/2Kkl0EsJVwofWofMJMYmlO) | [Kuartz](https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc) | [Shurikens](https://open.spotify.com/album/4aQbHdptXmNmMQEH0e2aAm) | 2:29 | 2024-06-24 |  |
 | [All Gravy](https://open.spotify.com/track/3WhcV5uXlgRDcloiQYBO6t) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [All Gravy](https://open.spotify.com/album/0ePasntyblT6jkgAz8HcAP) | 2:28 | 2024-06-24 |  |
+| [Alley Cats](https://open.spotify.com/track/1IZ9MPYWU7MhZvo6NOq79Q) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Straight From the Source](https://open.spotify.com/album/2XkAsmlShB6JNy7JmdXMHI) | 3:22 | 2025-01-24 |  |
 | [apple pie](https://open.spotify.com/track/6ixY2C5G5IqVRyiUi3XYeU) | [wildflower waltz](https://open.spotify.com/artist/54CWGdM9oJ2D0vH1MNxZMp) | [apple pie](https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO) | 1:16 | 2024-06-24 |  |
 | [Aspas](https://open.spotify.com/track/5b2isDzu4jC6Yk1EJxcRGm) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Aspas](https://open.spotify.com/album/1co5kKp9zITSEMIr4sdYHC) | 1:32 | 2024-11-13 |  |
 | [At the Launch Site](https://open.spotify.com/track/6uxeFOE6q3HyU6cXP04Zht) | [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Dope On Plastic 3](https://open.spotify.com/album/3GPCHpKBqHQk2a0UcfpLjV) | 2:50 | 2024-06-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2032939,
+  "num_followers": 2032956,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "AAA52td5xhXbueC61eiECZ8I1pkXrB3K",
+  "snapshot_id": "AAA53vfRcQ3NMRfzbnby8YTiifhqKcuP",
   "tracks": [
     {
       "added_at": "2024-01-29 22:53:51",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/3PeeEUukuSrEBUkpsr0dSk"
     },
     {
+      "added_at": "2025-01-24 20:20:46",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/2wX9o4FhBhhRPXkLE1MvLe"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 165125,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/764CYWJzIeuBGGDaeu7b2n"
+    },
+    {
       "added_at": "2024-02-15 17:51:03",
       "album": {
         "name": "Just A Mirage",
@@ -1247,6 +1263,22 @@
       "duration_ms": 216000,
       "name": "Escape",
       "url": "https://open.spotify.com/track/6lp7U6mqjhThZXFtOMfARt"
+    },
+    {
+      "added_at": "2025-01-24 20:21:17",
+      "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3lt8HF91bthKnbiGO1uN83"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "duration_ms": 170339,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2eYQw2SkWD4tw4U5TUMnOI"
     },
     {
       "added_at": "2024-01-29 22:53:51",

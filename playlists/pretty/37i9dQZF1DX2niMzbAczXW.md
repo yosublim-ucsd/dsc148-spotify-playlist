@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain](/playlists/plain/37i9dQZF1DX2niMzbAczXW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2niMzbAczXW)
 
-### [COWBOY BEBOP \-カウボーイビバップ\-](https://open.spotify.com/playlist/37i9dQZF1DX2niMzbAczXW)
+### [COWBOY BEBOP](https://open.spotify.com/playlist/37i9dQZF1DX2niMzbAczXW)
 
-> Enjoy the world of “COWBOY BEBOP”! アニメ「カウボーイビバップ」の世界を1つのプレイリストで！©SUNRISE
+> Enjoy the world of “COWBOY BEBOP” ©SUNRISE
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,397 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,460 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2niMzbAczXW.md) - [plain]
 | 49 | [POWER OF KUNG FOOD REMIX](https://open.spotify.com/track/0I2QhrEOuRqVvWiWuNnRoB) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック2　NO DISC](https://open.spotify.com/album/5PGg8xI7LYFEW9hBHK3DCe) | 5:27 |
 | 50 | [Black Coffee](https://open.spotify.com/track/7pbn3bcFnvojMOSvFgzYuD) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」Vitaminless](https://open.spotify.com/album/3xc0ZAAaQT1peXizHAM1wm) | 3:14 |
 
-Snapshot ID: `ZIxWCwAAAACNtPNjAKN3QSsqqfWNDegW`
+Snapshot ID: `Z5PCrQAAAAB7R/dd2pWykTx5xNVxaD45`

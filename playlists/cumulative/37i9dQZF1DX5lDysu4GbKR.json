@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "High (Acoustic)",
+        "url": "https://open.spotify.com/album/3KH3NMGd1bUD1aKWAEQxeL"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153066,
+      "name": "High - Acoustic",
+      "url": "https://open.spotify.com/track/4UeocJu8WARqFFkuLEdvXa"
+    },
+    {
+      "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/3jRhDfVPGPSw7A8jODjbLB"
       },

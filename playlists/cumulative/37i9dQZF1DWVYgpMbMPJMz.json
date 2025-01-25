@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  Jesus Culture",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover:  UPPERROOM",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -3143,6 +3143,32 @@
     },
     {
       "album": {
+        "name": "Dream (Live)",
+        "url": "https://open.spotify.com/album/0FV8Zn9lpGqumPzh1ycO4q"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Joel Figueroa",
+          "url": "https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581280,
+      "name": "Dream - Live",
+      "url": "https://open.spotify.com/track/2aY1HUnXPir4OESAaw2Pae"
+    },
+    {
+      "album": {
         "name": "Cover The Earth: Live In New York (Deluxe)",
         "url": "https://open.spotify.com/album/2ODgj7jaZbBWcskolm7iCK"
       },
@@ -3172,7 +3198,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 305772,
       "name": "Dry Ground",
       "url": "https://open.spotify.com/track/2rN3VHilUMtGh7CVmCVUqs"
@@ -3304,6 +3330,28 @@
       "duration_ms": 305466,
       "name": "Even At My Worst (You Love Me) (feat. Vanessa Marquez)",
       "url": "https://open.spotify.com/track/6YLeYYpBzcWBbqPwHqItkg"
+    },
+    {
+      "album": {
+        "name": "Even If Extended Version",
+        "url": "https://open.spotify.com/album/6jyiAFxEifoKfwjBmcjVFU"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567100,
+      "name": "Even If Extended Version",
+      "url": "https://open.spotify.com/track/54Jo9jId9m4vcLhdW988ob"
     },
     {
       "album": {
@@ -3884,7 +3932,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 220588,
       "name": "Freedom In This House",
       "url": "https://open.spotify.com/track/2BV5pEtMBcXOO3aYWsa7Cw"
@@ -7611,6 +7659,28 @@
     },
     {
       "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/3vKDlqU7IuyygXEkjVNr5H"
+      },
+      "artists": [
+        {
+          "name": "Church of the City",
+          "url": "https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/1Wf0YF113imMsqukiKcZHe"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "Lamb of God",
+      "url": "https://open.spotify.com/track/4LUfvqGq8SmleIdtwigCJE"
+    },
+    {
+      "album": {
         "name": "Lamb of God (Live)",
         "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
       },
@@ -8835,6 +8905,24 @@
     },
     {
       "album": {
+        "name": "Worship Jesus (Vol. 2 / Live)",
+        "url": "https://open.spotify.com/album/7v36jwiQC4FMjHLnq2ZQdn"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366429,
+      "name": "My Life Is Proof - Live",
+      "url": "https://open.spotify.com/track/07Vx1j68TVTsxs0P0s3brN"
+    },
+    {
+      "album": {
         "name": "My Reward (Live)",
         "url": "https://open.spotify.com/album/6eNbXPWZRkMCoGP1NYci3H"
       },
@@ -8850,7 +8938,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 269057,
       "name": "My Reward - Live",
       "url": "https://open.spotify.com/track/0tIPhh7banUZMcLSCfuIsu"
@@ -9006,7 +9094,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 396420,
       "name": "Never Gets Old (Live)",
       "url": "https://open.spotify.com/track/1faLw5C5ige09ObTw1368f"
@@ -9994,7 +10082,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 271145,
       "name": "Our God Will Go Before Us - Live",
       "url": "https://open.spotify.com/track/5bDsETW4IEzLsfBcMus0Ez"
@@ -10416,7 +10504,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 321859,
       "name": "Praise Is The Breakthrough",
       "url": "https://open.spotify.com/track/6XtE7xTr9ME1EMw5aqcPzu"
@@ -12797,6 +12885,28 @@
     },
     {
       "album": {
+        "name": "The King Is Coming (Live)",
+        "url": "https://open.spotify.com/album/56MsqgmCerGPZtCnfDE5LH"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Tyler Roberts",
+          "url": "https://open.spotify.com/artist/68Sjp48hN3vviXfeLkb16p"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390657,
+      "name": "The King Is Coming (Live)",
+      "url": "https://open.spotify.com/track/7IBZQi2dtpNJJcj2HjUdWg"
+    },
+    {
+      "album": {
         "name": "The King Of Glory (Live)",
         "url": "https://open.spotify.com/album/4s0z9J01qrZHOYwEoBHMH3"
       },
@@ -14164,6 +14274,28 @@
       "duration_ms": 400897,
       "name": "Victory Of Jesus - Live",
       "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
+    },
+    {
+      "album": {
+        "name": "Chapel Sessions (Vol. 2)",
+        "url": "https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286156,
+      "name": "Victory On The Way",
+      "url": "https://open.spotify.com/track/2IrVVbJFfWhnkKuaC99HvT"
     },
     {
       "album": {

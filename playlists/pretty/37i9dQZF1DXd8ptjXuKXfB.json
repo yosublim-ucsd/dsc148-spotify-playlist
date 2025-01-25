@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 25735,
+  "num_followers": 25746,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -27,7 +27,7 @@
     {
       "added_at": "2025-01-20 11:47:45",
       "album": {
-        "name": "Orgonabokor",
+        "name": "Orgonabokor (Part 1)",
         "url": "https://open.spotify.com/album/19gTH12mvxBSHgiSjOfdpq"
       },
       "artists": [
@@ -75,7 +75,7 @@
     {
       "added_at": "2025-01-20 11:47:45",
       "album": {
-        "name": "Orgonabokor",
+        "name": "Orgonabokor (Part 1)",
         "url": "https://open.spotify.com/album/19gTH12mvxBSHgiSjOfdpq"
       },
       "artists": [
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2025-01-20 11:47:45",
       "album": {
+        "name": "Frida Kahlo",
+        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        },
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 163107,
+      "name": "Frida Kahlo",
+      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
+    },
+    {
+      "added_at": "2025-01-20 11:47:45",
+      "album": {
         "name": "Cig\u00e1ny-\u00fcgy",
         "url": "https://open.spotify.com/album/4wsF3ZBcwC74KWDMiWFjui"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 219310,
       "name": "Cig\u00e1ny-\u00fcgy",
       "url": "https://open.spotify.com/track/4fzbwV7qglR3mPit64hXse"
-    },
-    {
-      "added_at": "2025-01-20 11:47:45",
-      "album": {
-        "name": "Frida Kahlo",
-        "url": "https://open.spotify.com/album/5HMnxIdbBRvoTW5PvNbBoo"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        },
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 163107,
-      "name": "Frida Kahlo",
-      "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
     }
   ],
   "unique_name": "Most Men\u0151",

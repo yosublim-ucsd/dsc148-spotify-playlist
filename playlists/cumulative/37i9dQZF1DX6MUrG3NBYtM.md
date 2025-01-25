@@ -2,7 +2,7 @@
 
 ### [Indie XL](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> Indie & Alternative op zijn best\. Cover: The Vices
+> De beste Indie & Alternative\. Cover: The Vices
 
 136 songs - 8 hr 7 min
 

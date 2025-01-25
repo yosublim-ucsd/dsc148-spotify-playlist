@@ -1,12 +1,12 @@
 {
   "description": "Tulum szn",
-  "num_followers": 349614,
+  "num_followers": 350277,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LKAgAAAAAiZD45HvYhaL5k0IWNrj3j",
+  "snapshot_id": "Z5NesgAAAABqt5ekXs+XasxFm7od1pi/",
   "tracks": [
     {
       "added_at": "2025-01-23 23:00:18",
@@ -343,6 +343,22 @@
       "duration_ms": 205282,
       "name": "The Only One (feat. SA\u00cdGO)",
       "url": "https://open.spotify.com/track/4mCr3lxi33KfNkGsdcX8lM"
+    },
+    {
+      "added_at": "2025-01-24 09:34:42",
+      "album": {
+        "name": "The Driving Towards The Sunset Tapes",
+        "url": "https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 239859,
+      "name": "volar",
+      "url": "https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b"
     },
     {
       "added_at": "2025-01-23 23:00:18",

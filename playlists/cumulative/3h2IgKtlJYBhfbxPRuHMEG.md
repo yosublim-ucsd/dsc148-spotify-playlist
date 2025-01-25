@@ -4,7 +4,7 @@
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-157 songs - 8 hr 52 min
+158 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alive \- Kumarion Remix](https://open.spotify.com/track/59KZgvG9AGQfsjxeIERwZm) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Alive \(Remixes\)](https://open.spotify.com/album/4Di7x7FhQepa3DNVdjRIMe) | 4:09 | 2023-12-01 |  |
 | [Alive \- One True God Remix](https://open.spotify.com/track/72B9xPjLnAYyigLEgy1Z2E) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Alive \(One True God Remix\)](https://open.spotify.com/album/572eGkvBysIHmsXZFNQst0) | 3:27 | 2023-12-01 |  |
 | [All Night](https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [All Night](https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p) | 3:28 | 2023-12-22 | 2024-11-09 |
+| [All Too Late](https://open.spotify.com/track/4m1KSPhZ74hYFDd6pq5Cz6) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Rhode](https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi) | [All Too Late](https://open.spotify.com/album/7uz6W3xnVGod7qtJHbAePW) | 3:36 | 2025-01-24 |  |
 | [Anyway](https://open.spotify.com/track/0PhsygvObAaqJ62sP3nmdD) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [Who Is HEYZ](https://open.spotify.com/album/2FmH2zuGYNbcof8068MQo1) | 2:41 | 2023-12-01 |  |
 | [Aura](https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Aura](https://open.spotify.com/album/44eYFSuXEyETT7OHV0dCZg) | 3:47 | 2023-12-01 |  |
 | [Aurora](https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [ÆON:TWO](https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w) | 3:18 | 2023-12-01 |  |

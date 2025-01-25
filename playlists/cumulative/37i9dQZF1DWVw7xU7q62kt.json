@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 289960,
       "name": "DARKER THAN DISCO",
       "url": "https://open.spotify.com/track/1rYX45ZNl3PKxHedn4PaTR"
@@ -2983,6 +2983,46 @@
     },
     {
       "album": {
+        "name": "I'm here.",
+        "url": "https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        },
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157508,
+      "name": "I'm here.",
+      "url": "https://open.spotify.com/track/1xC2XNZCIlmfuCDTF9b2bu"
+    },
+    {
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/2S8dRCPQLDWoRyfslTLivw"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256911,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t"
+    },
+    {
+      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6ow7Sf2iH1b8Q50hjBfSVo"
       },
@@ -3286,7 +3326,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 158117,
       "name": "Je Pense A Toi",
       "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
@@ -3736,7 +3776,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 139697,
       "name": "Les cigales",
       "url": "https://open.spotify.com/track/6Zof5IP3yS2ihhI6sG3t9e"
@@ -3754,7 +3794,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 188999,
       "name": "Letting Go of Forever",
       "url": "https://open.spotify.com/track/79w55ScCjW71NKRgfHozmG"
@@ -4350,7 +4390,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 244048,
       "name": "Montrose Forest featuring Nicholas Payton",
       "url": "https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN"
@@ -4837,6 +4877,28 @@
     },
     {
       "album": {
+        "name": "nyc in 1940",
+        "url": "https://open.spotify.com/album/6TM8VNhv0P9CfSf2CdNkQO"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        },
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156611,
+      "name": "nyc in 1940",
+      "url": "https://open.spotify.com/track/6loDuwmsq6fazVxqqRhmcp"
+    },
+    {
+      "album": {
         "name": "Ocean Ride",
         "url": "https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq"
       },
@@ -5311,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120508,
+      "name": "Pollen",
+      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
+    },
+    {
+      "album": {
         "name": "Poolday",
         "url": "https://open.spotify.com/album/0CWEHEdbxMu2w92XiE93xq"
       },
@@ -5540,7 +5620,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 147692,
       "name": "RIDGEWALK",
       "url": "https://open.spotify.com/track/5ZUoIhG0oxDT50Hb6xmYd3"
@@ -5606,7 +5686,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 154840,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/61vVI6qo8zhw2OWM96ReDd"
@@ -6727,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Talk to me.",
+        "url": "https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103333,
+      "name": "Talk to me.",
+      "url": "https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9"
+    },
+    {
+      "album": {
         "name": "On s'amuse",
         "url": "https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE"
       },
@@ -6878,7 +6976,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 139451,
       "name": "The Banquet",
       "url": "https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO"
@@ -7466,6 +7564,24 @@
       "duration_ms": 134830,
       "name": "Vibra",
       "url": "https://open.spotify.com/track/7n2sf4iKVww9HOEc7UJjCQ"
+    },
+    {
+      "album": {
+        "name": "Villa Palmera",
+        "url": "https://open.spotify.com/album/5V4obvLyYdjls5uiBenn0o"
+      },
+      "artists": [
+        {
+          "name": "Juando",
+          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235932,
+      "name": "Villa Palmera",
+      "url": "https://open.spotify.com/track/2efRw4Puze8guf4W68QM7x"
     },
     {
       "album": {

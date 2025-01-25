@@ -1,12 +1,12 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Alien Weaponry.",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Employed to Serve.",
   "num_followers": 8827,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAANQMS9R6ZsySJwz9B4zzbqUkzDilTE",
+  "snapshot_id": "AAANR4Pt2MWzBLFjEmTkRVYM95q+XV3C",
   "tracks": [
     {
       "added_at": "2025-01-03 20:24:41",
@@ -5187,6 +5187,110 @@
       "duration_ms": 225252,
       "name": "Mau Moko",
       "url": "https://open.spotify.com/track/7GEGSpjoraxIjBixahlNGq"
+    },
+    {
+      "added_at": "2025-01-24 20:04:56",
+      "album": {
+        "name": "Blood's on fire",
+        "url": "https://open.spotify.com/album/1pufe0kyP5ZHGywP6UtSoj"
+      },
+      "artists": [
+        {
+          "name": "VOWWS",
+          "url": "https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb"
+        }
+      ],
+      "duration_ms": 181546,
+      "name": "Blood's on fire",
+      "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
+    },
+    {
+      "added_at": "2025-01-24 20:05:08",
+      "album": {
+        "name": "No Witness",
+        "url": "https://open.spotify.com/album/3ChKHOfCzTSiZaUwtT9qPU"
+      },
+      "artists": [
+        {
+          "name": "Traitors",
+          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "No Witness",
+      "url": "https://open.spotify.com/track/62W3J2xwtIVn5Zo6qKqKOC"
+    },
+    {
+      "added_at": "2025-01-24 20:05:19",
+      "album": {
+        "name": "Elevator Operator",
+        "url": "https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 189103,
+      "name": "Elevator Operator",
+      "url": "https://open.spotify.com/track/2Ulw4Lgy6ejrSjCj1hB2RF"
+    },
+    {
+      "added_at": "2025-01-24 20:05:30",
+      "album": {
+        "name": "Atonement (feat. Will Ramos)",
+        "url": "https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        },
+        {
+          "name": "Will Ramos",
+          "url": "https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa"
+        }
+      ],
+      "duration_ms": 232254,
+      "name": "Atonement (feat. Will Ramos)",
+      "url": "https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF"
+    },
+    {
+      "added_at": "2025-01-24 20:05:54",
+      "album": {
+        "name": "Return To One",
+        "url": "https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        },
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 215759,
+      "name": "Return To One",
+      "url": "https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf"
+    },
+    {
+      "added_at": "2025-01-24 20:06:04",
+      "album": {
+        "name": "To Live Deliciously",
+        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 332226,
+      "name": "To Live Deliciously",
+      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
     }
   ],
   "unique_name": "Best New Songs Right Now",

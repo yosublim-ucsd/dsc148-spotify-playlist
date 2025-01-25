@@ -14970,6 +14970,28 @@
     {
       "album": {
         "name": "Midnight Hours",
+        "url": "https://open.spotify.com/album/3wCgSJveo1Scs1QAqiiDrI"
+      },
+      "artists": [
+        {
+          "name": "J1rock",
+          "url": "https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74"
+        },
+        {
+          "name": "WillHalo",
+          "url": "https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120012,
+      "name": "Midnight Hours",
+      "url": "https://open.spotify.com/track/63WhMnznaaxJ0HS5pyji37"
+    },
+    {
+      "album": {
+        "name": "Midnight Hours",
         "url": "https://open.spotify.com/album/2qvGeXt9okSWD7C36sIkYe"
       },
       "artists": [
@@ -14984,7 +15006,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 120012,
       "name": "Midnight Hours",
       "url": "https://open.spotify.com/track/6DJkF1IGxkWEOn8eYOtDLL"
@@ -16034,7 +16056,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 207346,
       "name": "My Way",
       "url": "https://open.spotify.com/track/73c4ytvb0MnzvQp5WEBjYj"

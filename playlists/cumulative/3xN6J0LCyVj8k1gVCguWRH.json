@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "'bout time",
+        "url": "https://open.spotify.com/album/2GBFfrc1DA0gwL0hSIQ4BP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "'bout time",
+      "url": "https://open.spotify.com/track/0HzPHOXGLBp10XbIZMwBQs"
+    },
+    {
+      "album": {
         "name": "Letters From A Lover",
         "url": "https://open.spotify.com/album/1cAyEeTe31xxXRWUGMFsll"
       },
@@ -11900,7 +11918,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 233020,
       "name": "Can't stop thinking",
       "url": "https://open.spotify.com/track/7tsBlxI6OYbplEeCHxQjXo"
@@ -19876,7 +19894,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 204982,
       "name": "Done Believing",
       "url": "https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN"
@@ -19916,6 +19934,24 @@
       "duration_ms": 320266,
       "name": "Doo Wop (That Thing)",
       "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2bdyJLDYU8hmfKMoEDcAfX"
+      },
+      "artists": [
+        {
+          "name": "Funsho",
+          "url": "https://open.spotify.com/artist/2zTkayBLSvHJO4h1lVxsaY"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/3Gx5BKn3cj2flQDtIQWmxr"
     },
     {
       "album": {
@@ -20640,6 +20676,24 @@
       "duration_ms": 156375,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/6ra4QCibGRwecj33rpqTIo"
+    },
+    {
+      "album": {
+        "name": "Drowning 4 U",
+        "url": "https://open.spotify.com/album/6wbc4Iulz1PFS9ZXFlqKo9"
+      },
+      "artists": [
+        {
+          "name": "Chris Jobe",
+          "url": "https://open.spotify.com/artist/747NFKmOFoZwmq4yc6gCmT"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194795,
+      "name": "Drowning 4 U",
+      "url": "https://open.spotify.com/track/6DPNnXOlCnibxalmkEve0O"
     },
     {
       "album": {
@@ -35966,7 +36020,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 188703,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/3hKf9mt7s02Jqv582zOi6B"
@@ -55862,7 +55916,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-25",
       "duration_ms": 181875,
       "name": "Peace Train",
       "url": "https://open.spotify.com/track/6tz5J5JoQjdR79Yl8MM1k5"
@@ -74032,6 +74086,24 @@
       "duration_ms": 107112,
       "name": "Throw Some Rope For Me",
       "url": "https://open.spotify.com/track/2B0oZFMH1QaQsHzq2xGPM5"
+    },
+    {
+      "album": {
+        "name": "Faraway Nearby (Extended Version)",
+        "url": "https://open.spotify.com/album/3Eg2cykX7WRdsCkkZ3VEVT"
+      },
+      "artists": [
+        {
+          "name": "Julia Logan",
+          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249933,
+      "name": "Thrown Down",
+      "url": "https://open.spotify.com/track/4Jg2XNf1oHeVsGPXaIFYGC"
     },
     {
       "album": {

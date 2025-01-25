@@ -1,12 +1,12 @@
 {
   "description": "This is The Police. The essential tracks, all in one playlist.",
-  "num_followers": 346288,
+  "num_followers": 346349,
   "original_name": "This Is The Police",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5A1AAAAAAD7ppmsRJzNrBbXcW1IvshS",
+  "snapshot_id": "Z5GGgAAAAABO6IEvt5GNltiRmGL6uOs0",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 178760,
-      "name": "Can't Stand Losing You",
-      "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
+      "duration_ms": 289586,
+      "name": "So Lonely",
+      "url": "https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 289586,
-      "name": "So Lonely",
-      "url": "https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX"
+      "duration_ms": 178760,
+      "name": "Can't Stand Losing You",
+      "url": "https://open.spotify.com/track/6DjKJgwe9c90Bd2iya0fre"
     },
     {
       "added_at": null,
