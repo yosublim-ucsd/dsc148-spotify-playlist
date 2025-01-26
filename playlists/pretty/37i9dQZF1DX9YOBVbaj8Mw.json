@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14847,
+  "num_followers": 14851,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Music We Like To Dance To",
+        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Chy\u0142a Quintet",
+          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
+        }
+      ],
+      "duration_ms": 458733,
+      "name": "Thousand Yard Stare",
+      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Horntet",
         "url": "https://open.spotify.com/album/0i4KNRV2Uu7wn8UH8UeYLN"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 563000,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/2ZFOwLuqCZmzC2khHhRQc3"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Music We Like To Dance To",
-        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Chy\u0142a Quintet",
-          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
-        }
-      ],
-      "duration_ms": 458733,
-      "name": "Thousand Yard Stare",
-      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
     },
     {
       "added_at": "2024-03-25 08:52:09",

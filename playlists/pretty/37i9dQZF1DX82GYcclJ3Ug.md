@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Lord Huron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,150,037 likes - 125 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,150,387 likes - 125 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 26 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 |
 | 27 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 28 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 |
-| 29 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(DELUXE\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
+| 29 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(deluxe\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
 | 30 | [Occasional Stoner](https://open.spotify.com/track/43avjZf2deGDNuYnnSinij) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Occasional Stoner](https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl) | 3:03 |
 | 31 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 |
 | 32 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 |

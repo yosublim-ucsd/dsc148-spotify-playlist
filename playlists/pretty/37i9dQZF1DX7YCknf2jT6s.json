@@ -1,6 +1,6 @@
 {
   "description": "New jazz for open minds. Cover: Jeremy Pelt",
-  "num_followers": 945409,
+  "num_followers": 945567,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
@@ -185,7 +185,15 @@
       "artists": [
         {
           "name": "Enemy",
-          "url": "https://open.spotify.com/artist/6nef6002aZx63N9P9KSmCF"
+          "url": "https://open.spotify.com/artist/6xPrrSxsfFovLWFUFDLGYt"
+        },
+        {
+          "name": "Kit Downes",
+          "url": "https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
         }
       ],
       "duration_ms": 177208,

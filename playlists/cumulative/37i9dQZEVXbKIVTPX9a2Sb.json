@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
+    },
+    {
+      "album": {
         "name": "Slzy Ulic",
         "url": "https://open.spotify.com/album/7knESRIWnGFyNUy6P771T5"
       },
@@ -1683,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Y0L0.5",
+        "url": "https://open.spotify.com/album/53K39bXgLPTo4dDC8E3MVs"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117910,
+      "name": "AQUA",
+      "url": "https://open.spotify.com/track/37B0CIBlKGtGrLp6PwtuL1"
+    },
+    {
+      "album": {
         "name": "Arabica",
         "url": "https://open.spotify.com/album/4w6bxPksLLPcoq9GtJpssS"
       },
@@ -2622,6 +2658,24 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+    },
+    {
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3BntzKsnLf2pc0dsvE3Zav"
     },
     {
       "album": {
@@ -5276,7 +5330,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 212500,
       "name": "By\u0165 Tu Nav\u017edy",
       "url": "https://open.spotify.com/track/0AkyUrjS2IPfecr6M5BdrB"
@@ -8716,7 +8770,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 240000,
       "name": "Domov",
       "url": "https://open.spotify.com/track/5YGUlA6ApoJZwE024IGBrg"
@@ -9588,7 +9642,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 304481,
       "name": "D\u00e1\u017e\u010f",
       "url": "https://open.spotify.com/track/5jV4d5tKtmXnezEFdPsZac"
@@ -12188,6 +12242,28 @@
       "duration_ms": 215400,
       "name": "Gata Only (Mashup)",
       "url": "https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN"
+    },
+    {
+      "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
     },
     {
       "album": {
@@ -15428,7 +15504,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -15950,6 +16026,28 @@
       "duration_ms": 118321,
       "name": "ILOVEIT (feat. SIMILIVINLIFE)",
       "url": "https://open.spotify.com/track/2StUoDVYdeP8oZOBb8qi8n"
+    },
+    {
+      "album": {
+        "name": "Y0L0.5",
+        "url": "https://open.spotify.com/album/53K39bXgLPTo4dDC8E3MVs"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        },
+        {
+          "name": "Loudz1",
+          "url": "https://open.spotify.com/artist/2tYKs5FOsdGeRqjBkIDCiX"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130507,
+      "name": "ILUMINATI",
+      "url": "https://open.spotify.com/track/7wEXQwcaPbhTVOwXxOAz7Y"
     },
     {
       "album": {
@@ -17617,6 +17715,24 @@
     },
     {
       "album": {
+        "name": "Y0L0.5",
+        "url": "https://open.spotify.com/album/53K39bXgLPTo4dDC8E3MVs"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106463,
+      "name": "KATE MOSS",
+      "url": "https://open.spotify.com/track/6L7YBeIaRiLNkoeaCdHXF0"
+    },
+    {
+      "album": {
         "name": "Chlapec z ulice",
         "url": "https://open.spotify.com/album/5bg3kUUTJYDb9EwQ1D2nsu"
       },
@@ -18626,7 +18742,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 211500,
       "name": "Kr\u00e1\u013e Nad R\u00e1nom",
       "url": "https://open.spotify.com/track/030EFrbwkbphp8YbXzI1za"
@@ -20669,6 +20785,24 @@
     },
     {
       "album": {
+        "name": "Lub ma",
+        "url": "https://open.spotify.com/album/3gMtGgL1EQ9AJrTtkTgZGa"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "Lub ma",
+      "url": "https://open.spotify.com/track/74ydUbGeYeAdGsWU3Q241y"
+    },
+    {
+      "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce)",
         "url": "https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6"
       },
@@ -21250,7 +21384,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 188500,
       "name": "Mali",
       "url": "https://open.spotify.com/track/3ehM4O6uytS4oXhcQTXFvL"
@@ -29926,7 +30060,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 188571,
       "name": "P\u00e1tky",
       "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
@@ -34071,6 +34205,24 @@
     },
     {
       "album": {
+        "name": "Sports car",
+        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
+    },
+    {
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -37958,7 +38110,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 205000,
       "name": "Trpezlivos\u0165",
       "url": "https://open.spotify.com/track/6eVMziDD8qgK02DIwK9RAD"
@@ -41839,6 +41991,24 @@
     },
     {
       "album": {
+        "name": "Y0L0.5",
+        "url": "https://open.spotify.com/album/53K39bXgLPTo4dDC8E3MVs"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136556,
+      "name": "YOKO ONO",
+      "url": "https://open.spotify.com/track/21GsqFA8PIr8rF4NaknQDb"
+    },
+    {
+      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -42298,7 +42468,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 162461,
       "name": "Zaslou\u017een\u00fd",
       "url": "https://open.spotify.com/track/7HdlQ15U3u9fLIzH5st0lq"

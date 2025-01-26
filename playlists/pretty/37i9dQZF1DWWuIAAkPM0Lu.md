@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > drømmesamarbejdet: <a href="spotify:artist:5NYUb39ntjgN7cRtN4y25T">Anton Westerlin</a>🔗<a href="spotify:artist:1GKN1Js8fa19K23eIhOMhg">Annika</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,330 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,335 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 15 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 |
 | 16 | [Striptease](https://open.spotify.com/track/5kILHrfMHQ4eFHZqnu4yY3) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:43 |
 | 17 | [Monsters](https://open.spotify.com/track/26A4GEren6THAJz4TaK9gs) | [Carpark North](https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ) | [Monsters](https://open.spotify.com/album/0SVw4cjRyrUfH9n3cKzCXh) | 3:18 |
-| 18 | [Mange Penge \(feat\. Gert K & Blæs Bukki\) \- Ceballos remix](https://open.spotify.com/track/7zKTByB2jC0bMQU0PeH91b) | [Gramsespektrum](https://open.spotify.com/artist/6uRpbmqte9YpJJEnbN1gGG), [Gert K](https://open.spotify.com/artist/5GsKVfCNrHyAHLIbCQEH8g), [Blæs Bukki](https://open.spotify.com/artist/0GHmvjova9khLltj6H9lzw), [Jonas Vestergaard](https://open.spotify.com/artist/7AC5qBLWE84Q4RBkGBzkmp), [Peder](https://open.spotify.com/artist/222TzH91go6DByqjFQCOGl) | [Mange Penge \(Remixes\)](https://open.spotify.com/album/3xgzfimWD7Tte8abcktsry) | 4:09 |
+| 18 | [Mange Penge \(feat\. Gert K & Blæs Bukki\) \- Ceballos remix](https://open.spotify.com/track/7zKTByB2jC0bMQU0PeH91b) | [Gramsespektrum](https://open.spotify.com/artist/6uRpbmqte9YpJJEnbN1gGG), [Gert K](https://open.spotify.com/artist/5GsKVfCNrHyAHLIbCQEH8g), [Blæs Bukki](https://open.spotify.com/artist/0GHmvjova9khLltj6H9lzw) | [Mange Penge \(Remixes\)](https://open.spotify.com/album/3xgzfimWD7Tte8abcktsry) | 4:09 |
 | 19 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 |
 | 20 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 |
 | 21 | [They Turn into Ghosts](https://open.spotify.com/track/78hXC9muYVwK95xFiWcLfw) | [MAGLY](https://open.spotify.com/artist/3bVunlWHUpBqbav70P6Dbu) | [They Turn Into Ghosts](https://open.spotify.com/album/7x64asG9RtbTCO8Pguty4u) | 2:51 |

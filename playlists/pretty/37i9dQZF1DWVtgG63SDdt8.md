@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Forrest Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,381 likes - 99 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,492 likes - 99 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 26 | [Freedom In This House \- Gospel](https://open.spotify.com/track/373Dif4kgUv7Q3ah1pzFvj) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Freedom In This House](https://open.spotify.com/album/0fxt9jTf4AnL6AgS5O4vkl) | 3:51 |
 | 27 | [Victory On The Way](https://open.spotify.com/track/2IrVVbJFfWhnkKuaC99HvT) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2) | 4:46 |
 | 28 | [Dream \- Live](https://open.spotify.com/track/2aY1HUnXPir4OESAaw2Pae) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Dream \(Live\)](https://open.spotify.com/album/0FV8Zn9lpGqumPzh1ycO4q) | 9:41 |
-| 29 | [Lamb of God](https://open.spotify.com/track/4LUfvqGq8SmleIdtwigCJE) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [David Leonard](https://open.spotify.com/artist/1Wf0YF113imMsqukiKcZHe) | [Lamb of God](https://open.spotify.com/album/3vKDlqU7IuyygXEkjVNr5H) | 4:13 |
+| 29 | [Lamb of God](https://open.spotify.com/track/4LUfvqGq8SmleIdtwigCJE) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Lamb of God](https://open.spotify.com/album/3vKDlqU7IuyygXEkjVNr5H) | 4:13 |
 | 30 | [My Life Is Proof \- Live](https://open.spotify.com/track/07Vx1j68TVTsxs0P0s3brN) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Worship Jesus \(Vol\. 2 / Live\)](https://open.spotify.com/album/7v36jwiQC4FMjHLnq2ZQdn) | 6:06 |
 | 31 | [A Million Times \- Live](https://open.spotify.com/track/4WYPM8WwzHFUXSPYjLNLEF) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Patrick Mayberry](https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo) | [A Million Times \(Live\)](https://open.spotify.com/album/1DMZC9U1KttFQTTvQ6aeRz) | 5:02 |
 | 32 | [Ancient Love \- Live](https://open.spotify.com/track/7iKHNlkMKDBWIbmlZj2ZJi) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Ancient Love \(Supreme Edition\)](https://open.spotify.com/album/13SCJozqvIgXJe2OuQ3uV4) | 5:08 |

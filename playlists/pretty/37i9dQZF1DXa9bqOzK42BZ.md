@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR?si=932vi4fbSXelQfAKqNvopg">Paul Clement</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,290 likes - 111 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,334 likes - 111 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

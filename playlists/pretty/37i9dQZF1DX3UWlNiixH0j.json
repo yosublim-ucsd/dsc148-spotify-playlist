@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u63fa\u3089\u304e\uff08yuragi\uff09",
-  "num_followers": 60402,
+  "num_followers": 60416,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-01-23 15:00:29",
       "album": {
+        "name": "\u6b69\u307f",
+        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "duration_ms": 230809,
+      "name": "\u6b69\u307f",
+      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
+    },
+    {
+      "added_at": "2025-01-23 15:00:29",
+      "album": {
         "name": "LIKE A FIRST KISS",
         "url": "https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2025-01-23 15:00:29",
       "album": {
-        "name": "\u6b69\u307f",
-        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+        "name": "Hotel New Yuma",
+        "url": "https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1"
       },
       "artists": [
         {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+          "name": "Yuma Abe",
+          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
         }
       ],
-      "duration_ms": 230809,
-      "name": "\u6b69\u307f",
-      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
+      "duration_ms": 192555,
+      "name": "\u5922\u3092\u898b\u3088\u3046\u3088",
+      "url": "https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS"
     },
     {
       "added_at": "2025-01-23 15:00:29",
@@ -763,22 +779,6 @@
       "duration_ms": 186666,
       "name": "\u67d4\u8edf\u5264DOPE",
       "url": "https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs"
-    },
-    {
-      "added_at": "2025-01-23 15:00:29",
-      "album": {
-        "name": "Hotel New Yuma",
-        "url": "https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1"
-      },
-      "artists": [
-        {
-          "name": "Yuma Abe",
-          "url": "https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z"
-        }
-      ],
-      "duration_ms": 192555,
-      "name": "\u5922\u3092\u898b\u3088\u3046\u3088",
-      "url": "https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS"
     },
     {
       "added_at": "2025-01-23 15:00:29",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-01-23 15:00:29",
       "album": {
+        "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
+        "url": "https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl"
+      },
+      "artists": [
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        }
+      ],
+      "duration_ms": 251522,
+      "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
+      "url": "https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH"
+    },
+    {
+      "added_at": "2025-01-23 15:00:29",
+      "album": {
         "name": "Re:Re:",
         "url": "https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 196297,
       "name": "Re:Re:",
       "url": "https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k"
-    },
-    {
-      "added_at": "2025-01-23 15:00:29",
-      "album": {
-        "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
-        "url": "https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl"
-      },
-      "artists": [
-        {
-          "name": "Helsinki Lambda Club",
-          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
-        }
-      ],
-      "duration_ms": 251522,
-      "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
-      "url": "https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH"
     },
     {
       "added_at": "2025-01-23 15:00:29",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-01-23 15:00:29",
       "album": {
+        "name": "\u3042\u307e\u308a\u98a8",
+        "url": "https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz"
+      },
+      "artists": [
+        {
+          "name": "AprilBlue",
+          "url": "https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ"
+        }
+      ],
+      "duration_ms": 240857,
+      "name": "\u3042\u307e\u308a\u98a8",
+      "url": "https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75"
+    },
+    {
+      "added_at": "2025-01-23 15:00:29",
+      "album": {
         "name": "\u53cc\u5b50\u5ea7(gemini)",
         "url": "https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2025-01-23 15:00:29",
       "album": {
-        "name": "\u3042\u307e\u308a\u98a8",
-        "url": "https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz"
+        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
+        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
       },
       "artists": [
         {
-          "name": "AprilBlue",
-          "url": "https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ"
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
         }
       ],
-      "duration_ms": 240857,
-      "name": "\u3042\u307e\u308a\u98a8",
-      "url": "https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75"
+      "duration_ms": 175578,
+      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
+      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
     },
     {
       "added_at": "2025-01-23 15:00:29",
@@ -1215,22 +1231,6 @@
       "duration_ms": 274750,
       "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
       "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
-    },
-    {
-      "added_at": "2025-01-23 15:00:29",
-      "album": {
-        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
-        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
-          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
-      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
     },
     {
       "added_at": "2025-01-23 15:00:29",

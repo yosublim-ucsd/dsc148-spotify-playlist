@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,577 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,588 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(DELUXE\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
+| 1 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(deluxe\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
 | 2 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 |
 | 3 | [soft light](https://open.spotify.com/track/2BgBE2sl7r2vcLeC6vxCfl) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [soft light](https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x) | 2:35 |
 | 4 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 |

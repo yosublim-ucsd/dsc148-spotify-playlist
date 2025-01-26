@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,674 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,654 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 37 | [Are You With Me \- Christmas Mix](https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:18 |
 | 38 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
 | 39 | [Christmas Time](https://open.spotify.com/track/6sj3z36Jiy7vc8NIVgZlIb) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Jeremy Oceans](https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf) | [Christmas Time](https://open.spotify.com/album/1y3cgKPsRSDiUkh5FwCa9Z) | 3:27 |
-| 40 | [Winter Wonderland](https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Winter Wonderland](https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4) | 2:46 |
+| 40 | [Wonderful Dream](https://open.spotify.com/track/1Vu7ESFr1xEIY533Ociud2) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF) | [Wonderful Dream](https://open.spotify.com/album/7G8OrtEr32WYzvP5AZS4Yz) | 3:22 |
 | 41 | [Driving Home For Christmas](https://open.spotify.com/track/1R87nOHx4YRvHoiovqZUed) | [Holidayz](https://open.spotify.com/artist/482s2jUGaqL2r9upJVcgKk) | [Christmas Dance Party Vol\. 1](https://open.spotify.com/album/0DP0qSBmLp13LH5gbBXNTX) | 4:15 |
-| 42 | [Wonderful Dream](https://open.spotify.com/track/1Vu7ESFr1xEIY533Ociud2) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF) | [Wonderful Dream](https://open.spotify.com/album/7G8OrtEr32WYzvP5AZS4Yz) | 3:22 |
+| 42 | [Winter Wonderland](https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Winter Wonderland](https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4) | 2:46 |
 | 43 | [Jingle Bell Rock](https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Jingle Bell Rock](https://open.spotify.com/album/4UHebJk04p3hFlun4xmhB5) | 3:00 |
 | 44 | [Last Christmas](https://open.spotify.com/track/3P7DrnRrt3XLoe2odbmmmy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Last Christmas](https://open.spotify.com/album/7KlROETN0RONIZYAcYUNbV) | 2:29 |
 | 45 | [Lover for the Holidays](https://open.spotify.com/track/0HXAk2NyaZ3Fh3Ij264oiA) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [John Paul Lakes](https://open.spotify.com/artist/3Ke9ubVapReZsiJUiZ51sJ) | [Lover for the Holidays](https://open.spotify.com/album/61iHgtVbmea15my3kYySej) | 3:44 |

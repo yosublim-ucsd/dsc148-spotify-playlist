@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,144 likes - 110 songs - 6 hr 6 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,149 likes - 110 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 5 | [Room Of Fools](https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:25 |
 | 6 | [All Too Late](https://open.spotify.com/track/4m1KSPhZ74hYFDd6pq5Cz6) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Rhode](https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi) | [All Too Late](https://open.spotify.com/album/7uz6W3xnVGod7qtJHbAePW) | 3:36 |
 | 7 | [Prism](https://open.spotify.com/track/3PoryKWD1bAghIRPM3r5zU) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Jupe](https://open.spotify.com/artist/3evbznUo9BuH3Ykqid374c) | [Prism](https://open.spotify.com/album/1dM08WgaDeGuJoXB6WWaBR) | 2:55 |
-| 8 | [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 |
+| 8 | [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 |
 | 9 | [Body Language](https://open.spotify.com/track/1ac3DHLii728GuifgZRjFh) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Body Language](https://open.spotify.com/album/0zK4P8P0z9Hcf5uQISQ2fT) | 2:13 |
 | 10 | ['Til Tomorrow](https://open.spotify.com/track/3Pntr5dHwavXxNQv0ktXY2) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | ['Til Tomorrow](https://open.spotify.com/album/6lNZirW2o0knujzrLydFEQ) | 3:00 |
 | 11 | [Bitches Over Boys](https://open.spotify.com/track/0YWFpqZck5m8olsZr3CC1H) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Bitches Over Boys](https://open.spotify.com/album/23qRynO3OytfHSeMKtTADN) | 2:27 |

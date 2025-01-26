@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,238 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,250 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 13 | [In My Head \- Edit](https://open.spotify.com/track/4P7P6cIXe2zNdsPZ9WhJjt) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [In My Head](https://open.spotify.com/album/2qNHsIcEYpSE0qFWVEKK9k) | 3:22 |
 | 14 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 |
 | 15 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 |
-| 16 | [Bolingo Malenbè](https://open.spotify.com/track/0yVBjoZjVVir7R29I2sg60) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw) | [Bolingo Malenbè](https://open.spotify.com/album/2xmJ9FRGOEN3bbLabZTEB2) | 4:20 |
+| 16 | [Bolingo Malenbè](https://open.spotify.com/track/0yVBjoZjVVir7R29I2sg60) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw), [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J) | [Bolingo Malenbè](https://open.spotify.com/album/2xmJ9FRGOEN3bbLabZTEB2) | 4:20 |
 | 17 | [Hypnopompia](https://open.spotify.com/track/16DdO8ytErI66liwXTh9D3) | [Kate Hex](https://open.spotify.com/artist/5jeRWqe3aZfPrtbEQbo0KU), [TiaNova](https://open.spotify.com/artist/0XNtPmYvavF1lPHLssfOuk) | [Hypnopompia](https://open.spotify.com/album/4dS41eJY36q3V12DQoPHWW) | 6:26 |
 | 18 | [girls just wanna have fun](https://open.spotify.com/track/56xhTPqdsyUNbUKk6KXMlc) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 2:31 |
 | 19 | [Everyday](https://open.spotify.com/track/3W3LM2eS1F81UuIjEsHXsV) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Everyday](https://open.spotify.com/album/3hgopGn8Ef1z2ybAPJ0Zu0) | 3:13 |

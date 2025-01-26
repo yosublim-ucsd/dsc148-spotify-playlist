@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 197115,
+  "num_followers": 197163,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
     },
     {
-      "added_at": "2024-09-09 14:47:08",
-      "album": {
-        "name": "M\u00fasica do Esquecimento",
-        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
-      },
-      "artists": [
-        {
-          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
-          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
-    },
-    {
       "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "& the Charm",
@@ -555,6 +539,22 @@
       "duration_ms": 269446,
       "name": "Sandrail Silhouette",
       "url": "https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW"
+    },
+    {
+      "added_at": "2024-09-09 14:47:08",
+      "album": {
+        "name": "M\u00fasica do Esquecimento",
+        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
+      },
+      "artists": [
+        {
+          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
+          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
     },
     {
       "added_at": "2024-09-18 13:52:43",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
     },
     {
-      "added_at": "2024-10-23 05:47:27",
-      "album": {
-        "name": "Deux Paradis",
-        "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 273897,
-      "name": "Deux Paradis",
-      "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
-    },
-    {
       "added_at": "2023-10-22 04:22:10",
       "album": {
         "name": "Suono Assente",
@@ -697,6 +681,22 @@
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
     },
     {
+      "added_at": "2024-10-23 05:47:27",
+      "album": {
+        "name": "Deux Paradis",
+        "url": "https://open.spotify.com/album/4uwHuTOND0nzdivw2yuqtG"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 273897,
+      "name": "Deux Paradis",
+      "url": "https://open.spotify.com/track/5rpm1ugQFOy1X76YvVFmEO"
+    },
+    {
       "added_at": "2024-03-05 06:00:54",
       "album": {
         "name": "Evening Mood",
@@ -711,22 +711,6 @@
       "duration_ms": 384589,
       "name": "Evening Mood",
       "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
-    },
-    {
-      "added_at": "2024-01-04 01:06:11",
-      "album": {
-        "name": "Dumb Guitar",
-        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 310865,
-      "name": "Dumb Guitar",
-      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
     },
     {
       "added_at": "2024-03-05 06:00:54",
@@ -745,20 +729,20 @@
       "url": "https://open.spotify.com/track/00QANpfkal7tDih1140IFH"
     },
     {
-      "added_at": "2023-10-13 15:35:55",
+      "added_at": "2024-01-04 01:06:11",
       "album": {
-        "name": "Afternoon X",
-        "url": "https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl"
+        "name": "Dumb Guitar",
+        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
       },
       "artists": [
         {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
         }
       ],
-      "duration_ms": 246466,
-      "name": "Afternoon X",
-      "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+      "duration_ms": 310865,
+      "name": "Dumb Guitar",
+      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -785,6 +769,22 @@
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
+      "added_at": "2023-10-13 15:35:55",
+      "album": {
+        "name": "Afternoon X",
+        "url": "https://open.spotify.com/album/6yUptnHXA1lRp48hWzXsUl"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Afternoon X",
+      "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Second Spring OST",
@@ -799,6 +799,26 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "added_at": "2024-11-12 18:12:40",
+      "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        },
+        {
+          "name": "Keeley Forsyth",
+          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
+        }
+      ],
+      "duration_ms": 275194,
+      "name": "Billowing",
+      "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -839,26 +859,6 @@
       "duration_ms": 413958,
       "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
       "url": "https://open.spotify.com/track/2mGaNrzkyL18tFIzzoZrjL"
-    },
-    {
-      "added_at": "2024-11-12 18:12:40",
-      "album": {
-        "name": "Music for Peace and Harmony",
-        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
-      },
-      "artists": [
-        {
-          "name": "Hiro Ama",
-          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
-        },
-        {
-          "name": "Keeley Forsyth",
-          "url": "https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF"
-        }
-      ],
-      "duration_ms": 275194,
-      "name": "Billowing",
-      "url": "https://open.spotify.com/track/46WN9q8fQXjq9yftbCxxTk"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -929,22 +929,6 @@
       "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
     },
     {
-      "added_at": "2024-10-23 05:15:10",
-      "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "STORY OF BLOOD",
@@ -965,36 +949,36 @@
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
-      "added_at": "2024-03-22 00:00:20",
+      "added_at": "2023-06-02 00:24:20",
       "album": {
-        "name": "Follow The Light",
-        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
+        "name": "Open the Gates",
+        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "Irreversible Entanglements",
+          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
         }
       ],
-      "duration_ms": 159054,
-      "name": "Follow The Light",
-      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
+      "duration_ms": 159093,
+      "name": "Open the Gates",
+      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
-      "added_at": "2023-06-02 00:41:12",
+      "added_at": "2024-10-23 05:15:10",
       "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
       },
       "artists": [
         {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1021,20 +1005,36 @@
       "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
-      "added_at": "2023-06-02 00:24:20",
+      "added_at": "2023-06-02 00:41:12",
       "album": {
-        "name": "Open the Gates",
-        "url": "https://open.spotify.com/album/3o8AaBOVFR7Fp6gXhwXpsh"
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
       },
       "artists": [
         {
-          "name": "Irreversible Entanglements",
-          "url": "https://open.spotify.com/artist/5XqyqoLZXA69lCNyBT3f89"
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
         }
       ],
-      "duration_ms": 159093,
-      "name": "Open the Gates",
-      "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+    },
+    {
+      "added_at": "2024-03-22 00:00:20",
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 159054,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
       "added_at": "2023-08-15 18:36:31",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2024-04-18 19:57:51",
-      "album": {
-        "name": "The Games You Play",
-        "url": "https://open.spotify.com/album/4M1RBdrh3RgLTi01x2qHhc"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 154578,
-      "name": "The Games You Play",
-      "url": "https://open.spotify.com/track/0aNuEZR90yqo7r63G6ErRW"
-    },
-    {
       "added_at": "2022-10-05 14:12:30",
       "album": {
         "name": "All Through The Day",
@@ -1199,6 +1183,22 @@
       "duration_ms": 154910,
       "name": "I'VE BEEN EVIL",
       "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
+    },
+    {
+      "added_at": "2024-04-18 19:57:51",
+      "album": {
+        "name": "The Games You Play",
+        "url": "https://open.spotify.com/album/4M1RBdrh3RgLTi01x2qHhc"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 154578,
+      "name": "The Games You Play",
+      "url": "https://open.spotify.com/track/0aNuEZR90yqo7r63G6ErRW"
     },
     {
       "added_at": "2024-04-29 20:30:55",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
-      "added_at": "2024-01-03 18:45:56",
-      "album": {
-        "name": "Space Jumps",
-        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
-      },
-      "artists": [
-        {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
-        }
-      ],
-      "duration_ms": 211386,
-      "name": "Space Jumps",
-      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
-    },
-    {
       "added_at": "2024-07-09 04:26:27",
       "album": {
         "name": "Bang (Peanut Butter Wolf Remix)",
@@ -1263,6 +1247,22 @@
       "duration_ms": 248312,
       "name": "Bang - Peanut Butter Wolf Remix",
       "url": "https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus"
+    },
+    {
+      "added_at": "2024-01-03 18:45:56",
+      "album": {
+        "name": "Space Jumps",
+        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Space Jumps",
+      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
       "added_at": "2024-10-25 00:44:14",
@@ -1365,6 +1365,22 @@
       "url": "https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR"
     },
     {
+      "added_at": "2023-06-07 04:10:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
+    },
+    {
       "added_at": "2024-08-16 20:06:32",
       "album": {
         "name": "Sur La Terre",
@@ -1379,22 +1395,6 @@
       "duration_ms": 196331,
       "name": "Sur la terre",
       "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
-    },
-    {
-      "added_at": "2023-06-05 20:56:02",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
-      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
       "added_at": "2024-06-24 14:36:20",
@@ -1477,6 +1477,22 @@
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
+    },
+    {
       "added_at": "2023-01-03 23:48:36",
       "album": {
         "name": "Where To Put The Pain",
@@ -1491,6 +1507,22 @@
       "duration_ms": 234693,
       "name": "Where To Put The Pain",
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
+      "added_at": "2024-03-05 06:00:54",
+      "album": {
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 291771,
+      "name": "Lovegaze",
+      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
       "added_at": "2023-08-08 03:45:10",
@@ -1509,20 +1541,20 @@
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
-      "added_at": "2024-03-05 06:00:54",
+      "added_at": "2024-01-30 05:23:45",
       "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
       },
       "artists": [
         {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
         }
       ],
-      "duration_ms": 291771,
-      "name": "Lovegaze",
-      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1543,38 +1575,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2023-06-07 04:10:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
-    },
-    {
-      "added_at": "2024-01-30 05:23:45",
-      "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1619,22 +1619,6 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
-    },
-    {
-      "added_at": "2024-06-13 00:32:04",
-      "album": {
-        "name": "Me Gustas Pero No Te Quiero",
-        "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
-      },
-      "artists": [
-        {
-          "name": "RONCO",
-          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
-        }
-      ],
-      "duration_ms": 210912,
-      "name": "Me Gustas Pero No Te Quiero",
-      "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
     },
     {
       "added_at": "2023-03-31 19:24:48",
@@ -1707,6 +1691,22 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2024-06-13 00:32:04",
+      "album": {
+        "name": "Me Gustas Pero No Te Quiero",
+        "url": "https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd"
+      },
+      "artists": [
+        {
+          "name": "RONCO",
+          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
+        }
+      ],
+      "duration_ms": 210912,
+      "name": "Me Gustas Pero No Te Quiero",
+      "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
     },
     {
       "added_at": "2023-03-31 19:12:14",

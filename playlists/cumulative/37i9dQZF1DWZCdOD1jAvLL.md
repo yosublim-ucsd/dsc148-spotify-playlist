@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: HNTR
 
-776 songs - 1 day 18 hr 19 min
+777 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,10 +476,11 @@
 | [Never Enough](https://open.spotify.com/track/2BHdxupfXLLSs3BVTVNd9w) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Never Enough](https://open.spotify.com/album/0NRLVkSWH1xHkJzC6fTVPP) | 4:08 | 2022-12-16 | 2023-01-14 |
 | [NEVER STOPPIN'](https://open.spotify.com/track/5KZUcvttKBPePQjLPCl3Rl) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Nouni](https://open.spotify.com/artist/4QujGIlqVG7lX2MjyJKWww) | [NEVER STOPPIN'](https://open.spotify.com/album/6PlQYo9TonGHnlaWNVQaFg) | 2:23 | 2024-11-08 |  |
 | [New Bottega](https://open.spotify.com/track/05IOuexttkZG6eQLFi3v40) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH) | 3:08 | 2023-03-10 | 2024-04-19 |
-| [New Bottega](https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U) | 3:08 | 2023-03-10 |  |
+| [New Bottega](https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U) | 3:08 | 2023-03-10 | 2025-01-26 |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 | 2022-11-18 | 2023-06-06 |
 | [NEXT LVL](https://open.spotify.com/track/6uaKtnOTKImR5B6cU8FXjo) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [NEXT LVL](https://open.spotify.com/album/1rhMrfqiJY4q1KtEzmjx2o) | 2:35 | 2024-03-08 | 2024-04-29 |
 | [Next Round \(feat\. Tasha Kett\)](https://open.spotify.com/track/5A4106rCXJe4EDjbllmrJ3) | [Tasha Kett](https://open.spotify.com/artist/4NznHWlw5q1yaHk0admfg8), [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Next Round \(feat\. Tasha Kett\)](https://open.spotify.com/album/4nsIE9Ovot8sqo7OwcaroA) | 3:54 | 2022-01-28 | 2022-03-26 |
+| [Night In Detroit \(feat\. Fedde Le Grand\)](https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Night In Detroit \(feat\. Fedde Le Grand\)](https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1) | 2:46 | 2025-01-24 |  |
 | [Night In Milan](https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Night In Milan](https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL) | 2:34 | 2023-06-05 | 2024-03-09 |
 | [Night Rider](https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 3:35 | 2023-07-14 | 2023-11-18 |
 | [Night Rider](https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Night Rider](https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT) | 3:35 | 2023-04-28 | 2023-07-14 |

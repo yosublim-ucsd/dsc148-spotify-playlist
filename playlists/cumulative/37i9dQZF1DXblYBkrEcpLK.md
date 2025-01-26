@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-722 songs - 2 day 0 hr 1 min
+723 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [COLORFUL BOX](https://open.spotify.com/track/6oWnUUjCbBOwlfHQ6GcS6g) | [草野華余子](https://open.spotify.com/artist/6X9mX9u8tgpvwgCbY5eQps) | [産地直送vol.1](https://open.spotify.com/album/02F0nJpWXd4LxGn1RkjChS) | 3:54 | 2023-12-19 | 2024-01-08 |
 | [Contrast](https://open.spotify.com/track/7xsztWMVvAzfNVyaCqW2Tj) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Contrast](https://open.spotify.com/album/6vptFPctTJu6HtY1yAwZPI) | 4:18 | 2025-01-08 |  |
 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 | 2022-07-28 | 2024-02-14 |
-| [CRAZY FOR YOU](https://open.spotify.com/track/0xIW9Iex1ziifoFcRL1JVS) | [焼塩檸檬（CV: 若山詩音）](https://open.spotify.com/artist/23VTN3lbmr5yWQVRKq9Hba) | [CRAZY FOR YOU](https://open.spotify.com/album/4fW0rdQYnNmnQphClVe6yw) | 4:03 | 2024-08-29 |  |
+| [CRAZY FOR YOU](https://open.spotify.com/track/0xIW9Iex1ziifoFcRL1JVS) | [焼塩檸檬（CV: 若山詩音）](https://open.spotify.com/artist/23VTN3lbmr5yWQVRKq9Hba) | [CRAZY FOR YOU](https://open.spotify.com/album/4fW0rdQYnNmnQphClVe6yw) | 4:03 | 2024-08-29 | 2025-01-26 |
 | [Crossing Road](https://open.spotify.com/track/5rZjpjxbgyYJavOU9rf6yh) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [星空](https://open.spotify.com/album/6lNbfCwhR1uygDRts9r2dY) | 5:09 | 2022-06-24 | 2022-07-25 |
 | [Cry for the Moon](https://open.spotify.com/track/4H16CvnP6NOExQYO1DY2of) | [工藤晴香](https://open.spotify.com/artist/0U9bZHBbrFVL4T4NShSvdc) | [流星列車](https://open.spotify.com/album/43fD05oNZfTmSg6UZWo6UG) | 4:02 | 2022-06-14 | 2022-07-23 |
 | [DAISY](https://open.spotify.com/track/0MakkBf2ekyMyN8tyiEzHD) | [Azuna Riko](https://open.spotify.com/artist/1kJ9fWYKneqS73CIOMDWRx) | [Azu is](https://open.spotify.com/album/1b5lp3j4Z6XcAB8C8ltzXz) | 2:56 | 2023-11-07 | 2023-11-18 |
@@ -688,6 +688,7 @@
 | [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 | 2022-07-28 | 2024-02-14 |
 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 | 2024-04-16 |  |
 | [聴こえる?](https://open.spotify.com/track/7yO6MXpbXh2Va2n6DOr9fT) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [聴こえる?](https://open.spotify.com/album/555t5S8CPEHq2EMHXYXohY) | 4:05 | 2022-06-24 | 2022-07-07 |
+| [自分革命](https://open.spotify.com/track/5GZNSDo1ga4SheMHAZh2fz) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [自分革命](https://open.spotify.com/album/23TOHK5Hgc4pVz2tL16sXR) | 3:46 | 2025-01-21 |  |
 | [航海の唄](https://open.spotify.com/track/6jZBvlt3xG6gdPh1vFMBhs) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [About a Voyage \(My Hero Academia Ending Theme Song\) \[World Edition\]](https://open.spotify.com/album/6RJpk9d7aZWVij0NnSVYbl) | 4:44 | 2022-06-09 | 2022-06-12 |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2023-11-07 |  |
 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 | 2022-06-09 | 2024-02-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "Lekker rustig aan doen op zondag met deze zachte popliedjes.",
+  "description": "Rustig aan doen op zondag met deze zachte popliedjes.",
   "name": "Easy On Sunday",
   "tracks": [
     {
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Angel Child",
+        "url": "https://open.spotify.com/album/6ecE7tM2AG6ZhVVzELMz8b"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220620,
+      "name": "Angel Child",
+      "url": "https://open.spotify.com/track/13oIo7ceUwD6RCxPfGJyhX"
+    },
+    {
+      "album": {
         "name": "Answer Phone",
         "url": "https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt"
       },
@@ -239,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185114,
+      "name": "Baby Blue - Acoustic",
+      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
+    },
+    {
+      "album": {
         "name": "Blackbird (Deluxe)",
         "url": "https://open.spotify.com/album/6UzCkpGRJ4ojKeYUGKfyEc"
       },
@@ -254,6 +290,24 @@
       "duration_ms": 218398,
       "name": "Back",
       "url": "https://open.spotify.com/track/2tJ0GB8yDrGSHahyBHjDrB"
+    },
+    {
+      "album": {
+        "name": "Be Kind",
+        "url": "https://open.spotify.com/album/56iqovByIl1QFLh1Ouztnh"
+      },
+      "artists": [
+        {
+          "name": "Camille Camille",
+          "url": "https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264568,
+      "name": "Be Kind",
+      "url": "https://open.spotify.com/track/1v2dSYojE7oigmkN9gPQ0v"
     },
     {
       "album": {
@@ -412,7 +466,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 239120,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
@@ -506,6 +560,28 @@
       "duration_ms": 185675,
       "name": "Boat",
       "url": "https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr"
+    },
+    {
+      "album": {
+        "name": "Body Talk (acoustic)",
+        "url": "https://open.spotify.com/album/1Zo0gLugjMAokrjoz0FjV0"
+      },
+      "artists": [
+        {
+          "name": "Will Knox",
+          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
+        },
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202992,
+      "name": "Body Talk (acoustic)",
+      "url": "https://open.spotify.com/track/7ssTWnEESFsxvqy01zXjs2"
     },
     {
       "album": {
@@ -1318,10 +1394,32 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 172852,
       "name": "Hope",
       "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel To Be You (feat. n\u00e9om\u00ed)",
+        "url": "https://open.spotify.com/album/28p8sVDSRlD2QuAwwxy9GZ"
+      },
+      "artists": [
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        },
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256062,
+      "name": "How Does It Feel To Be You (feat. n\u00e9om\u00ed)",
+      "url": "https://open.spotify.com/track/6MttUJkeC861ei3huiHewG"
     },
     {
       "album": {
@@ -1599,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "It Happens Either Way",
+        "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212522,
+      "name": "It Happens Either Way",
+      "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
+    },
+    {
+      "album": {
         "name": "Joshua",
         "url": "https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ"
       },
@@ -1848,7 +1964,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 157877,
       "name": "Lose Control - Acoustic Version",
       "url": "https://open.spotify.com/track/4lDN8anxsodu74ZlmON3Dp"
@@ -1956,7 +2072,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 268105,
       "name": "Lost on You",
       "url": "https://open.spotify.com/track/2kz40rIHjfGYxurLiuCBp9"
@@ -2044,6 +2160,24 @@
       "duration_ms": 209512,
       "name": "Make it a Memory",
       "url": "https://open.spotify.com/track/4wNyXz7XVh4CfjTgstJr7T"
+    },
+    {
+      "album": {
+        "name": "Leveller",
+        "url": "https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe"
+      },
+      "artists": [
+        {
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241164,
+      "name": "Mathematics",
+      "url": "https://open.spotify.com/track/7qyDTnHLhucrlpblFvhjuP"
     },
     {
       "album": {
@@ -2261,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "Nothing Forgotten",
+        "url": "https://open.spotify.com/album/5feBqDBr4AqfJVempNrKug"
+      },
+      "artists": [
+        {
+          "name": "Loren Nine",
+          "url": "https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143256,
+      "name": "Nothing Forgotten",
+      "url": "https://open.spotify.com/track/0AF0YrKxK7WDyN4tR2uJ3p"
+    },
+    {
+      "album": {
         "name": "Nothing To Lose (Piano Acoustic)",
         "url": "https://open.spotify.com/album/63R87KNka7X83DKE0CSZqs"
       },
@@ -2424,7 +2576,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 190379,
       "name": "Pillow Scream",
       "url": "https://open.spotify.com/track/5dt3DHWX8EnVR4QJZ0fhxI"
@@ -3392,7 +3544,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 160000,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
@@ -3536,7 +3688,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 199200,
       "name": "When I Feel This Way",
       "url": "https://open.spotify.com/track/4lpOGqNlKHARTJa4fYcDis"
@@ -3616,7 +3768,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 195120,
       "name": "Wide Awake & Dreaming - Stripped Duet",
       "url": "https://open.spotify.com/track/3ndUqqoVEMQHOlh4sRiXyN"

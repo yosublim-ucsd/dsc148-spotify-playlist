@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Bart Skils
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,841 likes - 119 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,863 likes - 119 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 14 | [Real Talk \- Original Mix](https://open.spotify.com/track/3ZlcwK8L6FYgCszPE2EfCl) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Real Talk](https://open.spotify.com/album/2fWm61rJu9In4lJ69FB2WB) | 5:51 |
 | 15 | [Neva Sell, Neva Go](https://open.spotify.com/track/7vP3g0lZdEyq2mfeAGO9ry) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Neva Sell, Neva Go](https://open.spotify.com/album/3JlZPZYLHT9hJcINnoxMMj) | 3:26 |
 | 16 | [Ruido](https://open.spotify.com/track/3Fz8HBV1rqhOOS2U3z7ZJv) | [ACIDBOY](https://open.spotify.com/artist/6GPDattbUr4eWnlOEICTt3), [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E), [AEREA](https://open.spotify.com/artist/34ut5kAp6DfnW79Dp3P4CA) | [Ruido](https://open.spotify.com/album/7liISDyH8p6tA0GFI7VM8H) | 4:11 |
-| 17 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
+| 17 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
 | 18 | [RITMO](https://open.spotify.com/track/3ifvaAvaSYo1WDWXxAiv2A) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [RITMO](https://open.spotify.com/album/0OD7izYJwTmirMdqjOS43Q) | 3:13 |
 | 19 | [All You Got To Do](https://open.spotify.com/track/5RH715X8TaLppRDbNMo8JM) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/136Qgr1Nu4k854R4gY4bgK) | 3:06 |
 | 20 | [Let's Go Dancing](https://open.spotify.com/track/5se4SpUxbStmWGZngKWqLU) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Let's Go Dancing](https://open.spotify.com/album/3ey1jQ8gUe2E8KRT8Flfjv) | 3:48 |

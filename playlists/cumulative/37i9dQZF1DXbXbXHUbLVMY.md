@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-270 songs - 11 hr 45 min
+271 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [MED MIG](https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ANTISOCIAL](https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn) | 2:09 | 2024-08-15 |  |
 | [Medellín](https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Medellín](https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8) | 2:56 | 2024-07-18 | 2024-08-16 |
 | [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 | 2023-10-26 | 2025-01-20 |
+| [Mi Amor](https://open.spotify.com/track/5rrTiERK3whJ53lsTTX7Nm) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Mi Amor](https://open.spotify.com/album/5q1Z7S1kbm4AAO5XaG63Va) | 3:44 | 2025-01-23 |  |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 | 2024-06-01 |
 | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y) | 2:26 | 2024-10-03 | 2025-01-13 |
 | [Midtnytt](https://open.spotify.com/track/4yw7Tna6ATc5KsqJTWX3Vp) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc), [Lil.Lørda](https://open.spotify.com/artist/5VoDPO3wivvUbXNt2IF4Rp) | [Midtnytt](https://open.spotify.com/album/2bljtVDQSJkxxS9g5FNHLC) | 3:21 | 2024-10-24 | 2024-11-08 |
@@ -258,7 +259,7 @@
 | [Top Notch](https://open.spotify.com/track/5QrHaI2f2gTwDLMvV14ecf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Top Notch](https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki) | 2:28 | 2024-01-11 | 2024-02-09 |
 | [TRILLE](https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [TRILLE](https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D) | 2:42 | 2024-01-04 | 2025-01-23 |
 | [Tyrs Vals \(feat\. Arif Murakami & Siyabång\)](https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Bedøvelse Gjør Mester](https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t) | 3:41 | 2024-02-22 |  |
-| [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 | 2024-08-15 |  |
+| [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 | 2024-08-15 | 2025-01-26 |
 | [Utested](https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Utested](https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu) | 2:42 | 2024-06-07 |  |
 | [Vakuum](https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm) | [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Vakuum](https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts) | 2:41 | 2024-07-11 | 2024-08-16 |
 | [Varig mén](https://open.spotify.com/track/41QTpl1b6fHRtCYNeX10gl) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Varig mén](https://open.spotify.com/album/1je48mRG7l23gvEMesMczK) | 2:31 | 2024-05-06 | 2025-01-17 |

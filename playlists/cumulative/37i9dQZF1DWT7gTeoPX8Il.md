@@ -4,7 +4,7 @@
 
 > layan je
 
-271 songs - 17 hr 52 min
+272 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Aku Rindu](https://open.spotify.com/track/11QKUeLa6ajdMEMNAQkAlm) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Aku Rindu](https://open.spotify.com/album/3INvE4pj4A0qvcoCGMG2l5) | 4:08 | 2024-06-27 | 2024-07-27 |
 | [Aku Yang Tersakiti](https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:02 | 2024-02-15 |  |
 | [Alkisah Jiwa](https://open.spotify.com/track/5fWhCb1uiaz60JFIC96IHf) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Alkisah Jiwa](https://open.spotify.com/album/6JdprpL2BeEktoaEq7qyEV) | 4:01 | 2024-10-17 | 2024-12-13 |
+| [Angin Kencang](https://open.spotify.com/track/2GWzRdezjEFyYrwldE7iCl) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 3:57 | 2025-01-16 |  |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2024-07-25 |  |
 | [Apa Artinya Aku](https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Apa Artinya Aku](https://open.spotify.com/album/58887aaSwwaOePaJQr6NHP) | 4:02 | 2024-12-12 | 2025-01-17 |
 | [Apa Makna Cinta \- From "Dan Mimpi Pun Berguguran"](https://open.spotify.com/track/57fxy7EXb3NEcymnb4VJeW) | [Hazama](https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI) | [Apa Makna Cinta \(From "Dan Mimpi Pun Berguguran"\)](https://open.spotify.com/album/61gpus88fYySN2TFDKyWoi) | 4:25 | 2024-07-25 | 2024-08-31 |
@@ -65,7 +66,7 @@
 | [Bunga](https://open.spotify.com/track/2fEi2NCVXI1VxDjRhdorI2) | [Ezad Lazim](https://open.spotify.com/artist/6KGWY3YSxi1rBESkloCZTo), [Azzam Sham](https://open.spotify.com/artist/2Ep26gSoOUYsoSJN7R15Iw) | [Bunga](https://open.spotify.com/album/1RuAxg8fyFYxkdWm8BaHKh) | 6:02 | 2024-08-30 | 2024-09-20 |
 | [Cahaya](https://open.spotify.com/track/4ZJ0hcwJ69NyY0x8TlbnQV) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Cahaya](https://open.spotify.com/album/3XnIcjWBfEuKeLRsL6743o) | 3:05 | 2024-05-23 | 2024-06-07 |
 | [Cinta Bandar Tasik Selatan](https://open.spotify.com/track/5hMFDAiyT5KsYS8I2qplh1) | [Aman Aziz](https://open.spotify.com/artist/777g4Own3oQ7TXgAG5dyh4) | [Cinta Bandar Tasik Selatan](https://open.spotify.com/album/3ZXycDAWBw9sDCrgJtztMQ) | 4:17 | 2024-10-03 | 2024-10-18 |
-| [Cinta Dalam Hati](https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Untukmu Selamanya](https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva) | 4:43 | 2024-09-27 |  |
+| [Cinta Dalam Hati](https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Untukmu Selamanya](https://open.spotify.com/album/0JFtcuEuZqdurpqOY65Pva) | 4:43 | 2024-09-27 | 2025-01-26 |
 | [Cinta Indah Buat Kanda \- From "The Experts"](https://open.spotify.com/track/40jA5HPLdlTVVoi6NFPzoO) | [Yuka Kharisma](https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB) | [Cinta Indah Buat Kanda \(From "The Experts"\)](https://open.spotify.com/album/6C577UJbbUObnXLu1D9zyk) | 2:50 | 2024-05-16 | 2024-05-24 |
 | [Cinta Kayangan](https://open.spotify.com/track/6tQTAykORuJWmUl3k4Zip5) | [Razzuan Rosli](https://open.spotify.com/artist/6AXBN0Gn3bUlb1fk5wfZAp) | [Cinta Kayangan](https://open.spotify.com/album/1bhVDSSOr85fZIxGs8T6OH) | 3:47 | 2024-01-25 | 2024-02-02 |
 | [Cinta Ke Syurga](https://open.spotify.com/track/37GuLdcMVQFw2nHJkoK6Ph) | [Syazwan Shuhaimi](https://open.spotify.com/artist/2pKZLBRfI6eD22KCboFLVb) | [Cinta Ke Syurga](https://open.spotify.com/album/470GBhFy2egAhwg7MSx0js) | 3:55 | 2024-06-27 | 2024-07-27 |

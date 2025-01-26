@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With LaShun Pace, Norman Hutchins, Kurt Carr and more
+> With Donald Lawrence, Jessica Reedy, Kurt Carr and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 235 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 236 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Revelation 19:1](https://open.spotify.com/track/2ZNTu9FGzly5jafl5xM8df) | [The New Jerusalem Baptist Church Choir](https://open.spotify.com/artist/77h07n6wDJc6skqLSQteVI) | [His Eye Is On The Sparrow](https://open.spotify.com/album/76E2Ua6Po1Kc5p0wDzaoNJ) | 7:00 |
 | 50 | [I Just Can't Give Up Now](https://open.spotify.com/track/1lvAyqOIXe3NpN0Rt9rztS) | [ACM Gospel Choir](https://open.spotify.com/artist/4XUjYkrgrCyiWnjD9h0SuD) | [ACM Gospel Choir](https://open.spotify.com/album/6JR2N4MIu4gk7MDUUBkc0U) | 5:01 |
 
-Snapshot ID: `Z5RVtwAAAABfqQiQUCsznUyuxjbAP2dM`
+Snapshot ID: `Z5WoqAAAAADKV7iQjOG17dGSQihqmqGA`

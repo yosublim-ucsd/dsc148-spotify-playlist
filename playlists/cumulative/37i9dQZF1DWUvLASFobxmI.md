@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. La Receta, El Frizian en portada.
 
-635 songs - 1 day 9 hr 40 min
+636 songs - 1 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 | 2023-10-06 | 2024-03-23 |
 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 | 2023-12-08 | 2024-03-23 |
 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2024-12-20 |  |
-| [Corazón de Oropel](https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Corazón de Oropel](https://open.spotify.com/album/2a3ChYHrsJ0eNYSrWMkmbP) | 3:01 | 2024-11-08 |  |
+| [Corazón de Oropel](https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Corazón de Oropel](https://open.spotify.com/album/2a3ChYHrsJ0eNYSrWMkmbP) | 3:01 | 2024-11-08 | 2025-01-26 |
 | [Corazón Frío](https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Corazón Frío](https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI) | 3:32 | 2024-04-22 | 2024-08-10 |
 | [Corazón Mágico](https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:13 | 2022-06-20 | 2023-07-01 |
 | [Corazón Mágico \- En Vivo](https://open.spotify.com/track/0ExktfrQcR6B5o2LmWlNlU) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Corazón Mágico \(En Vivo\)](https://open.spotify.com/album/3HJjHiydQNt7Ix8g3lUPxx) | 3:39 | 2023-06-16 | 2023-09-12 |
@@ -464,6 +464,7 @@
 | [Otra Vez](https://open.spotify.com/track/274qOOTUIIZTgccG1xlbm9) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Otra Vez](https://open.spotify.com/album/5ALh1nWcNmSEOe3y0D1aVE) | 4:00 | 2024-11-08 |  |
 | [Pa Que](https://open.spotify.com/track/5AAbD7ELBbHhr8FpqoyS2O) | [Pastrana](https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY) | [Pa Que](https://open.spotify.com/album/7cJPH8ZtVaRI0cX3ipEidI) | 2:44 | 2023-01-20 | 2023-01-28 |
 | [Pa' Que No Me Cuenten](https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Pa' Que No Me Cuenten](https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa) | 2:07 | 2024-06-28 | 2024-08-31 |
+| [Pago Al Contado](https://open.spotify.com/track/4SkAeWC5QMk8peOQcnkibN) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pura Pieza De Mi Gusto, Vol\. 2](https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W) | 2:18 | 2025-01-05 |  |
 | [Pajarito](https://open.spotify.com/track/1SSuA7l7WXkl7ai6H0zOpA) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ) | [Pajarito](https://open.spotify.com/album/2tm4eJZiArcdMIUYobTngw) | 2:49 | 2024-01-12 | 2024-01-27 |
 | [Papá Mundo](https://open.spotify.com/track/5NttWarP12vtmBUYB6gfwy) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Papá Mundo](https://open.spotify.com/album/2cVrh5er4TOD47uUn6bRLA) | 3:05 | 2023-08-25 | 2023-12-15 |
 | [PARIENTON](https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9) | [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [PARIENTON](https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR) | 2:29 | 2024-08-30 |  |

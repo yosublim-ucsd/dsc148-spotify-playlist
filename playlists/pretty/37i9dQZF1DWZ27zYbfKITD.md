@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,904 likes - 104 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,978 likes - 104 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 30 | [Mia & Sebastian’s Theme](https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:38 |
 | 31 | [Elemental](https://open.spotify.com/track/1iueGRdZSh7qdbOsdWe7tC) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:43 |
 | 32 | [Stop Right Now](https://open.spotify.com/track/4KvN5TDHEndfgy1EX7Bipj) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [The Good House \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hTXpOtf4EgnyR7ZeqNpy1) | 2:05 |
-| 33 | [Everytime You Leave](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 |
+| 33 | [Everytime You Leave \(From "The Witcher: Season 1" Soundtrack\)](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 |
 | 34 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
 | 35 | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/track/6EECg7sQ7hepoC0V9k0Lbo) | [Yu\-Peng Chen](https://open.spotify.com/artist/4DD6LTHmvZVeLD5umO5Yvi), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Genshin Impact: Lover's Oath \(Arr\. for Piano by Pascal Hahn\)](https://open.spotify.com/album/6ab8afxMKM66rnuOIW8Hdw) | 1:22 |
 | 36 | [Ragnar Dreams of Home](https://open.spotify.com/track/3nVc5ARjS5gpGOV34QkTlw) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings IV \(Music from the TV Series\)](https://open.spotify.com/album/5zJORKvOIkroj9fmKdUPZI) | 1:41 |

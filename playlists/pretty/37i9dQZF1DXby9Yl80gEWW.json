@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 54316,
+  "num_followers": 54352,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Watch 'At Breakdown",
-      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
         "name": "Lone Soldier",
         "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 198733,
       "name": "Smith Chapel",
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Watch 'At Breakdown",
+      "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -659,6 +659,38 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
+        "name": "String Loaded",
+        "url": "https://open.spotify.com/album/7fDaXso4I1PRDeOsyLqy8C"
+      },
+      "artists": [
+        {
+          "name": "String Loaded Bluegrass Band",
+          "url": "https://open.spotify.com/artist/5WlyMIx13DcBPvdiGnXy6d"
+        },
+        {
+          "name": "Jim Leduc",
+          "url": "https://open.spotify.com/artist/1GIB1SxPbBWvCDSGyLh7Ks"
+        },
+        {
+          "name": "Ian Stuart",
+          "url": "https://open.spotify.com/artist/76eBrwLDn5BiblX1SM4z2Z"
+        },
+        {
+          "name": "Shannon Morrell",
+          "url": "https://open.spotify.com/artist/3TlXllROs2uCSVfMk4Hza1"
+        },
+        {
+          "name": "Randy Armitage",
+          "url": "https://open.spotify.com/artist/3mjbjeEe1vXztcIrOh8SB6"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "String Loaded",
+      "url": "https://open.spotify.com/track/07VqC1MOF6fqApquZ62xIs"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
         "name": "Blue Collared Dog and His Green Eyed Friend",
         "url": "https://open.spotify.com/album/5dLr3Y7INsQqWAWFnpeMGP"
       },
@@ -739,38 +771,6 @@
       "duration_ms": 213400,
       "name": "Icebound",
       "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
-        "name": "String Loaded",
-        "url": "https://open.spotify.com/album/7fDaXso4I1PRDeOsyLqy8C"
-      },
-      "artists": [
-        {
-          "name": "String Loaded Bluegrass Band",
-          "url": "https://open.spotify.com/artist/5WlyMIx13DcBPvdiGnXy6d"
-        },
-        {
-          "name": "Jim Leduc",
-          "url": "https://open.spotify.com/artist/1GIB1SxPbBWvCDSGyLh7Ks"
-        },
-        {
-          "name": "Ian Stuart",
-          "url": "https://open.spotify.com/artist/76eBrwLDn5BiblX1SM4z2Z"
-        },
-        {
-          "name": "Shannon Morrell",
-          "url": "https://open.spotify.com/artist/3TlXllROs2uCSVfMk4Hza1"
-        },
-        {
-          "name": "Randy Armitage",
-          "url": "https://open.spotify.com/artist/3mjbjeEe1vXztcIrOh8SB6"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "String Loaded",
-      "url": "https://open.spotify.com/track/07VqC1MOF6fqApquZ62xIs"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
-      },
-      "artists": [
-        {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
-        }
-      ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
-        "name": "The View From Here",
-        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Flinner",
-          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Black's Fork",
-      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
         "name": "Now They Are Four",
         "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
       },
@@ -1071,6 +1039,22 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+      },
+      "artists": [
+        {
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+        }
+      ],
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
         "name": "The American Fiddler",
         "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
+        "name": "The View From Here",
+        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Flinner",
+          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Black's Fork",
+      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
         "name": "Into My Own",
         "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 306059,
       "name": "Overton Waltz",
       "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
-        "name": "The Never-Ending Years",
-        "url": "https://open.spotify.com/album/3XiFs77S0SXAIewVRP2Ze8"
-      },
-      "artists": [
-        {
-          "name": "Thomas Cassell",
-          "url": "https://open.spotify.com/artist/1axMbkG5DNnNEoJNURK9OL"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Old Methuselah",
-      "url": "https://open.spotify.com/track/2U6tR0Oc7Php3mqCvALKdr"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
+        "name": "The Never-Ending Years",
+        "url": "https://open.spotify.com/album/3XiFs77S0SXAIewVRP2Ze8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Cassell",
+          "url": "https://open.spotify.com/artist/1axMbkG5DNnNEoJNURK9OL"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Old Methuselah",
+      "url": "https://open.spotify.com/track/2U6tR0Oc7Php3mqCvALKdr"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
         }
       ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -1207,34 +1207,18 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
       },
       "artists": [
         {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -1251,6 +1235,22 @@
       "duration_ms": 166132,
       "name": "Bop Your Head",
       "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
+        "name": "Grassy Cove",
+        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
         "name": "Bozeman (Clawhammer Version)",
         "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 171823,
       "name": "Saltbush Express",
       "url": "https://open.spotify.com/track/1G0Oc8cVKAnAUZFrVwOwH7"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
-        "name": "Grassy Cove",
-        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -1671,22 +1671,18 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
-        "name": "Runnin' from the Weather",
-        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
       },
       "artists": [
         {
-          "name": "Larry & Joe",
-          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
-        },
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Runnin' from the Weather",
-      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
+      "duration_ms": 227000,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -1707,18 +1703,22 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
+        "name": "Runnin' from the Weather",
+        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
       },
       "artists": [
         {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+          "name": "Larry & Joe",
+          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
+        },
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
         }
       ],
-      "duration_ms": 227000,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
+      "duration_ms": 261333,
+      "name": "Runnin' from the Weather",
+      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
     },
     {
       "added_at": "2025-01-10 05:00:19",
@@ -1791,54 +1791,6 @@
     {
       "added_at": "2025-01-10 05:00:19",
       "album": {
-        "name": "Vera",
-        "url": "https://open.spotify.com/album/6x1CTkRQEa7CydGUP8uoB0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Jolliff",
-          "url": "https://open.spotify.com/artist/65gpYGwwgux5q7nr9mcxtr"
-        },
-        {
-          "name": "George Jackson",
-          "url": "https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7"
-        },
-        {
-          "name": "Ross Martin",
-          "url": "https://open.spotify.com/artist/6PuYYZFzds4n33CfpBs1CI"
-        },
-        {
-          "name": "Myles Sloniker",
-          "url": "https://open.spotify.com/artist/1M12bhs833OI5EigvJb5Vb"
-        }
-      ],
-      "duration_ms": 370013,
-      "name": "Vera",
-      "url": "https://open.spotify.com/track/0huROu0guZu62dzLOK6KaG"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
-        "name": "Whiskey in the Jar",
-        "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
-      },
-      "artists": [
-        {
-          "name": "Josep Traver",
-          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
-        },
-        {
-          "name": "Tom Corbett",
-          "url": "https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE"
-        }
-      ],
-      "duration_ms": 135453,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
-    },
-    {
-      "added_at": "2025-01-10 05:00:19",
-      "album": {
         "name": "4:09",
         "url": "https://open.spotify.com/album/2KwAbI08WaxaEABYTgSPpJ"
       },
@@ -1867,6 +1819,42 @@
       "duration_ms": 258318,
       "name": "Once in a Thousand",
       "url": "https://open.spotify.com/track/4SyZE6yKsawGAlkks34FfX"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
+        "name": "Whiskey in the Jar",
+        "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
+      },
+      "artists": [
+        {
+          "name": "Josep Traver",
+          "url": "https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D"
+        },
+        {
+          "name": "Tom Corbett",
+          "url": "https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE"
+        }
+      ],
+      "duration_ms": 135453,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
+    },
+    {
+      "added_at": "2025-01-10 05:00:19",
+      "album": {
+        "name": "West Virginia Red",
+        "url": "https://open.spotify.com/album/75a6zJG8thNcgXIWAnkDOC"
+      },
+      "artists": [
+        {
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+        }
+      ],
+      "duration_ms": 147142,
+      "name": "West Virginia Red",
+      "url": "https://open.spotify.com/track/5EbhjtNrZziHm68m1x0QxX"
     },
     {
       "added_at": "2025-01-10 05:00:19",

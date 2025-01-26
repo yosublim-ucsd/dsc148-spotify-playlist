@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. tarchi",
-  "num_followers": 215632,
+  "num_followers": 215635,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 90270,
+      "name": "TUSSI",
+      "url": "https://open.spotify.com/track/1FnRPUdDsgLKX5ZRoZoTJV"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
         "name": "Casado Con el Trap",
         "url": "https://open.spotify.com/album/6GNXsCo7R9iT3Ni8o6DmND"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 181395,
       "name": "Casado Con el Trap",
       "url": "https://open.spotify.com/track/6fSDP66qTYZhpksJc74MS0"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 90270,
-      "name": "TUSSI",
-      "url": "https://open.spotify.com/track/1FnRPUdDsgLKX5ZRoZoTJV"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "Un \u00c1ngel",
-        "url": "https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl"
-      },
-      "artists": [
-        {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
-        }
-      ],
-      "duration_ms": 174692,
-      "name": "Un \u00c1ngel",
-      "url": "https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
         "name": "0444",
         "url": "https://open.spotify.com/album/7GByXWVuaIqsG7tJRHrFsV"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 144178,
       "name": "SANTIAGO",
       "url": "https://open.spotify.com/track/0jqLjjIXxqGfEUlqeGG9oI"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
+        "name": "Un \u00c1ngel",
+        "url": "https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "duration_ms": 174692,
+      "name": "Un \u00c1ngel",
+      "url": "https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -947,18 +947,22 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "BUEN\u00cdSIMO",
-        "url": "https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB"
+        "name": "MET\u00c1LICA",
+        "url": "https://open.spotify.com/album/38HfIhRHHwmmnVAA37WL8W"
       },
       "artists": [
         {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+          "name": "Korashe",
+          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
+        },
+        {
+          "name": "Kf\u00e9",
+          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
         }
       ],
-      "duration_ms": 150175,
-      "name": "BUEN\u00cdSIMO",
-      "url": "https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v"
+      "duration_ms": 126030,
+      "name": "MET\u00c1LICA",
+      "url": "https://open.spotify.com/track/7kcYzcqJddmGW2UxSgKnFa"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -983,22 +987,18 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "MET\u00c1LICA",
-        "url": "https://open.spotify.com/album/38HfIhRHHwmmnVAA37WL8W"
+        "name": "BUEN\u00cdSIMO",
+        "url": "https://open.spotify.com/album/0XIYy5jFMuJQxmXW1IfXuB"
       },
       "artists": [
         {
-          "name": "Korashe",
-          "url": "https://open.spotify.com/artist/0HFSv9JWkZcY2K4yLGNaHS"
-        },
-        {
-          "name": "Kf\u00e9",
-          "url": "https://open.spotify.com/artist/21Oja0BVOrXu4kGqK8MfDF"
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
         }
       ],
-      "duration_ms": 126030,
-      "name": "MET\u00c1LICA",
-      "url": "https://open.spotify.com/track/7kcYzcqJddmGW2UxSgKnFa"
+      "duration_ms": 150175,
+      "name": "BUEN\u00cdSIMO",
+      "url": "https://open.spotify.com/track/59xjZqO3csgt24ZrpwGk9v"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "DESNUDO X DAIGUAL",
-        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "DESNUDO",
-      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
         "name": "Cocky!",
         "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 163636,
       "name": "Cocky!",
       "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
+        "name": "DESNUDO X DAIGUAL",
+        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
+      },
+      "artists": [
+        {
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "DESNUDO",
+      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
+        "name": "QUE ME MATO",
+        "url": "https://open.spotify.com/album/7EDNw1daaBgqnJji0ricXo"
+      },
+      "artists": [
+        {
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
+        }
+      ],
+      "duration_ms": 131573,
+      "name": "QUE ME MATO",
+      "url": "https://open.spotify.com/track/0DoUT6q8Fn4IisjHlUndCU"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
         "name": "Indoor",
         "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 136634,
       "name": "Indoor",
       "url": "https://open.spotify.com/track/5FPFJQQVNeSm5IQroCSdgj"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
-        "name": "QUE ME MATO",
-        "url": "https://open.spotify.com/album/7EDNw1daaBgqnJji0ricXo"
-      },
-      "artists": [
-        {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
-        }
-      ],
-      "duration_ms": 131573,
-      "name": "QUE ME MATO",
-      "url": "https://open.spotify.com/track/0DoUT6q8Fn4IisjHlUndCU"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "FOREVER YOUNG",
-        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
-      },
-      "artists": [
-        {
-          "name": "Mejiias",
-          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
-        }
-      ],
-      "duration_ms": 235384,
-      "name": "Im Forever",
-      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
         "name": "CUTE",
         "url": "https://open.spotify.com/album/0BF7WXthRwQS2Z3ZY0dm71"
       },
@@ -1479,6 +1463,58 @@
       "duration_ms": 123824,
       "name": "CUTE",
       "url": "https://open.spotify.com/track/0fUJ44OtRfKgiNQFdwE87o"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
+        "name": "Te Hice una Cancion! (Remix)",
+        "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
+      },
+      "artists": [
+        {
+          "name": "ANGELSWING",
+          "url": "https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI"
+        },
+        {
+          "name": "Nico Salas",
+          "url": "https://open.spotify.com/artist/4JoeqMyMO3SFmxwYk3Iclr"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Te Hice una Cancion! - Remix",
+      "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
+        "name": "FOREVER YOUNG",
+        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
+      },
+      "artists": [
+        {
+          "name": "Mejiias",
+          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
+        }
+      ],
+      "duration_ms": 235384,
+      "name": "Im Forever",
+      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
+        "name": "AERIAL DISPLAY",
+        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
+      },
+      "artists": [
+        {
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
+        }
+      ],
+      "duration_ms": 106071,
+      "name": "GALGO",
+      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1507,26 +1543,6 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "Te Hice una Cancion! (Remix)",
-        "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
-      },
-      "artists": [
-        {
-          "name": "ANGELSWING",
-          "url": "https://open.spotify.com/artist/4l93phc6zqgSBB18O4LqsI"
-        },
-        {
-          "name": "Nico Salas",
-          "url": "https://open.spotify.com/artist/4JoeqMyMO3SFmxwYk3Iclr"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Te Hice una Cancion! - Remix",
-      "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
         "name": "SUBNORMAL",
         "url": "https://open.spotify.com/album/32BxYjsA1o993gZwfgjvXB"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 114549,
       "name": "SUBNORMAL",
       "url": "https://open.spotify.com/track/0szN2n5YPM6r7SfTDuvT7E"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
-        "name": "AERIAL DISPLAY",
-        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
-      },
-      "artists": [
-        {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
-        }
-      ],
-      "duration_ms": 106071,
-      "name": "GALGO",
-      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "Vivir De M\u00e1s",
-        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
-      },
-      "artists": [
-        {
-          "name": "Mydros",
-          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
-        },
-        {
-          "name": "G3D3R",
-          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Vivir De M\u00e1s",
-      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
         "name": "I`m Done",
         "url": "https://open.spotify.com/album/5Q7MUJMJ7rtO0SH6p4rZYm"
       },
@@ -1703,6 +1683,42 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
+        "name": "Vivir De M\u00e1s",
+        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
+      },
+      "artists": [
+        {
+          "name": "Mydros",
+          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
+        },
+        {
+          "name": "G3D3R",
+          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Vivir De M\u00e1s",
+      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
+        "name": "Trapboi",
+        "url": "https://open.spotify.com/album/5OrtZMQ3bMfybH4VxsxFfI"
+      },
+      "artists": [
+        {
+          "name": "Akafre$h",
+          "url": "https://open.spotify.com/artist/411qKyHGD5CZakuDDVOwfj"
+        }
+      ],
+      "duration_ms": 143534,
+      "name": "Trapboi",
+      "url": "https://open.spotify.com/track/0MLLCp68Wz4IhFPSy4eAZd"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
         "name": "Perra Alfa (Neukrapsio Remix)",
         "url": "https://open.spotify.com/album/3BhYJxBc3dW7OJz4IcRqvt"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 216714,
       "name": "Internet",
       "url": "https://open.spotify.com/track/3mIffUSaxSQy7EpITwl1N5"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
-        "name": "Trapboi",
-        "url": "https://open.spotify.com/album/5OrtZMQ3bMfybH4VxsxFfI"
-      },
-      "artists": [
-        {
-          "name": "Akafre$h",
-          "url": "https://open.spotify.com/artist/411qKyHGD5CZakuDDVOwfj"
-        }
-      ],
-      "duration_ms": 143534,
-      "name": "Trapboi",
-      "url": "https://open.spotify.com/track/0MLLCp68Wz4IhFPSy4eAZd"
     },
     {
       "added_at": "2025-01-03 09:05:27",

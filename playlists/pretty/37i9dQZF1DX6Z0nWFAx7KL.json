@@ -1,6 +1,6 @@
 {
   "description": "easy breezy dance music",
-  "num_followers": 168267,
+  "num_followers": 168286,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
-        "name": "Waiting All My Life",
-        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Waiting All My Life",
-      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 127868,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -207,6 +207,30 @@
       "duration_ms": 152000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -283,26 +307,6 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
-        "name": "As It Was (Chill Edit)",
-        "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
-      },
-      "artists": [
-        {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
-        },
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "As It Was - Chill Edit",
-      "url": "https://open.spotify.com/track/6S9wjjJhcaWR7urRwNFDUZ"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/37h56UTs220Dk38R36Au2h"
       },
@@ -327,22 +331,22 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
-        "name": "I Blame You",
-        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
+        "name": "As It Was (Chill Edit)",
+        "url": "https://open.spotify.com/album/4xxolV9UD43C5JcWhEAbOT"
       },
       "artists": [
         {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
         },
         {
-          "name": "Felix Samuel",
-          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 132927,
-      "name": "I Blame You",
-      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
+      "duration_ms": 134693,
+      "name": "As It Was - Chill Edit",
+      "url": "https://open.spotify.com/track/6S9wjjJhcaWR7urRwNFDUZ"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -359,6 +363,26 @@
       "duration_ms": 124000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
+        "name": "I Blame You",
+        "url": "https://open.spotify.com/album/4Q2eP4hBqp1UU9SB3QP6Lb"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "I Blame You",
+      "url": "https://open.spotify.com/track/3Ih900m7RZMpJIJZnll0m6"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -419,6 +443,22 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        }
+      ],
+      "duration_ms": 189193,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
         "name": "Wicked Games",
         "url": "https://open.spotify.com/album/3ZPcDsOHqgiq5DPDgDDyIw"
       },
@@ -435,22 +475,6 @@
       "duration_ms": 159047,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/0oriUexHwmSx7J5IJaXHDk"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43"
-      },
-      "artists": [
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        }
-      ],
-      "duration_ms": 189193,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -615,22 +639,6 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
-      },
-      "artists": [
-        {
-          "name": "Krister & Dalbani",
-          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "I Can See",
-      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
         "name": "Reconnect",
         "url": "https://open.spotify.com/album/4WDjEs3iuJ579yROdFXqpG"
       },
@@ -643,22 +651,6 @@
       "duration_ms": 193377,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/1ERIJRdzYgFSkdUvCiVu75"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -687,6 +679,38 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/3pFp7hOb2KjAPgVb4ZAARk"
+      },
+      "artists": [
+        {
+          "name": "Krister & Dalbani",
+          "url": "https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "I Can See",
+      "url": "https://open.spotify.com/track/5kN62URVImEmUvFKui2lh8"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0hPymjd6bx5kr8UQkRNAQZ"
       },
@@ -707,26 +731,6 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp"
-      },
-      "artists": [
-        {
-          "name": "Addy Ace",
-          "url": "https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63"
-        },
-        {
-          "name": "LAT.59",
-          "url": "https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs"
-        }
-      ],
-      "duration_ms": 177212,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
@@ -743,6 +747,26 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp"
+      },
+      "artists": [
+        {
+          "name": "Addy Ace",
+          "url": "https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63"
+        },
+        {
+          "name": "LAT.59",
+          "url": "https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs"
+        }
+      ],
+      "duration_ms": 177212,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -771,6 +795,22 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
+        "name": "Safe and Sound",
+        "url": "https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 214434,
+      "name": "Safe and Sound",
+      "url": "https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7"
       },
@@ -787,22 +827,6 @@
       "duration_ms": 162782,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
-        "name": "Safe and Sound",
-        "url": "https://open.spotify.com/album/0W8pgf0TWJ60iL3SKfL2Iq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 214434,
-      "name": "Safe and Sound",
-      "url": "https://open.spotify.com/track/5J9V8D72Oj6Mp8aHUhMFqq"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -907,6 +931,22 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 229687,
+      "name": "Nomads",
+      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
         "name": "Morning Glory",
         "url": "https://open.spotify.com/album/1mUAhoAG05i5MK5ZFFcVUR"
       },
@@ -923,22 +963,6 @@
       "duration_ms": 269679,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/2sqbxX6StkXMdSolVicfgV"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
-        "name": "Nomads",
-        "url": "https://open.spotify.com/album/3NqtjFIb6RXo6n2PpenZzI"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "Nomads",
-      "url": "https://open.spotify.com/track/6c9TNuh4t6NdtaG4tDV3RI"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -1023,6 +1047,22 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
+        "name": "Blood & Bones",
+        "url": "https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW"
+      },
+      "artists": [
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "Blood & Bones",
+      "url": "https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua"
+    },
+    {
+      "added_at": "2025-01-23 23:00:25",
+      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/7f6rguPHcD1bVXFT7snazF"
       },
@@ -1059,22 +1099,6 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi"
-      },
-      "artists": [
-        {
-          "name": "Safe Wave",
-          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/4WDCOq2xgH3LLzW3tjNudJ"
       },
@@ -1095,18 +1119,18 @@
     {
       "added_at": "2025-01-23 23:00:25",
       "album": {
-        "name": "Blood & Bones",
-        "url": "https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW"
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi"
       },
       "artists": [
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "Safe Wave",
+          "url": "https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6"
         }
       ],
-      "duration_ms": 192857,
-      "name": "Blood & Bones",
-      "url": "https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua"
+      "duration_ms": 122000,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj"
     },
     {
       "added_at": "2025-01-23 23:00:25",
@@ -1179,22 +1203,6 @@
       "duration_ms": 232991,
       "name": "Everything Changes But Us",
       "url": "https://open.spotify.com/track/1ASSOK89dWkRbMNIbNgIT8"
-    },
-    {
-      "added_at": "2025-01-23 23:00:25",
-      "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Lintz",
-          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
-        }
-      ],
-      "duration_ms": 147839,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o"
     }
   ],
   "unique_name": "Chill Dance",

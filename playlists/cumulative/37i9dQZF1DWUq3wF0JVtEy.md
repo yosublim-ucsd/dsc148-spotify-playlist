@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-499 songs - 1 day 0 hr 20 min
+500 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bad Bassline](https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH), [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF) | [Bad Bassline](https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH) | 3:11 | 2023-12-29 | 2024-03-02 |
 | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/track/2GvYPnGRiF9MdJSSeS30tY) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [Bad Bees \(feat\. Harrison First\)](https://open.spotify.com/album/5dVTLuCWaBvkTR6taXAZAn) | 2:59 | 2021-10-29 | 2022-08-06 |
 | [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-07-29 | 2024-11-09 |
-| [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 |  |
+| [Ballin'](https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU) | [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Make Trouble](https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT) | 3:30 | 2022-12-02 | 2025-01-26 |
 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 | 2022-07-22 | 2024-11-09 |
 | [BANG BANG POW!](https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [BANG BANG POW!](https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO) | 2:13 | 2024-11-22 |  |
 | [Banga](https://open.spotify.com/track/0Lg4xPkkZ3k7PP8kZhqyHV) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Banga](https://open.spotify.com/album/3HGGWYXPmiZ7d3qMbCi3ZD) | 2:21 | 2022-09-16 | 2023-02-26 |
@@ -456,6 +456,7 @@
 | [The One](https://open.spotify.com/track/5Kf986lCmcLAlVAennL74R) | [DEVOWR.](https://open.spotify.com/artist/1u8a7qizQpZ7avZWbltl7X), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [The One](https://open.spotify.com/album/0vLmi3I6py7HTOIIom2yqO) | 3:35 | 2023-01-13 | 2023-03-10 |
 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 | 2024-08-30 |  |
 | [The Sound](https://open.spotify.com/track/29mfJk6aT99UhjzIidSLow) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [NORII](https://open.spotify.com/artist/4I1nNVymsW8VCQpkkAiqn1) | [4x4 BANGERS](https://open.spotify.com/album/4bDFHemYynP6J0w7lVdtSD) | 2:42 | 2024-05-10 | 2024-11-09 |
+| [The Sound](https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Panorama](https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM) | 3:51 | 2025-01-24 |  |
 | [The Underground](https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [The Underground](https://open.spotify.com/album/75d0vSPEzmVLSECS9AOXUO) | 2:35 | 2022-07-22 | 2022-08-22 |
 | [The Way We Touch](https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [The Way We Touch](https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1) | 2:42 | 2023-05-26 | 2023-11-11 |
 | [They Not Us](https://open.spotify.com/track/7lmyru1csct3dKD6KD8cpa) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [They Not Us](https://open.spotify.com/album/1jaBnYJ6vkb8iNIPNjetTu) | 3:24 | 2024-02-02 | 2024-02-24 |

@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Abstract",
+        "url": "https://open.spotify.com/album/73uPnG2AmmlDyhhiU6MNg8"
+      },
+      "artists": [
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359000,
+      "name": "Abstract",
+      "url": "https://open.spotify.com/track/0ugKbT5NQmCtjP7hYPgge7"
+    },
+    {
+      "album": {
         "name": "Yililok",
         "url": "https://open.spotify.com/album/2027Y8ME8k6rTtXdbIUgj9"
       },
@@ -2372,6 +2390,24 @@
       "duration_ms": 351379,
       "name": "Crescent",
       "url": "https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T"
+    },
+    {
+      "album": {
+        "name": "Neptuno - Hypnotic Frequencies Vol. 1",
+        "url": "https://open.spotify.com/album/2sMtWzkAFoWsD6ZKhxmiVo"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246166,
+      "name": "Crystal Waters",
+      "url": "https://open.spotify.com/track/2k7QrAxW8U6YwZHKmivWiZ"
     },
     {
       "album": {
@@ -4380,6 +4416,24 @@
       "duration_ms": 203255,
       "name": "Full Panther",
       "url": "https://open.spotify.com/track/7q4kf5pGKXWT3HShalid99"
+    },
+    {
+      "album": {
+        "name": "Neptuno - Hypnotic Frequencies Vol. 1",
+        "url": "https://open.spotify.com/album/2sMtWzkAFoWsD6ZKhxmiVo"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "Galaxias Marinas",
+      "url": "https://open.spotify.com/track/0PpQpnhNATKzPlOnjklGb1"
     },
     {
       "album": {
@@ -7084,7 +7138,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 474666,
       "name": "Nothing but Endless Rejections",
       "url": "https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp"
@@ -7610,7 +7664,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 515274,
       "name": "Parlama",
       "url": "https://open.spotify.com/track/3xIQr3xDTB1OayWyjyufec"
@@ -10142,7 +10196,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 414428,
       "name": "The Fireflies of Manhattan",
       "url": "https://open.spotify.com/track/036NC5OJuceMf9KmClMB5r"

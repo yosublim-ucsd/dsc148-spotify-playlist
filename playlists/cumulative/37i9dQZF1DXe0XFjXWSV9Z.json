@@ -2607,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "Para Poderte Olvidar",
+        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
+      },
+      "artists": [
+        {
+          "name": "Qiensave",
+          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240823,
+      "name": "Para Poderte Olvidar",
+      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
+    },
+    {
+      "album": {
         "name": "Para todo mal",
         "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
       },
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 237080,
       "name": "Sonaja y Tambor",
       "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"

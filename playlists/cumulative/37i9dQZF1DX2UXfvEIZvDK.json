@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
+    },
+    {
+      "album": {
         "name": "The Day's War (Victory Edition)",
         "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 277626,
       "name": "Blackbird",
       "url": "https://open.spotify.com/track/0HDxGCvYCJCan8mRsLl9dL"
@@ -2731,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Three Six Five / Dance, Kid, Dance",
+        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220190,
+      "name": "Three Six Five",
+      "url": "https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf"
+    },
+    {
+      "album": {
         "name": "Three Wishes",
         "url": "https://open.spotify.com/album/5g22FRt9pDnxxGVd4KXLdi"
       },
@@ -2958,7 +2994,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 265973,
       "name": "When Bad Does Good",
       "url": "https://open.spotify.com/track/00SzIFHBVTpRonBTHnHuok"

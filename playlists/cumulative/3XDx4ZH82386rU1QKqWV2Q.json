@@ -1297,6 +1297,28 @@
     },
     {
       "album": {
+        "name": "bloody mary.",
+        "url": "https://open.spotify.com/album/7zWODHdbtzuCE2V56fD9vL"
+      },
+      "artists": [
+        {
+          "name": "sepulcher.",
+          "url": "https://open.spotify.com/artist/0ORxJY41Q29QB1poLCgUzC"
+        },
+        {
+          "name": "GOLDKID$",
+          "url": "https://open.spotify.com/artist/6PEnjhcHrk3FoMtUSHc3Jz"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179330,
+      "name": "bloody mary.",
+      "url": "https://open.spotify.com/track/292SwjAyPZJanqTURvjQvh"
+    },
+    {
+      "album": {
         "name": "Blossom",
         "url": "https://open.spotify.com/album/3hN5XGp29DzHdFD06VJSOa"
       },
@@ -4303,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/6MOD2yR1W1lkPjQeNNSdeI"
+      },
+      "artists": [
+        {
+          "name": "RYKR",
+          "url": "https://open.spotify.com/artist/6HY7tSOFayF9DIKI2zGpp3"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/0Jp2vBh2Nwc92Ahw33TACL"
+    },
+    {
+      "album": {
         "name": "East Haiti Baby: Incarcerated",
         "url": "https://open.spotify.com/album/5EpaneSYdbxG0Oe9kMq6TJ"
       },
@@ -5337,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "VIOLATE",
+        "url": "https://open.spotify.com/album/5xw5CMOetHxOffA9AYp3gP"
+      },
+      "artists": [
+        {
+          "name": "GXNE BOI",
+          "url": "https://open.spotify.com/artist/68rUHktXNFPpmsdh98K3cd"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182710,
+      "name": "HIGHER PATH",
+      "url": "https://open.spotify.com/track/1BwIuSuc0VBoc4HkMLrp66"
+    },
+    {
+      "album": {
         "name": "Highway (drop a gear and disappear)",
         "url": "https://open.spotify.com/album/6SRNFTqjKBYsUVIii6unBU"
       },
@@ -6174,7 +6232,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 86506,
       "name": "It's okay to feel down",
       "url": "https://open.spotify.com/track/54yMNA6TlsBlSkhXYB2AUi"
@@ -7566,7 +7624,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"
@@ -11237,6 +11295,24 @@
     },
     {
       "album": {
+        "name": "Spider Web",
+        "url": "https://open.spotify.com/album/1vDSZv5s8ViCDXa9yZcN3c"
+      },
+      "artists": [
+        {
+          "name": "ANXIO",
+          "url": "https://open.spotify.com/artist/43YOetRAZ1GpgpGOmMSU7i"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173394,
+      "name": "Spider Web",
+      "url": "https://open.spotify.com/track/5L6ldEjbQBGKmtGAl6HidC"
+    },
+    {
+      "album": {
         "name": "Spiderman Theme Phonk",
         "url": "https://open.spotify.com/album/0LQQ5MeeVYHkhdE1R9Qsfc"
       },
@@ -11442,7 +11518,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 78019,
       "name": "STORM DE BRAZIL",
       "url": "https://open.spotify.com/track/197TWE9WajnAEGBMYnYf3R"
@@ -12976,7 +13052,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 84923,
       "name": "What's Happenin",
       "url": "https://open.spotify.com/track/5BErg78nw8lqlCqTQsXzBh"

@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 32 | [Cruel Intentions](https://open.spotify.com/track/5xpXXWREfd9x4juWhq280j) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/7Jo6Rt658T10xMMMA4Rbb5) | 3:50 |
 | 33 | [Natural](https://open.spotify.com/track/3uwMHGr9MrULAHApB7ZeAS) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 4:18 |
 | 34 | [Lie & Cheat \(feat\. Lauren Faith\)](https://open.spotify.com/track/79ty6gcstFS0M4mDKE1TT7) | [Pearl](https://open.spotify.com/artist/3G9uo23A4EPp4O1oUbaJGU), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Open](https://open.spotify.com/album/5I3UFCOe6thdof12k7AEU7) | 2:46 |
-| 35 | [LET GO LET GOOO](https://open.spotify.com/track/7idRGEhuNircZRdZgHJ8a3) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [LET GO LET GOOO](https://open.spotify.com/album/0xkLo9Ix2uQNHMJUiWaLFJ) | 2:04 |
-| 36 | [Coco Rouge](https://open.spotify.com/track/0b8icUet8OcAzKRWZcUrKI) | [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt) | [Coco Rouge](https://open.spotify.com/album/5Uutgw648tiAnyBVGaP07t) | 3:27 |
+| 35 | [Coco Rouge](https://open.spotify.com/track/0b8icUet8OcAzKRWZcUrKI) | [Erin Bloomer](https://open.spotify.com/artist/5vPqlDBYNZiF5SrHGS6Cyt) | [Coco Rouge](https://open.spotify.com/album/5Uutgw648tiAnyBVGaP07t) | 3:27 |
+| 36 | [LET GO LET GOOO](https://open.spotify.com/track/7idRGEhuNircZRdZgHJ8a3) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [LET GO LET GOOO](https://open.spotify.com/album/0xkLo9Ix2uQNHMJUiWaLFJ) | 2:04 |
 | 37 | [Blue Monday](https://open.spotify.com/track/1LX9LajHeOsAoWyoqnNdmT) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:13 |
 | 38 | [Another Bad Day](https://open.spotify.com/track/0tfsddygJQJiwHN28Rt1RL) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [No Path To Follow](https://open.spotify.com/album/7nbRIhyK8tjyBrNutjQ1EZ) | 3:49 |
 | 39 | [BEHIND HER EYES](https://open.spotify.com/track/0oLTMWHAK6LNqvrtgnw0Nw) | [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd), [Iskra Strings](https://open.spotify.com/artist/3y05eQyusaM1cfQTKuCzPK) | [BEHIND HER EYES / MISSING IN ACTION](https://open.spotify.com/album/6EHi6cp5n07JpU0jSMX1QI) | 4:26 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEr4IfnBNnly.md) - [plain]
 | 46 | [Reason in You](https://open.spotify.com/track/3qR86AzbWJLO6dZcsgBsXE) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 3:32 |
 | 47 | [Sorry Not Sorry](https://open.spotify.com/track/6sYDCx3rQZsadayyAuh8U8) | [Molly Elizabeth](https://open.spotify.com/artist/3g0ZkVtrQWot5YhGZr3hSt) | [Cruel Intentions](https://open.spotify.com/album/6AWSAFGksTbUeRaKhSUYLE) | 2:55 |
 
-Snapshot ID: `AbnwNgAAAADbHWs82Qi0E6fkBONfiIuo`
+Snapshot ID: `Abn1zAAAAACHcCmuV5LZql1OKqXvQ0Qa`

@@ -11,8 +11,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIC: The Ithaca Saga (Official Concept Album)",
-        "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
+        "name": "EPIC: The Circe Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/5a3uE0AyEWhLumIHo9WkWN"
       },
       "artists": [
         {
@@ -20,17 +20,485 @@
           "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
         },
         {
-          "name": "Ayron Alexander",
-          "url": "https://open.spotify.com/artist/69ZOltPRsF5iPkicJQMRZ9"
+          "name": "TROY",
+          "url": "https://open.spotify.com/artist/72rBhryT48xN1YJ1ygEWrj"
         },
         {
           "name": "Cast of EPIC: The Musical",
           "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
         }
       ],
-      "duration_ms": 183857,
-      "name": "Hold Them Down",
-      "url": "https://open.spotify.com/track/3lIgiul24q1uwE8l928s0w"
+      "duration_ms": 174040,
+      "name": "Wouldn't You Like",
+      "url": "https://open.spotify.com/track/1P6qJ2YZjVlsxO8JMiYUqw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Edda Hayes",
+          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Da Vinci Code",
+        "url": "https://open.spotify.com/album/4GuLx38y1727p45spIvslr"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Richard Harvey",
+          "url": "https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/64q5EfFKR9hYJ1FHqSClxe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6X0qkUUcolJDrRN3i3CAlT"
+      },
+      "artists": [
+        {
+          "name": "Richard Armitage",
+          "url": "https://open.spotify.com/artist/6DQsmplq17UDA3zmiybbSb"
+        },
+        {
+          "name": "The Dwarf Cast",
+          "url": "https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5"
+        }
+      ],
+      "duration_ms": 103024,
+      "name": "Misty Mountains",
+      "url": "https://open.spotify.com/track/3AAwJ043uT1wXSKDtGyuxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Assassin's Creed 2 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ"
+      },
+      "artists": [
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        },
+        {
+          "name": "Assassin's Creed",
+          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
+        }
+      ],
+      "duration_ms": 237900,
+      "name": "Ezio's Family",
+      "url": "https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 106280,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chronicles",
+        "url": "https://open.spotify.com/album/156CHY4RlBD8iY2TLG9Jg8"
+      },
+      "artists": [
+        {
+          "name": "Audiomachine",
+          "url": "https://open.spotify.com/artist/5F4ObszoeVebqtc0B3XqJa"
+        }
+      ],
+      "duration_ms": 108202,
+      "name": "Breath and Life",
+      "url": "https://open.spotify.com/track/7M5oMvA6sRi0FUI8biycDI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X-MEN: FIRST CLASS",
+        "url": "https://open.spotify.com/album/14jwLvbmFd60gtCScp5pcc"
+      },
+      "artists": [
+        {
+          "name": "Henry Jackman",
+          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/5IWmdl33NNTLsKlLT6WSlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 170844,
+      "name": "Norman",
+      "url": "https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corner Stone Cues Presents: Requiem For A Tower Two Towers Trailer Mix Remastered",
+        "url": "https://open.spotify.com/album/7e8zhc293CNfP27eFQxRXg"
+      },
+      "artists": [
+        {
+          "name": "Corner Stone Cues",
+          "url": "https://open.spotify.com/artist/0kNyq4Q2UEmIeuySw9myZc"
+        }
+      ],
+      "duration_ms": 88358,
+      "name": "Requiem For A Tower Two Towers Trailer Mix Remastered",
+      "url": "https://open.spotify.com/track/443YcuP1D3FIlHU73x7QEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Battlecry",
+        "url": "https://open.spotify.com/album/4dY3HRIWAl7aisBkt1DZAq"
+      },
+      "artists": [
+        {
+          "name": "Two Steps from Hell",
+          "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+        },
+        {
+          "name": "Thomas Bergersen",
+          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/0mL7jKqLliIYtbEOyBlIhJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPIC: The Underworld Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/1JjlC7lq1Oq8KCFybHRnIH"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Mason Olshavsky",
+          "url": "https://open.spotify.com/artist/7ixHDobaqDCeHMI5M6mPlD"
+        }
+      ],
+      "duration_ms": 167700,
+      "name": "No Longer You",
+      "url": "https://open.spotify.com/track/7Gxf7hWyHaQjCTXtqOkNNV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Island (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KRdwpsJJjZXq5spIpVXse"
+      },
+      "artists": [
+        {
+          "name": "Steve Jablonsky",
+          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "My Name Is Lincoln",
+      "url": "https://open.spotify.com/track/24V9V4erGgsbLeSa7tlimK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 199422,
+      "name": "Day One (Interstellar Theme)",
+      "url": "https://open.spotify.com/track/4WmB04GBqS4xPMYN9dHgBw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Avengers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "duration_ms": 123360,
+      "name": "The Avengers",
+      "url": "https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Other Worlds",
+        "url": "https://open.spotify.com/album/2Ca7uRqRNZ9TcT2dUZOrAK"
+      },
+      "artists": [
+        {
+          "name": "Really Slow Motion",
+          "url": "https://open.spotify.com/artist/4dDb2XLONSNrTrucRcoaYM"
+        },
+        {
+          "name": "Instrumental Core",
+          "url": "https://open.spotify.com/artist/0aVtz2xOAWpDgiTS6k2rDN"
+        }
+      ],
+      "duration_ms": 277096,
+      "name": "Other Worlds",
+      "url": "https://open.spotify.com/track/33YVzy4bZQCFrTK176It75"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Makara",
+        "url": "https://open.spotify.com/album/4GhLLFl0mKnTg7jNGTEdMQ"
+      },
+      "artists": [
+        {
+          "name": "E.S. Posthumus",
+          "url": "https://open.spotify.com/artist/1CqW2UkLsaZvByLwkOaNsH"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1j9hygHMlSWI9PlopV0uqI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/0CNTA1D3BQGQMkz38po4IC"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Edda Hayes",
+          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
+        }
+      ],
+      "duration_ms": 221757,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/1K3IP0FbU1KIpRf5fkXzT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Theme From Jurassic Park",
+      "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "God of War",
+      "url": "https://open.spotify.com/track/6ZMwwuUOx8kefl32gWOjtY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0sUanZDqtmj4XJnSSZIwHI"
+      },
+      "artists": [
+        {
+          "name": "Hi-Finesse",
+          "url": "https://open.spotify.com/artist/4uOcci6rBym8EVu1RH7XQ5"
+        }
+      ],
+      "duration_ms": 167522,
+      "name": "Dystopia (Original Soundtrack)",
+      "url": "https://open.spotify.com/track/7qjUe6dPi2dVhkPH5eGIgR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hero Will Rise",
+        "url": "https://open.spotify.com/album/58JfJkwlVYJt6aa9ZQ8gsg"
+      },
+      "artists": [
+        {
+          "name": "Future World Music",
+          "url": "https://open.spotify.com/artist/6gmhrHojnyp0SfG4WwJgIE"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "A Hero Will Rise",
+      "url": "https://open.spotify.com/track/2NZbORV6d78HWPipW1lzoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPIC: The Thunder Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/0DsMhU0ERzMt6xvtGpgXvW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "KJ Burkhauser",
+          "url": "https://open.spotify.com/artist/2n9fh4G23BOrldW1f9IhnO"
+        },
+        {
+          "name": "Armando Juli\u00e1n",
+          "url": "https://open.spotify.com/artist/6bVYQ4OCT9GIoQF5W6mVTj"
+        },
+        {
+          "name": "Cast of EPIC: The Musical",
+          "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Scylla",
+      "url": "https://open.spotify.com/track/6yS62Dxd5Wgk77EsFqEj0y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/41HhZHLQrJ7Rs1ygcu7jYY"
+      },
+      "artists": [
+        {
+          "name": "Two Steps from Hell",
+          "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+        },
+        {
+          "name": "Thomas Bergersen",
+          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+        }
+      ],
+      "duration_ms": 256558,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/1KJ1Ptfro1xv1o4QLoXq7m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inception (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 275556,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Transformers: The Score",
+        "url": "https://open.spotify.com/album/2bTtOvLX0HONkxoQx3ir7U"
+      },
+      "artists": [
+        {
+          "name": "Steve Jablonsky",
+          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "The All Spark",
+      "url": "https://open.spotify.com/track/4tg3hSmrBwoul3VpjS66VU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragon Age Inquisition (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/61WUabRxjIa2wkJ2npnaex"
+      },
+      "artists": [
+        {
+          "name": "Trevor Morris",
+          "url": "https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "Dragon Age Inquisition Theme",
+      "url": "https://open.spotify.com/track/0ZxF4MFrFmi4agsWGQKKrn"
     },
     {
       "added_at": null,
@@ -51,18 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journey Beyond The Sky - ES028",
-        "url": "https://open.spotify.com/album/23FWluRqn2J7J4mtQ8dMvc"
+        "name": "Raising the Damned",
+        "url": "https://open.spotify.com/album/4H6C7qDg6hhYhBxGkK5a89"
       },
       "artists": [
         {
-          "name": "Epic Score",
-          "url": "https://open.spotify.com/artist/4Kyb02r7dR3H1PH7pYkb8X"
+          "name": "Damned Anthem",
+          "url": "https://open.spotify.com/artist/3C0PKxcP1f25siYFYiyHa1"
         }
       ],
-      "duration_ms": 133017,
-      "name": "Ride to Glory",
-      "url": "https://open.spotify.com/track/03eqdlquKzJQg9LYngD6HO"
+      "duration_ms": 147473,
+      "name": "Raising the Damned",
+      "url": "https://open.spotify.com/track/4JGZESz2Zs9PDrxbZlRJl9"
     },
     {
       "added_at": null,
@@ -95,120 +563,60 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magnus",
-        "url": "https://open.spotify.com/album/0zhNgr494NOICp1vxAetCA"
+        "name": "Requiem for a Dream / OST",
+        "url": "https://open.spotify.com/album/7Jkv05qDgXZynnNaYcxY5W"
       },
       "artists": [
         {
-          "name": "Audiomachine",
-          "url": "https://open.spotify.com/artist/5F4ObszoeVebqtc0B3XqJa"
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
         }
       ],
-      "duration_ms": 231520,
-      "name": "Wars of Faith",
-      "url": "https://open.spotify.com/track/1eDRJATQfg5l2246fbqX0V"
+      "duration_ms": 234400,
+      "name": "Lux Aeterna",
+      "url": "https://open.spotify.com/track/62Da3JOu9H9EIgmqV7DoLG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Escape Velocity",
-        "url": "https://open.spotify.com/album/2f6BBKOQp94GX0FXLVOiFF"
+        "name": "1492: Conquest of Paradise",
+        "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
       },
       "artists": [
         {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 166536,
-      "name": "Gangsta's Paradise",
-      "url": "https://open.spotify.com/track/3UGPYGZAgNUDdIb0SkJKGE"
+      "duration_ms": 278199,
+      "name": "Conquest of Paradise",
+      "url": "https://open.spotify.com/track/5avVpUakfMHD6qGpaH26CF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Avengers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf"
+        "name": "Star Wars: Reimagined (From The \"Star Wars\" Original Motion Picture Soundtracks)",
+        "url": "https://open.spotify.com/album/1vmBNaK7XlLOjJ6nK9OIlc"
       },
       "artists": [
         {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+          "name": "Daniel Ciurlizza",
+          "url": "https://open.spotify.com/artist/5kFXOx8ONHOsWhXc2uOfuq"
         }
       ],
-      "duration_ms": 123360,
-      "name": "The Avengers",
-      "url": "https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR"
+      "duration_ms": 65045,
+      "name": "Binary Sunset (Reimagined) [From Star Wars Episode IV: A New Hope]",
+      "url": "https://open.spotify.com/track/2mSdskb5Y4IwKApju4eItI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pirates Of The Caribbean: At World's End Original Soundtrack",
-        "url": "https://open.spotify.com/album/6JoI0NEAqeJ20X6lU3Drx0"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Drink Up Me Hearties Yo Ho",
-      "url": "https://open.spotify.com/track/0HewdQ1l9bckQXPfIO3CYH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epicon (UK Version)",
-        "url": "https://open.spotify.com/album/0w2LuWGjibzy5hkKL3C2eu"
-      },
-      "artists": [
-        {
-          "name": "Globus",
-          "url": "https://open.spotify.com/artist/2SrDoQLTZqsVi8Vg1UdHao"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "Preliator",
-      "url": "https://open.spotify.com/track/6qEikx8igvtqWCYELJwugM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Transformers: The Score",
-        "url": "https://open.spotify.com/album/2bTtOvLX0HONkxoQx3ir7U"
-      },
-      "artists": [
-        {
-          "name": "Steve Jablonsky",
-          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "The All Spark",
-      "url": "https://open.spotify.com/track/4tg3hSmrBwoul3VpjS66VU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Triumph",
-        "url": "https://open.spotify.com/album/1lwshKS0TpFCYok5FvnoVw"
-      },
-      "artists": [
-        {
-          "name": "Trailerhead",
-          "url": "https://open.spotify.com/artist/0LGXGjnPkLPQRrsMW1y6h3"
-        }
-      ],
-      "duration_ms": 257546,
-      "name": "Destiny of the Chosen",
-      "url": "https://open.spotify.com/track/0scOdTwD5lyyIragAQtY9N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EPIC: The Wisdom Saga (Official Concept Album)",
-        "url": "https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck"
+        "name": "EPIC: The Ithaca Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
       },
       "artists": [
         {
@@ -216,201 +624,165 @@
           "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
         },
         {
-          "name": "Teagan Earley",
-          "url": "https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w"
-        },
-        {
-          "name": "Luke Holt",
-          "url": "https://open.spotify.com/artist/3Bgch077fZjxvqwRrklrES"
-        },
-        {
-          "name": "Brandon McInnis",
-          "url": "https://open.spotify.com/artist/5BSt2fFhlHBz8nG6HrmndO"
-        },
-        {
-          "name": "Mike Rivera",
-          "url": "https://open.spotify.com/artist/12VOo3IyWtm6kD1Ba1vXjs"
-        },
-        {
-          "name": "Janani K. Jha",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        },
-        {
-          "name": "Earle Gresham Jr.",
-          "url": "https://open.spotify.com/artist/5ZrrFCnpd82nEYmVxE7e1a"
-        },
-        {
-          "name": "POESY",
-          "url": "https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL"
-        },
-        {
-          "name": "Cast of EPIC: The Musical",
-          "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
+          "name": "Anna Lea",
+          "url": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w"
         }
       ],
-      "duration_ms": 319636,
-      "name": "God Games",
-      "url": "https://open.spotify.com/track/2nTbWfwXlp9gK5u205Pcm1"
+      "duration_ms": 345812,
+      "name": "Would You Fall in Love with Me Again",
+      "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/1EVmWEVnzLU7KvCRCX1hvC"
+        "name": "Final Reckoning",
+        "url": "https://open.spotify.com/album/7wuMrns6vGi0uvPi4DudWf"
       },
       "artists": [
         {
-          "name": "Thomas Bergersen",
-          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
-        },
-        {
-          "name": "Two Steps from Hell",
-          "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+          "name": "Q-Factory by Robert Etoll",
+          "url": "https://open.spotify.com/artist/0wBSkYE9QLovAkVbXP9n8N"
         }
       ],
-      "duration_ms": 151407,
-      "name": "Freedom Fighters",
-      "url": "https://open.spotify.com/track/20Ad6hTVs4CK1VxCDUC9LX"
+      "duration_ms": 101105,
+      "name": "Final Reckoning",
+      "url": "https://open.spotify.com/track/0RTG9fbE9HY6kOZjzpaFAP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Mhysa",
-      "url": "https://open.spotify.com/track/4wxaEgPlUbEUwiAnThBUkw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rise - Epic Music",
-        "url": "https://open.spotify.com/album/5MCO0wyuKkc5TWa1iq7b69"
-      },
-      "artists": [
-        {
-          "name": "John Dreamer",
-          "url": "https://open.spotify.com/artist/39GPChnC74DiR82lgTzx3o"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Rise - Epic Music",
-      "url": "https://open.spotify.com/track/4p9orqDwsLa855cYj2q71M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revivals",
-        "url": "https://open.spotify.com/album/2rvirCzv2crkdk3ix71vGB"
-      },
-      "artists": [
-        {
-          "name": "Hidden Citizens",
-          "url": "https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "F\u00fcr Elise - Epic Trailer Version",
-      "url": "https://open.spotify.com/track/1nljSOphWsigHQjIkqVJUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jurassic Park",
-        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "Theme From Jurassic Park",
-      "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angels Will Rise",
-        "url": "https://open.spotify.com/album/7gmSQGbFcpj2bCWJ4HpTry"
-      },
-      "artists": [
-        {
-          "name": "Twisted Jukebox",
-          "url": "https://open.spotify.com/artist/6WbcsezFNZdFE6miOocY82"
-        }
-      ],
-      "duration_ms": 132405,
-      "name": "Angels Will Rise",
-      "url": "https://open.spotify.com/track/7n1VzfDRUPGr4lYAEISR9o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gladiator - Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/1yqkE2BoMZaQRABJRJT2HZ"
+        "name": "Dune: Part Two (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC"
       },
       "artists": [
         {
           "name": "Hans Zimmer",
           "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Klaus Badelt",
-          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
-        },
-        {
-          "name": "Lisa Gerrard",
-          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
-        },
-        {
-          "name": "Gavin Greenaway",
-          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Now We Are Free",
-      "url": "https://open.spotify.com/track/11IXRdEjiH0KL8nh4G1j7d"
+      "duration_ms": 139806,
+      "name": "Worm Ride",
+      "url": "https://open.spotify.com/track/6cs7PMoobGoGVz8xZlAnXb"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Deadwood",
-        "url": "https://open.spotify.com/album/2JMedUxrsr2TUENJla152W"
+        "name": "Transformers: Age of Extinction (Music from the Motion Picture) - EP",
+        "url": "https://open.spotify.com/album/3V5GKKQDKrldly6W5hIwiv"
       },
       "artists": [
         {
-          "name": "Really Slow Motion",
-          "url": "https://open.spotify.com/artist/4dDb2XLONSNrTrucRcoaYM"
+          "name": "Steve Jablonsky",
+          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
         }
       ],
-      "duration_ms": 186938,
-      "name": "Deadwood",
-      "url": "https://open.spotify.com/track/5nyef8bHyXaglyArVUNlre"
+      "duration_ms": 345466,
+      "name": "Tessa",
+      "url": "https://open.spotify.com/track/2MaUwANhrU6KF8AK71ezsX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lacrimosa - Epic Version (Mozart) [Original]",
-        "url": "https://open.spotify.com/album/31tZwbfrN6co7nNoi2YYDF"
+        "name": "Sigma",
+        "url": "https://open.spotify.com/album/01oTdTA3L4wV9qv36M8cdB"
       },
       "artists": [
         {
-          "name": "Samuel Kim",
-          "url": "https://open.spotify.com/artist/2bdcBjvuI9worc472GbeU0"
+          "name": "Epic Soul Factory",
+          "url": "https://open.spotify.com/artist/4jR3zx9N13PvipyKMyeYJv"
+        },
+        {
+          "name": "Cesc Vil\u00e0",
+          "url": "https://open.spotify.com/artist/1l3mwJopzDj2oNRw2YcsDc"
+        },
+        {
+          "name": "Fran Soto",
+          "url": "https://open.spotify.com/artist/0gxXeapWZVqHjEbadaKBew"
         }
       ],
-      "duration_ms": 175891,
-      "name": "Lacrimosa - Epic Version (Mozart) - Original",
-      "url": "https://open.spotify.com/track/437ZCOYA5ulnI9x9saubWt"
+      "duration_ms": 210000,
+      "name": "Hero Memories",
+      "url": "https://open.spotify.com/track/3AfbUSaj1kH5gH4z2YbawA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halo 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5X4MhnXjrQ0zQIBW8a4ivf"
+      },
+      "artists": [
+        {
+          "name": "Halo",
+          "url": "https://open.spotify.com/artist/3AVA9bUTMNoJ9RrbmB0YfW"
+        },
+        {
+          "name": "Martin O'Donnell",
+          "url": "https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "One Final Effort",
+      "url": "https://open.spotify.com/track/0Yq0llTSeE5XV5UkiiPesc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gloria Regali",
+        "url": "https://open.spotify.com/album/3W3oLy5YQ1t8L0FqNGpYR1"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "duration_ms": 204208,
+      "name": "Gloria Regali",
+      "url": "https://open.spotify.com/track/2gFJozKaIG19ca80RSSeNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reign of Vengeance",
+        "url": "https://open.spotify.com/album/3Yzb8X6vRr0uDHgmETfqMP"
+      },
+      "artists": [
+        {
+          "name": "Future World Music",
+          "url": "https://open.spotify.com/artist/6gmhrHojnyp0SfG4WwJgIE"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Dream Chasers",
+      "url": "https://open.spotify.com/track/6tXtvM9glF9DFlete3EwVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Braveheart (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11RrIE8R4WdmybwaItRa97"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 97666,
+      "name": "A Gift Of A Thistle",
+      "url": "https://open.spotify.com/track/3Yvi5NkUrSppVwrMHYkB6u"
     },
     {
       "added_at": null,
@@ -439,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/0L0VGmeqkDlEghaJmJsNwQ"
+      },
+      "artists": [
+        {
+          "name": "J.T. Peterson",
+          "url": "https://open.spotify.com/artist/7aKr3XnpWPacoA0m06fpVW"
+        }
+      ],
+      "duration_ms": 148336,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/2BX5HmVOQpe4VWDLtIcdVq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EPIC: The Ocean Saga (Official Concept Album)",
         "url": "https://open.spotify.com/album/6q6FBKPiH2waQezdzpxhuz"
       },
@@ -452,235 +840,51 @@
           "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
         },
         {
-          "name": "Armando Juli\u00e1n",
-          "url": "https://open.spotify.com/artist/6bVYQ4OCT9GIoQF5W6mVTj"
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Luck Runs Out",
-      "url": "https://open.spotify.com/track/4EXwXh99qHAObiMKu9p222"
+      "duration_ms": 262555,
+      "name": "Ruthlessness",
+      "url": "https://open.spotify.com/track/5w4DNXyuAZhUO4y3erBg9G"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Point Zero",
-        "url": "https://open.spotify.com/album/16Sn1YHIsMl8jHQRsFrGEk"
+        "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
       },
       "artists": [
         {
-          "name": "Berend Salverda",
-          "url": "https://open.spotify.com/artist/5D0qhAJNzV3jKNVXv91DTU"
+          "name": "Marcin Przyby\u0142owicz",
+          "url": "https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw"
         }
       ],
-      "duration_ms": 102144,
-      "name": "Rogue",
-      "url": "https://open.spotify.com/track/3iIoUjQlWhu2dHJBGNM8fx"
+      "duration_ms": 141993,
+      "name": "Geralt Of Rivia",
+      "url": "https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Power of Darkness Anthology",
-        "url": "https://open.spotify.com/album/6BiH8lShSTQp8O3oxy3hjQ"
-      },
-      "artists": [
-        {
-          "name": "Two Steps from Hell",
-          "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
-        }
-      ],
-      "duration_ms": 170704,
-      "name": "Invincible (Instrumental)",
-      "url": "https://open.spotify.com/track/4fDWdQGhJ8SdqvrvL001zk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pacific Rim (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0gJWChOVkVRgZCK09irLOk"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 295426,
-      "name": "Pacific Rim (feat. Tom Morello)",
-      "url": "https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Formula 1 Theme",
-        "url": "https://open.spotify.com/album/6vZxdK8F5VqytnXgNrjHRM"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Formula 1 Theme",
-      "url": "https://open.spotify.com/track/5r7egnfTIQjaKSGREhIky9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X-MEN: FIRST CLASS",
-        "url": "https://open.spotify.com/album/14jwLvbmFd60gtCScp5pcc"
-      },
-      "artists": [
-        {
-          "name": "Henry Jackman",
-          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/5IWmdl33NNTLsKlLT6WSlh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ori and the Blind Forest (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo"
-      },
-      "artists": [
-        {
-          "name": "Gareth Coker",
-          "url": "https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B"
-        },
-        {
-          "name": "Aeralie Brighton",
-          "url": "https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM"
-        }
-      ],
-      "duration_ms": 68198,
-      "name": "Ori, Lost In the Storm (feat. Aeralie Brighton)",
-      "url": "https://open.spotify.com/track/1AvDDjLuwwC63X1xlRReCD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Dark Knight (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
       },
       "artists": [
         {
           "name": "Hans Zimmer",
           "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
         }
       ],
-      "duration_ms": 302533,
-      "name": "Like a Dog Chasing Cars",
-      "url": "https://open.spotify.com/track/3j9WvPrVhZuH8AmTeVakfR"
+      "duration_ms": 219092,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/0Sg3UL7f40ulmTh0Xwr6qY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Kill Me",
-        "url": "https://open.spotify.com/album/0y6m767T22qxpbij60YBcJ"
-      },
-      "artists": [
-        {
-          "name": "Rok Nardin",
-          "url": "https://open.spotify.com/artist/7ArkPxPSwZoQw5ESuxt4oG"
-        },
-        {
-          "name": "Epic Music World",
-          "url": "https://open.spotify.com/artist/13FTHoOzbdwyu2iuVxdO6Y"
-        }
-      ],
-      "duration_ms": 255731,
-      "name": "You Can't Kill Me",
-      "url": "https://open.spotify.com/track/3byE7DjwdVsIDS7hSbXu4s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1zIoYLpYOq8d4HFzHJ7vc8"
-      },
-      "artists": [
-        {
-          "name": "Howard Shore",
-          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Evenstar",
-      "url": "https://open.spotify.com/track/1TQKEwq4y9SkNciJuisE1m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sun",
-        "url": "https://open.spotify.com/album/5yNNIkI2g4OWQzjwBvJ7PP"
-      },
-      "artists": [
-        {
-          "name": "Thomas Bergersen",
-          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
-        }
-      ],
-      "duration_ms": 314537,
-      "name": "Empire of Angels",
-      "url": "https://open.spotify.com/track/5ByhJkkDYUJvckBXBqqlxx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EPIC: The Cyclops Saga (Official Concept Album)",
-        "url": "https://open.spotify.com/album/2W4RO0PnljszZbktVgqoIv"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rivera-Herrans",
-          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
-        },
-        {
-          "name": "Steven Dookie",
-          "url": "https://open.spotify.com/artist/6rLqxfVk0nnbaIgAbuQRHa"
-        },
-        {
-          "name": "Cast of EPIC: The Musical",
-          "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
-        }
-      ],
-      "duration_ms": 194869,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/0kdsEz5miDFg32sJc1TNSi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0jNwqmKIwudqqbMJRRtzQb"
-      },
-      "artists": [
-        {
-          "name": "Sawano Hiroyuki",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
-        }
-      ],
-      "duration_ms": 359346,
-      "name": "You See Big Girl / T:T",
-      "url": "https://open.spotify.com/track/4dHOnPucB5VBYq3gjRtYy9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legend Anthology",
-        "url": "https://open.spotify.com/album/0mWdbjF3QuJwcgKvsFVXPS"
+        "name": "Battlecry",
+        "url": "https://open.spotify.com/album/4dY3HRIWAl7aisBkt1DZAq"
       },
       "artists": [
         {
@@ -692,111 +896,15 @@
           "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
         }
       ],
-      "duration_ms": 117660,
-      "name": "Heart of Courage (No Choir)",
-      "url": "https://open.spotify.com/track/7cTRu9AKrSKpy08Jb6FuQA"
+      "duration_ms": 201792,
+      "name": "Flight Of The Silverbird",
+      "url": "https://open.spotify.com/track/77PxRQpb4yP8QeVGPdT2zY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        },
-        {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
-        }
-      ],
-      "duration_ms": 224305,
-      "name": "The Rains of Castamere",
-      "url": "https://open.spotify.com/track/0CHvs1UmxA90B2apIpbWCC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Makara",
-        "url": "https://open.spotify.com/album/4GhLLFl0mKnTg7jNGTEdMQ"
-      },
-      "artists": [
-        {
-          "name": "E.S. Posthumus",
-          "url": "https://open.spotify.com/artist/1CqW2UkLsaZvByLwkOaNsH"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/1j9hygHMlSWI9PlopV0uqI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Assassin's Creed 2 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/09ixa10YNG75H0HDKbMAiZ"
-      },
-      "artists": [
-        {
-          "name": "Jesper Kyd",
-          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
-        },
-        {
-          "name": "Assassin's Creed",
-          "url": "https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC"
-        }
-      ],
-      "duration_ms": 237900,
-      "name": "Ezio's Family",
-      "url": "https://open.spotify.com/track/05UMQXFCsa9oPnLgfJHVyF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 333346,
-      "name": "Across the Stars (Love Theme from \"Star Wars: Attack of the Clones\")",
-      "url": "https://open.spotify.com/track/3rUMH7i22tlkymhDPOmXUv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Da Vinci Code",
-        "url": "https://open.spotify.com/album/4GuLx38y1727p45spIvslr"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Richard Harvey",
-          "url": "https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/64q5EfFKR9hYJ1FHqSClxe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Transformers: The Score",
-        "url": "https://open.spotify.com/album/2bTtOvLX0HONkxoQx3ir7U"
+        "name": "Ender's Game (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1Gg3Ri53uoV4dA3mJjvYFg"
       },
       "artists": [
         {
@@ -804,157 +912,25 @@
           "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
         }
       ],
-      "duration_ms": 326773,
-      "name": "Arrival to Earth",
-      "url": "https://open.spotify.com/track/4u4VElxO7JM4IR4jR4TL1s"
+      "duration_ms": 206933,
+      "name": "Ender's War",
+      "url": "https://open.spotify.com/track/6E0JqlkJrLitJ0F1l6e1mm"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Corner Stone Cues Presents: Requiem For A Tower Two Towers Trailer Mix Remastered",
-        "url": "https://open.spotify.com/album/7e8zhc293CNfP27eFQxRXg"
+        "name": "How To Train Your Dragon (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU"
       },
       "artists": [
         {
-          "name": "Corner Stone Cues",
-          "url": "https://open.spotify.com/artist/0kNyq4Q2UEmIeuySw9myZc"
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
         }
       ],
-      "duration_ms": 88358,
-      "name": "Requiem For A Tower Two Towers Trailer Mix Remastered",
-      "url": "https://open.spotify.com/track/443YcuP1D3FIlHU73x7QEY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/4CMXXB1D7v1LEP2Y9cQ1q2"
-      },
-      "artists": [
-        {
-          "name": "Thomas Bergersen",
-          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
-        },
-        {
-          "name": "Two Steps from Hell",
-          "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
-        }
-      ],
-      "duration_ms": 224912,
-      "name": "Secret Melody",
-      "url": "https://open.spotify.com/track/0rvQycfWYjm7W6jD3LFDw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EPIC: The Ocean Saga (Official Concept Album)",
-        "url": "https://open.spotify.com/album/6q6FBKPiH2waQezdzpxhuz"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rivera-Herrans",
-          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
-        },
-        {
-          "name": "Cast of EPIC: The Musical",
-          "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
-        },
-        {
-          "name": "Armando Juli\u00e1n",
-          "url": "https://open.spotify.com/artist/6bVYQ4OCT9GIoQF5W6mVTj"
-        }
-      ],
-      "duration_ms": 162909,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/78Z2qxKiT6mrJrNR8DecZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Way (Bonus Disk)",
-        "url": "https://open.spotify.com/album/5heYSyOiTrHrCJTqqzn5ey"
-      },
-      "artists": [
-        {
-          "name": "Zack Hemsey",
-          "url": "https://open.spotify.com/artist/2Eg0o1Mok66akOkuOiGdEv"
-        }
-      ],
-      "duration_ms": 424848,
-      "name": "The Way (Instrumental)",
-      "url": "https://open.spotify.com/track/4ZrKqqwnNzXWd46e8nlQGK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imaginaerum",
-        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 271120,
-      "name": "Last Ride of the Day",
-      "url": "https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forgotten Odes",
-        "url": "https://open.spotify.com/album/3KT3DRHJdpEZD5OxSK7hj0"
-      },
-      "artists": [
-        {
-          "name": "Eternal Eclipse",
-          "url": "https://open.spotify.com/artist/2mudOp0EB2SFnG0mVazTJs"
-        }
-      ],
-      "duration_ms": 172237,
-      "name": "Shape of Lies",
-      "url": "https://open.spotify.com/track/1TW0gcva4YLepZEQwJ8Nwk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/0uyb1O2aodxewxYrAHzqIn"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
-        },
-        {
-          "name": "Edda Hayes",
-          "url": "https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus Ex: Human Revolution (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3t0h9Jw2lbQFCrBuDUMARd"
-      },
-      "artists": [
-        {
-          "name": "Michael McCann",
-          "url": "https://open.spotify.com/artist/2WqOMwQLdZ5txM8U9lvZGR"
-        }
-      ],
-      "duration_ms": 221243,
-      "name": "Icarus - Main Theme",
-      "url": "https://open.spotify.com/track/50mku7LtsjfuRPy8hNerdB"
+      "duration_ms": 251093,
+      "name": "Forbidden Friendship",
+      "url": "https://open.spotify.com/track/0S7XIu0dn63ayGxjefd5It"
     }
   ],
   "unique_name": "Epic Mix",

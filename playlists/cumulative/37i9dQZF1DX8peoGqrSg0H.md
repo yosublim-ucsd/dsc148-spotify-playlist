@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: bamm
 
-637 songs - 1 day 13 hr 45 min
+638 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/track/768V6zjx23Sd1oqtKlxIAx) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/album/4fvLJyx7dG6ewjIT9FSXMJ) | 4:01 | 2022-07-22 | 2022-08-06 |
 | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \- Special Track](https://open.spotify.com/track/29o0NtvmnO9LqXA3SLBAzp) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \[Special Track\]](https://open.spotify.com/album/2aWjMiLMRKZDM2sytFHuVZ) | 3:54 | 2023-05-26 | 2023-06-02 |
 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 | 2022-05-26 | 2023-08-08 |
+| [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/track/1QEcjyNgnbMKGx3O3cyql3) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/album/6RbkOgLaSyRje54Rsv7D8B) | 3:12 | 2025-01-25 |  |
 | [ถ้าเขาไม่ดี \(Back To Me\)](https://open.spotify.com/track/76z7LacX96wN87m6sQd4Y6) | [PRIMETIME](https://open.spotify.com/artist/0cxjtDzPYTQ718EiPNXUbi) | [ถ้าเขาไม่ดี \(Back To Me\)](https://open.spotify.com/album/2iS7dgWOi50pagVFoS7Xt0) | 3:00 | 2024-03-26 | 2024-03-29 |
 | [ถ้าเธอ feat\. Violette Wautier](https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ถ้าเธอ](https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD) | 3:19 | 2022-05-26 | 2022-08-26 |
 | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/track/0n325RDOa9owgXvUtuxlO7) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [ถ้าเธอจะรักก็รักไปนานแล้ว](https://open.spotify.com/album/7IGF03KO1vRanMOaROicVI) | 3:44 | 2022-12-01 | 2023-04-13 |
@@ -592,7 +593,7 @@
 | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/track/7i6avkKQTEF9g69OcNvECT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U) | 2:52 | 2024-03-28 |  |
 | [แฟนแฟร์ \- Dreamy](https://open.spotify.com/track/5SI3nhdadhXRWdPJ3S120A) | [BowImm](https://open.spotify.com/artist/7aISVZ8grtQxn3MQjCq3E0) | [แฟนแฟร์ \(Dreamy\)](https://open.spotify.com/album/2cc5Ogu87ymW5Dny1kSnyr) | 3:28 | 2023-02-16 | 2023-02-24 |
 | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/track/29E8BUUDQbc5S7jMPOj9wW) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis) | [แฟนใหม่หน้าคุ้น](https://open.spotify.com/album/6QQTFhzZZ9aruyijHIPogD) | 2:53 | 2022-05-26 | 2022-08-26 |
-| [แรงอีกนิด \(SADISTIC\)](https://open.spotify.com/track/4zo90SYUp8L88UHRhu6NUp) | [PROJECT JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [แรงอีกนิด \(SADISTIC\) \- Single](https://open.spotify.com/album/0imi2s6hE5Do19u6LqKyoM) | 3:04 | 2024-12-27 |  |
+| [แรงอีกนิด \(SADISTIC\)](https://open.spotify.com/track/4zo90SYUp8L88UHRhu6NUp) | [PROJECT JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [แรงอีกนิด \(SADISTIC\) \- Single](https://open.spotify.com/album/0imi2s6hE5Do19u6LqKyoM) | 3:04 | 2024-12-27 | 2025-01-26 |
 | [แลกเลยปะ \(Hoo Whee Hoo\)](https://open.spotify.com/track/70Sn9wy03VYM7iChqD8DXQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [แลกเลยปะ \(Hoo Whee Hoo\)](https://open.spotify.com/album/2r0WfMHwNvl5hDVtettnet) | 3:12 | 2022-05-26 | 2022-07-08 |
 | [แล้วยังไงต่อ](https://open.spotify.com/track/2qjarpGRrdp2IkGjvvfftb) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [แล้วยังไงต่อ](https://open.spotify.com/album/3Iqn3Dv3ku88Lyu748tV6B) | 3:07 | 2024-04-11 | 2024-05-24 |
 | [แวร์อิสความรัก \(WRU?\)](https://open.spotify.com/track/5iAIWIINkZvPUMcPce3CvX) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [แวร์อิสความรัก \(WRU?\) \- Single](https://open.spotify.com/album/3C6QK26Me1kKgR50TCQpwy) | 3:16 | 2024-05-16 | 2024-06-01 |

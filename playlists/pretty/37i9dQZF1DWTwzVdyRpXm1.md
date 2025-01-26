@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Karan Aujla
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,825 likes - 65 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,947 likes - 65 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 9 | [Bijliaan \(From "Badnaam"\)](https://open.spotify.com/track/2jF2LdO4oB5nsj4Ylxwsoo) | [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Bijliaan \(From "Badnaam"\)](https://open.spotify.com/album/3AJg0ZFU4hwhhEMtYd9pKU) | 2:58 |
 | 10 | [Kinni Soni](https://open.spotify.com/track/3PBOmHjLtrPcc6GU3jWu0v) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Out of Control](https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf) | 4:01 |
 | 11 | [Moon Calling \(Feat\. Neha Kakkar\)](https://open.spotify.com/track/0cesEdJqdjP1ONo2Wy6BnJ) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Moon Calling \(Feat\. Neha Kakkar\)](https://open.spotify.com/album/3hNvvGf8nk3WwUY75IgmNR) | 3:20 |
-| 12 | [Got You](https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Got You](https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE) | 3:42 |
+| 12 | [Got You](https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshaan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Got You](https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE) | 3:42 |
 | 13 | [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 |
 | 14 | [Sohna Mukhda](https://open.spotify.com/track/13HHZpr6Z7Uc1D1jiY6KK2) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sohna Mukhda](https://open.spotify.com/album/4eZaCltpG2D7VmjVFM3H4P) | 2:31 |
 | 15 | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/track/0Yf9Tgv5f55njDQeuRUnQH) | [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Tenu Sang Rakhna \(From "Jigra"\)](https://open.spotify.com/album/3Yi3HyE86jKrOJQBhIRKO5) | 4:09 |

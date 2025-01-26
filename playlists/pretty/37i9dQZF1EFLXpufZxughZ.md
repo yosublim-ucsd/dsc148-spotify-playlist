@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,051 likes - 138 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,052 likes - 138 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 35 | [Zeus \(feat\. White Gold\)](https://open.spotify.com/track/2lPE6W6ONJKmBE6hLjpIYo) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [White Gold](https://open.spotify.com/artist/79KQgTCu4wV38ECYKn62DZ) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:50 |
 | 36 | [Mannequin Challenge \(feat\. Juice WRLD\)](https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:42 |
 | 37 | [Go Get It](https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:37 |
-| 38 | [Compensating \(feat\. Young Thug\)](https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:17 |
-| 39 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
+| 38 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
+| 39 | [Compensating \(feat\. Young Thug\)](https://open.spotify.com/track/61KoN6PlBhQD7sivCcf0hA) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:17 |
 | 40 | [My Moment \(feat\. 2 Chainz, Meek Mill and Jeremih\)](https://open.spotify.com/track/3Gva0j7oBU6MdvUMQyDRTJ) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 3:18 |
 | 41 | [March 14](https://open.spotify.com/track/09lmraDvzBT3pUQ2rUtJzK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 5:09 |
 | 42 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 109 | [Basic Ordinary Ugly](https://open.spotify.com/track/5wblr9dK0iPouvvFTUiImS) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/2eXGs6Oj4TMW7gNjhsEY5l) | 2:32 |
 | 110 | [Don't Quit \- Live](https://open.spotify.com/track/7I7fTsTJF0XzcL9Th8UeD0) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 7:07 |
 | 111 | [Dime](https://open.spotify.com/track/3aiopvlbadQySEYnycJ7kV) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:36 |
-| 112 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
-| 113 | [This Is Revival](https://open.spotify.com/track/3glwzl5Je8zFPJkSo8YBJM) | [Brittani Scott](https://open.spotify.com/artist/2zekc0lrVTCOVrgSntYwar), [David Jennings](https://open.spotify.com/artist/0bngvThnRev3ZK6PzEhnWw) | [This Is Revival](https://open.spotify.com/album/7qFgqgOj8keNKjD8k0qDVG) | 5:24 |
+| 112 | [This Is Revival](https://open.spotify.com/track/3glwzl5Je8zFPJkSo8YBJM) | [Brittani Scott](https://open.spotify.com/artist/2zekc0lrVTCOVrgSntYwar), [David Jennings](https://open.spotify.com/artist/0bngvThnRev3ZK6PzEhnWw) | [This Is Revival](https://open.spotify.com/album/7qFgqgOj8keNKjD8k0qDVG) | 5:24 |
+| 113 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
 | 114 | [Been Gone](https://open.spotify.com/track/7CWvBBYSGmwkteQ5IGg6V5) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [2U](https://open.spotify.com/album/0pd3q6RmQe1OzAg95pKkmM) | 3:35 |
 | 115 | [Love](https://open.spotify.com/track/0OouDOffh65KDSgmKqsdXl) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:18 |
 | 116 | [Spotlight](https://open.spotify.com/track/3zkFhD7MVekTg7646JJ1dj) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:21 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 137 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 138 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `AbnwLAAAAACtGmPsPVvXvoGQpS9EsQdl`
+Snapshot ID: `Abn1/gAAAAAB5RhMTa5V8ztgQp0pOm7L`

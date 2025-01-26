@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 266337,
+  "num_followers": 266433,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+      },
+      "artists": [
+        {
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+        }
+      ],
+      "duration_ms": 380484,
+      "name": "Amiga Mia",
+      "url": "https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "El Charanguero Mayor",
         "url": "https://open.spotify.com/album/4YK55BcJGzust6FxGEIYn4"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 248999,
       "name": "Esto te pone la cabeza mala",
       "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
-      },
-      "artists": [
-        {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
-        }
-      ],
-      "duration_ms": 380484,
-      "name": "Amiga Mia",
-      "url": "https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl"
     },
     {
       "added_at": "2024-07-12 16:17:30",

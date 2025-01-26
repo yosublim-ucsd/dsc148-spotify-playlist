@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 142197,
+  "num_followers": 142211,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -137,26 +137,6 @@
       "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
     },
     {
-      "added_at": "2024-04-18 18:18:49",
-      "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Dancy Party",
@@ -175,6 +155,26 @@
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+    },
+    {
+      "added_at": "2024-04-18 18:18:49",
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "added_at": "2025-01-07 00:33:20",
@@ -427,7 +427,7 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Satingarona, Pt. 2",
+        "name": "Satingarona Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
       "artists": [
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Cabrioli",
+        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
+      },
+      "artists": [
+        {
+          "name": "Moussa",
+          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
+        }
+      ],
+      "duration_ms": 152631,
+      "name": "Cabrioli",
+      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "\u00c7a fait 2x plus de bien",
         "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 181106,
       "name": "\u00c7a fait du bien - Polo & Pan Remix",
       "url": "https://open.spotify.com/track/4UPNrU3SCxNxa4qXcM3oOs"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Cabrioli",
-        "url": "https://open.spotify.com/album/4FoTTiKaTZXbweALMqZoBK"
-      },
-      "artists": [
-        {
-          "name": "Moussa",
-          "url": "https://open.spotify.com/artist/5szBKM0Zc5bKmQvkiO1NDS"
-        }
-      ],
-      "duration_ms": 152631,
-      "name": "Cabrioli",
-      "url": "https://open.spotify.com/track/1wQdNXLp8XhQ0p0uG5ZRDD"
     },
     {
       "added_at": "2024-08-16 15:21:45",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 214357,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
     },
     {
       "added_at": "2023-12-12 19:01:54",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Jogar",
-        "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
-      },
-      "artists": [
-        {
-          "name": "Souleance",
-          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
-        }
-      ],
-      "duration_ms": 259750,
-      "name": "Segrados Do Samba",
-      "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+        "name": "Jogar",
+        "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
       },
       "artists": [
         {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+          "name": "Souleance",
+          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
         }
       ],
-      "duration_ms": 451362,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
+      "duration_ms": 259750,
+      "name": "Segrados Do Samba",
+      "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1215,6 +1199,22 @@
       "duration_ms": 196676,
       "name": "It's alright",
       "url": "https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 451362,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
       "artists": [
         {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
         }
       ],
-      "duration_ms": 271475,
-      "name": "Burnt Orange - Edit",
-      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+      "duration_ms": 240000,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Through The Night",
-      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+      "duration_ms": 271475,
+      "name": "Burnt Orange - Edit",
+      "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "L'amour, l'amour, l'amour",
-        "url": "https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u"
-      },
-      "artists": [
-        {
-          "name": "Bon Entendeur",
-          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
-        },
-        {
-          "name": "Mouloudji",
-          "url": "https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "L'amour, l'amour, l'amour",
-      "url": "https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
         "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 350851,
       "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
       "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "L'amour, l'amour, l'amour",
+        "url": "https://open.spotify.com/album/6oj9nooSiowSdAl3Qhg66u"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        },
+        {
+          "name": "Mouloudji",
+          "url": "https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "L'amour, l'amour, l'amour",
+      "url": "https://open.spotify.com/track/1wMjKNDoHNZxTfPlGTfPA5"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Don't Stop Me Now",
+        "url": "https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1"
+      },
+      "artists": [
+        {
+          "name": "Nathan Behrens",
+          "url": "https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc"
+        }
+      ],
+      "duration_ms": 208446,
+      "name": "Don't Stop Me Now",
+      "url": "https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Do Beijo",
         "url": "https://open.spotify.com/album/7l9QhlNZYar3Z72LHj3UHr"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 212885,
       "name": "Do Beijo",
       "url": "https://open.spotify.com/track/10e7D2zxoamqizmQ03C1RK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Don't Stop Me Now",
-        "url": "https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1"
-      },
-      "artists": [
-        {
-          "name": "Nathan Behrens",
-          "url": "https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc"
-        }
-      ],
-      "duration_ms": 208446,
-      "name": "Don't Stop Me Now",
-      "url": "https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1793,22 +1793,6 @@
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
-      "added_at": "2024-07-01 18:08:26",
-      "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Better When We're Close",
@@ -1843,6 +1827,22 @@
       "duration_ms": 210509,
       "name": "Souda Bay",
       "url": "https://open.spotify.com/track/4ic5uQgCJDI3jmVedgy9Xb"
+    },
+    {
+      "added_at": "2024-07-01 18:08:26",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

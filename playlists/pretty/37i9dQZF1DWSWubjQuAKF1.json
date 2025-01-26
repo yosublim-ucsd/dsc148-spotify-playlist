@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Daniel Godson",
-  "num_followers": 20996,
+  "num_followers": 21009,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,22 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "Letnie my\u015bli",
-        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
+        "name": "#INDAWOODS",
+        "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
       },
       "artists": [
         {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+          "name": "Sw@da",
+          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
+        },
+        {
+          "name": "Niczos",
+          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
         }
       ],
-      "duration_ms": 210612,
-      "name": "Letnie my\u015bli",
-      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
+      "duration_ms": 157331,
+      "name": "Lusterka",
+      "url": "https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD"
     },
     {
       "added_at": "2025-01-23 23:00:24",
@@ -507,22 +511,18 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "#INDAWOODS",
-        "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
+        "name": "Letnie my\u015bli",
+        "url": "https://open.spotify.com/album/6S0Pv76VTbfUWdCn6kf44t"
       },
       "artists": [
         {
-          "name": "Sw@da",
-          "url": "https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj"
-        },
-        {
-          "name": "Niczos",
-          "url": "https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk"
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
         }
       ],
-      "duration_ms": 157331,
-      "name": "Lusterka",
-      "url": "https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD"
+      "duration_ms": 210612,
+      "name": "Letnie my\u015bli",
+      "url": "https://open.spotify.com/track/6u0yz0JAbNsd6HyZRHONCY"
     },
     {
       "added_at": "2025-01-23 23:00:24",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
+        "name": "WAS DW\u00d3CH",
+        "url": "https://open.spotify.com/album/354i4GYCmnLbw96NtrbUV9"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "WAS DW\u00d3CH",
+      "url": "https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz"
+    },
+    {
+      "added_at": "2025-01-23 23:00:24",
+      "album": {
         "name": "nieoczywiste",
         "url": "https://open.spotify.com/album/0Azj5kyi9uPhadMt3ejhB1"
       },
@@ -739,6 +755,22 @@
       "duration_ms": 225873,
       "name": "Guess I'm better now",
       "url": "https://open.spotify.com/track/7zOroQXfgAFFfcTHMxb2F4"
+    },
+    {
+      "added_at": "2025-01-23 23:00:24",
+      "album": {
+        "name": "Personel",
+        "url": "https://open.spotify.com/album/5sfZmMMMkTTi64vEXQgFQH"
+      },
+      "artists": [
+        {
+          "name": "Jadwiga Zarzycka",
+          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
+        }
+      ],
+      "duration_ms": 233858,
+      "name": "Personel",
+      "url": "https://open.spotify.com/track/3QNut4m1u4KfAWAQAkDjfr"
     },
     {
       "added_at": "2025-01-23 23:00:24",
@@ -795,22 +827,6 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "WAS DW\u00d3CH",
-        "url": "https://open.spotify.com/album/354i4GYCmnLbw96NtrbUV9"
-      },
-      "artists": [
-        {
-          "name": "Cyrko",
-          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "WAS DW\u00d3CH",
-      "url": "https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz"
-    },
-    {
-      "added_at": "2025-01-23 23:00:24",
-      "album": {
         "name": "Spytaj jak si\u0119 czuje",
         "url": "https://open.spotify.com/album/4LKXvFWexllLCWW1GwstMX"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 242146,
       "name": "Spytaj jak si\u0119 czuje",
       "url": "https://open.spotify.com/track/48PXNgMSeuZGhbE31pwtcB"
-    },
-    {
-      "added_at": "2025-01-23 23:00:24",
-      "album": {
-        "name": "Personel",
-        "url": "https://open.spotify.com/album/5sfZmMMMkTTi64vEXQgFQH"
-      },
-      "artists": [
-        {
-          "name": "Jadwiga Zarzycka",
-          "url": "https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0"
-        }
-      ],
-      "duration_ms": 233858,
-      "name": "Personel",
-      "url": "https://open.spotify.com/track/3QNut4m1u4KfAWAQAkDjfr"
     }
   ],
   "unique_name": "up next",

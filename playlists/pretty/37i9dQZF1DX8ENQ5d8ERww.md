@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,341 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,344 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 26 | [Luftloch](https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N) | [Moskito](https://open.spotify.com/artist/7uL3oi3QRjKzhzYM2zI4Va) | [Maxilla](https://open.spotify.com/album/3YE7DohC6p9fImF9AJx9Su) | 4:55 |
 | 27 | [Vom Feinste](https://open.spotify.com/track/5KwBrbPh4g6JH4OzQ8vb2b) | [Ruff](https://open.spotify.com/artist/6c4A4szzdPRitveDWGOP87), [Arthi](https://open.spotify.com/artist/4jNAeGaooM9Is7PEXBmhP9), [Jears](https://open.spotify.com/artist/0g9eVkK9DaH2pyZmCQK7iP) | [Uhrsprung](https://open.spotify.com/album/6OpzGy7N8uv0BB7BJnDHPb) | 4:13 |
 | 28 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
-| 29 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
-| 30 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
+| 29 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
+| 30 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
 | 31 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
 | 32 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |
-| 33 | [Figg mitt](https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach nüt](https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj) | 4:13 |
-| 34 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
-| 35 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |
-| 36 | [Schwiizchaschte](https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Verdächtig...](https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0) | 4:46 |
+| 33 | [Schwiizchaschte](https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Verdächtig...](https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0) | 4:46 |
+| 34 | [Figg mitt](https://open.spotify.com/track/5Jnjb7xP2BrLzxPIsJcOl2) | [PVP](https://open.spotify.com/artist/5HRA33OVSrSR37rbbFKtNG), [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K) | [Eifach nüt](https://open.spotify.com/album/5vRyfEOWuNEUX3DLOUeGSj) | 4:13 |
+| 35 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
+| 36 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |
 | 37 | [Gott spile](https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi) | [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Schwarzmale](https://open.spotify.com/album/7rJzADS9WauL8RXiV0Ze6d) | 3:56 |
 | 38 | [Antihelda](https://open.spotify.com/track/4aTG1xUHF1qZR8czxkpjW5) | [Gimma](https://open.spotify.com/artist/3lShmS9FBjiOfFURcLkihv) | [Unmensch](https://open.spotify.com/album/6IJX3an6LJLXNuk9uf5gG1) | 4:08 |
 | 39 | [Volksmusigg](https://open.spotify.com/track/3S09OtRKrgj8XD3tWsQpLe) | [Bligg](https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr) | [Yves Spink](https://open.spotify.com/album/3RRlOwXXKu0Mc6Xhg8oQk8) | 3:26 |

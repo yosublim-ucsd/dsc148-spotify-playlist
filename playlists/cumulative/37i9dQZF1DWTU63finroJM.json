@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "21st Century Cool Girl",
+        "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197655,
+      "name": "21st Century Cool Girl",
+      "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
+    },
+    {
+      "album": {
         "name": "24 Hours in Paris",
         "url": "https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha"
       },
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 175314,
       "name": "angie",
       "url": "https://open.spotify.com/track/55lfk9iyLoKBFlznN3ebkO"
@@ -5779,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Rave Immortal",
+        "url": "https://open.spotify.com/album/6Wu7z5o5vdseG83pk7NB8q"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221206,
+      "name": "Come Fight Me For It",
+      "url": "https://open.spotify.com/track/31T2dxAa2TSUtymgF7L7Oi"
+    },
+    {
+      "album": {
         "name": "Come i Grandi",
         "url": "https://open.spotify.com/album/61zWMNozdieRSJKQw1nzyR"
       },
@@ -7012,6 +7048,24 @@
       "duration_ms": 161454,
       "name": "Dentro la mia testa",
       "url": "https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX"
+    },
+    {
+      "album": {
+        "name": "desahogo",
+        "url": "https://open.spotify.com/album/4qMIX5BH9SYhFfYlfkt2ZJ"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189583,
+      "name": "desahogo",
+      "url": "https://open.spotify.com/track/3LFfaAcLmpoXq4b2LyoHbi"
     },
     {
       "album": {
@@ -9920,7 +9974,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 218000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc"
@@ -10649,6 +10703,32 @@
     },
     {
       "album": {
+        "name": "it's Franky baby!",
+        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221602,
+      "name": "Give Thanks, Give Praise",
+      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+    },
+    {
+      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/6Ds19IWuhiVi2iBqyKVRyF"
       },
@@ -10766,7 +10846,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 171428,
       "name": "Go Head",
       "url": "https://open.spotify.com/track/5gtoVdkR5k72kCdRNjTxq8"
@@ -16479,6 +16559,24 @@
     },
     {
       "album": {
+        "name": "llamando",
+        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156184,
+      "name": "llamando",
+      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
+    },
+    {
+      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
@@ -16672,7 +16770,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 186998,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/6soowAK2q88ThzrteFWCvs"
@@ -21324,7 +21422,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 165833,
       "name": "Panic!",
       "url": "https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA"
@@ -28177,6 +28275,24 @@
     },
     {
       "album": {
+        "name": "Cameraman",
+        "url": "https://open.spotify.com/album/4YLUb402u5DPZpD4GzRFrK"
+      },
+      "artists": [
+        {
+          "name": "DWLLRS",
+          "url": "https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147885,
+      "name": "TTYLSOS",
+      "url": "https://open.spotify.com/track/053nl0VGivTrEP6QiUSgWg"
+    },
+    {
+      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/5v5bByuOtxvqAeR5VAPoCd"
       },
@@ -33544,7 +33660,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 172166,
       "name": "\u706b\u67f4 - Acoustic / Spotify Singles",
       "url": "https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH"

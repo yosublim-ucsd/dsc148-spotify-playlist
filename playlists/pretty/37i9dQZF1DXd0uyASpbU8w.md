@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=OEqlhNc1RzW1c7KWOpF1Ag">Big Zulu</a>, <a href="https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5?si=5ddCLKIzSdC85fuD4oeRhQ">Azana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,538 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,703 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 39 | [Nguwe \(feat\. Khanya De Vocalist\)](https://open.spotify.com/track/3AtUddi1pdNl2fJGAlplFI) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU), [Scrooge KmoA](https://open.spotify.com/artist/0sdcx269gOfXjsb72XsV2B), [Takue SBT](https://open.spotify.com/artist/5YDzSHHcPzdA9RdEgi3g2U), [Khanya De Vocalist](https://open.spotify.com/artist/2CtrdOqCvIGCN4W26IUHoU) | [Music In My Life](https://open.spotify.com/album/5lm7k97CQBDnT9PshUSn7c) | 6:21 |
 | 40 | [Me And My friends](https://open.spotify.com/track/11vrH6LIBnQV4amx08My47) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Young Molz](https://open.spotify.com/artist/0xnQjx6t9qfEFpE6zQed1K) | [Oceans 2](https://open.spotify.com/album/2fGQnVgcErq96kmgWfyUIf) | 4:01 |
 | 41 | [TIME](https://open.spotify.com/track/6MLWHkI72liNB586NMzSOA) | [DJ Manzo Sa](https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio) | [TIME](https://open.spotify.com/album/4k5OPgFxcjlAk5R9mMBfII) | 13:21 |
-| 42 | [hlala \- Mpho.Wav Remix](https://open.spotify.com/track/2uOAShE4JkVbxWB4LFJhmK) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [mpho Mohlong](https://open.spotify.com/artist/2u8i7iAqokm2gKYjQzdekK) | [hlala \(Mpho.Wav Remix\)](https://open.spotify.com/album/7efr5U4emrTdCH0i28hpb4) | 6:00 |
+| 42 | [hlala \- Mpho.Wav Remix](https://open.spotify.com/track/2uOAShE4JkVbxWB4LFJhmK) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [hlala \(Mpho.Wav Remix\)](https://open.spotify.com/album/7efr5U4emrTdCH0i28hpb4) | 6:00 |
 | 43 | [I Choose You](https://open.spotify.com/track/3H1UMEoJkP8B4uW30pHIqY) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 3:14 |
 | 44 | [Kama Hauna](https://open.spotify.com/track/5FAUAybpi9AwTREnSlPVwq) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Kama Hauna](https://open.spotify.com/album/5Z0AVgJASlT7QPAdEzfkCy) | 3:00 |
 | 45 | [WAR](https://open.spotify.com/track/2ufWMNpHTdnKrOrWRpCtQh) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu), [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF), [S\-Que](https://open.spotify.com/artist/0vQFWM1zpxvMVOwTdvtWjP) | [WAR](https://open.spotify.com/album/7ySISELUXcFfxceYtsxnrV) | 3:22 |

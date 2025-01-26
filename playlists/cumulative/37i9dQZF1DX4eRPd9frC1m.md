@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-390 songs - 21 hr 14 min
+391 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Assault](https://open.spotify.com/track/4SbMVULuT6l7iN7d40PCNJ) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Assault](https://open.spotify.com/album/0qTtqa02EU5tpRhVNMek92) | 4:44 | 2022-01-07 | 2022-06-16 |
 | [Asteroid](https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Asteroid](https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf) | 4:03 | 2023-09-15 |  |
 | [Astro Funk](https://open.spotify.com/track/7wRzUAw0Npu4CalkDIFHJE) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Astro Funk](https://open.spotify.com/album/7CwvlQ2z7T2OG4BQ7rBXnF) | 3:15 | 2021-11-19 | 2024-05-11 |
+| [At Night](https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [At Night](https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07) | 2:50 | 2025-01-24 |  |
 | [ATTACK](https://open.spotify.com/track/4beNkkRzwv01XhAyp2OiI1) | [AG](https://open.spotify.com/artist/3HKUrC0erAdewcUeSKLzT8), [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG) | [ATTACK](https://open.spotify.com/album/5li6myKWhrO3iyUlyi5pXR) | 3:00 | 2021-11-19 | 2022-01-08 |
 | [Attention](https://open.spotify.com/track/1ouitWGWGsCbvlpNCbUA4b) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [Duality](https://open.spotify.com/album/3CrcABa7dWIH4Oxdb0H48Z) | 2:50 | 2022-04-29 | 2022-05-07 |
 | [Back It Up](https://open.spotify.com/track/0OsIIjUneF8iZk5QULuEzk) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:40 | 2021-11-19 | 2022-01-08 |
@@ -221,7 +222,7 @@
 | [Mutation](https://open.spotify.com/track/0p2dTl1xjRTa7Q3OZBS5zW) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Mutation](https://open.spotify.com/album/6Ci4LwlsCj3LqoQR5AyABC) | 3:43 | 2023-08-18 | 2023-09-10 |
 | [Name Drop](https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Name Drop](https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp) | 3:48 | 2022-08-12 |  |
 | [Necromancer](https://open.spotify.com/track/6rEDjNSmWMZj6sm1MPJ4kv) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Necromancer](https://open.spotify.com/album/5YVDOYztnp9fzagSgCyBBn) | 3:13 | 2021-11-19 | 2022-01-08 |
-| [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 | 2022-10-07 |  |
+| [NECROMANCER](https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF) | [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [NECROMANCER EP](https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w) | 3:48 | 2022-10-07 | 2025-01-26 |
 | [Never Be The Same \(feat\. Sara Benyo\)](https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Never Be The Same \(feat\. Sara Benyo\)](https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe) | 3:50 | 2023-01-06 | 2023-08-19 |
 | [Never Come Back](https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Never Come Back](https://open.spotify.com/album/5dP2FwZDkFa1bvOuyKTIPk) | 2:22 | 2024-09-06 |  |
 | [NEW WIP](https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [NEW WIP](https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn) | 3:06 | 2022-04-22 |  |

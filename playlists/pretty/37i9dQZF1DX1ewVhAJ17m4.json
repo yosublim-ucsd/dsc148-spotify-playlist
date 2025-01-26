@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 587708,
+  "num_followers": 587726,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/7z3Kvn354BUVFPRjl7jnOB"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 213600,
       "name": "Suffocate City (feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/0BgznXTc2uhAWCNAkhyzi9"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "tragic love songs to study to [vol. 5]",
-        "url": "https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf"
-      },
-      "artists": [
-        {
-          "name": "DUCKBOY",
-          "url": "https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu"
-        }
-      ],
-      "duration_ms": 202911,
-      "name": "ROUGAROU (i've become the monster)",
-      "url": "https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "DON'T!",
         "url": "https://open.spotify.com/album/0ybgOat40TvYvG3iLc2O20"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 158166,
       "name": "DON'T!",
       "url": "https://open.spotify.com/track/6oIW5g7RHZtok3cjF2nePu"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "tragic love songs to study to [vol. 5]",
+        "url": "https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf"
+      },
+      "artists": [
+        {
+          "name": "DUCKBOY",
+          "url": "https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu"
+        }
+      ],
+      "duration_ms": 202911,
+      "name": "ROUGAROU (i've become the monster)",
+      "url": "https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "NOSE BLEED",
-        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "NOSE BLEED",
-      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "BLINK AND YOU'LL MISS IT//",
         "url": "https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "NOSE BLEED",
+        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
+        "name": "Losing What We Love",
+        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
       },
       "artists": [
         {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
         }
       ],
-      "duration_ms": 175932,
-      "name": "Get Over It",
-      "url": "https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd"
+      "duration_ms": 214505,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Losing What We Love",
-        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
       },
       "artists": [
         {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
         }
       ],
-      "duration_ms": 214505,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
+      "duration_ms": 175932,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/5VtDutJoMnpiL3NNcRtHvd"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "shut up & kiss me",
         "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 161000,
       "name": "shut up & kiss me",
       "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1167,22 +1167,22 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "love bombs",
-        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
+        "name": "Hey Ben",
+        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
       },
       "artists": [
         {
-          "name": "BESTIES",
-          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
         },
         {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
         }
       ],
-      "duration_ms": 205357,
-      "name": "love bombs",
-      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
+      "duration_ms": 200165,
+      "name": "Hey Ben",
+      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Hey Ben",
-        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
+        "name": "love bombs",
+        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
       },
       "artists": [
         {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
         },
         {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
         }
       ],
-      "duration_ms": 200165,
-      "name": "Hey Ben",
-      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+      "duration_ms": 205357,
+      "name": "love bombs",
+      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "nobody",
-        "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 145294,
-      "name": "nobody",
-      "url": "https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "is this what you wanted",
         "url": "https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 225289,
       "name": "is this what you wanted",
       "url": "https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "nobody",
+        "url": "https://open.spotify.com/album/2sJBawOKr8hPG3bgsMvyIB"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 145294,
+      "name": "nobody",
+      "url": "https://open.spotify.com/track/6kp9BhBa7IZnjLUPYTGyaZ"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

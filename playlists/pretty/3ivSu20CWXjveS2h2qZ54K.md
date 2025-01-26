@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,697 likes - 90 songs - 4 hr 49 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,698 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 81 | [VITAMINA](https://open.spotify.com/track/3LBYHlDSJOeUWSvCHXDWy5) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [VITAMINA](https://open.spotify.com/album/1LIiuhDLtsodcyRL70hBmP) | 2:37 |
 | 82 | [Intacto](https://open.spotify.com/track/2J3HaJMIVuIhWWeDIGhod4) | [Sanguijuelas del Guadiana](https://open.spotify.com/artist/1myJQ6hUJMP6cfvwSdjw01) | [Intacto](https://open.spotify.com/album/7oZsRVBaclobO6H56KiGXl) | 3:11 |
 | 83 | [MR SEXO BEAT](https://open.spotify.com/track/46UHoztSBpAc4M7epa31dr) | [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [MR SEXO BEAT](https://open.spotify.com/album/2OVyas15sBBviR8cBMTJpQ) | 2:17 |
-| 84 | [Priscila \(el jerk del Titanic\)](https://open.spotify.com/track/2kM9rSXRStRIlbmgdWW1D8) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7) | [Priscila \(el jerk del Titanic\)](https://open.spotify.com/album/6eZOGl3JfpBZi1XVkXiBY7) | 2:29 |
+| 84 | [Priscila \(el jerk del Titanic\)](https://open.spotify.com/track/2kM9rSXRStRIlbmgdWW1D8) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7), [Yung Naik](https://open.spotify.com/artist/4PhWnSDUrQL81GghbasNDP) | [Priscila \(el jerk del Titanic\)](https://open.spotify.com/album/6eZOGl3JfpBZi1XVkXiBY7) | 2:29 |
 | 85 | [Hannah Montana](https://open.spotify.com/track/2F5krJgw7A1rQucMvLri3A) | [SUOB](https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH), [alequi](https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH), [ru0001](https://open.spotify.com/artist/2mKl8gU4ZLvNQdYk55wLOu) | [Hannah Montana](https://open.spotify.com/album/7dvB78IUDpwyj5Ctlb9DQu) | 2:09 |
 | 86 | [Who Laughs Last \(feat\. Kristen Stewart\)](https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Kristen Stewart](https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6) | [Who Laughs Last](https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD) | 4:43 |
 | 87 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |

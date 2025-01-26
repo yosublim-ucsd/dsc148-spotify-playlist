@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 乃紫
 
-1,807 songs - 4 day 16 hr 10 min
+1,808 songs - 4 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [JANAINDAYO](https://open.spotify.com/track/2Ee7RTET4ZrfKJl6gXZTup) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [JANAINDAYO](https://open.spotify.com/album/7zLiRSoGuRjO4d5Ebmkqy0) | 3:00 | 2023-03-21 | 2023-04-16 |
 | [Jersey \- 2024 Ver.](https://open.spotify.com/track/2sRIsLEsOaIZkys9An4ET4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:34 | 2024-03-07 | 2024-04-19 |
 | [Jiyu to Ao](https://open.spotify.com/track/6ETYfx49mPSSv26SnmsrWJ) | [S.O.H.B](https://open.spotify.com/artist/5NS5sPLW7SVGYC9IU7QAMe) | [Jiyu to Ao](https://open.spotify.com/album/5OGoUraVvL8rva8PSSLCBD) | 3:54 | 2024-02-20 | 2024-02-28 |
-| [JO\-DEKI](https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [JO\-DEKI](https://open.spotify.com/album/1kNoIaapMgPL7ztHDAQ7ru) | 3:25 | 2024-07-30 |  |
+| [JO\-DEKI](https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [JO\-DEKI](https://open.spotify.com/album/1kNoIaapMgPL7ztHDAQ7ru) | 3:25 | 2024-07-30 | 2025-01-26 |
 | [joke](https://open.spotify.com/track/21WdQDRDK2S2IwiAjNwub9) | [YMB](https://open.spotify.com/artist/4sRqEn62eCbn4ltnSZMNN5) | [joke](https://open.spotify.com/album/0H9WMlnLhHHh4UWnAysQuD) | 3:59 | 2022-06-21 | 2022-06-24 |
 | [Jun Bride](https://open.spotify.com/track/2ZkIaIzNRR6P29fFBMwyYY) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [Jun Bride](https://open.spotify.com/album/61aUgqGjFt1lz6ZgNJX5u1) | 4:18 | 2022-05-31 | 2022-07-15 |
 | [Just Be Alive](https://open.spotify.com/track/4OpfbKpEcLBFDFR5084S8q) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 2:53 | 2023-02-15 | 2023-03-01 |
@@ -905,6 +905,7 @@
 | [あなたが吐いた煙を吸った](https://open.spotify.com/track/304gj0ZOaudEFRaoTbvHC2) | [HYLUL](https://open.spotify.com/artist/6OkxL4eH0SW3pwtXWp6ikX) | [あなたが吐いた煙を吸った](https://open.spotify.com/album/0h7cyGlv8SPBDDwQdogYSc) | 3:48 | 2022-07-19 | 2022-07-27 |
 | [あなたはさよならをここに置いていった](https://open.spotify.com/track/6N0T4TmXhocfmKQFG8mfYY) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [Touch the figure](https://open.spotify.com/album/0ArvB0Nzv365pCu1R8R3q2) | 4:34 | 2022-05-31 | 2022-07-22 |
 | [あなたを踊らせたい](https://open.spotify.com/track/6disnHJweSQLGaoAPwF36R) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [あなたを踊らせたい](https://open.spotify.com/album/1xWEFy3OY6pJp6shojQAA1) | 4:51 | 2023-08-30 | 2023-10-04 |
+| [あのね、](https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [あのね、](https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR) | 3:38 | 2025-01-21 |  |
 | [あの夏の少女](https://open.spotify.com/track/4pftmgC7ie69DD7H5K5Epy) | [シバノソウ](https://open.spotify.com/artist/0IqBL0P3P3YYPgztRZY8la) | [あこがれ](https://open.spotify.com/album/3ZQznzvFBOpUv8zCXNmnwG) | 3:18 | 2022-06-27 | 2022-07-20 |
 | [あの笑み \(feat\. ano\)](https://open.spotify.com/track/3ZV2Ikfk9eGJbPZLqLjgQy) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [あの笑み \(feat\. ano\)](https://open.spotify.com/album/1QuHCYOQRcHOfCROj1FrkV) | 4:50 | 2022-06-21 | 2022-06-29 |
 | [あばよ、](https://open.spotify.com/track/2EmNn0bH0C8YN0e6Hei0nT) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [日日爛漫](https://open.spotify.com/album/45sqLJokVzE6iKntXyfHxM) | 4:23 | 2022-06-02 | 2022-06-19 |

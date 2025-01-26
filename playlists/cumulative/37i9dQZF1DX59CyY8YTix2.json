@@ -6982,7 +6982,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 205000,
       "name": "JO-DEKI",
       "url": "https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w"
@@ -16336,6 +16336,24 @@
       "duration_ms": 291431,
       "name": "\u3042\u306a\u305f\u3092\u8e0a\u3089\u305b\u305f\u3044",
       "url": "https://open.spotify.com/track/6disnHJweSQLGaoAPwF36R"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306e\u306d\u3001",
+        "url": "https://open.spotify.com/album/5S4Q6CpID4DgX7VSwneKkR"
+      },
+      "artists": [
+        {
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "\u3042\u306e\u306d\u3001",
+      "url": "https://open.spotify.com/track/2Eg1xs17QUpG5qwp4fq94W"
     },
     {
       "album": {

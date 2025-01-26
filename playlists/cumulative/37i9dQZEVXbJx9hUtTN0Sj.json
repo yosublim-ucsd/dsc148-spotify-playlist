@@ -2036,7 +2036,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 129802,
       "name": "Balafre",
       "url": "https://open.spotify.com/track/6tVuTJ8gSuIphMh50QfhL9"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -4082,7 +4082,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 120000,
       "name": "Chess Type Beat",
       "url": "https://open.spotify.com/track/7faZLp1vnVrx5xzIgImk8T"
@@ -6906,7 +6906,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 231626,
       "name": "FANTASTIC BABY - Japanese ver.",
       "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
@@ -7050,7 +7050,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
@@ -7068,7 +7068,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -10194,7 +10194,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 213040,
       "name": "I Surrender (feat. Lange Frans) - Remix",
       "url": "https://open.spotify.com/track/5v9RI8UmSTgDSsZ8cKENc5"
@@ -10216,7 +10216,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 213040,
       "name": "I Surrender - Remix",
       "url": "https://open.spotify.com/track/7GDEIrIOGdE5AkQfuk1FA3"
@@ -14156,7 +14156,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 151348,
       "name": "Menina de Vermelho",
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
@@ -14270,7 +14270,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 131448,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/32TaXcHMnvuD14F92ZKTI8"
@@ -16630,7 +16630,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 149440,
       "name": "P*RNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
@@ -18388,7 +18388,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 67244,
       "name": "Round and Round",
       "url": "https://open.spotify.com/track/11AXTUsAZO59xdpEOsMyA9"
@@ -20222,6 +20222,24 @@
       "duration_ms": 209000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/250zOPOsHbZPEIeXmmipTR"
+    },
+    {
+      "album": {
+        "name": "Stop Met Wenen",
+        "url": "https://open.spotify.com/album/2MZ2sekKtdsS0cOUPMMDqj"
+      },
+      "artists": [
+        {
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "Stop Met Wenen",
+      "url": "https://open.spotify.com/track/5a1RHWu2BbmqVh9vl2tULE"
     },
     {
       "album": {
@@ -22298,7 +22316,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 310013,
       "name": "Twin Peaks Theme - Instrumental",
       "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
@@ -23676,7 +23694,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 244026,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5wBTPxJisiSQz9vkneZSlr"

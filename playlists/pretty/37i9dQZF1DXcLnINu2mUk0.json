@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: pikika",
-  "num_followers": 48767,
+  "num_followers": 48809,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2025-01-24 00:05:25",
       "album": {
-        "name": "Quem \u00c9s Tu?",
-        "url": "https://open.spotify.com/album/0LZdhv03RelWKub0dwfzsI"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "FRANKIEONTHEGUITAR",
-          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
-        }
-      ],
-      "duration_ms": 160601,
-      "name": "Quem \u00c9s Tu?",
-      "url": "https://open.spotify.com/track/6K079nY6HFDiA0dx98P4dl"
-    },
-    {
-      "added_at": "2025-01-24 00:05:25",
-      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/6xbIjf6sv5M4I9GT0NuEcj"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2025-01-24 00:05:25",
+      "album": {
+        "name": "Quem \u00c9s Tu?",
+        "url": "https://open.spotify.com/album/0LZdhv03RelWKub0dwfzsI"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        }
+      ],
+      "duration_ms": 160601,
+      "name": "Quem \u00c9s Tu?",
+      "url": "https://open.spotify.com/track/6K079nY6HFDiA0dx98P4dl"
     },
     {
       "added_at": "2025-01-24 00:05:25",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-01-24 00:05:25",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "S\u00f3 D\u00e1",
-      "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
-    },
-    {
-      "added_at": "2025-01-24 00:05:25",
-      "album": {
         "name": "Rico",
         "url": "https://open.spotify.com/album/4XaCt1n13B6VkhzqLzAgTu"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 174428,
       "name": "Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
+    },
+    {
+      "added_at": "2025-01-24 00:05:25",
+      "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 201962,
+      "name": "S\u00f3 D\u00e1",
+      "url": "https://open.spotify.com/track/3LcKyZ2ks4uoiap6wo0LPc"
     },
     {
       "added_at": "2025-01-24 00:05:25",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-24 00:05:25",
       "album": {
-        "name": "Lugar Favorito",
-        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Lugar Favorito",
-      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
-    },
-    {
-      "added_at": "2025-01-24 00:05:25",
-      "album": {
         "name": "longe.com",
         "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 197511,
       "name": "longe.com",
       "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
+    },
+    {
+      "added_at": "2025-01-24 00:05:25",
+      "album": {
+        "name": "Lugar Favorito",
+        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Lugar Favorito",
+      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
     },
     {
       "added_at": "2025-01-24 00:05:25",

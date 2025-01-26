@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Max McNown",
-  "num_followers": 82097,
+  "num_followers": 82130,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
+        "name": "Waiting Ain't Easy",
+        "url": "https://open.spotify.com/album/5Ca7m5PEN7V7CXSF9X3T1b"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Waiting Ain't Easy",
+      "url": "https://open.spotify.com/track/40aGiIqPh8pY0qfGwfJ2PR"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
         "name": "The Mountain Is You",
         "url": "https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 196560,
       "name": "So Far Gone (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Waiting Ain't Easy",
-        "url": "https://open.spotify.com/album/5Ca7m5PEN7V7CXSF9X3T1b"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        },
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Waiting Ain't Easy",
-      "url": "https://open.spotify.com/track/40aGiIqPh8pY0qfGwfJ2PR"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Patterns",
-        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 260509,
-      "name": "Patterns",
-      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
         "name": "Bovine Excision",
         "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
       },
@@ -667,6 +651,38 @@
       "duration_ms": 173177,
       "name": "Bovine Excision",
       "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Anytime, Anyplace, Anyhow",
+        "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 227147,
+      "name": "Anytime, Anyplace, Anyhow",
+      "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -759,22 +775,6 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "I Guess",
-      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
         "name": "Maine/The Sink",
         "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 293389,
       "name": "Maine",
       "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -903,22 +919,6 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Anytime, Anyplace, Anyhow",
-        "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 227147,
-      "name": "Anytime, Anyplace, Anyhow",
-      "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
         "name": "Lose You Now",
         "url": "https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG"
       },
@@ -967,6 +967,26 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
+        "name": "Good Thing Going On (ft. Abbey Cone)",
+        "url": "https://open.spotify.com/album/4Vv0XphWxHApFjEI3tSFav"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        },
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Good Thing Going On (ft. Abbey Cone)",
+      "url": "https://open.spotify.com/track/7GHs0BFoFRwswFfwrt080E"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR"
       },
@@ -999,22 +1019,18 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Good Thing Going On (ft. Abbey Cone)",
-        "url": "https://open.spotify.com/album/4Vv0XphWxHApFjEI3tSFav"
+        "name": "Peace of Mind (Morning)",
+        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
       },
       "artists": [
         {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        },
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 171373,
-      "name": "Good Thing Going On (ft. Abbey Cone)",
-      "url": "https://open.spotify.com/track/7GHs0BFoFRwswFfwrt080E"
+      "duration_ms": 212586,
+      "name": "Peace of Mind (Morning)",
+      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -1031,22 +1047,6 @@
       "duration_ms": 192000,
       "name": "Cowboys Cry",
       "url": "https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Peace of Mind (Morning)",
-        "url": "https://open.spotify.com/album/4yhi2Ygz3x0Rv67xTTnMhq"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Peace of Mind (Morning)",
-      "url": "https://open.spotify.com/track/304kMmkKEVUVQOcT2WNhaq"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "added_at": "2025-01-24 05:00:55",
+      "album": {
         "name": "Timeline",
         "url": "https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ"
       },
@@ -1143,26 +1159,6 @@
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
-    },
-    {
-      "added_at": "2025-01-24 05:00:55",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 222177,
-      "name": "Wildflower and Barley",
-      "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
     },
     {
       "added_at": "2025-01-24 05:00:55",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2025-01-24 05:00:55",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley",
+      "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
     },
     {
       "added_at": "2025-01-24 05:00:55",

@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Acid N Bass",
+        "url": "https://open.spotify.com/album/3VLPaf4fULBAwJLRTWCJJs"
+      },
+      "artists": [
+        {
+          "name": "Bessey",
+          "url": "https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145011,
+      "name": "Acid N Bass",
+      "url": "https://open.spotify.com/track/6lEeyygX32aLDoqVZHpr90"
+    },
+    {
+      "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/1Ade7PPK4KdxDXZty5rDNA"
       },
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 256655,
       "name": "Body Heat",
       "url": "https://open.spotify.com/track/5AIAY2scRETOQ0aJ8zv1Lt"
@@ -1235,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "Bring Down",
+        "url": "https://open.spotify.com/album/6ZDhe5lkc9SVa6fccIYuj8"
+      },
+      "artists": [
+        {
+          "name": "Buogo",
+          "url": "https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136874,
+      "name": "Bring Down",
+      "url": "https://open.spotify.com/track/0CbHfPhhYPQ5wQetSlwh83"
+    },
+    {
+      "album": {
         "name": "Toolroom Radio EP744 - Presented by ESSEL",
         "url": "https://open.spotify.com/album/5kJmFmmPipJ9L3gOMlolNd"
       },
@@ -1342,7 +1378,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 262475,
       "name": "Bump Bump",
       "url": "https://open.spotify.com/track/0FzbwOZf7421xneO8cr2o8"
@@ -1484,7 +1520,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 162519,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/3ZK5YH5JMV9iVOJnGgBkjz"
@@ -2611,6 +2647,28 @@
     },
     {
       "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145581,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
+    },
+    {
+      "album": {
         "name": "Elemi",
         "url": "https://open.spotify.com/album/6FLR4kWvR1MldVe4Jem7qN"
       },
@@ -2808,7 +2866,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 159728,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/2mrQxljHrPJ4Rk6DC2TcHE"
@@ -3482,7 +3540,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 187086,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
@@ -3792,6 +3850,24 @@
       "duration_ms": 164160,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/47nm46iNKraVa2bGu8TYlz"
+    },
+    {
+      "album": {
+        "name": "Good Girls",
+        "url": "https://open.spotify.com/album/1W3FM6uGpmdwSZE4EF0RAI"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181850,
+      "name": "Good Girls",
+      "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
     },
     {
       "album": {
@@ -4297,6 +4373,28 @@
     },
     {
       "album": {
+        "name": "I Found God",
+        "url": "https://open.spotify.com/album/7rwwFOyFaq4dFji6Og3fxn"
+      },
+      "artists": [
+        {
+          "name": "Spencer Arnold",
+          "url": "https://open.spotify.com/artist/0021eUtLLUzezMdRezE4gB"
+        },
+        {
+          "name": "EMSKI",
+          "url": "https://open.spotify.com/artist/3UqDUfl2fG8ygrFRlgHVZK"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "I Found God",
+      "url": "https://open.spotify.com/track/3yVTZCRo3TK5j5Sio35b7o"
+    },
+    {
+      "album": {
         "name": "I Got Nothing",
         "url": "https://open.spotify.com/album/32wadIN0emxBanTLINlH08"
       },
@@ -4670,7 +4768,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 174659,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7wyAHcp9fxfTKZhHNoABRp"
@@ -5320,7 +5418,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 246000,
       "name": "Love in the Middle of a Firefight (feat. Brendon Urie) - Eleganto Remix",
       "url": "https://open.spotify.com/track/2ujqWumPtUerdYt6G6yGwb"
@@ -5396,7 +5494,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 183750,
       "name": "Medellin",
       "url": "https://open.spotify.com/track/2bijAaIbxHSXwJ0gU51No9"
@@ -5418,6 +5516,28 @@
       "duration_ms": 161250,
       "name": "Medication",
       "url": "https://open.spotify.com/track/0O5biHmPWpR1OSuibeCBny"
+    },
+    {
+      "album": {
+        "name": "Meet Me",
+        "url": "https://open.spotify.com/album/7kTofDLq6VNA0IfO7ySeqt"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "EME",
+          "url": "https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154534,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/0G13XMunpgihhWzsunhQjm"
     },
     {
       "album": {
@@ -5520,6 +5640,24 @@
       "duration_ms": 157440,
       "name": "Midas",
       "url": "https://open.spotify.com/track/0tBGa2OTOiYIpfLhdrEauJ"
+    },
+    {
+      "album": {
+        "name": "Midnight Trip",
+        "url": "https://open.spotify.com/album/6HNCtwAe16YWpp2i5HKbk6"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Midnight Trip",
+      "url": "https://open.spotify.com/track/0kcM5HzMLTc3K15an6nZcJ"
     },
     {
       "album": {
@@ -8378,7 +8516,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 162656,
       "name": "Sweet Escape - Radio Mix",
       "url": "https://open.spotify.com/track/62kj9gsxBxQlOryh5vmWcf"
@@ -8550,6 +8688,40 @@
       "duration_ms": 184615,
       "name": "take your vibes and go - DJ ADHD & Chlo\u00e9 Robinson Remix",
       "url": "https://open.spotify.com/track/1P5uvuPPTtbG8gPfWuODtq"
+    },
+    {
+      "album": {
+        "name": "take your vibes and go (Kino Todo Remix)",
+        "url": "https://open.spotify.com/album/6QO7xdsYKFRiYpAjHIgGow"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Kino Todo",
+          "url": "https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220033,
+      "name": "take your vibes and go - Kino Todo Remix",
+      "url": "https://open.spotify.com/track/7rKntPgNiS11cRF8kBNfIR"
     },
     {
       "album": {
@@ -8881,6 +9053,28 @@
     },
     {
       "album": {
+        "name": "Hox House EP",
+        "url": "https://open.spotify.com/album/0Ih3r9zSW1O4r59jupTKaq"
+      },
+      "artists": [
+        {
+          "name": "Tim Hox",
+          "url": "https://open.spotify.com/artist/64ydm7vEEBjvH4AeC1slRM"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "The Day",
+      "url": "https://open.spotify.com/track/0R5hRmcVua08TEmj0n7vFH"
+    },
+    {
+      "album": {
         "name": "THE DEALER",
         "url": "https://open.spotify.com/album/1c5zRo1iIW0eMmP7YD70Ec"
       },
@@ -8936,7 +9130,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 139604,
       "name": "The Music Began To Play - TR760",
       "url": "https://open.spotify.com/track/3RhWuPbQKnjUV4dWreTqg6"
@@ -10078,6 +10272,24 @@
       "duration_ms": 181715,
       "name": "Wiggle",
       "url": "https://open.spotify.com/track/5MbtoOI96B0ksVQKgxzb3s"
+    },
+    {
+      "album": {
+        "name": "Wish You Would",
+        "url": "https://open.spotify.com/album/0yz6WsEcvDEUhW9QcSEB86"
+      },
+      "artists": [
+        {
+          "name": "JOXION",
+          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "Wish You Would",
+      "url": "https://open.spotify.com/track/6R1N8i2RqUH6QcNqsXC0Jh"
     },
     {
       "album": {

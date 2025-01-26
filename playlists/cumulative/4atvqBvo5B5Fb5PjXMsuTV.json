@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Jan 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Jan 19:01 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1396,6 +1396,24 @@
       "duration_ms": 187686,
       "name": "A Hole In The Ground",
       "url": "https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP"
+    },
+    {
+      "album": {
+        "name": "A Hope in Hell",
+        "url": "https://open.spotify.com/album/6Ymel2c6mZAXniReN8krly"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "A Hope in Hell",
+      "url": "https://open.spotify.com/track/1GlpZywdEnu3VVhrzRgwmY"
     },
     {
       "album": {
@@ -3784,7 +3802,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 130813,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP"
@@ -13217,6 +13235,28 @@
     },
     {
       "album": {
+        "name": "Coco Chanel",
+        "url": "https://open.spotify.com/album/5lS4IrCRyyiA2y8GYgVh6l"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "Coco Chanel",
+      "url": "https://open.spotify.com/track/1ZfewkEU3CwEjBwVzYkNRP"
+    },
+    {
+      "album": {
         "name": "Coda",
         "url": "https://open.spotify.com/album/5GaHWICFVGzEGg8ndmQmsP"
       },
@@ -14563,6 +14603,32 @@
     },
     {
       "album": {
+        "name": "credit card knife",
+        "url": "https://open.spotify.com/album/2VC2NQnIhvGXykkK1FsPzn"
+      },
+      "artists": [
+        {
+          "name": "food house",
+          "url": "https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g"
+        },
+        {
+          "name": "Gupi",
+          "url": "https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196981,
+      "name": "credit card knife",
+      "url": "https://open.spotify.com/track/6Ca5TrpWW27p7oU9WGDz3G"
+    },
+    {
+      "album": {
         "name": "Creepshow",
         "url": "https://open.spotify.com/album/6Gf5k8HG0ccFNibSJiXnbh"
       },
@@ -15772,7 +15838,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 141922,
       "name": "Dare U",
       "url": "https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS"
@@ -19572,7 +19638,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 84846,
       "name": "Easter Pink",
       "url": "https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY"
@@ -20406,6 +20472,24 @@
       "duration_ms": 190336,
       "name": "Entrop\u00eda",
       "url": "https://open.spotify.com/track/2CBG4JM0DIGZOBOHsVffYF"
+    },
+    {
+      "album": {
+        "name": "Enything",
+        "url": "https://open.spotify.com/album/5dOyFR717iZJDNeOoWtHQj"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281526,
+      "name": "Enything",
+      "url": "https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO"
     },
     {
       "album": {
@@ -48248,7 +48332,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 225882,
       "name": "One Way! 2",
       "url": "https://open.spotify.com/track/3Jl77VcjXq1xAYctuzFMHz"
@@ -54424,6 +54508,24 @@
       "duration_ms": 171973,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx"
+    },
+    {
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
       "album": {
@@ -69016,7 +69118,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 201398,
       "name": "Treasure & Gold",
       "url": "https://open.spotify.com/track/52BSDtdTZwLXluBjwtyQmZ"

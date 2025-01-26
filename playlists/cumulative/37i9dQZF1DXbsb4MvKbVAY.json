@@ -1827,6 +1827,28 @@
     },
     {
       "album": {
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180091,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "album": {
         "name": "Chat",
         "url": "https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF"
       },
@@ -8928,7 +8950,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 170021,
       "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
       "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"

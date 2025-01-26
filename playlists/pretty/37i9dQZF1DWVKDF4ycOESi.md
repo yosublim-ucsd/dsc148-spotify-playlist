@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Gazzelle in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,666 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,699 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 81 | [BOMBER](https://open.spotify.com/track/2WKfA9JCidi3MKvS7v178d) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc) | [BOMBER](https://open.spotify.com/album/6dE6Q4Oz7o2GC5J4UeaIvH) | 2:54 |
 | 82 | [Percorsi](https://open.spotify.com/track/234zm0kToa6CGejJy1wEJU) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Percorsi](https://open.spotify.com/album/0Dvud64uguAmde1UC6eH4e) | 2:25 |
 | 83 | [don't cry](https://open.spotify.com/track/26cgv21Q1rO7JZJEIiViR1) | [FOLLYA](https://open.spotify.com/artist/2uztPVbnSmRuYUXqmGLmnz) | [don't cry](https://open.spotify.com/album/0azPz9W1ZkRAoEmzRHw8oo) | 2:48 |
-| 84 | [Bolingo Malenbè](https://open.spotify.com/track/0yVBjoZjVVir7R29I2sg60) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw) | [Bolingo Malenbè](https://open.spotify.com/album/2xmJ9FRGOEN3bbLabZTEB2) | 4:20 |
+| 84 | [Bolingo Malenbè](https://open.spotify.com/track/0yVBjoZjVVir7R29I2sg60) | [Adiel](https://open.spotify.com/artist/1yetl1fEx0mE16k164jXvw), [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J) | [Bolingo Malenbè](https://open.spotify.com/album/2xmJ9FRGOEN3bbLabZTEB2) | 4:20 |
 | 85 | [Libero](https://open.spotify.com/track/5t0uCMCzg4rXR5n0xiaHBR) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Libero](https://open.spotify.com/album/2BL9H5Ij4EkVkkPBp2BuEc) | 3:38 |
 | 86 | [Hulahoop](https://open.spotify.com/track/5lsRBYyvR4kbqQNtcdbEjH) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Discoteca Vivace](https://open.spotify.com/album/72wFZOQ7vpg1XsX3JmtKKY) | 4:17 |
 | 87 | [FATTI COSÌ](https://open.spotify.com/track/6CCAPRksy5Y4J4Gxtssxsz) | [ALTA MAREA](https://open.spotify.com/artist/3NUZDKDq24x2UG0P1xTah9), [Suppain](https://open.spotify.com/artist/1heDhdwclEV8m5diiX50hI), [Astruso](https://open.spotify.com/artist/3KAdDKm0QZlus9E20UaZlp), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf), [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ) | [FATTI COSÌ](https://open.spotify.com/album/1TzxO52D1ARjci6aNHAYBN) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1311,
+  "num_followers": 1310,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,26 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 185524,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Heathrow",
         "url": "https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 195675,
       "name": "By The Sea",
       "url": "https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Love You Better",
-        "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
-      },
-      "artists": [
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 185524,
-      "name": "Love You Better",
-      "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "B\u00e4ttre dar",
-        "url": "https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo"
-      },
-      "artists": [
-        {
-          "name": "Alex J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
-        }
-      ],
-      "duration_ms": 161886,
-      "name": "B\u00e4ttre dar",
-      "url": "https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Without Calling",
         "url": "https://open.spotify.com/album/2seZnoNRl94w7Qfrwgwn6x"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 184157,
       "name": "Without Calling",
       "url": "https://open.spotify.com/track/65M5rwETpwZenkeSyCBgjI"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "B\u00e4ttre dar",
+        "url": "https://open.spotify.com/album/4d4bCgMBBzYLENfsMyHQYo"
+      },
+      "artists": [
+        {
+          "name": "Alex J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE"
+        }
+      ],
+      "duration_ms": 161886,
+      "name": "B\u00e4ttre dar",
+      "url": "https://open.spotify.com/track/3r500SBGbGkEDUCtBaN5rC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -651,6 +651,22 @@
       "duration_ms": 335733,
       "name": "My Love For You",
       "url": "https://open.spotify.com/track/7pwctg6xFE9ihh3gcoQWTf"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Flowers at a Funeral",
+        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Flowers at a Funeral",
+      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -735,22 +751,6 @@
       "duration_ms": 180436,
       "name": "Don't Wanna Be Saved",
       "url": "https://open.spotify.com/track/3aoRFWXptB9Xfh7zq0RLd1"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Flowers at a Funeral",
-        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Flowers at a Funeral",
-      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Wa Nibi",
-        "url": "https://open.spotify.com/album/30SFFOEsMJKrTink00To4d"
-      },
-      "artists": [
-        {
-          "name": "Harrison First",
-          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
-        }
-      ],
-      "duration_ms": 154084,
-      "name": "Wa Nibi",
-      "url": "https://open.spotify.com/track/7jZESJkAP1efDTqaDTJXBi"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 217846,
       "name": "Light",
       "url": "https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Wa Nibi",
+        "url": "https://open.spotify.com/album/30SFFOEsMJKrTink00To4d"
+      },
+      "artists": [
+        {
+          "name": "Harrison First",
+          "url": "https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo"
+        }
+      ],
+      "duration_ms": 154084,
+      "name": "Wa Nibi",
+      "url": "https://open.spotify.com/track/7jZESJkAP1efDTqaDTJXBi"
     },
     {
       "added_at": "2024-12-04 12:15:00",

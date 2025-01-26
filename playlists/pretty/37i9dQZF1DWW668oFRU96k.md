@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: OneRepublic x Kygo
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,994 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,025 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 3 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
 | 4 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
 | 5 | [Bittersweet](https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Bittersweet](https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE) | 3:32 |
-| 6 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
+| 6 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
 | 7 | [Forever \(feat\. Malou & Yuna\) \- MEDUZA Remix](https://open.spotify.com/track/5VBBDXY6cM1Jv364a4ncxU) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\) \[MEDUZA Remix\]](https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp) | 2:41 |
 | 8 | [Akon's Beautiful Day \- David Guetta & Hypaton Remix](https://open.spotify.com/track/1RKqTwaovKWaxs9I8xdygQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [Akon's Beautiful Day \(David Guetta & Hypaton Remix\)](https://open.spotify.com/album/1jXTJXYCsFXQ5cdHEPgE06) | 2:55 |
 | 9 | [INFERNO](https://open.spotify.com/track/6WqNV3V9tITvbjW3R1l4Rd) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [INFERNO](https://open.spotify.com/album/098hdrQn281rt3DPWAuHmC) | 2:59 |

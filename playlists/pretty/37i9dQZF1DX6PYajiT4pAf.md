@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Aitana y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,633 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,736 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 44 | [nada importa](https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [nada importa](https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3) | 2:58 |
 | 45 | [Bailar y Llorar](https://open.spotify.com/track/2r7dqaPDXf5agh2cqFfYjp) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Museo de las Desilusiones](https://open.spotify.com/album/4v1t5YPaVxisQ4Tre5UK2S) | 3:29 |
 | 46 | [COMODINES](https://open.spotify.com/track/2onnW5yUQgDnu2x3TzUghf) | [L'haine](https://open.spotify.com/artist/7tXH4uI7BOE7hFBazlah0q) | [COMODINES](https://open.spotify.com/album/5m8VfVPSiiC7VHfLuGUdJM) | 3:04 |
-| 47 | [millonaires boys club](https://open.spotify.com/track/6dwngn55wjy57qnI2t1pv6) | [Ruven](https://open.spotify.com/artist/28alLwceRIxNti9r9M9sPf) | [LAS 4 DE LONDRES](https://open.spotify.com/album/7icCMlBw9adnwldghlufXH) | 3:02 |
+| 47 | [millionaires boys club](https://open.spotify.com/track/6dwngn55wjy57qnI2t1pv6) | [Ruven](https://open.spotify.com/artist/28alLwceRIxNti9r9M9sPf) | [LAS 4 DE LONDRES](https://open.spotify.com/album/7icCMlBw9adnwldghlufXH) | 3:02 |
 | 48 | [Me acuerdo de todo](https://open.spotify.com/track/2hscOVTRgUzzSCUZkITbRd) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [ME ACUERDO DE TODO](https://open.spotify.com/album/2jJZrb7rsyKOItsmWYw4tQ) | 3:45 |
 | 49 | [Fases](https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Fases](https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp) | 3:45 |
-| 50 | [Priscila \(el jerk del Titanic\)](https://open.spotify.com/track/2kM9rSXRStRIlbmgdWW1D8) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7) | [Priscila \(el jerk del Titanic\)](https://open.spotify.com/album/6eZOGl3JfpBZi1XVkXiBY7) | 2:29 |
+| 50 | [Priscila \(el jerk del Titanic\)](https://open.spotify.com/track/2kM9rSXRStRIlbmgdWW1D8) | [Mda](https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7), [Yung Naik](https://open.spotify.com/artist/4PhWnSDUrQL81GghbasNDP) | [Priscila \(el jerk del Titanic\)](https://open.spotify.com/album/6eZOGl3JfpBZi1XVkXiBY7) | 2:29 |
 | 51 | [LUJURIA](https://open.spotify.com/track/0vEhbFj2hNcrgMOVnch8UX) | [Yeico X Toni](https://open.spotify.com/artist/5ZwHSnkRmmVg73BeI4Ne4f), [Fectro](https://open.spotify.com/artist/34Tgpgu56FedPkQ23qcq1M) | [FIVE](https://open.spotify.com/album/0X2beRVZNDW9wPTBoZktZK) | 2:31 |
 | 52 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 |
 | 53 | [boss](https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [boss](https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe) | 2:11 |

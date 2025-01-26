@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Soledad & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,861 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,935 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DEL BARRIO PA LA CANCHA](https://open.spotify.com/track/5IOWuTSkegv0IaRiTOljso) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [DEL BARRIO PA LA CANCHA](https://open.spotify.com/album/7ruhmTNwERkgSAWxlnUo8C) | 2:08 |
 | 2 | [Clásicos 1.0: Entrega](https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Clásicos 1.0: Entrega](https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq) | 4:57 |
-| 3 | [Somos o no somos](https://open.spotify.com/track/2AZ23mGgDkXaeuM49kzRWl) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Somos o no somos](https://open.spotify.com/album/2WZMuMeSmu4RQyGx5fWGLU) | 2:45 |
+| 3 | [Somos o no somos](https://open.spotify.com/track/2AZ23mGgDkXaeuM49kzRWl) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Somos o no somos?](https://open.spotify.com/album/2WZMuMeSmu4RQyGx5fWGLU) | 2:45 |
 | 4 | [Se Me Subió a la Cabeza](https://open.spotify.com/track/5DPGJa7K4dTByJG9BF1t7r) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Se Me Subió a la Cabeza](https://open.spotify.com/album/1xq8nEeT1blmO9zm9TjSQN) | 2:09 |
 | 5 | [Te Pido Perdón](https://open.spotify.com/track/1BHrguT8AtaICBxOrXF8Zv) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Te Pido Perdón](https://open.spotify.com/album/3mlj3O44Smz42yvlGbuGpt) | 2:52 |
 | 6 | [En La Cara \- Versión Cumbia](https://open.spotify.com/track/6OkJabrgq8bKARQAE0yFY9) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [En La Cara \(Versión Cumbia\)](https://open.spotify.com/album/3QA5LnAvvF1meiTggtg4Xc) | 2:04 |

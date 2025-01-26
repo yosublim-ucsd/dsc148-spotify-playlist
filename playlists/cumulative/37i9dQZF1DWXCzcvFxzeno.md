@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-219 songs - 16 hr 54 min
+220 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Chaos Magicka](https://open.spotify.com/track/5I5urH7JO7rRAUI4JCodLW) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Chaos Magicka](https://open.spotify.com/album/0diP5S4t1ExwK7TWcD7Z4N) | 7:08 | 2024-04-09 | 2024-09-07 |
 | [Check This Out](https://open.spotify.com/track/3a89QceqmzHlPRaogH5nJw) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Check This Out](https://open.spotify.com/album/1XnfpLcJqpAZsnpj7StCSn) | 2:47 | 2024-11-08 | 2025-01-21 |
 | [Close Your Eyes](https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9) | 5:01 | 2024-04-09 |  |
-| [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-04-09 |  |
+| [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-04-09 | 2025-01-26 |
 | [Come With Me](https://open.spotify.com/track/0YAjsNY7yy3zbvX3HB2cP1) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [Come With Me EP](https://open.spotify.com/album/4DuL4YsE1cpJ8kS7pKJ4VJ) | 5:13 | 2024-04-09 | 2024-08-06 |
 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 | 2024-04-09 | 2024-10-01 |
 | [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-24 |  |
@@ -99,6 +99,7 @@
 | [Half Faces \(Lacchesi Remix\)](https://open.spotify.com/track/0yy7fr4DlmoEEWN82vfwli) | [Baraka](https://open.spotify.com/artist/6EjnvgTO514mUFDlwZtUu7), [Lacchesi](https://open.spotify.com/artist/5o4fYRhRy7bjAnroRtj5Qs) | [Half Faces \(Remixes\)](https://open.spotify.com/album/5CoyBDHyYJI4CrllwYE5kY) | 5:40 | 2024-04-09 | 2024-11-19 |
 | [Hard Kicks Cheap Thrills](https://open.spotify.com/track/4iSh4ydsRjWuM5B6Gq8vkK) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Hard Kicks Cheap Thrills](https://open.spotify.com/album/6yszF8HOJA3jlfl0b0CvjL) | 4:24 | 2024-04-09 | 2024-11-29 |
 | [HEAR THE NOISE](https://open.spotify.com/track/2CDVqCda38968ZRoo4LO3Z) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [HEAR THE NOISE](https://open.spotify.com/album/1wTPukZeH3Vn1M9UzLb4ye) | 2:46 | 2024-04-09 |  |
+| [HEAR THIZ MF](https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [HEAR THIZ MF](https://open.spotify.com/album/03OA9l45Pee4ix15dXhtxX) | 2:23 | 2025-01-24 |  |
 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 | 2024-05-31 |  |
 | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/track/4pHPgZOypoLFxt7oRoyjaQ) | [ÅMRTÜM](https://open.spotify.com/artist/3bb7lqTA4RWzdAXpdfR5VK), [Synta](https://open.spotify.com/artist/3xs9xI64jtMn4Z0S2nNiq2) | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/album/1b7NKQ854B78JCooKptg4F) | 4:48 | 2024-04-09 |  |
 | [High On C](https://open.spotify.com/track/48oFEZWfCjhLQuZHkKwAVW) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:18 | 2024-07-18 | 2024-07-22 |

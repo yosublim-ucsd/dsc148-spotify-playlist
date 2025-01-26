@@ -1503,6 +1503,28 @@
     },
     {
       "album": {
+        "name": "Traicionera (Baile Total)",
+        "url": "https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Lloraras",
+      "url": "https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy"
+    },
+    {
+      "album": {
         "name": "15 Exitos De- Oscar D Leon",
         "url": "https://open.spotify.com/album/412ARc7ByOTB5iwnc6fZ6i"
       },
@@ -1518,24 +1540,6 @@
       "duration_ms": 221007,
       "name": "Lloraras",
       "url": "https://open.spotify.com/track/23Fw0qh3Onqn2276LiL2pT"
-    },
-    {
-      "album": {
-        "name": "Traicionera (Baile Total)",
-        "url": "https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "date_added": "2021-11-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222200,
-      "name": "Lloraras",
-      "url": "https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 95067,
+  "num_followers": 95263,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 182724,
       "name": "Apple Juice",
       "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/5ddIWQKK8ViScna6B0ARAl"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/2YNLzBRGyCAzHEGPO3J2Sb"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -385,6 +385,22 @@
       "url": "https://open.spotify.com/track/1NTluDanyn4ET8RTYi0H1I"
     },
     {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 182685,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
       "added_at": "2024-10-09 21:20:16",
       "album": {
         "name": "Moon Music",
@@ -415,22 +431,6 @@
       "duration_ms": 191746,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 182685,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Gaga",
-        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 188304,
-      "name": "Gaga",
-      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "All You Children",
         "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 254142,
       "name": "All You Children",
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Gaga",
+        "url": "https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 188304,
+      "name": "Gaga",
+      "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Incredible (feat. Labrinth)",
-        "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 213632,
-      "name": "Incredible (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Can\u2019t Walk Away",
         "url": "https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 171620,
       "name": "Can\u2019t Walk Away",
       "url": "https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Incredible (feat. Labrinth)",
+        "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 213632,
+      "name": "Incredible (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 237567,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 254346,
       "name": "The End",
       "url": "https://open.spotify.com/track/5lhIY0YgH7JhszpQNUC1dm"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 150005,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "King of Sweden",
         "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+        "name": "Call",
+        "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
       },
       "artists": [
         {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
         }
       ],
-      "duration_ms": 182307,
-      "name": "Run, Run, Run",
-      "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
+      "duration_ms": 150005,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 165244,
       "name": "Ancora, Ancora, Ancora",
       "url": "https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+      },
+      "artists": [
+        {
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Run, Run, Run",
+      "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1085,30 +1085,6 @@
       "url": "https://open.spotify.com/track/2Ga6DGCB9Lt5b8ls5UCSNp"
     },
     {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Duoteque",
-          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 327508,
-      "name": "ItsNotREEAALLLLLLLL",
-      "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
-    },
-    {
       "added_at": "2024-09-16 18:33:06",
       "album": {
         "name": "NASSY",
@@ -1143,6 +1119,30 @@
       "duration_ms": 124013,
       "name": "Cartwheels",
       "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Duoteque",
+          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 327508,
+      "name": "ItsNotREEAALLLLLLLL",
+      "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Allergy",
-        "url": "https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Allergy",
-      "url": "https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Wikidest DJ",
         "url": "https://open.spotify.com/album/0kbT9bsuLwT17rK9zp3Gzr"
       },
@@ -1315,22 +1299,18 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "My Reason",
-        "url": "https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK"
+        "name": "Allergy",
+        "url": "https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr"
       },
       "artists": [
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 189375,
-      "name": "My Reason",
-      "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
+      "duration_ms": 152613,
+      "name": "Allergy",
+      "url": "https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1351,6 +1331,26 @@
       "duration_ms": 157424,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "My Reason",
+        "url": "https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "My Reason",
+      "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "What Type Of Girl Am I?",
-      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/68jC22x5sVxqj9GJHziVr8"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 253057,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/10vuEcEgX3uG7NNf4rAp7k"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "What Type Of Girl Am I?",
+      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1703,34 +1703,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Hey Hey Hey",
-        "url": "https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
-        },
-        {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
-        },
-        {
-          "name": "Nadia Rose",
-          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
-        },
-        {
-          "name": "LEVi",
-          "url": "https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ"
-        }
-      ],
-      "duration_ms": 173873,
-      "name": "Hey Hey Hey",
-      "url": "https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "samba de rua",
         "url": "https://open.spotify.com/album/09yJxhmXzfP1BVwgOOJdmr"
       },
@@ -1759,6 +1731,34 @@
       "duration_ms": 226337,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Hey Hey Hey",
+        "url": "https://open.spotify.com/album/1jD05fGR05M8ze5bRQ1H0e"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
+        },
+        {
+          "name": "Nadia Rose",
+          "url": "https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO"
+        },
+        {
+          "name": "LEVi",
+          "url": "https://open.spotify.com/artist/35tQrzefvgJuC7OYJp14oQ"
+        }
+      ],
+      "duration_ms": 173873,
+      "name": "Hey Hey Hey",
+      "url": "https://open.spotify.com/track/1lsgebKJsXBAgp45vsyPit"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/2iIEK9OCit36V2wOxAlJY9"
+      },
+      "artists": [
+        {
+          "name": "Kat Dahlia",
+          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Futuro Amor",
+      "url": "https://open.spotify.com/track/51SFG4BRBBefJqXdy9acFE"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "THE FUTURE IS ANCESTRAL",
         "url": "https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 147920,
       "name": "BABE",
       "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/2iIEK9OCit36V2wOxAlJY9"
-      },
-      "artists": [
-        {
-          "name": "Kat Dahlia",
-          "url": "https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Futuro Amor",
-      "url": "https://open.spotify.com/track/51SFG4BRBBefJqXdy9acFE"
     },
     {
       "added_at": "2024-09-16 11:00:00",

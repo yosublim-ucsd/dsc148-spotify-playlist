@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,581 likes - 88 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,650 likes - 88 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 15 | [Reservetank](https://open.spotify.com/track/6iXE61bzfiLKYhm7dWQUn0) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Reservetank](https://open.spotify.com/album/2Yec3NY61hKYboTn2UtbiG) | 2:36 |
 | 16 | [Night In Detroit \(feat\. Fedde Le Grand\)](https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Night In Detroit \(feat\. Fedde Le Grand\)](https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1) | 2:46 |
 | 17 | [Whatever](https://open.spotify.com/track/0LJtogguqMPVg0nkW9PFk9) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Whatever](https://open.spotify.com/album/4mwRHYpnfvMG67A3YT1HUE) | 2:46 |
-| 18 | [Deep Fear](https://open.spotify.com/track/2w95hYvNjSscsijPsYGS8r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Side Kick](https://open.spotify.com/artist/6nlvnQ4AFIeqzzD0pWTwlR) | [Deep Fear](https://open.spotify.com/album/5VxZLYZ35mQC7mE8UxBOjP) | 2:19 |
+| 18 | [Deep Fear](https://open.spotify.com/track/2w95hYvNjSscsijPsYGS8r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Sidekick](https://open.spotify.com/artist/6q9gCO6m4qEl9UiPAjSFiq) | [Deep Fear](https://open.spotify.com/album/5VxZLYZ35mQC7mE8UxBOjP) | 2:19 |
 | 19 | [Goldrush](https://open.spotify.com/track/1AC9rys1AG0BJ5PwnX3mXu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/5NLwkvch5mURFt3AJfvkQX) | 2:48 |
 | 20 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
 | 21 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 |

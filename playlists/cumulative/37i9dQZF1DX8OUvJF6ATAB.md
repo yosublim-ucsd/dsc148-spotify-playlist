@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-344 songs - 1 day 6 hr 8 min
+345 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Golden Hour](https://open.spotify.com/track/5lfY5qGSiGqpaVbkW3OCn9) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS), [Simonel](https://open.spotify.com/artist/4x0ePWZjRP0nwFRuU174vR) | [Endlessness](https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE) | 3:19 | 2022-02-12 |  |
 | [Half Light of Dawn](https://open.spotify.com/track/58RJeiTXuurxd3MzLJJ28P) | [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7) | [Circular Forms](https://open.spotify.com/album/0SvHo9qJFRL4GhNeIofWst) | 6:48 | 2021-10-06 | 2022-07-27 |
 | [Half Light of Dawn](https://open.spotify.com/track/7JvtQFXJOikRIcyQSr3azz) | [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7) | [Circular Forms](https://open.spotify.com/album/4k4UMY26lPgkQnZKQFoZ6c) | 6:48 | 2021-10-06 | 2024-04-19 |
-| [Haust](https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX) | [Haust](https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69) | 5:01 | 2022-11-25 |  |
+| [Haust](https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX) | [Haust](https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69) | 5:01 | 2022-11-25 | 2025-01-26 |
 | [Heart Shimmer](https://open.spotify.com/track/0FrvlXmxPAw4IieVlrUXWb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Ground Groove](https://open.spotify.com/album/02Lf34RloqjwBGi2lPMtUN) | 2:06 | 2023-04-21 | 2024-04-19 |
 | [Heart Shimmer](https://open.spotify.com/track/0korTrBcMfDBA3Fv795g0B) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Ground Groove](https://open.spotify.com/album/3pZfevjbuheybZyPZ7HKsC) | 2:06 | 2023-04-15 | 2023-08-01 |
 | [History of Us \- Lost fx Rework](https://open.spotify.com/track/5x2hPhp3NlFh6aG0nSZcXV) | [Saigon Would Be Seoul](https://open.spotify.com/artist/4lMrzSojvtk5cdiTpYx0E7), [Lost fx](https://open.spotify.com/artist/5QfZPGVMSIHg51WZBe6LBu) | [History of Us \(Lost fx Rework\)](https://open.spotify.com/album/1hIssstWtFdijWGvrZNOQh) | 3:48 | 2021-10-06 | 2022-07-28 |
@@ -324,6 +324,7 @@
 | [Variables \- 1976](https://open.spotify.com/track/0aBe5X0U7ZqNh01Hd4SHbB) | [Chris Carter](https://open.spotify.com/artist/4Fw9V88d2NoplsZBOkBWaS) | [Variables \- 1976](https://open.spotify.com/album/3ievgMpSPFMO5uoohGRkP2) | 2:47 | 2021-10-06 | 2022-07-06 |
 | [Velluto](https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 8:42 | 2024-01-23 |  |
 | [Vespera](https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Clara](https://open.spotify.com/album/1QU235rCtednzHCJgperwb) | 6:01 | 2021-10-06 |  |
+| [Voices of the Deep](https://open.spotify.com/track/1qOkY1RdWquRIS5vslmDNI) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Neptuno \- Hypnotic Frequencies Vol\. 1](https://open.spotify.com/album/2sMtWzkAFoWsD6ZKhxmiVo) | 3:30 | 2025-01-25 |  |
 | [Waiting in Arisaig](https://open.spotify.com/track/5SncDqhH0AJSf86e9CLM2Q) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Whities 029](https://open.spotify.com/album/6kDyfCyknVtqOqfudLELst) | 6:43 | 2021-10-06 | 2022-07-28 |
 | [Waiting in Arisaig](https://open.spotify.com/track/6bkgvx2YMCC2tjZA61YTKG) | [Lord Of The Isles](https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru) | [Whities 029](https://open.spotify.com/album/6IYhvItVOh2C31auIJpsxA) | 6:43 | 2021-10-06 | 2024-04-19 |
 | [Walking Through Still Air](https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [CRATER](https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0) | 5:22 | 2021-10-06 | 2022-07-29 |

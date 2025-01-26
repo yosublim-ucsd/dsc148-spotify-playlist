@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Marshmello & Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,340 likes - 59 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,400 likes - 59 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 17 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
 | 18 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 |
 | 19 | [Body Talk](https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Body Talk](https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I) | 2:27 |
-| 20 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(DELUXE\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
+| 20 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(deluxe\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
 | 21 | [Growing Pains](https://open.spotify.com/track/216jWgl9L5G0dYgyEIOSni) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/76H4e6RLzuJYEnrItNMq63) | 3:28 |
 | 22 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
 | 23 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |

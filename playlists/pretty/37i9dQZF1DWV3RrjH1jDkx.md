@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,878 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,911 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [YAYO](https://open.spotify.com/track/0vxDeUgs9QnjzGlkAGUuAA) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [YAYO](https://open.spotify.com/album/2d5fqQNVtiQPyyFZIyxxtB) | 2:03 |
-| 2 | [PRTY](https://open.spotify.com/track/5KXGFjw48liIgAqTMv3jfs) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Nossàn](https://open.spotify.com/artist/3QM60lDUb0PtVp0eaxVL1p) | [PRTY](https://open.spotify.com/album/6sQANND4JzoOmXQ9Ymq7Yy) | 2:07 |
+| 2 | [PRTY](https://open.spotify.com/track/5KXGFjw48liIgAqTMv3jfs) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [PRTY](https://open.spotify.com/album/6sQANND4JzoOmXQ9Ymq7Yy) | 2:07 |
 | 3 | [Sover du](https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H) | [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t), [ULD](https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9) | [Sover du](https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s) | 4:24 |
 | 4 | [DeLorean](https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [DeLorean](https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN) | 3:31 |
 | 5 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 |

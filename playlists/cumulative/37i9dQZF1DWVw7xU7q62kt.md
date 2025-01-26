@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-379 songs - 18 hr 19 min
+380 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Soft Moments](https://open.spotify.com/track/3fkJhN1UvLO1yy6gpoxmC2) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [Soft Moments](https://open.spotify.com/album/1laFeTsAZGskVBQxGrRdIm) | 2:24 | 2024-10-06 |  |
 | [Solace](https://open.spotify.com/track/6XF3THa6lb0wN4gXWJcyDw) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Solace](https://open.spotify.com/album/7CQknjOhZ2NC1bCiPIeFpx) | 2:00 | 2024-06-04 |  |
 | [Sometimes](https://open.spotify.com/track/4GxjXLt3QmNK86kZH3YX84) | [catch92](https://open.spotify.com/artist/3yXLoJ2Yak6kiuXbSIssRo) | [Sometimes](https://open.spotify.com/album/50DOyzaTfAWF0eFJSgZden) | 1:52 | 2024-09-27 | 2024-11-18 |
+| [Sonder](https://open.spotify.com/track/7wFyWSyBfLpg9l39JftoKZ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Sonder](https://open.spotify.com/album/6Z6OX5DULjWFKq8lZj76EX) | 2:01 | 2025-01-24 |  |
 | [Sono Qui Pt\. 2](https://open.spotify.com/track/46GHEqmKAkkF9JmKQduQaT) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Francesco Giampaoli](https://open.spotify.com/artist/4JL4brCLF4fbNBdRt21tFX), [Opek](https://open.spotify.com/artist/1CUV6UEfyGRCZXqBbXJ5f7) | [Sono Qui Pt\. 2](https://open.spotify.com/album/6vWQ3YgWhg94oxf7llA2q7) | 2:21 | 2024-09-13 | 2024-09-16 |
 | [Soul Garden](https://open.spotify.com/track/0FsVyKGM2epSKXiEd5wtAe) | [Dust Diggers](https://open.spotify.com/artist/4hKE7ACi7biqGoYIbHeXOt) | [Soul Garden](https://open.spotify.com/album/2ojpfqyVlSteol0iPPRbGG) | 2:24 | 2024-12-13 |  |
 | [Space Lady](https://open.spotify.com/track/5jUsq0C0j5GVpGJ7k2aRuo) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa) | [Space Lady](https://open.spotify.com/album/60rYxheF93A0mh2U1tPMtO) | 2:18 | 2024-10-11 |  |
@@ -338,7 +339,7 @@
 | [Tears of Fate](https://open.spotify.com/track/4zrlJ5ukxX2dDxgPAcSZiw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 4:33 | 2023-10-13 | 2024-09-28 |
 | [tempeh's blues](https://open.spotify.com/track/3FWsbMI5aSJhYfNNTDZjb2) | [jetfueljayy](https://open.spotify.com/artist/70ovbvXoXJ33c8zTKFFHw2), [Esbe](https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa) | [tempeh's blues](https://open.spotify.com/album/2unzpgV37RboGqTjsp7HIG) | 1:51 | 2024-09-06 |  |
 | [Terra](https://open.spotify.com/track/6RHmpxgOzMYsZHhhkM4D3l) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Terra](https://open.spotify.com/album/75NSOvwrQGZmbzS88DblU5) | 2:21 | 2024-09-06 |  |
-| [The Banquet](https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 2:19 | 2023-08-22 |  |
+| [The Banquet](https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 2:19 | 2023-08-22 | 2025-01-26 |
 | [The Calm](https://open.spotify.com/track/1r11FNdYPaGKYzTaW6H857) | [Paul Prime](https://open.spotify.com/artist/15B9ZmmgDysKO1mJggYWgU), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [The Calm](https://open.spotify.com/album/3tqdmNTAsBljKWpJKE1jcZ) | 2:03 | 2025-01-10 |  |
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple \(Live From Malibu\)](https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf) | 2:43 | 2024-03-20 |  |
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 | 2024-01-12 | 2024-01-29 |

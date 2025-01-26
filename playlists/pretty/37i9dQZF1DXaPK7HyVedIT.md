@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,867 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,851 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 4 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 |
 | 5 | [Maré](https://open.spotify.com/track/2IAnBtvkFGrbS37G0VeaBy) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Riascode](https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM), [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [Maré](https://open.spotify.com/album/07hb053gdOBrCFJi6G75M1) | 3:53 |
 | 6 | [Meet Me](https://open.spotify.com/track/0G13XMunpgihhWzsunhQjm) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [Meet Me](https://open.spotify.com/album/7kTofDLq6VNA0IfO7ySeqt) | 2:34 |
-| 7 | [Mess](https://open.spotify.com/track/61IuP2CYe9gUE5F98KrRh5) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Helionyx](https://open.spotify.com/artist/2uo8DWCuQZL5z2JrKRMmgt), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Mess](https://open.spotify.com/album/3Tz3DfHNMfvoiwWaK1akyT) | 2:34 |
+| 7 | [Mess](https://open.spotify.com/track/61IuP2CYe9gUE5F98KrRh5) | [Helionyx](https://open.spotify.com/artist/2uo8DWCuQZL5z2JrKRMmgt), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [Mess](https://open.spotify.com/album/3Tz3DfHNMfvoiwWaK1akyT) | 2:34 |
 | 8 | [Give It to Me](https://open.spotify.com/track/0hWriVrNXaLiC5TO2GFyNc) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. I\)](https://open.spotify.com/album/27SNkj72LB2Ir4ujwFl3NF) | 3:08 |
 | 9 | [Future Hearts](https://open.spotify.com/track/4WLzJ35y78zny5vltK7HLs) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Future Hearts](https://open.spotify.com/album/139N7ZPYhh5SGXCoe4ladv) | 3:56 |
 | 10 | [Lamento \(feat\. Anita Carmona\)](https://open.spotify.com/track/7exBjn2FUuKHDjZbDtbo4H) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Anita Carmona](https://open.spotify.com/artist/678yFqXTFRxBw5gSsySVBc) | [Lamento \(feat\. Anita Carmona\)](https://open.spotify.com/album/5iwsKoGl1TPn2VAeNUlvlq) | 4:00 |

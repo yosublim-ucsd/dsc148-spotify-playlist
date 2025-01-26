@@ -1,6 +1,6 @@
 {
   "description": "Tropical tunes from the Indo-Caribbean diaspora.",
-  "num_followers": 22618,
+  "num_followers": 22637,
   "original_name": "Pass The Chutney",
   "owner": {
     "name": "Spotify",
@@ -678,11 +678,19 @@
         {
           "name": "Shelly G",
           "url": "https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq"
+        },
+        {
+          "name": "Fojo",
+          "url": "https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft"
+        },
+        {
+          "name": "Fiona Singh",
+          "url": "https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf"
         }
       ],
-      "duration_ms": 211394,
-      "name": "This Gyal Claim",
-      "url": "https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO"
+      "duration_ms": 236286,
+      "name": "Bholo Bholo",
+      "url": "https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN"
     },
     {
       "added_at": "2025-01-10 08:00:27",
@@ -798,19 +806,11 @@
         {
           "name": "Shelly G",
           "url": "https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq"
-        },
-        {
-          "name": "Fojo",
-          "url": "https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft"
-        },
-        {
-          "name": "Fiona Singh",
-          "url": "https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf"
         }
       ],
-      "duration_ms": 236286,
-      "name": "Bholo Bholo",
-      "url": "https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN"
+      "duration_ms": 211394,
+      "name": "This Gyal Claim",
+      "url": "https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO"
     },
     {
       "added_at": "2025-01-10 08:00:27",

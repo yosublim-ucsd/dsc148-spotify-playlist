@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 343 songs - 20 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 343 songs - 20 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 17 | [Stop Draggin' Your Boots](https://open.spotify.com/track/2T6LorlhK71uT66I6lJegX) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 2:44 |
 | 18 | [You Look Good](https://open.spotify.com/track/35GX85bFt0FTjGtcQl8Fxk) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Heart Break](https://open.spotify.com/album/3kMcbLaMtiRcQdMSvLyr1h) | 3:01 |
 | 19 | [You Be Love \(feat\. Billy Raffoul\)](https://open.spotify.com/track/12ip0ceCeszDTDFxDY1AXJ) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [AVĪCI \(01\)](https://open.spotify.com/album/0XV4cXBFmXIhQnQMYUX9u6) | 3:27 |
-| 20 | [Dirty Laundry](https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:24 |
-| 21 | [I Deserve A Drink](https://open.spotify.com/track/7u2iWRkkz8GBYFe4apxVBl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:26 |
+| 20 | [I Deserve A Drink](https://open.spotify.com/track/7u2iWRkkz8GBYFe4apxVBl) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:26 |
+| 21 | [Dirty Laundry](https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:24 |
 | 22 | [hole in the bottle](https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 2:35 |
 | 23 | [Legends](https://open.spotify.com/track/1Zlm5elepl7xOAPBUI3bj9) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 4:03 |
 | 24 | [BOOTS](https://open.spotify.com/track/0u9zevC5U0KfmXCJveb1WJ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:13 |
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 221 | [Always Want You](https://open.spotify.com/track/3F5lEvi2p5Nm607SrKoDS0) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:06 |
 | 222 | [Sleep Tonight](https://open.spotify.com/track/3HBC5iUDIpBiKPCZ5a7x2F) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 4:02 |
 | 223 | [Same Story, Different Saturday Night](https://open.spotify.com/track/1grdUbldRIJH2udgV8T8nh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
-| 224 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
-| 225 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 224 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 |
+| 225 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
 | 226 | [Otis Redding](https://open.spotify.com/track/0MvVDZISOcx0CpWxTWbAcn) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:37 |
 | 227 | [Written In The Bar](https://open.spotify.com/track/6Po3hqpoEUAFkeubltnsJv) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
 | 228 | [Get Even](https://open.spotify.com/track/0Vp9rhKKoPG5cQUgB1SWXI) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Fantasy Island](https://open.spotify.com/album/30jLEnJpFOR8NQzDLn2rbc) | 2:58 |
@@ -300,8 +300,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 290 | [Waitin' On The Wonderful](https://open.spotify.com/track/31tTt7GoX1hWsOVYX7NM57) | [Aaron Lines](https://open.spotify.com/artist/3YmywXnB2RxQ9IvUzZqvo9) | [Waitin' On The Wonderful](https://open.spotify.com/album/31lcEVd32pyEvjdxKVwO1w) | 3:57 |
 | 291 | [Take It](https://open.spotify.com/track/7sdOpO6Fsbr7cMQjHopIO4) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Me](https://open.spotify.com/album/626hPGxEDKulkYO41YUxca) | 3:26 |
 | 292 | [\(No One's Gonna\) Break Me Down](https://open.spotify.com/track/67xenxD9QjNqTN85yt6eU1) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [What The World Needs Now Is Love](https://open.spotify.com/album/3Jx9WXotFej9KE0AlOLPUN) | 3:16 |
-| 293 | [Rewrite History](https://open.spotify.com/track/109fKS4oNqEWgVXp1KtuV7) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Heartfirst](https://open.spotify.com/album/2YpTMq0ClNeAKMy0zCPhlF) | 3:52 |
-| 294 | [Grow Young With You](https://open.spotify.com/track/4wqBtWPwfJX1E9VktFasnp) | [Coley McCabe](https://open.spotify.com/artist/1hK0g9hPhdHxWbrG2488XO), [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [Coley McCabe](https://open.spotify.com/album/7LZ3ayqh2RLEckP2RK8p1u) | 3:54 |
+| 293 | [Grow Young With You](https://open.spotify.com/track/4wqBtWPwfJX1E9VktFasnp) | [Coley McCabe](https://open.spotify.com/artist/1hK0g9hPhdHxWbrG2488XO), [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [Coley McCabe](https://open.spotify.com/album/7LZ3ayqh2RLEckP2RK8p1u) | 3:54 |
+| 294 | [Rewrite History](https://open.spotify.com/track/109fKS4oNqEWgVXp1KtuV7) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Heartfirst](https://open.spotify.com/album/2YpTMq0ClNeAKMy0zCPhlF) | 3:52 |
 | 295 | [Stunt Double](https://open.spotify.com/track/77viHqec8VbdpOfGYrmosJ) | [Ashley Ryan](https://open.spotify.com/artist/7ocagKTuL7owEFIvssbzVq) | [Stunt Double](https://open.spotify.com/album/1EeKcdv0BY0ecKb5FyKtw9) | 2:46 |
 | 296 | [Over Here](https://open.spotify.com/track/4wuhlskcKp05Bvyo4ZBXjJ) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Planes Don't Wait](https://open.spotify.com/album/0uIwUWUsDPDJoNDBnfzs3o) | 3:34 |
 | 297 | [Kryptonite \(In the Style of 3 Doors Down\) \[Karaoke Version\]](https://open.spotify.com/track/4iwzGRD8xVbkl4O97gmQf9) | [The Karaoke Channel](https://open.spotify.com/artist/5UloVKzUNJcjORzhhTWWiJ) | [The Karaoke Channel \- Modern Rock, Vol\. 1](https://open.spotify.com/album/3oHDClX8I1rdkzIKA5goFj) | 3:55 |
@@ -337,8 +337,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 327 | [I'd Leave Me](https://open.spotify.com/track/4UF5EoUWWo81L5R1r1SeoB) | [Lisa Dames](https://open.spotify.com/artist/3z4BbAHE3txFTKRAHzSf6g) | [No One Like Me](https://open.spotify.com/album/5uPmFmgoAUAwc94wUYYsui) | 3:30 |
 | 328 | [Love You Right](https://open.spotify.com/track/2JkTdxltC22nEQPXR9wrqh) | [Lindsey Walker](https://open.spotify.com/artist/6HjkMXAIbRvdtppck8j2Cp) | [Our Glory](https://open.spotify.com/album/4EHCZliOHYNPffIinC2SnS) | 5:09 |
 | 329 | [Take It](https://open.spotify.com/track/6wWHLZJve0TSnY4v4jaSCj) | [Verena Pötzl](https://open.spotify.com/artist/1qKHy8x5tLVxyTAecm0JkU) | [Taken Unaware](https://open.spotify.com/album/4hOFJz4iRC5dVk1BIAihVF) | 3:24 |
-| 330 | [Afraid to Say It](https://open.spotify.com/track/02kOwnxZ5XHlO7JtPQaueS) | [Imani Pressley](https://open.spotify.com/artist/1fO9fHVqrLPmZjh5fbW05T) | [Feelings Like These](https://open.spotify.com/album/25NXYehq62yZpm3PGc5sRh) | 3:13 |
-| 331 | [Where She Ain't](https://open.spotify.com/track/4RBZJXeHXbDv3FuHJUaJyA) | [Jay Eric](https://open.spotify.com/artist/20TDsK5kszoMspfUAnHkDP) | [Where She Ain't](https://open.spotify.com/album/30SDw7sehRjooABsVHNlMW) | 3:39 |
+| 330 | [Where She Ain't](https://open.spotify.com/track/4RBZJXeHXbDv3FuHJUaJyA) | [Jay Eric](https://open.spotify.com/artist/20TDsK5kszoMspfUAnHkDP) | [Where She Ain't](https://open.spotify.com/album/30SDw7sehRjooABsVHNlMW) | 3:39 |
+| 331 | [Afraid to Say It](https://open.spotify.com/track/02kOwnxZ5XHlO7JtPQaueS) | [Imani Pressley](https://open.spotify.com/artist/1fO9fHVqrLPmZjh5fbW05T) | [Feelings Like These](https://open.spotify.com/album/25NXYehq62yZpm3PGc5sRh) | 3:13 |
 | 332 | [Web of Lies](https://open.spotify.com/track/2E6f2r945tYOVUYlPWgDCo) | [Pam Jackson](https://open.spotify.com/artist/6hF0EFyjOBs213RdDv8swc) | [Dream a Little Bigger](https://open.spotify.com/album/3LL6YCz4gsYAZiz5cAEksV) | 2:51 |
 | 333 | [Relapse](https://open.spotify.com/track/5FNnv4NtUeXrCBChLiXJq8) | [1205](https://open.spotify.com/artist/5WF90LLIQ4UVFwqny0Rzug) | [Relapse](https://open.spotify.com/album/6ywkiV5lXefwdHRyykn5q8) | 2:49 |
 | 334 | [Queen of Hearts](https://open.spotify.com/track/1h7MHoxIW1Md110MR6j1Iy) | [Rose Hips](https://open.spotify.com/artist/2L100CUtatmSVrJ9Vcj4eM) | [Witch Doctor](https://open.spotify.com/album/5246tB6NI5zSqor9lE1vo5) | 5:03 |
@@ -352,4 +352,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 342 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 343 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbnwLAAAAAC95zRGrQdM4uFQmetQwhB8`
+Snapshot ID: `Abn1/wAAAAAw0hfi24i+fQn8kSvjKzZq`

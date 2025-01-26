@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 260133,
       "name": "Eyen",
       "url": "https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC"
@@ -2708,6 +2708,24 @@
       "duration_ms": 276600,
       "name": "Rockledge 3A",
       "url": "https://open.spotify.com/track/2zj92WTGAoXgdXXv0TjS6W"
+    },
+    {
+      "album": {
+        "name": "The Infinity Room",
+        "url": "https://open.spotify.com/album/3cX8n1RFLSQF0C1hcWi9QH"
+      },
+      "artists": [
+        {
+          "name": "36",
+          "url": "https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236321,
+      "name": "Room 1",
+      "url": "https://open.spotify.com/track/5ZMJjVSuEY8yCTKALwqu9N"
     },
     {
       "album": {

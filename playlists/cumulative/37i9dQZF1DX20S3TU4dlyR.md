@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Leonchalon.
 
-268 songs - 17 hr 43 min
+269 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,13 +244,14 @@
 | [Todo Para Vos](https://open.spotify.com/track/0tgEywBC2wBZwaOb5wNilK) | [Surco Pando](https://open.spotify.com/artist/6QLmWuLP0FV8gMTpVDai9a), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Fuerza Real](https://open.spotify.com/album/4EXWZJxng9Js99rWu4meyV) | 4:00 | 2022-05-06 | 2022-06-29 |
 | [Todo Se Detiene \- Remix](https://open.spotify.com/track/3GEatKHlv5dxiJfmLOmdUB) | [Guille Scherping](https://open.spotify.com/artist/21z94PBEQcfGnocSb6prbq), [Kitra](https://open.spotify.com/artist/5FXik3bAr5hw3toDNlr0Qk) | [Todo Se Detiene \(Remix\)](https://open.spotify.com/album/3hSigS5dtdOpIoFCQfY2bT) | 3:15 | 2022-07-01 | 2022-07-24 |
 | [Todo Tiene Su Tiempo](https://open.spotify.com/track/1TyyXiIMIL0yhYQqv5GfUs) | [Mamma Motta](https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF) | [Elevándote](https://open.spotify.com/album/1AzhzZ8JOMRL0bOMzhdF8H) | 4:51 | 2022-05-06 | 2022-07-26 |
-| [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 | 2022-05-06 |  |
+| [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 | 2022-05-06 | 2025-01-26 |
 | [Trinchera](https://open.spotify.com/track/2FkXL4Apgf4gSUYsr8HVK5) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Trinchera](https://open.spotify.com/album/5mU3SDcjGeeljvFj85pLa4) | 4:24 | 2022-07-01 | 2024-09-28 |
 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 | 2022-05-06 |  |
 | [Tu Meta](https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Tu Meta](https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky) | 4:48 | 2022-05-06 | 2022-08-25 |
 | [Tu Presencia](https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:41 | 2022-05-06 |  |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2022-05-06 |  |
 | [Tú Conoces Mis Miserias](https://open.spotify.com/track/2dpIWnijDsnTfrV2IzXrZF) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Tú Conoces Mis Miserias](https://open.spotify.com/album/6K6cHa8A5lQ26XiXy6IDOK) | 4:26 | 2022-05-06 | 2022-07-29 |
+| [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 | 2025-01-24 |  |
 | [Un Mundo Mejor](https://open.spotify.com/track/6eKYlDXNbMTKYyt7APb8kn) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Un Mundo Mejor](https://open.spotify.com/album/3jGMw1w5diSypEeFNYcVoo) | 3:03 | 2022-07-01 | 2022-07-06 |
 | [Uno atrás del otro](https://open.spotify.com/track/4yLPu2EzbQi7ABXJlFbKfF) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Uno atrás del otro](https://open.spotify.com/album/3rDzQe7r99cctE3LLB0qHQ) | 2:27 | 2025-01-24 |  |
 | [Va a Servir](https://open.spotify.com/track/1IBXMXsGJZ8SOtydre1sSi) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Cosas Que Nadie Oia](https://open.spotify.com/album/5F1p9diLfB873sdRAkFKKK) | 4:05 | 2022-05-06 |  |

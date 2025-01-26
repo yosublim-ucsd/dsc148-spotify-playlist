@@ -1751,6 +1751,36 @@
     },
     {
       "album": {
+        "name": "PROSOPA",
+        "url": "https://open.spotify.com/album/6Tt12mJtVSkCSM9zXyMRTy"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "_OTS",
+          "url": "https://open.spotify.com/artist/1duTYTeIWqrESenXtZ3a82"
+        },
+        {
+          "name": "Takanuva",
+          "url": "https://open.spotify.com/artist/2ciuV1nz063tai3NKwomQs"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144578,
+      "name": "ALADDIN",
+      "url": "https://open.spotify.com/track/4WRdYQM21e3bji4xHSVNoG"
+    },
+    {
+      "album": {
         "name": "Green Goblin",
         "url": "https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh"
       },
@@ -6004,7 +6034,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 112300,
       "name": "Book of ra",
       "url": "https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m"
@@ -11623,6 +11653,24 @@
     },
     {
       "album": {
+        "name": "EPANO STO TRAPEZI",
+        "url": "https://open.spotify.com/album/1ZiVzPUElXoi8M8bENOhag"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144087,
+      "name": "EPANO STO TRAPEZI",
+      "url": "https://open.spotify.com/track/3wpiU5pc42REYEW9vd7fBa"
+    },
+    {
+      "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
       },
@@ -14836,6 +14884,28 @@
       "duration_ms": 220327,
       "name": "GILEKO",
       "url": "https://open.spotify.com/track/3bd0uhm7ENvy8q6Z2savKd"
+    },
+    {
+      "album": {
+        "name": "GIMMIE",
+        "url": "https://open.spotify.com/album/2ghMBXS9U58BLws1LZM1Nq"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "GIMMIE",
+      "url": "https://open.spotify.com/track/3C4vDKPYaUpG0ZH8y4axeV"
     },
     {
       "album": {
@@ -20690,7 +20760,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 177977,
       "name": "Lebron",
       "url": "https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg"
@@ -35540,7 +35610,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 145788,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/4j9wksjhBvSuRq1ibXUfAK"

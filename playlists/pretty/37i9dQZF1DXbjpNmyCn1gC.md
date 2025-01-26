@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,325 likes - 116 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,561 likes - 116 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 100 | [Never Change](https://open.spotify.com/track/5NGWulc0W5ctrG8RSDcnoW) | [Shun](https://open.spotify.com/artist/6ABqgb5JlYqaJTFAAXT5Zh), [Lyu:Lyu](https://open.spotify.com/artist/5OTd1gn18a8R4OYOlWoyqR) | [Never Change](https://open.spotify.com/album/1E7xQ77ULUmFLVweG1eAt4) | 4:06 |
 | 101 | [だめだめだ](https://open.spotify.com/track/4hX3xOHTGLlD9VGgaXaanc) | [Shiori Tomita](https://open.spotify.com/artist/14Cri8mWjsUVwvFiX2fuKQ) | [だめだめだ](https://open.spotify.com/album/4aA8Wz4l5c7BN039LyiUGn) | 3:57 |
 | 102 | [Spinning World](https://open.spotify.com/track/57yivIXUOhohU4vCiTqk0Z) | [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [Spinning World](https://open.spotify.com/album/7xHzrLT6wrM9LDlyE0edzx) | 3:53 |
-| 103 | [言葉のいらない約束](https://open.spotify.com/track/7vDGFLBidTeTuyf98W7Ldx) | [sana](https://open.spotify.com/artist/5vsQrdvs38LX8DmUmLUiwb) | [言葉のいらない約束 / 暁月夜\-アカツキヅクヨ\-](https://open.spotify.com/album/3PS3QIl78MBZDchMT8W0DA) | 4:13 |
+| 103 | [言葉のいらない約束](https://open.spotify.com/track/7vDGFLBidTeTuyf98W7Ldx) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [sana](https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT) | [言葉のいらない約束 / 暁月夜\-アカツキヅクヨ\-](https://open.spotify.com/album/3PS3QIl78MBZDchMT8W0DA) | 4:13 |
 | 104 | [虹の空](https://open.spotify.com/track/1ugw9zRE5ufC6AA2YriY52) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [虹の空](https://open.spotify.com/album/4R8P6rKkqSlwJgIairXN5x) | 4:07 |
 | 105 | [トラブルメイカー](https://open.spotify.com/track/7kEFyP8uYvvK8gmTnV2WG6) | [KANIKAPILA](https://open.spotify.com/artist/4bedfsHRUZwNxKY8ybWekd) | [トラブルメイカー](https://open.spotify.com/album/1899GVOWcTJL3rRV8o5Lqx) | 4:04 |
 | 106 | [そんな君、こんな僕](https://open.spotify.com/track/6UNWa5YS4G0rJkisF4quAW) | [Thinking Dogs](https://open.spotify.com/artist/09bKUD807BdDQb21HLz0Lq) | [そんな君、こんな僕](https://open.spotify.com/album/1H8RzwNWOHOtDyFR4VEyew) | 4:48 |

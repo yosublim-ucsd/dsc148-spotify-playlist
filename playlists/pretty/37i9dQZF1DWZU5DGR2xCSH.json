@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1143649,
+  "num_followers": 1143708,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Mi enfermedad",
-      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
         "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 377399,
       "name": "Mujer Amante - Vivo",
       "url": "https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Canci\u00f3n Animal (Remastered)",
-        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 226920,
-      "name": "Sueles Dejarme Solo - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 197746,
       "name": "Barro Tal Vez",
       "url": "https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Canci\u00f3n Animal (Remastered)",
+        "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 226920,
+      "name": "Sueles Dejarme Solo - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 223532,
-      "name": "Ya No Mires Atr\u00e1s",
-      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Los Gatos",
         "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 398222,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "La M\u00e1quina De Hacer P\u00e1jaros",
         "url": "https://open.spotify.com/album/4uXadaCsBVwLK6s5V14Kjw"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 164440,
       "name": "Como Mata el Viento Norte",
       "url": "https://open.spotify.com/track/7BbpLe12HpkoZJcJs1A3SP"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 398222,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 454530,
-      "name": "Libros Sapienciales",
-      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Tiempo de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 454530,
+      "name": "Libros Sapienciales",
+      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Billy Bond y la Pesada del Rock And Roll",
         "url": "https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG"
       },
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 326647,
+      "name": "Agua de R\u00edo",
+      "url": "https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Mi Cuarto",
         "url": "https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 326647,
-      "name": "Agua de R\u00edo",
-      "url": "https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
         "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Time Fate Love (Remastered 2019)",
-        "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
-      },
-      "artists": [
-        {
-          "name": "Luca Prodan",
-          "url": "https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI"
-        }
-      ],
-      "duration_ms": 349260,
-      "name": "Regtest (Happy Valley Rock)",
-      "url": "https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 231533,
       "name": "Un \u00c1ngel para Tu Soledad",
       "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Time Fate Love (Remastered 2019)",
+        "url": "https://open.spotify.com/album/0q2h0JptxibMUdpdMT6imM"
+      },
+      "artists": [
+        {
+          "name": "Luca Prodan",
+          "url": "https://open.spotify.com/artist/2vx09t0z5I1PnBWnyPPvWI"
+        }
+      ],
+      "duration_ms": 349260,
+      "name": "Regtest (Happy Valley Rock)",
+      "url": "https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky"
     },
     {
       "added_at": "2024-11-11 16:58:11",

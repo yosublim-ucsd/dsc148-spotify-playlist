@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-332 songs - 18 hr 43 min
+334 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/album/2flxq9q7ZB2QNt3c6ZJhsz) | 3:24 | 2024-07-25 | 2024-08-04 |
 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 | 2024-09-12 | 2024-11-22 |
 | [Animus](https://open.spotify.com/track/55nwbGo5px2YC8j7OjeePU) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Na Dwoje Lampa Świeciła](https://open.spotify.com/album/2BoUXwHl2EKmvS7qRWZSWn) | 4:37 | 2024-11-21 | 2024-12-10 |
-| [Antydepresanty](https://open.spotify.com/track/6GWHAqZzqiWyRnquOrv42A) | [Ikarus Feel](https://open.spotify.com/artist/0RoPyAx0YmN0xndt3Wfz1V), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Antydepresanty](https://open.spotify.com/album/783JqKnl4IUeDWbkeTiUam) | 3:34 | 2025-01-17 |  |
+| [Antydepresanty](https://open.spotify.com/track/6GWHAqZzqiWyRnquOrv42A) | [Ikarus Feel](https://open.spotify.com/artist/0RoPyAx0YmN0xndt3Wfz1V), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh) | [Antydepresanty](https://open.spotify.com/album/783JqKnl4IUeDWbkeTiUam) | 3:34 | 2025-01-17 | 2025-01-26 |
 | [Arachnophobia](https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Arachnophobia](https://open.spotify.com/album/3QATSYk5TsPkoEJKvZIM7P) | 4:29 | 2024-09-12 | 2024-10-08 |
 | [Arachnophobia](https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [I store my fear and my pain in the nape of my neck](https://open.spotify.com/album/0NF7hJszyZKAqI2RNamwUP) | 4:29 | 2024-11-21 | 2025-01-18 |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-14 | 2024-11-15 |
@@ -88,11 +88,12 @@
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-17 |  |
 | [Dzięki Tobie](https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV) | [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt) | [Dzięki Tobie](https://open.spotify.com/album/7qEh9GxF8ds5lBGbLUybJc) | 2:30 | 2024-12-19 | 2025-01-25 |
 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 | 2024-07-05 | 2024-08-04 |
+| [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE), [Michał Bajor](https://open.spotify.com/artist/4wiuQi8pMd9fwJxreqT5H1) | [Elegia o… \[chłopcu polskim\] \(K\. K\. Baczyński\)](https://open.spotify.com/album/5x4HWBcOoTfDXgrEh8Z6wf) | 3:40 | 2025-01-24 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-09-12 | 2024-11-22 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-28 | 2024-09-13 |
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-12 | 2024-11-22 |
 | [everything that lacks in me](https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [everything that lacks in me](https://open.spotify.com/album/2xMBQ3IdrDWRl1Rmptgev1) | 2:33 | 2024-09-12 | 2024-09-28 |
-| [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-10 |  |
+| [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-10 | 2025-01-26 |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-07-06 |
 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 | 2024-08-23 | 2024-11-22 |
 | [Feel Anything](https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Feel Anything](https://open.spotify.com/album/3lOds66db1cRvTTO6Gcx4a) | 2:42 | 2025-01-24 |  |
@@ -329,6 +330,7 @@
 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-09-12 | 2024-11-22 |
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-06-28 | 2024-07-14 |
 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-12 | 2024-11-22 |
+| [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 | 2025-01-24 |  |
 | [Zadzwoń do mnie](https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zadzwoń do mnie](https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE) | 2:16 | 2024-09-12 | 2024-09-15 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-06-28 | 2024-07-06 |
 | [Zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 | 2024-11-29 | 2025-01-11 |

@@ -4,7 +4,7 @@
 
 > sweet and fresh emerging indie pop, featuring Esme Emerson 🍑
 
-159 songs - 8 hr 45 min
+161 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 | 2024-06-14 |  |
 | [Bedbugs](https://open.spotify.com/track/5MdHqvEJxK8RvSN5ziVKmT) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Bedbugs](https://open.spotify.com/album/5s6HqHbHK8PDnsSHtBUivO) | 2:56 | 2024-06-14 | 2024-09-21 |
 | [Before You](https://open.spotify.com/track/4V9yjHyeGpFxrvQtBxZ9Ok) | [Tuff Bear](https://open.spotify.com/artist/7AOmmzhzOjls8I7MoHOUfR) | [Before You](https://open.spotify.com/album/4UatRznOUWzdjNYFFqmc0j) | 3:32 | 2024-06-14 | 2024-08-22 |
-| [Before You Go](https://open.spotify.com/track/3cCnQ7TqFLUVGl2Ypduys7) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Before You Go](https://open.spotify.com/album/27nDI79oHU0j5nkhOkjNjD) | 2:31 | 2025-01-24 |  |
+| [Before You Go](https://open.spotify.com/track/3cCnQ7TqFLUVGl2Ypduys7) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Before You Go](https://open.spotify.com/album/27nDI79oHU0j5nkhOkjNjD) | 2:31 | 2025-01-24 | 2025-01-26 |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-08-21 |  |
 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 | 2024-08-21 |  |
 | [Blind](https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU) | [Only Real](https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5) | [Blind](https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq) | 3:00 | 2025-01-24 |  |
@@ -37,7 +37,7 @@
 | [Bunny](https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj) | [Erica Manzoli](https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ) | [Bunny](https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm) | 3:29 | 2024-06-14 |  |
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-06-14 |  |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-06-14 | 2025-01-24 |
-| [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 | 2024-06-14 |  |
+| [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 | 2024-06-14 | 2025-01-26 |
 | [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 | 2025-01-24 |  |
 | [Cheap Wine \(B\-side\)](https://open.spotify.com/track/7ftvWZFAv0tjB03h4idKRr) | [Andy Goodwin](https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB) | [Cheap Wine \(B\-side\)](https://open.spotify.com/album/4iDkTPn8GcIUwvfsfiKQsy) | 2:47 | 2024-06-14 | 2024-07-13 |
 | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 | 2024-06-14 | 2025-01-24 |
@@ -63,6 +63,7 @@
 | [Forgive to Forget](https://open.spotify.com/track/1Z9kJcKVm7OLSpesWRwgTW) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [Forgive to Forget](https://open.spotify.com/album/1NHPGsNKeOL0MDHqIkomRt) | 4:15 | 2024-06-14 | 2024-09-21 |
 | [Found The 1](https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [HOKAGE \- THE MIXTAPE](https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR) | 2:27 | 2024-06-14 |  |
 | [Free Falling!](https://open.spotify.com/track/1JOSku8MbvyaxS9VwPG67B) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Free Falling!](https://open.spotify.com/album/5NgWpudcvDYzwsjdcxKyRl) | 3:47 | 2024-06-14 | 2024-08-22 |
+| [friends](https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [friends](https://open.spotify.com/album/4AYWIcHcXqQ5fq4l08Bp1C) | 2:40 | 2025-01-24 |  |
 | [From the Night](https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [From the Night](https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE) | 4:11 | 2024-06-14 | 2024-07-13 |
 | [Genevieve](https://open.spotify.com/track/7fFGr8y59vJ0gsfb8M3PjR) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/0zllmTob4r60F5Fb6KfTZb) | 3:39 | 2025-01-24 |  |
 | [get it right](https://open.spotify.com/track/6ptrv48ty6L65vrKve37CU) | [DROZ](https://open.spotify.com/artist/3hg8GIwLfQ60sx8lAunT3S) | [get it right](https://open.spotify.com/album/6UUIDUhRiwe8yCPCJl18Rp) | 2:54 | 2024-07-12 | 2024-08-22 |
@@ -121,6 +122,7 @@
 | [One More Night](https://open.spotify.com/track/25U7mv53Dbe3JzzDcSrTPB) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [One More Night](https://open.spotify.com/album/1Rveuvo2p2tNinGgfSEW3w) | 3:10 | 2024-06-14 | 2024-07-13 |
 | [Paint Me Like A Woman](https://open.spotify.com/track/6uFOrSpwGRFrSCCZIwaVrY) | [Gia Ford](https://open.spotify.com/artist/238uE9s8BDKrIYbzpxIgOX) | [Paint Me Like A Woman](https://open.spotify.com/album/2wuTuT0PhsusCx1kk8fEMY) | 4:44 | 2024-06-14 | 2024-09-21 |
 | [Palo Alto](https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Palo Alto](https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF) | 3:46 | 2024-06-14 | 2024-10-12 |
+| [Phoenix](https://open.spotify.com/track/4GKlQw3wlSRBM3MiCilBOj) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Phoenix](https://open.spotify.com/album/4dVdqGNmSeT4EOt3vO68dR) | 2:39 | 2025-01-24 |  |
 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 | 2024-06-14 |  |
 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 | 2024-06-14 | 2024-08-22 |
 | [Pop Music](https://open.spotify.com/track/4NKy22e48Iwuz4ewLkzZdx) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [One Lost English Boy](https://open.spotify.com/album/16Jb4ETjP8eFwWSUXcxAx6) | 3:03 | 2024-06-14 | 2024-08-22 |

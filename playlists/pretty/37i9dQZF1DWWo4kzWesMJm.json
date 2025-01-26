@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 166714,
+  "num_followers": 166754,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Camelia Jordana",
-        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "Non non non (Ecouter Barbara)",
-      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 188173,
       "name": "Dis-moi encore que tu m'aimes",
       "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Camelia Jordana",
+        "url": "https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "Non non non (Ecouter Barbara)",
+      "url": "https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
+        "name": "Evidemment (Version Deluxe)",
+        "url": "https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Musique",
+      "url": "https://open.spotify.com/track/3J7V8Wg2wqqCM3tfpBoSne"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
         "name": "L'instant d'apr\u00e8s",
         "url": "https://open.spotify.com/album/3teDBI5npi3hDWJ8zyFdv9"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
-        "name": "Evidemment (Version Deluxe)",
-        "url": "https://open.spotify.com/album/2Y5UOICIPPl6AmKbZ4ZWhj"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 253026,
-      "name": "Musique",
-      "url": "https://open.spotify.com/track/3J7V8Wg2wqqCM3tfpBoSne"
     },
     {
       "added_at": "2024-05-23 22:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Hey Bro",
-        "url": "https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD"
-      },
-      "artists": [
-        {
-          "name": "Elo\u00efz",
-          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
-        }
-      ],
-      "duration_ms": 150024,
-      "name": "Hey Bro",
-      "url": "https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM"
-    },
-    {
-      "added_at": "2024-05-23 22:00:00",
-      "album": {
         "name": "M\u00e9langer les couleurs",
         "url": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
       },
@@ -1323,18 +1307,34 @@
     {
       "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+        "name": "Hey Bro",
+        "url": "https://open.spotify.com/album/2lJNU3gStbWwaudk0qrIXD"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+          "name": "Elo\u00efz",
+          "url": "https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t"
         }
       ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
+      "duration_ms": 150024,
+      "name": "Hey Bro",
+      "url": "https://open.spotify.com/track/3llW2J8Gl8LggqQcQSjyqM"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Meilleurs souvenirs - Best Of",
+        "url": "https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg"
+      },
+      "artists": [
+        {
+          "name": "Les Innocents",
+          "url": "https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "L'autre finist\u00e8re",
+      "url": "https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj"
     }
   ],
   "unique_name": "Bleu Blanc Route",

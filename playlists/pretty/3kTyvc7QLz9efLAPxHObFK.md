@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,982 songs - 4 day 9 hr 20 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,994 songs - 4 day 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1990,5 +1990,17 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1980 | [Shivaya \- Remix](https://open.spotify.com/track/3IGStl3M5BrxGyD01kZJ7Q) | [BYØRN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Shivaya \(Remix\)](https://open.spotify.com/album/6yfZ47yb1kEVBDjPatR0cn) | 3:22 |
 | 1981 | [Hard Techno Rave \- Per Pleks Remix](https://open.spotify.com/track/24hpc8YPk7PdxkW6ZJRHqS) | [D\-Stroyer](https://open.spotify.com/artist/2WRMUXhCDLTcEzLzlIhPre), [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV) | [Hard Techno Rave Remixes](https://open.spotify.com/album/4ou5THi6mhvGhq321UKbVP) | 3:50 |
 | 1982 | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/track/1L5WsT1jrgXRCIbu9jlk3F) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Hardcore \(give me a mfkn breakbeat\)](https://open.spotify.com/album/25paSvklKJb1ENR1K7cMdh) | 3:49 |
+| 1983 | [Super Sonic](https://open.spotify.com/track/1nYUpqPuBOsDBWS3HIS6Tj) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Super Sonic](https://open.spotify.com/album/1AsBwCizFw0GPa4lvPhKw5) | 3:01 |
+| 1984 | [Moonlit Eyes \- Daniel Seven Remix](https://open.spotify.com/track/5wIv0N4x9rDbvg88BdkFjO) | [Fracus & Darwin](https://open.spotify.com/artist/07VU01S53IQXG9yXvqRKeL), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW) | [Moonlit Eyes \(Daniel Seven Remix\)](https://open.spotify.com/album/2nHnV61cyPrAclXOYMV3wh) | 3:18 |
+| 1985 | [IRA](https://open.spotify.com/track/5RHCnedKeviC447TJnXFNJ) | [Yeico X Toni](https://open.spotify.com/artist/5ZwHSnkRmmVg73BeI4Ne4f), [Unicorn On Ketamine](https://open.spotify.com/artist/3NoAERCAeMG0EOGpbpdYLm) | [IRA](https://open.spotify.com/album/3gevE72SNENyyIrVBJBdYo) | 2:07 |
+| 1986 | [HELP\_LESS](https://open.spotify.com/track/6ABSVbnjexJNj5CEFAuVeG) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [HELP\_LESS](https://open.spotify.com/album/64TWja31XGSqKYNBoDrGQ7) | 3:07 |
+| 1987 | [MY OWN SOUND](https://open.spotify.com/track/54T66aXITi72gTuBhtrznz) | [Malok](https://open.spotify.com/artist/4NQLpIqkmTLrI16VEM1WEY), [A B P](https://open.spotify.com/artist/66ScGsfwHVyMbqaNlsc28b) | [MY OWN SOUND](https://open.spotify.com/album/5DOY0IZEe4ZehIpg2lN1Ez) | 3:57 |
+| 1988 | [HEAVY METAL](https://open.spotify.com/track/1TthiFEePqJB3eSKJcHaeB) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [HEAVY METAL](https://open.spotify.com/album/049nx6edcMNqG6fD5Ntori) | 2:07 |
+| 1989 | [It's How We Like It](https://open.spotify.com/track/3fc78ibo5X0yLmrj8ezDiF) | [Flinke Herrie](https://open.spotify.com/artist/2zASDu4ug3FvTxk93z1xuv), [Brutal Theory](https://open.spotify.com/artist/4j6vZEbHXKhskA8aExkgKf) | [It's How We Like It](https://open.spotify.com/album/6H4dNPIM6o24uFh6D5ipwY) | 2:48 |
+| 1990 | [Bullet](https://open.spotify.com/track/0SUNcDZ7nlx9X7rCIz3j0S) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Bullet](https://open.spotify.com/album/2F7VOWSkjqJV9jBYRuUOVk) | 2:32 |
+| 1991 | [Eyes On The Prize](https://open.spotify.com/track/3CLljVLjMg6nYdXJWnqvZ9) | [Level One](https://open.spotify.com/artist/5gfLje7A2I9mMRVfuiphnh), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Eyes On The Prize](https://open.spotify.com/album/4u1PMEXXfNq5b0zS7ZgALd) | 3:03 |
+| 1992 | [SO CRUSHED](https://open.spotify.com/track/1EgIWVigCWT0B13QUDu9w5) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [The Final Dose](https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5) | 2:55 |
+| 1993 | [Age Of War \(Darkness Event Anthem 2025\)](https://open.spotify.com/track/0OYKyfIVwqTQCAOr12PwR1) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1), [FLANDERS](https://open.spotify.com/artist/4wxW9h3BEjw7o5lHycCxbv) | [Age Of War \(Darkness Event Anthem 2025\)](https://open.spotify.com/album/06UAjZai8WZiLhjXnEYlgS) | 2:53 |
+| 1994 | [Go Psycho](https://open.spotify.com/track/4rPdqNLh9SdbUHYu2Df8aP) | [elMefti](https://open.spotify.com/artist/5qqv3LmRnc0hPFSIYm45Fy) | [Go Psycho](https://open.spotify.com/album/7EMd9JVZompC2hm1Tu1ItQ) | 2:33 |
 
-Snapshot ID: `AAAH9khc6JMg2raqvICpL7jqFrJ1xrAg`
+Snapshot ID: `AAAIAp1jfY+Iq9SDM4IVXgNDL+Qrnb6B`

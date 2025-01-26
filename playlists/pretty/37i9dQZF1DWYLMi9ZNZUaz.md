@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: tlinh
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,314 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,357 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 36 | [REGRET \(feat\. Quân A.P, Pháp Kiều, Quang Trung, Ali Hoàng Dương & Lâm Bảo Ngọc\)](https://open.spotify.com/track/5bDYi5F6QeZvjxzF6WUfea) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [Quân A.P](https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi), [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su), [Quang Trung](https://open.spotify.com/artist/4cLYlDISnWaErAitB8kRph), [Ali Hoàng Dương](https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh), [Lâm Bảo Ngọc](https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9) | [ANH TRAI "SAY HI", Tập 7](https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ) | 4:12 |
 | 37 | [TALAGI](https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [WHENITSASUNNIDAY](https://open.spotify.com/artist/3Hw8laObefIk5NMDmXMMsn) | [TALAGI](https://open.spotify.com/album/5jCumbmCqmSAUfPUNqYGgw) | 3:42 |
 | 38 | [Bảo Tàng](https://open.spotify.com/track/2ctmaWoBxLBYiZB7AKmK1D) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Bảo Tàng](https://open.spotify.com/album/4ZaeSyWcJmXC2tJgU70q31) | 3:05 |
-| 39 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
-| 40 | [Hai đứa nhóc](https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Hai đứa nhóc](https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70) | 3:35 |
+| 39 | [Hai đứa nhóc](https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Hai đứa nhóc](https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70) | 3:35 |
+| 40 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
 | 41 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
 | 42 | [Thèn Chóa](https://open.spotify.com/track/1wG0HYACxdu3Kdz3mI4ca6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 4:04 |
 | 43 | [TRÌNH](https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [TRÌNH](https://open.spotify.com/album/3SElNI3CCqE9AKMvGrtvjA) | 4:35 |

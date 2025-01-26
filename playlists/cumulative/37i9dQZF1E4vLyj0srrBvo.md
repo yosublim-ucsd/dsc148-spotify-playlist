@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Cults, Mareux and more
+> With Pastel Ghost, Coco & Clair Clair, Cocteau Twins and more
 
 1,791 songs - 4 day 14 hr 6 min
 

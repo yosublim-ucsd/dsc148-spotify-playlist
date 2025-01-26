@@ -1,6 +1,6 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 51504,
+  "num_followers": 51524,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
@@ -347,8 +347,8 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Nadie Como T\u00fa",
-        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
+      "duration_ms": 203120,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -443,8 +443,8 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203120,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Con Orgullo Por Herencia",
-        "url": "https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 282879,
-      "name": "Popurri de Caballos: El Alaz\u00e1n y el Rosillo / Caballo Prieto Azabache / El Moro de Cumpas",
-      "url": "https://open.spotify.com/track/5kJrIx2ekOb70tsc6KZHqJ"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
         "name": "En Toda La Chapa",
         "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 177053,
       "name": "En Toda La Chapa",
       "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Con Orgullo Por Herencia",
+        "url": "https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 282879,
+      "name": "Popurri de Caballos: El Alaz\u00e1n y el Rosillo / Caballo Prieto Azabache / El Moro de Cumpas",
+      "url": "https://open.spotify.com/track/5kJrIx2ekOb70tsc6KZHqJ"
     },
     {
       "added_at": "2024-04-09 17:24:23",

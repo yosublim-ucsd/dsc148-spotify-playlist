@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2025 (previous playlists archived on my profile)",
-  "num_followers": 22653,
+  "num_followers": 22655,
   "original_name": "something new",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALxht41pnFuX0mMmp8OWnebarlq3UI",
+  "snapshot_id": "AAALy8LVPrtWF+glzCBp1VbFg5GWUNrT",
   "tracks": [
     {
       "added_at": "2025-01-11 22:36:19",
@@ -453,38 +453,6 @@
       "url": "https://open.spotify.com/track/0zHt4XtjSIJ3io6Vex53PC"
     },
     {
-      "added_at": "2025-01-24 23:51:36",
-      "album": {
-        "name": "Jane Siberry",
-        "url": "https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3"
-      },
-      "artists": [
-        {
-          "name": "Jane Siberry",
-          "url": "https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG"
-        }
-      ],
-      "duration_ms": 388426,
-      "name": "The Magic Beads",
-      "url": "https://open.spotify.com/track/09wT85Fj2n6SX5nIMQlz4z"
-    },
-    {
-      "added_at": "2025-01-24 16:23:24",
-      "album": {
-        "name": "Jane Siberry",
-        "url": "https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3"
-      },
-      "artists": [
-        {
-          "name": "Jane Siberry",
-          "url": "https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG"
-        }
-      ],
-      "duration_ms": 329440,
-      "name": "Writers Are A Funny Breed",
-      "url": "https://open.spotify.com/track/1aP0wJDXGkwZw8N8Pcualq"
-    },
-    {
       "added_at": "2025-01-24 16:29:01",
       "album": {
         "name": "And Then...Along Comes",
@@ -515,6 +483,70 @@
       "duration_ms": 353212,
       "name": "A Tune for Us",
       "url": "https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36"
+    },
+    {
+      "added_at": "2025-01-25 18:54:21",
+      "album": {
+        "name": "Jane Siberry",
+        "url": "https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3"
+      },
+      "artists": [
+        {
+          "name": "Jane Siberry",
+          "url": "https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG"
+        }
+      ],
+      "duration_ms": 244906,
+      "name": "The Sky Is So Blue",
+      "url": "https://open.spotify.com/track/0FnQJbknnZXdKnhiU6qxdp"
+    },
+    {
+      "added_at": "2025-01-25 18:54:28",
+      "album": {
+        "name": "Jane Siberry",
+        "url": "https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3"
+      },
+      "artists": [
+        {
+          "name": "Jane Siberry",
+          "url": "https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "The Mystery At Ogwen's Farm",
+      "url": "https://open.spotify.com/track/63biskPX3EbVQjQQHIrW5t"
+    },
+    {
+      "added_at": "2025-01-24 23:51:36",
+      "album": {
+        "name": "Jane Siberry",
+        "url": "https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3"
+      },
+      "artists": [
+        {
+          "name": "Jane Siberry",
+          "url": "https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG"
+        }
+      ],
+      "duration_ms": 388426,
+      "name": "The Magic Beads",
+      "url": "https://open.spotify.com/track/09wT85Fj2n6SX5nIMQlz4z"
+    },
+    {
+      "added_at": "2025-01-24 16:23:24",
+      "album": {
+        "name": "Jane Siberry",
+        "url": "https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3"
+      },
+      "artists": [
+        {
+          "name": "Jane Siberry",
+          "url": "https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG"
+        }
+      ],
+      "duration_ms": 329440,
+      "name": "Writers Are A Funny Breed",
+      "url": "https://open.spotify.com/track/1aP0wJDXGkwZw8N8Pcualq"
     }
   ],
   "unique_name": "something new",

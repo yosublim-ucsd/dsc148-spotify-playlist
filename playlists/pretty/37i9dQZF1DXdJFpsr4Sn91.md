@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa ROSÉ ja Bruno Mars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,087 likes - 88 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,104 likes - 88 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

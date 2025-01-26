@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: <a href="spotify:playlist:37i9dQZF1EFLc8MZUkV3RI">Alissia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,875 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,922 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 19 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 20 | [Death Of Me](https://open.spotify.com/track/6AZKGzo7w2FPZ3Y8T4XjfQ) | [Skye Riley](https://open.spotify.com/artist/0fpkkLazfNNewOHmxSW2YL), [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Smile 2: The Skye Riley EP](https://open.spotify.com/album/53i6qzqYuhIhcpVTVu0dW3) | 2:45 |
 | 21 | [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 |
-| 22 | [tetherball](https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [tetherball](https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD) | 3:27 |
+| 22 | [tetherball](https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO) | [ella boh archives](https://open.spotify.com/artist/6wRsfRhFVMJE3GkMJy5XrW) | [tetherball](https://open.spotify.com/album/27aSHSnvu5rTXz1HJOp1GD) | 3:27 |
 | 23 | [Shade of Yellow](https://open.spotify.com/track/7qHXEShpUpCcSUbgVjEAoQ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Shade of Yellow](https://open.spotify.com/album/1Yz6WdcuRxhdHzJG5zmLQZ) | 2:36 |
 | 24 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
 | 25 | [Keep Those Teardrops from Falling](https://open.spotify.com/track/34ojZaWg4BOqIL58M5CneC) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Keep Those Teardrops from Falling](https://open.spotify.com/album/0vPOpQfFhKheEPKJtGGDTH) | 2:44 |

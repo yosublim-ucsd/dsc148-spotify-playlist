@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-440 songs - 1 day 0 hr 39 min
+442 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,10 +397,12 @@
 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 | 2024-05-16 |
 | [The Magic Beads](https://open.spotify.com/track/09wT85Fj2n6SX5nIMQlz4z) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 6:28 | 2025-01-24 |  |
 | [The Minx](https://open.spotify.com/track/0KdLCqxvaeah6qC4WP7Iu5) | [The Cyrkle](https://open.spotify.com/artist/4qnb4cn5aykCACoyuCirGg) | [The Minx \(Original Soundtrack\)](https://open.spotify.com/album/79YsTrJJxb14X1Jb5zeKcS) | 2:30 | 2024-09-07 | 2024-11-14 |
+| [The Mystery At Ogwen's Farm](https://open.spotify.com/track/63biskPX3EbVQjQQHIrW5t) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 2:59 | 2025-01-25 |  |
 | [The Only One](https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:15 | 2024-06-24 | 2024-07-12 |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 | 2024-06-03 |
 | [The Ruling Class](https://open.spotify.com/track/1Jmn7GHrsf7qjgzsCcj6Do) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:35 | 2024-08-08 | 2024-09-08 |
 | [The Scholars and the Travellers](https://open.spotify.com/track/7B9BrHMWhdZMkipl4ktznK) | [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [The Electricity in Your House Wants to Sing](https://open.spotify.com/album/3DbqxV708R452k79cUg7zy) | 4:02 | 2025-01-11 |  |
+| [The Sky Is So Blue](https://open.spotify.com/track/0FnQJbknnZXdKnhiU6qxdp) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 4:04 | 2025-01-25 |  |
 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-05-26 | 2024-07-12 |
 | [The Underground Solution](https://open.spotify.com/track/4HgK9B850KCWFDL4y6posB) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Still Electric](https://open.spotify.com/album/53AaCjLl4lnuu0gRDaacoN) | 3:43 | 2024-11-25 | 2025-01-12 |
 | [There's That Grin](https://open.spotify.com/track/2rV6guDDixTkeYco2wJSST) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 3:18 | 2024-08-01 | 2024-09-08 |

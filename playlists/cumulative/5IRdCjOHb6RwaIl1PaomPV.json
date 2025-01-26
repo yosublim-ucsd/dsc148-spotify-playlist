@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 165618,
       "name": "#PURRR",
       "url": "https://open.spotify.com/track/7l2uFr3nx6AIMaumhzhD3v"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 140408,
       "name": "Aching Like It's",
       "url": "https://open.spotify.com/track/6N45bcEjjzdXqFRjECG32x"
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 211179,
       "name": "badthiings (rip avicii)",
       "url": "https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe"
@@ -2336,6 +2336,28 @@
       "duration_ms": 159333,
       "name": "Cherub",
       "url": "https://open.spotify.com/track/50WYoOH9qyAUQmsgn7bdT5"
+    },
+    {
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "North West",
+          "url": "https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150773,
+      "name": "Childlike Things",
+      "url": "https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK"
     },
     {
       "album": {
@@ -3932,7 +3954,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 263693,
       "name": "Eusexua",
       "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
@@ -4703,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "Fruit Punch",
+        "url": "https://open.spotify.com/album/67rQ0g5XiTIdf9poimcz5Q"
+      },
+      "artists": [
+        {
+          "name": "FILLY",
+          "url": "https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "Fruit Punch",
+      "url": "https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx"
+    },
+    {
+      "album": {
         "name": "fucking highschool people",
         "url": "https://open.spotify.com/album/2JY2jO4bnETjAmxqY0Jd2H"
       },
@@ -4891,6 +4931,24 @@
     },
     {
       "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "Girl Feels Good",
+      "url": "https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV"
+    },
+    {
+      "album": {
         "name": "Girl, so confusing featuring lorde",
         "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
       },
@@ -5048,6 +5106,24 @@
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
+    },
+    {
+      "album": {
+        "name": "FINALLY OUT",
+        "url": "https://open.spotify.com/album/5YaSxmJgjvtOXIB75Oq3ZE"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196165,
+      "name": "Gonna Be Good",
+      "url": "https://open.spotify.com/track/25HTQlirK7IwCS8pD76nvW"
     },
     {
       "album": {
@@ -5345,6 +5421,24 @@
     },
     {
       "album": {
+        "name": "Nuclear Daisies",
+        "url": "https://open.spotify.com/album/0C7POl3J3CmtKZvuDScWiF"
+      },
+      "artists": [
+        {
+          "name": "Nuclear Daisies",
+          "url": "https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Heaven in Your Head",
+      "url": "https://open.spotify.com/track/3CSRKYbNultfhwhzOFakGF"
+    },
+    {
+      "album": {
         "name": "Heaven or Not (AM\u00c9M\u00c9 Remix)",
         "url": "https://open.spotify.com/album/5EFiIqfdukR7UWW3QWmLfB"
       },
@@ -5368,7 +5462,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 177632,
       "name": "Heaven or Not - AM\u00c9M\u00c9 Remix",
       "url": "https://open.spotify.com/track/1X1DOR4j3Ztmad5nEPgfEz"
@@ -5666,7 +5760,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 251076,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/3BcEUl0zF9LoJHCTq4Fw9F"
@@ -6690,7 +6784,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 204590,
       "name": "Kiss (No Crosses)",
       "url": "https://open.spotify.com/track/70QOq6l5gbLzyH1gXd4e2L"
@@ -7314,7 +7408,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 195931,
       "name": "Look At My Body Pt. II (Feat. Shygirl) (VTSS Version)",
       "url": "https://open.spotify.com/track/3GnCFLevVfdOgBuFtHHoSy"
@@ -8246,7 +8340,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 255428,
       "name": "My Love",
       "url": "https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm"
@@ -8320,6 +8414,24 @@
       "duration_ms": 199034,
       "name": "Naive [Dadabots Infinite Remix]",
       "url": "https://open.spotify.com/track/5FpOlantw9IONp5GNaG8uz"
+    },
+    {
+      "album": {
+        "name": "MMM",
+        "url": "https://open.spotify.com/album/4Jj5ZJ0bQReonLgkyT32EV"
+      },
+      "artists": [
+        {
+          "name": "Money Lang",
+          "url": "https://open.spotify.com/artist/4sXjXTMEvVLMIEig1WGSXj"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Naughty Times",
+      "url": "https://open.spotify.com/track/3HTEGxRw9cudQo8l82ra6h"
     },
     {
       "album": {
@@ -10061,6 +10173,28 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/1tO5U3gxthqjIPvvqDOIXn"
+      },
+      "artists": [
+        {
+          "name": "Moscoman",
+          "url": "https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ"
+        },
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/3r2hLjNyBFME6AAaoNMunE"
+    },
+    {
+      "album": {
         "name": "Ride Or Die",
         "url": "https://open.spotify.com/album/0WQI7WAVAKPFLJRR2xvIKS"
       },
@@ -10408,7 +10542,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 109966,
       "name": "SAME THING",
       "url": "https://open.spotify.com/track/5z3s5KcMf7rIItfjGJoWqF"
@@ -11112,7 +11246,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 86312,
       "name": "SOHO",
       "url": "https://open.spotify.com/track/45o1iqs4dsAEy03gQbq7LS"
@@ -11706,6 +11840,40 @@
       "duration_ms": 292001,
       "name": "take your vibes and go - Preditah Remix",
       "url": "https://open.spotify.com/track/1Wg0s1GBUaWzdIcdC1nRA8"
+    },
+    {
+      "album": {
+        "name": "BIMYOU (Remixes)",
+        "url": "https://open.spotify.com/album/2tyZMOtWrxFlGQVpw3EqGt"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182319,
+      "name": "take your vibes and go - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/1gHKO4NhJgzwNMDnYHs0y1"
     },
     {
       "album": {
@@ -12737,6 +12905,24 @@
     },
     {
       "album": {
+        "name": "under your spell (opium remix)",
+        "url": "https://open.spotify.com/album/2Xtexq6rM5xY2eK3avwuVu"
+      },
+      "artists": [
+        {
+          "name": "velours",
+          "url": "https://open.spotify.com/artist/0zVjIXJYIgVjluyMQiXlFi"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88275,
+      "name": "under your spell - opium remix",
+      "url": "https://open.spotify.com/track/5lJpGEs6n6bDixr48LpCWH"
+    },
+    {
+      "album": {
         "name": "MYCELiUM",
         "url": "https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX"
       },
@@ -13221,6 +13407,24 @@
     },
     {
       "album": {
+        "name": "When You Sleep",
+        "url": "https://open.spotify.com/album/1VPAKIvzR4qGR9fxnk0iHc"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244153,
+      "name": "When You Sleep",
+      "url": "https://open.spotify.com/track/1hbciWy4syeBJeWubluRoX"
+    },
+    {
+      "album": {
         "name": "where's my head at _",
         "url": "https://open.spotify.com/album/4djI7R2an73EEcJ7eJFX60"
       },
@@ -13538,6 +13742,28 @@
       "duration_ms": 236373,
       "name": "Yal Harak Qalbe",
       "url": "https://open.spotify.com/track/4z839pAYlxfgxjYzM2rXdH"
+    },
+    {
+      "album": {
+        "name": "Yiu",
+        "url": "https://open.spotify.com/album/1JZBmCiCFtZB6Fs3HxFMnx"
+      },
+      "artists": [
+        {
+          "name": "Batu",
+          "url": "https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr"
+        },
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249342,
+      "name": "Yiu",
+      "url": "https://open.spotify.com/track/4zCa5z42tduunz4hMt8wWq"
     },
     {
       "album": {

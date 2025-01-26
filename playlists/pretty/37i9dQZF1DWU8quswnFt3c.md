@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,095 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,704 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 47 | [You're Still Mine](https://open.spotify.com/track/1kui58chXIAstZljlvgUVL) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [You're Still Mine](https://open.spotify.com/album/6Tyd9k7MrGIqdtSKJcjOhu) | 2:27 |
 | 48 | [I Know You Know](https://open.spotify.com/track/3afeZ81GDy59tATovKyH6Z) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 3:45 |
 | 49 | [New Energy](https://open.spotify.com/track/32Q50Abh99KQOBS0KBP6s6) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [New Energy](https://open.spotify.com/album/4VYluc70leiQ1wB8xrLSmW) | 2:58 |
-| 50 | [過期](https://open.spotify.com/track/4vo5zsdH31KQSYHNYoBpRo) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [過期](https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp) | 2:03 |
-| 51 | [Chega](https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Nuova Genesi](https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG) | 3:04 |
+| 50 | [Chega](https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [Nuova Genesi](https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG) | 3:04 |
+| 51 | [過期](https://open.spotify.com/track/4vo5zsdH31KQSYHNYoBpRo) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [過期](https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp) | 2:03 |
 | 52 | [Buttalo via](https://open.spotify.com/track/0wY00Y9y95i3a1SfOLlfkM) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [GASSA D'AMANTE](https://open.spotify.com/album/15DGKUZMERSDDsUEQtWHMw) | 4:07 |
 | 53 | [SORRY SORRY SO](https://open.spotify.com/track/11xetuoePB2rJVebU4pjV1) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 2:25 |
 | 54 | [UPWARDS](https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [UPWARDS](https://open.spotify.com/album/7KjHJN6O7LbV2HXlSpY6Uc) | 3:15 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 57 | [By The Time I Get To Phoenix](https://open.spotify.com/track/0l2k4tdemioYYKIDtEv21c) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Dorothy's Harp](https://open.spotify.com/album/1F8aG7lYBwojl70xWU8UYy) | 3:30 |
 | 58 | [Wisdom Eye](https://open.spotify.com/track/0XLH43dcYq2pOe7COx8gPT) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Eternity](https://open.spotify.com/album/4mv5aLE0vrWGPzLYfEsUxw) | 3:10 |
 | 59 | [Imperial é Fino](https://open.spotify.com/track/47eHiZT7wDiBudFZdHVG0W) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF), [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Imperial é Fino](https://open.spotify.com/album/0CsCQRKWosmFPxp68AgfW6) | 3:32 |
-| 60 | [зараза](https://open.spotify.com/track/3ekw5hzooduEyOMT1KuhCv) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [la princesse lointaine](https://open.spotify.com/album/4u2v95ipAG1S6RlmiYqaC5) | 4:27 |
-| 61 | [Ihilak Lang Na](https://open.spotify.com/track/55YEzqjfMko3AzkfkOvOei) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Ihilak Lang Na](https://open.spotify.com/album/3fxMI2JmXuvxlOvDwrH4JC) | 4:04 |
+| 60 | [Ihilak Lang Na](https://open.spotify.com/track/55YEzqjfMko3AzkfkOvOei) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Ihilak Lang Na](https://open.spotify.com/album/3fxMI2JmXuvxlOvDwrH4JC) | 4:04 |
+| 61 | [зараза](https://open.spotify.com/track/3ekw5hzooduEyOMT1KuhCv) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [la princesse lointaine](https://open.spotify.com/album/4u2v95ipAG1S6RlmiYqaC5) | 4:27 |
 | 62 | [Tangan\-Tangan Ucap Perpisahan](https://open.spotify.com/track/7m01HeNr05fw4GjgukrWWA) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Hitam Putih](https://open.spotify.com/album/5rTrfbcQlTr807zJKhH5zN) | 4:14 |
 | 63 | [Astro de la luz segunda](https://open.spotify.com/track/0zUYD2mxeVt9DvBa7dSbID) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [EXHALO](https://open.spotify.com/album/62BuJJXQKkvbPi1gnpOQI5) | 5:59 |
 | 64 | [It's not enough](https://open.spotify.com/track/1DCbgEa1py6V8P1JRvSTnL) | [Reni Jusis](https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC), [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx), [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [Re Trans Misja](https://open.spotify.com/album/0YADQXmSqepRZFJBsrOBkD) | 3:09 |

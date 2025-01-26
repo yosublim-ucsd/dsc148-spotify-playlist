@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/7vhpasBFaY3kyEXeK05H07"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170142,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/1JF6nJtgTXZdikqaPwJ709"
+    },
+    {
+      "album": {
         "name": "ATTACK",
         "url": "https://open.spotify.com/album/5li6myKWhrO3iyUlyi5pXR"
       },
@@ -4778,7 +4796,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 228413,
       "name": "NECROMANCER",
       "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"

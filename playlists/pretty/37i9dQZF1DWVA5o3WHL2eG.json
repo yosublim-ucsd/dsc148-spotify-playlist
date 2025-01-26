@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Kauta",
-  "num_followers": 37067,
+  "num_followers": 37073,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -291,18 +291,26 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h"
+        "name": "daf\u00fcr oder dagegen",
+        "url": "https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "Mieze Katz",
+          "url": "https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0"
+        },
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        },
+        {
+          "name": "Mia.",
+          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
         }
       ],
-      "duration_ms": 215624,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q"
+      "duration_ms": 183510,
+      "name": "daf\u00fcr oder dagegen",
+      "url": "https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -339,26 +347,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "daf\u00fcr oder dagegen",
-        "url": "https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V"
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h"
       },
       "artists": [
         {
-          "name": "Mieze Katz",
-          "url": "https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0"
-        },
-        {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
-        },
-        {
-          "name": "Mia.",
-          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         }
       ],
-      "duration_ms": 183510,
-      "name": "daf\u00fcr oder dagegen",
-      "url": "https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ"
+      "duration_ms": 215624,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "Milk",
+        "url": "https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT"
+      },
+      "artists": [
+        {
+          "name": "K\u00c4SSY",
+          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
+        }
+      ],
+      "duration_ms": 169075,
+      "name": "Milk",
+      "url": "https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "Contrast",
         "url": "https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 208000,
       "name": "Contrast",
       "url": "https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "Milk",
-        "url": "https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT"
-      },
-      "artists": [
-        {
-          "name": "K\u00c4SSY",
-          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
-        }
-      ],
-      "duration_ms": 169075,
-      "name": "Milk",
-      "url": "https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x"
     },
     {
       "added_at": "2025-01-07 23:00:01",

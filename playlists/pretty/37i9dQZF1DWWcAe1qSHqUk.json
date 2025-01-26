@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 60707,
+  "num_followers": 60715,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "Laura Benanti",
-        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
-      },
-      "artists": [
-        {
-          "name": "Laura Benanti",
-          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
-        }
-      ],
-      "duration_ms": 264653,
-      "name": "Go Slow",
-      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "Homefree",
         "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 361253,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "Laura Benanti",
+        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
+      },
+      "artists": [
+        {
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+        }
+      ],
+      "duration_ms": 264653,
+      "name": "Go Slow",
+      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
     },
     {
       "added_at": "2024-12-23 02:15:43",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "12th Avenue",
-        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 277065,
-      "name": "12th Avenue",
-      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 310106,
       "name": "Where Are You?",
       "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "12th Avenue",
+        "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 277065,
+      "name": "12th Avenue",
+      "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
     },
     {
       "added_at": "2024-12-23 02:15:43",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "Reflections of a Voice",
-        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
-      },
-      "artists": [
-        {
-          "name": "Elisabeth Melander",
-          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Like Someone in Love",
-      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "As We Are",
         "url": "https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 330893,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "Reflections of a Voice",
+        "url": "https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Melander",
+          "url": "https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Like Someone in Love",
+      "url": "https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7"
     },
     {
       "added_at": "2024-12-23 02:15:43",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "I Want To Talk About You",
-        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "I Want To Talk About You",
-      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -1227,26 +1211,34 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "It's Nice to Be with You: Jim Hall in Berlin",
-        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
+        "name": "I Want To Talk About You",
+        "url": "https://open.spotify.com/album/41ZrzvkOwvqsm0HliMBwrW"
       },
       "artists": [
         {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        },
-        {
-          "name": "Jimmy Woode",
-          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
-        },
-        {
-          "name": "Daniel Humair",
-          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
         }
       ],
-      "duration_ms": 265024,
-      "name": "Young One for Debra",
-      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
+      "duration_ms": 273266,
+      "name": "I Want To Talk About You",
+      "url": "https://open.spotify.com/track/1qQlQID3eEJ9Nm4sgfKwF4"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "Jazz And 80s",
+        "url": "https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0"
+      },
+      "artists": [
+        {
+          "name": "Dinah Eastwood",
+          "url": "https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Hungry Like The Wolf",
+      "url": "https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7"
     },
     {
       "added_at": "2024-12-23 02:15:43",

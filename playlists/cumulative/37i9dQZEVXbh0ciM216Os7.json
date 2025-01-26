@@ -2303,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
+    },
+    {
+      "album": {
         "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
         "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
       },
@@ -3150,7 +3168,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -4691,6 +4709,24 @@
     },
     {
       "album": {
+        "name": "Blackhole",
+        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
+    },
+    {
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5xwcVnEGDSOduoY8LUCSDE"
       },
@@ -5788,6 +5824,32 @@
       "duration_ms": 237377,
       "name": "Brass Knuckles",
       "url": "https://open.spotify.com/track/2YZQ0HP4yBJtYNjXpWBBYL"
+    },
+    {
+      "album": {
+        "name": "Break The BOOM! Meter",
+        "url": "https://open.spotify.com/album/1hzTDReTAPzSAalO0FeLNj"
+      },
+      "artists": [
+        {
+          "name": "A.J. & Big Justice",
+          "url": "https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp"
+        },
+        {
+          "name": "AMH",
+          "url": "https://open.spotify.com/artist/2TSwn8irgXwsoPyWVjPmnl"
+        },
+        {
+          "name": "The Rizzler",
+          "url": "https://open.spotify.com/artist/5QaiZbvGTAXIpi3NYIxsaK"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115696,
+      "name": "Break The BOOM! Meter",
+      "url": "https://open.spotify.com/track/4WoMzaHALcdiAZU5nPU5lN"
     },
     {
       "album": {
@@ -7328,7 +7390,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 246400,
       "name": "Chi Mi Na Morbheanna - NYE Bash!",
       "url": "https://open.spotify.com/track/4GUx6h87pNYJTRvDe3YQkw"
@@ -8670,6 +8732,28 @@
       "duration_ms": 231057,
       "name": "Dancing to a New Groove",
       "url": "https://open.spotify.com/track/1Gt2YdremuGyPPi5wlDo4X"
+    },
+    {
+      "album": {
+        "name": "Dare U",
+        "url": "https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141922,
+      "name": "Dare U",
+      "url": "https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS"
     },
     {
       "album": {
@@ -12388,7 +12472,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 303693,
       "name": "Etude No.6 (arranged for string quartet)",
       "url": "https://open.spotify.com/track/43m2O66Vix5XCqBA5B0z35"
@@ -12882,7 +12966,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 200000,
       "name": "Facts",
       "url": "https://open.spotify.com/track/39JAn4sn5NOtT3fU9KQiLj"
@@ -16851,6 +16935,24 @@
     },
     {
       "album": {
+        "name": "Half Horse Half Man",
+        "url": "https://open.spotify.com/album/1eVIvGkJbSBcGmtiyEAgEp"
+      },
+      "artists": [
+        {
+          "name": "OCT",
+          "url": "https://open.spotify.com/artist/0Hu0e77EIbeWB6ZpQCDrCw"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "Half Horse Half Man",
+      "url": "https://open.spotify.com/track/1xlPeQm5LICSUONSh6atX0"
+    },
+    {
+      "album": {
         "name": "Halloween Theme (Metal Version)",
         "url": "https://open.spotify.com/album/1UFUjZGwRgtCQ0TXUFhQrH"
       },
@@ -18968,7 +19070,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 180540,
       "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
@@ -19704,7 +19806,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 348553,
       "name": "I'm on 4.0",
       "url": "https://open.spotify.com/track/6seyIInTwPGCr18JBSCDRo"
@@ -21387,7 +21489,7 @@
     },
     {
       "album": {
-        "name": "DIVE (DELUXE)",
+        "name": "DIVE (deluxe)",
         "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
       },
       "artists": [
@@ -24046,7 +24148,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 108280,
       "name": "Lionel Rich",
       "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
@@ -26102,7 +26204,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 478186,
       "name": "Midnight Messiah",
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
@@ -31800,6 +31902,28 @@
       "duration_ms": 205424,
       "name": "Please Take a Step Back",
       "url": "https://open.spotify.com/track/2MSa8kf0unz5ZYoDwKSvNn"
+    },
+    {
+      "album": {
+        "name": "Pobre Chico",
+        "url": "https://open.spotify.com/album/05ZvDGh8ghE8ojYDdfsRBm"
+      },
+      "artists": [
+        {
+          "name": "Nizzle Man",
+          "url": "https://open.spotify.com/artist/0e6hnsgG7uNrVmg3a7HLTi"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134378,
+      "name": "Pobre Chico",
+      "url": "https://open.spotify.com/track/5E7wVgnZjSXNcQtGz5xOh4"
     },
     {
       "album": {
@@ -45466,7 +45590,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 228600,
       "name": "Whatever U Want G.O.O.D. Vs Bad - Megamix",
       "url": "https://open.spotify.com/track/1jNYG5jS1UARLTnI5DqA8p"
@@ -45800,7 +45924,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 420006,
       "name": "Whispers of the Cosmos",
       "url": "https://open.spotify.com/track/5kuXsUCZaqY1cmfJeChcEw"

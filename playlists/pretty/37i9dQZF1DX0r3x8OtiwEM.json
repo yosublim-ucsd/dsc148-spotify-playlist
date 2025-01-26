@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 977706,
+  "num_followers": 977898,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
+    },
+    {
+      "added_at": "2025-01-24 14:51:30",
+      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
-    },
-    {
-      "added_at": "2025-01-24 14:51:30",
-      "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2025-01-24 14:51:30",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+      },
+      "artists": [
+        {
+          "name": "Demay\u00e4",
+          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+        }
+      ],
+      "duration_ms": 263250,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+    },
+    {
+      "added_at": "2025-01-24 14:51:30",
+      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed"
       },
@@ -839,18 +855,18 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
-        "name": "You Are",
-        "url": "https://open.spotify.com/album/4sjGYrQubonelakqwvDQcc"
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
       "artists": [
         {
-          "name": "Demay\u00e4",
-          "url": "https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 263250,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/3WM2S9ykuB6DBWB7R2qL7B"
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2025-01-24 14:51:30",
@@ -871,22 +887,6 @@
       "duration_ms": 158000,
       "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
       "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
-    },
-    {
-      "added_at": "2025-01-24 14:51:30",
-      "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2025-01-24 14:51:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
-        "name": "Won't Stop (Don't) - EP",
-        "url": "https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 231972,
-      "name": "What Are You Waiting For - Sunrise Mix",
-      "url": "https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7"
-    },
-    {
-      "added_at": "2025-01-24 14:51:30",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj"
       },
@@ -975,6 +959,46 @@
       "duration_ms": 178442,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc"
+    },
+    {
+      "added_at": "2025-01-24 14:51:30",
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "ASHER SWISSA",
+          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        }
+      ],
+      "duration_ms": 261290,
+      "name": "Electric",
+      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
+    },
+    {
+      "added_at": "2025-01-24 14:51:30",
+      "album": {
+        "name": "Won't Stop (Don't) - EP",
+        "url": "https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 231972,
+      "name": "What Are You Waiting For - Sunrise Mix",
+      "url": "https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7"
     },
     {
       "added_at": "2025-01-24 14:51:30",
@@ -1035,30 +1059,6 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
-        "name": "Electric",
-        "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "ASHER SWISSA",
-          "url": "https://open.spotify.com/artist/4ZLrfqX4cxTrthF8AILMAM"
-        },
-        {
-          "name": "SANDHAUS",
-          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
-        }
-      ],
-      "duration_ms": 261290,
-      "name": "Electric",
-      "url": "https://open.spotify.com/track/62piGIpUTsY8HA7tdjfLS8"
-    },
-    {
-      "added_at": "2025-01-24 14:51:30",
-      "album": {
         "name": "DREAMER",
         "url": "https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 218000,
       "name": "All we ever wanted",
       "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
-    },
-    {
-      "added_at": "2025-01-24 14:51:30",
-      "album": {
-        "name": "Fairytale of Berlin",
-        "url": "https://open.spotify.com/album/0cApE2fc6hv7BGrwngr4DB"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 302400,
-      "name": "Fairytale of Berlin",
-      "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
     },
     {
       "added_at": "2025-01-24 14:51:30",
@@ -1187,22 +1171,42 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
-        "name": "Lean Into Light",
-        "url": "https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO"
+        "name": "Promised Land (Remixes)",
+        "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
       "artists": [
         {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "pinkpirate",
-          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
         }
       ],
-      "duration_ms": 205053,
-      "name": "Lean Into Light",
-      "url": "https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq"
+      "duration_ms": 254395,
+      "name": "Too Far Down The Trap - K\u00f6lsch Remix",
+      "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
+    },
+    {
+      "added_at": "2025-01-24 14:51:30",
+      "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/3cqMLf9yEPsMSSOQe7e02C"
+      },
+      "artists": [
+        {
+          "name": "D.Polo",
+          "url": "https://open.spotify.com/artist/4PQtlNyUdOcwWl8VGWPcKB"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/57nxQGDHMkXUKoG3G4pQaL"
     }
   ],
   "unique_name": "Lowkey Tech",

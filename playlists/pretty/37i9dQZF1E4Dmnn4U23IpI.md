@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With Ollie Wride, Gunship, The Bad Dreamers and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,266 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,284 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Meet Me at the Dance](https://open.spotify.com/track/5NDoe2gbMEfwSD2gKsQlEI) | [September 87](https://open.spotify.com/artist/67cjZDUWm5goNObfOPrZIY) | [Act 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5uidamglBVuHzVEg1exns5) | 5:03 |
 | 50 | [Wanting More](https://open.spotify.com/track/5aAEK6raY3K0S02HeKtCsO) | [Absinth3](https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm) | [Unstable](https://open.spotify.com/album/0RTR4xxBltSYLonGGzZ6Y0) | 4:28 |
 
-Snapshot ID: `Z5Q+0QAAAAAmogl1H0gYF5C/fEwAEgMp`
+Snapshot ID: `Z5WcHwAAAAAxlz/NhTuGdoBnsee5E/sK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. <br/><br/>Cover: Bruno Mars and Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,952 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,073 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 84 | [DROP!](https://open.spotify.com/track/4MgpHcDBkz2k84ao1BrBHK) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DROP!](https://open.spotify.com/album/2sTP4Wk2ctDugKJ6SPnv8p) | 3:54 |
 | 85 | [LIE TO ME](https://open.spotify.com/track/5ELpUMNlLWYAARo4irK4sG) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [LIE TO ME](https://open.spotify.com/album/6IjYkGUSlK9x0GH4DBbHeE) | 2:44 |
 | 86 | [Brainstorm](https://open.spotify.com/track/4e7WbwDCNmk06f8fB4IxiA) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Brainstorm](https://open.spotify.com/album/2QadK4dlAtpqIIIYQyp475) | 2:59 |
-| 87 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
+| 87 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
 | 88 | [Top](https://open.spotify.com/track/2zEtiUMXwfUlEJkCWu4aP1) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial 2: Heidiwood Edition](https://open.spotify.com/album/13LkxmSDyseBJd5GA8sDam) | 2:31 |
 | 89 | [Joey Story](https://open.spotify.com/track/6Au6dtIhyyFjygDzka2qHV) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Joey Story](https://open.spotify.com/album/3cj92pQ5TUvmQqkQBUwZZD) | 2:08 |
 | 90 | [Here](https://open.spotify.com/track/0BP4fjdFdVvhNFa6Ij2CeL) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Here](https://open.spotify.com/album/5liG8ifZWteRMyYAQMh9fj) | 3:07 |

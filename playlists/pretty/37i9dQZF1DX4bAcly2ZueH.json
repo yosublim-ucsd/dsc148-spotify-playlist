@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52590,
+  "num_followers": 52587,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Greens",
         "url": "https://open.spotify.com/album/13irODzikOapHKbxYIj42v"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 250212,
       "name": "Greens",
       "url": "https://open.spotify.com/track/23mTYmF1nmxxTJoMjjIXzi"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -687,26 +687,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Nezumi Coo",
-        "url": "https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH"
-      },
-      "artists": [
-        {
-          "name": "Nezumi Coo",
-          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
-        },
-        {
-          "name": "Miyna Usui",
-          "url": "https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk"
-        }
-      ],
-      "duration_ms": 195648,
-      "name": "ugotmyheart",
-      "url": "https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Chips & Chill",
         "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 154482,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Nezumi Coo",
+        "url": "https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH"
+      },
+      "artists": [
+        {
+          "name": "Nezumi Coo",
+          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
+        },
+        {
+          "name": "Miyna Usui",
+          "url": "https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk"
+        }
+      ],
+      "duration_ms": 195648,
+      "name": "ugotmyheart",
+      "url": "https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -935,18 +935,22 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+        "name": "Abbot Kinney",
+        "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
       "artists": [
         {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
         }
       ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+      "duration_ms": 191040,
+      "name": "Thank You (feat. Jozzy)",
+      "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -971,6 +975,22 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+      },
+      "artists": [
+        {
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
         "name": "Tel P\u00e8re Tel Fils",
         "url": "https://open.spotify.com/album/7obwq0u0uJtALHkkC5gjaa"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 139823,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/2EBcFkIyG1gnCnlKqHaeYl"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "Abbot Kinney",
-        "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Thank You (feat. Jozzy)",
-      "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 168750,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Blue Notes",
-        "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
+        "name": "Introspect",
+        "url": "https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV"
       },
       "artists": [
         {
-          "name": "Sol Rising",
-          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+          "name": "mndbd",
+          "url": "https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci"
         },
         {
-          "name": "Max Ribner",
-          "url": "https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY"
+          "name": "Minthaze",
+          "url": "https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v"
         }
       ],
-      "duration_ms": 198369,
-      "name": "Blue Notes",
-      "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
+      "duration_ms": 67062,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Introspect",
-        "url": "https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV"
+        "name": "Blue Notes",
+        "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
       },
       "artists": [
         {
-          "name": "mndbd",
-          "url": "https://open.spotify.com/artist/2mqFsaoDarpyIIRowWT3Ci"
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
         },
         {
-          "name": "Minthaze",
-          "url": "https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v"
+          "name": "Max Ribner",
+          "url": "https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY"
         }
       ],
-      "duration_ms": 67062,
-      "name": "Muse",
-      "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
+      "duration_ms": 198369,
+      "name": "Blue Notes",
+      "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
     },
     {
       "added_at": "2025-01-08 09:54:54",

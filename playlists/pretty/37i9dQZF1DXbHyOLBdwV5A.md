@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,191 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,218 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 62 | [Onde o Jaguar Espreita \- Mose Remix](https://open.spotify.com/track/28XlmRM17A8x5igE0HKK4Q) | [Advan Haschi](https://open.spotify.com/artist/1xUZsIv7Vl2RlPKMIraFXE), [Mose](https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr) | [Onde o Jaguar Espreita \(Mose Remix\)](https://open.spotify.com/album/07pgudVmJYXqqgT53Uikli) | 7:31 |
 | 63 | [Deus É Bom o Tempo Todo](https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Decão Renovado](https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe) | [Deus É Bom o Tempo Todo](https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs) | 2:40 |
 | 64 | [O Céu É O Meu Lugar](https://open.spotify.com/track/2BQ7Y0h3QKr9YCjCkAMoWz) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [O Céu É O Meu Lugar](https://open.spotify.com/album/0dgtQEwbUoiCcoWRxi6siP) | 3:55 |
-| 65 | [Não Me Deixarás](https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [CAIO CESAR](https://open.spotify.com/artist/6fkqLCN0TSVWhSJgZaA0Ax) | [Não Me Deixarás](https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O) | 3:04 |
-| 66 | [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 |
+| 65 | [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 |
+| 66 | [Não Me Deixarás](https://open.spotify.com/track/4BnHVJFmhBPsqvikmIJk4T) | [DJ Marcos Andre](https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61), [CAIO CESAR](https://open.spotify.com/artist/6fkqLCN0TSVWhSJgZaA0Ax) | [Não Me Deixarás](https://open.spotify.com/album/3yBJCoppOksf5E0u6x7l0O) | 3:04 |
 | 67 | [Das Trevas para Luz \- VIP Version](https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Viviane Franco](https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0) | [Renascido das Cinzas](https://open.spotify.com/album/2KlBD6CwyvCv9hMf77wVqS) | 3:24 |
 | 68 | [Caminho Seguro](https://open.spotify.com/track/208xJZj1goWDxmjqgL5FWc) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Caminho Seguro](https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox) | 3:35 |
 | 69 | [Em Ti](https://open.spotify.com/track/1cPbaOUlNW3TuFNQLN3yMZ) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Douglas Alves](https://open.spotify.com/artist/4FeYCKtgdZR3vtPTNtF4rA), [Renata Pattez](https://open.spotify.com/artist/2q4zIxOv0rcbqQoulO4trv) | [Em Ti](https://open.spotify.com/album/1dwq7hvvGq65oxSDVQS4Ol) | 2:54 |

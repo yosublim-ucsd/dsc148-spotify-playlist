@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 19708,
+  "num_followers": 19725,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -841,26 +841,6 @@
       "url": "https://open.spotify.com/track/6p4ZhDKOj6TFSOI6xlzYgf"
     },
     {
-      "added_at": "2024-12-27 00:01:10",
-      "album": {
-        "name": "AHA GI",
-        "url": "https://open.spotify.com/album/1m0UBS67ULLyN2Z5WsUrko"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        },
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        }
-      ],
-      "duration_ms": 230884,
-      "name": "AHA GI",
-      "url": "https://open.spotify.com/track/2FG8qmndhyFqajnUF2912N"
-    },
-    {
       "added_at": "2024-10-11 00:01:00",
       "album": {
         "name": "Malaika x Fridayy",
@@ -879,6 +859,26 @@
       "duration_ms": 248490,
       "name": "Malaika x Fridayy",
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
+    },
+    {
+      "added_at": "2024-12-27 00:01:10",
+      "album": {
+        "name": "AHA GI",
+        "url": "https://open.spotify.com/album/1m0UBS67ULLyN2Z5WsUrko"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "duration_ms": 230884,
+      "name": "AHA GI",
+      "url": "https://open.spotify.com/track/2FG8qmndhyFqajnUF2912N"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -993,20 +993,20 @@
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
-      "added_at": "2024-10-25 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
+        "name": "Igwe",
+        "url": "https://open.spotify.com/album/5UP6Qw8DpgmuQJsevFLwmG"
       },
       "artists": [
         {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+          "name": "Midnight Crew",
+          "url": "https://open.spotify.com/artist/6fV5ZuXo1IZqGn9n1hexab"
         }
       ],
-      "duration_ms": 199404,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
+      "duration_ms": 312556,
+      "name": "Igwe",
+      "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"
     },
     {
       "added_at": "2024-01-26 00:01:00",

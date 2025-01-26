@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 564053,
+  "num_followers": 564119,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Gipsy Queen EP",
-        "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        }
-      ],
-      "duration_ms": 202472,
-      "name": "Gipsy Queen",
-      "url": "https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
         "name": "Corpo e Can\u00e7\u00e3o (Festival Mix)",
         "url": "https://open.spotify.com/album/6IbntgVwKKjvn6bH96TBiH"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 203239,
       "name": "Corpo e Can\u00e7\u00e3o - Festival Mix",
       "url": "https://open.spotify.com/track/5qTJMgKv23bfBX8ZhJc1AH"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Gipsy Queen EP",
+        "url": "https://open.spotify.com/album/4p8kZszfLI7pLJjTEfrErx"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        }
+      ],
+      "duration_ms": 202472,
+      "name": "Gipsy Queen",
+      "url": "https://open.spotify.com/track/645khgMxKxkXqUEs4UrBB6"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -595,22 +595,18 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH"
       },
       "artists": [
         {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Darma",
-          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
         }
       ],
-      "duration_ms": 488275,
-      "name": "Poison - Darma Remix",
-      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
+      "duration_ms": 330206,
+      "name": "Lux",
+      "url": "https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -655,18 +651,42 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Lux",
-        "url": "https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH"
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
       },
       "artists": [
         {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Darma",
+          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
         }
       ],
-      "duration_ms": 330206,
-      "name": "Lux",
-      "url": "https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n"
+      "duration_ms": 488275,
+      "name": "Poison - Darma Remix",
+      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
+      },
+      "artists": [
+        {
+          "name": "Sighter",
+          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+        },
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        }
+      ],
+      "duration_ms": 349014,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -691,26 +711,6 @@
       "duration_ms": 278068,
       "name": "Golden Teacher",
       "url": "https://open.spotify.com/track/4DF78KTbDZ3cGI5h1dzOEJ"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB"
-      },
-      "artists": [
-        {
-          "name": "Sighter",
-          "url": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
-        },
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
-        }
-      ],
-      "duration_ms": 349014,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Mind Is God - Single",
-        "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
-      },
-      "artists": [
-        {
-          "name": "Space Tribe",
-          "url": "https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9"
-        },
-        {
-          "name": "Mad Maxx",
-          "url": "https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv"
-        }
-      ],
-      "duration_ms": 540000,
-      "name": "Mind Is God - Original Mix",
-      "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
         "name": "Power of Acid (Remixes)",
         "url": "https://open.spotify.com/album/5Bs4PB8aCuxMp18gBbRz2c"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 501818,
       "name": "Power of Acid (i-460 & Prohecht Remix)",
       "url": "https://open.spotify.com/track/1osnkyBNGjBVsnw2oZGt3Q"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Mind Is God - Single",
+        "url": "https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep"
+      },
+      "artists": [
+        {
+          "name": "Space Tribe",
+          "url": "https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9"
+        },
+        {
+          "name": "Mad Maxx",
+          "url": "https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv"
+        }
+      ],
+      "duration_ms": 540000,
+      "name": "Mind Is God - Original Mix",
+      "url": "https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -1015,26 +1015,18 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Huna (feat. Ravid Kahalani)",
-        "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
       },
       "artists": [
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Zafrir",
-          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
-        },
-        {
-          "name": "Ravid Kahalani",
-          "url": "https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 145714,
-      "name": "Huna (feat. Ravid Kahalani)",
-      "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -1063,18 +1055,26 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+        "name": "Huna (feat. Ravid Kahalani)",
+        "url": "https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc"
       },
       "artists": [
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        },
+        {
+          "name": "Ravid Kahalani",
+          "url": "https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s"
         }
       ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
+      "duration_ms": 145714,
+      "name": "Huna (feat. Ravid Kahalani)",
+      "url": "https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
+        "name": "Lose My Cool",
+        "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Carrera",
+          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
+        },
+        {
+          "name": "Umali",
+          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
+        },
+        {
+          "name": "Djapatox",
+          "url": "https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS"
+        }
+      ],
+      "duration_ms": 236978,
+      "name": "Lose My Cool",
+      "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
         "name": "Gracias a la Vida",
         "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
       },
@@ -1147,30 +1171,6 @@
       "duration_ms": 231269,
       "name": "Extra-Terra",
       "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
-        "name": "Lose My Cool",
-        "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Carrera",
-          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
-        },
-        {
-          "name": "Umali",
-          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
-        },
-        {
-          "name": "Djapatox",
-          "url": "https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS"
-        }
-      ],
-      "duration_ms": 236978,
-      "name": "Lose My Cool",
-      "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
-      },
-      "artists": [
-        {
-          "name": "Synthatic",
-          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
-        }
-      ],
-      "duration_ms": 327887,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
         "name": "The Oasis (Zyrus 7 Remix)",
         "url": "https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U"
       },
@@ -1315,6 +1299,38 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/4FqftkavIOdKZyAJ0rPhiI"
+      },
+      "artists": [
+        {
+          "name": "Synthatic",
+          "url": "https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P"
+        }
+      ],
+      "duration_ms": 327887,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1qsvF68rYkMoWF40sBqGqw"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "The Flute",
+        "url": "https://open.spotify.com/album/2Mrn48wJyywIA05mKXbsPl"
+      },
+      "artists": [
+        {
+          "name": "Zanon",
+          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
+        }
+      ],
+      "duration_ms": 287323,
+      "name": "The Flute",
+      "url": "https://open.spotify.com/track/3CxCYDCB8JCAhqoYGlq8Kf"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 417391,
       "name": "Elsewhere - Original mix",
       "url": "https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
-        "name": "The Flute",
-        "url": "https://open.spotify.com/album/2Mrn48wJyywIA05mKXbsPl"
-      },
-      "artists": [
-        {
-          "name": "Zanon",
-          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
-        }
-      ],
-      "duration_ms": 287323,
-      "name": "The Flute",
-      "url": "https://open.spotify.com/track/3CxCYDCB8JCAhqoYGlq8Kf"
     },
     {
       "added_at": "2025-01-24 05:00:47",

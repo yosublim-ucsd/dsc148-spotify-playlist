@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,992 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,076 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 33 | [Body Splash \- Ao Vivo](https://open.spotify.com/track/1AM8pZn5uY89vkItAH5bm3) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Carta Aberta \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6wDpJDekjVBFXXHdLSmZkj) | 2:34 |
 | 34 | [PARECE \- Ao Vivo](https://open.spotify.com/track/77X5UMAX4FjUx1aOaLqotz) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN AO VIVO NA LUA \- CRESCENTE](https://open.spotify.com/album/2a9sL47ztb0zlKUl0uZxL8) | 2:24 |
 | 35 | [Peça Íntima](https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Peça Íntima](https://open.spotify.com/album/1Tf3Ooizx4fstK5vp6rtfF) | 2:49 |
-| 36 | [Chapa Máxima \- feat\. CAO$, Dj Lv Mdp](https://open.spotify.com/track/3yCtRV7LMeGBpvSHDR8uMV) | [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [CAO$](https://open.spotify.com/artist/46X4pYJUu5L7QsDIa3EP6t), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW) | [Chapa Máxima \(feat\. CAO$, Dj Lv Mdp\)](https://open.spotify.com/album/1DkRzC3vCBaHoiddVsZozN) | 2:31 |
+| 36 | [Chapa Máxima](https://open.spotify.com/track/3yCtRV7LMeGBpvSHDR8uMV) | [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [CAO$](https://open.spotify.com/artist/46X4pYJUu5L7QsDIa3EP6t), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW) | [Chapa Máxima](https://open.spotify.com/album/1DkRzC3vCBaHoiddVsZozN) | 2:31 |
 | 37 | [E Aí Como Que Tá ?](https://open.spotify.com/track/44BehH5rk8B5K4OtRxqpez) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [2T Na Levada](https://open.spotify.com/album/1epohEdKycc956pIE204lC) | 2:14 |
 | 38 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 | 39 | [365 Dias \(Vida Mansa\)](https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Bruno MS](https://open.spotify.com/artist/7IOSPo9oGCLWtDEZtmxgTi), [Mc Magal](https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [365 Dias \(Vida Mansa\)](https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt) | 8:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [300 no 7](https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [Dj Yuri Pedrada](https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi) | [Quem Quer F1 Com o G?](https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E) | 3:15 |
 | 50 | [Amigo Da Minha Saudade \- Ao Vivo](https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn) | 2:30 |
 
-Snapshot ID: `Lyb/yAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LyhRSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

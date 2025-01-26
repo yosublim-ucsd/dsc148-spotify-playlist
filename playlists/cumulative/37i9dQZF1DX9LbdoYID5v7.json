@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-05",
-  "description": "Music that created modern indie as we know it. Cover: Florence + The Machine",
+  "description": "20 years of <a href=\"https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7?si=Up0hqVCISie7spJeiLtmXQ\">I'm Wide Awake, It's Morning</a> Cover: Bright Eyes",
   "name": "The 2000s Indie Scene",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 275693,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273886,
+      "name": "At the Bottom of Everything",
+      "url": "https://open.spotify.com/track/39Mzqwp2PBwMy61CVTuLDl"
     },
     {
       "album": {
@@ -578,7 +596,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 221253,
       "name": "Dance, Dance, Dance",
       "url": "https://open.spotify.com/track/2HV5u6sbU4YelVFiqyowYJ"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 188877,
       "name": "First Day of My Life",
       "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 302800,
       "name": "Teen Angst",
       "url": "https://open.spotify.com/track/4y7VfYUU5OW8Q2VAQMPgr4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy e Glocky, Niky Savage, SLF e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,429 likes - 110 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,448 likes - 110 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

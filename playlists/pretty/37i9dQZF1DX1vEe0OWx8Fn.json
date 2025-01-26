@@ -1,6 +1,6 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 90085,
+  "num_followers": 90105,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+        "name": "blink-182",
+        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
+      "duration_ms": 227250,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "blink-182",
-        "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 227250,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
       "added_at": "2022-08-16 22:06:35",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "NO VANITY",
+      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
         "name": "off saint dominique EP",
         "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 156225,
       "name": "fall apart (with glaive)",
       "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "NO VANITY",
-      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
     },
     {
       "added_at": "2023-05-19 14:21:26",

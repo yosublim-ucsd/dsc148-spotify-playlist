@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 397928,
+  "num_followers": 397979,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,46 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/11aWEu6KUAzcjZND5KYbcN"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "Mocean",
+          "url": "https://open.spotify.com/artist/7aKMGvHnwW3UXE2Q2OLQSN"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
         "name": "Shout It Out",
         "url": "https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms"
       },
@@ -203,22 +243,22 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
       "artists": [
         {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
         },
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
         }
       ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -251,46 +291,6 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "sicklysweet (Tobiahs Remix)",
-        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
-      },
-      "artists": [
-        {
-          "name": "Jetta",
-          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
-        },
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 137888,
-      "name": "sicklysweet - Tobiahs Remix",
-      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/11aWEu6KUAzcjZND5KYbcN"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "Mocean",
-          "url": "https://open.spotify.com/artist/7aKMGvHnwW3UXE2Q2OLQSN"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
         "name": "Break My Love",
         "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 260400,
       "name": "Break My Love",
       "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -339,6 +323,22 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 214346,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
         "name": "Protected",
         "url": "https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 240000,
       "name": "Protected",
       "url": "https://open.spotify.com/track/1cRRIRrUiPnLOvsnWNhoH9"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -679,22 +679,18 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+        "name": "Nights Out",
+        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "Lamchopz",
+          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
         }
       ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+      "duration_ms": 343414,
+      "name": "Nights Out",
+      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -719,18 +715,22 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "Nights Out",
-        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
       "artists": [
         {
-          "name": "Lamchopz",
-          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
         }
       ],
-      "duration_ms": 343414,
-      "name": "Nights Out",
-      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "All Good (Jasper Tygner Remix)",
-        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        },
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "All Good - Jasper Tygner Remix",
-      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 213507,
       "name": "Home",
       "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
+        "name": "All Good (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "All Good - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
+        "name": "Heartburn",
+        "url": "https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY"
+      },
+      "artists": [
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 221707,
+      "name": "Heartburn",
+      "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
         "name": "Touching My Body / Down Shovel",
         "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "Heartburn",
-        "url": "https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY"
-      },
-      "artists": [
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 221707,
-      "name": "Heartburn",
-      "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
         "name": "Raye",
         "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
       },
@@ -1015,26 +1015,6 @@
       "duration_ms": 290409,
       "name": "Raye",
       "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
-        "name": "Lights Go Out",
-        "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
-      },
-      "artists": [
-        {
-          "name": "We Architects",
-          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
-        },
-        {
-          "name": "Moav",
-          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
-        }
-      ],
-      "duration_ms": 156375,
-      "name": "Lights Go Out",
-      "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -1059,6 +1039,26 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
+        "name": "Lights Go Out",
+        "url": "https://open.spotify.com/album/2PAQHUPlI0NnXcclHzG1mm"
+      },
+      "artists": [
+        {
+          "name": "We Architects",
+          "url": "https://open.spotify.com/artist/51NurCNENfDJqCtC4kgUZC"
+        },
+        {
+          "name": "Moav",
+          "url": "https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr"
+        }
+      ],
+      "duration_ms": 156375,
+      "name": "Lights Go Out",
+      "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
         "name": "Lifetime (KASSIN Remix)",
         "url": "https://open.spotify.com/album/40VYumgeItn0xMNP5pp1eM"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 321815,
       "name": "Lifetime - KASSIN Remix",
       "url": "https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/09wfArPc6oilmo1SDtoWaj"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6HAVjFro6OKMcY2xHOP0l7"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN"
-      },
-      "artists": [
-        {
-          "name": "Future Soundscapes",
-          "url": "https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm"
-    },
-    {
-      "added_at": "2025-01-12 13:00:00",
-      "album": {
         "name": "Beth",
         "url": "https://open.spotify.com/album/2jE8qn88oYgqh63C1UAtJ9"
       },
@@ -1395,22 +1379,18 @@
     {
       "added_at": "2025-01-12 13:00:00",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Future Soundscapes",
+          "url": "https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA"
         }
       ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+      "duration_ms": 136666,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm"
     },
     {
       "added_at": "2025-01-12 13:00:00",
@@ -1435,6 +1415,26 @@
       "duration_ms": 190000,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
+    },
+    {
+      "added_at": "2025-01-12 13:00:00",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
     },
     {
       "added_at": "2025-01-12 13:00:00",

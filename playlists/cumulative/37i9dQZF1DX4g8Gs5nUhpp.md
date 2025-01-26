@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Thể Thiên
+> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Hà Lê
 
 347 songs - 20 hr 37 min
 

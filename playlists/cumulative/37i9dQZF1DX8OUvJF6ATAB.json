@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 301007,
       "name": "Haust",
       "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
@@ -5910,6 +5910,24 @@
       "duration_ms": 361854,
       "name": "Vespera",
       "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+    },
+    {
+      "album": {
+        "name": "Neptuno - Hypnotic Frequencies Vol. 1",
+        "url": "https://open.spotify.com/album/2sMtWzkAFoWsD6ZKhxmiVo"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Voices of the Deep",
+      "url": "https://open.spotify.com/track/1qOkY1RdWquRIS5vslmDNI"
     },
     {
       "album": {

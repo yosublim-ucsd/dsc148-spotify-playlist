@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-196 songs - 13 hr 28 min
+197 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [County Roads \- Live At The Basement East](https://open.spotify.com/track/3R9PwZfJT95NP9E2UuIcld) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [County Roads \(Live At The Basement East\)](https://open.spotify.com/album/7wrvsCtkqd3jh8qAkR5773) | 3:30 | 2022-07-22 | 2024-05-05 |
 | [Cowboy Songs \- Live](https://open.spotify.com/track/3YiAJC9QQn1BepgcM2Rybt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs \(Live\)](https://open.spotify.com/album/1UoCRTiOP2hmyYZpabI4nG) | 4:29 | 2024-08-30 |  |
 | [Creek Will Rise \- Live](https://open.spotify.com/track/0bZiAP7fav7CS9Ay3Zgv70) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Live\)](https://open.spotify.com/album/4Uf3xJWBGRwrRfJyBb2x0m) | 3:53 | 2023-06-30 | 2024-05-05 |
-| [D.I.V.O.R.C.E](https://open.spotify.com/track/6Rmg5joHkL2dRrXa8m1oGq) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Live at Church Street Station](https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9) | 2:29 | 2024-05-04 |  |
+| [D.I.V.O.R.C.E](https://open.spotify.com/track/6Rmg5joHkL2dRrXa8m1oGq) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Live at Church Street Station](https://open.spotify.com/album/5a8bFC0IVYVRynEflPzlj9) | 2:29 | 2024-05-04 | 2025-01-26 |
 | [Dancing in the Sky \- Live](https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Live EP 001](https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe) | 3:04 | 2024-01-05 |  |
 | [Different ‘Round Here \- Live](https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [We Out Here: Live](https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB) | 3:36 | 2022-03-25 |  |
 | [Don't Come Lookin' \- Live](https://open.spotify.com/track/2A8qDQF7hWDZo8ueroFu52) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live\)](https://open.spotify.com/album/7sM0nVCmKgUpaj8GyNxVMr) | 3:19 | 2022-09-30 | 2024-05-05 |
@@ -200,6 +200,7 @@
 | [Write This Down \- Live](https://open.spotify.com/track/5AP4NeswU941cNkFxeloME) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 3:31 | 2021-07-22 |  |
 | [Written in the Sand \- Live](https://open.spotify.com/track/2VBLgWNbhskMSG4VR1VUxv) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Written in the Sand \(Live\)](https://open.spotify.com/album/7G3Dwbo16tc1GtxprZl1c2) | 3:16 | 2021-07-22 |  |
 | [You and Tequila \(with Grace Potter\) \- Live](https://open.spotify.com/track/42J7EbIglcJtzqeMSHD16P) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:45 | 2021-07-22 |  |
+| [you don't deserve a country song \- Live from the Ryman](https://open.spotify.com/track/5L7WGjIElVTxfZ7gXYYeg0) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Alana Springsteen: Live from the Ryman](https://open.spotify.com/album/3lEZ56PjLi31aGcN3jQnk6) | 4:41 | 2025-01-25 |  |
 | [You Look Good In My Shirt \- Live At The Arena At Gwinnett, GA/2008](https://open.spotify.com/track/5udl9ZZkaqeYzBKvyawlZm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 5:18 | 2021-07-22 | 2024-05-05 |
 | [You'll Think Of Me \(Live\)](https://open.spotify.com/track/7LNDABAKsZyzNaWfEDxRI0) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [You'll Think Of Me \(Live\)](https://open.spotify.com/album/7sWo6EY04OLZNygQwj04uZ) | 5:21 | 2022-06-17 | 2024-08-31 |
 | [You'll Think Of Me \- Live](https://open.spotify.com/track/2cvIplJWt8tF5ASde7hEvY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [You'll Think Of Me \(Live\)](https://open.spotify.com/album/2ItuMQNemZLkUfth09u7Ay) | 3:58 | 2021-07-22 |  |

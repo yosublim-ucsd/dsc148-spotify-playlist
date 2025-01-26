@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,196 likes - 92 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,264 likes - 92 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 |
 | 2 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 |
 | 3 | [Limitless](https://open.spotify.com/track/25fvND4h7BT76CB77Mjsm3) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:21 |
-| 4 | [We Belong](https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn) | [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [We Belong](https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA) | 3:35 |
+| 4 | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn) | [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA) | 3:35 |
 | 5 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 6 | [Fat Juicy & Wet](https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Fat Juicy & Wet](https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa) | 2:21 |
 | 7 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 66 | [Jenni](https://open.spotify.com/track/4kI5LZmzlDyRgURUueKZ63) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Jenni](https://open.spotify.com/album/7yAh8gTk7oykUml3DThvdc) | 3:29 |
 | 67 | [Cigarettes In The Dark](https://open.spotify.com/track/5ew77MWKcBO1NBngGkjJkV) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Cigarettes In The Dark](https://open.spotify.com/album/3DMpjB0ThOYwVGBWnK5rJX) | 1:59 |
 | 68 | [You're Dead](https://open.spotify.com/track/7aAJLvygvjGt9Lp3AqmI1f) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [You're Dead](https://open.spotify.com/album/7fDO5dWEy7zDM8BhxGSAQA) | 3:59 |
-| 69 | [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:11 |
+| 69 | [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:17 |
 | 70 | [Tightrope](https://open.spotify.com/track/5gbxUQZ5S747MlZusDhNSF) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [Tightrope / Vacate](https://open.spotify.com/album/71z0Oo6ZSNUY6udLVexgPl) | 3:08 |
 | 71 | [Beauty in Chaos](https://open.spotify.com/track/33aABh9nu6q8wN3z8E9LbA) | [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Red Music](https://open.spotify.com/artist/5Fxpcpen8o6SCKiTRFFoeS) | [Beauty in Chaos](https://open.spotify.com/album/3BPG2vTLM5RlHM1WZyO0gs) | 3:12 |
 | 72 | [I Would](https://open.spotify.com/track/7jfAJrVOhojsiWsr2fxpQ0) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [No Rush](https://open.spotify.com/album/6pSCibqEHlM0iunF7PufNU) | 3:47 |

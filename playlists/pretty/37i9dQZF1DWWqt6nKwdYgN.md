@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Victor Mendivil y Oscar Maydon en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,093 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,112 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 38 | [Anormales](https://open.spotify.com/track/7LCDh7VvM08V5jn0tk6LhC) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Anormales](https://open.spotify.com/album/6udTLuj1WuRd4QaDjpttwL) | 3:21 |
 | 39 | [inviernos](https://open.spotify.com/track/5o1vK2BOk2h5SyT6c4pjMT) | [B.Costa](https://open.spotify.com/artist/01fNG660iLmip7E4Q2sW0i) | [Grados Bajo Cero](https://open.spotify.com/album/50pj6qEFTklii69YB0k2xU) | 2:59 |
 | 40 | [FLAM](https://open.spotify.com/track/0G6HHWjYnMRXhB7wYBHjRj) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [FLAM](https://open.spotify.com/album/3MQVKKAUZfsYeELRjC1L75) | 2:24 |
-| 41 | [911](https://open.spotify.com/track/6VrsZccqIQGoNd3JZODnLW) | [Eklectico Diablo](https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK), [Eklectico](https://open.spotify.com/artist/16ZQZS3ZH1cXixotWa5LwC) | [911](https://open.spotify.com/album/0kf1JB8AJNyML8HUB3fqKA) | 2:13 |
+| 41 | [911](https://open.spotify.com/track/6VrsZccqIQGoNd3JZODnLW) | [Eklectico Diablo](https://open.spotify.com/artist/2i81dh40yW90vNCpJYOunK) | [911](https://open.spotify.com/album/0kf1JB8AJNyML8HUB3fqKA) | 2:13 |
 | 42 | [Me Perdí](https://open.spotify.com/track/0MviaUXHVTPtSBrdI4jdbV) | [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Me Perdí](https://open.spotify.com/album/3JztFYUCobcH797dwe4hL3) | 2:44 |
 | 43 | [De Revista](https://open.spotify.com/track/10gQ003tvEF4VsO95jJIYY) | [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [De Revista](https://open.spotify.com/album/21IUOwtcPiMxvz89bCYz1V) | 2:38 |
 | 44 | [Regreso a casa](https://open.spotify.com/track/0AajLeUB3PlFNIC8MFdEC0) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Regreso a casa](https://open.spotify.com/album/2Jrn0NhvhoEp6S6pFQhp8M) | 3:05 |

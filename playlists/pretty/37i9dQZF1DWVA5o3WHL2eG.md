@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,067 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,073 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
 | 16 | [Ich liebe dich evtl\. für immer \- Single Edit](https://open.spotify.com/track/1ygR7zkMJhzxedI0ZBK9W3) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Ich liebe dich evtl\. für immer](https://open.spotify.com/album/3Dt4bErKiNZjRvYexYp7z7) | 3:34 |
 | 17 | [as I left the room](https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [as I left the room](https://open.spotify.com/album/3T44mRmcd7Hc5sOXljOcPe) | 3:56 |
-| 18 | [Heal Me](https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Heal Me](https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h) | 3:35 |
+| 18 | [dafür oder dagegen](https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [dafür oder dagegen](https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V) | 3:03 |
 | 19 | [Ecstasy](https://open.spotify.com/track/1QamciEC8PCXXZbV4hHiI1) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Ecstasy](https://open.spotify.com/album/2IKhm1hfAexFjpEVvZs6E7) | 2:34 |
 | 20 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
-| 21 | [dafür oder dagegen](https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [dafür oder dagegen](https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V) | 3:03 |
+| 21 | [Heal Me](https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Heal Me](https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h) | 3:35 |
 | 22 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
 | 23 | [Jungle Of Abundance](https://open.spotify.com/track/7cDL31s4Hws6Nvp85ymghW) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Jungle Of Abundance](https://open.spotify.com/album/59XzzmYsdKl2CjZ5Usiozh) | 3:43 |
 | 24 | [White Lies](https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [White Lies](https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq) | 2:29 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [Anders](https://open.spotify.com/track/4OCZWQ3sHNlseBXfq6fzLq) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Anders](https://open.spotify.com/album/2ieG8qc4ZhfD25spJoqcdL) | 2:26 |
 | 31 | [So Dope](https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d) | 3:41 |
 | 32 | [drive song](https://open.spotify.com/track/5P7wdPjXNgRMf6dSmz9vRZ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [drive song](https://open.spotify.com/album/1YyK1u60qqNCpXYi54crDJ) | 3:27 |
-| 33 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
-| 34 | [Milk](https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [Milk](https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT) | 2:49 |
+| 33 | [Milk](https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [Milk](https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT) | 2:49 |
+| 34 | [Contrast](https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Contrast](https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD) | 3:28 |
 | 35 | [KCAL \(TW\)](https://open.spotify.com/track/457GMvtbJCYl6oCDfchuOR) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [KCAL \(TW\)](https://open.spotify.com/album/4z2gSwmnFBbykzTkTFWr6T) | 2:23 |
 | 36 | [Hand](https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Hand](https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5) | 2:59 |
 | 37 | [ironic](https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl) | [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [ironic](https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f) | 3:01 |

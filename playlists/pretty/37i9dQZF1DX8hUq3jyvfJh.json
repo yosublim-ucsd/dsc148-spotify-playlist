@@ -1,6 +1,6 @@
 {
   "description": "Escute no volume m\u00e1ximo as mulheres que marcaram a m\u00fasica em 2024!  Foto: Ana Castela",
-  "num_followers": 188578,
+  "num_followers": 188608,
   "original_name": "O Melhor de EQUAL Brasil 2024",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Espero Que Seja Feliz",
+        "url": "https://open.spotify.com/album/5zJxbQQUwXgUbf8tk5A6Qt"
+      },
+      "artists": [
+        {
+          "name": "Priscila Senna",
+          "url": "https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Espero Que Seja Feliz",
+      "url": "https://open.spotify.com/track/4qWoFPOfxVjfcwrCNB3jJm"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "#SV 03 - Ajuliacosta / Esse novinho vai ser meu homem",
         "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 111157,
       "name": "#SV 03 - Ajuliacosta / Esse novinho vai ser meu homem",
       "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Espero Que Seja Feliz",
-        "url": "https://open.spotify.com/album/5zJxbQQUwXgUbf8tk5A6Qt"
-      },
-      "artists": [
-        {
-          "name": "Priscila Senna",
-          "url": "https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Espero Que Seja Feliz",
-      "url": "https://open.spotify.com/track/4qWoFPOfxVjfcwrCNB3jJm"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -659,26 +659,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ARRASTO",
-        "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
-      },
-      "artists": [
-        {
-          "name": "Rubia Divino",
-          "url": "https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 186700,
-      "name": "ARRASTO",
-      "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "CHATA",
         "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 156330,
       "name": "CHATA",
       "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ARRASTO",
+        "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
+      },
+      "artists": [
+        {
+          "name": "Rubia Divino",
+          "url": "https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 186700,
+      "name": "ARRASTO",
+      "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
     },
     {
       "added_at": "2024-12-04 12:15:00",

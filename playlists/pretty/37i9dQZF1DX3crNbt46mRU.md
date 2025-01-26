@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,063 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,070 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 20 | [Night In Detroit \(feat\. Fedde Le Grand\)](https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Night In Detroit \(feat\. Fedde Le Grand\)](https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1) | 2:46 |
 | 21 | [Whatever](https://open.spotify.com/track/0LJtogguqMPVg0nkW9PFk9) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Whatever](https://open.spotify.com/album/4mwRHYpnfvMG67A3YT1HUE) | 2:46 |
 | 22 | [Grattacieli meteoriti gli angeli](https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [INDI](https://open.spotify.com/album/54HzLTohLottYBCmkjD41S) | 3:24 |
-| 23 | [Deep Fear](https://open.spotify.com/track/2w95hYvNjSscsijPsYGS8r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Side Kick](https://open.spotify.com/artist/6nlvnQ4AFIeqzzD0pWTwlR) | [Deep Fear](https://open.spotify.com/album/5VxZLYZ35mQC7mE8UxBOjP) | 2:19 |
+| 23 | [Deep Fear](https://open.spotify.com/track/2w95hYvNjSscsijPsYGS8r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Sidekick](https://open.spotify.com/artist/6q9gCO6m4qEl9UiPAjSFiq) | [Deep Fear](https://open.spotify.com/album/5VxZLYZ35mQC7mE8UxBOjP) | 2:19 |
 | 24 | [Goldrush](https://open.spotify.com/track/1AC9rys1AG0BJ5PwnX3mXu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/5NLwkvch5mURFt3AJfvkQX) | 2:48 |
 | 25 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
 | 26 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 |

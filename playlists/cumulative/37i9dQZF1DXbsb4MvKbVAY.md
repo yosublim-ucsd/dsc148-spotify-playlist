@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💰 Kannessa Tuure Boelius ja SMURDHY.
 
-768 songs - 1 day 14 hr 7 min
+769 songs - 1 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-07-02 | 2024-07-13 |
 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-07-02 | 2024-08-30 |
 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 | 2024-07-25 | 2024-09-07 |
+| [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-23 |  |
 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 | 2024-08-29 | 2024-09-06 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-07-02 | 2024-08-30 |
 | [CHROME](https://open.spotify.com/track/2l2fds3LKVxSxQNEmM4d47) | [HÄN](https://open.spotify.com/artist/3dAR6u0DLAjSCPCk1oeDiK), [YSI](https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj), [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk) | [CHROME](https://open.spotify.com/album/6se6rBdCnWt8kyhqbNfuWZ) | 2:35 | 2024-12-26 | 2025-01-03 |
@@ -462,7 +463,7 @@
 | [NAAPURIT EI TYKKÄÄ MUST](https://open.spotify.com/track/0ZlAq5NGwaXlmXhlvM3xdM) | [CHEF MEIK](https://open.spotify.com/artist/4cxHMwFAfDsSV2OZ4Ffb0R) | [NAAPURIT EI TYKKÄÄ MUST](https://open.spotify.com/album/63ToCk60hscfDVumCdq2Hj) | 2:41 | 2024-10-03 | 2024-10-11 |
 | [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 | 2024-11-28 |  |
 | [Naiivi rakkaus](https://open.spotify.com/track/6p5uK4S00hzc3OUqzE9FBq) | [Leeni](https://open.spotify.com/artist/4qFbzYlUZ5e7oeirpDdQ0z) | [Naiivi rakkaus](https://open.spotify.com/album/3N8nN42TGbS9tN09VBghbv) | 3:11 | 2024-09-12 | 2024-09-20 |
-| [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 |  |
+| [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 | 2024-11-07 | 2025-01-26 |
 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-22 | 2024-10-02 |
 | [Neodyymimaailma](https://open.spotify.com/track/1yRLNcQh2ixklKUF9auXqA) | [Thelise](https://open.spotify.com/artist/3FpcoMbYBmVX0xUW9NecUm) | [Neodyymimaailma](https://open.spotify.com/album/72h0I4YCvFme4THdKuxues) | 3:23 | 2025-01-23 |  |
 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-09-05 | 2024-12-03 |

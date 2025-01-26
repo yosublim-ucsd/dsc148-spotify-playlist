@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Saya Gray",
-  "num_followers": 1049095,
+  "num_followers": 1049704,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-22 05:00:07",
       "album": {
-        "name": "\u904e\u671f",
-        "url": "https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp"
-      },
-      "artists": [
-        {
-          "name": "163 braces",
-          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
-        }
-      ],
-      "duration_ms": 123478,
-      "name": "\u904e\u671f",
-      "url": "https://open.spotify.com/track/4vo5zsdH31KQSYHNYoBpRo"
-    },
-    {
-      "added_at": "2025-01-22 05:00:07",
-      "album": {
         "name": "Nuova Genesi",
         "url": "https://open.spotify.com/album/2uzbs4YFt5RGG8Y54YZMTG"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184706,
       "name": "Chega",
       "url": "https://open.spotify.com/track/76w5oLSdgYvA0Bt4dTUe0Z"
+    },
+    {
+      "added_at": "2025-01-22 05:00:07",
+      "album": {
+        "name": "\u904e\u671f",
+        "url": "https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "duration_ms": 123478,
+      "name": "\u904e\u671f",
+      "url": "https://open.spotify.com/track/4vo5zsdH31KQSYHNYoBpRo"
     },
     {
       "added_at": "2025-01-22 05:00:07",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-01-22 05:00:07",
       "album": {
-        "name": "la princesse lointaine",
-        "url": "https://open.spotify.com/album/4u2v95ipAG1S6RlmiYqaC5"
-      },
-      "artists": [
-        {
-          "name": "renie cares",
-          "url": "https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB"
-        }
-      ],
-      "duration_ms": 267995,
-      "name": "\u0437\u0430\u0440\u0430\u0437\u0430",
-      "url": "https://open.spotify.com/track/3ekw5hzooduEyOMT1KuhCv"
-    },
-    {
-      "added_at": "2025-01-22 05:00:07",
-      "album": {
         "name": "Ihilak Lang Na",
         "url": "https://open.spotify.com/album/3fxMI2JmXuvxlOvDwrH4JC"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 244695,
       "name": "Ihilak Lang Na",
       "url": "https://open.spotify.com/track/55YEzqjfMko3AzkfkOvOei"
+    },
+    {
+      "added_at": "2025-01-22 05:00:07",
+      "album": {
+        "name": "la princesse lointaine",
+        "url": "https://open.spotify.com/album/4u2v95ipAG1S6RlmiYqaC5"
+      },
+      "artists": [
+        {
+          "name": "renie cares",
+          "url": "https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB"
+        }
+      ],
+      "duration_ms": 267995,
+      "name": "\u0437\u0430\u0440\u0430\u0437\u0430",
+      "url": "https://open.spotify.com/track/3ekw5hzooduEyOMT1KuhCv"
     },
     {
       "added_at": "2025-01-22 05:00:07",

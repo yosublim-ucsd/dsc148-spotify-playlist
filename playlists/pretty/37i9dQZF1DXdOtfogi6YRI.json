@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: VBS",
-  "num_followers": 18333,
+  "num_followers": 18337,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "Brednie",
+        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
+      },
+      "artists": [
+        {
+          "name": "Promie\u0144",
+          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+        }
+      ],
+      "duration_ms": 195176,
+      "name": "Brednie",
+      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "ZBUNTOWANI",
         "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 174676,
       "name": "MOJA WINA",
       "url": "https://open.spotify.com/track/5aFau6dtoRGG6M1QGSlA2Q"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "Brednie",
-        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
-      },
-      "artists": [
-        {
-          "name": "Promie\u0144",
-          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
-        }
-      ],
-      "duration_ms": 195176,
-      "name": "Brednie",
-      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "BACKLOG",
+        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
+      },
+      "artists": [
+        {
+          "name": "\u015aWI\u0118TY BASS",
+          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "BACKLOG",
+      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "Bar",
         "url": "https://open.spotify.com/album/2YDTKA6uIOwMc4Wpq8cBll"
       },
@@ -863,18 +879,38 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "BACKLOG",
-        "url": "https://open.spotify.com/album/7wIyd8GLtrLZli1Ju4zaF2"
+        "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
+        "url": "https://open.spotify.com/album/2Py8PzlFuuz7442rAfUzCE"
       },
       "artists": [
         {
-          "name": "\u015aWI\u0118TY BASS",
-          "url": "https://open.spotify.com/artist/2sklN95nQCwgpfPikUHPjP"
+          "name": "Wzg\u00f3rze Ya-Pa 3",
+          "url": "https://open.spotify.com/artist/6Y7PAikeXzdbuEPjRACgX1"
+        },
+        {
+          "name": "Borixon",
+          "url": "https://open.spotify.com/artist/5Q5WdRs96HgbxdVIfhHqt2"
+        },
+        {
+          "name": "Jarecki",
+          "url": "https://open.spotify.com/artist/2w0eJvcbmitlDiYDu9ABOh"
+        },
+        {
+          "name": "BRK",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        },
+        {
+          "name": "Wojtas",
+          "url": "https://open.spotify.com/artist/5zDYS1hcOlNxMsIxw4BVNE"
         }
       ],
-      "duration_ms": 182093,
-      "name": "BACKLOG",
-      "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
+      "duration_ms": 209918,
+      "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
+      "url": "https://open.spotify.com/track/5yRsHDOM4XWRyCrNBHxWl5"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -927,58 +963,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
-        "url": "https://open.spotify.com/album/2Py8PzlFuuz7442rAfUzCE"
-      },
-      "artists": [
-        {
-          "name": "Wzg\u00f3rze Ya-Pa 3",
-          "url": "https://open.spotify.com/artist/6Y7PAikeXzdbuEPjRACgX1"
-        },
-        {
-          "name": "Borixon",
-          "url": "https://open.spotify.com/artist/5Q5WdRs96HgbxdVIfhHqt2"
-        },
-        {
-          "name": "Jarecki",
-          "url": "https://open.spotify.com/artist/2w0eJvcbmitlDiYDu9ABOh"
-        },
-        {
-          "name": "BRK",
-          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
-        },
-        {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
-        },
-        {
-          "name": "Wojtas",
-          "url": "https://open.spotify.com/artist/5zDYS1hcOlNxMsIxw4BVNE"
-        }
-      ],
-      "duration_ms": 209918,
-      "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
-      "url": "https://open.spotify.com/track/5yRsHDOM4XWRyCrNBHxWl5"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "ASMR",
-        "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 230169,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/7EhMso5bZ2o60CNXi5S11B"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "Z\u0142ote \u0142ezki",
         "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 181973,
       "name": "Z\u0142ote \u0142ezki",
       "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 230169,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/7EhMso5bZ2o60CNXi5S11B"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "ATARI",
-        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
-      },
-      "artists": [
-        {
-          "name": "CRANK ALL",
-          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
-        }
-      ],
-      "duration_ms": 148437,
-      "name": "ATARI",
-      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "Wspania\u0142y \u015bwiat",
         "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
       },
@@ -1319,42 +1303,18 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "KOCYK",
-        "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
+        "name": "ATARI",
+        "url": "https://open.spotify.com/album/162H9h59pFT1RB7vIq6hZD"
       },
       "artists": [
         {
-          "name": "\u0141ona",
-          "url": "https://open.spotify.com/artist/6YpCzWpIXRTdLlpPgDcMJZ"
-        },
-        {
-          "name": "Andrzej Konieczny",
-          "url": "https://open.spotify.com/artist/6XrenSnE2iTrpfUxsXM5bK"
-        },
-        {
-          "name": "Kacper Krupa",
-          "url": "https://open.spotify.com/artist/17JCC85voZ1MBLTWU9UbJz"
+          "name": "CRANK ALL",
+          "url": "https://open.spotify.com/artist/26R9MlehfBKN3lu0tpcNCE"
         }
       ],
-      "duration_ms": 261293,
-      "name": "KOCYK",
-      "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "JORDAN PEELE",
-        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
-      },
-      "artists": [
-        {
-          "name": "NAUTOFON",
-          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
-        }
-      ],
-      "duration_ms": 183455,
-      "name": "JORDAN PEELE",
-      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
+      "duration_ms": 148437,
+      "name": "ATARI",
+      "url": "https://open.spotify.com/track/5bFVMjr9x1tH9RwFmzLrZa"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1399,6 +1359,46 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "KOCYK",
+        "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
+      },
+      "artists": [
+        {
+          "name": "\u0141ona",
+          "url": "https://open.spotify.com/artist/6YpCzWpIXRTdLlpPgDcMJZ"
+        },
+        {
+          "name": "Andrzej Konieczny",
+          "url": "https://open.spotify.com/artist/6XrenSnE2iTrpfUxsXM5bK"
+        },
+        {
+          "name": "Kacper Krupa",
+          "url": "https://open.spotify.com/artist/17JCC85voZ1MBLTWU9UbJz"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "KOCYK",
+      "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "JORDAN PEELE",
+        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
+      },
+      "artists": [
+        {
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
+        }
+      ],
+      "duration_ms": 183455,
+      "name": "JORDAN PEELE",
+      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "Dzie\u0144",
         "url": "https://open.spotify.com/album/2Di5GTWwlBbSCqUlrAAFKd"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 191428,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/0DIIrvQHTDGp6rgDIY3CdB"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "B\u0119dzie dobrze",
         "url": "https://open.spotify.com/album/3XWNKLsR1FGaJaMmsAvgJ7"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "PIEK\u0141O DLA DJ\u00d3W",
-        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 129520,
-      "name": "PIEK\u0141O DLA DJ\u00d3W",
-      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "WHOOP WHOOP",
         "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 117015,
       "name": "WHOOP WHOOP",
       "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "PIEK\u0141O DLA DJ\u00d3W",
+        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 129520,
+      "name": "PIEK\u0141O DLA DJ\u00d3W",
+      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1667,6 +1667,46 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "Rapujecie co\u015b jeszcze?",
+        "url": "https://open.spotify.com/album/73WDTjEEjo4ZDMkpVkDqoo"
+      },
+      "artists": [
+        {
+          "name": "Spajku/Dziunek",
+          "url": "https://open.spotify.com/artist/59Rik4l7RgbGXu9YcTw8GH"
+        },
+        {
+          "name": "Dj DBT",
+          "url": "https://open.spotify.com/artist/1ghzisNIQPOmoBdLlFqnyt"
+        },
+        {
+          "name": "Kajetan Borowski",
+          "url": "https://open.spotify.com/artist/3TTFIdrb9JttQKaSPyvLcu"
+        }
+      ],
+      "duration_ms": 157546,
+      "name": "Rapujecie co\u015b jeszcze?",
+      "url": "https://open.spotify.com/track/4bLxnXJckZR0SCrzTgOclI"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/7LU9XFWCRMP28hNM2j6Ums"
+      },
+      "artists": [
+        {
+          "name": "Emil Blant",
+          "url": "https://open.spotify.com/artist/0Is8IPUVF8DR56xHAnvXCn"
+        }
+      ],
+      "duration_ms": 225716,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/2UTkoWREioW344iegF0hjD"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "pe\u0142ne serca puste drogi",
         "url": "https://open.spotify.com/album/2lF0Mw7jmUKGVsvqnC9jup"
       },
@@ -1715,46 +1755,6 @@
       "duration_ms": 141714,
       "name": "Ej czy s\u0142ysza\u0142e\u015b co si\u0119 dzieje na mie\u015bcie?",
       "url": "https://open.spotify.com/track/6P0v4ZJY1E2OxNZ89S6juF"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "Rapujecie co\u015b jeszcze?",
-        "url": "https://open.spotify.com/album/73WDTjEEjo4ZDMkpVkDqoo"
-      },
-      "artists": [
-        {
-          "name": "Spajku/Dziunek",
-          "url": "https://open.spotify.com/artist/59Rik4l7RgbGXu9YcTw8GH"
-        },
-        {
-          "name": "Dj DBT",
-          "url": "https://open.spotify.com/artist/1ghzisNIQPOmoBdLlFqnyt"
-        },
-        {
-          "name": "Kajetan Borowski",
-          "url": "https://open.spotify.com/artist/3TTFIdrb9JttQKaSPyvLcu"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "Rapujecie co\u015b jeszcze?",
-      "url": "https://open.spotify.com/track/4bLxnXJckZR0SCrzTgOclI"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/7LU9XFWCRMP28hNM2j6Ums"
-      },
-      "artists": [
-        {
-          "name": "Emil Blant",
-          "url": "https://open.spotify.com/artist/0Is8IPUVF8DR56xHAnvXCn"
-        }
-      ],
-      "duration_ms": 225716,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/2UTkoWREioW344iegF0hjD"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1811,46 +1811,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "OA",
-        "url": "https://open.spotify.com/album/4XaTg37Mtw2RqLguUNnXa6"
-      },
-      "artists": [
-        {
-          "name": "Ananas",
-          "url": "https://open.spotify.com/artist/73wP9wl0sqJnAyabkcg95b"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "OA",
-      "url": "https://open.spotify.com/track/6TMsdN4HAvZANCIOzblvbo"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "Dywan",
-        "url": "https://open.spotify.com/album/1oivICGQQm4ZyBbHZT5yUq"
-      },
-      "artists": [
-        {
-          "name": "Marceli Bober",
-          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
-        },
-        {
-          "name": "Cicho\u0144",
-          "url": "https://open.spotify.com/artist/5PisHXBfzRVWCw1k6Ud3NC"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "Dywan",
-      "url": "https://open.spotify.com/track/2wIPpx1Jt3pcAEHYqE57ay"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "ad hoc",
         "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
       },
@@ -1879,22 +1839,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "melody",
-        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
-      },
-      "artists": [
-        {
-          "name": "Heczko",
-          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "melody",
-      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "NOWY WOKAL",
         "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
       },
@@ -1915,6 +1859,62 @@
       "duration_ms": 189767,
       "name": "NOWY WOKAL",
       "url": "https://open.spotify.com/track/0bZW5Log78bUgvShYkpBSS"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
+      },
+      "artists": [
+        {
+          "name": "Heczko",
+          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "Dywan",
+        "url": "https://open.spotify.com/album/1oivICGQQm4ZyBbHZT5yUq"
+      },
+      "artists": [
+        {
+          "name": "Marceli Bober",
+          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
+        },
+        {
+          "name": "Cicho\u0144",
+          "url": "https://open.spotify.com/artist/5PisHXBfzRVWCw1k6Ud3NC"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "Dywan",
+      "url": "https://open.spotify.com/track/2wIPpx1Jt3pcAEHYqE57ay"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "OA",
+        "url": "https://open.spotify.com/album/4XaTg37Mtw2RqLguUNnXa6"
+      },
+      "artists": [
+        {
+          "name": "Ananas",
+          "url": "https://open.spotify.com/artist/73wP9wl0sqJnAyabkcg95b"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "OA",
+      "url": "https://open.spotify.com/track/6TMsdN4HAvZANCIOzblvbo"
     },
     {
       "added_at": "2025-01-24 11:29:36",

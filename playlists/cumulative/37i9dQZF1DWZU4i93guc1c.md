@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Лівінстон
 
-259 songs - 13 hr 33 min
+260 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Lucerna](https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Lucerna](https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X) | 6:16 | 2024-10-09 |  |
 | [mafia](https://open.spotify.com/track/0OJRzFVYPpLJ5hsTfhloBQ) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [mafia](https://open.spotify.com/album/2S7KugySi40sSRnGGjWgX4) | 2:45 | 2025-01-02 |  |
 | [Makoterchyk](https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Makoterchyk](https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw) | 4:15 | 2024-06-27 | 2025-01-03 |
-| [Masandra](https://open.spotify.com/track/35ipejFnGQscQFs8Gs4c6e) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Masandra](https://open.spotify.com/album/7FPF7JPykvtGNKSvuF8bmp) | 4:24 | 2024-06-27 |  |
+| [Masandra](https://open.spotify.com/track/35ipejFnGQscQFs8Gs4c6e) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Masandra](https://open.spotify.com/album/7FPF7JPykvtGNKSvuF8bmp) | 4:24 | 2024-06-27 | 2025-01-26 |
 | [Melancholy Love](https://open.spotify.com/track/5uB0zDmW93oBCQ93GuV9KL) | [Lost Gift](https://open.spotify.com/artist/676CuDunRM60X41MIhAaI8) | [Melancholy Love](https://open.spotify.com/album/5GNg27IwodYLLQkxoNtAAv) | 2:12 | 2024-06-27 | 2024-07-13 |
 | [Michael J](https://open.spotify.com/track/0AlVElhcp5XyrHOYHw6lpe) | [Krechet](https://open.spotify.com/artist/4hn6wAjApsXShY05vN6IRR) | [Michael J](https://open.spotify.com/album/6RkOQHkqG0TcGZjGxPz30T) | 2:02 | 2024-10-18 | 2024-11-22 |
 | [Potim](https://open.spotify.com/track/6FESL2bV9ElEXM0Noc7sAV) | [Figurat](https://open.spotify.com/artist/4uaBSVM3My0WqRienuJMlc) | [Potim](https://open.spotify.com/album/5rRuKFu6Vep7EfTLfr8kk6) | 2:42 | 2024-06-27 | 2024-07-13 |
@@ -95,7 +95,7 @@
 | [Засинаю перша](https://open.spotify.com/track/5Vuo5Irn3JzftTZkADcOCI) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Засинаю перша](https://open.spotify.com/album/4BumJN5T1QfIxuSjhQBpg1) | 3:00 | 2024-07-26 | 2024-08-24 |
 | [Земля](https://open.spotify.com/track/6gYpS809CZImTMCcOseUZa) | [Село Близнюків](https://open.spotify.com/artist/4LJ22l3ZLbWlu94VInorcK) | [Земля](https://open.spotify.com/album/3E0ZEYk0ycG6OqYGIKNBcf) | 3:10 | 2025-01-24 |  |
 | [Зламалось](https://open.spotify.com/track/3ZfLh92AhRBJb9LryDHiqM) | [Кімната Гретхен](https://open.spotify.com/artist/6E4ZDtPGWri8DKXekjg4Gv) | [Зламалось](https://open.spotify.com/album/7CNzfZYXhcq5Qd0kpcNuAX) | 4:02 | 2024-10-18 | 2024-11-08 |
-| [Злови мене](https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Вояж](https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr) | 2:16 | 2024-10-18 |  |
+| [Злови мене](https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [Вояж](https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr) | 2:16 | 2024-10-18 | 2025-01-26 |
 | [змія](https://open.spotify.com/track/6xukt3wKyhFSRMq2btOaKH) | [morgendie](https://open.spotify.com/artist/3Qr9KtjDCIe6L5ByQB6Hnj) | [змія](https://open.spotify.com/album/78F0S8ltlGIrhqlagotizX) | 3:09 | 2024-09-13 | 2024-10-05 |
 | [Знайду тебе](https://open.spotify.com/track/001FbsM7YktxYyBMKYacxO) | [східзахід](https://open.spotify.com/artist/7imgvbtQFCTvVFFv57iBmc) | [Знайду тебе](https://open.spotify.com/album/6CO5Vw6WoHdTeqL7Rc3sVf) | 2:32 | 2024-11-07 | 2024-12-07 |
 | [Знак](https://open.spotify.com/track/7IGqzp5x3pYJb0FlDKMIwx) | [Love, Mary](https://open.spotify.com/artist/7ppNgJPSCMBaqo6NBD1gvt) | [Знак](https://open.spotify.com/album/4s9YJwL6GkQdWms98TpYAB) | 2:21 | 2025-01-02 | 2025-01-25 |
@@ -120,10 +120,11 @@
 | [ЛЮ](https://open.spotify.com/track/1NiqYMudAIfNAd7plZuAF2) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [ЛЮ](https://open.spotify.com/album/4TLaoBBeCAWxtsde3fy9ZI) | 4:37 | 2024-08-23 | 2024-09-14 |
 | [любити тебе](https://open.spotify.com/track/4hE2CMLBColBSmXJ3ursdM) | [sadagain](https://open.spotify.com/artist/7zuQRIjvU5KfSLLsx7ZdUE) | [любити тебе](https://open.spotify.com/album/4vrR8WywuYIuDjY42SEe7G) | 3:06 | 2024-09-13 | 2024-10-05 |
 | [Любов](https://open.spotify.com/track/7tuGvhNiWhhfvzePO3A6Q9) | [19.99](https://open.spotify.com/artist/5ePkQVN5GwTkqemJx7Sf6J) | [Мине](https://open.spotify.com/album/12ZLZyMvPCmsL509w2YVDf) | 4:11 | 2024-10-18 | 2024-11-08 |
+| [Літаки](https://open.spotify.com/track/5z24bFb6wVGEBcUyFxhI71) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Літаки](https://open.spotify.com/album/6WIUzRFfs0JQNkkZuQ5Sde) | 3:25 | 2025-01-24 |  |
 | [Літали](https://open.spotify.com/track/7fhvzRmnvP9mW5nizR72VT) | [oneWITCH](https://open.spotify.com/artist/6XT4wI1kBZXB8T6jqiGt1x), [Romario Punch](https://open.spotify.com/artist/7B3vqR7S1Hpvv36njQADVp) | [Літали](https://open.spotify.com/album/0AOtKE2TagI9hrwZrSDPlM) | 3:00 | 2024-09-13 | 2024-10-05 |
 | [Літо](https://open.spotify.com/track/6rEc1q1piCjkv5nQoUkPHJ) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Літо](https://open.spotify.com/album/019UYD8c4sKIZD35H36nlc) | 3:05 | 2024-07-26 | 2024-12-07 |
 | [ЛІТОПЛИН](https://open.spotify.com/track/638Az78MmYFTyyus6YA5xJ) | [Granat Garden](https://open.spotify.com/artist/2KMR2HzUel7KoNvJaTjt5L) | [ЛІТОПЛИН](https://open.spotify.com/album/7rwIioPjjC45PWZJCWHfq5) | 5:36 | 2024-09-13 | 2024-10-05 |
-| [Ліфт](https://open.spotify.com/track/324FC9qWoui9HoVENu42uB) | [Chekson](https://open.spotify.com/artist/0UjI2UCXbjgannnEKe4r3k) | [Ліфт](https://open.spotify.com/album/3bOCgqI9AIRj04C9Iw0a66) | 3:32 | 2024-06-27 | 2024-11-06 |
+| [Ліфт](https://open.spotify.com/track/324FC9qWoui9HoVENu42uB) | [Chekson](https://open.spotify.com/artist/0UjI2UCXbjgannnEKe4r3k) | [Ліфт](https://open.spotify.com/album/3bOCgqI9AIRj04C9Iw0a66) | 3:32 | 2024-06-27 |  |
 | [Ма](https://open.spotify.com/track/2DACyhzh1Yq4YJH9Cjb3w3) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Ма](https://open.spotify.com/album/78YDKZSyRb9E5dahGgd6OX) | 2:18 | 2024-07-26 | 2024-08-24 |
 | [Матриця](https://open.spotify.com/track/5KGYkmx4PldWiBcg0wSzJE) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Невдячна глядачка](https://open.spotify.com/album/6WET3pEZ3hniBwvYfBPvZ3) | 2:44 | 2024-12-06 |  |
 | [Мені так треба](https://open.spotify.com/track/3OVJEtUcnjPNUsBOhia7CR) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [KUGATESSA](https://open.spotify.com/artist/1BOpBS41QOt9MLdS7HK6bH) | [Мені так треба](https://open.spotify.com/album/2bWFRYbngnlthr4arQJGsz) | 3:23 | 2024-10-18 |  |

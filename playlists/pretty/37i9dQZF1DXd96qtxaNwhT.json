@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 300126,
+  "num_followers": 300133,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
-        "name": "Dream On",
-        "url": "https://open.spotify.com/album/3fXM1TfNBpDAs3GaJTwS2Y"
-      },
-      "artists": [
-        {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
-        }
-      ],
-      "duration_ms": 231471,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/6BCGPXXC8gfZUZfVSz7KtW"
-    },
-    {
-      "added_at": "2025-01-06 13:02:01",
-      "album": {
         "name": "Burn for You",
         "url": "https://open.spotify.com/album/1sQgqBMnl1ts9gJRpOsRqc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 215181,
       "name": "Burn for You",
       "url": "https://open.spotify.com/track/5d6TX9hDim1mhc89ujRK1f"
+    },
+    {
+      "added_at": "2025-01-06 13:02:01",
+      "album": {
+        "name": "Dream On",
+        "url": "https://open.spotify.com/album/3fXM1TfNBpDAs3GaJTwS2Y"
+      },
+      "artists": [
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "duration_ms": 231471,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/6BCGPXXC8gfZUZfVSz7KtW"
     },
     {
       "added_at": "2025-01-06 13:02:01",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/6tc5626s6b7NI34UlJKH0X"
-      },
-      "artists": [
-        {
-          "name": "Will Troy",
-          "url": "https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1"
-        }
-      ],
-      "duration_ms": 234961,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/4MB87UHsD18uievFjjo737"
-    },
-    {
-      "added_at": "2025-01-06 13:02:01",
-      "album": {
         "name": "For Oli",
         "url": "https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
-        "name": "closure",
-        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/6tc5626s6b7NI34UlJKH0X"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "Will Troy",
+          "url": "https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1"
         }
       ],
-      "duration_ms": 183566,
-      "name": "closure",
-      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
+      "duration_ms": 234961,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/4MB87UHsD18uievFjjo737"
     },
     {
       "added_at": "2025-01-06 13:02:01",
@@ -1235,6 +1219,22 @@
       "duration_ms": 219963,
       "name": "Do You See Me",
       "url": "https://open.spotify.com/track/7Mo5xjXd4dccZhmqHDD12t"
+    },
+    {
+      "added_at": "2025-01-06 13:02:01",
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 183566,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA"
     },
     {
       "added_at": "2025-01-06 13:02:01",

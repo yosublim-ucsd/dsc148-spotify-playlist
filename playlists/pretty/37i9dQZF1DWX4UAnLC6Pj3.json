@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Edgardo Nu\u00f1ez en portada.",
-  "num_followers": 1247537,
+  "num_followers": 1247691,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3ExUdt4PSkql5ojPhmZCLX"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5jWrRvkVz0w5x3UOcJ1Xyx"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 232573,
       "name": "M\u00fasica Rom\u00e1ntica",
       "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3ExUdt4PSkql5ojPhmZCLX"
-      },
-      "artists": [
-        {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5jWrRvkVz0w5x3UOcJ1Xyx"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "\u00c1ndale Pues Terco",
-        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "\u00c1ndale Pues Terco",
-      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "\u00c1ndale Pues Terco",
+        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "\u00c1ndale Pues Terco",
+      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -979,26 +979,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "La Humilde Opinion",
-        "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
-      },
-      "artists": [
-        {
-          "name": "Tony Montoya",
-          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 163016,
-      "name": "La Humilde Opinion",
-      "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Los Prohibidos en Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
       },
@@ -1035,6 +1015,26 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "La Humilde Opinion",
+        "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
+      },
+      "artists": [
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 163016,
+      "name": "La Humilde Opinion",
+      "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "Zona De Amigos",
+        "url": "https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "Zona De Amigos",
+      "url": "https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "El Patrocinador",
         "url": "https://open.spotify.com/album/1FaB00fCiDbBoK7xtaQHne"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 206960,
       "name": "El Patrocinador",
       "url": "https://open.spotify.com/track/7IPvreDoOx2OkR3Qu1G9aS"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "Zona De Amigos",
-        "url": "https://open.spotify.com/album/7gAhjACosQbflBrOG1pHOD"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "Zona De Amigos",
-      "url": "https://open.spotify.com/track/5XQSZD393mLnALDZrZHTm9"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Con Banda",
-        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 128531,
-      "name": "Por una Mujer Casada",
-      "url": "https://open.spotify.com/track/0Pzp1jw4YqVXGdiN6KHccC"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 156252,
       "name": "Me Quiero Casar",
       "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Con Banda",
+        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 128531,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/0Pzp1jw4YqVXGdiN6KHccC"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Vicente Fern\u00e1ndez Con Banda",
-        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "Hace un A\u00f1o",
-      "url": "https://open.spotify.com/track/0M5qeMHYJ3T89v9MSXVEUC"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "D\u00e9jenlos Pasar",
         "url": "https://open.spotify.com/album/4P66jwFhheR29rXvoV6fZO"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 210720,
       "name": "COQUETO TAZO DORADO",
       "url": "https://open.spotify.com/track/3em90DscDPoispuwsdd2aT"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Con Banda",
+        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167979,
+      "name": "Hace un A\u00f1o",
+      "url": "https://open.spotify.com/track/0M5qeMHYJ3T89v9MSXVEUC"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "De Ellas",
-        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 237787,
-      "name": "De Ellas",
-      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 208413,
       "name": "Entre Botellas",
       "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "De Ellas",
+        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 237787,
+      "name": "De Ellas",
+      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 224166,
+      "name": "Muchachita De Ojos Tristes - En Vivo",
+      "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "El Precio De La Soledad (En vivo)",
         "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+        "name": "La Propina",
+        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 224166,
-      "name": "Muchachita De Ojos Tristes - En Vivo",
-      "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
+      "duration_ms": 142013,
+      "name": "La Propina",
+      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1643,22 +1659,6 @@
       "duration_ms": 487978,
       "name": "Tipico Clasico / Yo S\u00e9 Que Te Acordar\u00e1s (En Vivo)",
       "url": "https://open.spotify.com/track/0MYd5kPeOQKmrxzGYEyrlX"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "La Propina",
-        "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142013,
-      "name": "La Propina",
-      "url": "https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Entre Golpes y Besos - En Vivo",
+      "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "Mis Gustos Mis Canciones (En Vivo)",
         "url": "https://open.spotify.com/album/713vIeHuBR3osul4JUkdS2"
       },
@@ -2171,30 +2187,6 @@
       "duration_ms": 149636,
       "name": "Angel Perdido",
       "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "Salud Por Eso",
-        "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        },
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        },
-        {
-          "name": "Esencia Noble",
-          "url": "https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Salud Por Eso",
-      "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
     }
   ],
   "unique_name": "Banda 2025",

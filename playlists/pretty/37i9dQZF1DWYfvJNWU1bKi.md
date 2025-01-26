@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,200 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,280 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 64 | [Palindrome](https://open.spotify.com/track/4w0uCEcrOfUfWYMasMVwI9) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Palindrome \(From Vinodhan\) \- Single](https://open.spotify.com/album/3xoIi6T5g0aepBBIMKqTPh) | 4:41 |
 | 65 | [Munbe Vaa](https://open.spotify.com/track/6vZj02bcQqLTYRAi4jRkw7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Silunu Oru Kadhal](https://open.spotify.com/album/2V66QirokxORBvsvLCkX75) | 5:56 |
 | 66 | [Vaseegara](https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Minnale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA) | 4:59 |
-| 67 | [Maruvaarthai](https://open.spotify.com/track/2G53OcVphvDNOs08gptddN) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U5xINSfRnUw0vWxJ5phK0) | 5:56 |
+| 67 | [Yennai Maatrum Kadhale](https://open.spotify.com/track/6RXJKdpBp6AVL6H6sHyNp0) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Naanum Rowdy Dhaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JPb12l6n12Zo34Ut2XhFx) | 4:34 |
 | 68 | [Malai Mangum Neram](https://open.spotify.com/track/2yDBeS1pUuX9ms5Y3ItIAf) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Rowthiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Bi1ggSG4ljoZoD4e5jpyA) | 5:13 |
 | 69 | [Paarthen \(The Youth Of Power Paandi\)](https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja) | [Sean Roldan,Shweta Mohan](https://open.spotify.com/artist/1yQC7cateD70CQUJtZjvYO) | [Power Paandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2l86Y48TxWBYmDpUhZQttR) | 3:03 |
 | 70 | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/4Lm0D6ituSgOi1AXLhUqcx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Aishwarya Suresh Bindra](https://open.spotify.com/artist/6QOMlTNUkY4dIVIPiJ0KMg) | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/3Pbe8ZyeyqvBT0aNNJXsuK) | 4:20 |

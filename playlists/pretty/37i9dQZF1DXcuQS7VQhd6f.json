@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: Marvin Sapp",
-  "num_followers": 6560,
+  "num_followers": 6690,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-02 08:26:30",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 322973,
-      "name": "Speak to My Heart",
-      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
-    },
-    {
-      "added_at": "2024-12-02 08:26:30",
-      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 366319,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
+    },
+    {
+      "added_at": "2024-12-02 08:26:30",
+      "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 322973,
+      "name": "Speak to My Heart",
+      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
     },
     {
       "added_at": "2024-12-02 08:26:30",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-12-02 08:26:30",
       "album": {
-        "name": "Alone But Not Alone",
-        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
-      },
-      "artists": [
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Just Don't Wanna Know",
-      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
-    },
-    {
-      "added_at": "2024-12-02 08:26:30",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/6a93AkkgChGuCFDY2U4e0S"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 411840,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/7bGft4bG3evhX1ptBtSclF"
+    },
+    {
+      "added_at": "2024-12-02 08:26:30",
+      "album": {
+        "name": "Alone But Not Alone",
+        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
+      },
+      "artists": [
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Just Don't Wanna Know",
+      "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
     },
     {
       "added_at": "2024-12-02 08:26:30",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-12-02 08:26:30",
       "album": {
+        "name": "God's Property from Kirk Franklin's Nu Nation",
+        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
+      },
+      "artists": [
+        {
+          "name": "Gods Property",
+          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "More Than I Can Bear",
+      "url": "https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX"
+    },
+    {
+      "added_at": "2024-12-02 08:26:30",
+      "album": {
         "name": "Right Now Praise",
         "url": "https://open.spotify.com/album/5bXz7wIK9dCdP5Ua5WxSox"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 301533,
       "name": "God Blocked It",
       "url": "https://open.spotify.com/track/2NFqytYqfUblGvXucjvG6F"
-    },
-    {
-      "added_at": "2024-12-02 08:26:30",
-      "album": {
-        "name": "God's Property from Kirk Franklin's Nu Nation",
-        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
-      },
-      "artists": [
-        {
-          "name": "Gods Property",
-          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "More Than I Can Bear",
-      "url": "https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX"
     },
     {
       "added_at": "2024-12-02 08:26:30",
@@ -1687,8 +1687,8 @@
     {
       "added_at": "2024-12-02 08:26:30",
       "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
       },
       "artists": [
         {
@@ -1696,9 +1696,9 @@
           "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 417706,
-      "name": "In the Midst of It All",
-      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
+      "duration_ms": 264693,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
     },
     {
       "added_at": "2024-12-02 08:26:30",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-12-02 08:26:30",
       "album": {
-        "name": "It\u2019s A New Day",
-        "url": "https://open.spotify.com/album/2seseSh5U6TRFKfF6phFlO"
-      },
-      "artists": [
-        {
-          "name": "James Cleveland & The Southern California Community Choir",
-          "url": "https://open.spotify.com/artist/3O90nZ7V5cI8QoyuKNWjZ0"
-        }
-      ],
-      "duration_ms": 407946,
-      "name": "God Is",
-      "url": "https://open.spotify.com/track/78wYW2SI5MKVXw4zdqbceY"
-    },
-    {
-      "added_at": "2024-12-02 08:26:30",
-      "album": {
         "name": "Say The Name",
         "url": "https://open.spotify.com/album/1qWjCov4hNE6vWcKPFVx2r"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 516960,
       "name": "Because of Who You Are",
       "url": "https://open.spotify.com/track/1CZFnTDpUdabrRd7LKl6S8"
+    },
+    {
+      "added_at": "2024-12-02 08:26:30",
+      "album": {
+        "name": "It\u2019s A New Day",
+        "url": "https://open.spotify.com/album/2seseSh5U6TRFKfF6phFlO"
+      },
+      "artists": [
+        {
+          "name": "James Cleveland & The Southern California Community Choir",
+          "url": "https://open.spotify.com/artist/3O90nZ7V5cI8QoyuKNWjZ0"
+        }
+      ],
+      "duration_ms": 407946,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/78wYW2SI5MKVXw4zdqbceY"
     },
     {
       "added_at": "2024-12-02 08:26:30",
@@ -2483,8 +2483,8 @@
     {
       "added_at": "2024-12-02 08:26:30",
       "album": {
-        "name": "Save The World",
-        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
       },
       "artists": [
         {
@@ -2492,9 +2492,9 @@
           "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 264693,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
+      "duration_ms": 417706,
+      "name": "In the Midst of It All",
+      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
     },
     {
       "added_at": "2024-12-02 08:26:30",

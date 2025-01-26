@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fwYfqYEDWu9UNfljA4NID">OZ</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,344 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,346 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 115 | [CHIEF KEEF](https://open.spotify.com/track/78aTQcyx9rwYv0d5mpxGJX) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 3:00 |
 | 116 | [Die In It](https://open.spotify.com/track/7l0ZJgT7qivX45J0D9fgKf) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [RSS2](https://open.spotify.com/album/2IfA1yfK7cw3nEOGsadYGd) | 2:40 |
 | 117 | [Something I'm Not](https://open.spotify.com/track/2BSU3Sh8K5Jc9CwHkMTgGX) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 3:17 |
-| 118 | [Head Tap \(feat\. Tee Grizzley\)](https://open.spotify.com/track/15oUNnj8unqJJlbYbH1dAs) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Don Talk](https://open.spotify.com/album/3DZBQwtLEZSiuWXYAjLdbZ) | 3:09 |
-| 119 | [Prized Possession \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/4dxenGUpWzBiFPwHq7dx10) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:41 |
+| 118 | [Prized Possession \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/4dxenGUpWzBiFPwHq7dx10) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:41 |
+| 119 | [Head Tap \(feat\. Tee Grizzley\)](https://open.spotify.com/track/15oUNnj8unqJJlbYbH1dAs) | [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Don Talk](https://open.spotify.com/album/3DZBQwtLEZSiuWXYAjLdbZ) | 3:09 |
 | 120 | [NEW LIFE](https://open.spotify.com/track/2q1UohI917QXdb0YiLWHzy) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [LOVE MY LIFE](https://open.spotify.com/album/5BF6Yml25gSmN5kLBPux9y) | 2:35 |
 | 121 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
 | 122 | [winter in atlanta \(feat\. Russ\)](https://open.spotify.com/track/1WpLR5d5anuE61EwlT6da8) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [winter in atlanta \(feat\. Russ\)](https://open.spotify.com/album/0RhMMo9vL1J97K3dB8ZlxC) | 2:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxASqZHJVHYM.md) - [plain]
 | 124 | [Ungrateful](https://open.spotify.com/track/4Jq0KjjNeVdnrgQBhfUzNW) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:37 |
 | 125 | [Know Better](https://open.spotify.com/track/17E27S9wzfX2PlGZdq5SiE) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 2:50 |
 
-Snapshot ID: `AbnwLAAAAABpXuj7vnbUygw3dtJ+Eqe1`
+Snapshot ID: `Abn1/gAAAABdPhzfe2YNcT6MQvzknWzX`

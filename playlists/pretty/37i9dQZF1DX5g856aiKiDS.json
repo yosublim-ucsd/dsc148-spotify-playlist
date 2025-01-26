@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 498033,
+  "num_followers": 498124,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-12-05 09:36:38",
       "album": {
-        "name": "Love Next Door, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "What are we",
-      "url": "https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX"
-    },
-    {
-      "added_at": "2024-12-05 09:36:38",
-      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "added_at": "2024-12-05 09:36:38",
+      "album": {
+        "name": "Love Next Door, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "What are we",
+      "url": "https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX"
     },
     {
       "added_at": "2024-12-05 09:36:38",
@@ -547,22 +547,26 @@
     {
       "added_at": "2024-12-05 09:36:38",
       "album": {
-        "name": "You Might (Feat. SHIRT)",
-        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
+        "name": "HAAN X Chan : Synergy",
+        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
       },
       "artists": [
         {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
         },
         {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Peakboy (\ud53d\ubcf4\uc774)",
+          "url": "https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU"
         }
       ],
-      "duration_ms": 187185,
-      "name": "You Might (Feat. SHIRT)",
-      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
+      "duration_ms": 194625,
+      "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
+      "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
     },
     {
       "added_at": "2024-12-05 09:36:38",
@@ -587,26 +591,22 @@
     {
       "added_at": "2024-12-05 09:36:38",
       "album": {
-        "name": "HAAN X Chan : Synergy",
-        "url": "https://open.spotify.com/album/2ErWZrOs9RFYwx4txUOd9n"
+        "name": "You Might (Feat. SHIRT)",
+        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
       "artists": [
         {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
         },
         {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        },
-        {
-          "name": "Peakboy (\ud53d\ubcf4\uc774)",
-          "url": "https://open.spotify.com/artist/2STSJ8XxhIbtz3CNwLZcJU"
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
         }
       ],
-      "duration_ms": 194625,
-      "name": "Chance (Feat. Peakboy (\ud53d\ubcf4\uc774))",
-      "url": "https://open.spotify.com/track/7nirS2RArSJE0zVLG8rkpT"
+      "duration_ms": 187185,
+      "name": "You Might (Feat. SHIRT)",
+      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     },
     {
       "added_at": "2024-12-05 09:36:38",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-12-05 09:36:38",
       "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
+    },
+    {
+      "added_at": "2024-12-05 09:36:38",
+      "album": {
         "name": "whenever it rains",
         "url": "https://open.spotify.com/album/7wq0JJCwDr7PlyPHv7Qgvq"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 185737,
       "name": "Whenever it rains (feat. Nason & amin)",
       "url": "https://open.spotify.com/track/6eQtDU7frMlvQp3jSUqInu"
-    },
-    {
-      "added_at": "2024-12-05 09:36:38",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
       "added_at": "2024-12-05 09:36:38",
@@ -879,30 +879,22 @@
     {
       "added_at": "2024-12-05 09:36:38",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb"
+        "name": "Boys and Girls Music Vol.1",
+        "url": "https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         },
         {
-          "name": "Ashley Alisha",
-          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
-        },
-        {
-          "name": "Nicholas Roberts",
-          "url": "https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4"
-        },
-        {
-          "name": "Kelsey Kuan",
-          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 192293,
-      "name": "Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)",
-      "url": "https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq"
+      "duration_ms": 239837,
+      "name": "Think About' Chu",
+      "url": "https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B"
     },
     {
       "added_at": "2024-12-05 09:36:38",
@@ -927,22 +919,30 @@
     {
       "added_at": "2024-12-05 09:36:38",
       "album": {
-        "name": "Boys and Girls Music Vol.1",
-        "url": "https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6"
+        "name": "About You",
+        "url": "https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         },
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "Nicholas Roberts",
+          "url": "https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
         }
       ],
-      "duration_ms": 239837,
-      "name": "Think About' Chu",
-      "url": "https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B"
+      "duration_ms": 192293,
+      "name": "Like a Dream (feat. Ashley Alisha, kelsey kuan & Nicholas Roberts)",
+      "url": "https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq"
     },
     {
       "added_at": "2024-12-05 09:36:38",

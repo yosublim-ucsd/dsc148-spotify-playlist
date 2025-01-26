@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7093,
+  "num_followers": 7096,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "The Brutalist (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
+      },
+      "artists": [
+        {
+          "name": "Daniel Blumberg",
+          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
+        }
+      ],
+      "duration_ms": 289386,
+      "name": "Overture (Ship)",
+      "url": "https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Monsters: The Lyle and Erik Menendez Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "The Brutalist (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
-      },
-      "artists": [
-        {
-          "name": "Daniel Blumberg",
-          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
-        }
-      ],
-      "duration_ms": 289386,
-      "name": "Overture (Ship)",
-      "url": "https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Queer (Original Score)",
         "url": "https://open.spotify.com/album/3nfT0mV9z3Du714o2rK3I9"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 274463,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/1fLNHh9Nhsyh8jhSdUPiF4"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Adriana Paz",
-          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
-        },
-        {
-          "name": "The Mexican Choir",
-          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Las Damas que Pasan",
-      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -539,6 +519,26 @@
       "duration_ms": 111733,
       "name": "Main Title (Sh\u014dgun)",
       "url": "https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
+      },
+      "artists": [
+        {
+          "name": "Adriana Paz",
+          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
+        },
+        {
+          "name": "The Mexican Choir",
+          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Las Damas que Pasan",
+      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "True Detective: Night Country (Soundtrack from the HBO\u00ae Original Series)",
-        "url": "https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL"
-      },
-      "artists": [
-        {
-          "name": "John Hawkes",
-          "url": "https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J"
-        }
-      ],
-      "duration_ms": 150506,
-      "name": "No Use",
-      "url": "https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Alien: Romulus (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 158125,
       "name": "The Chrysalis",
       "url": "https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "True Detective: Night Country (Soundtrack from the HBO\u00ae Original Series)",
+        "url": "https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL"
+      },
+      "artists": [
+        {
+          "name": "John Hawkes",
+          "url": "https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J"
+        }
+      ],
+      "duration_ms": 150506,
+      "name": "No Use",
+      "url": "https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj"
     },
     {
       "added_at": "2024-12-20 14:00:08",

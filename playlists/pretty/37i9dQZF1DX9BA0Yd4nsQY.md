@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BA0Yd4nsQY.md) - [plain]
 
 > You are the main character of your own story\. The fate of the world depends on you...and of course there are side quests.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,791 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,850 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

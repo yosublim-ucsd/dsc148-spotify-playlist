@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With LaShun Pace, Norman Hutchins, Kurt Carr and more
+> With Donald Lawrence, Jessica Reedy, Kurt Carr and more
 
 1,655 songs - 5 day 4 hr 15 min
 

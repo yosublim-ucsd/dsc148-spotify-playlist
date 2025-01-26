@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Bruna Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,504 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,538 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Minha Certeza \(Bonus Track\) \- Ao Vivo](https://open.spotify.com/track/01AqOPccJI81HmeUzM5FDr) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Ao Vivo em Paranapiacaba](https://open.spotify.com/album/0MaX123zWc56VXtFyPvMOy) | 5:13 |
 | 2 | [Teus Altares \- Ao Vivo](https://open.spotify.com/track/0iN5UdqsMdOV1ODLrTYyLT) | [Poiema Music](https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf), [André Brisa](https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Teus Altares \(Ao Vivo\)](https://open.spotify.com/album/4VUyhWsEBtbEWYLLoYDLRH) | 8:17 |
 | 3 | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED) | 4:30 |
-| 4 | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Claudia Canção](https://open.spotify.com/artist/4BWBHNiJPS1BIMZSbZ6MSv) | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj) | 4:42 |
+| 4 | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/track/32CjL3PNGzdf6cEdZ8bMs2) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Eu e Deus \- Ao Vivo em São Paulo](https://open.spotify.com/album/57vqSYRocsA1oDOL37wyIj) | 4:42 |
 | 5 | [Hebreus 1 \- Ao Vivo](https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Hebreus 1 \(Ao Vivo\)](https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv) | 11:20 |
 | 6 | [O Senhor, não os ídolos](https://open.spotify.com/track/7DXHg3FLT2UKTOr6EuluZB) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [O Senhor, não os ídolos](https://open.spotify.com/album/2jiddHehRwoWtUslQKz1uk) | 10:18 |
 | 7 | [Depois do Fim \- Ao Vivo](https://open.spotify.com/track/38bAxBoZgovVbwZDdVb70B) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Depois do Fim \(Ao Vivo\)](https://open.spotify.com/album/3Ak6yrduqLGUM0NmqIjmNs) | 5:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,745 likes - 99 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,758 likes - 99 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 23 | [In The Garden](https://open.spotify.com/track/3FSiIYUyTLVqF32ngACZGW) | [Aloe Vera](https://open.spotify.com/artist/6FVEH6CSRyJv1A0hwMntTg) | [In The Garden](https://open.spotify.com/album/2hjsTKJDILYWYZ2RyQ1OmE) | 2:38 |
 | 24 | [you were mine](https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX) | 3:41 |
 | 25 | [spit you out](https://open.spotify.com/track/6X9sK1XaTe5c3tmUEi807x) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [spit you out](https://open.spotify.com/album/1YiFV2XRqrDcgBRjtWqBaN) | 2:54 |
-| 26 | [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:11 |
+| 26 | [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:17 |
 | 27 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
 | 28 | [Starlight](https://open.spotify.com/track/3Z6CEuF6sAaSLIDyuLrCa1) | [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Starlight](https://open.spotify.com/album/7k7psjy5Swqf7ihGdMr8rN) | 3:21 |
 | 29 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |

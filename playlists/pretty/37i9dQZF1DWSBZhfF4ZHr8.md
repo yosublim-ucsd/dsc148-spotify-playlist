@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,649 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,666 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 13 | [Last in Line \- 2024 Edit](https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Last in Line \(2024 Edit\)](https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb) | 3:03 |
 | 14 | [La vie change](https://open.spotify.com/track/0Pc8Z0cBgJH52MYFtQJlfL) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497), [Jonas Snitt](https://open.spotify.com/artist/6FWsFdM6x0BQXevCcjt75J) | [Vers les jours heureux](https://open.spotify.com/album/0AXW1FZJRsIsRyenQtyEHt) | 3:04 |
 | 15 | [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 |
-| 16 | [SEUL ICI](https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [SEUL ICI](https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh) | 3:13 |
+| 16 | [Seul ici](https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH) | [Boulevard des Airs](https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx) | [Seul ici](https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh) | 3:13 |
 | 17 | [Tout dire](https://open.spotify.com/track/27GjxhZTxOVpCTBjSwqvdN) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/42oKj8M6xxE644yYGYjZqy) | 2:57 |
 | 18 | [Sincère](https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/0RSQXx0gSLmVgNeFL4Ow5T) | 2:49 |
 | 19 | [Le jeu](https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Le jeu](https://open.spotify.com/album/2v6gZqCcuHtBtk9FTx9adP) | 3:21 |

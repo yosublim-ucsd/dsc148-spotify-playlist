@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Juana Molina en portada.",
-  "num_followers": 40643,
+  "num_followers": 40644,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,6 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "Musicasi\u00f3n 4 1/2",
-        "url": "https://open.spotify.com/album/53l5PseiS9aBeCLi4DWOMD"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Indart",
-          "url": "https://open.spotify.com/artist/64CQewKVGZ36s9NIHrzEAL"
-        },
-        {
-          "name": "Eduardo Mateo",
-          "url": "https://open.spotify.com/artist/3nL900KIKlV6HBTI4W0pCx"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Hombre",
-      "url": "https://open.spotify.com/track/0Zt51qY8YXmJAwd1k4dLEZ"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
         "name": "Paralelo",
         "url": "https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra"
       },
@@ -683,18 +663,22 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "RA\u00cdZ",
-        "url": "https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C"
+        "name": "Musicasi\u00f3n 4 1/2",
+        "url": "https://open.spotify.com/album/53l5PseiS9aBeCLi4DWOMD"
       },
       "artists": [
         {
-          "name": "Maia M\u00f3naco",
-          "url": "https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus"
+          "name": "Ver\u00f3nica Indart",
+          "url": "https://open.spotify.com/artist/64CQewKVGZ36s9NIHrzEAL"
+        },
+        {
+          "name": "Eduardo Mateo",
+          "url": "https://open.spotify.com/artist/3nL900KIKlV6HBTI4W0pCx"
         }
       ],
-      "duration_ms": 314608,
-      "name": "MUJERES",
-      "url": "https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy"
+      "duration_ms": 232600,
+      "name": "Hombre",
+      "url": "https://open.spotify.com/track/0Zt51qY8YXmJAwd1k4dLEZ"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -719,6 +703,22 @@
       "duration_ms": 255720,
       "name": "Rota",
       "url": "https://open.spotify.com/track/0vlz20EDRMttxRuTPNZzfr"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
+        "name": "RA\u00cdZ",
+        "url": "https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C"
+      },
+      "artists": [
+        {
+          "name": "Maia M\u00f3naco",
+          "url": "https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus"
+        }
+      ],
+      "duration_ms": 314608,
+      "name": "MUJERES",
+      "url": "https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
-        "name": "El bosque del recuerdo",
-        "url": "https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj"
-      },
-      "artists": [
-        {
-          "name": "Lara Pedrosa",
-          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
-        }
-      ],
-      "duration_ms": 181369,
-      "name": "El bosque del recuerdo",
-      "url": "https://open.spotify.com/track/21XHYgDzHj3k0ZOTZ2lNKp"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
         "name": "Shima",
         "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 188775,
       "name": "La madrina",
       "url": "https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
+        "name": "El bosque del recuerdo",
+        "url": "https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj"
+      },
+      "artists": [
+        {
+          "name": "Lara Pedrosa",
+          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
+        }
+      ],
+      "duration_ms": 181369,
+      "name": "El bosque del recuerdo",
+      "url": "https://open.spotify.com/track/21XHYgDzHj3k0ZOTZ2lNKp"
     },
     {
       "added_at": "2025-01-24 19:05:09",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-01-24 19:05:09",
       "album": {
+        "name": "Yo Llor\u00e9 Porque Usted Llor\u00f3 (Banda de Sonido Original)",
+        "url": "https://open.spotify.com/album/4fGQZTO2a9PbSzI7SGRZxG"
+      },
+      "artists": [
+        {
+          "name": "LISA SCHA",
+          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
+        }
+      ],
+      "duration_ms": 183971,
+      "name": "Yo Llor\u00e9 Porque Usted Llor\u00f3 (Banda de Sonido Original)",
+      "url": "https://open.spotify.com/track/5rcyVC8ZgmeUIU6ipFSjoG"
+    },
+    {
+      "added_at": "2025-01-24 19:05:09",
+      "album": {
         "name": "Nueva en el Amor",
         "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 166595,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv"
-    },
-    {
-      "added_at": "2025-01-24 19:05:09",
-      "album": {
-        "name": "Holograma - Live Set",
-        "url": "https://open.spotify.com/album/3ERahAcw69NpRbRGBy5He5"
-      },
-      "artists": [
-        {
-          "name": "Jimena Roig",
-          "url": "https://open.spotify.com/artist/74dwu7qsaS0U9MLFbMEydm"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Holograma - Live Set",
-      "url": "https://open.spotify.com/track/5lJwJaAn7GAZPqAZ9aVyes"
     }
   ],
   "unique_name": "EQUAL Argentina",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Teni and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,061 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,162 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 15 | [Ha Yeh](https://open.spotify.com/track/7vmQaXYQGNWMZrLPv816Zg) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Daddy Daycare](https://open.spotify.com/album/2wK29w2xTBtWV5uGt0mQtu) | 2:53 |
 | 16 | [Mellow Flow](https://open.spotify.com/track/0M9OAN9wnOmiyzynRvBz9K) | [Xblaze](https://open.spotify.com/artist/3l22ah9mu4QDWC32wRBN9j) | [Mellow Flow](https://open.spotify.com/album/17dLh7IQ8pX2XY9Qh6WTQ6) | 1:40 |
 | 17 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 |
-| 18 | [Boju Boju](https://open.spotify.com/track/5LYzOEqKZGArHYztvvoOzv) | [Pitah Brown](https://open.spotify.com/artist/4BMaB3mEFwWMiRdb18Xcai), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [Boju Boju](https://open.spotify.com/album/00B3tsYoZd8PAvcl5dAqph) | 2:42 |
+| 18 | [Boju Boju](https://open.spotify.com/track/5LYzOEqKZGArHYztvvoOzv) | [Pitah Brown](https://open.spotify.com/artist/3PVUSn9SprzQ3ZaT5aBFct), [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX) | [Boju Boju](https://open.spotify.com/album/00B3tsYoZd8PAvcl5dAqph) | 2:42 |
 | 19 | [Bayeke](https://open.spotify.com/track/32RQaIMi0XcvyV3SNZR2Tl) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D) | [Bayeke](https://open.spotify.com/album/1xEGO4E4ZLPj1yJCo9lU7b) | 6:52 |
 | 20 | [Big Body \(feat\. Lil Yachty\)](https://open.spotify.com/track/1sl6OyOIA17y8pVwgcX4dn) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [For Us](https://open.spotify.com/album/3qQkODMSwPDWNdDr9fLTjL) | 3:04 |
 | 21 | [Tsunami \(Oh Baby\)](https://open.spotify.com/track/7z9GRFLbKseVMInIwUho0e) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Tsunami \(Oh Baby\)](https://open.spotify.com/album/4Cj9jBKN9slWjNI5F7und6) | 2:29 |

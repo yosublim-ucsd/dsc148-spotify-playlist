@@ -1415,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "Help! Oh Well...",
+        "url": "https://open.spotify.com/album/4KYhnvtyuXcZDHiid7xOgt"
+      },
+      "artists": [
+        {
+          "name": "SomeThingElseyt",
+          "url": "https://open.spotify.com/artist/1lVDBUHFHFGNogAAqnmYDN"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224842,
+      "name": "Help! Oh Well...",
+      "url": "https://open.spotify.com/track/67I4a68KuLZS40ZeMPegrL"
+    },
+    {
+      "album": {
         "name": "I Can't Fix You",
         "url": "https://open.spotify.com/album/2TQ7CTgaJqTSmikvCcF2fR"
       },
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2019-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 221181,
       "name": "Life Is Fun",
       "url": "https://open.spotify.com/track/6Q8mqjuz8xqdoUjhZQDfY7"
@@ -2052,6 +2070,24 @@
       "duration_ms": 203455,
       "name": "Love Is On Fire",
       "url": "https://open.spotify.com/track/5ceGFJCn4Ir0KZmVm9xonz"
+    },
+    {
+      "album": {
+        "name": "Frequency Blitz 6",
+        "url": "https://open.spotify.com/album/50esKbs7DktpRYUs4FBOyn"
+      },
+      "artists": [
+        {
+          "name": "TOFUKU",
+          "url": "https://open.spotify.com/artist/3hg9J1p0uyzhuLwMic8pvW"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316874,
+      "name": "Love Simulation",
+      "url": "https://open.spotify.com/track/0mJvHsIWnq6EfXiNa3JPAG"
     },
     {
       "album": {
@@ -2221,6 +2257,28 @@
     },
     {
       "album": {
+        "name": "No Scrubs",
+        "url": "https://open.spotify.com/album/0QwNGfGTQ9SOTOgGQXbDM5"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        },
+        {
+          "name": "Joanna Jones",
+          "url": "https://open.spotify.com/artist/6mRK3kM9VcjgnwtUAE1vNx"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/5diufoHZPKvTBMut2NLzbf"
+    },
+    {
+      "album": {
         "name": "Nurture (feat. Brenna Myers)",
         "url": "https://open.spotify.com/album/64UNqUqWunukFp9KuOvTEx"
       },
@@ -2258,6 +2316,32 @@
       "duration_ms": 126946,
       "name": "Ocean Man",
       "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
+    },
+    {
+      "album": {
+        "name": "Paradise Plaza (feat. TOFUKU): The Remixes",
+        "url": "https://open.spotify.com/album/1TXmMU7aszrjpr70BjJnmB"
+      },
+      "artists": [
+        {
+          "name": "BLOOD CODE",
+          "url": "https://open.spotify.com/artist/3yNDCk0iRKefkfpiPhaVPv"
+        },
+        {
+          "name": "Cosmicosmo",
+          "url": "https://open.spotify.com/artist/6JtJWLtwanDAmk4UMLFJ2v"
+        },
+        {
+          "name": "TOFUKU",
+          "url": "https://open.spotify.com/artist/3hg9J1p0uyzhuLwMic8pvW"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158680,
+      "name": "Paradise Plaza (feat. TOFUKU) - TOFUKU Remix",
+      "url": "https://open.spotify.com/track/759W36MHTZwVO8Fd1cu1Jm"
     },
     {
       "album": {
@@ -3218,6 +3302,24 @@
       "duration_ms": 180742,
       "name": "World's Smallest Violin",
       "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
+    },
+    {
+      "album": {
+        "name": "Worst in Me",
+        "url": "https://open.spotify.com/album/7GxMNCxxT7tyTENYtID5ys"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197769,
+      "name": "Worst in Me",
+      "url": "https://open.spotify.com/track/4j29JKO2fFyxWFC384vMup"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 526390,
+  "num_followers": 526625,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
+        "name": "Tales from the North",
+        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
+      },
+      "artists": [
+        {
+          "name": "Tokt",
+          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
+        }
+      ],
+      "duration_ms": 212479,
+      "name": "Saga of the North",
+      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
         "name": "Unnr | MINDBEACH",
         "url": "https://open.spotify.com/album/5B2Gsb3s1p0sNtPbj8HT4Y"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 576250,
       "name": "Unnr | MINDBEACH",
       "url": "https://open.spotify.com/track/38oAbSWuIpMZB7Ny0Z42zC"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
-        "name": "Tales from the North",
-        "url": "https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx"
-      },
-      "artists": [
-        {
-          "name": "Tokt",
-          "url": "https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0"
-        }
-      ],
-      "duration_ms": 212479,
-      "name": "Saga of the North",
-      "url": "https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Hersir",
-        "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 145826,
-      "name": "Hersir",
-      "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "S\u00c1LA",
         "url": "https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 407293,
       "name": "S\u00c1LA",
       "url": "https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Hersir",
+        "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 145826,
+      "name": "Hersir",
+      "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
     },
     {
       "added_at": "2024-12-06 05:06:56",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-06 05:06:56",
       "album": {
-        "name": "Volch'ya Yagoda",
-        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
-      },
-      "artists": [
-        {
-          "name": "Theodor Bastard",
-          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
-        }
-      ],
-      "duration_ms": 249370,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
-    },
-    {
-      "added_at": "2024-12-06 05:06:56",
-      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/5JZbCfekLUQIXRoPlbrc1Y"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 221924,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/6Gi94MTz33hYzFvGtd18Vn"
+    },
+    {
+      "added_at": "2024-12-06 05:06:56",
+      "album": {
+        "name": "Volch'ya Yagoda",
+        "url": "https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS"
+      },
+      "artists": [
+        {
+          "name": "Theodor Bastard",
+          "url": "https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF"
+        }
+      ],
+      "duration_ms": 249370,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks"
     },
     {
       "added_at": "2024-12-06 05:06:56",

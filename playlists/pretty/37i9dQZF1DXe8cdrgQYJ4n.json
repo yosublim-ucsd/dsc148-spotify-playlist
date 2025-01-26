@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18531,
+  "num_followers": 18534,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
+        "name": "Are you in there",
+        "url": "https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J"
+      },
+      "artists": [
+        {
+          "name": "Lee go do",
+          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
+        }
+      ],
+      "duration_ms": 158213,
+      "name": "Are you in there",
+      "url": "https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
         "name": "Like Nothing",
         "url": "https://open.spotify.com/album/3IBZkXFy4uNDKowRztNFYf"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 171000,
       "name": "Like Nothing (Feat. YOUHA, Kim Seungmin)",
       "url": "https://open.spotify.com/track/0rSra7zqW05TvIVnJMSVo7"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
-        "name": "Are you in there",
-        "url": "https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J"
-      },
-      "artists": [
-        {
-          "name": "Lee go do",
-          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
-        }
-      ],
-      "duration_ms": 158213,
-      "name": "Are you in there",
-      "url": "https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL"
     },
     {
       "added_at": "2025-01-18 02:30:10",

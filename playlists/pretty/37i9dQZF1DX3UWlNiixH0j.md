@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 揺らぎ（yuragi）
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,402 likes - 74 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,416 likes - 74 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 40 | [それが恋だと言ってくれ！](https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [それが恋だと言ってくれ！](https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy) | 3:13 |
 | 41 | [海のにおい](https://open.spotify.com/track/5NcHKzO5vQc6L4rCE1wBiw) | [岡林風穂 withサポート](https://open.spotify.com/artist/6bkMTzpaHuuvRbITFpJpwV) | [BLUE IS SO BRIGHT](https://open.spotify.com/album/430ytOlwJpb5txWmJpdD0d) | 3:53 |
 | 42 | [Alone](https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [temp.](https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ) | [Alone](https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE) | 3:45 |
-| 43 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 |
-| 44 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
-| 45 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
-| 46 | [夢を見ようよ](https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 3:12 |
+| 43 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
+| 44 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 |
+| 45 | [夢を見ようよ](https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 3:12 |
+| 46 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
 | 47 | [Make a Move](https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Make a Move](https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7) | 2:37 |
 | 48 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
 | 49 | [ときめき](https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ときめき](https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ) | 3:01 |
@@ -66,21 +66,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 56 | [火魅蟲](https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [火魅蟲](https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG) | 3:10 |
 | 57 | [Fine Love](https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Fine Love](https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh) | 4:45 |
 | 58 | [Stay As You Are](https://open.spotify.com/track/5Fo5ij465pJ8mOnHWLa36N) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [ECHO](https://open.spotify.com/album/5nkFgUEdypq1GBF2culRmG) | 4:42 |
-| 59 | [Re:Re:](https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI), [illequal](https://open.spotify.com/artist/070lv855QuMgSxolesmZnc) | [Re:Re:](https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr) | 3:16 |
-| 60 | [たまに君のことを思い出してしまうよな](https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [たまに君のことを思い出してしまうよな](https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl) | 4:11 |
+| 59 | [たまに君のことを思い出してしまうよな](https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [たまに君のことを思い出してしまうよな](https://open.spotify.com/album/39H14bkoydGyDjrQXtEdLl) | 4:11 |
+| 60 | [Re:Re:](https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI), [illequal](https://open.spotify.com/artist/070lv855QuMgSxolesmZnc) | [Re:Re:](https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr) | 3:16 |
 | 61 | [Luciférine](https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Luciférine](https://open.spotify.com/album/0SpLGc25URm3IjnGs41Eq4) | 5:01 |
 | 62 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |
 | 63 | [日蝕](https://open.spotify.com/track/7tQ8dUcLAe1JUbD9tEx0DC) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [日蝕](https://open.spotify.com/album/6QZeC1bldtQG8LvsrdNx1a) | 3:53 |
 | 64 | [Oppressed](https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Oppressed](https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ) | 5:15 |
 | 65 | [ANIMA \- Feat\. Such](https://open.spotify.com/track/5vFc7ydAJJ5T2QotoTvm0B) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [EMPT MILE](https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf) | 4:01 |
-| 66 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
-| 67 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 |
-| 68 | [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 |
-| 69 | [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 |
-| 70 | [Bothering](https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Bothering / Daiji Rushing](https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww) | 2:38 |
-| 71 | [A Winter Song](https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv) | [yk \(Hello1103\)](https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk) | [A Winter Song](https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo) | 2:44 |
-| 72 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
-| 73 | [天才は今度](https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりを編む駐車場](https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV) | 2:55 |
+| 66 | [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 |
+| 67 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
+| 68 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 |
+| 69 | [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 |
+| 70 | [天才は今度](https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりを編む駐車場](https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV) | 2:55 |
+| 71 | [Bothering](https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Bothering / Daiji Rushing](https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww) | 2:38 |
+| 72 | [A Winter Song](https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv) | [yk \(Hello1103\)](https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk) | [A Winter Song](https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo) | 2:44 |
+| 73 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
 | 74 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |
 
 Snapshot ID: `Z5JZjQAAAABGm7jK3AGBf0JLHH93w5eY`

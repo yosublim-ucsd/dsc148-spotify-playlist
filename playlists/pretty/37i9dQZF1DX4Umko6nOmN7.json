@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 620825,
+  "num_followers": 620845,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,18 @@
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
-        "name": "Row Your Boat",
-        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
+        "name": "Det sista jag beh\u00f6ver",
+        "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
       },
       "artists": [
         {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
         }
       ],
-      "duration_ms": 175030,
-      "name": "Row Your Boat",
-      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
+      "duration_ms": 174376,
+      "name": "Det sista jag beh\u00f6ver",
+      "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
     },
     {
       "added_at": "2025-01-23 23:00:10",
@@ -603,18 +603,18 @@
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
-        "name": "Det sista jag beh\u00f6ver",
-        "url": "https://open.spotify.com/album/7mXhFByOKqVfAM8TxYMX9M"
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
       },
       "artists": [
         {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
         }
       ],
-      "duration_ms": 174376,
-      "name": "Det sista jag beh\u00f6ver",
-      "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
+      "duration_ms": 175030,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
     },
     {
       "added_at": "2025-01-23 23:00:10",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Never Look Down",
+      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "added_at": "2025-01-23 23:00:10",
+      "album": {
         "name": "ALLTING D\u00c4REMELLAN",
         "url": "https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 191599,
       "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
       "url": "https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie"
-    },
-    {
-      "added_at": "2025-01-23 23:00:10",
-      "album": {
-        "name": "Never Look Down",
-        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
-      },
-      "artists": [
-        {
-          "name": "Isak Benjamin",
-          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Never Look Down",
-      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
     },
     {
       "added_at": "2025-01-23 23:00:10",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
-        "name": "S P E Y S I D E",
-        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
-    },
-    {
-      "added_at": "2025-01-23 23:00:10",
-      "album": {
         "name": "Act 4: Atonement",
         "url": "https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 170162,
       "name": "Misstro",
       "url": "https://open.spotify.com/track/1jJyGz6YQ4DxpuJOLtMpzd"
+    },
+    {
+      "added_at": "2025-01-23 23:00:10",
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "added_at": "2025-01-23 23:00:10",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
-        "name": "Till dig",
-        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Du & jag",
-      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
-    },
-    {
-      "added_at": "2025-01-23 23:00:10",
-      "album": {
         "name": "Samma saga",
         "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213882,
       "name": "Samma saga",
       "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2025-01-23 23:00:10",
+      "album": {
+        "name": "Till dig",
+        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Du & jag",
+      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
     },
     {
       "added_at": "2025-01-23 23:00:10",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
+        "name": "Oh love",
+        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
+      },
+      "artists": [
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 256047,
+      "name": "Oh love",
+      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
+    },
+    {
+      "added_at": "2025-01-23 23:00:10",
+      "album": {
         "name": "Old Soul",
         "url": "https://open.spotify.com/album/3hkcvyytxhkLSe5aK5fvNo"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 151139,
       "name": "anywhere",
       "url": "https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN"
-    },
-    {
-      "added_at": "2025-01-23 23:00:10",
-      "album": {
-        "name": "Oh love",
-        "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
-      },
-      "artists": [
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
-        }
-      ],
-      "duration_ms": 256047,
-      "name": "Oh love",
-      "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
     },
     {
       "added_at": "2025-01-23 23:00:10",
@@ -1607,38 +1607,6 @@
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
-        "name": "Fragile Thing",
-        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 168561,
-      "name": "Fragile Thing",
-      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
-    },
-    {
-      "added_at": "2025-01-23 23:00:10",
-      "album": {
-        "name": "Superlativ 97",
-        "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Dina l\u00e4ppar",
-      "url": "https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en"
-    },
-    {
-      "added_at": "2025-01-23 23:00:10",
-      "album": {
         "name": "Penny (Akustisk)",
         "url": "https://open.spotify.com/album/20vhMkNyxzPhctrCYeMGzE"
       },
@@ -1659,34 +1627,66 @@
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
-        "name": "Heaven (Acoustic)",
-        "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
+        "name": "Superlativ 97",
+        "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 183644,
-      "name": "Heaven - Acoustic",
-      "url": "https://open.spotify.com/track/0DXmK0QaBycr8MpM52Kaeo"
+      "duration_ms": 186586,
+      "name": "Dina l\u00e4ppar",
+      "url": "https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en"
     },
     {
       "added_at": "2025-01-23 23:00:10",
       "album": {
-        "name": "Awful Liar",
-        "url": "https://open.spotify.com/album/1hormOqpdmUva6N31RPeDg"
+        "name": "Fragile Thing",
+        "url": "https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj"
       },
       "artists": [
         {
-          "name": "Lisa Ajax",
-          "url": "https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 182491,
-      "name": "Awful Liar",
-      "url": "https://open.spotify.com/track/4UXJYpHAyh1Y7tXvhKWyc2"
+      "duration_ms": 168561,
+      "name": "Fragile Thing",
+      "url": "https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB"
+    },
+    {
+      "added_at": "2025-01-23 23:00:10",
+      "album": {
+        "name": "Ellen Krauss \u2013 Acoustic Versions",
+        "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 168874,
+      "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
+      "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
+    },
+    {
+      "added_at": "2025-01-23 23:00:10",
+      "album": {
+        "name": "B\u00f6rja Om",
+        "url": "https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 176809,
+      "name": "B\u00f6rja Om",
+      "url": "https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

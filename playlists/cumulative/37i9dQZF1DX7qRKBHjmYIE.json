@@ -7486,7 +7486,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 203389,
       "name": "La Piscina",
       "url": "https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6"
@@ -7841,6 +7841,32 @@
     },
     {
       "album": {
+        "name": "Lienzo",
+        "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180643,
+      "name": "Lienzo",
+      "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
+    },
+    {
+      "album": {
         "name": "Life Is Not The Same",
         "url": "https://open.spotify.com/album/79cXZ95WbLImty6k16rvhc"
       },
@@ -8110,6 +8136,28 @@
       "duration_ms": 103058,
       "name": "lo q necesitabas",
       "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
+    },
+    {
+      "album": {
+        "name": "LO QUE ME CAUSA",
+        "url": "https://open.spotify.com/album/1SLeBd72xTXyMOJ4KRInc2"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180477,
+      "name": "LO QUE ME CAUSA",
+      "url": "https://open.spotify.com/track/3r5mTZiiECjgezzeI9bqgq"
     },
     {
       "album": {
@@ -15542,7 +15590,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 175914,
       "name": "VALLADO 3",
       "url": "https://open.spotify.com/track/5svDgDHktVJoiRYQKx5w8f"

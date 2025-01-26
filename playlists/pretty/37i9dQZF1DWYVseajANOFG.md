@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Sech
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,927 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,945 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Baby Gangster](https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [Baby Gangster](https://open.spotify.com/album/1zSpC8ajqnhTenuxEFTs2g) | 3:59 |
 | 2 | [Yo Te Llamo](https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [De 0 a 100](https://open.spotify.com/album/56xJFIXqrvIjX2GldeMfwl) | 2:33 |
 | 3 | [En Una Cama Ajena](https://open.spotify.com/track/2VGJ4YLOCVotXBoqLYIDoG) | [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [En Una Cama Ajena](https://open.spotify.com/album/7GzdlCtHdM2TfTJLqwL0OQ) | 2:02 |
-| 4 | [Comparsa](https://open.spotify.com/track/49a0tpl791nV7LMtGKVLp5) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [El Tiex](https://open.spotify.com/artist/6464frNa6A3iV5HovTeKd9), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn) | [Comparsa](https://open.spotify.com/album/1064Ebjb8litnox1UxJV3B) | 3:50 |
+| 4 | [Comparsa](https://open.spotify.com/track/49a0tpl791nV7LMtGKVLp5) | [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb), [El Tieta](https://open.spotify.com/artist/5D4Dcxzfh6bFbzKhbswZOe), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [Don Pablo Mures](https://open.spotify.com/artist/4YcotSTsnWhSSizEgJlH5k), [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn) | [Comparsa](https://open.spotify.com/album/1064Ebjb8litnox1UxJV3B) | 3:50 |
 | 5 | [FAVELA](https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [FAVELA](https://open.spotify.com/album/2tjEG5AdeMjpYyCR6nbXU6) | 3:03 |
 | 6 | [TOY PERDIO](https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [TOY PERDIO](https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t) | 2:55 |
 | 7 | [Orion](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Orion](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,883 songs - 1 day 14 hr 29 min
+1,884 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Calm in the Storm](https://open.spotify.com/track/62K0MoPaI5wETh7rsaAHK6) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:40 | 2024-01-29 |  |
 | [Calm Mind](https://open.spotify.com/track/1jnXGElUDE7xhu0Lm37zCA) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calm Mind](https://open.spotify.com/album/0nlYjaUkM16phZdfEDhMFj) | 1:00 | 2024-07-02 |  |
 | [Calm Reflection](https://open.spotify.com/track/1f6Zd1w0iDfnVNGT54wLjC) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Reflection](https://open.spotify.com/album/0a4Ky5OOFj8jjhA6qNgxft) | 1:00 | 2024-02-26 |  |
+| [Calm Silence](https://open.spotify.com/track/0cGI8lTL6D2YQF1z3EqUBP) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Calm Silence](https://open.spotify.com/album/6ckurL8LwGjxHs6kNHFj2k) | 1:00 | 2025-01-25 |  |
 | [Calm Solitude Arr\. For Cello](https://open.spotify.com/track/0GpfLHzQs54VBsD9oYutkl) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Solitude](https://open.spotify.com/album/4tBAUa5sn2DudxSygRiEYN) | 1:01 | 2023-04-19 | 2024-02-13 |
 | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/track/3KGeyPoru1o5I0v0uUDclf) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/album/2adPYyDCIgUncMi5II8H99) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Calm Solitude Arr\. For Strings](https://open.spotify.com/track/0oKpv6o8KJojLffylpR3Mr) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Calm Solitude Arr\. For Strings](https://open.spotify.com/album/6GAJrIXO6kZXDuobr95tNi) | 1:00 | 2024-02-09 | 2024-02-13 |

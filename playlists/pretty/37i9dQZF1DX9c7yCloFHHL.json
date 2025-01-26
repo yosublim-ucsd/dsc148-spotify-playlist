@@ -1,6 +1,6 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Whatever The Weather on cover.",
-  "num_followers": 201408,
+  "num_followers": 201420,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,22 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
-        "name": "Vast (ANNA Remix)",
-        "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
+        "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
+        "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
       },
       "artists": [
         {
-          "name": "Sandrayati",
-          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
+          "name": "Chill Advisor",
+          "url": "https://open.spotify.com/artist/2POmRsS3AGB7NAbw5QBqHj"
         },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Zazenkai",
+          "url": "https://open.spotify.com/artist/53SJovBw6wYRNkrqfccLLh"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Vast - ANNA Remix",
-      "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
+      "duration_ms": 221538,
+      "name": "Introducing - Zazenkai Escape Ambient Re-Work",
+      "url": "https://open.spotify.com/track/3U4UtwEsN53RimSfhaIHhL"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -675,22 +671,26 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
-        "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
-        "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
+        "name": "Vast (ANNA Remix)",
+        "url": "https://open.spotify.com/album/0m4Z3Ku62Qd4NkQCvSeRiD"
       },
       "artists": [
         {
-          "name": "Chill Advisor",
-          "url": "https://open.spotify.com/artist/2POmRsS3AGB7NAbw5QBqHj"
+          "name": "Sandrayati",
+          "url": "https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF"
         },
         {
-          "name": "Zazenkai",
-          "url": "https://open.spotify.com/artist/53SJovBw6wYRNkrqfccLLh"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Introducing - Zazenkai Escape Ambient Re-Work",
-      "url": "https://open.spotify.com/track/3U4UtwEsN53RimSfhaIHhL"
+      "duration_ms": 206769,
+      "name": "Vast - ANNA Remix",
+      "url": "https://open.spotify.com/track/3rES34MzcM8hnKW9y2EzpH"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -791,30 +791,6 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
-        "name": "everybody's gone home (+ slowed version)",
-        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        },
-        {
-          "name": "weareflorence",
-          "url": "https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi"
-        }
-      ],
-      "duration_ms": 171072,
-      "name": "everybody's gone home - + slowed version",
-      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
-    },
-    {
-      "added_at": "2025-01-17 09:34:58",
-      "album": {
         "name": "Waterfalling",
         "url": "https://open.spotify.com/album/5iCHeMOB9iFwpfkj50ZRRa"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 112204,
       "name": "Waterfalling",
       "url": "https://open.spotify.com/track/7Mh2MCqhXQprlpdnu630Si"
+    },
+    {
+      "added_at": "2025-01-17 09:34:58",
+      "album": {
+        "name": "everybody's gone home (+ slowed version)",
+        "url": "https://open.spotify.com/album/2y6UfCHwkqPap0k9HuR3tq"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        },
+        {
+          "name": "weareflorence",
+          "url": "https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi"
+        }
+      ],
+      "duration_ms": 171072,
+      "name": "everybody's gone home - + slowed version",
+      "url": "https://open.spotify.com/track/722gImw27YEj0Mda9wbabK"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
-        "name": "Mind Games (Meditation Mixes)",
-        "url": "https://open.spotify.com/album/6dRXxW5ZpUy4ntfBwZCTsR"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 657749,
-      "name": "Magic - Mind Games Meditation Mix",
-      "url": "https://open.spotify.com/track/7604BoTHXhdcyFknJz16Ci"
-    },
-    {
-      "added_at": "2025-01-17 09:34:58",
-      "album": {
         "name": "Two Chambers",
         "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
+        "name": "Mind Games (Meditation Mixes)",
+        "url": "https://open.spotify.com/album/6dRXxW5ZpUy4ntfBwZCTsR"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 657749,
+      "name": "Magic - Mind Games Meditation Mix",
+      "url": "https://open.spotify.com/track/7604BoTHXhdcyFknJz16Ci"
+    },
+    {
+      "added_at": "2025-01-17 09:34:58",
+      "album": {
         "name": "All These Worlds, Pt. II",
         "url": "https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4"
       },
@@ -1067,26 +1067,6 @@
       "duration_ms": 239967,
       "name": "All These Worlds, Pt. II",
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
-    },
-    {
-      "added_at": "2025-01-17 09:34:58",
-      "album": {
-        "name": "Esperance",
-        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Esperance",
-      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -1111,6 +1091,26 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
+        "name": "Esperance",
+        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Esperance",
+      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
+    },
+    {
+      "added_at": "2025-01-17 09:34:58",
+      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
       },
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
-        "name": "Westwind",
-        "url": "https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j"
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
       },
       "artists": [
         {
-          "name": "The Field Tapes",
-          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
-        },
-        {
-          "name": "illi mel",
-          "url": "https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP"
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
         }
       ],
-      "duration_ms": 142012,
-      "name": "Westwind",
-      "url": "https://open.spotify.com/track/0mEgHC8L8LkgnX9PADMq5z"
+      "duration_ms": 248000,
+      "name": "October Song",
+      "url": "https://open.spotify.com/track/5w0NYLfrCZgVMjhsXh83fq"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
+        "name": "Westwind",
+        "url": "https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j"
       },
       "artists": [
         {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+          "name": "The Field Tapes",
+          "url": "https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym"
+        },
+        {
+          "name": "illi mel",
+          "url": "https://open.spotify.com/artist/2cpa8rq1DM4WGuFdNHWUnP"
         }
       ],
-      "duration_ms": 248000,
-      "name": "October Song",
-      "url": "https://open.spotify.com/track/5w0NYLfrCZgVMjhsXh83fq"
+      "duration_ms": 142012,
+      "name": "Westwind",
+      "url": "https://open.spotify.com/track/0mEgHC8L8LkgnX9PADMq5z"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 107626,
+      "name": "Washed Out",
+      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+    },
+    {
+      "added_at": "2025-01-17 09:34:58",
+      "album": {
         "name": "Dustlight / \u5149\u306e\u5875 / Afterglow",
         "url": "https://open.spotify.com/album/577opext6ZuqRDwowBmMdc"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 228956,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6WCKd0zx7GsMHPufGt8rzG"
-    },
-    {
-      "added_at": "2025-01-17 09:34:58",
-      "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 107626,
-      "name": "Washed Out",
-      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+    },
+    {
+      "added_at": "2025-01-17 09:34:58",
+      "album": {
         "name": "Sound Sculpture 1",
         "url": "https://open.spotify.com/album/6vMy8Gm6xVTXF26KhRXLkA"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 108000,
       "name": "Sound Sculpture 1",
       "url": "https://open.spotify.com/track/5gA6SW1MqqvuOSwj95h6JY"
-    },
-    {
-      "added_at": "2025-01-17 09:34:58",
-      "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
+    },
+    {
+      "added_at": "2025-01-17 09:34:58",
+      "album": {
         "name": "Invisible Cities",
         "url": "https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/5EaAEXfa0YHt4wf0r3O0ua"
-    },
-    {
-      "added_at": "2025-01-17 09:34:58",
-      "album": {
-        "name": "Axis Of Light",
-        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Drip In The Cave",
-      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
-        "name": "Pause (Reimagined by Hinako Omori)",
-        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
-      },
-      "artists": [
-        {
-          "name": "Poppy Ackroyd",
-          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
-        },
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Pause - Reimagined by Hinako Omori",
-      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
-    },
-    {
-      "added_at": "2025-01-17 09:34:58",
-      "album": {
         "name": "All I Hear Is Birds (Focus Rework)",
         "url": "https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 248506,
       "name": "All I Hear Is Birds - Focus Rework",
       "url": "https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm"
+    },
+    {
+      "added_at": "2025-01-17 09:34:58",
+      "album": {
+        "name": "Pause (Reimagined by Hinako Omori)",
+        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        },
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Pause - Reimagined by Hinako Omori",
+      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
     },
     {
       "added_at": "2025-01-17 09:34:58",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-01-17 09:34:58",
       "album": {
+        "name": "Nocturnes",
+        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 118133,
+      "name": "Morning Tides",
+      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
+    },
+    {
+      "added_at": "2025-01-17 09:34:58",
+      "album": {
         "name": "Movement IV",
         "url": "https://open.spotify.com/album/3SYexj1HIvhHu6ghSFq8Pr"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 213559,
       "name": "Movement IV",
       "url": "https://open.spotify.com/track/53oPqccucQQQ4QljRwVIhD"
-    },
-    {
-      "added_at": "2025-01-17 09:34:58",
-      "album": {
-        "name": "Nocturnes",
-        "url": "https://open.spotify.com/album/6gVzVC5RUQAPJaMcnP9zjI"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 118133,
-      "name": "Morning Tides",
-      "url": "https://open.spotify.com/track/3eswhETlXv1XWAATiwbD3W"
     },
     {
       "added_at": "2025-01-17 09:34:58",

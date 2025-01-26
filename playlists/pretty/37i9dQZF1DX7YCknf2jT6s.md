@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Jeremy Pelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,409 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,567 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 7 | [Balloon Pop](https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Sonicwonder](https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w) | [Balloon Pop](https://open.spotify.com/album/4FzFNTd84JsiPzggATL5Kn) | 6:17 |
 | 8 | [Wild and Steady](https://open.spotify.com/track/4y5w91db336cCz1AwPCNna) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Wild and Steady](https://open.spotify.com/album/2vcPFnOKUrwhJQKoo4p7C3) | 2:03 |
 | 9 | [Hotel Clara](https://open.spotify.com/track/2iOLyeDMmAX790wKqdl9om) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Lytmus](https://open.spotify.com/artist/3elSNWFEqrOArFscSKfQn9), [Oliver Crosby](https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO) | [Hotel Clara](https://open.spotify.com/album/0royvZusJQXJnXqHJGKQyW) | 3:23 |
-| 10 | [Sun flex](https://open.spotify.com/track/3MEnOo2zXRX8nTq30smqno) | [Enemy](https://open.spotify.com/artist/6nef6002aZx63N9P9KSmCF) | [Sun flex](https://open.spotify.com/album/6d4GZromXEy8ep4yXRh8tV) | 2:57 |
+| 10 | [Sun flex](https://open.spotify.com/track/3MEnOo2zXRX8nTq30smqno) | [Enemy](https://open.spotify.com/artist/6xPrrSxsfFovLWFUFDLGYt), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Sun flex](https://open.spotify.com/album/6d4GZromXEy8ep4yXRh8tV) | 2:57 |
 | 11 | [Last Train From Overbrook](https://open.spotify.com/track/22v2NkeJpyTSAheUaTy1g7) | [Nick Hempton](https://open.spotify.com/artist/0Pwn4BeFcbZYgApft1pPk7), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Last Train From Overbrook](https://open.spotify.com/album/01lYkrKIr5DDtVeEkCnjvc) | 5:35 |
 | 12 | [What Are You About?](https://open.spotify.com/track/0wjqeLd0hcvSF2D7rKoVjh) | [MATTERS UNKNOWN](https://open.spotify.com/artist/7nHR9pV23UmS8d7KdqYWJz) | [Silhouettes: A Dream Sphere Journal](https://open.spotify.com/album/5HBvvp3lcKavJbw9vnHMwP) | 3:35 |
 | 13 | [Southwood](https://open.spotify.com/track/1vlR2uBjK3TUM8rcU7F43Z) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Southwood](https://open.spotify.com/album/0cdAJ8EByPMuMcg8f7xlSb) | 1:38 |

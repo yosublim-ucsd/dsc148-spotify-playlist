@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 263328,
       "name": "Alright",
       "url": "https://open.spotify.com/track/7ff2PJL1f9uwAragrgUSDN"
@@ -490,6 +490,24 @@
       "duration_ms": 263280,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe"
+    },
+    {
+      "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
     },
     {
       "album": {
@@ -1482,6 +1500,24 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/2CuBUQZY5SmOaISKWUO9m9"
+    },
+    {
+      "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/2rOLqtX6jxsBtoXx6rwpat"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172455,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/31Vgt1wmpMibaBwxwRqN7o"
     },
     {
       "album": {
@@ -2900,7 +2936,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 197040,
       "name": "Les montagnes de Cor\u00e9e",
       "url": "https://open.spotify.com/track/5bYqFb02PzWCOVpjvpCSm5"
@@ -3624,7 +3660,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 232181,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/6yq5QzAu9BT4TgkGlmTf1y"
@@ -3704,6 +3740,24 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "album": {
+        "name": "Not Feeling Up",
+        "url": "https://open.spotify.com/album/3YYy7afHR8wnhEHfuuEAId"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182383,
+      "name": "Not Feeling Up",
+      "url": "https://open.spotify.com/track/5RclCv6JSxogJpe4E662cP"
     },
     {
       "album": {
@@ -3938,7 +3992,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 202226,
       "name": "Ose",
       "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
@@ -4179,6 +4233,28 @@
     },
     {
       "album": {
+        "name": "Red Velvet (with Ari Abdul)",
+        "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        },
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186025,
+      "name": "Red Velvet (with Ari Abdul)",
+      "url": "https://open.spotify.com/track/2UYAifrQTyJCocTAHk1uS8"
+    },
+    {
+      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
       },
@@ -4324,6 +4400,28 @@
       "duration_ms": 240066,
       "name": "Safe & Sound - from The Hunger Games Soundtrack",
       "url": "https://open.spotify.com/track/0z9UVN8VBHJ9HdfYsOuuNf"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211061,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442"
     },
     {
       "album": {
@@ -4946,7 +5044,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 185173,
       "name": "Sunset Park",
       "url": "https://open.spotify.com/track/3C24CgUmtZsEWHCJ7aEDoi"

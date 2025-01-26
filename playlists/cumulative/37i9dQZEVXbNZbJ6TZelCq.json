@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
+    },
+    {
+      "album": {
         "name": "5 DOSARE",
         "url": "https://open.spotify.com/album/6T8H1MELwW5He1gcEU76cN"
       },
@@ -7211,6 +7229,24 @@
     },
     {
       "album": {
+        "name": "COMBINA\u021aII",
+        "url": "https://open.spotify.com/album/1FB9b9BY9FVO8hgFP1Y2G2"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "COMBINA\u021aII",
+      "url": "https://open.spotify.com/track/6Z0Mb8terxwVLRvSYQhwgu"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -7602,7 +7638,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 166384,
       "name": "Creola",
       "url": "https://open.spotify.com/track/40GuJIybQew4lWrTernb4D"
@@ -36306,7 +36342,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 117600,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/6nanWWO9YYAShPnUbC6vQ0"
@@ -37648,7 +37684,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 160281,
       "name": "WIFI",
       "url": "https://open.spotify.com/track/3XLotfWtdebR0qTmqiTzLX"
@@ -37706,7 +37742,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

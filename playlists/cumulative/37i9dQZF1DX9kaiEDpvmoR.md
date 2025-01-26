@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-281 songs - 16 hr 5 min
+282 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [I’m Here For You Now](https://open.spotify.com/track/2mrFXNlzPzqIpFZnZorm2L) | [April Snow](https://open.spotify.com/artist/7HMZinZS1LbGtnmELcvVmQ) | [I’m Here For You Now](https://open.spotify.com/album/0YxNOo620DicdFk0oSrDlp) | 3:20 | 2024-10-24 | 2025-01-10 |
 | [Jag behöver dig](https://open.spotify.com/track/4pL2Mg4Av6frPodx5GzYXM) | [Lisa Miskovsky](https://open.spotify.com/artist/5J0dXmqEYctfFsmcakqZFH) | [Jag behöver dig](https://open.spotify.com/album/06YF9B4vYaA6kDD6Wjf3NW) | 4:46 | 2024-10-03 | 2024-10-16 |
 | [Jag gör allt som man inte får](https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL) | [Rolf Wikström](https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r) | [Jag gör allt som man inte får](https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz) | 3:04 | 2024-06-27 | 2024-09-06 |
+| [Jag hör också rösterna](https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Jag hör också rösterna](https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi) | 4:05 | 2025-01-23 |  |
 | [Jag Vill Inte Va Med](https://open.spotify.com/track/4XcVFMu1a1DMVxriUSSqps) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Noof Belfast – Nybro City](https://open.spotify.com/album/5WstAcClR0wOb8M18QSEKz) | 4:04 | 2024-10-24 | 2024-11-08 |
 | [Jag vill stanna här](https://open.spotify.com/track/1UZ6xtJ0O1t7FggXjILBfR) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Jag vill stanna här](https://open.spotify.com/album/4dyngznUL3t27C2W2kasOB) | 3:23 | 2024-06-27 | 2024-08-09 |
 | [Jag vill tacka livet](https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Så mycket bättre 2024 \(Tolkningarna\)](https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq) | 3:57 | 2024-10-24 |  |
@@ -251,7 +252,7 @@
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-08-09 |
 | [Upp med hakan](https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Upp med hakan](https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi) | 2:45 | 2024-06-27 |  |
 | [Vad Dom Sa](https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Vad Dom Sa](https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe) | 2:47 | 2024-09-26 | 2025-01-10 |
-| [Vad dom än trodde så trodde dom fel](https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vad dom än trodde så trodde dom fel](https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h) | 3:00 | 2024-10-10 |  |
+| [Vad dom än trodde så trodde dom fel](https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vad dom än trodde så trodde dom fel](https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h) | 3:00 | 2024-10-10 | 2025-01-26 |
 | [Valet](https://open.spotify.com/track/0RrUetfG2Msa9FNaP4IWAj) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 5:35 | 2024-08-29 | 2024-10-28 |
 | [Varför slutar allt i tårar](https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Varför slutar allt i tårar](https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv) | 4:04 | 2024-06-27 | 2024-08-16 |
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-27 | 2024-08-09 |

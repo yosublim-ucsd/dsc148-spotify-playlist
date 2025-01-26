@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 810740,
+  "num_followers": 810731,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Know (feat. Fiona Apple) [RISE Recording]",
-        "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        },
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "I Know (feat. Fiona Apple) - RISE Recording",
-      "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "It Ain't Me Babe",
         "url": "https://open.spotify.com/album/7CHMzuyPoAonVJMHtINSfU"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 224160,
       "name": "It Ain't Me Babe",
       "url": "https://open.spotify.com/track/0LHm4kBHO8rFmjoCVu5MN8"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "I Know (feat. Fiona Apple) [RISE Recording]",
+        "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "I Know (feat. Fiona Apple) - RISE Recording",
+      "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Still Haven't Found Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
-      },
-      "artists": [
-        {
-          "name": "Raye Mills",
-          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
-        }
-      ],
-      "duration_ms": 253686,
-      "name": "I Still Haven't Found Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sunday Best (Acoustic Version)",
         "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "I Still Haven't Found Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
+      },
+      "artists": [
+        {
+          "name": "Raye Mills",
+          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
+        }
+      ],
+      "duration_ms": 253686,
+      "name": "I Still Haven't Found Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Never Leave You",
-        "url": "https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN"
-      },
-      "artists": [
-        {
-          "name": "Sterre Weldring",
-          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
-        }
-      ],
-      "duration_ms": 207745,
-      "name": "Never Leave You",
-      "url": "https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6oRie5UdfiDPjd7t4od18I"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 205762,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1pR68GqUGbbH6aogiIgjHL"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Never Leave You",
+        "url": "https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN"
+      },
+      "artists": [
+        {
+          "name": "Sterre Weldring",
+          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
+        }
+      ],
+      "duration_ms": 207745,
+      "name": "Never Leave You",
+      "url": "https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Fin",
-        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
-      },
-      "artists": [
-        {
-          "name": "Islas",
-          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Fin",
-      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Fin",
+        "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
+      },
+      "artists": [
+        {
+          "name": "Islas",
+          "url": "https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Fin",
+      "url": "https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Acoustic Visions",
         "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 228922,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Nothing Breaks Like a Heart",
-        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
-      },
-      "artists": [
-        {
-          "name": "Brimsley",
-          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
-        }
-      ],
-      "duration_ms": 203261,
-      "name": "Nothing Breaks Like a Heart",
-      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Voices In The Sky",
         "url": "https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML"
       },
@@ -2347,18 +2331,34 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
+        "name": "Nothing Breaks Like a Heart",
+        "url": "https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP"
       },
       "artists": [
         {
-          "name": "Gus Cleese",
-          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
+          "name": "Brimsley",
+          "url": "https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd"
         }
       ],
-      "duration_ms": 110277,
-      "name": "Levels",
-      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
+      "duration_ms": 203261,
+      "name": "Nothing Breaks Like a Heart",
+      "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu"
+      },
+      "artists": [
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "duration_ms": 195655,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2379,18 +2379,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Feel It Still",
-        "url": "https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu"
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
       },
       "artists": [
         {
-          "name": "Tobey Rosen",
-          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
         }
       ],
-      "duration_ms": 195655,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA"
+      "duration_ms": 110277,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2509,20 +2509,20 @@
       "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
     },
     {
-      "added_at": "2024-05-24 00:17:45",
+      "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Espacio Infinito",
-        "url": "https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror"
+        "name": "Field Notes",
+        "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
       },
       "artists": [
         {
-          "name": "Paola Meza",
-          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
         }
       ],
-      "duration_ms": 210243,
-      "name": "Espacio Infinito",
-      "url": "https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa"
+      "duration_ms": 230253,
+      "name": "Arueira Mata",
+      "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

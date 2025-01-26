@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 139384,
       "name": "BLOODY! - ULTRA SLOWED",
       "url": "https://open.spotify.com/track/03E0f4JneWZEtrQPU6EsIV"
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 120000,
       "name": "Chess Type Beat",
       "url": "https://open.spotify.com/track/7faZLp1vnVrx5xzIgImk8T"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 142134,
       "name": "Chess Type Beat - Slowed",
       "url": "https://open.spotify.com/track/6RiAXENYapwreYM5tjoKuV"
@@ -2834,10 +2834,28 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
+    },
+    {
+      "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
     },
     {
       "album": {
@@ -7496,7 +7514,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -7526,7 +7544,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -8280,7 +8298,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 185177,
       "name": "Montagem Lunar Diamante - Slowed",
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
@@ -8742,6 +8760,28 @@
       "duration_ms": 228093,
       "name": "My Love \u0422\u0430\u043d\u044e\u0445\u0430",
       "url": "https://open.spotify.com/track/4pFopPJRrvXhdXmvSlsJ5A"
+    },
+    {
+      "album": {
+        "name": "MY TYPE",
+        "url": "https://open.spotify.com/album/4yUHDMHDEl6Th3jPimciMz"
+      },
+      "artists": [
+        {
+          "name": "DJ ZBK",
+          "url": "https://open.spotify.com/artist/4pmKpROq7rAVibM7qR9h6P"
+        },
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91585,
+      "name": "MY TYPE - Slowed",
+      "url": "https://open.spotify.com/track/5smCqaAEcKpArEBVhtaryT"
     },
     {
       "album": {
@@ -11013,6 +11053,28 @@
     },
     {
       "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305840,
+      "name": "She Will",
+      "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
+    },
+    {
+      "album": {
         "name": "Tha Carter IV (Explicit Version)",
         "url": "https://open.spotify.com/album/2YL3ddwHuiBGumvzcGHyjT"
       },
@@ -11028,7 +11090,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/78O33U6jbQtNiNfbkZudpd"
@@ -11344,7 +11406,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 113161,
       "name": "SLAVA FUNK!",
       "url": "https://open.spotify.com/track/1qeRCHejHqPBTAFPRBVzxx"
@@ -12584,7 +12646,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -13468,7 +13530,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
@@ -17848,7 +17910,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 98093,
       "name": "\u041a\u0440\u0438\u043c\u0438\u043d\u0430\u043b",
       "url": "https://open.spotify.com/track/6fMlu4DJfudfAe5z0vKQbl"
@@ -17866,7 +17928,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 163224,
       "name": "\u041a\u0443\u043b\u044c\u0431\u0430\u0431\u0438",
       "url": "https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW"
@@ -19411,6 +19473,24 @@
     },
     {
       "album": {
+        "name": "\u041b\u0443\u0447\u0448\u0435\u0435",
+        "url": "https://open.spotify.com/album/6cgytbPndryLrWNYTdGvwr"
+      },
+      "artists": [
+        {
+          "name": "Yin-Yang",
+          "url": "https://open.spotify.com/artist/0WjNZcwh7ElaNtGQNIAG0J"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216715,
+      "name": "\u041e Yeah",
+      "url": "https://open.spotify.com/track/0AiyrJYL95afa6HzanHbKI"
+    },
+    {
+      "album": {
         "name": "\u041e \u0434\u043e\u0431\u0440\u0435",
         "url": "https://open.spotify.com/album/2r6fDpmyj96rryFQ6Hdnyc"
       },
@@ -19426,7 +19506,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 171000,
       "name": "\u041e \u0434\u043e\u0431\u0440\u0435",
       "url": "https://open.spotify.com/track/0sg112jcxFOYlaVDXmSrxY"
@@ -19444,7 +19524,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 168786,
       "name": "\u041e\u0431\u043b\u043e\u043c\u043a\u0438 \u0447\u0443\u0432\u0441\u0442\u0432",
       "url": "https://open.spotify.com/track/6zmh6mi9cLuioTTRprsh8j"
@@ -21240,7 +21320,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 110560,
       "name": "\u0421\u0430\u043d\u044f",
       "url": "https://open.spotify.com/track/6VFJBFvqTPOQSQhAGDsNeu"
@@ -21964,7 +22044,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 185444,
       "name": "\u0422\u0430\u043d\u0446\u0435\u0432\u0430\u043b\u0438",
       "url": "https://open.spotify.com/track/6s0GhLqz1OZUBTgxyD4is5"
@@ -23800,7 +23880,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 212000,
       "name": "\u0456\u043d\u043e\u0434\u0456",
       "url": "https://open.spotify.com/track/0SYwnCV5XXHmiz9QXIRTjL"

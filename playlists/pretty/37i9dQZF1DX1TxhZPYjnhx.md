@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,019 likes - 112 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,017 likes - 112 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

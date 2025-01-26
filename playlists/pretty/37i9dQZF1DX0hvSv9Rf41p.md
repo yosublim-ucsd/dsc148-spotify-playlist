@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Hamdi
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,513 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 980,500 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 9 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 |
 | 10 | [next to me](https://open.spotify.com/track/0FOOCagwIFa58SOekbmVzj) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [next to me](https://open.spotify.com/album/4hR2oacIqkUxpe2sU79kTt) | 1:53 |
 | 11 | [Hold Me One More Time](https://open.spotify.com/track/6VbvigV2ODddEjJwpOMkPm) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Hold Me One More Time](https://open.spotify.com/album/3XsZon2TnZSGEud8rGUfNn) | 3:13 |
-| 12 | [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 |
+| 12 | [WHO WANNA FIGHT](https://open.spotify.com/track/7CroKhLQL6tkseFavqpQQb) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [WHO WANNA FIGHT](https://open.spotify.com/album/6LkLr6sPmO5QYBQT8DAxw4) | 2:32 |
 | 13 | [as i do](https://open.spotify.com/track/18gjLS71ghGPo3aH1yiPvD) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [as i do](https://open.spotify.com/album/5zMh7cULaOC4aovstHJc2K) | 2:24 |
 | 14 | [CHAOS WILL BRING PEACE](https://open.spotify.com/track/6OBJOJLrj6X3rr4O09ROKa) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [CHAOS WILL BRING PEACE](https://open.spotify.com/album/4cBCMwA1k3oOwFd1RSGs7r) | 2:40 |
 | 15 | [True Trench Times](https://open.spotify.com/track/6IkbuuGlMF3DGcsBnJIbgD) | [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [True Trench Times](https://open.spotify.com/album/2LEjhTw6ma4KTnMSPyNR5o) | 3:18 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 33 | [Sweet Memories](https://open.spotify.com/track/0mNNVje5ZPtiP8p5VOnteb) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Sweet Memories](https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO) | 3:55 |
 | 34 | [Hot One](https://open.spotify.com/track/0PeSf2hGHldwZgSZ4igi6H) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Distortion Theory](https://open.spotify.com/album/1beJBYU4wscL4BS7SMQBT1) | 3:28 |
 | 35 | [Feel The Rush](https://open.spotify.com/track/6i63UdPDVDGGpAyVbzy78u) | [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [Feel The Rush](https://open.spotify.com/album/2WYfEKMEx0OXGa17rCIKfs) | 3:08 |
-| 36 | [Wish I Could Forget \(William Black Remix\)](https://open.spotify.com/track/4cDt111m1lza60RxflHUoA) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wish I Could Forget \(William Black Remix\)](https://open.spotify.com/album/2epDNme9aR6mueN6NQ9Mhx) | 3:06 |
+| 36 | [Wish I Could Forget \- William Black Remix](https://open.spotify.com/track/4cDt111m1lza60RxflHUoA) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Wish I Could Forget \(William Black Remix\)](https://open.spotify.com/album/2epDNme9aR6mueN6NQ9Mhx) | 3:06 |
 | 37 | [Duckstep](https://open.spotify.com/track/0ZR8mLmdbqHZQrilm5lpBZ) | [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Duckstep](https://open.spotify.com/album/5RgFdWIcMQkhs0cstj0iQr) | 3:28 |
 | 38 | [Bout To Break](https://open.spotify.com/track/4bNrncBCRWlfSn3qCJGwGE) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Bout To Break](https://open.spotify.com/album/1L0BuVdCVXHlzR8zpfd9DS) | 2:45 |
 | 39 | [come aliv3](https://open.spotify.com/track/0NFmxRKCW4FoJkn70k54CE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [come aliv3](https://open.spotify.com/album/6NGo8P8BHmRUJY8uQufDgQ) | 3:27 |

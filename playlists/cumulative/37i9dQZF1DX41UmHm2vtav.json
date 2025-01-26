@@ -2725,6 +2725,40 @@
     },
     {
       "album": {
+        "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+        "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
+      },
+      "artists": [
+        {
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/0OJlOf2aa3J8a38xACGZY4"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Kawz",
+          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+      "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
+    },
+    {
+      "album": {
         "name": "Momento com Voc\u00ea",
         "url": "https://open.spotify.com/album/2ssM84PM3TrkJYC0a38NC4"
       },
@@ -2972,7 +3006,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 189451,
       "name": "O Xote Das Meninas - Pontifexx Remix",
       "url": "https://open.spotify.com/track/6g6F79BkhjTuaOmgUGm8cx"

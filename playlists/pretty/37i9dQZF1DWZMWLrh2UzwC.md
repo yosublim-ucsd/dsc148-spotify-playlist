@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Luqman Podolski
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,278 likes - 98 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,282 likes - 98 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 87 | [I Know, No More](https://open.spotify.com/track/3EGXdRqbMKF9Pl4k1gus19) | [HANISA](https://open.spotify.com/artist/12aAsVqTdYv0Tp3bv3g7xk), [K\. Waltz](https://open.spotify.com/artist/3BHkRxnW7S4BB7jPJWNKCB), [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm) | [RECEIPTS 01](https://open.spotify.com/album/1WAX6ORaaQk526wrXnmC9V) | 2:50 |
 | 88 | [Time's Up](https://open.spotify.com/track/2d33eD2TZ0JpJSg0D20FS2) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Time's Up](https://open.spotify.com/album/3YruoMPMJ5NAfaEbuTe6QU) | 2:59 |
 | 89 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 |
-| 90 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(DELUXE\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
+| 90 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(deluxe\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
 | 91 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 92 | [Space & Time](https://open.spotify.com/track/7u4q2L9ralNz0A6J9P4ihL) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [Space & Time](https://open.spotify.com/album/3XExdzq3IxgpNLkSSLjA8s) | 3:46 |
 | 93 | [Good Vibes](https://open.spotify.com/track/0iTOCL3n4PD4vDEfHlBkpj) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Good Vibes](https://open.spotify.com/album/37FYeIgW29RaVLI9SA2egw) | 3:19 |

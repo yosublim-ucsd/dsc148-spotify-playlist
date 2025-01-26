@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,540 likes - 264 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542 likes - 264 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 126 | [Kostas](https://open.spotify.com/track/30hui0n0IE1y699MAEPNGp) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 5:33 |
 | 127 | [Sno Cone \(feat\. Quavo & Gucci Mane\)](https://open.spotify.com/track/3n1nexKECrkHZPyAJgUSmC) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clark Street Baby](https://open.spotify.com/album/0IIx3duVO5PY0gdAelTann) | 3:10 |
 | 128 | [From the Jump \(feat\. Tay Keith\)](https://open.spotify.com/track/2CGjYkr9fe9I6cJ7nHDDa7) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Big Grim Reaper](https://open.spotify.com/album/3p89sh1IV385sHS85PHe8w) | 2:08 |
-| 129 | [Lullaby](https://open.spotify.com/track/60wjsG8f8obJuJL24EkEhe) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:15 |
-| 130 | [Voices](https://open.spotify.com/track/4Ley4LFmFVW2wmk8711W3Q) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 3:45 |
+| 129 | [Voices](https://open.spotify.com/track/4Ley4LFmFVW2wmk8711W3Q) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs) | [UNDERRATED](https://open.spotify.com/album/3jL7EW4fj5JoT8yqImgUBC) | 3:45 |
+| 130 | [Lullaby](https://open.spotify.com/track/60wjsG8f8obJuJL24EkEhe) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:15 |
 | 131 | [Not Gang \(feat\. EST Gee\)](https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0) | [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood Sample](https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3) | 3:09 |
 | 132 | [Bottom](https://open.spotify.com/track/0PcCC6A17tbBckIM4q5Q1L) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 3:25 |
 | 133 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 |
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 159 | [Back Then](https://open.spotify.com/track/598Dwv3jLVXfohLHSPVw7Y) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 3:05 |
 | 160 | [Understood](https://open.spotify.com/track/1xo0j9kTDPR6fv3lajROLx) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2](https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i) | 2:37 |
 | 161 | [Home Alone](https://open.spotify.com/track/3x8Act9pKmxjHqt3zexER4) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:53 |
-| 162 | [Bbq](https://open.spotify.com/track/0NvjwONLpMStE3x01ndsQ1) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [The Purple M&M](https://open.spotify.com/album/0GNeGUkYXwXX6mRXSC3MwQ) | 1:46 |
-| 163 | [Shine Together](https://open.spotify.com/track/2siheDJgKlL9CIomIsITY3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:03 |
+| 162 | [Shine Together](https://open.spotify.com/track/2siheDJgKlL9CIomIsITY3) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:03 |
+| 163 | [Bbq](https://open.spotify.com/track/0NvjwONLpMStE3x01ndsQ1) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [The Purple M&M](https://open.spotify.com/album/0GNeGUkYXwXX6mRXSC3MwQ) | 1:46 |
 | 164 | [Freak](https://open.spotify.com/track/53Z2zWV2bz7vKonoN31xV9) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Petty Levels](https://open.spotify.com/artist/2y8EbgWOOmUkyUAo5V9N5J), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [In The Name Of Gee](https://open.spotify.com/album/4Ux9gzMHX26RVFAro1uFFk) | 2:20 |
 | 165 | [Eastside Sliding \(feat\. idontknowjeffery & Chris Travis\)](https://open.spotify.com/track/6WclEbHlipCKMaPsG8Ii1k) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S), [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5), [idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [East Memphis Maniac](https://open.spotify.com/album/5OEoU8caLGSPsLPGomY3PH) | 2:32 |
 | 166 | [May I \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/4XaBD3YE1rbnN4fL7NBsRe) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Oblivion \(Expanded Edition\)](https://open.spotify.com/album/4prOSqkoRtSBI2gBiRxafm) | 7:53 |
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 263 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 264 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbnwLAAAAABkJbJRQ2AmvZHZRqqXnE44`
+Snapshot ID: `Abn1/gAAAACu1GP2+RYz2akFsUrjufk1`

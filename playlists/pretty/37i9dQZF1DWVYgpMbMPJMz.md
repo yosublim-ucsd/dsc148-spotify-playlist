@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  UPPERROOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,970 likes - 100 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,193 likes - 100 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 28 | [My Life Is Proof \- Live](https://open.spotify.com/track/07Vx1j68TVTsxs0P0s3brN) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [Worship Jesus \(Vol\. 2 / Live\)](https://open.spotify.com/album/7v36jwiQC4FMjHLnq2ZQdn) | 6:06 |
 | 29 | [RESURRECTION HERE](https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [RESURRECTION HERE](https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb) | 4:16 |
 | 30 | [God Is Not Against Me \- Radio Version](https://open.spotify.com/track/2N5f3KRzq8PooIqm3TJGfv) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [God Is Not Against Me \(Radio Version\)](https://open.spotify.com/album/0CeLII36k8Gl5r1JNyFp61) | 4:06 |
-| 31 | [Lamb of God](https://open.spotify.com/track/4LUfvqGq8SmleIdtwigCJE) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [David Leonard](https://open.spotify.com/artist/1Wf0YF113imMsqukiKcZHe) | [Lamb of God](https://open.spotify.com/album/3vKDlqU7IuyygXEkjVNr5H) | 4:13 |
+| 31 | [Lamb of God](https://open.spotify.com/track/4LUfvqGq8SmleIdtwigCJE) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Lamb of God](https://open.spotify.com/album/3vKDlqU7IuyygXEkjVNr5H) | 4:13 |
 | 32 | [Slower I Go \- Studio](https://open.spotify.com/track/0T45uaLw5tJb1ZpiNbX0MA) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Slower I Go \(Studio\)](https://open.spotify.com/album/6UWtzsqOckTOQWzlrq7Qvp) | 4:18 |
 | 33 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
 | 34 | [Yahweh Will Manifest \- Live From San Juan PR](https://open.spotify.com/track/4BenmQLXMtMf8O9BBXrGJm) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [Hijos Live \(Deluxe Version\) \[Live From San Juan PR\]](https://open.spotify.com/album/2yII4TnY3jKI4wT0DBxPfy) | 8:33 |

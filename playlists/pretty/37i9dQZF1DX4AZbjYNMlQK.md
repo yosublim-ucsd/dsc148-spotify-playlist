@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,899 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,878 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 12 | [Todo Es Posible En Navidad](https://open.spotify.com/track/41bfCU4YfqWsvNHNGsTVFM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Todo Es Posible En Navidad](https://open.spotify.com/album/3fHzqWh0lSGDtIhZc186FT) | 3:31 |
 | 13 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 2:34 |
 | 14 | [DJ Play A Christmas Song](https://open.spotify.com/track/275YsWYtZsBGXLuv0icD5r) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [DJ Play A Christmas Song](https://open.spotify.com/album/05o6hLVChyuwSBYK6ycBYs) | 3:29 |
-| 15 | [Al Mundo Paz](https://open.spotify.com/track/77E7lXHMVXgQmvpo5l4pLX) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 2:47 |
-| 16 | [5 pa las 12](https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [5 pa las 12](https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300) | 2:53 |
+| 15 | [5 pa las 12](https://open.spotify.com/track/7uwcZL1mOd4u22md6i4tLD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [5 pa las 12](https://open.spotify.com/album/6eVGO1kGK6UvJH59KtF300) | 2:53 |
+| 16 | [Al Mundo Paz](https://open.spotify.com/track/77E7lXHMVXgQmvpo5l4pLX) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 2:47 |
 | 17 | [Navidad Sin Ti](https://open.spotify.com/track/54xXNECMC5RPXOGYYfYyTS) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Navidad Sin Ti](https://open.spotify.com/album/0vfbRwJqaEy1RT063cvsYq) | 2:43 |
 | 18 | [Dime Navidad](https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Dime Navidad](https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K) | 2:39 |
 | 19 | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 21 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |
 | 22 | [Doy Gracias Por Ti](https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Emily Estefan](https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya), [Sasha Estefan\-Coppola](https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN) | [Estefan Family Christmas](https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk) | 4:03 |
 | 23 | [Llegó La Navidad](https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [El Mix\-Tape De Santa](https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade) | 2:25 |
-| 24 | [Nació la Luz](https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 3:17 |
-| 25 | [Te Regalo](https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Te Regalo](https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl) | 3:01 |
+| 24 | [Te Regalo](https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Te Regalo](https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl) | 3:01 |
+| 25 | [Nació la Luz](https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Navidad Melancólica](https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV) | 3:17 |
 | 26 | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4) | 4:02 |
 | 27 | [Un Vaquero En Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Un Vaquero En Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB) | 3:53 |
 | 28 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |

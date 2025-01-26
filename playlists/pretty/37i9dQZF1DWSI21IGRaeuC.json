@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 48249,
+  "num_followers": 48295,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 373920,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "venus' secret",
         "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 200465,
       "name": "venus' secret",
       "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 373920,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
     },
     {
       "added_at": "2024-11-06 22:50:08",

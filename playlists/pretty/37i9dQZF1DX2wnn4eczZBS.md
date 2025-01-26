@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: ISAÏ
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,832 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,830 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 16 | [Onzichtbaar](https://open.spotify.com/track/6MadE1DxKrKN5QeUz5dz4M) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Onzichtbaar](https://open.spotify.com/album/5wHDgUd0gH8yXuiezp97pf) | 2:47 |
 | 17 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
 | 18 | [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 |
-| 19 | [Altijd Anders](https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Altijd Anders](https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp) | 3:48 |
+| 19 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 |
 | 20 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 |
 | 21 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 |
 | 22 | [Drijfzand](https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Drijfzand](https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC) | 2:58 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 25 | [Heilige Nacht](https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Heilige Nacht](https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU) | 3:12 |
 | 26 | [Soms Regen Ik Ook](https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Eclips](https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l) | 3:26 |
 | 27 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 |
-| 28 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 |
+| 28 | [Altijd Anders](https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Altijd Anders](https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp) | 3:48 |
 | 29 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 |
 | 30 | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf) | 3:27 |
 | 31 | [Kinderboerderij \(Keiblij\)](https://open.spotify.com/track/3ZznsGB1HNDojZ00AlEQ1M) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Kinderboerderij \(Keiblij\)](https://open.spotify.com/album/31HYeaRSdC9sVSY2uVsNa9) | 3:17 |

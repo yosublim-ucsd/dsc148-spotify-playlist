@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Joel Corry
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,263 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,275 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 26 | [Mona](https://open.spotify.com/track/0Y8B1zHNuWZdn2BA4wv3Z9) | [Entasia](https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll) | [Mona](https://open.spotify.com/album/6jBjkj8fn53AqvktVsHNcw) | 3:49 |
 | 27 | [Need Ur Loving](https://open.spotify.com/track/1xJQZSXCjGSJ8hyRU27nvP) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Need Ur Loving / Jump on It](https://open.spotify.com/album/6EXtftqji525fpsX7EMJro) | 3:42 |
 | 28 | [Making My Daydream Real](https://open.spotify.com/track/01hkjNOdQi6RIk6Q1zOurd) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX), [Benny Kane](https://open.spotify.com/artist/3d3XBfj0Sm9LDyBM8CoqUB) | [Making My Daydream Real](https://open.spotify.com/album/7lNH0x9SFXs9wCJVvhvPXj) | 2:57 |
-| 29 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
+| 29 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
 | 30 | [Hey Mama](https://open.spotify.com/track/72LAj7rRuaTYgABJwjfYZe) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [Hey Mama](https://open.spotify.com/album/0dkX3ahs8NzfJrLWIFnOFX) | 3:06 |
 | 31 | [Show Me Love](https://open.spotify.com/track/2lBM8kW4wAnI6PRq0C8KMO) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Show Me Love](https://open.spotify.com/album/7r8EOkREiPiVbLjUpoB1Fy) | 2:48 |
 | 32 | [volar](https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Driving Towards The Sunset Tapes](https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL) | 3:59 |

@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,088 songs - 4 day 22 hr 21 min
+2,089 songs - 4 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Body Freak](https://open.spotify.com/track/1kXRGrtxHBQa61aL3Qe8d4) | [Arnold & Lane](https://open.spotify.com/artist/1lOq8MFrqfYB486L9xycj2) | [Body Freak](https://open.spotify.com/album/2pZXYTFWWQqfxDJPCzUnBS) | 2:26 | 2023-10-13 | 2023-10-28 |
 | [Body Groovin](https://open.spotify.com/track/185jCzTqfDBBwsRGoNCqkN) | [Mau Bacarreza](https://open.spotify.com/artist/6kX9eGc38GTq3cczPwceD5), [Vanilla Ace](https://open.spotify.com/artist/5RsczpoJXjqTqZLToj3nRn) | [Body Groovin](https://open.spotify.com/album/0xFg2gmxd8rwo8wvErKf5d) | 4:48 | 2024-02-07 | 2024-02-18 |
 | [Body Heat](https://open.spotify.com/track/6L8m03xqrhwyLZ5ptN28CE) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Body Heat](https://open.spotify.com/album/51jFumSXhqsS5DaseOhCgj) | 2:38 | 2022-06-10 | 2022-06-18 |
+| [Body Language](https://open.spotify.com/track/1ac3DHLii728GuifgZRjFh) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Body Language](https://open.spotify.com/album/0zK4P8P0z9Hcf5uQISQ2fT) | 2:13 | 2025-01-25 |  |
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-11-17 | 2023-11-28 |
 | [Body Moving \- Riordan Remix](https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Body Moving \(Riordan Remix\)](https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn) | 3:06 | 2024-01-05 | 2024-02-18 |
 | [Body Music](https://open.spotify.com/track/4CZMw21KNrUidU6S3L5GqU) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [Body Music](https://open.spotify.com/album/3N0R6pwcb92mzIpo0b8Ri3) | 2:58 | 2024-01-20 | 2024-02-18 |

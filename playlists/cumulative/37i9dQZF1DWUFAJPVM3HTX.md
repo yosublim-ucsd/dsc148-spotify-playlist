@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=W4ooKyZsTkKX5ZdKxoaseg"> Nali </a>\. Updates every Wednesday.
 
-2,877 songs - 6 day 1 hr 51 min
+2,877 songs - 6 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [2HOT2ARGUE](https://open.spotify.com/track/2xGlmZGJRLwYTG0FlegzEf) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA) | [2HOT2ARGUE](https://open.spotify.com/album/60bJrF2Hwz0bTGbxQtqmjg) | 2:48 | 2024-06-19 | 2024-08-31 |
 | [2MANYTHINGS](https://open.spotify.com/track/0dm5kcMG7XxCcUrKXGUsNg) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [2MANYTHINGS](https://open.spotify.com/album/1lea6sbjaKZ9fOaADXPMRg) | 3:13 | 2022-03-30 | 2022-05-21 |
 | [2MANYTHINGS](https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:13 | 2022-11-30 | 2023-03-11 |
-| [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:11 | 2025-01-24 |  |
+| [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:17 | 2025-01-24 |  |
 | [30k](https://open.spotify.com/track/3GhT0ZWKdUltfA8mTmmMFf) | [noelle](https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy) | [30k – E.P.](https://open.spotify.com/album/56fjsHI6r1jmTRX4k0N4TK) | 3:20 | 2022-02-02 | 2022-03-24 |
 | [33s](https://open.spotify.com/track/6Xib9snQv0CJ2NmY8SV4vW) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [33s](https://open.spotify.com/album/2lJOSCuyYCXf9HTgAhUhK0) | 3:44 | 2023-10-25 | 2023-11-30 |
 | [4 Hours](https://open.spotify.com/track/68bqK8gXb6JsAOICnzN4I9) | [K\-Cuzz](https://open.spotify.com/artist/7IS5AUXckTl6AThH10aSR0) | [4 Hours](https://open.spotify.com/album/1GP01AIAG7QYfV0WebZ8SE) | 2:50 | 2022-04-27 | 2022-06-10 |

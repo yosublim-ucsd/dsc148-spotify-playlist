@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 195789,
       "name": "Prawda o nas",
       "url": "https://open.spotify.com/track/5KTFOn80Y1tHAmBBb39sw9"
@@ -1930,6 +1930,24 @@
       "duration_ms": 253133,
       "name": "Zanim p\u00f3jd\u0119",
       "url": "https://open.spotify.com/track/6LuOCaMHFBfaR1MLKNHhMA"
+    },
+    {
+      "album": {
+        "name": "Zapomnij Mi",
+        "url": "https://open.spotify.com/album/3II6EqtqCnYV5IPW0axuOn"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "Zapomnij Mi",
+      "url": "https://open.spotify.com/track/5Dk03tfXBF8zYlJOUSaKe9"
     },
     {
       "album": {

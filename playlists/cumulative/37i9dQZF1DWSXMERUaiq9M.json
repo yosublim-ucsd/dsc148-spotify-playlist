@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 215096,
       "name": "It Ain't Over",
       "url": "https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG"
@@ -7156,6 +7156,24 @@
       "duration_ms": 353048,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/2plALALXZuxEAaTtKgY0v3"
+    },
+    {
+      "album": {
+        "name": "Sound of the Underground",
+        "url": "https://open.spotify.com/album/6BPNER5Jea0HNq4tqqGWXt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "Sound of the Underground",
+      "url": "https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a"
     },
     {
       "album": {

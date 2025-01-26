@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Nelli Matula.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,825 likes - 68 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,838 likes - 68 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

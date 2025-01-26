@@ -614,7 +614,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 153333,
       "name": "305",
       "url": "https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK"
@@ -1468,12 +1468,12 @@
           "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        },
-        {
           "name": "Linney",
           "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
       "date_added": "2025-01-24",
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 207438,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/382AY3JoSEeJm7hcNcNAaC"
@@ -5904,7 +5904,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 174193,
       "name": "Back to Me",
       "url": "https://open.spotify.com/track/5EPuFK1AEclLSniaU3wZmi"
@@ -21144,7 +21144,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 235517,
       "name": "Engin \u00f6nnur en \u00e9g er",
       "url": "https://open.spotify.com/track/4886au7DyC3i5vmaqtDn3b"
@@ -39421,7 +39421,7 @@
     },
     {
       "album": {
-        "name": "DIVE (DELUXE)",
+        "name": "DIVE (deluxe)",
         "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
       },
       "artists": [
@@ -49718,7 +49718,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 123684,
       "name": "My person Is you",
       "url": "https://open.spotify.com/track/3oCtwtVSPgqCJjq1UcC8ve"
@@ -54288,7 +54288,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 136764,
       "name": "Only One",
       "url": "https://open.spotify.com/track/1FXFpJUTe7YxaOWWPwoDEz"
@@ -60100,7 +60100,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 188386,
       "name": "Rio",
       "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
@@ -62986,7 +62986,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 191833,
       "name": "shakespeare could never",
       "url": "https://open.spotify.com/track/0G1kaCPfGMV2U65zrlZ6cu"
@@ -70632,7 +70632,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 233142,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/5ZTRxwqNEDMg7itvpIH8aK"
@@ -73506,6 +73506,24 @@
       "duration_ms": 260407,
       "name": "Thrown Around",
       "url": "https://open.spotify.com/track/6hEiEWEgAuFvEJduuSQLiw"
+    },
+    {
+      "album": {
+        "name": "Faraway Nearby (Extended Version)",
+        "url": "https://open.spotify.com/album/3Eg2cykX7WRdsCkkZ3VEVT"
+      },
+      "artists": [
+        {
+          "name": "Julia Logan",
+          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249933,
+      "name": "Thrown Down",
+      "url": "https://open.spotify.com/track/4Jg2XNf1oHeVsGPXaIFYGC"
     },
     {
       "album": {

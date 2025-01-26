@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: bamm
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,046 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,095 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,24 +12,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 2 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 |
 | 3 | [เจอยัง? \(Still?\)](https://open.spotify.com/track/7sCrT0SpZzqZ6FyNFiHPzi) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [bammBurger](https://open.spotify.com/album/59MqhsgWxxBC3R26qdTi4K) | 3:11 |
 | 4 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 |
-| 5 | [Perfect Match](https://open.spotify.com/track/391UjBMVykpwcmY3v4aG3C) | [DMD Gen4](https://open.spotify.com/artist/008VCU6yhQyLNN3pEBvbne) | [Perfect Match](https://open.spotify.com/album/5GokkJiHhg9QOdguBcyBnj) | 2:48 |
+| 5 | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/track/1QEcjyNgnbMKGx3O3cyql3) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/album/6RbkOgLaSyRje54Rsv7D8B) | 3:12 |
 | 6 | [ค้าง \(STILL\)](https://open.spotify.com/track/43Cjq1AFlF93a4wh8yWYoJ) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ค้าง \(STILL\) \- Single](https://open.spotify.com/album/7IX2i9DpXH6GO3VcD9PFTC) | 4:09 |
-| 7 | [รักฉันผูกพันเขา \(Leave Me Alone\)](https://open.spotify.com/track/0YYoT4ZLtHZW6UIQUEFL6H) | [THIRD](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [รักฉันผูกพันเขา \(Leave Me Alone\)](https://open.spotify.com/album/2XxGv7whVxUKcTKBbX0ZXJ) | 3:47 |
+| 7 | [Perfect Match](https://open.spotify.com/track/391UjBMVykpwcmY3v4aG3C) | [DMD Gen4](https://open.spotify.com/artist/008VCU6yhQyLNN3pEBvbne) | [Perfect Match](https://open.spotify.com/album/5GokkJiHhg9QOdguBcyBnj) | 2:48 |
 | 8 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 |
-| 9 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
-| 10 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
-| 11 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
-| 12 | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/6l6RnX3gh2jBD7E2XKMtpl) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [UNDRESS](https://open.spotify.com/album/21GT7FGL6WwKc6g3LqlJSB) | 2:46 |
-| 13 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 14 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
-| 15 | [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 |
-| 16 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 |
-| 17 | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H) | 3:35 |
-| 18 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
-| 19 | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83) | 3:02 |
-| 20 | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/track/2EKBiUviGslPW2qgesNsQX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/album/08sdynQ4AiGm449pYAU3fH) | 3:04 |
-| 21 | [Pick A Card](https://open.spotify.com/track/4V2UBqg9gve2nRewvtDoP8) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [MOON](https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah) | 3:05 |
-| 22 | [แรงอีกนิด \(SADISTIC\)](https://open.spotify.com/track/4zo90SYUp8L88UHRhu6NUp) | [PROJECT JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [แรงอีกนิด \(SADISTIC\) \- Single](https://open.spotify.com/album/0imi2s6hE5Do19u6LqKyoM) | 3:04 |
+| 9 | [รักฉันผูกพันเขา \(Leave Me Alone\)](https://open.spotify.com/track/0YYoT4ZLtHZW6UIQUEFL6H) | [THIRD](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [รักฉันผูกพันเขา \(Leave Me Alone\)](https://open.spotify.com/album/2XxGv7whVxUKcTKBbX0ZXJ) | 3:47 |
+| 10 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
+| 11 | [จำนน](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
+| 12 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 |
+| 13 | [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/6l6RnX3gh2jBD7E2XKMtpl) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [UNDRESS](https://open.spotify.com/album/21GT7FGL6WwKc6g3LqlJSB) | 2:46 |
+| 14 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 15 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
+| 16 | [Someone Someday](https://open.spotify.com/track/6AkBrA64ZQjNMBiqMmH9xb) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Someone Someday](https://open.spotify.com/album/2IYfkj2Azk9MzpipFlagkF) | 3:57 |
+| 17 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 |
+| 18 | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/track/2QRjLzBCz7DFMRrsENNjzh) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [สุขสันต์วันคิดถึง \(Happily Missing You\)](https://open.spotify.com/album/7GWEkwn9WjBXmWwMo8Ka0H) | 3:35 |
+| 19 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
+| 20 | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83) | 3:02 |
+| 21 | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/track/2EKBiUviGslPW2qgesNsQX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/album/08sdynQ4AiGm449pYAU3fH) | 3:04 |
+| 22 | [Pick A Card](https://open.spotify.com/track/4V2UBqg9gve2nRewvtDoP8) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [MOON](https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah) | 3:05 |
 | 23 | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 |
 | 24 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
 | 25 | [วิงวอน \(ex\-change\)](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [FEAT](https://open.spotify.com/track/5oa8CjmEAboPvZdtEM6W7w) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [FEAT](https://open.spotify.com/album/6W3l1MkqhGy7A7k4fZeoNw) | 2:59 |
 | 50 | [LIAR](https://open.spotify.com/track/5dpJemvWkTEM3qIKSbKB82) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [LIAR](https://open.spotify.com/album/5ykB9BRD65FWWxEuiED21R) | 3:31 |
 
-Snapshot ID: `Z5KZXAAAAAAiYHkoOB9/gI7dt8C0xkUb`
+Snapshot ID: `Z5SIzgAAAAA3uxIqVWwhorV+pGZTbrgs`

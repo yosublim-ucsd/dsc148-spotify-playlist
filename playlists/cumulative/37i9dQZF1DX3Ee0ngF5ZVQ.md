@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-681 songs - 1 day 16 hr 33 min
+682 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 | 2024-01-05 |  |
 | [Country Like You](https://open.spotify.com/track/0c3YD78qj2UlCClyVuw2sx) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Country Like You](https://open.spotify.com/album/66Li9RsTsw3WRc4fIHJbAS) | 3:59 | 2022-03-18 | 2022-07-27 |
 | [Country Nights](https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Country Nights](https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5) | 3:37 | 2023-05-12 | 2023-08-19 |
-| [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a) | 3:43 | 2024-08-30 |  |
+| [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a) | 3:43 | 2024-08-30 | 2025-01-26 |
 | [Cow Pissin'](https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Cow Pissin'](https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj) | 3:37 | 2022-08-05 | 2022-09-17 |
 | [Cowboy Kid](https://open.spotify.com/track/6HQDLJ0hcek1X70QOP6e3x) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Cowboy Kid](https://open.spotify.com/album/6aNpBKhFEU5CBJ8vY1TLk0) | 3:31 | 2023-10-13 | 2024-01-13 |
 | [Cowboys & Tequila](https://open.spotify.com/track/0R4SGCi7wBvjhnZvuWEXkI) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Cowboys & Tequila](https://open.spotify.com/album/3REWO8PbGAiEaOu9t6Zef0) | 3:31 | 2022-05-06 | 2022-07-29 |
@@ -386,6 +386,7 @@
 | [Might Be Getting over You](https://open.spotify.com/track/4en9gb3AKmJATNPy73d1gk) | [Summer Dean](https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul) | [The Biggest Life](https://open.spotify.com/album/4qTMjGuzD8zYwzoej1TxxV) | 2:39 | 2023-06-16 | 2023-08-26 |
 | [Miles and Miles of You](https://open.spotify.com/track/4pkdRtBzxstB8Li7iuLZtz) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Miles and Miles of You](https://open.spotify.com/album/5G5NGWji2d6bSjnNzpxr90) | 4:01 | 2022-01-21 | 2022-07-29 |
 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 | 2022-08-05 | 2023-09-02 |
+| [Mine Tomorrow](https://open.spotify.com/track/7J5uYwCH3rPIkDNroSK6qV) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Mine Tomorrow](https://open.spotify.com/album/2JFg94fX6wfG8IWxLTyNsG) | 3:20 | 2025-01-24 |  |
 | [Missin' Tonight](https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Missin' Tonight](https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP) | 2:50 | 2024-09-20 |  |
 | [Mobile](https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Mobile](https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO) | 4:16 | 2025-01-10 |  |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:43 | 2024-01-26 | 2024-04-19 |

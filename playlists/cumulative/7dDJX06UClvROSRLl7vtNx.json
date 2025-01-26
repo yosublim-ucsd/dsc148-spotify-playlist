@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 162203,
       "name": "All I Think About",
       "url": "https://open.spotify.com/track/7JbpzzQ9bM1gprjgTsBJOP"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 146000,
       "name": "All I Wanna Know",
       "url": "https://open.spotify.com/track/5KYNaaD5q5bDTyxCvMmAT3"
@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 151678,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/0llLMn5vshxTKeD3AH3vkf"
@@ -4293,6 +4293,28 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/0yapV75dDNa3ZUOjGsA4wC"
+      },
+      "artists": [
+        {
+          "name": "Fijy",
+          "url": "https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV"
+        },
+        {
+          "name": "Chill Gull",
+          "url": "https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/3jQOAjy4uCfOi380V0zMNs"
+    },
+    {
+      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/0yOar1nX6C9LUZafZcbvj6"
       },
@@ -5098,6 +5120,24 @@
       "duration_ms": 130909,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv"
+    },
+    {
+      "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/6zDV6j17HLX6sxpmz5g3JF"
+      },
+      "artists": [
+        {
+          "name": "Luna Blue",
+          "url": "https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/7E5KuXifEZu6duxZKg8sGs"
     },
     {
       "album": {
@@ -6131,6 +6171,24 @@
     },
     {
       "album": {
+        "name": "I Like Me Better",
+        "url": "https://open.spotify.com/album/62do9dPfeNtyi9HSW2EPVZ"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185658,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/349Av8zxL82Cwas5CZk0hH"
+    },
+    {
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0eoK7ANOO5FCLdEwAUsjrP"
       },
@@ -6500,7 +6558,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 183224,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/4FHviKAJ137SAE8T7PLIOK"
@@ -7814,7 +7872,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 167547,
       "name": "Locked Away",
       "url": "https://open.spotify.com/track/1nHxHjCfUleJgxuh5HtlTl"
@@ -8362,6 +8420,32 @@
       "duration_ms": 158000,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/1qbqxjmfX0elpgITU0u4YH"
+    },
+    {
+      "album": {
+        "name": "Love To Lose",
+        "url": "https://open.spotify.com/album/0yi6y4Mr6y0lQ4nN5wi8s6"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        },
+        {
+          "name": "John Von Dusk",
+          "url": "https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz"
+        },
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Love To Lose",
+      "url": "https://open.spotify.com/track/7oBKRZ8km1jtHCbovQIt2A"
     },
     {
       "album": {
@@ -10246,7 +10330,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 148250,
       "name": "Out of Touch",
       "url": "https://open.spotify.com/track/68j2vMJIyiabD4gOPGrGWE"
@@ -10368,6 +10452,24 @@
       "duration_ms": 132524,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/45Q8FBzKZSIG5KsIe7VabG"
+    },
+    {
+      "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/2qjUmUEFYVqbS2PwRrpKj6"
+      },
+      "artists": [
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/1nr7No98YB7Uj7RS7oVzQW"
     },
     {
       "album": {
@@ -11110,7 +11212,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 129600,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/70yvajJ19TJWJH3g50TveP"
@@ -13810,7 +13912,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 163636,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/4BnNu11SXAJKu4TaMoipUA"
@@ -14110,7 +14212,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 174375,
       "name": "Up At Night",
       "url": "https://open.spotify.com/track/3HMFkGrSmhzEVNatvkfSZj"
@@ -14480,7 +14582,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 144388,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4mjNM3kR6OXuWC6l6UYrLA"
@@ -14830,6 +14932,28 @@
       "duration_ms": 151635,
       "name": "What We Started",
       "url": "https://open.spotify.com/track/5jsiM3FA6cmJmmepchwNCz"
+    },
+    {
+      "album": {
+        "name": "What's The Harm",
+        "url": "https://open.spotify.com/album/1dIU2tly1YsvYXPLj24NCC"
+      },
+      "artists": [
+        {
+          "name": "Maggie Szabo",
+          "url": "https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48"
+        },
+        {
+          "name": "Youngmin",
+          "url": "https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb"
+        }
+      ],
+      "date_added": "2025-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "What's The Harm",
+      "url": "https://open.spotify.com/track/6sEZPeZtEYGAQ9ncLdORpu"
     },
     {
       "album": {

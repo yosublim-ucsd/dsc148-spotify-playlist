@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
+        "url": "https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245376,
+      "name": "Jag h\u00f6r ocks\u00e5 r\u00f6sterna",
+      "url": "https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6"
+    },
+    {
+      "album": {
         "name": "Noof Belfast \u2013 Nybro City",
         "url": "https://open.spotify.com/album/5WstAcClR0wOb8M18QSEKz"
       },
@@ -4642,7 +4660,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-26",
       "duration_ms": 180627,
       "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
       "url": "https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,653 likes - 31 songs - 2 hr 6 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,655 likes - 33 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,11 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 25 | [Amanogawa](https://open.spotify.com/track/2BnVjXTKGlDgBw6QMWuXOw) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Image 1983 \- 1998](https://open.spotify.com/album/1VOLtARcWRJTQHf0NJJG4v) | 3:12 |
 | 26 | [How Can I Apply ...?](https://open.spotify.com/track/0mtT4rLj2sTy14btyZvbP3) | [Trashcan Sinatras](https://open.spotify.com/artist/0i2IEcWvtHUBYPkYWwCgjC) | [A Happy Pocket](https://open.spotify.com/album/40e48hdvuvFySGcMm33ps9) | 2:52 |
 | 27 | [Excellent](https://open.spotify.com/track/0zHt4XtjSIJ3io6Vex53PC) | [Cedric Freeman](https://open.spotify.com/artist/2YlaxSEjRPCbEnV3mF3I2m) | [Backdrop](https://open.spotify.com/album/20Er2ERoLRu061MKC0lRtT) | 2:48 |
-| 28 | [The Magic Beads](https://open.spotify.com/track/09wT85Fj2n6SX5nIMQlz4z) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 6:28 |
-| 29 | [Writers Are A Funny Breed](https://open.spotify.com/track/1aP0wJDXGkwZw8N8Pcualq) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 5:29 |
-| 30 | [Remember](https://open.spotify.com/track/3lzfbidi4JHD00ZlD6jshG) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [And Then...Along Comes](https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f) | 2:37 |
-| 31 | [A Tune for Us](https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [A Tune for Us](https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27) | 5:53 |
+| 28 | [Remember](https://open.spotify.com/track/3lzfbidi4JHD00ZlD6jshG) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [And Then...Along Comes](https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f) | 2:37 |
+| 29 | [A Tune for Us](https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [A Tune for Us](https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27) | 5:53 |
+| 30 | [The Sky Is So Blue](https://open.spotify.com/track/0FnQJbknnZXdKnhiU6qxdp) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 4:04 |
+| 31 | [The Mystery At Ogwen's Farm](https://open.spotify.com/track/63biskPX3EbVQjQQHIrW5t) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 2:59 |
+| 32 | [The Magic Beads](https://open.spotify.com/track/09wT85Fj2n6SX5nIMQlz4z) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 6:28 |
+| 33 | [Writers Are A Funny Breed](https://open.spotify.com/track/1aP0wJDXGkwZw8N8Pcualq) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 5:29 |
 
-Snapshot ID: `AAALxht41pnFuX0mMmp8OWnebarlq3UI`
+Snapshot ID: `AAALy8LVPrtWF+glzCBp1VbFg5GWUNrT`

@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Ainda & Leiva.",
-  "num_followers": 57370,
+  "num_followers": 57399,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "Fue Amor",
+      "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
+    },
+    {
+      "added_at": "2024-12-06 03:00:00",
+      "album": {
         "name": "El Viaje",
         "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 200520,
       "name": "Santa Marta",
       "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
-    },
-    {
-      "added_at": "2024-12-06 03:00:00",
-      "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "Fue Amor",
-      "url": "https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
+        "name": "La Cobra",
+        "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
         }
       ],
-      "duration_ms": 236000,
-      "name": "V\u00e1monos De Viaje",
-      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
+      "duration_ms": 188227,
+      "name": "La Cobra",
+      "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"
     },
     {
       "added_at": "2024-12-06 03:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-12-06 03:00:00",
       "album": {
-        "name": "La Cobra",
-        "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
       },
       "artists": [
         {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 188227,
-      "name": "La Cobra",
-      "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"
+      "duration_ms": 236000,
+      "name": "V\u00e1monos De Viaje",
+      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
     },
     {
       "added_at": "2024-12-06 03:00:00",

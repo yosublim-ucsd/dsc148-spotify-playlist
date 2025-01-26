@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,270 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,405 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 34 | [Gimme More](https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN) | [Distinkt](https://open.spotify.com/artist/55hWlrQE8eBgArfN6nAWug) | [Gimme More](https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN) | 3:54 |
 | 35 | [Sick Of The Chatter](https://open.spotify.com/track/44XDzqSWbBfKHs8WKhwVm0) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Sick Of The Chatter](https://open.spotify.com/album/7j7zHWt0MsgnXnGkr90rRp) | 3:27 |
 | 36 | [Easy for them](https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [Easy for them](https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS) | 2:17 |
-| 37 | [Bass B$tch](https://open.spotify.com/track/3OBUIW6j8f0u0WfXX48u1v) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Bass B$tch](https://open.spotify.com/album/6nrddbRAkUUqtwsiXteix7) | 2:48 |
-| 38 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
+| 37 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 |
+| 38 | [Bass B$tch](https://open.spotify.com/track/3OBUIW6j8f0u0WfXX48u1v) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Bass B$tch](https://open.spotify.com/album/6nrddbRAkUUqtwsiXteix7) | 2:48 |
 | 39 | [Party Starter \(feat\. Slick Don\)](https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Seshame Street EP](https://open.spotify.com/album/2Jg5nvzzGeKzulWY9vC3u6) | 3:01 |
 | 40 | [Wild \- bullet tooth Remix](https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Wild \(bullet tooth Remix\)](https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR) | 2:58 |
 | 41 | [Surgery](https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK) | [FooR](https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr), [Ragga Twins](https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq) | [Surgery](https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr) | 2:09 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 51 | [Passion](https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [What About The DJ?](https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV) | 4:40 |
 | 52 | [The Streets](https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Stop Dawdling / The Streets](https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX) | 4:25 |
 | 53 | [Boom](https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Boom](https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA) | 3:02 |
-| 54 | [Dapper](https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Cleva Thoughts](https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs) | [Dapper](https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj) | 2:52 |
-| 55 | [Kumonga](https://open.spotify.com/track/6EpVAOgIHf0FvzPBf5OM4t) | [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg), [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW) | [Kumonga](https://open.spotify.com/album/3HwFH9OrfxZekWw76FvXZl) | 3:05 |
-| 56 | [Haters](https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Haters](https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk) | 2:58 |
+| 54 | [Haters](https://open.spotify.com/track/7g8lJpwAKpkW9eNtuVgldf) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Haters](https://open.spotify.com/album/6NMfvPauhjeFWuj3jfwLRk) | 2:58 |
+| 55 | [Dapper](https://open.spotify.com/track/3OzAvvApHy9PT6oHcYMRYG) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Cleva Thoughts](https://open.spotify.com/artist/4J6nDeOpnphiMzFMXjLNrs) | [Dapper](https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj) | 2:52 |
+| 56 | [Kumonga](https://open.spotify.com/track/6EpVAOgIHf0FvzPBf5OM4t) | [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg), [Ruvlo](https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW) | [Kumonga](https://open.spotify.com/album/3HwFH9OrfxZekWw76FvXZl) | 3:05 |
 | 57 | [Wavelord Bizniz](https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w) | [Samurai Breaks](https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray), [Napes](https://open.spotify.com/artist/67tntWq8UUUolQoKWKZgN5) | [Wavelord Bizniz](https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK) | 4:40 |
 | 58 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 59 | [DIY \- Old Skool Mix](https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 3:09 |

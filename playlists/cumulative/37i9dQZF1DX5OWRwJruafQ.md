@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-539 songs - 1 day 1 hr 48 min
+541 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Gabru Da Naam](https://open.spotify.com/track/3EGPTsAzyW5HVuhcB7KdAV) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Gabru Da Naam](https://open.spotify.com/album/1umPYrCIxwJXAKpFJUs9Td) | 3:18 | 2023-11-06 | 2023-11-16 |
 | [Gaddi](https://open.spotify.com/track/7kKzZe40RUyKHWSIQxQehy) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Gaddi](https://open.spotify.com/album/6k6hDbaEZumhfTd9xplzVN) | 3:46 | 2023-04-21 | 2024-04-19 |
 | [Gaddi](https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:17 | 2023-03-29 | 2023-07-15 |
+| [Gallan Hundiyan \- From "Majhail"](https://open.spotify.com/track/2cdu7CQkntC4wNe1IISyg8) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Gallan Hundiyan \(From "Majhail"\)](https://open.spotify.com/album/4eXHXXfO93us9UtOjbtpo1) | 2:02 | 2025-01-25 |  |
 | [Gang](https://open.spotify.com/track/6JUucJOwksTvrjjnq3yyqQ) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Turner](https://open.spotify.com/artist/1sWqR7KUB8nWY4PtsuaEUx), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Gang](https://open.spotify.com/album/4iaAssa1mvJrF2JeOi3V3U) | 2:46 | 2023-04-07 | 2023-04-28 |
 | [Gang Boliyan](https://open.spotify.com/track/3JzIXwROWkSMEdkrCjFcsI) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [The Plot](https://open.spotify.com/album/3kcnt7o6VQ5QvCSMhtfuDX) | 1:54 | 2024-01-11 | 2024-04-19 |
 | [Gangsta Shit](https://open.spotify.com/track/1JrMBCjCRiBe0XNB6ZzWhY) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:45 | 2024-02-07 | 2024-07-23 |
@@ -200,6 +201,7 @@
 | [Gunda](https://open.spotify.com/track/3jKrI8DYG6IxDPGlGEb8BM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Gunda](https://open.spotify.com/album/1mbKM9D2nup2rQKpMD3YeK) | 3:30 | 2023-12-15 | 2024-01-06 |
 | [Gustakhiyan 2](https://open.spotify.com/track/4MpGiWSCNz1WJ0ICCfAdYl) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Bangers](https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz) | 2:44 | 2024-04-19 |  |
 | [Halaat](https://open.spotify.com/track/43zJCaWoiuNnNg6r7rUFRZ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i) | [Halaat](https://open.spotify.com/album/4dltPScM2GERzfqQDRpk5J) | 3:59 | 2024-11-14 | 2024-11-29 |
+| [Halla Gulla](https://open.spotify.com/track/6VDZQV2ZhRSwtapy6860Rv) | [Harf Cheema](https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Halla Gulla](https://open.spotify.com/album/4kN2YAdAUuDcPHxmNOd3oQ) | 2:47 | 2025-01-25 |  |
 | [Hard Knock Life](https://open.spotify.com/track/3uWoeP4NbQMnObVhxa4t0J) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Hard Knock Life](https://open.spotify.com/album/5w7kjwK7VYpUAsZn6TYtjO) | 3:19 | 2023-05-05 | 2023-05-27 |
 | [Hath Mittran Nu](https://open.spotify.com/track/3akvPGRrZVPaE2GSoqJIvf) | [Khadak Singh](https://open.spotify.com/artist/6u8dtdN8dK5hjTkkfw4ysc) | [Hath Mittran Nu](https://open.spotify.com/album/7J4wVMxhnPfzr3Vj9dzjSA) | 2:30 | 2024-10-18 | 2024-11-15 |
 | [Hathyar \- From "Tufang"](https://open.spotify.com/track/1JpUj7FtR1pGM2OAZdSeK3) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Hathyar \(From "Tufang"\)](https://open.spotify.com/album/5zXOlnv7LlCLlipzHBdSPk) | 2:24 | 2023-07-17 | 2024-01-06 |

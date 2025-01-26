@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5AJmpeCmtxFKcNY6bjotWd\">Rejsel</a>",
-  "num_followers": 42673,
+  "num_followers": 42660,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "moonlight story",
-        "url": "https://open.spotify.com/album/2UGt5ikJVJLkKO3jiBDXyu"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kluza",
-          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
-        }
-      ],
-      "duration_ms": 205750,
-      "name": "moonlight story",
-      "url": "https://open.spotify.com/track/4qwjiLoQ08r4IjuwyAekMI"
-    },
-    {
-      "added_at": "2025-01-13 23:00:19",
-      "album": {
         "name": "Better Place",
         "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 181823,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+    },
+    {
+      "added_at": "2025-01-13 23:00:19",
+      "album": {
+        "name": "moonlight story",
+        "url": "https://open.spotify.com/album/2UGt5ikJVJLkKO3jiBDXyu"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kluza",
+          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
+        }
+      ],
+      "duration_ms": 205750,
+      "name": "moonlight story",
+      "url": "https://open.spotify.com/track/4qwjiLoQ08r4IjuwyAekMI"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -539,8 +539,8 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "Zrobi\u0142am bardzo",
-        "url": "https://open.spotify.com/album/5Aaf3cDS2I74Vaccn8I1A0"
+        "name": "Oprawieni Idole",
+        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 182068,
-      "name": "Zrobi\u0142am bardzo",
-      "url": "https://open.spotify.com/track/4Z3x2f3nKE26ol24cIM7Uv"
+      "duration_ms": 239000,
+      "name": "Oprawieni Idole",
+      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -639,8 +639,8 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
+        "name": "Nie m\u00f3j typ",
+        "url": "https://open.spotify.com/album/3dVeCcsSnCTQZsNHysUSme"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
+      "duration_ms": 145370,
+      "name": "Nie m\u00f3j typ",
+      "url": "https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -703,8 +703,8 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "Oprawieni Idole",
-        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
+        "name": "Zrobi\u0142am bardzo",
+        "url": "https://open.spotify.com/album/5Aaf3cDS2I74Vaccn8I1A0"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Oprawieni Idole",
-      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
+      "duration_ms": 182068,
+      "name": "Zrobi\u0142am bardzo",
+      "url": "https://open.spotify.com/track/4Z3x2f3nKE26ol24cIM7Uv"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -771,8 +771,8 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "Nie m\u00f3j typ",
-        "url": "https://open.spotify.com/album/3dVeCcsSnCTQZsNHysUSme"
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
         }
       ],
-      "duration_ms": 145370,
-      "name": "Nie m\u00f3j typ",
-      "url": "https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34"
+      "duration_ms": 168387,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "Go Ahead",
-        "url": "https://open.spotify.com/album/2UwcLxssNdV9cSHh5fY1cT"
-      },
-      "artists": [
-        {
-          "name": "Agata Karczewska",
-          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
-        }
-      ],
-      "duration_ms": 260125,
-      "name": "Go Ahead",
-      "url": "https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh"
-    },
-    {
-      "added_at": "2025-01-13 23:00:19",
-      "album": {
         "name": "ABOUT US.",
         "url": "https://open.spotify.com/album/6H24A2xEAHDrYeYc8M4Ch8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 217509,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/4Id8fcHyGqnOqABDhwlQJ2"
+    },
+    {
+      "added_at": "2025-01-13 23:00:19",
+      "album": {
+        "name": "Go Ahead",
+        "url": "https://open.spotify.com/album/2UwcLxssNdV9cSHh5fY1cT"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 260125,
+      "name": "Go Ahead",
+      "url": "https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "Bolt",
-        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 216860,
-      "name": "Bolt",
-      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
-    },
-    {
-      "added_at": "2025-01-13 23:00:19",
-      "album": {
         "name": "Nie ma szans",
         "url": "https://open.spotify.com/album/0gkHfzqnX6zc3eTEHAOhBN"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 215629,
       "name": "Nie ma szans",
       "url": "https://open.spotify.com/track/6ugIQaWAeUcgfiUJItQiCb"
+    },
+    {
+      "added_at": "2025-01-13 23:00:19",
+      "album": {
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 216860,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -1359,38 +1359,6 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
-    },
-    {
-      "added_at": "2025-01-13 23:00:19",
-      "album": {
-        "name": "Ta\u0144cz\u0119",
-        "url": "https://open.spotify.com/album/54lzrUtzRhLlfsWzzVLqtA"
-      },
-      "artists": [
-        {
-          "name": "Alan Cyprysiak",
-          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Ta\u0144cz\u0119",
-      "url": "https://open.spotify.com/track/24ETPb54sx8KtyFV7mMRUI"
-    },
-    {
-      "added_at": "2025-01-13 23:00:19",
-      "album": {
         "name": "BSoD (Bluescreen)",
         "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
       },
@@ -1407,6 +1375,22 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+    },
+    {
+      "added_at": "2025-01-13 23:00:19",
+      "album": {
         "name": "K\u00f3\u0142ko I Krzy\u017cyk",
         "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 169090,
       "name": "Po Szkole",
       "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
+    },
+    {
+      "added_at": "2025-01-13 23:00:19",
+      "album": {
+        "name": "Ta\u0144cz\u0119",
+        "url": "https://open.spotify.com/album/54lzrUtzRhLlfsWzzVLqtA"
+      },
+      "artists": [
+        {
+          "name": "Alan Cyprysiak",
+          "url": "https://open.spotify.com/artist/0gbd0sFWxT28CVsxZ6J6Ig"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Ta\u0144cz\u0119",
+      "url": "https://open.spotify.com/track/24ETPb54sx8KtyFV7mMRUI"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
-        "name": "HOTEL",
-        "url": "https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 190827,
-      "name": "HOTEL",
-      "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
-    },
-    {
-      "added_at": "2025-01-13 23:00:19",
-      "album": {
         "name": "Sama s\u0142uchaj",
         "url": "https://open.spotify.com/album/1kjorjjIHO8t9UC8P8iT0V"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/4Et5dfI8KUrOpRrwqy4Wc1"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 190827,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/4VBvF9iBuitlLSEKDQR1PW"
+    },
+    {
+      "added_at": "2025-01-13 23:00:19",
+      "album": {
         "name": "Lesbijski Groove",
         "url": "https://open.spotify.com/album/6uSRonTg1ktm1KxXdvdVMK"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 261818,
       "name": "Lesbijski Groove",
       "url": "https://open.spotify.com/track/0ZbfT8bgWR81cepTeCirfN"
+    },
+    {
+      "added_at": "2025-01-13 23:00:19",
+      "album": {
+        "name": "Ulubione miejsce",
+        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Ulubione miejsce",
+      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -1551,22 +1567,6 @@
       "duration_ms": 238000,
       "name": "Raj",
       "url": "https://open.spotify.com/track/2rogt6ZAO25BkUtcM3Bz7h"
-    },
-    {
-      "added_at": "2025-01-13 23:00:19",
-      "album": {
-        "name": "Ulubione miejsce",
-        "url": "https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf"
-      },
-      "artists": [
-        {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ulubione miejsce",
-      "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"
     },
     {
       "added_at": "2025-01-13 23:00:19",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2025-01-13 23:00:19",
       "album": {
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
+      },
+      "artists": [
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
+        }
+      ],
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2025-01-13 23:00:19",
+      "album": {
         "name": "Re\u017cyser",
         "url": "https://open.spotify.com/album/5JdAFKD7E59vMwZQLJQaSd"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 178548,
       "name": "\u015bwiat lepiej smakuje",
       "url": "https://open.spotify.com/track/5UK0CowEcdpLq36WNJDE7x"
-    },
-    {
-      "added_at": "2025-01-13 23:00:19",
-      "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     }
   ],
   "unique_name": "GLOW Polska",

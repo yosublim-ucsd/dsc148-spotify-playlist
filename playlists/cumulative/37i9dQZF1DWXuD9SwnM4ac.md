@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Djo
 
-551 songs - 1 day 7 hr 5 min
+551 songs - 1 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2008](https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [2008](https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4) | 2:33 | 2024-09-05 | 2024-10-18 |
 | [2AM](https://open.spotify.com/track/2gvnHG9hb9S7Dwlo6EwAek) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [2AM](https://open.spotify.com/album/35AzGnMYa7ICT9A9jonkIx) | 2:26 | 2024-07-18 | 2024-08-09 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-07 | 2025-01-17 |
-| [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:11 | 2025-01-23 |  |
+| [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:17 | 2025-01-23 |  |
 | [4AM](https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [4AM](https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU) | 2:58 | 2024-09-26 | 2024-11-08 |
 | [6 Foot](https://open.spotify.com/track/3ZKf6h9tBnr5V0lc76LlPr) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [6 Foot](https://open.spotify.com/album/1jtioMSLaxWNj1qTCCqB8Q) | 2:38 | 2024-10-17 | 2024-11-29 |
 | [92 Purebred](https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [92 Purebred](https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3) | 3:22 | 2025-01-23 |  |

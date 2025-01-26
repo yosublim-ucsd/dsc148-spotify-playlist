@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 65531,
+  "num_followers": 65633,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,34 @@
     {
       "added_at": "2025-01-24 05:00:48",
       "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
+      },
+      "artists": [
+        {
+          "name": "DAMANTE",
+          "url": "https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Dj Human Star",
+          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
+        }
+      ],
+      "duration_ms": 105703,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
+    },
+    {
+      "added_at": "2025-01-24 05:00:48",
+      "album": {
         "name": "Maracuya",
         "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
       },
@@ -1127,34 +1155,6 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2025-01-24 05:00:48",
-      "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
-      },
-      "artists": [
-        {
-          "name": "DAMANTE",
-          "url": "https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Luca Testa",
-          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
-        },
-        {
-          "name": "Dj Human Star",
-          "url": "https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW"
-        }
-      ],
-      "duration_ms": 105703,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
     },
     {
       "added_at": "2025-01-24 05:00:48",
@@ -1287,6 +1287,66 @@
     {
       "added_at": "2025-01-24 05:00:48",
       "album": {
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        },
+        {
+          "name": "PAVE",
+          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
+        }
+      ],
+      "duration_ms": 153875,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
+    },
+    {
+      "added_at": "2025-01-24 05:00:48",
+      "album": {
+        "name": "Coroa",
+        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 136088,
+      "name": "Coroa",
+      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
+    },
+    {
+      "added_at": "2025-01-24 05:00:48",
+      "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+    },
+    {
+      "added_at": "2025-01-24 05:00:48",
+      "album": {
         "name": "Arrebatao",
         "url": "https://open.spotify.com/album/4AHUp3FsMi7XQqiYQJz4e8"
       },
@@ -1315,66 +1375,6 @@
     {
       "added_at": "2025-01-24 05:00:48",
       "album": {
-        "name": "Coroa",
-        "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 136088,
-      "name": "Coroa",
-      "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
-    },
-    {
-      "added_at": "2025-01-24 05:00:48",
-      "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "PAVE",
-          "url": "https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny"
-        }
-      ],
-      "duration_ms": 153875,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/34Cc71Twm8s2IICmiIdWPR"
-    },
-    {
-      "added_at": "2025-01-24 05:00:48",
-      "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
-    },
-    {
-      "added_at": "2025-01-24 05:00:48",
-      "album": {
         "name": "Solo Se Vive Una Vez",
         "url": "https://open.spotify.com/album/6YTklleoAqtGCag9H07M8u"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 147601,
       "name": "Solo Se Vive Una Vez",
       "url": "https://open.spotify.com/track/1aVWueLqzo5cVtxEYkhVYi"
+    },
+    {
+      "added_at": "2025-01-24 05:00:48",
+      "album": {
+        "name": "La Trumpeta",
+        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 200042,
+      "name": "La Trumpeta",
+      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
     },
     {
       "added_at": "2025-01-24 05:00:48",
@@ -1415,18 +1431,26 @@
     {
       "added_at": "2025-01-24 05:00:48",
       "album": {
-        "name": "La Trumpeta",
-        "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
       "artists": [
         {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
+        },
+        {
+          "name": "Fonsa",
+          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
         }
       ],
-      "duration_ms": 200042,
-      "name": "La Trumpeta",
-      "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
+      "duration_ms": 174880,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
       "added_at": "2025-01-24 05:00:48",
@@ -1491,54 +1515,6 @@
       "duration_ms": 187317,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS"
-    },
-    {
-      "added_at": "2025-01-24 05:00:48",
-      "album": {
-        "name": "Cuando Fue (feat. Jay Wheeler)",
-        "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 183310,
-      "name": "Cuando Fue (feat. Jay Wheeler)",
-      "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
-    },
-    {
-      "added_at": "2025-01-24 05:00:48",
-      "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Novak",
-          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
-        },
-        {
-          "name": "Fonsa",
-          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
       "added_at": "2025-01-24 05:00:48",
@@ -1611,6 +1587,30 @@
     {
       "added_at": "2025-01-24 05:00:48",
       "album": {
+        "name": "Cuando Fue (feat. Jay Wheeler)",
+        "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 183310,
+      "name": "Cuando Fue (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
+    },
+    {
+      "added_at": "2025-01-24 05:00:48",
+      "album": {
         "name": "Roots EP, Pt. 1",
         "url": "https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2"
       },
@@ -1651,30 +1651,6 @@
     {
       "added_at": "2025-01-24 05:00:48",
       "album": {
-        "name": "Lindos Ojos",
-        "url": "https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Simon Fava",
-          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
-        },
-        {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "Lindos Ojos",
-      "url": "https://open.spotify.com/track/0JbwPMowbtRAeN5JGMWjXB"
-    },
-    {
-      "added_at": "2025-01-24 05:00:48",
-      "album": {
         "name": "Sombrerito Blanco",
         "url": "https://open.spotify.com/album/5PKL9k6BGnnjTdPQ8aRJfu"
       },
@@ -1711,6 +1687,30 @@
       "duration_ms": 154285,
       "name": "Wataqui",
       "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
+    },
+    {
+      "added_at": "2025-01-24 05:00:48",
+      "album": {
+        "name": "Lindos Ojos",
+        "url": "https://open.spotify.com/album/6HB0vckn7uVRysypgXWP3R"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "Lindos Ojos",
+      "url": "https://open.spotify.com/track/0JbwPMowbtRAeN5JGMWjXB"
     },
     {
       "added_at": "2025-01-24 05:00:48",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2025-01-24 05:00:48",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
-      },
-      "artists": [
-        {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        }
-      ],
-      "duration_ms": 186713,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
-    },
-    {
-      "added_at": "2025-01-24 05:00:48",
-      "album": {
         "name": "OBSESION",
         "url": "https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 217500,
       "name": "OBSESION",
       "url": "https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH"
+    },
+    {
+      "added_at": "2025-01-24 05:00:48",
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 186713,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
     },
     {
       "added_at": "2025-01-24 05:00:48",

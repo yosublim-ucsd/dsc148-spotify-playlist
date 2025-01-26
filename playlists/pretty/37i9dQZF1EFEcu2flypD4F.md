@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,041 likes - 330 songs - 20 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,042 likes - 330 songs - 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -319,8 +319,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 309 | [Anthem](https://open.spotify.com/track/3pA0YN34JkVK2oR4hE5byb) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 1:22 |
 | 310 | [Matrix](https://open.spotify.com/track/1b0PJgINRReqrrmCAv6OLL) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:36 |
 | 311 | [Oh Boy](https://open.spotify.com/track/2LZEddxkwZC8gYf6PxDOZT) | [Kayliah](https://open.spotify.com/artist/5vUkpDxDVZIggZLIdDKTNN) | [On A Tous Besoin De Croire](https://open.spotify.com/album/6hJWXCcdDF0GF5jn5FuPwh) | 3:10 |
-| 312 | [Sweet One](https://open.spotify.com/track/70yw1mWJ1dr9M0A2cDDWF5) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr) | [Songbook](https://open.spotify.com/album/00MGlaDFwsnlyhILi6MIke) | 4:48 |
-| 313 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
+| 312 | [Trust Me](https://open.spotify.com/track/0N3vzwna2LCxlHpLRdIuJG) | [Zeitgeist](https://open.spotify.com/artist/4Rohnem527M6fryAmzXyZj), [Young Athena](https://open.spotify.com/artist/5bX7bAeWmX2wkjBXWxt0t7) | [Trust Me](https://open.spotify.com/album/0w46XLGCriAtZS4CuAxArO) | 3:19 |
+| 313 | [Sweet One](https://open.spotify.com/track/70yw1mWJ1dr9M0A2cDDWF5) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr) | [Songbook](https://open.spotify.com/album/00MGlaDFwsnlyhILi6MIke) | 4:48 |
 | 314 | [Pulls You Under](https://open.spotify.com/track/6HSfAaihnNvfIzqHsSfd2I) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:24 |
 | 315 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
 | 316 | [Jungle](https://open.spotify.com/track/6c7I2E1KYkOqeHOi5SMJ77) | [Twonot](https://open.spotify.com/artist/1iNEd69hq7KnjEEgW8bz26) | [4 DJ: UnDiscovered Weekly \#66](https://open.spotify.com/album/4SF2wQiemO3IBBefwyxaEX) | 5:52 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 329 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 330 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbnwNgAAAABe7MiwID+cdpoyvxwxcloV`
+Snapshot ID: `Abn1zAAAAAChWd2SSpM+/iG3paHCXcHc`

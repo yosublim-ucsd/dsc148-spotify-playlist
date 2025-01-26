@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Central Cee \(pictured\), Djo, FKA Twigs and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,717 likes - 124 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,796 likes - 124 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 74 | [Queer](https://open.spotify.com/track/1oPlZaEaeUGTKagsHN4pHF) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Queer](https://open.spotify.com/album/29wifDLMDdMlDqNUgcahHe) | 3:28 |
 | 75 | [Afterlife](https://open.spotify.com/track/0sRbn7fYmXVTBdQocJk5Xc) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Afterlife](https://open.spotify.com/album/2ZOGDgrniNnZV9rRN329bd) | 3:42 |
 | 76 | [Heartbreaker](https://open.spotify.com/track/05U6wxU0kArFhVp9blkVzV) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Heartbreaker](https://open.spotify.com/album/1tf5WS3ejHnKmTX0ZXIOS1) | 3:28 |
-| 77 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
+| 77 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 |
 | 78 | [EXTENDO](https://open.spotify.com/track/3reGUYKxAJMkZGEzWM8c5d) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [EXTENDO](https://open.spotify.com/album/7yLc5gd9QLV7N4z5HoU3Ig) | 2:26 |
 | 79 | [The Fork](https://open.spotify.com/track/41RSAwJRmy3heet0Uy4qa0) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [The Fork](https://open.spotify.com/album/4tOa0LnXeeZUoR6M1f0SS2) | 4:40 |
 | 80 | [Home To Me](https://open.spotify.com/track/4jtyVZu591Zq7Ed250PPtG) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home To Me](https://open.spotify.com/album/0bxrT0XR7uMr8jiTzvu8k6) | 3:16 |

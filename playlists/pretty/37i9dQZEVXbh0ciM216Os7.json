@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD8/jSeU5tZsu4ZMqFyVdw0",
+  "snapshot_id": "AAAAAAAAAADu5v2+uZDChu4h74aasuC8",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:00",
@@ -23,46 +23,6 @@
       "duration_ms": 169570,
       "name": "PROTECT THE CROSS",
       "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "DIVE (DELUXE)",
-        "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 182386,
-      "name": "jupiter",
-      "url": "https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Facts",
-        "url": "https://open.spotify.com/album/7DZ0fu9KXeChA0Mp11PBBA"
-      },
-      "artists": [
-        {
-          "name": "Exit Se7en",
-          "url": "https://open.spotify.com/artist/298NQMSxkcwPaXQ1gRYPiq"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Facts",
-      "url": "https://open.spotify.com/track/39JAn4sn5NOtT3fU9KQiLj"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -87,6 +47,26 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
+        "name": "DIVE (deluxe)",
+        "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 182386,
+      "name": "jupiter",
+      "url": "https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
         "name": "Pop It Off",
         "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
       },
@@ -103,22 +83,6 @@
       "duration_ms": 189600,
       "name": "Pop It Off",
       "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Whispers of the Cosmos",
-        "url": "https://open.spotify.com/album/1567yLOgqGQADuzwudofFL"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 420006,
-      "name": "Whispers of the Cosmos",
-      "url": "https://open.spotify.com/track/5kuXsUCZaqY1cmfJeChcEw"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -147,22 +111,6 @@
       "duration_ms": 196386,
       "name": "The Move",
       "url": "https://open.spotify.com/track/2XeoPCq3tFl7nwdvUr8Pps"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Midnight Messiah",
-        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 478186,
-      "name": "Midnight Messiah",
-      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -203,22 +151,6 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 224127,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -231,6 +163,22 @@
       "duration_ms": 263941,
       "name": "Funny Papers",
       "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 224127,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -271,22 +219,6 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Same Old Song",
-        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 174322,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -347,6 +279,150 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "Blackhole",
+        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "Dare U",
+        "url": "https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 141922,
+      "name": "Dare U",
+      "url": "https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "Break The BOOM! Meter",
+        "url": "https://open.spotify.com/album/1hzTDReTAPzSAalO0FeLNj"
+      },
+      "artists": [
+        {
+          "name": "A.J. & Big Justice",
+          "url": "https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp"
+        },
+        {
+          "name": "AMH",
+          "url": "https://open.spotify.com/artist/2TSwn8irgXwsoPyWVjPmnl"
+        },
+        {
+          "name": "The Rizzler",
+          "url": "https://open.spotify.com/artist/5QaiZbvGTAXIpi3NYIxsaK"
+        }
+      ],
+      "duration_ms": 115696,
+      "name": "Break The BOOM! Meter",
+      "url": "https://open.spotify.com/track/4WoMzaHALcdiAZU5nPU5lN"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "Half Horse Half Man",
+        "url": "https://open.spotify.com/album/1eVIvGkJbSBcGmtiyEAgEp"
+      },
+      "artists": [
+        {
+          "name": "OCT",
+          "url": "https://open.spotify.com/artist/0Hu0e77EIbeWB6ZpQCDrCw"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "Half Horse Half Man",
+      "url": "https://open.spotify.com/track/1xlPeQm5LICSUONSh6atX0"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 180540,
+      "name": "Hypnotized (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
         "name": "Alter Ego (feat. Eminem)",
         "url": "https://open.spotify.com/album/2LUWCihTuzpeW2POZhClra"
       },
@@ -387,106 +463,6 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "Movies On Demand",
-        "url": "https://open.spotify.com/album/23ZTlzMpNcnYYHKmqCsWnQ"
-      },
-      "artists": [
-        {
-          "name": "Consequence",
-          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/7vD3NypOYzL9atSGuSeZu0"
-        },
-        {
-          "name": "The LOX",
-          "url": "https://open.spotify.com/artist/1rwo8LzucB6fz2XqZA30D1"
-        },
-        {
-          "name": "Puff Daddy",
-          "url": "https://open.spotify.com/artist/5XJRyXzfLqovmv4nlcw9Vz"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Whatever U Want G.O.O.D. Vs Bad - Megamix",
-      "url": "https://open.spotify.com/track/1jNYG5jS1UARLTnI5DqA8p"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "I'm on 4.0",
-        "url": "https://open.spotify.com/album/3HTzCvsNFUCUVp2ZwSaGF7"
-      },
-      "artists": [
-        {
-          "name": "Trae Tha Truth",
-          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        }
-      ],
-      "duration_ms": 348553,
-      "name": "I'm on 4.0",
-      "url": "https://open.spotify.com/track/6seyIInTwPGCr18JBSCDRo"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
         "name": "F.I.N.E.",
         "url": "https://open.spotify.com/album/5BHVGM96Il9LjEyl2GYziU"
       },
@@ -499,6 +475,26 @@
       "duration_ms": 179493,
       "name": "F.I.N.E.",
       "url": "https://open.spotify.com/track/44UTS6GVv5qKj76CFHnQxM"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "247365",
+        "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
+      },
+      "artists": [
+        {
+          "name": "MC.SUPRA",
+          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "247365",
+      "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -535,54 +531,6 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "247365",
-        "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
-      },
-      "artists": [
-        {
-          "name": "MC.SUPRA",
-          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "247365",
-      "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Janus 1",
-        "url": "https://open.spotify.com/album/0qiNzaJJZlUawZK6lE862y"
-      },
-      "artists": [
-        {
-          "name": "The Incomplete Orchestra",
-          "url": "https://open.spotify.com/artist/67yjRwHktoYxrMKMbqL7BG"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Lone Wolf",
-          "url": "https://open.spotify.com/artist/6Ayr8qiIKESvHLOyabjpxC"
-        },
-        {
-          "name": "P-Earl Gray",
-          "url": "https://open.spotify.com/artist/2dsnZO9L1FbXybl2xKnDDi"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Chi Mi Na Morbheanna - NYE Bash!",
-      "url": "https://open.spotify.com/track/4GUx6h87pNYJTRvDe3YQkw"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
         "name": "The Gift (Extended Mix)",
         "url": "https://open.spotify.com/album/29snRJ4onFOKhKbi4VkNsf"
       },
@@ -599,46 +547,22 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "Lionel Rich",
-        "url": "https://open.spotify.com/album/5BgQiIOWb0THI1yWgiah4H"
+        "name": "Pobre Chico",
+        "url": "https://open.spotify.com/album/05ZvDGh8ghE8ojYDdfsRBm"
       },
       "artists": [
         {
-          "name": "jacuzzi jefferson",
-          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
+          "name": "Nizzle Man",
+          "url": "https://open.spotify.com/artist/0e6hnsgG7uNrVmg3a7HLTi"
         },
         {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 108280,
-      "name": "Lionel Rich",
-      "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Philip Glass: Etude No.6",
-        "url": "https://open.spotify.com/album/2C7jFwKmwccy1iNbMeUe6g"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Halcyon String Quartet",
-          "url": "https://open.spotify.com/artist/4QQn5qeygvBoaA2VsRhBQO"
-        }
-      ],
-      "duration_ms": 303693,
-      "name": "Etude No.6 (arranged for string quartet)",
-      "url": "https://open.spotify.com/track/43m2O66Vix5XCqBA5B0z35"
+      "duration_ms": 134378,
+      "name": "Pobre Chico",
+      "url": "https://open.spotify.com/track/5E7wVgnZjSXNcQtGz5xOh4"
     },
     {
       "added_at": "2025-01-24 05:00:00",

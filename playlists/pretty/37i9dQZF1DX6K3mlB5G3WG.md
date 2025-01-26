@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,253 likes - 110 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,250 likes - 110 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

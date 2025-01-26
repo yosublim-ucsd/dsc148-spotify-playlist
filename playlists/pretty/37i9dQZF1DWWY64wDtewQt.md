@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,465,956 likes - 100 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,470,265 likes - 100 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 8 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 |
 | 9 | [Ela Joga na Hora](https://open.spotify.com/track/4EV2AD1AL9AV7eY0jhAY1k) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/5Q5Q1X31y4eM4A4Nz7cGKb) | 2:12 |
 | 10 | [Eu Sento Gabu!](https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s) | [PXLWYSE](https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH) | [Eu Sento Gabu!](https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o) | 1:23 |
-| 11 | [BLAH!](https://open.spotify.com/track/6nRCWTNboe0qbrXTO0QbzX) | [Nomi XD](https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [BLAH!](https://open.spotify.com/album/5B75p8BlV3QNlZJa5gQKff) | 2:21 |
+| 11 | [BLAH!](https://open.spotify.com/track/6nRCWTNboe0qbrXTO0QbzX) | [Nomi XD](https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM), [FR3ST](https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ), [VYRUS](https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f) | [BLAH!](https://open.spotify.com/album/5B75p8BlV3QNlZJa5gQKff) | 2:21 |
 | 12 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 13 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 14 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |

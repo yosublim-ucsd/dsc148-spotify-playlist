@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=W4ooKyZsTkKX5ZdKxoaseg"> Nali </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,839 likes - 120 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,974 likes - 120 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 17 | [Addicted to Love](https://open.spotify.com/track/5e37QnU1xWKLJflHIsAEo5) | [KAYWHT](https://open.spotify.com/artist/6yipJErUDK9GLL37qLDEje) | [Addicted to Love](https://open.spotify.com/album/2c2r7lAdeN4D8EC3imJid4) | 2:28 |
 | 18 | [Saint Tropez](https://open.spotify.com/track/32kQcoN3P27UCmDC9KrZ6l) | [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3), [Alex Slay](https://open.spotify.com/artist/3ln3LqQWM10v8nj3TC8G59) | [Saint Tropez](https://open.spotify.com/album/70hshbhNmgnyst37PWNF07) | 1:50 |
 | 19 | [In The Water](https://open.spotify.com/track/6Sm6vxBIc4v5ZsShRyDiX1) | [Cairo](https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF) | [In The Water](https://open.spotify.com/album/3tjk2jGCZcDLH14GtTlz74) | 3:49 |
-| 20 | [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:11 |
+| 20 | [2ME](https://open.spotify.com/track/03jHAZCvysDj3nnNNjKAbR) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [2ME](https://open.spotify.com/album/1jB6FYU2GM0Mytt0bc3SQK) | 2:17 |
 | 21 | [Devious](https://open.spotify.com/track/7d0ABDOslwOiECv2MAY3gy) | [Limage](https://open.spotify.com/artist/7uezObA5zpd0BUDsxnQ0Y6) | [Devious](https://open.spotify.com/album/2hKy2M6BgurczFXqcgt3Ii) | 2:44 |
 | 22 | [JAI'S SONG \(FALLING\) \- PT\. 2](https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [JAI'S SONG \(FALLING\) \[PT\. 2\]](https://open.spotify.com/album/5E9g2J6iUYTtTrOlp8HWCw) | 3:10 |
 | 23 | [Love In Writing](https://open.spotify.com/track/1WFMKXC0a8X37YgUcOdXaB) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Love In Writing](https://open.spotify.com/album/2K4iu95S71HMrssmYiN5sT) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,414 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,423 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 5 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
 | 6 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
 | 7 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 |
-| 8 | [What Else Is There \(True Electric\)](https://open.spotify.com/track/0do3QcrJuRDLATu358dd0U) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [What Else Is There \(True Electric\)](https://open.spotify.com/album/2IMzpxmuIjpsZ09Ig8CnTW) | 6:15 |
+| 8 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/0do3QcrJuRDLATu358dd0U) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/2IMzpxmuIjpsZ09Ig8CnTW) | 6:15 |
 | 9 | [Everyday](https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Everyday](https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et) | 3:40 |
 | 10 | [Hablar de Más](https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hablar de Más](https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD) | 3:34 |
 | 11 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 |

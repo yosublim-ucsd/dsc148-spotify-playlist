@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u5927\u6a4b\u3061\u3063\u307d\u3051",
-  "num_followers": 57769,
+  "num_followers": 57780,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
+        "name": "Dulcet",
+        "url": "https://open.spotify.com/album/75xBUSK7YkL3H5GTQMSpRv"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 241258,
+      "name": "\u7d76\u8776",
+      "url": "https://open.spotify.com/track/3j9yeUfShopGDJxpSxkApr"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
         "name": "GAME OVER",
         "url": "https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 204000,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
-        "name": "Dulcet",
-        "url": "https://open.spotify.com/album/75xBUSK7YkL3H5GTQMSpRv"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
-        }
-      ],
-      "duration_ms": 241258,
-      "name": "\u7d76\u8776",
-      "url": "https://open.spotify.com/track/3j9yeUfShopGDJxpSxkApr"
     },
     {
       "added_at": "2025-01-21 15:56:36",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
+        "name": "\u6717\u6717",
+        "url": "https://open.spotify.com/album/5y8wWPaqLkppnC7nmrR5Um"
+      },
+      "artists": [
+        {
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31"
+        }
+      ],
+      "duration_ms": 213191,
+      "name": "\u6717\u6717",
+      "url": "https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
         "name": "\u5909\u8eab\u306e\u30ec\u30b7\u30d4",
         "url": "https://open.spotify.com/album/597EKls2TWXky0xUjjOuRk"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 185733,
       "name": "\u9769\u547d",
       "url": "https://open.spotify.com/track/48pPtNdzDKIvTuGGS66o21"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
-        "name": "Feel Like This",
-        "url": "https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW"
-      },
-      "artists": [
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5"
     },
     {
       "added_at": "2025-01-21 15:56:36",
@@ -1087,18 +1087,50 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
-        "name": "\u6717\u6717",
-        "url": "https://open.spotify.com/album/5y8wWPaqLkppnC7nmrR5Um"
+        "name": "\u624b\u306e\u3072\u3089\u671b\u9060\u93e1",
+        "url": "https://open.spotify.com/album/6nZLHAV76GXfH2CqSBnl6O"
       },
       "artists": [
         {
-          "name": "Sato",
-          "url": "https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31"
+          "name": "\u304c\u3089\u308a",
+          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
         }
       ],
-      "duration_ms": 213191,
-      "name": "\u6717\u6717",
-      "url": "https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq"
+      "duration_ms": 186347,
+      "name": "\u5348\u5f8c\u4e8c\u6642\u306e\u901a\u308a\u96e8",
+      "url": "https://open.spotify.com/track/51Z4HhqC0DljkAmYeFDRmx"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
+        "name": "Feel Like This",
+        "url": "https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
+        "name": "\u90fd\u4f1a\u75c5",
+        "url": "https://open.spotify.com/album/1wnpmwE6gkJC9HCtHb2Mls"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 126566,
+      "name": "\u90fd\u4f1a\u75c5",
+      "url": "https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy"
     },
     {
       "added_at": "2025-01-21 15:56:36",
@@ -1123,34 +1155,18 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
-        "name": "\u624b\u306e\u3072\u3089\u671b\u9060\u93e1",
-        "url": "https://open.spotify.com/album/6nZLHAV76GXfH2CqSBnl6O"
+        "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/3JEKdUwAJRzQ6nOmudnvnn"
       },
       "artists": [
         {
-          "name": "\u304c\u3089\u308a",
-          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
         }
       ],
-      "duration_ms": 186347,
-      "name": "\u5348\u5f8c\u4e8c\u6642\u306e\u901a\u308a\u96e8",
-      "url": "https://open.spotify.com/track/51Z4HhqC0DljkAmYeFDRmx"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
-        "name": "\u90fd\u4f1a\u75c5",
-        "url": "https://open.spotify.com/album/1wnpmwE6gkJC9HCtHb2Mls"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 126566,
-      "name": "\u90fd\u4f1a\u75c5",
-      "url": "https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy"
+      "duration_ms": 226514,
+      "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2XavMBKximjgAbatCeiJQW"
     },
     {
       "added_at": "2025-01-21 15:56:36",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
-        "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/3JEKdUwAJRzQ6nOmudnvnn"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 226514,
-      "name": "\u30ef\u30fc\u30af\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/2XavMBKximjgAbatCeiJQW"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
         "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
         "url": "https://open.spotify.com/album/28DVTgvUMIxHDP7TLc2v7e"
       },
@@ -1199,26 +1199,6 @@
       "duration_ms": 203918,
       "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5finLAgliculAikONZQpwG"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
-        "name": "ringo",
-        "url": "https://open.spotify.com/album/5Faa5b7uTCsKjkIaOIkVv3"
-      },
-      "artists": [
-        {
-          "name": "Motohiro Hata",
-          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
-        },
-        {
-          "name": "Masamune Kusano",
-          "url": "https://open.spotify.com/artist/0GM2PjSpnWSepHgnY7rwkC"
-        }
-      ],
-      "duration_ms": 253126,
-      "name": "ringo",
-      "url": "https://open.spotify.com/track/27OOYYd22AmtfOtZgDy8vG"
     },
     {
       "added_at": "2025-01-21 15:56:36",
@@ -1287,6 +1267,26 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
+        "name": "ringo",
+        "url": "https://open.spotify.com/album/5Faa5b7uTCsKjkIaOIkVv3"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        },
+        {
+          "name": "Masamune Kusano",
+          "url": "https://open.spotify.com/artist/0GM2PjSpnWSepHgnY7rwkC"
+        }
+      ],
+      "duration_ms": 253126,
+      "name": "ringo",
+      "url": "https://open.spotify.com/track/27OOYYd22AmtfOtZgDy8vG"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
         "name": "Hotel New Yuma",
         "url": "https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1"
       },
@@ -1351,38 +1351,6 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
-        "name": "\u3068\u304d\u3081\u304d",
-        "url": "https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ"
-      },
-      "artists": [
-        {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
-        }
-      ],
-      "duration_ms": 181940,
-      "name": "\u3068\u304d\u3081\u304d",
-      "url": "https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
-        "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/6BzlZed8i1DMcJdToU0n4l"
-      },
-      "artists": [
-        {
-          "name": "Yu Takahashi",
-          "url": "https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/6v4ZXXpTjf3qp27clLZkMm"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
         "name": "\u30a2\u30f3\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/70hHW9KSrCVJSVdI9w6WJD"
       },
@@ -1399,6 +1367,22 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
+        "name": "\u3068\u304d\u3081\u304d",
+        "url": "https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "duration_ms": 181940,
+      "name": "\u3068\u304d\u3081\u304d",
+      "url": "https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
         "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
         "url": "https://open.spotify.com/album/33xhBqA8gGwvGbZTLFWJnq"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 193977,
       "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
       "url": "https://open.spotify.com/track/3F36vTQbeIorGh3IMDQQtd"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
+        "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/6BzlZed8i1DMcJdToU0n4l"
+      },
+      "artists": [
+        {
+          "name": "Yu Takahashi",
+          "url": "https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/6v4ZXXpTjf3qp27clLZkMm"
     },
     {
       "added_at": "2025-01-21 15:56:36",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
-        "name": "\u8ab0\u304b\u306e\u3068\u306a\u308a",
-        "url": "https://open.spotify.com/album/1Xg6KK24iPOrsL41KabhlJ"
-      },
-      "artists": [
-        {
-          "name": "Chippoke Ohashi",
-          "url": "https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "\u8ab0\u304b\u306e\u3068\u306a\u308a",
-      "url": "https://open.spotify.com/track/4UGyTsx9kbR1uWUvddRdWO"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
         "name": "BAE",
         "url": "https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
-        "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
-        "url": "https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO"
+        "name": "\u8ab0\u304b\u306e\u3068\u306a\u308a",
+        "url": "https://open.spotify.com/album/1Xg6KK24iPOrsL41KabhlJ"
       },
       "artists": [
         {
-          "name": "\u30cb\u30a4\u30ca",
-          "url": "https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV"
+          "name": "Chippoke Ohashi",
+          "url": "https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE"
         }
       ],
-      "duration_ms": 168539,
-      "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
-      "url": "https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT"
+      "duration_ms": 193000,
+      "name": "\u8ab0\u304b\u306e\u3068\u306a\u308a",
+      "url": "https://open.spotify.com/track/4UGyTsx9kbR1uWUvddRdWO"
     },
     {
       "added_at": "2025-01-21 15:56:36",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2025-01-21 15:56:36",
       "album": {
+        "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
+        "url": "https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO"
+      },
+      "artists": [
+        {
+          "name": "\u30cb\u30a4\u30ca",
+          "url": "https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV"
+        }
+      ],
+      "duration_ms": 168539,
+      "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
+      "url": "https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
         "name": "GOLD HOUR",
         "url": "https://open.spotify.com/album/2TTPto1lSjrgo5KkiDrPRw"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 328536,
       "name": "\u7a7a\u3068\u3076\u30bf\u30af\u30b7\u30fc",
       "url": "https://open.spotify.com/track/5xU0FglG9sl9gmIjSgKgXM"
+    },
+    {
+      "added_at": "2025-01-21 15:56:36",
+      "album": {
+        "name": "FAREWELL",
+        "url": "https://open.spotify.com/album/3pCb6bZV2i9nyfgXLKnyxY"
+      },
+      "artists": [
+        {
+          "name": "minako",
+          "url": "https://open.spotify.com/artist/67h5gBAkNfeClxLjrXfoRG"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "\u767a\u72c2",
+      "url": "https://open.spotify.com/track/1BgHZOruCMnqhSPTZZRhS2"
     },
     {
       "added_at": "2025-01-21 15:56:36",
@@ -1571,22 +1587,6 @@
       "duration_ms": 208053,
       "name": "\u3042\u3068\u3060\u3057",
       "url": "https://open.spotify.com/track/2jgbFVpPCG5QUgAjd55dVG"
-    },
-    {
-      "added_at": "2025-01-21 15:56:36",
-      "album": {
-        "name": "FAREWELL",
-        "url": "https://open.spotify.com/album/3pCb6bZV2i9nyfgXLKnyxY"
-      },
-      "artists": [
-        {
-          "name": "minako",
-          "url": "https://open.spotify.com/artist/67h5gBAkNfeClxLjrXfoRG"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "\u767a\u72c2",
-      "url": "https://open.spotify.com/track/1BgHZOruCMnqhSPTZZRhS2"
     },
     {
       "added_at": "2025-01-21 15:56:36",

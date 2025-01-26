@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Receta, El Frizian en portada.",
-  "num_followers": 498360,
+  "num_followers": 498588,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
+        "name": "Si Fuera F\u00e1cil",
+        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170496,
+      "name": "Si Fuera F\u00e1cil",
+      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
         "name": "Ya No Vuelvas",
         "url": "https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 213674,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
-        "name": "Si Fuera F\u00e1cil",
-        "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "Si Fuera F\u00e1cil",
-      "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 159581,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "Los Brothers 2",
         "url": "https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 238464,
       "name": "Los Brothers 2",
       "url": "https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/5pfCUQd8uhy68kQMyRsk34"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 159581,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 212563,
-      "name": "Pudiste Pero No Quisiste",
-      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "Canci\u00f3n",
         "url": "https://open.spotify.com/album/60XsCvdDOnGsXj7uJlbZZB"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 205606,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 212563,
+      "name": "Pudiste Pero No Quisiste",
+      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "LE VA DOLER",
-        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 153645,
-      "name": "LE VA DOLER",
-      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "B.M.T",
         "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 156578,
       "name": "Inconcluso",
       "url": "https://open.spotify.com/track/2ZkpJVo7z6UdGjaXz5qiCN"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "LE VA DOLER",
+        "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 153645,
+      "name": "LE VA DOLER",
+      "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "EN DONDE ESTAS",
-        "url": "https://open.spotify.com/album/6BKDDrvvXoIgYIy2ZMnZnN"
+        "name": "Me Nacio Del Alma",
+        "url": "https://open.spotify.com/album/4EoyPCA0FQxPe1d6C1BCN1"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
         }
       ],
-      "duration_ms": 196000,
-      "name": "EN DONDE ESTAS",
-      "url": "https://open.spotify.com/track/6m4wCZvfc9QKiXmyTRmlNc"
+      "duration_ms": 156386,
+      "name": "Me Naci\u00f3 Del Alma",
+      "url": "https://open.spotify.com/track/3GYDqqCfOhrB1XicSIh6AY"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Me Nacio Del Alma",
-        "url": "https://open.spotify.com/album/4EoyPCA0FQxPe1d6C1BCN1"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Me Naci\u00f3 Del Alma",
-      "url": "https://open.spotify.com/track/3GYDqqCfOhrB1XicSIh6AY"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/5mvzvOxOw2CNX9GIxB4bdh"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 155885,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/3Yh0y714GOrQYyV0eZWAyE"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "EN DONDE ESTAS",
+        "url": "https://open.spotify.com/album/6BKDDrvvXoIgYIy2ZMnZnN"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "EN DONDE ESTAS",
+      "url": "https://open.spotify.com/track/6m4wCZvfc9QKiXmyTRmlNc"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "No Mastico Culebras",
-        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 134975,
-      "name": "No Mastico Culebras",
-      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "Cuando Nadie Ve",
         "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 232533,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "No Mastico Culebras",
+        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 134975,
+      "name": "No Mastico Culebras",
+      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 207342,
+      "name": "Presiento Que Voy A Llorar",
+      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
         "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
       },
@@ -1847,22 +1863,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Y Te Vas (En Vivo)",
-        "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Y Te Vas (En Vivo)",
-      "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "Infinito",
         "url": "https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN"
       },
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Dif\u00edcil De Creer",
-        "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
+        "name": "Y Te Vas (En Vivo)",
+        "url": "https://open.spotify.com/album/0He4O7A2vn4Td82eBe9e6x"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 168736,
-      "name": "Dif\u00edcil De Creer",
-      "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
+      "duration_ms": 235230,
+      "name": "Y Te Vas (En Vivo)",
+      "url": "https://open.spotify.com/track/5JKS2pA7ry6oJhiOGE7jTa"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
+        "name": "Qu\u00e9date Conmigo Esta Noche",
+        "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Qu\u00e9date Conmigo Esta Noche",
+      "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
         "name": "Atenci\u00f3n Al Cliente",
         "url": "https://open.spotify.com/album/2KBfFANCWLTpvLUVLvl09O"
       },
@@ -1951,18 +1967,18 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Qu\u00e9date Conmigo Esta Noche",
-        "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
+        "name": "Dif\u00edcil De Creer",
+        "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
       },
       "artists": [
         {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 201706,
-      "name": "Qu\u00e9date Conmigo Esta Noche",
-      "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
+      "duration_ms": 168736,
+      "name": "Dif\u00edcil De Creer",
+      "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -1983,22 +1999,6 @@
       "duration_ms": 176494,
       "name": "El Mochomo - Live",
       "url": "https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 207342,
-      "name": "Presiento Que Voy A Llorar",
-      "url": "https://open.spotify.com/track/1DWjy0daLwn2RT94kodyty"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 148050,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/1Bfn7QA4bGOPYszK1OSciN"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
         "name": "Niveleando Cuh II",
         "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
       },
@@ -2091,22 +2107,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Pura Pieza De Mi Gusto, Vol. 2",
-        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 148050,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/1Bfn7QA4bGOPYszK1OSciN"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "TE AMAR\u00c9",
         "url": "https://open.spotify.com/album/5OdUMe822QLsNbHjULZB8Y"
       },
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "El Dorado Fue Cobre",
-        "url": "https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 200127,
-      "name": "El Dorado Fue Cobre",
-      "url": "https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb"
-    },
-    {
-      "added_at": "2025-01-05 18:40:12",
-      "album": {
         "name": "La Invitaci\u00f3n",
         "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 193960,
       "name": "La Invitaci\u00f3n",
       "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+    },
+    {
+      "added_at": "2025-01-05 18:40:12",
+      "album": {
+        "name": "El Dorado Fue Cobre",
+        "url": "https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 200127,
+      "name": "El Dorado Fue Cobre",
+      "url": "https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb"
     },
     {
       "added_at": "2025-01-05 18:40:12",
@@ -2207,18 +2207,18 @@
     {
       "added_at": "2025-01-05 18:40:12",
       "album": {
-        "name": "Coraz\u00f3n de Oropel",
-        "url": "https://open.spotify.com/album/2a3ChYHrsJ0eNYSrWMkmbP"
+        "name": "Pura Pieza De Mi Gusto, Vol. 2",
+        "url": "https://open.spotify.com/album/3a2YWdEmXOfQdLsbuNU98W"
       },
       "artists": [
         {
-          "name": "GERARDO DIAZ Y SU GERARQUIA",
-          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 181561,
-      "name": "Coraz\u00f3n de Oropel",
-      "url": "https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m"
+      "duration_ms": 138971,
+      "name": "Pago Al Contado",
+      "url": "https://open.spotify.com/track/4SkAeWC5QMk8peOQcnkibN"
     }
   ],
   "unique_name": "Norte\u00f1o 2025",

@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 230362,
+  "num_followers": 230406,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 160240,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Cub",
@@ -323,6 +307,22 @@
       "duration_ms": 202653,
       "name": "Purple",
       "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/5n7X5fHKzG6QaKAHGB7Y8A"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
     },
     {
       "added_at": "2023-08-14 10:00:14",
@@ -897,20 +897,20 @@
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
     },
     {
-      "added_at": "2023-07-04 22:20:24",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Headlands",
-        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
+        "name": "Morning Phase",
+        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
       "artists": [
         {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 282794,
-      "name": "Headlands",
-      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
+      "duration_ms": 271106,
+      "name": "Heart Is A Drum",
+      "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -927,22 +927,6 @@
       "duration_ms": 256245,
       "name": "People Always Change",
       "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Morning Phase",
-        "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Heart Is A Drum",
-      "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
     },
     {
       "added_at": "2024-05-31 19:59:04",
@@ -1009,6 +993,22 @@
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
     },
     {
+      "added_at": "2023-07-04 22:20:24",
+      "album": {
+        "name": "Headlands",
+        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "Headlands",
+      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
+    },
+    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Sink Into Me",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "If You're Feeling Sinister",
-        "url": "https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "Like Dylan in the Movies",
-      "url": "https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb"
-    },
-    {
       "added_at": "2024-03-22 16:44:40",
       "album": {
         "name": "Wild",
@@ -1055,6 +1039,22 @@
       "duration_ms": 207353,
       "name": "Be Your Boy",
       "url": "https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "If You're Feeling Sinister",
+        "url": "https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "Like Dylan in the Movies",
+      "url": "https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-09-29 10:53:41",
       "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
-      "added_at": "2023-09-29 10:53:41",
-      "album": {
         "name": "The Earth is a Very Small Dot",
         "url": "https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 236100,
       "name": "The Earth is a Very Small Dot",
       "url": "https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh"
+    },
+    {
+      "added_at": "2023-09-29 10:53:41",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2024-05-10 16:04:45",
@@ -1233,20 +1233,20 @@
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2024-08-08 19:46:47",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+        "name": "Jessie's House",
+        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
         }
       ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+      "duration_ms": 196892,
+      "name": "Jessie's House",
+      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
-      "added_at": "2024-08-08 19:46:47",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Jessie's House",
-        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
       "artists": [
         {
-          "name": "Findlay",
-          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 196892,
-      "name": "Jessie's House",
-      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2024-02-18 00:00:00",
@@ -1489,6 +1489,22 @@
       "url": "https://open.spotify.com/track/16vuy4pwheYCxp2Pyv3YRy"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "it's a landslide",
+        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "it's a landslide",
+      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
+    },
+    {
       "added_at": "2024-03-22 14:38:07",
       "album": {
         "name": "Fantasneeze (feat. Matilda Mann)",
@@ -1507,22 +1523,6 @@
       "duration_ms": 201240,
       "name": "Fantasneeze (feat. Matilda Mann)",
       "url": "https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "it's a landslide",
-        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
-      },
-      "artists": [
-        {
-          "name": "beaux",
-          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "it's a landslide",
-      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
     },
     {
       "added_at": "2024-08-08 19:46:47",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Manta Rays",
-        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Manta Rays",
-      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
-    },
-    {
       "added_at": "2024-07-12 12:27:26",
       "album": {
         "name": "2much2soon",
@@ -1611,6 +1595,22 @@
       "duration_ms": 181920,
       "name": "2much2soon",
       "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Manta Rays",
+        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Manta Rays",
+      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
     },
     {
       "added_at": "2022-08-05 10:31:40",

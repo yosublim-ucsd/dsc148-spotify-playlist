@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-438 songs - 1 day 3 hr 57 min
+439 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [In Your Arms](https://open.spotify.com/track/38LQJiREi2QNoc6iL8nTXJ) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [In Your Arms](https://open.spotify.com/album/5u6OdIduUpROG052H662kO) | 3:31 | 2024-02-15 | 2024-04-13 |
 | [Irre \- Komacasper Remix](https://open.spotify.com/track/1jlxES60xD5USpvzckJDNO) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC), [KomaCasper](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV) | [Irre](https://open.spotify.com/album/6XEuoKZxz5zuNkYFFx5doW) | 3:20 | 2023-04-27 | 2023-06-10 |
 | [Irre \- KomaCasper Remix](https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC), [KomaCasper](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV) | [Irre \(KomaCasper Remix\)](https://open.spotify.com/album/0BmdJkFTMBtqBt0d1ZwrQ4) | 3:20 | 2023-06-09 | 2024-04-19 |
-| [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 | 2023-06-29 |  |
+| [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 | 2023-06-29 | 2025-01-26 |
 | [It Feels So Good \- Conductor & The Cowboy Amnesia Mix](https://open.spotify.com/track/1iJIIQzHoNg1mKEwzEMEus) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI), [The Conductor & The Cowboy](https://open.spotify.com/artist/33N9EYlv06HF26gpMMFGZk) | [It Feels So Good](https://open.spotify.com/album/4ZLg8NqICOWQlPxVptBH4w) | 9:07 | 2024-12-28 | 2025-01-07 |
 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-04-27 | 2024-08-23 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-25 |  |
@@ -357,6 +357,7 @@
 | [Small Steps](https://open.spotify.com/track/4zYLzlHjNsAylibEcKq9RK) | [D S D](https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5) | [Small Steps](https://open.spotify.com/album/3J9RFPDX3NfQeiq0VoA3Rq) | 4:27 | 2024-08-22 | 2025-01-07 |
 | [So Lost](https://open.spotify.com/track/3d1pK4ShehtlaK3KqOsdsB) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [DJ Kirby](https://open.spotify.com/artist/5OaPThfnN888Dy4mpAEBcD) | [So Lost](https://open.spotify.com/album/46cduOYJ8bd1YURXtzDx8U) | 2:57 | 2024-08-01 | 2024-08-13 |
 | [Somebody Else](https://open.spotify.com/track/2plALALXZuxEAaTtKgY0v3) | [HRTS](https://open.spotify.com/artist/7hGFsaX8jTjQigQzzOPd9p) | [Somebody Else](https://open.spotify.com/album/4wcNaajYmHMRGDqMLApIR6) | 5:53 | 2024-08-26 | 2024-08-30 |
+| [Sound of the Underground](https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Sound of the Underground](https://open.spotify.com/album/6BPNER5Jea0HNq4tqqGWXt) | 3:06 | 2025-01-23 |  |
 | [SOÑAR](https://open.spotify.com/track/0NzmTnOl9G3GMrUCNcmMgN) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [SOÑAR](https://open.spotify.com/album/6e2n4qL9dNGUiqOzzgPq7w) | 5:37 | 2024-07-04 | 2024-07-27 |
 | [Space Invaders](https://open.spotify.com/track/4SKVcIaAP4JCr8HFRWtKqv) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Space Invaders](https://open.spotify.com/album/7uJCaBM2wxgEvy2GWggNOY) | 4:17 | 2024-12-28 | 2025-01-07 |
 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 | 2023-07-12 |  |

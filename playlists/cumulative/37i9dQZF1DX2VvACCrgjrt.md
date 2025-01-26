@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with Malaa
 
-938 songs - 2 day 0 hr 7 min
+939 songs - 2 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,7 +527,7 @@
 | [MARAVILLOSA](https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [MARAVILLOSA](https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb) | 2:32 | 2024-03-29 | 2024-11-23 |
 | [Marco Polo](https://open.spotify.com/track/4NW4WJybvYErq0HiiIzHWD) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd) | [Illegal Mixtape Vol\. 3 \[Re\-Edition\]](https://open.spotify.com/album/5C5Y4CdXLKERliiNOjBi4B) | 3:30 | 2021-10-29 | 2022-01-14 |
 | [Matha](https://open.spotify.com/track/6IUUBF1FgcO7oBLFs8xvj3) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Matha](https://open.spotify.com/album/2cBPvEFHSZTVW2Yruy7mec) | 3:05 | 2022-10-07 | 2023-06-03 |
-| [Max Out!](https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0) | [Max Out!](https://open.spotify.com/album/4DIv1Q2xgy0SqqGcR4EXk9) | 2:32 | 2024-08-02 |  |
+| [Max Out!](https://open.spotify.com/track/5MwRdodoq0DF1soaDBA4ZG) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0) | [Max Out!](https://open.spotify.com/album/4DIv1Q2xgy0SqqGcR4EXk9) | 2:32 | 2024-08-02 | 2025-01-26 |
 | [McLovin](https://open.spotify.com/track/1oSSriyVC0PHUNcfkoSMyK) | [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro) | [McLovin](https://open.spotify.com/album/2cwAoPtumKl03bx9q6y26a) | 3:29 | 2021-10-29 | 2022-05-07 |
 | [MEDUSA](https://open.spotify.com/track/3T808KZtBzAJTtZMNQR82g) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [MEDUSA](https://open.spotify.com/album/2r3XGbTst5i9ev1QVTs7Yj) | 3:03 | 2024-08-09 | 2024-10-12 |
 | [Midnight](https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Midnight](https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3) | 3:19 | 2022-07-22 | 2023-04-01 |
@@ -843,6 +843,7 @@
 | [The Power](https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [The Power](https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj) | 3:17 | 2024-06-24 |  |
 | [The Sequel](https://open.spotify.com/track/3f0C4VBTbLlEsCyybHELPW) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [The Sequel](https://open.spotify.com/album/2tvps9wX8kLJebdFgvFVST) | 3:09 | 2021-10-29 | 2022-05-28 |
 | [The Sound](https://open.spotify.com/track/6VfURLdwW6jBCu4nHdAKBm) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [The Sound](https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj) | 2:35 | 2024-08-30 |  |
+| [The Sound](https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Panorama](https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM) | 3:51 | 2025-01-24 |  |
 | [The Sound Of House](https://open.spotify.com/track/5BqlPcXL7312zS0r6nr1nZ) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [The Sound Of House](https://open.spotify.com/album/1QmtTqMYdMIGegxlOYprUI) | 2:34 | 2024-09-13 | 2024-12-25 |
 | [The Space](https://open.spotify.com/track/6SsrUmnYadQSzRY6MHm5R9) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [The Space](https://open.spotify.com/album/2mlC3yC15UnkTYM11tVAzw) | 3:06 | 2023-11-17 | 2023-12-02 |
 | [The Static](https://open.spotify.com/track/3fxvrrK7tGDWpHVhAOpZgM) | [Where It's ATT](https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD), [Veste](https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O) | [The Static](https://open.spotify.com/album/7n5fRyspBqJSZkMS4VcLCv) | 2:43 | 2021-10-29 | 2022-07-30 |

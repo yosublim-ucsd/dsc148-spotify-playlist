@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Valeria Castro.",
-  "num_followers": 335659,
+  "num_followers": 335696,
   "original_name": "Cantautoras",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "De Pana y Rub\u00ed",
-        "url": "https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Querr\u00eda",
-      "url": "https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
         "name": "Luna nueva",
         "url": "https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 239653,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/6bXhCHurSM6988FKos7DLY"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
+        "name": "De Pana y Rub\u00ed",
+        "url": "https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Querr\u00eda",
+      "url": "https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -795,6 +795,30 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
+        "name": "Solo para Ti",
+        "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "Mar\u00eda Ruiz",
+          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
+        },
+        {
+          "name": "Eva Sierra",
+          "url": "https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V"
+        }
+      ],
+      "duration_ms": 215343,
+      "name": "Solo para Ti",
+      "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 115200,
       "name": "Toda una Vida",
       "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
-        "name": "Solo para Ti",
-        "url": "https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq"
-      },
-      "artists": [
-        {
-          "name": "La Otra",
-          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
-        },
-        {
-          "name": "Mar\u00eda Ruiz",
-          "url": "https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI"
-        },
-        {
-          "name": "Eva Sierra",
-          "url": "https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V"
-        }
-      ],
-      "duration_ms": 215343,
-      "name": "Solo para Ti",
-      "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 157386,
-      "name": "Contigo en la Distancia",
-      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
         "name": "Apuntes Sobre Mi Paso por el Invierno",
         "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 256894,
       "name": "Puede Ser Que la Conozcas",
       "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 157386,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
     },
     {
       "added_at": "2025-01-09 16:18:10",

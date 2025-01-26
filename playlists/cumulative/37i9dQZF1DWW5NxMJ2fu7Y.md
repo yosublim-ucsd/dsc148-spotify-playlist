@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-126 songs - 7 hr 5 min
+127 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Galess Fdar](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 | 2024-08-02 | 2025-01-13 |
 | [Getafe](https://open.spotify.com/track/7MpbWOY0wbpdNCdXbeoCeV) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/0tpHKF7aOnredOpDRKRsTi) | 4:27 | 2025-01-01 |  |
 | [Getafe](https://open.spotify.com/track/4OeschE7uVqNOJc95EhK1d) | [ReleaseX](https://open.spotify.com/artist/13jSGmeVu5dbEm4z7Rxjt6), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO \(Deleted\)](https://open.spotify.com/album/1rOpXrw9XymF2ywzE5Rc14) | 4:27 | 2024-11-19 | 2025-01-02 |
+| [Gospel](https://open.spotify.com/track/1aDxG3kCAjBXBKz7IdrIKN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:36 | 2025-01-25 |  |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2024-10-03 |  |
 | [HKAYA](https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HKAYA](https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw) | 3:18 | 2024-07-22 |  |
 | [Honesty](https://open.spotify.com/track/2jh8usSMjNvJlLi3Zs8S0E) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Honesty](https://open.spotify.com/album/6xaWZ1TZRPGEU3hdR6fAtp) | 2:50 | 2024-02-29 | 2024-10-23 |
@@ -96,7 +97,7 @@
 | [Obscurité \(feat\. Hamza\)](https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 4:45 | 2024-02-29 |  |
 | [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 | 2024-02-29 |  |
 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 | 2024-11-08 |  |
-| [Paroles](https://open.spotify.com/track/6uh1U3KqmmhPWtgskdKH4h) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paroles](https://open.spotify.com/album/5XUXJPa45A8pegZHEPFQyZ) | 3:39 | 2024-10-17 |  |
+| [Paroles](https://open.spotify.com/track/6uh1U3KqmmhPWtgskdKH4h) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paroles](https://open.spotify.com/album/5XUXJPa45A8pegZHEPFQyZ) | 3:39 | 2024-10-17 | 2025-01-26 |
 | [Pay No Mind](https://open.spotify.com/track/0pi2GFDC2vil6vNBnrAfIs) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Pay No Mind](https://open.spotify.com/album/1ifgTPxQGemh21M0crASb2) | 3:28 | 2024-02-29 | 2024-07-23 |
 | [Pique](https://open.spotify.com/track/5Vjltk6vzyv7TIy7efAYUe) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Pique](https://open.spotify.com/album/1qbpzPEsfyjdAdpvK1hEbm) | 2:24 | 2024-02-29 | 2024-07-23 |
 | [Potion Mystère](https://open.spotify.com/track/10re1QtJMJsN11jqBemWk8) | [Namak](https://open.spotify.com/artist/7vWqf60gZHRBi9D66Uak2y), [Shr](https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp) | [2024](https://open.spotify.com/album/1IM59QiW2IUmoSn0Fm77Io) | 2:38 | 2024-11-10 | 2024-11-20 |

@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-219 songs - 16 hr 19 min
+220 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Endless Jasmine](https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Sleep Through the Storm](https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7) | 4:53 | 2023-02-17 |  |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/2IBgNoMfGUTBEM3HGAKwrR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/7khd4wP2FmUO6uPVSQ9r8y) | 6:59 | 2023-02-17 | 2024-04-19 |
 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 | 2023-02-17 | 2025-01-20 |
-| [Eyen](https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:20 | 2023-02-17 |  |
+| [Eyen](https://open.spotify.com/track/4VJBvbJO0hb8rbksWMwVyC) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Double Figure](https://open.spotify.com/album/66PrP4FdZczQ4MlnElUduw) | 4:20 | 2023-02-17 | 2025-01-26 |
 | [Eyen](https://open.spotify.com/track/0w1P0lcWUKniBbJfcz8Hvy) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Benet Walsh](https://open.spotify.com/artist/4MqsYgT5rDgG907p84pzIY) | [Double Figure](https://open.spotify.com/album/3194Mf7OpqJqCGJpv9lRFB) | 4:20 | 2023-02-17 | 2024-04-19 |
 | [Fahrenheit Fair Enough](https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh) | [Telefon Tel Aviv](https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC) | [Fahrenheit Fair Enough](https://open.spotify.com/album/27teXombBxDGNa9f5jtOr2) | 6:40 | 2023-02-17 |  |
 | [Falaise](https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Crush](https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z) | 3:54 | 2023-02-17 |  |
@@ -153,6 +153,7 @@
 | [Ripples](https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5) | [下村真一](https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97) | [みぞうふく](https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y) | 6:28 | 2023-02-17 |  |
 | [Rockledge 3A](https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak) | 4:36 | 2023-02-17 | 2024-08-30 |
 | [Rockledge 3A](https://open.spotify.com/track/2zj92WTGAoXgdXXv0TjS6W) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/48llH65qm1x3kOmAyXES7v) | 4:36 | 2023-02-17 | 2024-04-19 |
+| [Room 1](https://open.spotify.com/track/5ZMJjVSuEY8yCTKALwqu9N) | [36](https://open.spotify.com/artist/1lcSbVHDXu6h6H6vIRDBhT) | [The Infinity Room](https://open.spotify.com/album/3cX8n1RFLSQF0C1hcWi9QH) | 3:56 | 2025-01-25 |  |
 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 | 2023-02-17 | 2024-04-19 |
 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 | 2023-02-17 |  |
 | [Run](https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run](https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6) | 5:11 | 2023-02-17 |  |

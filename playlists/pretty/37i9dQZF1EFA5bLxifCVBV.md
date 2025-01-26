@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 8 | [I Recall A Gypsy Woman](https://open.spotify.com/track/2RXRm46VHpP7VFfYawtM38) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Volume One](https://open.spotify.com/album/636jxOsNtMC0sFZaRhpJ3p) | 3:24 |
 | 9 | [You Held the World in Your Arms](https://open.spotify.com/track/7rEiFVf9fu4mwuQSCHrEiI) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 3:22 |
 | 10 | [Real Thing](https://open.spotify.com/track/5BlGeaBUZ08loIM5TGXEkg) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Heart of Mine](https://open.spotify.com/album/46gUVHCEYikqQICidNn8ey) | 5:33 |
-| 11 | [Spiral \- Mono](https://open.spotify.com/track/6je0YNzNoeqXpKpTaL98Hu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:00 |
-| 12 | [Necessity](https://open.spotify.com/track/7yRutQD7CQqKJYE13IQwSc) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [John Digweed Live In Brooklyn New York](https://open.spotify.com/album/3HcNrDLUKxi9MWp0YheALq) | 7:49 |
+| 11 | [Necessity](https://open.spotify.com/track/7yRutQD7CQqKJYE13IQwSc) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [John Digweed Live In Brooklyn New York](https://open.spotify.com/album/3HcNrDLUKxi9MWp0YheALq) | 7:49 |
+| 12 | [Spiral \- Mono](https://open.spotify.com/track/6je0YNzNoeqXpKpTaL98Hu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Mono\)](https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t) | 6:00 |
 | 13 | [Brother Can You Spare a Dime?](https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 4:23 |
 | 14 | [Hey! Bo Diddley](https://open.spotify.com/track/0Stq0NVgLIXyrAN5tLvyIt) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:10 |
 | 15 | [The Farm](https://open.spotify.com/track/4x7aHltFuUA83Hti0wbnUA) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:28 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 192 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 | 193 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `AbnwLAAAAAATwf5rq90EWlAPyTDlIbbI`
+Snapshot ID: `Abn1/wAAAAAoGkZGS+G4vmPmmJB5aLej`

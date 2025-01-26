@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=Mqh0sB44Qk2pfbu7iBX7rQ"> Wakadinali</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,985 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,021 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 45 | [Baddest Ever](https://open.spotify.com/track/3CqNl6iaUVpsAzXsl6mj7N) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [Baddest Ever](https://open.spotify.com/album/4BhPEacIUL3ct2wMvGteaS) | 3:14 |
 | 46 | [Umva](https://open.spotify.com/track/1xDQyK9rVrlPDdiwtZaIGN) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Umva](https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S) | 3:23 |
 | 47 | [Small wins](https://open.spotify.com/track/3QX2TglLVg7pr17fda1r4S) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z) | [SABA \(deluxe\)](https://open.spotify.com/album/2I511espR2plvo7PUMZI9r) | 3:12 |
-| 48 | [Money Talks](https://open.spotify.com/track/0laxguEK88Fn3sXUhuPF21) | [Sora ODG](https://open.spotify.com/artist/4DFcd0At4EozxRkWUxXHEx), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt), [Sxddar](https://open.spotify.com/artist/2pqUV4obCHNB70NpxBjk6E) | [Money Talks](https://open.spotify.com/album/0IxqwSpu9bhrCffTByK2dD) | 2:12 |
+| 48 | [Money Talks](https://open.spotify.com/track/0laxguEK88Fn3sXUhuPF21) | [Sora ODG](https://open.spotify.com/artist/4DFcd0At4EozxRkWUxXHEx), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt), [Sxddar](https://open.spotify.com/artist/2HKtDOrfbu7JYtYJtav5p8) | [Money Talks](https://open.spotify.com/album/0IxqwSpu9bhrCffTByK2dD) | 2:12 |
 | 49 | [Joy Kendi](https://open.spotify.com/track/15ChBy7aLI3B4UWhW8pnWw) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Joy Kendi](https://open.spotify.com/album/3GuSzxFzt5mbNL53tX1Zd6) | 2:32 |
 | 50 | [I know](https://open.spotify.com/track/6p7FuImwcfRX5FcrSPpU73) | [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6) | [I know](https://open.spotify.com/album/6HSxA2loAse8bClFWUpxWe) | 2:14 |
 | 51 | [Wagwan](https://open.spotify.com/track/00SXt8iGO5T9IKjzhPIiW3) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [Dr.Reign](https://open.spotify.com/artist/6mSsNtNTzXwsupuE0tPfk9) | [Wagwan](https://open.spotify.com/album/0FHeoRLsm7qVaKDE1LzYwa) | 2:59 |

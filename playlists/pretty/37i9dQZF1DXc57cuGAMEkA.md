@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Sexyy Red & Bruno Mars, Creepy Nuts, Teddy Swims, Central Cee, Tate McRae and more! cover: Sexyy Red & Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,338 likes - 83 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,385 likes - 83 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 56 | [ただひとつ](https://open.spotify.com/track/6fpku9wNCHHIMUIsBlgzMc) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [ただひとつ](https://open.spotify.com/album/0uDG3I5HxXDJHOXqA0YAFg) | 3:37 |
 | 57 | [ハッピー世界！](https://open.spotify.com/track/5aXUoXLlnpHx1MfEt0mEpu) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [ハッピー世界！](https://open.spotify.com/album/2bLW1ZNnnfQUtHeZ5nKuns) | 3:44 |
 | 58 | [Bunny Girl \- heiakim Remix](https://open.spotify.com/track/4i0oNWkpE7HRjGTuFCPlXI) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [Bunny Girl \(heiakim Remix\)](https://open.spotify.com/album/1pK1SF8M3yLodIgMf8ZGXI) | 3:11 |
-| 59 | [Gravity \- JPN Version](https://open.spotify.com/track/3fgcePhgeE0yDg8sJs61O0) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune: Rewired](https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B) | 2:54 |
+| 59 | [Gravity \- JPN Version](https://open.spotify.com/track/3fgcePhgeE0yDg8sJs61O0) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune: Rewired](https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B) | 2:57 |
 | 60 | [Miracle](https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Miracle](https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL) | 2:57 |
 | 61 | [Who Laughs Last \(feat\. Kristen Stewart\)](https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Kristen Stewart](https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6) | [Who Laughs Last](https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD) | 4:43 |
 | 62 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 |
 | 63 | [Is It Just Me?](https://open.spotify.com/track/3BUKSDaklrjVckSi8JUCmr) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Is It Just Me?](https://open.spotify.com/album/180pxFgUrC6nG3pfo37Yr8) | 2:59 |
 | 64 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 |
-| 65 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(DELUXE\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
+| 65 | [jupiter](https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [DIVE \(deluxe\)](https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6) | 3:02 |
 | 66 | [You'll Get There in The End](https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [You'll Get There in The End](https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n) | 3:06 |
 | 67 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 |
 | 68 | [Ready To Love](https://open.spotify.com/track/4172S3BC4ViI5biWFakPuO) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [NGL](https://open.spotify.com/album/4veaG4MuOfmgfq0r45Y5Z3) | 2:54 |
