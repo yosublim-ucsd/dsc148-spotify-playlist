@@ -2085,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "YO NO SOY CELOSO (En Vivo)",
+        "url": "https://open.spotify.com/album/5orwrnYkL5u7Thu3DmhBRo"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Nuevo Regimen",
+          "url": "https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231125,
+      "name": "YO NO SOY CELOSO - En Vivo",
+      "url": "https://open.spotify.com/track/7nzpSyN3g8VLoKiBOIxtiX"
+    },
+    {
+      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1"
       },

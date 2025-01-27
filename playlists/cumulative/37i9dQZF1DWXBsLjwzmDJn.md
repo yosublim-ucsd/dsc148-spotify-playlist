@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXBsLjwzmDJn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXBsLjwzmDJn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXBsLjwzmDJn)
 
-### [Tokyo Revengers \-東京リベンジャーズ\-](https://open.spotify.com/playlist/37i9dQZF1DWXBsLjwzmDJn)
+### [Tokyo Revengers ](https://open.spotify.com/playlist/37i9dQZF1DWXBsLjwzmDJn)
 
-> Enjoy music from "TOKYO REVENGERS"! /アニメ&実写版の音楽で辿る「東京リベンジャーズ」の世界。Ⓒ和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
+> Enjoy music from "TOKYO REVENGERS"! Ⓒ和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
 117 songs - 6 hr 34 min
 

@@ -17979,6 +17979,28 @@
     },
     {
       "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "Drums of Death",
+      "url": "https://open.spotify.com/track/13QINbzgh3yta5OGvB77Pl"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -30048,7 +30070,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 213010,
       "name": "LA MuDANZA",
       "url": "https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm"
@@ -31172,7 +31194,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -57767,6 +57789,32 @@
     },
     {
       "album": {
+        "name": "Tamb\u00e9m",
+        "url": "https://open.spotify.com/album/7pAkOFYG9LALzbJZl1FVlc"
+      },
+      "artists": [
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Dj Terrorista",
+          "url": "https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC"
+        },
+        {
+          "name": "DJ Tacinho",
+          "url": "https://open.spotify.com/artist/1j7PjmYNRQUYk1xNfPDox7"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/3mR8h8YKamYcrzW6jZhLw3"
+    },
+    {
+      "album": {
         "name": "Tando",
         "url": "https://open.spotify.com/album/1CuAuA3zQlS8y1PzvQc2Dj"
       },
@@ -66998,7 +67046,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 495857,
       "name": "\u00c9 Ele",
       "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"
@@ -67224,7 +67272,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 227040,
       "name": "\u00c9 Preciso Dar Um Jeito, Meu Amigo",
       "url": "https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5"

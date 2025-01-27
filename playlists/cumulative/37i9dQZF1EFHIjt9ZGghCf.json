@@ -2559,6 +2559,28 @@
     },
     {
       "album": {
+        "name": "Chapel Sessions (Vol. 2)",
+        "url": "https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ahjah Walls",
+          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280746,
+      "name": "Peace Of God",
+      "url": "https://open.spotify.com/track/1BcIvrdxFt6eHdMXMve4BU"
+    },
+    {
+      "album": {
         "name": "Potter and Friend (feat. Jesse Cline)",
         "url": "https://open.spotify.com/album/0rZIRoeYANHTmhPiATIWGc"
       },

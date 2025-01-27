@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Ghaleban",
+        "url": "https://open.spotify.com/album/4oZxZrNPAd9o3AjWzitwI5"
+      },
+      "artists": [
+        {
+          "name": "Akhras",
+          "url": "https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151551,
+      "name": "Ghaleban",
+      "url": "https://open.spotify.com/track/0hHZeRGZ0qHflTACfJxUsI"
+    },
+    {
+      "album": {
         "name": "Ghareeb Alay",
         "url": "https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl"
       },
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 176042,
       "name": "Min Elyoam",
       "url": "https://open.spotify.com/track/7s2MoziQ8ohwoXmt6gL0IV"

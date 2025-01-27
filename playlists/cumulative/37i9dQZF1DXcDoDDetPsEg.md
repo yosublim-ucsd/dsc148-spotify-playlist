@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Jordan Adetunji, Bryson Tiller
 
-1,420 songs - 2 day 23 hr 56 min
+1,421 songs - 2 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Cast](https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Presido La Pluto](https://open.spotify.com/album/14VJEhvxRCOsNtcwjjBxwR) | 2:09 | 2024-01-26 | 2024-03-22 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-24 | 2024-06-22 |
 | [Cautionary Tales](https://open.spotify.com/track/5sx0Pp7jnHnQhejHvaho5J) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Can't Decide 3P](https://open.spotify.com/album/5fodg3Betf8H5oQv85k6a9) | 2:40 | 2024-11-29 |  |
+| [CDM](https://open.spotify.com/track/1X239ImiUJIzLXg3wrwL0t) | [MLizzy](https://open.spotify.com/artist/5Bqip4LZ02SIxpKq2tI5Fz) | [CDM](https://open.spotify.com/album/0oTlunXYhIZyxORjrgt6BG) | 2:38 | 2025-01-27 |  |
 | [Changed](https://open.spotify.com/track/1WGBWR2aLN3OINfGUciu8U) | [JBee](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq), [CRYSTAL MILLZ](https://open.spotify.com/artist/4m6b6oz86f2r7SES5fQKEO) | [Changed](https://open.spotify.com/album/50AdhgOPWfkkzwXStLOCz9) | 3:12 | 2022-06-30 | 2022-08-24 |
 | [Charlie Sloth](https://open.spotify.com/track/4HKhE9L4dY6Y9LfKRr2ISn) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [MizOrMac](https://open.spotify.com/artist/6qJxjpZgvj3NJGKMkFakpA) | [Charlie Sloth](https://open.spotify.com/album/2U8xCB7aEyntnN7idj6LfI) | 2:54 | 2024-10-10 | 2024-12-13 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-28 | 2023-06-30 |
@@ -1246,7 +1247,7 @@
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-22 | 2024-03-22 |
 | [The One](https://open.spotify.com/track/75DRmgr7StSIMJqIDN2jHH) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [The One](https://open.spotify.com/album/2FhG2P32MEmsTHr4t0I7ht) | 2:52 | 2022-11-11 | 2023-03-09 |
 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 | 2023-09-16 | 2023-09-19 |
-| [The Robbery](https://open.spotify.com/track/1M9Zgv0VTCDkCul2xXqwR9) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [The Robbery](https://open.spotify.com/album/0fDZuLYgEpcAbaVU1kF4XZ) | 2:43 | 2024-11-08 |  |
+| [The Robbery](https://open.spotify.com/track/1M9Zgv0VTCDkCul2xXqwR9) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [The Robbery](https://open.spotify.com/album/0fDZuLYgEpcAbaVU1kF4XZ) | 2:43 | 2024-11-08 | 2025-01-27 |
 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 | 2023-07-20 | 2023-11-11 |
 | [The Worst](https://open.spotify.com/track/2sz0VnSDdEM5CS61ewwgaV) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [The Worst](https://open.spotify.com/album/649x6RShwv8rO3BemVsdbs) | 3:14 | 2022-03-25 | 2022-05-06 |
 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 | 2023-04-14 | 2023-05-19 |

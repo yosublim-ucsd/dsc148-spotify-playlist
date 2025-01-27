@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 165078,
       "name": "Everything I Cannot Live Without",
       "url": "https://open.spotify.com/track/0Hrym1LG1NPNSH0n7Ke7A5"
@@ -1026,6 +1026,24 @@
     {
       "album": {
         "name": "There Is Only You",
+        "url": "https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245880,
+      "name": "Kevin Costner",
+      "url": "https://open.spotify.com/track/2QGAOYn3MV4s1GjEGzOEIq"
+    },
+    {
+      "album": {
+        "name": "There Is Only You",
         "url": "https://open.spotify.com/album/0D8FcMKT9NRdJ2KoqSajEh"
       },
       "artists": [
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 202550,
       "name": "Kids On Drugs",
       "url": "https://open.spotify.com/track/5JZKRfxtw70OBNY1dSrJlW"
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 165334,
       "name": "Lust In Translation",
       "url": "https://open.spotify.com/track/7KVn75EGzjgomi0hAKSHcU"

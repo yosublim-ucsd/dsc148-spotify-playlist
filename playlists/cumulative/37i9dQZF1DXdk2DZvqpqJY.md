@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-470 songs - 1 day 4 hr 49 min
+471 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Jour Soleil](https://open.spotify.com/track/2vFmsUYWbYrZShKIaVntQm) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [Jour Soleil](https://open.spotify.com/album/4U8gL5ZAxh9letyUEivtRY) | 4:32 | 2023-02-08 | 2023-03-21 |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-04-20 |  |
 | [Jumbled](https://open.spotify.com/track/4GRqG2sOqaHKnHkkMaiuMF) | [Rob Araujo](https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9) | [THE HEIST](https://open.spotify.com/album/0pTmaOqNhIt4Szm0l5pM8W) | 3:25 | 2022-06-02 | 2023-04-25 |
+| [Juniper](https://open.spotify.com/track/4BAFA7tVUyfkxKY0NGynzn) | [Lotus Trio](https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz) | [Juniper](https://open.spotify.com/album/1ZZH0jPrpVkMDP7DFNCTtH) | 3:43 | 2025-01-15 |  |
 | [Just Wrong](https://open.spotify.com/track/20B96sgEcofUFcwtvWxXfK) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Just Wrong](https://open.spotify.com/album/17YsrMtHDv5KmqLWeqcAVd) | 4:44 | 2022-02-24 | 2022-04-28 |
 | [Keep It Simple](https://open.spotify.com/track/6aJUOfoLUBcZqc1emenF1F) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Keep It Simple](https://open.spotify.com/album/4pwU7mmJ6jB0K2LdjzfVPZ) | 3:43 | 2023-05-04 | 2024-01-22 |
 | [KNFYTNM](https://open.spotify.com/track/32xteHW5eOsL406D6a5uf1) | [Brothers Of My Uncle](https://open.spotify.com/artist/4bVktS3aLOw3TDNe320GxO), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA), [Tane](https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3) | [Saucy Experiments](https://open.spotify.com/album/3pT0BraDKSpJ24WtUruJ6n) | 2:55 | 2022-06-02 | 2023-03-21 |
@@ -264,7 +265,7 @@
 | [My Ideal](https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [My Ideal](https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg) | 3:12 | 2025-01-15 |  |
 | [My lids closed down](https://open.spotify.com/track/130PBtsuj1VyxWdn3fhN46) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [My lids closed down](https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll) | 3:51 | 2023-03-20 |  |
 | [My Lonely Days Are Over](https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [My Lonely Days Are Over](https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9) | 3:50 | 2023-03-20 |  |
-| [My Midnight Velvet](https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [My Midnight Velvet](https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH) | 3:38 | 2024-11-18 |  |
+| [My Midnight Velvet](https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [My Midnight Velvet](https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH) | 3:38 | 2024-11-18 | 2025-01-27 |
 | [My Piano](https://open.spotify.com/track/4aoq1u9tdtIrEqYrg08f85) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [My Piano](https://open.spotify.com/album/5SmLllAt9qvYK5yi0BbueG) | 3:42 | 2024-08-20 |  |
 | [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 | 2023-10-27 |  |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-18 | 2022-11-17 |

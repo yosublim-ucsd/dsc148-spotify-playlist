@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5UhvY4JBo1i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5UhvY4JBo1i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5UhvY4JBo1i)
 
-### [Detective Conan 名探偵コナン](https://open.spotify.com/playlist/37i9dQZF1DX5UhvY4JBo1i)
+### [Detective Conan](https://open.spotify.com/playlist/37i9dQZF1DX5UhvY4JBo1i)
 
-> Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
+> Enjoy music from "Detective Conan"! ©2024 青山剛昌／名探偵コナン製作委員会
 
 139 songs - 11 hr 20 min
 

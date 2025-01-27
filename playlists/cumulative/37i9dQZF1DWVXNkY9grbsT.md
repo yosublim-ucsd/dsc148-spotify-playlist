@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-443 songs - 1 day 12 hr 51 min
+444 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Crypt](https://open.spotify.com/track/3aRW4dPpIzTOVoLm9aIT2A) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Keep Going..\. Under](https://open.spotify.com/album/0V6ZruB2SwjUuN2AaFJG4p) | 5:10 | 2021-12-26 | 2023-08-12 |
 | [Cult of Isis](https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 7:41 | 2023-12-01 | 2024-03-22 |
 | [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 | 2023-08-18 | 2024-09-07 |
-| [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 |  |
+| [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 | 2025-01-27 |
 | [Cycles](https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 4:11 | 2023-05-05 | 2025-01-15 |
 | [daltabaix](https://open.spotify.com/track/4oT3HoWaRhOLkxmVFbeDbH) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/6MbMttWnGjUDCwdfjEQf31) | 4:40 | 2022-01-23 | 2023-08-12 |
 | [Decay Time \- Extended Mix](https://open.spotify.com/track/2X1mzN8hQoSRzHtVOC4Z9z) | [Maxwell Sterling](https://open.spotify.com/artist/0bXOAY3HryVuSfQLmip6VR) | [Decay Time \(Extended Mix\)](https://open.spotify.com/album/5qHAzo402psMmFfOfvLL0W) | 6:21 | 2022-04-01 | 2023-05-13 |
@@ -299,6 +299,7 @@
 | [Perpetuum Mobile \- Civilistjävel! Dub](https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A) | [Death and Vanilla](https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt), [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Reimagined by Civilistjävel!](https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK) | 8:15 | 2023-08-04 | 2024-10-28 |
 | [Phaedra](https://open.spotify.com/track/3GG5A7ugKwKqtxAOvSwuF8) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 3:33 | 2021-12-26 | 2023-06-28 |
 | [Phaedra](https://open.spotify.com/track/7trmMwOb7JW4xQlUVFPoZy) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 3:33 | 2023-06-29 | 2023-08-12 |
+| [Plants](https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 3:38 | 2025-01-24 |  |
 | [Plonk III](https://open.spotify.com/track/3kilgBTpr97Ef1v3x6rTeJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/0URcDAZuAvHu1pNFPekiL5) | 6:22 | 2022-02-25 | 2022-03-04 |
 | [Plonk VI](https://open.spotify.com/track/0Jae6ZMQ6BTe0FjdFA3lwJ) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk VI](https://open.spotify.com/album/54mRSjdlk3TO9xQpcMDCok) | 9:24 | 2021-12-26 | 2022-07-29 |
 | [Plonk VI](https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU) | 9:24 | 2022-09-20 | 2023-08-12 |

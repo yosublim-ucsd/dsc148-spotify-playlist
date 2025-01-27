@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Yoa.
 
-1,826 songs - 4 day 2 hr 55 min
+1,827 songs - 4 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 | 2022-06-29 | 2023-05-09 |
 | [Filme moi](https://open.spotify.com/track/7f8ep7LmhUvhEIvlDfb9cj) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/064Xtihg61dRk2MPOXUU5P) | 3:29 | 2022-03-24 | 2022-07-29 |
 | [Filme moi](https://open.spotify.com/track/7w5xMDqwZKMZYmLgdrncte) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Filme moi](https://open.spotify.com/album/1c0vf4zZCILOArfcM8jpUK) | 3:29 | 2022-06-29 | 2022-08-02 |
+| [Find a Way](https://open.spotify.com/track/2SH1fMTuhPQt49xeLXQ6xi) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Find a Way](https://open.spotify.com/album/08S96gDKVPfwDFeLttFZpI) | 3:20 | 2025-01-24 |  |
 | [find your own](https://open.spotify.com/track/64W7JQPeshk6EcT02XbYUP) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [find your own](https://open.spotify.com/album/0cT4iKCq6y1FfXjcaMTqqC) | 3:16 | 2024-08-16 | 2024-10-05 |
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-08-01 | 2022-09-16 |
 | [Finto cielo](https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [DUMBA](https://open.spotify.com/album/2CQnHbVVhkjReejy5XKOCO) | 2:20 | 2024-05-17 | 2024-07-09 |
@@ -1231,7 +1232,7 @@
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-03-24 | 2022-04-10 |
 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 | 2023-09-01 | 2024-01-20 |
 | [Radio](https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Radio](https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0) | 3:10 | 2022-03-24 | 2022-08-02 |
-| [Ragdoll](https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Ragdoll](https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw) | 3:03 | 2024-08-16 |  |
+| [Ragdoll](https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Ragdoll](https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw) | 3:03 | 2024-08-16 | 2025-01-27 |
 | [Randomowe noce](https://open.spotify.com/track/2cnLvmsaqXJ46GVbtd6qtR) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Randomowe noce](https://open.spotify.com/album/5nMxp5U3ENlLByqe6vWNTv) | 2:16 | 2024-06-21 | 2024-06-25 |
 | [Rangi Saari](https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Rangi Saari](https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK) | 3:34 | 2022-03-03 | 2023-01-28 |
 | [Rave Angel](https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Rave Angel](https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3) | 3:19 | 2024-01-19 | 2024-05-18 |

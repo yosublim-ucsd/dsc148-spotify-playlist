@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZGsHBsK4oa7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZGsHBsK4oa7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZGsHBsK4oa7)
 
-### [Pretty Guardian Sailor Moon \-美少女戦士セーラームーン\-](https://open.spotify.com/playlist/37i9dQZF1DWZGsHBsK4oa7)
+### [Pretty Guardian Sailor Moon](https://open.spotify.com/playlist/37i9dQZF1DWZGsHBsK4oa7)
 
-> Music From "Pretty Guardian Sailor Moon"! 歴代シリーズの名曲と辿る「美少女戦士セーラームーン」の世界! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
+> Music From "Pretty Guardian Sailor Moon"! ©武内直子・PNP／劇場版「美少女戦士セーラームーンCosmos」製作委員会
 
 73 songs - 5 hr 26 min
 

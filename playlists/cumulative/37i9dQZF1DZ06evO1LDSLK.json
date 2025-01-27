@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Live At Montreux Jazz Festival 2023",
+        "url": "https://open.spotify.com/album/2aXukTPTeon2XDKJfvizwC"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210607,
+      "name": "T.V. Eye - Live At Montreux Jazz Festival 2023",
+      "url": "https://open.spotify.com/track/41cMfG3oTljBYNIfso2rl7"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: FouKi",
-  "num_followers": 43406,
+  "num_followers": 43412,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,30 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
+        "name": "Brrr",
+        "url": "https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s"
+      },
+      "artists": [
+        {
+          "name": "Kore",
+          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 130451,
+      "name": "Brrr",
+      "url": "https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
         "name": "La pluie",
         "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
       },
@@ -559,30 +583,6 @@
       "duration_ms": 216261,
       "name": "POP (feat. La Mano 1.9)",
       "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
-        "name": "Brrr",
-        "url": "https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s"
-      },
-      "artists": [
-        {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 130451,
-      "name": "Brrr",
-      "url": "https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L"
     },
     {
       "added_at": "2025-01-24 05:00:45",
@@ -655,38 +655,6 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
-        "name": "Essonne History X",
-        "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
-      },
-      "artists": [
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "Belle madame",
-      "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
         "name": "BIG BODY",
         "url": "https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu"
       },
@@ -711,22 +679,6 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
-        "name": "Vendredi soir",
-        "url": "https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY"
-      },
-      "artists": [
-        {
-          "name": "JKSN",
-          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vendredi soir",
-      "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
         "name": "2, 3 shots",
         "url": "https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh"
       },
@@ -743,6 +695,54 @@
       "duration_ms": 153170,
       "name": "2, 3 shots",
       "url": "https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "Vendredi soir",
+        "url": "https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY"
+      },
+      "artists": [
+        {
+          "name": "JKSN",
+          "url": "https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vendredi soir",
+      "url": "https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "Essonne History X",
+        "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "duration_ms": 164533,
+      "name": "Belle madame",
+      "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
     },
     {
       "added_at": "2025-01-24 05:00:45",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/57GrVq3zhyHIZWOfKTh5md"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 156750,
       "name": "Flex",
       "url": "https://open.spotify.com/track/0LwadPsG8McSabXIITkIGF"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     },
     {
       "added_at": "2025-01-24 05:00:45",

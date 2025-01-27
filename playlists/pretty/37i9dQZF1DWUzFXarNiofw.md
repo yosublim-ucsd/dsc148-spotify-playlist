@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jordan Adetunji
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,154 likes - 154 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,239 likes - 154 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 335043,
+  "num_followers": 335049,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2025-01-24 08:51:14",
       "album": {
-        "name": "Are You Even Real (feat. Giv\u0113on)",
-        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 147702,
-      "name": "Are You Even Real (feat. Giv\u0113on)",
-      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
-    },
-    {
-      "added_at": "2025-01-24 08:51:14",
-      "album": {
         "name": "Wynalazek Filipa Golarza",
         "url": "https://open.spotify.com/album/3Q19KxzahiApKSwqFb1CGz"
       },
@@ -327,6 +307,22 @@
       "duration_ms": 228000,
       "name": "Wynalazek Filipa Golarza",
       "url": "https://open.spotify.com/track/2PrnvpGByWnjgt5jEk7XqG"
+    },
+    {
+      "added_at": "2025-01-24 08:51:14",
+      "album": {
+        "name": "intro + up! up! up!",
+        "url": "https://open.spotify.com/album/0lonx6kXB21iLRpdkgv78L"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 190975,
+      "name": "up! up! up!",
+      "url": "https://open.spotify.com/track/1PlysCdOuMYvE8imkyvHLx"
     },
     {
       "added_at": "2025-01-24 08:51:14",
@@ -363,18 +359,22 @@
     {
       "added_at": "2025-01-24 08:51:14",
       "album": {
-        "name": "intro + up! up! up!",
-        "url": "https://open.spotify.com/album/0lonx6kXB21iLRpdkgv78L"
+        "name": "Are You Even Real (feat. Giv\u0113on)",
+        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
       },
       "artists": [
         {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 190975,
-      "name": "up! up! up!",
-      "url": "https://open.spotify.com/track/1PlysCdOuMYvE8imkyvHLx"
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
     },
     {
       "added_at": "2025-01-24 08:51:14",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-01-24 08:51:14",
       "album": {
-        "name": "Worlds Collide (Inspired by Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "Worlds Collide (Inspired by Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
-    },
-    {
-      "added_at": "2025-01-24 08:51:14",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 202652,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq"
+    },
+    {
+      "added_at": "2025-01-24 08:51:14",
+      "album": {
+        "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 182173,
+      "name": "Worlds Collide (Inspired by Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x"
     },
     {
       "added_at": "2025-01-24 08:51:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-01-24 08:51:14",
       "album": {
-        "name": "Cats on the Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats on the Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
-    },
-    {
-      "added_at": "2025-01-24 08:51:14",
-      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2025-01-24 08:51:14",
       "album": {
-        "name": "Wi\u0119cej",
-        "url": "https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE"
+        "name": "Cats on the Ceiling",
+        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
       },
       "artists": [
         {
-          "name": "Carla Fernandes",
-          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
         }
       ],
-      "duration_ms": 153024,
-      "name": "Wi\u0119cej",
-      "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
+      "duration_ms": 213080,
+      "name": "Cats on the Ceiling",
+      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
     },
     {
       "added_at": "2025-01-24 08:51:14",
@@ -635,6 +619,22 @@
       "duration_ms": 225550,
       "name": "Komary",
       "url": "https://open.spotify.com/track/2Lgcr4Xgw8S93tapMBIXze"
+    },
+    {
+      "added_at": "2025-01-24 08:51:14",
+      "album": {
+        "name": "Wi\u0119cej",
+        "url": "https://open.spotify.com/album/2wLGQoYi4SsbyGmjEbQiNE"
+      },
+      "artists": [
+        {
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
+        }
+      ],
+      "duration_ms": 153024,
+      "name": "Wi\u0119cej",
+      "url": "https://open.spotify.com/track/73l4adiuFKirZH4umyzEog"
     },
     {
       "added_at": "2025-01-24 08:51:14",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-01-24 08:51:14",
       "album": {
+        "name": "Ta druga",
+        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Wszystko",
+      "url": "https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu"
+    },
+    {
+      "added_at": "2025-01-24 08:51:14",
+      "album": {
         "name": "Kaprysy",
         "url": "https://open.spotify.com/album/47tDANOMCmdRDI5CVcjNKY"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 211581,
       "name": "Bestie, Move On",
       "url": "https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU"
-    },
-    {
-      "added_at": "2025-01-24 08:51:14",
-      "album": {
-        "name": "Ta druga",
-        "url": "https://open.spotify.com/album/2cS8qeY5SmVKbBV94pODIM"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Wszystko",
-      "url": "https://open.spotify.com/track/41M788bs1tKn4mm3vWXDhu"
     },
     {
       "added_at": "2025-01-24 08:51:14",
@@ -775,6 +775,22 @@
       "duration_ms": 244000,
       "name": "Sto \u017cy\u0107",
       "url": "https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE"
+    },
+    {
+      "added_at": "2025-01-24 08:51:14",
+      "album": {
+        "name": "You'll Get There in The End",
+        "url": "https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 186972,
+      "name": "You'll Get There in The End",
+      "url": "https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo"
     },
     {
       "added_at": "2025-01-24 08:51:14",
@@ -863,6 +879,26 @@
     {
       "added_at": "2025-01-24 08:51:14",
       "album": {
+        "name": "Elegia o\u2026 [ch\u0142opcu polskim] (K. K. Baczy\u0144ski)",
+        "url": "https://open.spotify.com/album/5x4HWBcOoTfDXgrEh8Z6wf"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Micha\u0142 Bajor",
+          "url": "https://open.spotify.com/artist/4wiuQi8pMd9fwJxreqT5H1"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Elegia o\u2026 [ch\u0142opcu polskim] (K. K. Baczy\u0144ski)",
+      "url": "https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j"
+    },
+    {
+      "added_at": "2025-01-24 08:51:14",
+      "album": {
         "name": "Himalaje",
         "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
       },
@@ -907,42 +943,6 @@
       "duration_ms": 240396,
       "name": "Ta\u0144ce na Modlinie",
       "url": "https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu"
-    },
-    {
-      "added_at": "2025-01-24 08:51:14",
-      "album": {
-        "name": "You'll Get There in The End",
-        "url": "https://open.spotify.com/album/0YQFRtaYSgwfEb6pSAoY1n"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 186972,
-      "name": "You'll Get There in The End",
-      "url": "https://open.spotify.com/track/38sEWCPwGb4scoqbwnAYOo"
-    },
-    {
-      "added_at": "2025-01-24 08:51:14",
-      "album": {
-        "name": "Elegia o\u2026 [ch\u0142opcu polskim] (K. K. Baczy\u0144ski)",
-        "url": "https://open.spotify.com/album/5x4HWBcOoTfDXgrEh8Z6wf"
-      },
-      "artists": [
-        {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
-        },
-        {
-          "name": "Micha\u0142 Bajor",
-          "url": "https://open.spotify.com/artist/4wiuQi8pMd9fwJxreqT5H1"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Elegia o\u2026 [ch\u0142opcu polskim] (K. K. Baczy\u0144ski)",
-      "url": "https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j"
     },
     {
       "added_at": "2025-01-24 08:51:14",
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-01-24 08:51:14",
       "album": {
-        "name": "Siniaki i cekiny ci\u0105g dalszy",
-        "url": "https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1"
+        "name": "eYeSiGht",
+        "url": "https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y"
       },
       "artists": [
         {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Tak musia\u0142o by\u0107",
-      "url": "https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA"
+      "duration_ms": 143499,
+      "name": "eYeSiGht",
+      "url": "https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs"
     }
   ],
   "unique_name": "Zimowy chill",

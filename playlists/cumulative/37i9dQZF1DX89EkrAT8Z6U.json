@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Where Are The Traitors?",
+        "url": "https://open.spotify.com/album/600ldbD3384nOA3bRDSF0q"
+      },
+      "artists": [
+        {
+          "name": "Warlord Colossus",
+          "url": "https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn"
+        }
+      ],
+      "date_added": "2024-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129175,
+      "name": "Castles & Moats",
+      "url": "https://open.spotify.com/track/3zk0hk2rWjWMApIn83ZfPc"
+    },
+    {
+      "album": {
         "name": "emerge pt. 2",
         "url": "https://open.spotify.com/album/0zeq2wUbi6XBQ5HsELg4s5"
       },
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 139910,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"

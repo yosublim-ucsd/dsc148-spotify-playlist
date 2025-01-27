@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: The Rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,136 likes - 74 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,143 likes - 74 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

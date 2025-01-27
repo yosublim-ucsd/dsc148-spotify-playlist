@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 23164,
+  "num_followers": 23175,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAABlCBkUSSz8IKvYOImiKjWw",
+  "snapshot_id": "Z5QpgAAAAAAS4OIR7ceGSKT52uG5Yqbx",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 213688,
       "name": "Together Without You (Solo Piano Version)",
       "url": "https://open.spotify.com/track/5vGns3SGrcSQFUfxuhQ0zT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
+        "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 183156,
+      "name": "Everything Changes... But All Remains",
+      "url": "https://open.spotify.com/track/0l4EXKxTWO1DvP5wnGt14m"
     },
     {
       "added_at": null,
@@ -395,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
       "artists": [
         {
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 268613,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
+      "duration_ms": 181758,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd"
     },
     {
       "added_at": null,
@@ -443,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 268613,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
@@ -455,22 +487,6 @@
       "duration_ms": 138795,
       "name": "When the Bells Ring",
       "url": "https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 181758,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd"
     },
     {
       "added_at": null,
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 202977,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 84575,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4dqde2wJGFvMuQwiikyErr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 202977,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 170337,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 195144,
       "name": "Crest of a Wave",
       "url": "https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 170337,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
     },
     {
       "added_at": null,
@@ -631,70 +647,6 @@
       "duration_ms": 129745,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 182577,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Heart Asks Pleasure First",
-        "url": "https://open.spotify.com/album/0bZdcrxZlfJimQbjqYfUum"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "The Heart Asks Pleasure First",
-      "url": "https://open.spotify.com/track/62iBffOFF4zXLVYnPWqquo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 222048,
-      "name": "St Andrews",
-      "url": "https://open.spotify.com/track/50Rmu77Edn9xqug6AQGVe0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 238510,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
     },
     {
       "added_at": null,
@@ -732,9 +684,97 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
+      "duration_ms": 182577,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0aHTww4G1siCKZu7ewNpsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 222048,
+      "name": "St Andrews",
+      "url": "https://open.spotify.com/track/50Rmu77Edn9xqug6AQGVe0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 238510,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Heart Asks Pleasure First",
+        "url": "https://open.spotify.com/album/0bZdcrxZlfJimQbjqYfUum"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "The Heart Asks Pleasure First",
+      "url": "https://open.spotify.com/track/62iBffOFF4zXLVYnPWqquo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
       "duration_ms": 232557,
       "name": "Canyons",
       "url": "https://open.spotify.com/track/0g5CquaRz1JQZCBEesB8cw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        },
+        {
+          "name": "James Morgan",
+          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "duration_ms": 213271,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4gBREULjdyg3EQlxGpJ9C9"
     },
     {
       "added_at": null,
@@ -771,30 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        },
-        {
-          "name": "James Morgan",
-          "url": "https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC"
-        },
-        {
-          "name": "Royal Liverpool Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
-        }
-      ],
-      "duration_ms": 213271,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4gBREULjdyg3EQlxGpJ9C9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 188697,
-      "name": "Colours - Solo Piano Version",
-      "url": "https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enigma Variations: Nimrod",
         "url": "https://open.spotify.com/album/24h9w2380vUXNpbzDdi7LK"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 96586,
       "name": "Enigma Variations: Nimrod",
       "url": "https://open.spotify.com/track/3JDmYGjn9lsHQqCB7o3xAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 188697,
+      "name": "Colours - Solo Piano Version",
+      "url": "https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ"
     },
     {
       "added_at": null,

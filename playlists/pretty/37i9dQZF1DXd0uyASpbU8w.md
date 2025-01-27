@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=OEqlhNc1RzW1c7KWOpF1Ag">Big Zulu</a>, <a href="https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5?si=5ddCLKIzSdC85fuD4oeRhQ">Azana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,703 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,809 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

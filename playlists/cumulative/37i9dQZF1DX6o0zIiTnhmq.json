@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "O Radhe Radhe - LoFi",
+        "url": "https://open.spotify.com/album/5WRtfUxBOVkKrOLniPEy3P"
+      },
+      "artists": [
+        {
+          "name": "Srijita Mitra",
+          "url": "https://open.spotify.com/artist/5Ho1z9E6aqNw2e5iRTwjZb"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "O Radhe Radhe - LoFi",
+      "url": "https://open.spotify.com/track/6mFhoNjcnmxQp4cjM6EL19"
+    },
+    {
+      "album": {
         "name": "Roads Of Blessings - Songs Of Awakening",
         "url": "https://open.spotify.com/album/4grwUAIp3r6OBmsS6D2ZGV"
       },
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 757368,
       "name": "Shri Krishna Sankirtan",
       "url": "https://open.spotify.com/track/6GHfymsJE5S8utA7N59cXE"

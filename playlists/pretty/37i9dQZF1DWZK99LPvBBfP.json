@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 303395,
+  "num_followers": 303543,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Faithless 2.0",
+        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "We Come 1 - Radio Edit",
+      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Adventures Beyond The Ultraworld",
         "url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Faithless 2.0",
-        "url": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O"
+        "name": "Big Love (Eat Me Edit)",
+        "url": "https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Pete Heller",
+          "url": "https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf"
         }
       ],
-      "duration_ms": 222435,
-      "name": "We Come 1 - Radio Edit",
-      "url": "https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p"
+      "duration_ms": 241053,
+      "name": "Big Love - Eat Me Edit",
+      "url": "https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -827,22 +843,6 @@
       "duration_ms": 224640,
       "name": "Poppiholla",
       "url": "https://open.spotify.com/track/0IMcUszK4FkAp22s6Eiq1V"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Big Love (Eat Me Edit)",
-        "url": "https://open.spotify.com/album/1VANsPWsE1fU4Yo7X0QSxa"
-      },
-      "artists": [
-        {
-          "name": "Pete Heller",
-          "url": "https://open.spotify.com/artist/5BiJE5QAwptqJobHRpBLFf"
-        }
-      ],
-      "duration_ms": 241053,
-      "name": "Big Love - Eat Me Edit",
-      "url": "https://open.spotify.com/track/2w6YlpVeyHazO6YcvpGxIS"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Watch The Sunrise",
-        "url": "https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 372493,
-      "name": "Watch The Sunrise - Extended Vocal",
-      "url": "https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Acqua E Viento",
         "url": "https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g"
       },
@@ -1139,6 +1119,22 @@
       "duration_ms": 434000,
       "name": "Stop Bajon - Club Mix",
       "url": "https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Volume II - 1990 A New Decade",
+        "url": "https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        }
+      ],
+      "duration_ms": 338866,
+      "name": "A Dream's A Dream",
+      "url": "https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Volume II - 1990 A New Decade",
-        "url": "https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF"
+        "name": "Watch The Sunrise",
+        "url": "https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ"
       },
       "artists": [
         {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
         }
       ],
-      "duration_ms": 338866,
-      "name": "A Dream's A Dream",
-      "url": "https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr"
+      "duration_ms": 372493,
+      "name": "Watch The Sunrise - Extended Vocal",
+      "url": "https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Time For Change",
-        "url": "https://open.spotify.com/album/2rBMhWTkBHdjWqpQkHbzI5"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        }
-      ],
-      "duration_ms": 464160,
-      "name": "Camdino Soul",
-      "url": "https://open.spotify.com/track/6jO4uy595sAigCrkKJIhdU"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "The Rising Sun",
         "url": "https://open.spotify.com/album/2pFVzm75oRseMAAhxWwVxg"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Time For Change",
+        "url": "https://open.spotify.com/album/2rBMhWTkBHdjWqpQkHbzI5"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        }
+      ],
+      "duration_ms": 464160,
+      "name": "Camdino Soul",
+      "url": "https://open.spotify.com/track/6jO4uy595sAigCrkKJIhdU"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "The Masters Collection",
         "url": "https://open.spotify.com/album/28maj1N3DbhEHBC4jEROKx"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "T.V. Scene (Sensurround Mix)",
-        "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
-      },
-      "artists": [
-        {
-          "name": "Linda Di Franco",
-          "url": "https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW"
-        }
-      ],
-      "duration_ms": 346875,
-      "name": "My Boss - Extended Remix",
-      "url": "https://open.spotify.com/track/7jBqgmJj3XcyPq9OuL3bIB"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 298533,
       "name": "Out Of Space (Remastered)",
       "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "T.V. Scene (Sensurround Mix)",
+        "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
+      },
+      "artists": [
+        {
+          "name": "Linda Di Franco",
+          "url": "https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW"
+        }
+      ],
+      "duration_ms": 346875,
+      "name": "My Boss - Extended Remix",
+      "url": "https://open.spotify.com/track/7jBqgmJj3XcyPq9OuL3bIB"
     }
   ],
   "unique_name": "Ibiza Classics",

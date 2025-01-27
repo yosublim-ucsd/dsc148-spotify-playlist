@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 11799,
+  "num_followers": 11816,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAAAIxhjXt9n0EI2WS5/K0ypN",
+  "snapshot_id": "Z5QpgAAAAADzXpw7kFxy7/n+tiMFusNK",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una \u00daltima Ocasi\u00f3n",
-        "url": "https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Una \u00daltima Ocasi\u00f3n",
-      "url": "https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alla En Lynwood (En Vivo)",
         "url": "https://open.spotify.com/album/0OhdTL3qbFHUo6Qo2fc7Ul"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 203250,
       "name": "Alla En Lynwood - En Vivo",
       "url": "https://open.spotify.com/track/00yHdOJRayC728xYDY7ioe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una \u00daltima Ocasi\u00f3n",
+        "url": "https://open.spotify.com/album/7HMRedku7U6wK6qoh0KgQv"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Una \u00daltima Ocasi\u00f3n",
+      "url": "https://open.spotify.com/track/1C6WlgKPr1f4WDMy4MkzBU"
     },
     {
       "added_at": null,

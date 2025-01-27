@@ -1,6 +1,6 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1198684,
+  "num_followers": 1198850,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Buffalo Springfield Again",
         "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 293933,
       "name": "Season of the Witch",
       "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 208466,
-      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
-      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Psychotic Reaction",
         "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },
       "artists": [
         {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -335,6 +319,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Time Has Come: The Best Of The Chambers Brothers",
         "url": "https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu"
       },
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+        "name": "\"Os Mutantes\"",
+        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
         }
       ],
-      "duration_ms": 275866,
-      "name": "I Am The Walrus - Remastered 2009",
-      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
+      "duration_ms": 284986,
+      "name": "A Minha Menina",
+      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -395,22 +395,6 @@
       "duration_ms": 222293,
       "name": "Manic Depression",
       "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "\"Os Mutantes\"",
-        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
-      },
-      "artists": [
-        {
-          "name": "Os Mutantes",
-          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "A Minha Menina",
-      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -443,6 +427,22 @@
       "duration_ms": 177506,
       "name": "Her Eyes Are a Blue Million Miles",
       "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 275866,
+      "name": "I Am The Walrus - Remastered 2009",
+      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 315040,
-      "name": "Comin' Back to Me",
-      "url": "https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Experience Hendrix: The Best Of Jimi Hendrix",
         "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 312426,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 315040,
+      "name": "Comin' Back to Me",
+      "url": "https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 466266,
-      "name": "I Walk on Guilded Splinters",
-      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "The Best of the Lemon Pipers",
         "url": "https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg"
       },
@@ -819,6 +803,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 466266,
+      "name": "I Walk on Guilded Splinters",
+      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Cactology \"The Cactus Collection\"",
         "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 478960,
       "name": "The Sky Children",
       "url": "https://open.spotify.com/track/24aq7KBvgKsiEaj2swDxM9"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
-        "name": "Wake Up...It's Tomorrow",
-        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Sit With The Guru",
-      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -919,6 +903,22 @@
       "duration_ms": 221013,
       "name": "Bracelets Of Fingers",
       "url": "https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Wake Up...It's Tomorrow",
+        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Sit With The Guru",
+      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2024-07-12 17:17:21",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
+        "name": "Bohemian Vendetta",
+        "url": "https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Vendetta",
+          "url": "https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c"
+        }
+      ],
+      "duration_ms": 177580,
+      "name": "Riddles and Fairytales",
+      "url": "https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
         "name": "Thunder On A Clear Day",
         "url": "https://open.spotify.com/album/60DV7mFo39JXUL8e3IiaEs"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Bohemian Vendetta",
-        "url": "https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Vendetta",
-          "url": "https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c"
-        }
-      ],
-      "duration_ms": 177580,
-      "name": "Riddles and Fairytales",
-      "url": "https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Nights In White Satin Hit Pac",
         "url": "https://open.spotify.com/album/2cYCHa8cPrvU2Vrw4xahof"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-12 17:17:21",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC"
-    },
-    {
-      "added_at": "2024-07-12 17:17:21",
-      "album": {
         "name": "Clear Light (US Internet Release)",
         "url": "https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 178133,
       "name": "With All in Mind",
       "url": "https://open.spotify.com/track/0BE1Nqi5OtEp05IqZITvt9"
+    },
+    {
+      "added_at": "2024-07-12 17:17:21",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC"
     },
     {
       "added_at": "2024-07-12 17:17:21",

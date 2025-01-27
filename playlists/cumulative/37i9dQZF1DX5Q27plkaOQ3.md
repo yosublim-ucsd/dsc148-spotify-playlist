@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with LEVEL UP
 
-890 songs - 2 day 1 hr 22 min
+891 songs - 2 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Dead Man Walking](https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Dead Man Walking Pt\. 1](https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD) | 4:47 | 2022-07-22 | 2023-11-18 |
 | [Dead To Rights](https://open.spotify.com/track/3xk4odE5KMjlQIDcprWmlO) | [Cyberoptics](https://open.spotify.com/artist/071KeoRJhoGdiaZXSxCEnJ), [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr) | [Dead to Rights](https://open.spotify.com/album/5HSlFY8bnz9560igqUpUrv) | 4:27 | 2024-07-05 | 2024-07-31 |
 | [Death Toll](https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr), [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe) | [Death Toll](https://open.spotify.com/album/4krxVVR3y5FmU9UUVsbPun) | 3:33 | 2023-10-06 | 2023-11-08 |
-| [Death Wish \(with Micah Martin\)](https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Death Wish \(with Micah Martin\)](https://open.spotify.com/album/4OUTUIrOCKPVkrpJSTGWk1) | 3:36 | 2024-04-05 |  |
+| [Death Wish \(with Micah Martin\)](https://open.spotify.com/track/0dZTEB9raQkSRtZkSzFx0h) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Death Wish \(with Micah Martin\)](https://open.spotify.com/album/4OUTUIrOCKPVkrpJSTGWk1) | 3:36 | 2024-04-05 | 2025-01-27 |
 | [Death's Parade](https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG) | [Outcry](https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Death's Parade](https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg) | 3:31 | 2021-12-17 | 2022-08-07 |
 | [Decimate](https://open.spotify.com/track/58nKKLokxvBiFcpnhBd3Jz) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Decimate](https://open.spotify.com/album/0LcvAMk0yY5fYuiUDzRMCS) | 3:30 | 2024-03-29 | 2024-11-23 |
 | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/track/6ivBy5kKmL1rbz0RTgH8KZ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM), [Tvbuu](https://open.spotify.com/artist/5g88TrER5HETb6uDHUASGv) | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/album/39jpXJv2tcnolZ0Ch67D94) | 4:04 | 2023-05-12 | 2023-08-05 |
@@ -313,6 +313,7 @@
 | [Florida](https://open.spotify.com/track/0X4rmRgLzakHuykZOwhNVD) | [Rated R](https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj), [Florida Man Frank](https://open.spotify.com/artist/45dP0xtCIxFhKMtZN5Amm7) | [Florida](https://open.spotify.com/album/3vjoM3ygN0rQ1VurKFVmi1) | 3:06 | 2024-08-09 |  |
 | [Flute Dub \- A Hundred Drums Remix](https://open.spotify.com/track/5yfMqK3OwtN6m7RDiUhTNr) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [A Hundred Drums](https://open.spotify.com/artist/1dUCaUhp2RZRXrwOyUnHxQ) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 4:13 | 2022-12-16 | 2023-07-13 |
 | [Fly Again \- Lost Identities Remix](https://open.spotify.com/track/28zvvVVhb0yGugW0lC5Idk) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Evilwave](https://open.spotify.com/artist/6GogX1b4LLSXgmtv7Gtw62) | [Fly Again \(Lost Identities Remix\)](https://open.spotify.com/album/13ikESViMw0XMQfPxu6104) | 2:47 | 2024-01-05 | 2024-03-16 |
+| [Focal](https://open.spotify.com/track/2hTI8SLKEnDhxsjkjZA5fT) | [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf) | [Focal](https://open.spotify.com/album/1AY6p280XFAg9z8H6Wjkd6) | 3:07 | 2025-01-24 |  |
 | [Forget My Name](https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [CRYBLOOD](https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe) | [Forget My Name](https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd) | 4:14 | 2024-09-30 | 2025-01-11 |
 | [Forgive Forget](https://open.spotify.com/track/3DyZ0jw7mjRdcwiDvAL26Q) | [SVDDEN DEATH](https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0) | [Forgive Forget](https://open.spotify.com/album/6yoKpY3SB8swU6VtwRq8Zs) | 3:18 | 2024-01-12 | 2024-11-03 |
 | [Foul Tarnished](https://open.spotify.com/track/6XEdC8y0BB3W5IEztNxg70) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Foul Tarnished](https://open.spotify.com/album/79DmcJOAVCxt04AUfLl8ye) | 3:09 | 2024-11-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx?si=V\_07j2h6RlyDRrCyFgw7Hg">Vanger Boyz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,456 likes - 51 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,482 likes - 51 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

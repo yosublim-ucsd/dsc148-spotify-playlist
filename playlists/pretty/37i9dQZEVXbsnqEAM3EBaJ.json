@@ -6,23 +6,39 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACW4yvL51k5sem0Tr6B6eBc",
+  "snapshot_id": "AAAAAAAAAADx8ukXKyTK+Xj48sSuZtWR",
   "tracks": [
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
-        "name": "Feel the noise",
-        "url": "https://open.spotify.com/album/6WlF73U7HIkCNhNMSEv7AH"
+        "name": "To Live Deliciously",
+        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
       },
       "artists": [
         {
-          "name": "Evenia",
-          "url": "https://open.spotify.com/artist/1AAlrM1USZS3VKlean9GeK"
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
         }
       ],
-      "duration_ms": 241525,
-      "name": "Feel the noise",
-      "url": "https://open.spotify.com/track/2XuKeULtLtzJCSZULjTQpe"
+      "duration_ms": 332226,
+      "name": "To Live Deliciously",
+      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -163,34 +179,6 @@
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
-        "name": "Fuera de Casa",
-        "url": "https://open.spotify.com/album/03MogqU59znbLPj8ny2Kcp"
-      },
-      "artists": [
-        {
-          "name": "Niel Brown",
-          "url": "https://open.spotify.com/artist/6RugsUanaXiMwuBjzSEXM2"
-        },
-        {
-          "name": "MC Billeta",
-          "url": "https://open.spotify.com/artist/58KYre2g7s5J5U9ECk08An"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        },
-        {
-          "name": "JAMBRO",
-          "url": "https://open.spotify.com/artist/7u1VTRpxocp3EPB7dpSgM4"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "No Me Hagan Reir",
-      "url": "https://open.spotify.com/track/1J6DYoPyMg7h5sgQX77NrQ"
-    },
-    {
-      "added_at": "2025-01-24 03:00:00",
-      "album": {
         "name": "It's My Ego (3mix)",
         "url": "https://open.spotify.com/album/4ShJe9chOSEQWZEkc1MxeX"
       },
@@ -239,6 +227,62 @@
       "duration_ms": 244397,
       "name": "Glass Shatters - New Mix",
       "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "Curious Ruminant",
+        "url": "https://open.spotify.com/album/7EfhM9H9X5qCBr1Q5jVCXa"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 360120,
+      "name": "Curious Ruminant",
+      "url": "https://open.spotify.com/track/1GwbwKkKsj3EqkJda5RdoR"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "Against The Wind",
+        "url": "https://open.spotify.com/album/4k5rRJVsFUxr8qGzy5iQhZ"
+      },
+      "artists": [
+        {
+          "name": "Avantasia",
+          "url": "https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa"
+        },
+        {
+          "name": "Kenny Leckremo",
+          "url": "https://open.spotify.com/artist/3GJTV1L1ngMzVwR9CikIV5"
+        }
+      ],
+      "duration_ms": 281800,
+      "name": "Against The Wind",
+      "url": "https://open.spotify.com/track/1PNW6bmWU7pKdrWv5bymSY"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "big change",
+        "url": "https://open.spotify.com/album/486zPFFGXeujkL6xSZxyCW"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "neil young and the chrome hearts",
+          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "big change",
+      "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -311,6 +355,38 @@
       "duration_ms": 210840,
       "name": "Dull Pain",
       "url": "https://open.spotify.com/track/27DUuu4zu7OvX8t9quXUYT"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "I Ran (So Far Away) - The Best Of (Deluxe Version)",
+        "url": "https://open.spotify.com/album/31YdJm1SLrNPKG8Epd6W0t"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "duration_ms": 333466,
+      "name": "Wishing (If I Had A Photograph Of You) - Re-recorded - 2021 mix",
+      "url": "https://open.spotify.com/track/0ISbNB0NA2InVcGjVCKgV0"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "The Gift (Extended Mix)",
+        "url": "https://open.spotify.com/album/29snRJ4onFOKhKbi4VkNsf"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 403080,
+      "name": "The Gift - Extended Mix",
+      "url": "https://open.spotify.com/track/3i4NIykaXjxkMyjWBlUQ4V"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -395,6 +471,22 @@
       "duration_ms": 178746,
       "name": "Artificial Gods",
       "url": "https://open.spotify.com/track/24hBbnLgfHxVbIUbtPYR6E"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -551,6 +643,30 @@
       "duration_ms": 200381,
       "name": "El P\u00e1jaro Carpintero",
       "url": "https://open.spotify.com/track/7oZDH5G7U7U19itnDQgsOw"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "Told You So (Remixes Vol. 2)",
+        "url": "https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 221102,
+      "name": "Told You So - Agents Of Time Remix",
+      "url": "https://open.spotify.com/track/2lQnyDTZSKQEgPYZtXYMaV"
     },
     {
       "added_at": "2025-01-24 03:00:00",

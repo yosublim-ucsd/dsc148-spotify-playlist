@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 41425,
+  "num_followers": 41432,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
         "name": "Mr Lover",
         "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 136266,
       "name": "Mr Lover",
       "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
+        "name": "Keep It Sexy",
+        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 159819,
+      "name": "Keep It Sexy",
+      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
         "name": "Sincere (Deluxe)",
         "url": "https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
-        "name": "Keep It Sexy",
-        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 159819,
-      "name": "Keep It Sexy",
-      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
+        "name": "JABO",
+        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "JABO",
+      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
         "name": "Pace",
         "url": "https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 178048,
       "name": "Obianuju",
       "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
-        "name": "JABO",
-        "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "JABO",
-      "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
         "name": "Tears Of A Mad Man",
         "url": "https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 156831,
       "name": "Iweriwe Love",
       "url": "https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1183,22 +1183,6 @@
       "duration_ms": 134899,
       "name": "Must",
       "url": "https://open.spotify.com/track/0PfVaK1uYkpxOZ82Y7oeyL"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1235,22 +1219,18 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Diamond & Roses",
-        "url": "https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf"
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 159587,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe"
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1271,6 +1251,26 @@
       "duration_ms": 148909,
       "name": "Rugged 2.0 (with Olivetheboy)",
       "url": "https://open.spotify.com/track/5Tw21JAJVcNkpMtQd8cB5r"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
+        "name": "Diamond & Roses",
+        "url": "https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 159587,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1363,22 +1363,22 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22"
+        "name": "Fine Girl",
+        "url": "https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR"
       },
       "artists": [
         {
-          "name": "Jeff Akoh",
-          "url": "https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         },
         {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 161632,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H"
+      "duration_ms": 156891,
+      "name": "Fine Girl",
+      "url": "https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
-        "name": "Fine Girl",
-        "url": "https://open.spotify.com/album/5tkw9JK58hhOdBDGrEyzwR"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 156891,
-      "name": "Fine Girl",
-      "url": "https://open.spotify.com/track/2y2gGCY93nmkr1OoufHWkx"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
         "name": "Bus Stop",
         "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
       },
@@ -1443,6 +1423,26 @@
     {
       "added_at": "2025-01-17 10:23:44",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/65DHfL5McChtYoWOGRBB22"
+      },
+      "artists": [
+        {
+          "name": "Jeff Akoh",
+          "url": "https://open.spotify.com/artist/2dWJmDHk1CXQ4r5Pj4yQB5"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
         "name": "Recess",
         "url": "https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6"
       },
@@ -1455,6 +1455,26 @@
       "duration_ms": 156000,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go"
+    },
+    {
+      "added_at": "2025-01-17 10:23:44",
+      "album": {
+        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Sara Jay",
+      "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
     },
     {
       "added_at": "2025-01-17 10:23:44",
@@ -1479,26 +1499,6 @@
       "duration_ms": 153684,
       "name": "W",
       "url": "https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O"
-    },
-    {
-      "added_at": "2025-01-17 10:23:44",
-      "album": {
-        "name": "12 Summers (Summerfornication) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sara Jay",
-      "url": "https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4"
     },
     {
       "added_at": "2025-01-17 10:23:44",

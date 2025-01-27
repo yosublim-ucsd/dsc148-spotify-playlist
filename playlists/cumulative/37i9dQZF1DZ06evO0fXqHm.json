@@ -621,6 +621,32 @@
     },
     {
       "album": {
+        "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/2Wd2TZViUKgjLPv84OBi8u"
+      },
+      "artists": [
+        {
+          "name": "Dj Vitor Lima",
+          "url": "https://open.spotify.com/artist/4OgpoVCB5dqTzLGZ9e5VS4"
+        },
+        {
+          "name": "DJ L30",
+          "url": "https://open.spotify.com/artist/5tfvAC3ptwTnVXeNJ8qkYe"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/2T5OkwBqaTmUJ6fCM4hUbL"
+    },
+    {
+      "album": {
         "name": "Faixa Rosa (Remix)",
         "url": "https://open.spotify.com/album/3iYNsFrXzptmfX5ONMlENT"
       },
@@ -1052,7 +1078,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 164000,
       "name": "Me Leva Pra Casa",
       "url": "https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn"

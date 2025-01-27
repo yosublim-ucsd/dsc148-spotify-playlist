@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Malaa",
-  "num_followers": 453272,
+  "num_followers": 453315,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -829,46 +829,6 @@
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) [Remixes]",
-        "url": "https://open.spotify.com/album/6hShYQVPRaC1nnn0UkZzDA"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        },
-        {
-          "name": "Levex",
-          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) - Levex Remix",
-      "url": "https://open.spotify.com/track/0kFnR2iXkxWxYSaZbrfyUy"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "4EVR",
@@ -895,6 +855,62 @@
       "duration_ms": 209785,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/6GbhVYLX4gDu3v5Tx2cnIH"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) [Remixes]",
+        "url": "https://open.spotify.com/album/6hShYQVPRaC1nnn0UkZzDA"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Levex",
+          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) - Levex Remix",
+      "url": "https://open.spotify.com/track/0kFnR2iXkxWxYSaZbrfyUy"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "BAD OMENS",
+        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 147625,
+      "name": "BAD OMENS",
+      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -939,22 +955,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "BAD OMENS",
-        "url": "https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 147625,
-      "name": "BAD OMENS",
-      "url": "https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 208125,
       "name": "Seismic",
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
-    },
-    {
-      "added_at": "2025-01-10 05:00:37",
-      "album": {
-        "name": "Power (feat. Bipolar Sunshine)",
-        "url": "https://open.spotify.com/album/5ABYnU3Ti5L4028bwNtKSp"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 178409,
-      "name": "Power (feat. Bipolar Sunshine)",
-      "url": "https://open.spotify.com/track/23Yme7RmpgqUxpllJUkHkl"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1027,6 +1007,26 @@
       "duration_ms": 187683,
       "name": "Bass In Yo Face",
       "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
+    },
+    {
+      "added_at": "2025-01-10 05:00:37",
+      "album": {
+        "name": "Power (feat. Bipolar Sunshine)",
+        "url": "https://open.spotify.com/album/5ABYnU3Ti5L4028bwNtKSp"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 178409,
+      "name": "Power (feat. Bipolar Sunshine)",
+      "url": "https://open.spotify.com/track/23Yme7RmpgqUxpllJUkHkl"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1185,24 +1185,20 @@
       "url": "https://open.spotify.com/track/6TvCNh37pSO9rp9fIhskKN"
     },
     {
-      "added_at": "2024-08-16 14:10:04",
+      "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
       },
       "artists": [
         {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1225,44 +1221,24 @@
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
     },
     {
-      "added_at": "2024-07-05 04:00:00",
+      "added_at": "2024-08-16 14:10:04",
       "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Brain On Drugs",
-        "url": "https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         },
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 214326,
-      "name": "Brain On Drugs",
-      "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1365,6 +1341,30 @@
       "url": "https://open.spotify.com/track/3Vax2tVN84lRW9Xl0DyPjs"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Brain On Drugs",
+        "url": "https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 214326,
+      "name": "Brain On Drugs",
+      "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "64 Impala",
@@ -1387,42 +1387,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Ravers Bounce",
-        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
-      },
-      "artists": [
-        {
-          "name": "BRANDON",
-          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
-        },
-        {
-          "name": "Lackmus",
-          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
-        }
-      ],
-      "duration_ms": 195357,
-      "name": "Ravers Bounce",
-      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
-    },
-    {
-      "added_at": "2024-09-30 15:01:28",
-      "album": {
-        "name": "Baggy Black Jeans",
-        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 192692,
-      "name": "Baggy Black Jeans",
-      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
       },
@@ -1439,6 +1403,26 @@
       "duration_ms": 211428,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Ravers Bounce",
+        "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "Lackmus",
+          "url": "https://open.spotify.com/artist/54ryBVbl5CbgFmiXixV6C1"
+        }
+      ],
+      "duration_ms": 195357,
+      "name": "Ravers Bounce",
+      "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1477,22 +1461,6 @@
       "url": "https://open.spotify.com/track/5fe0BWkTfPEgjbA0PZkii1"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2m06bkOopa7O0bFUz7ba7Z"
-      },
-      "artists": [
-        {
-          "name": "BAN DELLO",
-          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "What You Looking For",
@@ -1511,6 +1479,22 @@
       "duration_ms": 182343,
       "name": "What You Looking For",
       "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2m06bkOopa7O0bFUz7ba7Z"
+      },
+      "artists": [
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/1Hu5RNkiSLE4ntYZcwfzUr"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1553,6 +1537,22 @@
       "url": "https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii"
     },
     {
+      "added_at": "2024-09-30 15:01:28",
+      "album": {
+        "name": "Baggy Black Jeans",
+        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "duration_ms": 192692,
+      "name": "Baggy Black Jeans",
+      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Stereo Function",
@@ -1591,6 +1591,22 @@
       "duration_ms": 183750,
       "name": "Put It Down",
       "url": "https://open.spotify.com/track/2o2qzhEatKmbCOZy07nrFh"
+    },
+    {
+      "added_at": "2025-01-24 05:00:54",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "duration_ms": 231044,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0"
     },
     {
       "added_at": "2024-09-30 15:01:28",
@@ -1669,6 +1685,26 @@
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
+      "added_at": "2024-10-02 17:18:50",
+      "album": {
+        "name": "Danny Phantom",
+        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 200077,
+      "name": "Danny Phantom",
+      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Pa Pa Pa (feat. MC Maromba)",
@@ -1691,46 +1727,6 @@
       "duration_ms": 139687,
       "name": "Pa Pa Pa (feat. MC Maromba)",
       "url": "https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "The Plot",
-        "url": "https://open.spotify.com/album/1znStHWqUFoBUiPiHNSYB2"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        },
-        {
-          "name": "A. Nayaka",
-          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Plot",
-      "url": "https://open.spotify.com/track/5OwTQxYGQgDr6ty3TY5sYJ"
-    },
-    {
-      "added_at": "2024-10-02 17:18:50",
-      "album": {
-        "name": "Danny Phantom",
-        "url": "https://open.spotify.com/album/481fGaYfsBvJ12oFkdkjdU"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
-        }
-      ],
-      "duration_ms": 200077,
-      "name": "Danny Phantom",
-      "url": "https://open.spotify.com/track/17NKQ5IpedOGTdaSVSWEBb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1765,6 +1761,26 @@
       "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "The Plot",
+        "url": "https://open.spotify.com/album/1znStHWqUFoBUiPiHNSYB2"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "The Plot",
+      "url": "https://open.spotify.com/track/5OwTQxYGQgDr6ty3TY5sYJ"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "10 Outta 10",
@@ -1787,6 +1803,26 @@
       "duration_ms": 216874,
       "name": "10 Outta 10",
       "url": "https://open.spotify.com/track/6QKveURtqwxUSX7XUEbEXN"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Want My Love",
+        "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        }
+      ],
+      "duration_ms": 157404,
+      "name": "Want My Love",
+      "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1879,26 +1915,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Want My Love",
-        "url": "https://open.spotify.com/album/38rT6Cg4Szkmls0nYccnxd"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Nadia Gattas",
-          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
-        }
-      ],
-      "duration_ms": 157404,
-      "name": "Want My Love",
-      "url": "https://open.spotify.com/track/1VPOl6ZBsQYXXWkgXsBvEo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Get Hype",
         "url": "https://open.spotify.com/album/7coGMWh8BLBCEJjs0goNYX"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 155437,
       "name": "Get Hype",
       "url": "https://open.spotify.com/track/2ijXRwJ28FfqOHqM1un4cq"
-    },
-    {
-      "added_at": "2025-01-24 05:00:54",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/0vQ60otw3uv3eJuGANVBUM"
-      },
-      "artists": [
-        {
-          "name": "Valentino Khan",
-          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
-        }
-      ],
-      "duration_ms": 231044,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/7cZyHZYl7xoEUfIL36bmx0"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2029,22 +2029,6 @@
       "url": "https://open.spotify.com/track/6LtdHK1U2li7mFcHl0agoN"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Vikings",
-        "url": "https://open.spotify.com/album/5jq4p9qA8zF8fBrqLv4nbQ"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "Vikings",
-      "url": "https://open.spotify.com/track/5K5CdyikJA8RE1Mc7CRgTm"
-    },
-    {
       "added_at": "2024-11-30 00:47:45",
       "album": {
         "name": "LOST CONTROL",
@@ -2067,6 +2051,22 @@
       "duration_ms": 158888,
       "name": "LOST CONTROL",
       "url": "https://open.spotify.com/track/40HmXWOyB7r2FcTZw4Z9fg"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Vikings",
+        "url": "https://open.spotify.com/album/5jq4p9qA8zF8fBrqLv4nbQ"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "Vikings",
+      "url": "https://open.spotify.com/track/5K5CdyikJA8RE1Mc7CRgTm"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -2109,26 +2109,6 @@
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "RUNWAY",
-        "url": "https://open.spotify.com/album/2ccPUuixcwvZSGJeOdCOy2"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Haylee Wood",
-          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
-        }
-      ],
-      "duration_ms": 206050,
-      "name": "RUNWAY",
-      "url": "https://open.spotify.com/track/20Q53ZfrEy8udIO2EKJk22"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "LIMIT",
@@ -2151,6 +2131,26 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "RUNWAY",
+        "url": "https://open.spotify.com/album/2ccPUuixcwvZSGJeOdCOy2"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 206050,
+      "name": "RUNWAY",
+      "url": "https://open.spotify.com/track/20Q53ZfrEy8udIO2EKJk22"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Gypsy Riddim",
         "url": "https://open.spotify.com/album/6J0pP2GJKfRCTHCP4Uuf4r"
       },
@@ -2163,6 +2163,38 @@
       "duration_ms": 125538,
       "name": "Gypsy Riddim",
       "url": "https://open.spotify.com/track/5NTH9cO4n5U5TR297XDvfJ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mud Season",
+        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Mud Season",
+      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
+    },
+    {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
       "added_at": "2024-11-30 00:47:45",
@@ -2199,38 +2231,6 @@
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Mud Season",
-        "url": "https://open.spotify.com/album/2N5zNw7LULXhVKaRD6tnn8"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Mud Season",
-      "url": "https://open.spotify.com/track/3gmgRuhZrpfawnbjWPf6Ov"
-    },
-    {
-      "added_at": "2024-06-28 14:01:45",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2329,6 +2329,26 @@
       "url": "https://open.spotify.com/track/49AyVq86hvLmS2oljUiVDo"
     },
     {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Click Click",
+        "url": "https://open.spotify.com/album/2UAUGduBm3VsHMejAIjmfn"
+      },
+      "artists": [
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        },
+        {
+          "name": "LegacyOfficial",
+          "url": "https://open.spotify.com/artist/4Dx15BmtLeUErq8Q0fJHRU"
+        }
+      ],
+      "duration_ms": 188437,
+      "name": "Click Click",
+      "url": "https://open.spotify.com/track/5xYr6yjWhR8XCjETGryIiI"
+    },
+    {
       "added_at": "2024-09-30 15:01:28",
       "album": {
         "name": "MAKE DAT SHAKE",
@@ -2347,22 +2367,6 @@
       "duration_ms": 147040,
       "name": "MAKE DAT SHAKE",
       "url": "https://open.spotify.com/track/34r7OlJi5an3Ojs5MHgfqb"
-    },
-    {
-      "added_at": "2024-12-13 05:00:35",
-      "album": {
-        "name": "CULT CHROME",
-        "url": "https://open.spotify.com/album/2xqDI5PPqMJJ9nsJCZ2F3f"
-      },
-      "artists": [
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 186818,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4wsage4Z1tdsj3sHDBnJBn"
     },
     {
       "added_at": "2024-06-24 15:40:12",
@@ -2385,44 +2389,36 @@
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-12-13 05:00:35",
       "album": {
-        "name": "Badman Calling (feat. XO Man)",
-        "url": "https://open.spotify.com/album/6BFUj811bQcvESYVevPKPy"
+        "name": "CULT CHROME",
+        "url": "https://open.spotify.com/album/2xqDI5PPqMJJ9nsJCZ2F3f"
       },
       "artists": [
         {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        },
-        {
-          "name": "Xo Man",
-          "url": "https://open.spotify.com/artist/5FY5CvkIgbORCgqPr1FsMG"
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
         }
       ],
-      "duration_ms": 162519,
-      "name": "Badman Calling (feat. XO Man)",
-      "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
+      "duration_ms": 186818,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4wsage4Z1tdsj3sHDBnJBn"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2025-01-17 05:56:39",
       "album": {
-        "name": "Click Click",
-        "url": "https://open.spotify.com/album/2UAUGduBm3VsHMejAIjmfn"
+        "name": "LA FAMILIA",
+        "url": "https://open.spotify.com/album/2jwif4T7jgWBTy5Sp5gPnN"
       },
       "artists": [
         {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        },
-        {
-          "name": "LegacyOfficial",
-          "url": "https://open.spotify.com/artist/4Dx15BmtLeUErq8Q0fJHRU"
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
         }
       ],
-      "duration_ms": 188437,
-      "name": "Click Click",
-      "url": "https://open.spotify.com/track/5xYr6yjWhR8XCjETGryIiI"
+      "duration_ms": 160827,
+      "name": "LA FAMILIA",
+      "url": "https://open.spotify.com/track/5KoHcFPZXpYY4PefooRiK6"
     }
   ],
   "unique_name": "Nasty Bits",

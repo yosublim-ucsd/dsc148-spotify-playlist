@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 16 hr 25 min
+162 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Outro \[Remember\] \(feat\. Dante Bowe & Eniola Abioye\)](https://open.spotify.com/track/30gX2RmXyHKsfRsdB2fKSX) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [You Hold It All Together](https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26) | 4:49 | 2024-06-11 |  |
 | [over and over](https://open.spotify.com/track/0Qeo804O6a6O5Ad3zsNkFm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 3:37 | 2024-07-12 |  |
 | [over and over](https://open.spotify.com/track/1eG6thyGmmWInRCTmUO2If) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 3:37 | 2024-06-11 | 2024-07-13 |
+| [Peace Of God](https://open.spotify.com/track/1BcIvrdxFt6eHdMXMve4BU) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [Chapel Sessions \(Vol\. 2\)](https://open.spotify.com/album/1WoqVa4lSu0mPZgoj1DxZ2) | 4:40 | 2025-01-26 |  |
 | [Potter and Friend \(feat\. Jesse Cline\)](https://open.spotify.com/track/3yOe7dRZgiHh4MQ1Rue98L) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jesse Cline](https://open.spotify.com/artist/34dwOJpG3qpSQ9RfSsA6yF) | [Potter and Friend \(feat\. Jesse Cline\)](https://open.spotify.com/album/0rZIRoeYANHTmhPiATIWGc) | 4:14 | 2024-06-11 |  |
 | [Prepare the Way \(Live\)](https://open.spotify.com/track/2zOgeGu8JCHciXgULeD7Kg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 5:21 | 2024-07-13 |  |
 | [Prepare the Way \- Live](https://open.spotify.com/track/1jt1m3be7XWV5LYoCFkfTV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2) | 5:21 | 2024-06-11 | 2024-07-14 |

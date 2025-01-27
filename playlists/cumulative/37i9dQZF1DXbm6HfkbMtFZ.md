@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-608 songs - 1 day 12 hr 34 min
+609 songs - 1 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Life On Fire](https://open.spotify.com/track/3tKp46E93JyBCvnAkrgmcy) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [From Liberty Street](https://open.spotify.com/album/4ynhHENlk6XiUvUggynWdW) | 3:22 | 2021-12-16 | 2022-07-29 |
 | [Life On Fire](https://open.spotify.com/track/6lIQouzC25f72F9BnkkOcz) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [From Liberty Street](https://open.spotify.com/album/0UD4OW2oRjqbMtyVjqle1O) | 3:22 | 2022-12-05 | 2023-04-29 |
 | [Like the Sun](https://open.spotify.com/track/6NyopkWmeaHRCAJzx8Hdf9) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [The Heart](https://open.spotify.com/album/7f0CLdhK81bomBOBtBGiDT) | 3:42 | 2022-03-30 | 2022-04-20 |
+| [Little Push](https://open.spotify.com/track/5PKpyuyzBQX9jQYbsUW6eX) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG), [Liliana Andrade](https://open.spotify.com/artist/0Fxf7Axf1iNSZHj6O1LcO3) | [Little Push](https://open.spotify.com/album/2A3NYiDl0D1hKEclqH6rGj) | 3:05 | 2025-01-23 |  |
 | [Live On](https://open.spotify.com/track/69AKIOHQKkvr70BxFS6FA2) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm) | [My God Has a Telephone](https://open.spotify.com/album/1mUZg3cuUcwifewwTCewbM) | 4:09 | 2021-12-16 | 2022-07-15 |
 | [Long Distance Love](https://open.spotify.com/track/64lIUwQx1vwo4PIrS5jYb1) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [The Last Record Album](https://open.spotify.com/album/6D5275lO8hDqBgWS4CkHhn) | 2:43 | 2021-12-16 | 2023-03-25 |
 | [Long Wave](https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Longwave](https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs) | 5:23 | 2022-03-30 | 2024-07-13 |
@@ -473,7 +474,7 @@
 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 | 2022-07-26 | 2022-12-01 |
 | [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 | 2022-12-05 | 2024-04-19 |
 | [Something Right](https://open.spotify.com/track/5Ec88SE65sNRZrcmVm6Qi8) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Maybe It's All We Dreamed Of](https://open.spotify.com/album/6yHHY9XFGfpGXlHfpm3ISF) | 4:04 | 2022-03-30 | 2022-04-21 |
-| [Sooth Lady Wine](https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Telluric](https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC) | 4:36 | 2024-08-14 |  |
+| [Sooth Lady Wine](https://open.spotify.com/track/035IK7Ba1IV61q9V6MD5FH) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Telluric](https://open.spotify.com/album/5jNjG588J6t474RR1Ch8NC) | 4:36 | 2024-08-14 | 2025-01-27 |
 | [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 | 2021-12-16 |  |
 | [Spirit](https://open.spotify.com/track/3u2WViddj3Zs5596XYsu7m) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/4J6wqBSyQiJDTedJbDs7YR) | 4:50 | 2022-03-30 | 2022-04-13 |
 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 | 2024-04-10 |  |

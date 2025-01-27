@@ -4,7 +4,7 @@
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from evilgiane &amp; Rojuu, plus the latest cuts from Major Lazer, MRD and more.
 
-660 songs - 1 day 13 hr 22 min
+661 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,7 +298,7 @@
 | [Ice Cream \- Dance System's Melted Mix](https://open.spotify.com/track/51NXmaYqw2elhFazzVSof8) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Ice Cream \(Remixes\)](https://open.spotify.com/album/4XPUW6nDXnbCVUwDKu1c9u) | 3:42 | 2022-06-03 | 2022-08-06 |
 | [Idea June](https://open.spotify.com/track/1NqqTOnwFzODsJECdvTE2S) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov) | 1:30 | 2024-05-24 | 2024-07-27 |
 | [If](https://open.spotify.com/track/2EYpvTvml0Yrrdjq3xZLNy) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Changing Channels](https://open.spotify.com/album/3bKp9TUgbHGhfRBsTQTAxS) | 5:08 | 2023-11-10 | 2024-04-26 |
-| [If i wan te d to o o o ^o.](https://open.spotify.com/track/7F304lzCnu9T9Uehlmg0WM) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Mietzee](https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1) | 2:03 | 2024-07-18 |  |
+| [If i wan te d to o o o ^o.](https://open.spotify.com/track/7F304lzCnu9T9Uehlmg0WM) | [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [Mietzee](https://open.spotify.com/album/6aPaVG3tb0UAxgzgVnIdg1) | 2:03 | 2024-07-18 | 2025-01-27 |
 | [Ija \- TOKiMONSTA Remix](https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Ija \(TOKiMONSTA Remix\)](https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf) | 3:10 | 2022-06-03 | 2022-08-06 |
 | [Illusion](https://open.spotify.com/track/23MT4lzlKIjhZw8lf8uKzp) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G), [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [Illusion](https://open.spotify.com/album/4rWOfSWboZ1OWQXaSmL7sQ) | 4:19 | 2024-07-14 |  |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 | 2024-04-26 |
@@ -406,6 +406,7 @@
 | [Naive \[Dadabots Infinite Remix\]](https://open.spotify.com/track/5FpOlantw9IONp5GNaG8uz) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED), [Dadabots](https://open.spotify.com/artist/0aB11GHSm0a5ntDOROj32V) | [Naive \[Dadabots Infinite Remix\]](https://open.spotify.com/album/1rWw2lZ5OfDAtiY6XcTeB6) | 3:19 | 2024-11-16 |  |
 | [Naughty Times](https://open.spotify.com/track/3HTEGxRw9cudQo8l82ra6h) | [Money Lang](https://open.spotify.com/artist/4sXjXTMEvVLMIEig1WGSXj) | [MMM](https://open.spotify.com/album/4Jj5ZJ0bQReonLgkyT32EV) | 2:32 | 2025-01-25 |  |
 | [Nausia](https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0) | [Delachute](https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX) | [Nausia](https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB) | 1:52 | 2024-04-26 | 2024-09-21 |
+| [Need Right](https://open.spotify.com/track/6yfA9fcHa6BDSWU8Osy5OO) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Need Right / Dogma](https://open.spotify.com/album/1Mwbe4PnWuhMnLSzVBgDdx) | 4:38 | 2025-01-27 |  |
 | [Need To Know](https://open.spotify.com/track/6qMEgI3Q98leMOlFeAKqmW) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Night Killaz Vol\. 2](https://open.spotify.com/album/4oxh61KL99ewB5vvYpXaiX) | 2:28 | 2024-09-20 | 2024-09-28 |
 | [Neo Costeno](https://open.spotify.com/track/2BSs5zfMyUe6whYwF50CqB) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Self Oscillation](https://open.spotify.com/album/1IFsw8Gq05lBJQWAcSM3I5) | 6:30 | 2022-08-05 | 2022-11-13 |
 | [never goes away](https://open.spotify.com/track/2jcHQX9RCMAl0PgioVMC0a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [never goes away](https://open.spotify.com/album/1QXYV1u9xU4bPP3FmimTzb) | 3:55 | 2024-11-16 |  |

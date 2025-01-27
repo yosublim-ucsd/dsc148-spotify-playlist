@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,754 likes - 120 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,757 likes - 120 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 23 | [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 |
 | 24 | [Bara du](https://open.spotify.com/track/4SFGfyfTZCeSRVVSrbkjVE) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Bara du](https://open.spotify.com/album/5Ca0rthfTkjCZnxiHlZrLX) | 2:01 |
 | 25 | [LONELY](https://open.spotify.com/track/51vLB58HYeCqEwRL32q2n4) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [LONELY](https://open.spotify.com/album/1Tsrdb9lp8vmFIZb98vtxT) | 2:00 |
-| 26 | [Din hand](https://open.spotify.com/track/2OgidT8VgKggeR66OyBgiV) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [Din hand](https://open.spotify.com/album/2ARirdF2yaPGquxnMn7LH5) | 2:12 |
+| 26 | [DIN HAND](https://open.spotify.com/track/2OgidT8VgKggeR66OyBgiV) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW) | [DIN HAND](https://open.spotify.com/album/2ARirdF2yaPGquxnMn7LH5) | 2:12 |
 | 27 | [VART SKA VI?](https://open.spotify.com/track/2aNb5z6abPZflm5xd3ZaYo) | [ATTI](https://open.spotify.com/artist/1Goz3lvDEpt5s0Y6mB6O8f) | [VART SKA VI?](https://open.spotify.com/album/44Z1dCJvHQtVIq6CYEwo73) | 2:01 |
 | 28 | [STÖRDA](https://open.spotify.com/track/0y5bqc1pwZ0ptNUCbsqzYd) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [ProdByR1](https://open.spotify.com/artist/5U8wjIW3UWL3B7Hee3VaDQ) | [STÖRDA](https://open.spotify.com/album/0Ttzx21RWBkvzS8MFbxhZP) | 2:06 |
 | 29 | [Kontakten](https://open.spotify.com/track/5eRDuCQRvkb0vmrDSqBE06) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Kontakten](https://open.spotify.com/album/3fg02bB0fsNYQg0OQKAy5j) | 2:34 |

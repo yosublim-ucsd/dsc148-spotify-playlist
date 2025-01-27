@@ -375,22 +375,6 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
-        "name": "Retratos",
-        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 261733,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
-    },
-    {
-      "added_at": "2024-10-04 13:58:33",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
-        "name": "Sentimento Brasileiro",
-        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
       },
       "artists": [
         {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
         }
       ],
-      "duration_ms": 171293,
-      "name": "Quando o povo entra na dan\u00e7a",
-      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
     },
     {
       "added_at": "2024-10-04 13:58:33",
@@ -487,6 +471,38 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
+        "name": "Luiz Melodia Especial MTV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h"
+      },
+      "artists": [
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "duration_ms": 185706,
+      "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
+    },
+    {
+      "added_at": "2024-10-04 13:58:33",
+      "album": {
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+    },
+    {
+      "added_at": "2024-10-04 13:58:33",
+      "album": {
         "name": "Argumento",
         "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 181466,
       "name": "\u00ca Baiana",
       "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
-    },
-    {
-      "added_at": "2024-10-04 13:58:33",
-      "album": {
-        "name": "Luiz Melodia Especial MTV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h"
-      },
-      "artists": [
-        {
-          "name": "Luiz Melodia",
-          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
-        }
-      ],
-      "duration_ms": 185706,
-      "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
     },
     {
       "added_at": "2024-10-04 13:58:33",

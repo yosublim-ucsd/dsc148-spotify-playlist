@@ -6,299 +6,59 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z47jgAAAAABOWUg/W8Q3mIxChwkIcRTz",
+  "snapshot_id": "Z47jgAAAAAAdvTTLxpW3Ry4LhBJzLSb3",
   "tracks": [
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "The Kite",
-        "url": "https://open.spotify.com/album/7gxIDPhYV8CA7cG9nLvhxw"
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
       },
       "artists": [
         {
-          "name": "Luisa Marion",
-          "url": "https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie"
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Talk It Up",
+      "url": "https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd"
+      },
+      "artists": [
+        {
+          "name": "Toby Sebastian",
+          "url": "https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP"
         },
         {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+          "name": "Florence Pugh",
+          "url": "https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq"
         }
       ],
-      "duration_ms": 235500,
-      "name": "The Kite",
-      "url": "https://open.spotify.com/track/3RAjJw4nQu1FMwmuTzsMbT"
+      "duration_ms": 285076,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1iFvYjVL7hMsWWM95lOFsc"
+        "name": "Atlas: Survive",
+        "url": "https://open.spotify.com/album/6CQOJdEaVnfMrimDadiedZ"
       },
       "artists": [
         {
-          "name": "Mega Simone",
-          "url": "https://open.spotify.com/artist/1bP2Nu4KMCgTkP1wI6IVUi"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 212449,
-      "name": "Hit Me Where the Heart Is",
-      "url": "https://open.spotify.com/track/4y0H6bzGNCxBv0th0PALqP"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Luminary",
-        "url": "https://open.spotify.com/album/1Rp6be6Sf31WO6tNZY3eR9"
-      },
-      "artists": [
-        {
-          "name": "Joel Sunny",
-          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Luminary",
-      "url": "https://open.spotify.com/track/66pWxtaxTV8CxcGOvivZeT"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "151a",
-        "url": "https://open.spotify.com/album/57hpjWfEY0q8USDRrMYMef"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 246173,
-      "name": "Manchester",
-      "url": "https://open.spotify.com/track/6Ehg6hFp7O2qUF3njy7dAj"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Describe what she was like",
-        "url": "https://open.spotify.com/album/69Q4fFALGxmiDaubbg7D2v"
-      },
-      "artists": [
-        {
-          "name": "2Klercs",
-          "url": "https://open.spotify.com/artist/4RC5rXUFioMvVmDdIefTdF"
-        }
-      ],
-      "duration_ms": 114871,
-      "name": "Describe what she was like",
-      "url": "https://open.spotify.com/track/7GvBXCHe1WNT84DpovyzyG"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Orange Blossoms",
-        "url": "https://open.spotify.com/album/1rhRxEgWl6CcDM87hJVGwD"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 192131,
-      "name": "Orange Blossoms",
-      "url": "https://open.spotify.com/track/3Xg2ZCPPKfWsj9W8cmLbHF"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Whipped Cream & Other Delights",
-        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Ladyfingers",
-      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "ParaNorman",
-        "url": "https://open.spotify.com/album/5IXZEGA5h7aGBwKZ31Rigi"
-      },
-      "artists": [
-        {
-          "name": "Jon Brion",
-          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
-        }
-      ],
-      "duration_ms": 173504,
-      "name": "Norman's Walk",
-      "url": "https://open.spotify.com/track/06MOMPokkhyLYztibnUZBE"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Rise of the Phoenix King",
-        "url": "https://open.spotify.com/album/2m6CKTcFqT63h6hxCtA2ds"
-      },
-      "artists": [
-        {
-          "name": "CJ Music",
-          "url": "https://open.spotify.com/artist/56C07WwXqmNmRXSmkmJFsK"
-        }
-      ],
-      "duration_ms": 126380,
-      "name": "Secret Tunnel",
-      "url": "https://open.spotify.com/track/4cjavUBMzPufoKM8718BFv"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Songs of the Sunrise Fox",
-        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
-      },
-      "artists": [
-        {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Aesop Mountain",
-      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "it's OK",
-        "url": "https://open.spotify.com/album/3pkvixHVOMIgXE0Y3TiVUt"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 201272,
-      "name": "Still Feel It All",
-      "url": "https://open.spotify.com/track/3Wg3B7XlnEWsKBSb2IzGQ3"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Portal 2: Songs to Test by (Collectors Edition)",
-        "url": "https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb"
-      },
-      "artists": [
-        {
-          "name": "Aperture Science Psychoacoustic Laboratories",
-          "url": "https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP"
-        }
-      ],
-      "duration_ms": 177212,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/2JVZSUwPWzfBdgkdy3ZHet"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "PERSONA5 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30c8\u30e9\u30b9\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
-          "url": "https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN"
-        }
-      ],
-      "duration_ms": 281813,
-      "name": "Beneath the Mask - instrumental version",
-      "url": "https://open.spotify.com/track/2Il4l22OHAP17Xvts61GHq"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
-      },
-      "artists": [
-        {
-          "name": "Ryn Weaver",
-          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Traveling Song",
-      "url": "https://open.spotify.com/track/33pMoOBpwJD9cF45ukuXaJ"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Field Notes",
-        "url": "https://open.spotify.com/album/1wjICs0eTHsi9JNGsvbc7I"
-      },
-      "artists": [
-        {
-          "name": "Annalise Emerick",
-          "url": "https://open.spotify.com/artist/4Kbdxhpo7iI1mEe69zxw3V"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Twinkling Lights",
-      "url": "https://open.spotify.com/track/2lxbM6i5Hykn7vDRrL7wdA"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Seven + Mary",
-        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 171025,
-      "name": "All That And More (Sailboat)",
-      "url": "https://open.spotify.com/track/1Bc2DgDK6W5iyWEFkI92fe"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "On the Other Side",
-        "url": "https://open.spotify.com/album/51bsId3cKJ6paV9l6KKIkC"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 248160,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/1z75CRovSzKUOpYbrV4Fuo"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "my friend's toyota",
-        "url": "https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah"
-      },
-      "artists": [
-        {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "my friend's toyota",
-      "url": "https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF"
+      "duration_ms": 241013,
+      "name": "Bloom (Eros)",
+      "url": "https://open.spotify.com/track/2cKkthxFdzFEmZeMThj2Sn"
     },
     {
       "added_at": "2025-01-20 05:00:00",
@@ -319,18 +79,18 @@
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Everything Everywhere All at Once (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu"
+        "name": "Orange Blossoms",
+        "url": "https://open.spotify.com/album/1rhRxEgWl6CcDM87hJVGwD"
       },
       "artists": [
         {
-          "name": "Son Lux",
-          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
         }
       ],
-      "duration_ms": 160288,
-      "name": "This Is How I Fight",
-      "url": "https://open.spotify.com/track/3M0Q7Zf7WIWA3DErPigGg8"
+      "duration_ms": 192131,
+      "name": "Orange Blossoms",
+      "url": "https://open.spotify.com/track/3Xg2ZCPPKfWsj9W8cmLbHF"
     },
     {
       "added_at": "2025-01-20 05:00:00",
@@ -351,114 +111,174 @@
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
+        "name": "Mama's Big Ones",
+        "url": "https://open.spotify.com/album/3x44BijmAfm1N7Cs7yILL4"
       },
       "artists": [
         {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+          "name": "Cass Elliot",
+          "url": "https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk"
         }
       ],
-      "duration_ms": 238480,
-      "name": "Talk It Up",
-      "url": "https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0"
+      "duration_ms": 139533,
+      "name": "Make Your Own Kind Of Music",
+      "url": "https://open.spotify.com/track/6H3Wa6hWR9DRMzMSd4pZkT"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Fan Dance",
-        "url": "https://open.spotify.com/album/7cqY3KGupEpMqCETqFbswF"
+        "name": "Exit Form",
+        "url": "https://open.spotify.com/album/1saEAlYnmTmxGMTo4x3fiR"
       },
       "artists": [
         {
-          "name": "Sam Phillips",
-          "url": "https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa"
+          "name": "Alejandro Aranda",
+          "url": "https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn"
         }
       ],
-      "duration_ms": 187506,
-      "name": "How to Dream",
-      "url": "https://open.spotify.com/track/1cPLddXCqw6uzyWy6tdtlK"
+      "duration_ms": 245836,
+      "name": "Out Loud - Remastered",
+      "url": "https://open.spotify.com/track/415YnURdXwND7z2GiVxtZm"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+        "name": "Hogwarts Legacy (Study Themes from the Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6RXj34onpdKyOKxLymuOMh"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "chuck e. myers 'sea'",
+          "url": "https://open.spotify.com/artist/3LgsL4KAyz5zPUMnDoZjCa"
+        },
+        {
+          "name": "Hogwarts Legacy",
+          "url": "https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2"
         }
       ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
+      "duration_ms": 183226,
+      "name": "Aire on the Side of Love",
+      "url": "https://open.spotify.com/track/2iDc9KmT8DnhEUzjIxkeET"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+        "name": "Songs of the Sunrise Fox",
+        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
       },
       "artists": [
         {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
         }
       ],
-      "duration_ms": 173093,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+      "duration_ms": 208280,
+      "name": "Aesop Mountain",
+      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "FINAL FANTASY VII REMAKE Original Soundtrack",
-        "url": "https://open.spotify.com/album/4zv8L6EVSRuUDQ3JTrbbhn"
+        "name": "Jacob and the Stone",
+        "url": "https://open.spotify.com/album/08qzpzjJjAhAAYp1ZRr0Ax"
       },
       "artists": [
         {
-          "name": "\u690d\u677e \u4f38\u592b",
-          "url": "https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW"
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
         }
       ],
-      "duration_ms": 175026,
-      "name": "FFVII REMAKE: Hollow Skies",
-      "url": "https://open.spotify.com/track/2QlmagF44acS9vxEXuLFvz"
+      "duration_ms": 139247,
+      "name": "Jacob and the Stone - Slowed",
+      "url": "https://open.spotify.com/track/4x3r948PzG7f2KQZ7jbrBs"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "What Was, Not Now",
-        "url": "https://open.spotify.com/album/0izGGxTiCAzk9Sgu8loZTe"
+        "name": "151a",
+        "url": "https://open.spotify.com/album/57hpjWfEY0q8USDRrMYMef"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
         }
       ],
-      "duration_ms": 291826,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/66h3xcrTooMC9AxV8g0Y75"
+      "duration_ms": 246173,
+      "name": "Manchester",
+      "url": "https://open.spotify.com/track/6Ehg6hFp7O2qUF3njy7dAj"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Nick Laird-Clowes",
+          "url": "https://open.spotify.com/artist/56OlOgSvpY0dGFjQaZhGAC"
         }
       ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+      "duration_ms": 142533,
+      "name": "The About Time Theme",
+      "url": "https://open.spotify.com/track/2uWMiNjIlRIF5iJ8uss76w"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Coarsegold",
+        "url": "https://open.spotify.com/album/6tOpEyxCEGW4vJzh7m6yxU"
+      },
+      "artists": [
+        {
+          "name": "Creed Bratton",
+          "url": "https://open.spotify.com/artist/2hLcUCdtqgnTaPA0lZJ1oZ"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "All The Faces",
+      "url": "https://open.spotify.com/track/4BJhs8XWyr2M4MLvS4CSKx"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "the way that i am",
+        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 177149,
+      "name": "the way that i am",
+      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Past Lives (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn"
+      },
+      "artists": [
+        {
+          "name": "Christopher Bear",
+          "url": "https://open.spotify.com/artist/0emf9Ah5yNpbvhS49Bl3zt"
+        },
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 245795,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/2E9Mfz6CKQVDNVUGSyFeTg"
     },
     {
       "added_at": "2025-01-20 05:00:00",
@@ -479,22 +299,222 @@
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Five: Partings - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk"
+        "name": "Inside Llewyn Davis: Original Soundtrack Recording",
+        "url": "https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin"
       },
       "artists": [
         {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+          "name": "Oscar Isaac",
+          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
         },
         {
-          "name": "Megan Richards",
-          "url": "https://open.spotify.com/artist/1HGr7gYjFUt2S3LmL9hbGG"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         }
       ],
-      "duration_ms": 128556,
-      "name": "This Wandering Day",
-      "url": "https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni"
+      "duration_ms": 180400,
+      "name": "Fare Thee Well (Dink's Song)",
+      "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/6HBNGrp119jJwbklsGOuUh"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "ParaNorman",
+        "url": "https://open.spotify.com/album/5IXZEGA5h7aGBwKZ31Rigi"
+      },
+      "artists": [
+        {
+          "name": "Jon Brion",
+          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
+        }
+      ],
+      "duration_ms": 173504,
+      "name": "Norman's Walk",
+      "url": "https://open.spotify.com/track/06MOMPokkhyLYztibnUZBE"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "True That",
+        "url": "https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5"
+      },
+      "artists": [
+        {
+          "name": "Michael Cera",
+          "url": "https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "(i would have followed you)",
+        "url": "https://open.spotify.com/album/7oODsnDx7Pccntmf78OzQM"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/0yDghAfS3CT7Di30WoJE7h"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "I'd Have to Think About It",
+        "url": "https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 150141,
+      "name": "I'd Have to Think About It",
+      "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
+      },
+      "artists": [
+        {
+          "name": "Emma Thompson",
+          "url": "https://open.spotify.com/artist/4tB1f1h4TQqDz4bNaibMpl"
+        },
+        {
+          "name": "Peigi Barker",
+          "url": "https://open.spotify.com/artist/7qFPUIUb5iU3p3q1ZAyszH"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "Noble Maiden Fair (A Mhaighdean Bhan Uasal) - From \"Brave\"/Soundtrack",
+      "url": "https://open.spotify.com/track/47d2mzkc3bPUD93NB0gKLR"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 268488,
+      "name": "Hide and Seek",
+      "url": "https://open.spotify.com/track/2tej1KSqNuxwywIpY1rDRc"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Seven + Mary",
+        "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 171025,
+      "name": "All That And More (Sailboat)",
+      "url": "https://open.spotify.com/track/1Bc2DgDK6W5iyWEFkI92fe"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Ted Lasso: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5USNWnvRSYMdG7CUVhG1B0"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Tom Howe",
+          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
+        }
+      ],
+      "duration_ms": 132080,
+      "name": "Dad & Darts",
+      "url": "https://open.spotify.com/track/2OqEvGkERXnwe4hghMyltD"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Doctor Who - Series 7 (Original Television Soundtrack / Deluxe Version)",
+        "url": "https://open.spotify.com/album/4w1p9Csd8ljUyoClCpfmhT"
+      },
+      "artists": [
+        {
+          "name": "Murray Gold",
+          "url": "https://open.spotify.com/artist/3vmtDGkzacafVdenyPHPMb"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "The Long Song - From \"Doctor Who\" Series 7",
+      "url": "https://open.spotify.com/track/2E27d8ONfN4H7clLIfWAic"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "twelvefour",
+        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Electric Indigo",
+      "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "The Chronicles of Narnia: The Lion, The Witch and The Wardrobe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/01wn5MrXTUWjdYTLYC2wqU"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "The Battle",
+      "url": "https://open.spotify.com/track/1ze3GTOVgAG5xLVrvcEoUS"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

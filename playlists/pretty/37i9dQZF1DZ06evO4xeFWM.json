@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 216453,
+  "num_followers": 216459,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAABthFcooIs+1G9Yv1UQBJ3j",
+  "snapshot_id": "Z5QpgAAAAABUbpjbfpbWj4R188rKhlc8",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 240746,
+      "name": "Things We Lost In The Fire",
+      "url": "https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Angels",
         "url": "https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 232373,
       "name": "No Angels",
       "url": "https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 240746,
-      "name": "Things We Lost In The Fire",
-      "url": "https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Essie & Paul",
-      "url": "https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d"
+      "duration_ms": 221600,
+      "name": "Red Wine & Wilde",
+      "url": "https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Red Wine & Wilde",
-      "url": "https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6"
+      "duration_ms": 217866,
+      "name": "Essie & Paul",
+      "url": "https://open.spotify.com/track/0CjGEiQSSzaewLVuvKTj1d"
     },
     {
       "added_at": null,

@@ -9623,6 +9623,24 @@
     },
     {
       "album": {
+        "name": "Find a Way",
+        "url": "https://open.spotify.com/album/08S96gDKVPfwDFeLttFZpI"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2SH1fMTuhPQt49xeLXQ6xi"
+    },
+    {
+      "album": {
         "name": "find your own",
         "url": "https://open.spotify.com/album/0cT4iKCq6y1FfXjcaMTqqC"
       },
@@ -23186,7 +23204,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 183066,
       "name": "Ragdoll",
       "url": "https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF"

@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 18696,
+  "num_followers": 18698,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAAAOGnjpN93f5AG9+xOyszi0",
+  "snapshot_id": "Z5QpgAAAAAAODGeZD3uZqtM8EX6xk5HW",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diana (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "Diana (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Havoc",
         "url": "https://open.spotify.com/album/62m2Y4PVeyW4TbmPSBvb0x"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 125853,
       "name": "Mean",
       "url": "https://open.spotify.com/track/3PXi72ZtSqx1PZc40KS0Qj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diana (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/7E0jB8tjVNMG1phWYiLEm4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Diana (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/49ZXHFSsv5gkknhNqubu0R"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Boys: Ride Or Die Soundtrack",
+        "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 131700,
+      "name": "DUH!",
+      "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wet Dreams (feat. coop & gg)",
         "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 159090,
       "name": "Wet Dreams (feat. coop & gg)",
       "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boys: Ride Or Die Soundtrack",
-        "url": "https://open.spotify.com/album/5ZeYTX0MWneFbHTk7mZd9l"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 131700,
-      "name": "DUH!",
-      "url": "https://open.spotify.com/track/10gY0uKOkUD7Kz3utYykZ7"
     },
     {
       "added_at": null,
@@ -615,26 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
-        "url": "https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ"
+        "name": "BGC",
+        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
       },
       "artists": [
         {
-          "name": "YungManny",
-          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
-        },
-        {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Sada Baby",
-          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
         }
       ],
-      "duration_ms": 125579,
-      "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
-      "url": "https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX"
+      "duration_ms": 156877,
+      "name": "BGC",
+      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
     },
     {
       "added_at": null,
@@ -671,6 +663,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
+        "url": "https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ"
+      },
+      "artists": [
+        {
+          "name": "YungManny",
+          "url": "https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "duration_ms": 125579,
+      "name": "Clap For 'Em (feat. Flo Milli & Sada Baby)",
+      "url": "https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roaring 20s",
         "url": "https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 129145,
       "name": "Roaring 20s",
       "url": "https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BGC",
-        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 156877,
-      "name": "BGC",
-      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
     },
     {
       "added_at": null,

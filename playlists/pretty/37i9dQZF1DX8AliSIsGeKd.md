@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Niconé, KANYKEI
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,402 likes - 88 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,558 likes - 88 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 75827,
+  "num_followers": 75850,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAABdC3ZiQD8c1g8Z+rOhztSv",
+  "snapshot_id": "Z5QpgAAAAAAMUf3tqjSqCdDpraLmXgj9",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+        "name": "Rise of the Tyrant",
+        "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 260693,
-      "name": "Leader of the Rats",
-      "url": "https://open.spotify.com/track/1qOzN09z3hBMfcUBaBi40Q"
+      "duration_ms": 251586,
+      "name": "Revolution Begins",
+      "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise of the Tyrant",
-        "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 251586,
-      "name": "Revolution Begins",
-      "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
+      "duration_ms": 260693,
+      "name": "Leader of the Rats",
+      "url": "https://open.spotify.com/track/1qOzN09z3hBMfcUBaBi40Q"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 254893,
-      "name": "Silent Wars",
-      "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
+      "duration_ms": 233000,
+      "name": "Dead Bury Their Dead",
+      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Dead Bury Their Dead",
-      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
+      "duration_ms": 254893,
+      "name": "Silent Wars",
+      "url": "https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
       "duration_ms": 281386,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/122dV7zqPVekyeVmJQXnvD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "End of the Line",
-      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "End of the Line",
+      "url": "https://open.spotify.com/track/3cOcIZjwVIJeVqKVUA5WaG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rise of the Tyrant",
         "url": "https://open.spotify.com/album/4ghmUVjSEgjv96xEARObbl"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 292866,
       "name": "The Day You Died",
       "url": "https://open.spotify.com/track/4jVjUOl1gwcHCWxwlWY0zf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Despicable Heroes",
-      "url": "https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 291533,
       "name": "Heart of Darkness",
       "url": "https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Despicable Heroes",
+      "url": "https://open.spotify.com/track/7C1mBzRzBAK1iwxD8CEC5J"
     },
     {
       "added_at": null,

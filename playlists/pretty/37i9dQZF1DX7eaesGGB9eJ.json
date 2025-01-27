@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 254066,
+  "num_followers": 254144,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Volumen Prohibido",
-        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223066,
-      "name": "Hey Si Me Ven",
-      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Directo Hasta Arriba",
         "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 211000,
       "name": "Aunque la Vida Duele",
       "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Volumen Prohibido",
+        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Hey Si Me Ven",
+      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "La Durango",
         "url": "https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT"
       },
@@ -359,22 +343,6 @@
       "duration_ms": 250259,
       "name": "La Durango",
       "url": "https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "La Sangre Nunca Muere",
-        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "La Sangre Nunca Muere",
-      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -395,18 +363,34 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "La Plaga (Digitally Remastered Remix)",
-        "url": "https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7"
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
       },
       "artists": [
         {
-          "name": "Tha Mexakinz",
-          "url": "https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 227000,
-      "name": "La Plaga (Digitally Remastered Remix)",
-      "url": "https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP"
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "La Sangre Nunca Muere",
+        "url": "https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "La Sangre Nunca Muere",
+      "url": "https://open.spotify.com/track/3Y3gM4rXlaDgiNqEQDBPfw"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -423,6 +407,22 @@
       "duration_ms": 452278,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "La Plaga (Digitally Remastered Remix)",
+        "url": "https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7"
+      },
+      "artists": [
+        {
+          "name": "Tha Mexakinz",
+          "url": "https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "La Plaga (Digitally Remastered Remix)",
+      "url": "https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "La Pelotona",
-      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
       },
@@ -491,22 +475,6 @@
       "duration_ms": 195520,
       "name": "Soy",
       "url": "https://open.spotify.com/track/1XZ68E2kEhDEVHGmpQkCED"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
-      },
-      "artists": [
-        {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Raza Es Raza",
-      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -623,6 +591,38 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 221586,
+      "name": "La Pelotona",
+      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Raza Es Raza",
+      "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
         "name": "No Podr\u00eda Estar Mejor",
         "url": "https://open.spotify.com/album/61sTVZp2ZIm2Dm9GI80wr7"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "El Manual de la Otredad",
-        "url": "https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je"
-      },
-      "artists": [
-        {
-          "name": "Bocafloja",
-          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Los Gritos del Iconoclasta",
-      "url": "https://open.spotify.com/track/6lL57yMaGuGDo72seXNc7g"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/35yKHPYCGKeXUkwScXldmZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 215586,
       "name": "Plata o Plomo (feat. Eugenia Le\u00f3n)",
       "url": "https://open.spotify.com/track/1lCSrtvSwDH0BWXvlLJyyW"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "El Manual de la Otredad",
+        "url": "https://open.spotify.com/album/6lANLMg7Q9hnmRSlrWa2Je"
+      },
+      "artists": [
+        {
+          "name": "Bocafloja",
+          "url": "https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Los Gritos del Iconoclasta",
+      "url": "https://open.spotify.com/track/6lL57yMaGuGDo72seXNc7g"
     },
     {
       "added_at": "2024-07-12 18:14:48",

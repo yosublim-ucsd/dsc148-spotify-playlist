@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: Kickflip\(킥플립\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,457 likes - 136 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,514 likes - 136 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BACK PACKER](https://open.spotify.com/track/1qlKEWVnWXphYmpQ8DT3X4) | [SEOK MATTHEW](https://open.spotify.com/artist/7D345EoOMCNCzcs3o4ycWO), [PARK GUNWOOK](https://open.spotify.com/artist/6kFlCDPded459r82IXDAPt) | [STUDY GROUP \(Music from the Tving Original Series\), Pt\. 1](https://open.spotify.com/album/4jqceG6FGehJS2nyZPajIz) | 2:57 |
-| 2 | [SOS \- Miami Bass Version](https://open.spotify.com/track/6mY0rdvsLjLQi2NIUCmph2) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune: Rewired](https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B) | 3:04 |
+| 2 | [SOS \- Miami Bass Remix](https://open.spotify.com/track/6mY0rdvsLjLQi2NIUCmph2) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune: Rewired](https://open.spotify.com/album/5ZY7p28JBut9fdAOo8ge9B) | 3:04 |
 | 3 | [After Love \(feat\. Jadu\)](https://open.spotify.com/track/3FBUUvYkwQ6BXAIYCaOOfZ) | [PK Heman](https://open.spotify.com/artist/1aS9gx7rwp3XosSafbMXIe), [Jadu](https://open.spotify.com/artist/1prVkEjXrTGVM5vaVynrqV) | [GoodBye](https://open.spotify.com/album/1lmL4Zly2tK02ZRhAhGzMO) | 3:07 |
 | 4 | [the season](https://open.spotify.com/track/7Lq3ap7f5AuBX4TNPoFuve) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI) | [the season](https://open.spotify.com/album/6dlUUtZaDTmrkf2mTO61tG) | 3:11 |
 | 5 | [THUNDER](https://open.spotify.com/track/3yGt3kgfeNIrILkgDXugWn) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 7th EP Album 'THUNDER FEVER'](https://open.spotify.com/album/2nSCUHuZUDtFJYDctKXSNg) | 3:29 |

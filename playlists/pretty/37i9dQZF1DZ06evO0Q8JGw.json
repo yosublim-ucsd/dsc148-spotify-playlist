@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 772323,
+  "num_followers": 772392,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAACp/l4DkJ5o4ORF8tN8KwnU",
+  "snapshot_id": "Z5QpgAAAAAB686h/Yw660I75lpyeFHbD",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vitalogy",
-        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 352586,
-      "name": "Not for You",
-      "url": "https://open.spotify.com/track/5gdmwS7vtRb8AGGRio84uX"
+      "duration_ms": 265306,
+      "name": "Dance Of The Clairvoyants",
+      "url": "https://open.spotify.com/track/58AraOVFl5hUtZuPvaOXFw"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 265306,
-      "name": "Dance Of The Clairvoyants",
-      "url": "https://open.spotify.com/track/58AraOVFl5hUtZuPvaOXFw"
+      "duration_ms": 352586,
+      "name": "Not for You",
+      "url": "https://open.spotify.com/track/5gdmwS7vtRb8AGGRio84uX"
     },
     {
       "added_at": null,

@@ -6,8 +6,28 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADJBd1g+8u5Wxj6KwzRokiN2ZC9aPG",
+  "snapshot_id": "AAADJWeZAzOGwpUjlf/B3fuu2m+X/cGL",
   "tracks": [
+    {
+      "added_at": "2025-01-27 01:30:23",
+      "album": {
+        "name": "Don't Play",
+        "url": "https://open.spotify.com/album/6ev9CsA87Vs4hht6DQkWnc"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/4jmSBoKdI4v6xgF9B88u9Q"
+        },
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Don't Play",
+      "url": "https://open.spotify.com/track/2F99j2WpQ5GRWoTAQZ0rPQ"
+    },
     {
       "added_at": "2025-01-25 02:26:36",
       "album": {

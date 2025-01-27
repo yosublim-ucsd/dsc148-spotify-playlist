@@ -1,6 +1,6 @@
 {
   "description": "\u662d\u548c\u306e\u6642\u4ee3\u3092\u5f69\u3063\u305f\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 5000,
+  "num_followers": 5017,
   "original_name": "\u662d\u548c\u30a2\u30cb\u30e1",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-08-28 15:33:15",
       "album": {
-        "name": "\u30a4\u30ca\u30ba\u30dechallenger",
-        "url": "https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk"
-      },
-      "artists": [
-        {
-          "name": "\u6a4b\u672c\u6f6e",
-          "url": "https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af\u3042\u3052\u308b\u3088 (21st century ver.) (\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb)",
-      "url": "https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k"
-    },
-    {
-      "added_at": "2024-08-28 15:33:15",
-      "album": {
         "name": "\u4e03\u5915\u591c\u60f3\u66f2\u301c\u6751\u4e0b\u5b5d\u8535\u6700\u9ad8\u9078\u66f2\u96c6\u3000\u5176\u306e\u58f1",
         "url": "https://open.spotify.com/album/0mSArU5DtMhrICuIxA5TAW"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 241840,
       "name": "\u967d\u3060\u307e\u308a",
       "url": "https://open.spotify.com/track/78xp4c2NQbOM2ox1JU6aTQ"
+    },
+    {
+      "added_at": "2024-08-28 15:33:15",
+      "album": {
+        "name": "\u30a4\u30ca\u30ba\u30dechallenger",
+        "url": "https://open.spotify.com/album/0hpMu2hY2AgNAdSAiTLJxk"
+      },
+      "artists": [
+        {
+          "name": "\u6a4b\u672c\u6f6e",
+          "url": "https://open.spotify.com/artist/6rh54tROaLOFxWkHMPIs3q"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "\u30ed\u30de\u30f3\u30c6\u30a3\u30c3\u30af\u3042\u3052\u308b\u3088 (21st century ver.) (\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb)",
+      "url": "https://open.spotify.com/track/7mLJwAZidHg2NCZekzBb5k"
     },
     {
       "added_at": "2024-08-28 15:33:15",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-28 15:33:15",
       "album": {
-        "name": "\u8056\u6226\u58eb\u30c0\u30f3\u30d0\u30a4\u30f3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u7dcf\u97f3\u697d\u96c6",
-        "url": "https://open.spotify.com/album/3toe4GbpIL80W5j2KriGSZ"
-      },
-      "artists": [
-        {
-          "name": "MIO",
-          "url": "https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh"
-        }
-      ],
-      "duration_ms": 256959,
-      "name": "\u30c0\u30f3\u30d0\u30a4\u30f3 \u3068\u3076",
-      "url": "https://open.spotify.com/track/6Pq75f0vDP0MFY3E4Lp9sx"
-    },
-    {
-      "added_at": "2024-08-28 15:33:15",
-      "album": {
         "name": "\u300c\u6620\u753b \u8d85\u6642\u7a7a\u8981\u585e\u30de\u30af\u30ed\u30b9\u300d \u611b\u30fb\u304a\u307c\u3048\u3066\u3044\u307e\u3059\u304b \uff1c\u97f3\u697d\u7bc7\uff1e",
         "url": "https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": "2024-08-28 15:33:15",
       "album": {
+        "name": "\u8056\u6226\u58eb\u30c0\u30f3\u30d0\u30a4\u30f3 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u7dcf\u97f3\u697d\u96c6",
+        "url": "https://open.spotify.com/album/3toe4GbpIL80W5j2KriGSZ"
+      },
+      "artists": [
+        {
+          "name": "MIO",
+          "url": "https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "\u30c0\u30f3\u30d0\u30a4\u30f3 \u3068\u3076",
+      "url": "https://open.spotify.com/track/6Pq75f0vDP0MFY3E4Lp9sx"
+    },
+    {
+      "added_at": "2024-08-28 15:33:15",
+      "album": {
         "name": "\uff31\uff35\uff21\uff32\uff34\uff25\uff32\uff22\uff21\uff23\uff2b",
         "url": "https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 245800,
       "name": "NIGHT OF SUMMER SIDE",
       "url": "https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH"
-    },
-    {
-      "added_at": "2024-08-28 15:33:15",
-      "album": {
-        "name": "The Voice From Yesterday",
-        "url": "https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu"
-      },
-      "artists": [
-        {
-          "name": "Make-Up",
-          "url": "https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "\u30da\u30ac\u30b5\u30b9\u5e7b\u60f3 (21st century ver.)",
-      "url": "https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L"
     },
     {
       "added_at": "2024-08-28 15:33:15",
@@ -783,18 +767,18 @@
     {
       "added_at": "2024-08-28 15:33:15",
       "album": {
-        "name": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226 \u30dc\u30fc\u30ab\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 ROBONATION.1",
-        "url": "https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz"
+        "name": "The Voice From Yesterday",
+        "url": "https://open.spotify.com/album/1upxJvZfXW9MotDke2YARu"
       },
       "artists": [
         {
-          "name": "Ichirou Mizuki",
-          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+          "name": "Make-Up",
+          "url": "https://open.spotify.com/artist/0zCouXT81OzO9waNn1PjAh"
         }
       ],
-      "duration_ms": 175466,
-      "name": "\u30b3\u30f3\u30fb\u30d0\u30c8\u30e9\uff0dV\u306e\u30c6\u30fc\u30de (\u8d85\u96fb\u78c1\u30ed\u30dc \u30b3\u30f3\u30fb\u30d0\u30c8\u30e9\u30fcV)",
-      "url": "https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM"
+      "duration_ms": 217440,
+      "name": "\u30da\u30ac\u30b5\u30b9\u5e7b\u60f3 (21st century ver.)",
+      "url": "https://open.spotify.com/track/61XLSs4TKj8Ac0LFWz0j0L"
     },
     {
       "added_at": "2024-08-28 15:33:15",
@@ -811,6 +795,22 @@
       "duration_ms": 200200,
       "name": "\u708e\u306e\u3055\u3060\u3081",
       "url": "https://open.spotify.com/track/3Id0aE90BTr56qTxuILr8x"
+    },
+    {
+      "added_at": "2024-08-28 15:33:15",
+      "album": {
+        "name": "\u30b9\u30fc\u30d1\u30fc\u30ed\u30dc\u30c3\u30c8\u5927\u6226 \u30dc\u30fc\u30ab\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 ROBONATION.1",
+        "url": "https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz"
+      },
+      "artists": [
+        {
+          "name": "Ichirou Mizuki",
+          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "\u30b3\u30f3\u30fb\u30d0\u30c8\u30e9\uff0dV\u306e\u30c6\u30fc\u30de (\u8d85\u96fb\u78c1\u30ed\u30dc \u30b3\u30f3\u30fb\u30d0\u30c8\u30e9\u30fcV)",
+      "url": "https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM"
     },
     {
       "added_at": "2024-08-28 15:33:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > First Nations Throwbacks forever!! Always was\. Always will be\. <br/>Cover: Troy Cassar\-Daley
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,065 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,061 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

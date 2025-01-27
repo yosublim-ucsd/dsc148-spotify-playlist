@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
+        "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183156,
+      "name": "Everything Changes... But All Remains",
+      "url": "https://open.spotify.com/track/0l4EXKxTWO1DvP5wnGt14m"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },

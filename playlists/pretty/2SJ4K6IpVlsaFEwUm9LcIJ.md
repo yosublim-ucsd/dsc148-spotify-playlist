@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,655 likes - 33 songs - 2 hr 13 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,655 likes - 35 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [The Mystery At Ogwen's Farm](https://open.spotify.com/track/63biskPX3EbVQjQQHIrW5t) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 2:59 |
 | 32 | [The Magic Beads](https://open.spotify.com/track/09wT85Fj2n6SX5nIMQlz4z) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 6:28 |
 | 33 | [Writers Are A Funny Breed](https://open.spotify.com/track/1aP0wJDXGkwZw8N8Pcualq) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 5:29 |
+| 34 | [I B Yours](https://open.spotify.com/track/6fDyAzbpFIEyE9g4LoqlDD) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 4:14 |
+| 35 | [Twenty Trees](https://open.spotify.com/track/0Gl6BDxRo6hr8zQ8l2ghu5) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Time Was Gigantic......\. When We Were Kids](https://open.spotify.com/album/1pA18sbHzaYqzGKCtdGiY1) | 7:50 |
 
-Snapshot ID: `AAALy8LVPrtWF+glzCBp1VbFg5GWUNrT`
+Snapshot ID: `AAALzV3WY4d1ccw/h8fTrqoo5COUwV6J`

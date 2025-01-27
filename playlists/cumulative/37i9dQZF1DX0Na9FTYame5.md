@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Trettmann, MAJAN
 
-166 songs - 7 hr 32 min
+167 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Glatteis](https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fieber / Glatteis](https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f) | 3:22 | 2024-06-28 |  |
 | [Gott weiß wie](https://open.spotify.com/track/6Yr5PW6L7rZ47M6fzFlTTg) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Gott weiß wie](https://open.spotify.com/album/2S1CkjKoS2NFpx98IfoFIY) | 2:22 | 2024-10-10 | 2024-12-17 |
 | [Haare trocknen](https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Haare trocknen](https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF) | 2:52 | 2024-08-26 |  |
-| [Happy Birthday](https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Happy Birthday](https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580) | 3:36 | 2024-06-28 |  |
+| [Happy Birthday](https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Happy Birthday](https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580) | 3:36 | 2024-06-28 | 2025-01-27 |
 | [Happy ohne dich](https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Happy ohne dich](https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV) | 2:13 | 2024-09-16 |  |
 | [Herzfeind \- Titelsong zum Film „Trauzeugen“](https://open.spotify.com/track/0BxwNmVneOi0XkSbvwdk6Z) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Herzfeind \(Titelsong zum Film „Trauzeugen“\)](https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ) | 2:30 | 2024-06-28 |  |
 | [Hier](https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Verlieren/Gefunden](https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi) | 2:26 | 2024-07-25 | 2024-09-08 |
@@ -115,6 +115,7 @@
 | [Morpheus](https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [König für immer](https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ) | 3:10 | 2024-06-28 | 2024-07-24 |
 | [MÜNCHEN GIRLS](https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [MÜNCHEN GIRLS](https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV) | 2:51 | 2024-06-28 | 2024-09-10 |
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-06-28 |  |
+| [Narben](https://open.spotify.com/track/2Y0H8oWAJzDpkMIb9sEKTK) | [yAN](https://open.spotify.com/artist/15dImMpI2Fu5LwzhpcLHW9) | [Narben](https://open.spotify.com/album/3WL1zqCZ7ClKg9fjaaNQQo) | 2:38 | 2025-01-20 |  |
 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 | 2024-06-28 |  |
 | [Nie wieder sehen](https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Nie wieder sehen](https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY) | 2:41 | 2024-06-28 |  |
 | [Normal ist](https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Normal ist](https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1) | 1:41 | 2024-06-28 | 2024-11-12 |

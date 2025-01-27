@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Esme Emerson
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,672 likes - 219 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,669 likes - 219 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

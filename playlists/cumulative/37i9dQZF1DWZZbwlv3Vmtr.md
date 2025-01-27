@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-998 songs - 1 day 14 hr 40 min
+1,000 songs - 1 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Constellations](https://open.spotify.com/track/5RFKFFRvfkD1dit5DB6bfW) | [Yinoluu](https://open.spotify.com/artist/4hxXN5tCtr28dBaKTsCYii) | [Constellations](https://open.spotify.com/album/5R9aCPjyp8MF2cZ5THlw2E) | 2:40 | 2022-10-28 | 2023-10-20 |
 | [Controlled Chaos](https://open.spotify.com/track/0pZJVnPfaV3TgYLDGzrHeX) | [LazyBlaze](https://open.spotify.com/artist/0UU3MtrctLPXvQy6Puj7v1) | [Controlled Chaos](https://open.spotify.com/album/2LcmG3z9Yx1KJnMnFeHpni) | 2:13 | 2022-04-15 | 2022-09-09 |
 | [Coral](https://open.spotify.com/track/55RpiZ4sQaEEbcGAOukL3S) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Coral](https://open.spotify.com/album/7hIWp2pPbMvTSQw7btmWWz) | 2:33 | 2022-04-15 | 2022-06-10 |
-| [Cozy Cafe Chronicles](https://open.spotify.com/track/7AkFbB3kTXZMhweCGFuhnD) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Cozy Cafe Chronicles](https://open.spotify.com/album/1p9LKWRXihREGQJFsYcHZW) | 1:52 | 2023-04-28 |  |
+| [Cozy Cafe Chronicles](https://open.spotify.com/track/7AkFbB3kTXZMhweCGFuhnD) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Cozy Cafe Chronicles](https://open.spotify.com/album/1p9LKWRXihREGQJFsYcHZW) | 1:52 | 2023-04-28 | 2025-01-27 |
 | [crimeage](https://open.spotify.com/track/0tFutaV60AviDnHLPWoViG) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [crimeage](https://open.spotify.com/album/1l2lkRiQHM1qvb43BEsMdp) | 2:04 | 2023-01-20 |  |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2022-04-15 | 2022-07-29 |
 | [crying in the coupe](https://open.spotify.com/track/5oWdA9tf8u8nBdMscpKtTx) | [boone](https://open.spotify.com/artist/7k8Bmj6nhufgVpoVrGDKib) | [crying in the coupe](https://open.spotify.com/album/4hcVFgwEJOb2bchyx3GOBp) | 2:24 | 2022-08-12 | 2022-12-10 |
@@ -569,7 +569,7 @@
 | [Nightfall](https://open.spotify.com/track/1U4SM2KN49g01Q4G42wBU3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Nightfall](https://open.spotify.com/album/5GnUgFtiNggX7qZf7fBkoC) | 2:18 | 2022-07-29 | 2022-08-12 |
 | [Nightlie](https://open.spotify.com/track/1BtS1rydHXYKyGyIrrrfph) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Nightlie](https://open.spotify.com/album/0GC1DNI4n7wFxDEEGSpuqC) | 2:14 | 2024-03-22 |  |
 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 | 2022-04-15 | 2022-07-01 |
-| [Noon](https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Noon](https://open.spotify.com/album/6LQNlc436wtwnuK8xr8WNz) | 1:37 | 2022-12-09 |  |
+| [Noon](https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Noon](https://open.spotify.com/album/6LQNlc436wtwnuK8xr8WNz) | 1:37 | 2022-12-09 | 2025-01-27 |
 | [Nostalgia](https://open.spotify.com/track/6j6ZILBUn4Db0eC8dwSpxg) | [Betty Michaels](https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Nostalgia](https://open.spotify.com/album/25lzc5egcw786yCAD1n5W2) | 2:41 | 2022-10-28 | 2023-10-06 |
 | [Nostalgia Midnight Blue](https://open.spotify.com/track/2mc1gRCwxC8LP4qtX90qgv) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Nostalgia Midnight Blue](https://open.spotify.com/album/0C47SewkHps0G91nwTcASm) | 3:07 | 2022-06-10 |  |
 | [Nostalgic](https://open.spotify.com/track/7qT2KT4j6HZ6qCyQ8mLv1s) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Nostalgic](https://open.spotify.com/album/4Kw3dlJ1SVQxwj5o4J2GJ9) | 1:52 | 2023-12-22 |  |
@@ -579,6 +579,7 @@
 | [Oasis](https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC) | [Kival](https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp) | [Oasis](https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV) | 2:44 | 2023-09-22 |  |
 | [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 | 2023-01-13 | 2025-01-05 |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-09-27 |  |
+| [Off the Grid](https://open.spotify.com/track/6bmBDrRgDi0MuDu3TCTq0d) | [Spitzgefühl](https://open.spotify.com/artist/1sxYUZPD5cbz9jqdNqR3lk) | [Off the Grid](https://open.spotify.com/album/2SIhBpm83H8nMC0ZMkBnGJ) | 2:14 | 2025-01-24 |  |
 | [Okains Bay](https://open.spotify.com/track/7IdC8X9vBmMuwWmKKkawu7) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Okains Bay](https://open.spotify.com/album/1XlYdgPcRKZCYgYJWkZ42z) | 2:22 | 2022-05-27 | 2022-07-22 |
 | [Okazaki](https://open.spotify.com/track/18oMqdCWXJArEw8xhShvKl) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Okazaki](https://open.spotify.com/album/7HwHTrwLX8E8SGDL0dS25G) | 1:57 | 2022-12-09 | 2024-09-08 |
 | [Old Station](https://open.spotify.com/track/7AkXVemlM82Kzf5UgwRllt) | [Sunday Mode](https://open.spotify.com/artist/3PSRhjSFWiUbcwtNVJDt4J) | [Old Station](https://open.spotify.com/album/6hToJyqXTZCfjtk80u4VtL) | 1:36 | 2022-04-15 |  |
@@ -778,6 +779,7 @@
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/2wzdxTtpdHaVx9vkSaC6mI) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Softly As In A Morning Sunrise](https://open.spotify.com/album/7iBqSO4KtMIzoqe3SzzxYg) | 2:55 | 2022-05-20 | 2022-08-19 |
 | [Softube](https://open.spotify.com/track/3EGVkqdu333Vzd94rN0NMf) | [Myles and Myles](https://open.spotify.com/artist/5p3Ec9LGzE9aa8l3GW2xo8) | [Ride Out](https://open.spotify.com/album/3gbYpIEF04ngDLsEnvRiR7) | 3:56 | 2022-04-15 | 2022-09-17 |
 | [solstice](https://open.spotify.com/track/0nSchxt6Ucc5gSX5n8HnLV) | [owlh](https://open.spotify.com/artist/0kCNNJfXF8AOSqRIC4aoza) | [in the clouds](https://open.spotify.com/album/3MxySDz5dvG7BxCttkLEue) | 3:43 | 2022-09-23 | 2023-10-20 |
+| [Somber](https://open.spotify.com/track/2TDQlamYl8cSi6C5mk2xkp) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Somber](https://open.spotify.com/album/7IMkSebRnzJSYaiSYhPVmi) | 2:42 | 2025-01-24 |  |
 | [Sometime](https://open.spotify.com/track/5wlLF3893tOtvLR6pSkodi) | [Natural Yoghurt](https://open.spotify.com/artist/4TeR99t1Oz0dXu0xTFAt5J) | [Can't make it without U](https://open.spotify.com/album/6oGnAtyHgkZdXYfHl6LzDf) | 1:58 | 2022-04-15 | 2022-09-09 |
 | [Sorry, Jorge](https://open.spotify.com/track/5b0Opn1XtWaqN70sXm8uJk) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Flakes](https://open.spotify.com/album/45WTdqbH4bvvR8yZm5ykWL) | 2:06 | 2022-04-15 | 2022-07-01 |
 | [Soul Calibre](https://open.spotify.com/track/6hagXr40I8q0fHJ1uwWnj0) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Soul Calibre](https://open.spotify.com/album/3IJdOutsIz9NSd1cfHOJys) | 2:33 | 2023-01-06 | 2024-02-07 |

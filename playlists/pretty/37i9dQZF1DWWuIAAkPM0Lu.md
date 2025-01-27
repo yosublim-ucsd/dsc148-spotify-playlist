@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > drømmesamarbejdet: <a href="spotify:artist:5NYUb39ntjgN7cRtN4y25T">Anton Westerlin</a>🔗<a href="spotify:artist:1GKN1Js8fa19K23eIhOMhg">Annika</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,335 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,340 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

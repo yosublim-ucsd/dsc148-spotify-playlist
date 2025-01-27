@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Cl\u00e1sicos 1.0: Entrega",
+        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297061,
+      "name": "Cl\u00e1sicos 1.0: Entrega",
+      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
+    },
+    {
+      "album": {
         "name": "Tocando el Cielo Con las Manos",
         "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
       },

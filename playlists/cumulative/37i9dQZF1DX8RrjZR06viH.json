@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 151893,
       "name": "Ikke lenger din",
       "url": "https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P"
@@ -2650,6 +2650,28 @@
       "duration_ms": 189773,
       "name": "Tre sekunder",
       "url": "https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww"
+    },
+    {
+      "album": {
+        "name": "Trenger deg n\u00e5",
+        "url": "https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166474,
+      "name": "Trenger deg n\u00e5",
+      "url": "https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx"
     },
     {
       "album": {

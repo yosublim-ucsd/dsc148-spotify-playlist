@@ -1,12 +1,12 @@
 {
   "description": "This is Chappell Roan. The essential tracks, all in one playlist.",
-  "num_followers": 1898,
+  "num_followers": 1907,
   "original_name": "This Is Chappell Roan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAAAtw0Avdt+xV6GAEzxq2QM5",
+  "snapshot_id": "Z5QpgAAAAABW4wcZ908KVBVz4iwVXe6E",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Good Hurt",
-      "url": "https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ"
+      "duration_ms": 225893,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/1dGsmX6TryxdBHfBzzZ1eK"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 225893,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1dGsmX6TryxdBHfBzzZ1eK"
+      "duration_ms": 192880,
+      "name": "Good Hurt",
+      "url": "https://open.spotify.com/track/4iNjaWFTovBFg8vTfGdXpZ"
     },
     {
       "added_at": null,

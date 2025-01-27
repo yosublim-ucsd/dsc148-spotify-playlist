@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1WdT3Hi8zX0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1WdT3Hi8zX0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1WdT3Hi8zX0)
 
-### [HAIKYU!! \-ハイキュー!!\-](https://open.spotify.com/playlist/37i9dQZF1DX1WdT3Hi8zX0)
+### [HAIKYU!!](https://open.spotify.com/playlist/37i9dQZF1DX1WdT3Hi8zX0)
 
-> Enjoy music from "HAIKYU!!" 音楽で辿る<a href="http://www.j\-haikyu.com/anime/index.html">「ハイキュー!!」</a>の世界。©古舘春一／集英社・「ハイキュー!!」製作委員会・MBS
+> Enjoy music from "HAIKYU!!" ©古舘春一／集英社・「ハイキュー!!」製作委員会・MBS
 
 46 songs - 2 hr 25 min
 

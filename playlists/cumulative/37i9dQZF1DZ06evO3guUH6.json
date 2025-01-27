@@ -1015,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "Tu Amor Es M\u00edo",
+        "url": "https://open.spotify.com/album/1DjlUNCpNxYHHA6wU1a1Q4"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250434,
+      "name": "Tu Amor Es M\u00edo",
+      "url": "https://open.spotify.com/track/69yi8lHc0rjIkzaCYU3xTX"
+    },
+    {
+      "album": {
         "name": "Privilegio",
         "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
       },

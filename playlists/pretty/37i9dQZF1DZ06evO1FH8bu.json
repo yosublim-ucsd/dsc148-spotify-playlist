@@ -1,12 +1,12 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 69133,
+  "num_followers": 69145,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAAB42IDcy0Ga4AWSCvDnbJBl",
+  "snapshot_id": "Z5QpgAAAAACPaaWsCEvPZVyOyzkoImEV",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Torn",
-        "url": "https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL"
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 244480,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT"
+      "duration_ms": 229124,
+      "name": "Heartbreak Of The Century",
+      "url": "https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/5zF5pEzJQgwu97Qze67WRL"
       },
       "artists": [
         {
@@ -180,57 +180,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 229124,
-      "name": "Heartbreak Of The Century",
-      "url": "https://open.spotify.com/track/4ijqpIWc6VhVRTvHPJlBMw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 220695,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/1gXAB8LVnrNFVkj4kBdaSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life's Not Out To Get You",
-        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 170796,
-      "name": "Kali Ma",
-      "url": "https://open.spotify.com/track/4HsWOiIPuQ6tCT3suvGWMK"
+      "duration_ms": 244480,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/55SMBnlZaMebqCYUkFU2dT"
     },
     {
       "added_at": null,
@@ -251,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "She's A God",
-        "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf"
       },
       "artists": [
         {
@@ -260,25 +212,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 200330,
-      "name": "She's A God",
-      "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Peace And The Panic",
-        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213010,
-      "name": "Happy Judgement Day",
-      "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
+      "duration_ms": 172480,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39"
     },
     {
       "added_at": null,
@@ -292,9 +228,25 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 169828,
-      "name": "I Hope This Comes Back To Haunt You",
-      "url": "https://open.spotify.com/track/16cC7n6IU1tNQnsABUDGvX"
+      "duration_ms": 170796,
+      "name": "Kali Ma",
+      "url": "https://open.spotify.com/track/4HsWOiIPuQ6tCT3suvGWMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 220695,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/1gXAB8LVnrNFVkj4kBdaSE"
     },
     {
       "added_at": null,
@@ -315,6 +267,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "She's A God",
+        "url": "https://open.spotify.com/album/69MzaYbPgU7af0CPD5Ck1s"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 200330,
+      "name": "She's A God",
+      "url": "https://open.spotify.com/track/3rmVrevtGa5y7wieirt7rZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life's Not Out To Get You",
+        "url": "https://open.spotify.com/album/3umOBqXWR9VnJTQoe9Qkkj"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 169828,
+      "name": "I Hope This Comes Back To Haunt You",
+      "url": "https://open.spotify.com/track/16cC7n6IU1tNQnsABUDGvX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Peace And The Panic",
+        "url": "https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213010,
+      "name": "Happy Judgement Day",
+      "url": "https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "This Is All My Fault",
+      "url": "https://open.spotify.com/track/4ezAbK86qDCiC6PQGt5gBp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Distortions Are Intentional",
         "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 189975,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/0Tw60ETiprzweU3AYHuTdq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Peace And The B Sides",
-        "url": "https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 203649,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/6JTAwcIlhgp2JzprOiHpzc"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Peace And The B Sides",
+        "url": "https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 203649,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/6JTAwcIlhgp2JzprOiHpzc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -372,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 189333,
-      "name": "This Is All My Fault",
-      "url": "https://open.spotify.com/track/4ezAbK86qDCiC6PQGt5gBp"
+      "duration_ms": 187733,
+      "name": "Go Outside!",
+      "url": "https://open.spotify.com/track/41xytZm5J62QK2UCOY8xYv"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Go Outside!",
-      "url": "https://open.spotify.com/track/41xytZm5J62QK2UCOY8xYv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wishful Thinking",
         "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 219062,
-      "name": "Sonderland",
-      "url": "https://open.spotify.com/track/04XjMCR9EiZeKIrR0LZcjq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain In July / A History Of Bad Decisions",
         "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 198579,
       "name": "What Did You Expect?",
       "url": "https://open.spotify.com/track/5v1NSDUgJ2NiNGKqu7LPxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 219062,
+      "name": "Sonderland",
+      "url": "https://open.spotify.com/track/04XjMCR9EiZeKIrR0LZcjq"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Sick Joke",
-      "url": "https://open.spotify.com/track/7shZE88Gj8XrpHvwtN0CEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain In July / A History Of Bad Decisions",
         "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 160335,
       "name": "Head To The Ground",
       "url": "https://open.spotify.com/track/6tbMy64dgE8zz6SAdXqhS6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Sick Joke",
+      "url": "https://open.spotify.com/track/7shZE88Gj8XrpHvwtN0CEl"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Distortions Are Intentional",
-        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 184490,
-      "name": "Little Dove",
-      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain In July / A History Of Bad Decisions",
         "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 203822,
       "name": "Tables Turned",
       "url": "https://open.spotify.com/track/0sZgeU7tMuB7QfQMVUKLbb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Distortions Are Intentional",
+        "url": "https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 184490,
+      "name": "Little Dove",
+      "url": "https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV"
     },
     {
       "added_at": null,

@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 144578,
       "name": "ALADDIN",
       "url": "https://open.spotify.com/track/4WRdYQM21e3bji4xHSVNoG"
@@ -6034,7 +6034,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 112300,
       "name": "Book of ra",
       "url": "https://open.spotify.com/track/5PuO3krQlVdYAblwsbbq4m"
@@ -6942,7 +6942,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 193411,
       "name": "Carvajal",
       "url": "https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17"
@@ -10302,7 +10302,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -17315,6 +17315,36 @@
     },
     {
       "album": {
+        "name": "INDICA",
+        "url": "https://open.spotify.com/album/5swSmK5R9C1wuqFoHwRDbd"
+      },
+      "artists": [
+        {
+          "name": "ANKO",
+          "url": "https://open.spotify.com/artist/4zgIsXZf6s9NJRHxL3PWKe"
+        },
+        {
+          "name": "ODY",
+          "url": "https://open.spotify.com/artist/0R4ra4aHOxsWvq8argf1AG"
+        },
+        {
+          "name": "TRAPHOUSE",
+          "url": "https://open.spotify.com/artist/7shfaj6w6OhvS0iG7gAugC"
+        },
+        {
+          "name": "TSN BEATS",
+          "url": "https://open.spotify.com/artist/2G0Kiy3lUPyRnX7BGuuuZc"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "INDICA",
+      "url": "https://open.spotify.com/track/226HsHRmwHtn8Ov0T1k8fR"
+    },
+    {
+      "album": {
         "name": "Industry",
         "url": "https://open.spotify.com/album/1bsZkAYySHpLDm2wcdS0nQ"
       },
@@ -18556,7 +18586,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 155166,
       "name": "KAPOTE",
       "url": "https://open.spotify.com/track/5URFlr95zjPSDpKdZTpTBi"
@@ -20760,7 +20790,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 177977,
       "name": "Lebron",
       "url": "https://open.spotify.com/track/5LveNwV4aDPCWAclJpaLBg"
@@ -36964,7 +36994,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 157200,
       "name": "THUMISOU",
       "url": "https://open.spotify.com/track/0NKMw5wj6CKfm0MmjGBwuJ"

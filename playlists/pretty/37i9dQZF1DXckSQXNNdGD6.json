@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Luna Zuazu.",
-  "num_followers": 19523,
+  "num_followers": 19525,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe"
+      },
+      "artists": [
+        {
+          "name": "Joanna Crass",
+          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "V\u00e9rtigo",
+      "url": "https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "Spawnpoint",
         "url": "https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit"
       },
@@ -407,18 +423,22 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/0bV3u4uZ1zkzjPetrIMjfe"
+        "name": "Humedad Valenciana",
+        "url": "https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC"
       },
       "artists": [
         {
-          "name": "Joanna Crass",
-          "url": "https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD"
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "Parkineos",
+          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
         }
       ],
-      "duration_ms": 144000,
-      "name": "V\u00e9rtigo",
-      "url": "https://open.spotify.com/track/0lS53ZLMmO78wFn4GpvZyX"
+      "duration_ms": 178288,
+      "name": "Humedad Valenciana",
+      "url": "https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -451,26 +471,6 @@
       "duration_ms": 162461,
       "name": "Flow deskiciada",
       "url": "https://open.spotify.com/track/40qsscMhIjUNzq1ZwDkTjp"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "Humedad Valenciana",
-        "url": "https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "Parkineos",
-          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
-        }
-      ],
-      "duration_ms": 178288,
-      "name": "Humedad Valenciana",
-      "url": "https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "FANCY",
+        "url": "https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH"
+      },
+      "artists": [
+        {
+          "name": "La Cruz",
+          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
+        }
+      ],
+      "duration_ms": 143505,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "El Grimorio",
         "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 161454,
       "name": "Olor a perfume caro y tabaco",
       "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "FANCY",
-        "url": "https://open.spotify.com/album/0gh2rvUwM99NWFabo9ELUH"
-      },
-      "artists": [
-        {
-          "name": "La Cruz",
-          "url": "https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ"
-        }
-      ],
-      "duration_ms": 143505,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/6treInJPJ9kZ5DAZXpcfDU"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Madre Fundadora",
-        "url": "https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Ave Mar\u00eda Put\u00edsima",
-      "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "dos sombras",
         "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
       },
@@ -763,6 +743,26 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "Madre Fundadora",
+        "url": "https://open.spotify.com/album/0cW778aXsK6vVGu6QW6XUW"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Ave Mar\u00eda Put\u00edsima",
+      "url": "https://open.spotify.com/track/4RC0gJ1UzN4cphdoNB0hjD"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "Aitana O'Ca\u00f1a",
         "url": "https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u"
       },
@@ -791,30 +791,6 @@
       "duration_ms": 159056,
       "name": "Nunca Llega 05",
       "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "No hay nada m\u00e1s de vampiro que tener unos primos en Portugal",
-        "url": "https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        },
-        {
-          "name": "ANADIE",
-          "url": "https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs"
-        }
-      ],
-      "duration_ms": 162086,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -927,6 +903,30 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
+        "name": "No hay nada m\u00e1s de vampiro que tener unos primos en Portugal",
+        "url": "https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "ANADIE",
+          "url": "https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs"
+        }
+      ],
+      "duration_ms": 162086,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
         "name": "Nada Importa Tanto",
         "url": "https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4"
       },
@@ -943,18 +943,22 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "002",
-        "url": "https://open.spotify.com/album/4FRDtcPSafCRj7HtzmRT1w"
+        "name": "Manual de Cortejo",
+        "url": "https://open.spotify.com/album/1g0iT6TvvvVFfheThXR0Dk"
       },
       "artists": [
         {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        },
+        {
+          "name": "Ra\u00fcl Refree",
+          "url": "https://open.spotify.com/artist/5TPIp7TiaJOVn2sZ4s4JDy"
         }
       ],
-      "duration_ms": 244373,
-      "name": "Mi coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0B41ToR8B3Y9LgzAp8tNhx"
+      "duration_ms": 218177,
+      "name": "Arboleda Bien Plantada",
+      "url": "https://open.spotify.com/track/7DQSEa2uqg5QsiIIMT91Ev"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

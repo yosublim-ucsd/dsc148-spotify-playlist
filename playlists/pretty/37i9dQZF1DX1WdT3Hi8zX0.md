@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WdT3Hi8zX0.md) - [plain](/playlists/plain/37i9dQZF1DX1WdT3Hi8zX0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1WdT3Hi8zX0)
 
-### [HAIKYU!! \-ハイキュー!!\-](https://open.spotify.com/playlist/37i9dQZF1DX1WdT3Hi8zX0)
+### [HAIKYU!!](https://open.spotify.com/playlist/37i9dQZF1DX1WdT3Hi8zX0)
 
-> Enjoy music from "HAIKYU!!" 音楽で辿る<a href="http://www.j\-haikyu.com/anime/index.html">「ハイキュー!!」</a>の世界。©古舘春一／集英社・「ハイキュー!!」製作委員会・MBS
+> Enjoy music from "HAIKYU!!" ©古舘春一／集英社・「ハイキュー!!」製作委員会・MBS
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,858 likes - 46 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,870 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WdT3Hi8zX0.md) - [plain]
 | 45 | [歯車](https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 3:19 |
 | 46 | [強くなれ](https://open.spotify.com/track/6RQvBfTupup0pjiE01m4mq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 3:10 |
 
-Snapshot ID: `ZdLYgAAAAADetV3m8vTLLKEQ/8Y0NFK/`
+Snapshot ID: `Z5baOQAAAACS5xurb/49sizCIOOZPjXu`

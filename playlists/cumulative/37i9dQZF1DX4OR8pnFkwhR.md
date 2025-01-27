@@ -2,7 +2,7 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: ziproom
+> 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: Billyrrom
 
 1,764 songs - 4 day 11 hr 13 min
 

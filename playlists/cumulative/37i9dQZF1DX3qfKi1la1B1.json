@@ -1105,6 +1105,36 @@
     },
     {
       "album": {
+        "name": "Break Me Open (with RY X)",
+        "url": "https://open.spotify.com/album/4N8lX8poSmAjaF9yoEZoqV"
+      },
+      "artists": [
+        {
+          "name": "TRY",
+          "url": "https://open.spotify.com/artist/6oCXqCGg4iqbwPftjbZIHg"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Sam i",
+          "url": "https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K"
+        },
+        {
+          "name": "Shmuck the Loyal",
+          "url": "https://open.spotify.com/artist/2P8NapWy187EyueZtdIg0C"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257768,
+      "name": "Break Me Open (with RY X)",
+      "url": "https://open.spotify.com/track/7iXnpP6wM2tlWTBMo3WmMS"
+    },
+    {
+      "album": {
         "name": "Broken Face",
         "url": "https://open.spotify.com/album/5jxdGCLfFNNRvfkIIVC1IS"
       },
@@ -5888,7 +5918,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"

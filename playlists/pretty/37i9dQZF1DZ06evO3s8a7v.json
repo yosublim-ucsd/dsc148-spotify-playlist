@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 43095,
+  "num_followers": 43107,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAADeJshLmMAzXUjyz078R+xO",
+  "snapshot_id": "Z5QpgAAAAABpqZKW5dyoJyGNIFmE7c4I",
   "tracks": [
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 174231,
-      "name": "SOY",
-      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
+      "duration_ms": 170020,
+      "name": "BLANCO Y NEGRO",
+      "url": "https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC"
     },
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como + Nadie",
-        "url": "https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "Como + Nadie",
-      "url": "https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loco por Ti",
         "url": "https://open.spotify.com/album/09FTxhACpY7V8604fTYQRi"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 194674,
       "name": "Loco por Ti",
       "url": "https://open.spotify.com/track/01GkSQ5gDn2BHOfgfdUepy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como + Nadie",
+        "url": "https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "Como + Nadie",
+      "url": "https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv"
     },
     {
       "added_at": null,

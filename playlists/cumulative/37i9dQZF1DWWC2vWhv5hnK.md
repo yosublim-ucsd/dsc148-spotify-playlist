@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWC2vWhv5hnK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWC2vWhv5hnK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWC2vWhv5hnK)
 
-### [Kaiju No\. 8 怪獣8号 ](https://open.spotify.com/playlist/37i9dQZF1DWWC2vWhv5hnK)
+### [Kaiju No\. 8](https://open.spotify.com/playlist/37i9dQZF1DWWC2vWhv5hnK)
 
-> Enjoy music from "Kaiju No\. 8"! アニメ「怪獣8号」の世界をプレイリストで。©防衛隊第３部隊 ©松本直也／集英社
+> Enjoy music from "Kaiju No\. 8"! ©防衛隊第３部隊 ©松本直也／集英社
 
 107 songs - 10 hr 34 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Djo
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,758 likes - 99 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,759 likes - 99 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 98 | [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 |
 | 99 | [M.I.A.](https://open.spotify.com/track/4QefQE5iRafmuKBdt2YcT5) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [M.I.A.](https://open.spotify.com/album/0n6bkIU5E4RzhhKeKr0tSd) | 2:18 |
 
-Snapshot ID: `Z5I9cAAAAAAC5sBFPsRkAkzJonsNV4HT`
+Snapshot ID: `Z5a7PQAAAAC0NXdzwUAaXUBrTRW/kgAe`

@@ -558,7 +558,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 177230,
       "name": "Demons & Angels",
       "url": "https://open.spotify.com/track/7CF2TJYzPTRT0HXDFxaiTx"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 213028,
       "name": "Gave It All I Got",
       "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"
@@ -1984,6 +1984,28 @@
       "duration_ms": 185652,
       "name": "ONBOA47RD",
       "url": "https://open.spotify.com/track/40DPDhROA6rUmfE1E9wGjz"
+    },
+    {
+      "album": {
+        "name": "One Take Freestyle Remix (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/17gLxN7uVYy7gNAMUmhl0D"
+      },
+      "artists": [
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222805,
+      "name": "One Take Freestyle Remix (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/0XUgIKMFqoQfbF04tapYOD"
     },
     {
       "album": {

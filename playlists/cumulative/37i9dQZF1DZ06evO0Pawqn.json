@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191164,
+      "name": "Amigo de la Luna",
+      "url": "https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi"
+    },
+    {
+      "album": {
         "name": "Tesoros de Coleccion, Vol. 2",
         "url": "https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD"
       },

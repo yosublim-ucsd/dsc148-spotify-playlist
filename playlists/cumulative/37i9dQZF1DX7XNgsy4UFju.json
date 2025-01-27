@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "All Cylinders",
+        "url": "https://open.spotify.com/album/0Qjj0htf2HULFnHvhmb9XW"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208329,
+      "name": "All Cylinders",
+      "url": "https://open.spotify.com/track/5ZyDdRIsvdX0AnypQ859Uv"
+    },
+    {
+      "album": {
         "name": "All Fucking Weekend",
         "url": "https://open.spotify.com/album/5DjP8o0NVjn6LrjxtGqUio"
       },
@@ -33490,7 +33508,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 124649,
       "name": "The Knife In Me",
       "url": "https://open.spotify.com/track/58hTRQMC67zlvZV1bb49Me"

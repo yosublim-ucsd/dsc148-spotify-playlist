@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 200077,
+  "num_followers": 200116,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAACaa+QzlWFjUIuko6vxmDdE",
+  "snapshot_id": "Z5QpgAAAAAAjcvkPObSBBnDX+o/NOs1A",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colecci\u00f3n Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 327653,
+      "name": "Sum\u00e9rgeme",
+      "url": "https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelve a Casa",
         "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 343746,
       "name": "Ven, Te Necesito",
       "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colecci\u00f3n Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 327653,
-      "name": "Sum\u00e9rgeme",
-      "url": "https://open.spotify.com/track/4vmPvQY7m6MC77mKDdJIkD"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origen Y Esencia",
-        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Olvid\u00e9 Cuidar Mi Huerto",
-      "url": "https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Brillo De Mis Ojos (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 211053,
       "name": "El Brillo De Mis Ojos",
       "url": "https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origen Y Esencia",
+        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 227426,
+      "name": "Olvid\u00e9 Cuidar Mi Huerto",
+      "url": "https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sencillos",
-        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Princesas M\u00e1gicas",
-      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Brote De Adoraci\u00f3n 2",
         "url": "https://open.spotify.com/album/1nWtxLTRWll8sj2QPF6QQU"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 314709,
       "name": "Mi Vida Sin Ti",
       "url": "https://open.spotify.com/track/5NhRLlH43KnFvNzkQj8Az1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sencillos",
+        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Princesas M\u00e1gicas",
+      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
     },
     {
       "added_at": null,

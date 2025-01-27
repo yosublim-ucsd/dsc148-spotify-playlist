@@ -1687,6 +1687,32 @@
     },
     {
       "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/1rOuHzHF7mhFKA5H5UtAlI"
+      },
+      "artists": [
+        {
+          "name": "Doble Xx",
+          "url": "https://open.spotify.com/artist/5GhCBaGHtfS7fnpkM0fzj3"
+        },
+        {
+          "name": "Bebo",
+          "url": "https://open.spotify.com/artist/2RZJw37GvJoKmeDNlUmfDq"
+        },
+        {
+          "name": "Deluxx",
+          "url": "https://open.spotify.com/artist/6dgkLkqmuaQlrArIuRHwxq"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "A Tiempo",
+      "url": "https://open.spotify.com/track/0yxkICdZGmhEXvMO9rrnmO"
+    },
+    {
+      "album": {
         "name": "A Veces A Besos",
         "url": "https://open.spotify.com/album/7teveKnXba4XXZ1CxQLf6k"
       },
@@ -11549,6 +11575,24 @@
     },
     {
       "album": {
+        "name": "Camino Flex",
+        "url": "https://open.spotify.com/album/75ep8U7YgpV2NG7zuf8CMM"
+      },
+      "artists": [
+        {
+          "name": "Jonny Jonny Boy",
+          "url": "https://open.spotify.com/artist/0TDVnfS6wFphljMwKWd6ui"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150911,
+      "name": "Camino Flex",
+      "url": "https://open.spotify.com/track/3gIhIUYQYePwS0YcMjgOBh"
+    },
+    {
+      "album": {
         "name": "Camino Por Un Camino",
         "url": "https://open.spotify.com/album/1gJwp6ohAIU9U6SJhMbbwi"
       },
@@ -19254,6 +19298,28 @@
       "duration_ms": 364693,
       "name": "Doll Factory",
       "url": "https://open.spotify.com/track/7cXFncxJjkWKNHvtsYR0k3"
+    },
+    {
+      "album": {
+        "name": "Dominique",
+        "url": "https://open.spotify.com/album/6aYGYWRw9hs8GcThLQiNsv"
+      },
+      "artists": [
+        {
+          "name": "Manon Mullener",
+          "url": "https://open.spotify.com/artist/7ir5761dcvKURbEWypEKGH"
+        },
+        {
+          "name": "Lau Noah",
+          "url": "https://open.spotify.com/artist/42XHWcm6PBEAgK6JvMqGlH"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226920,
+      "name": "Dominique",
+      "url": "https://open.spotify.com/track/0X2KKhG5V6vL0rCNbQD5sT"
     },
     {
       "album": {
@@ -82812,6 +82878,24 @@
       "duration_ms": 238039,
       "name": "WYLTK",
       "url": "https://open.spotify.com/track/4F3fFuQp42Fx6SPbo0zqKu"
+    },
+    {
+      "album": {
+        "name": "Xchel",
+        "url": "https://open.spotify.com/album/788iivoYT7Y2BDHyB3GiR4"
+      },
+      "artists": [
+        {
+          "name": "Manon Mullener",
+          "url": "https://open.spotify.com/artist/7ir5761dcvKURbEWypEKGH"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329189,
+      "name": "Xchel",
+      "url": "https://open.spotify.com/track/4HYyIst3xHBTWdqfmGEKrk"
     },
     {
       "album": {

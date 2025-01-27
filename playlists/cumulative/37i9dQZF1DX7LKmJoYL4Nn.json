@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Double Face\u300cNo name yet\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7nbT3Z3HUtfybX6EVVw7Tb"
+      },
+      "artists": [
+        {
+          "name": "MaM/\u4e09\u6bdb\u7e1e\u6591(CV.\u9ce5\u6d77\u6d69\u8f14)",
+          "url": "https://open.spotify.com/artist/6uEoSIAMWYdGObbvqfI9nd"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288293,
+      "name": "\u30cf\u30f3\u30ba\u30af\u30e9\u30d5\u30c8",
+      "url": "https://open.spotify.com/track/1NmE0ok9KopsDDVmvZbcwM"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Ra*bits (2023 Ver.)",
         "url": "https://open.spotify.com/album/6FpqpP6ul7m73EYsowIWqH"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-27",
       "duration_ms": 269586,
       "name": "\u9752\u6625Emergency",
       "url": "https://open.spotify.com/track/6sa7vQRasTAZGQc9zgCq4C"

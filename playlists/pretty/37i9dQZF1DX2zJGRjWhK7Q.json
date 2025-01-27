@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 212256,
+  "num_followers": 212322,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,38 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Hector Lavoe El Cantante -The Originals",
+        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 327360,
+      "name": "El Dia De Suerte",
+      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Numero 7",
+        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 298515,
+      "name": "Un verano en Nueva York",
+      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Vamonos Pal' Monte",
         "url": "https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM"
       },
@@ -183,22 +215,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Numero 7",
-        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 298515,
-      "name": "Un verano en Nueva York",
-      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Loco Por Ti",
         "url": "https://open.spotify.com/album/4xDo2losNBAidTX68sPdeM"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 295392,
       "name": "Que Pena",
       "url": "https://open.spotify.com/track/7H6TbcATjUfP6gkJ7vxfp5"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Hector Lavoe El Cantante -The Originals",
-        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 327360,
-      "name": "El Dia De Suerte",
-      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -267,42 +267,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "El Sonero Mayor",
-        "url": "https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "El Negro Bembon",
-      "url": "https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Billo's Caracas Boys vs. Dimension Latina",
-        "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
-      },
-      "artists": [
-        {
-          "name": "Billo's Caracas Boys",
-          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        },
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 225140,
-      "name": "Lloraras - Edit",
-      "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy"
       },
@@ -339,6 +303,42 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "El Sonero Mayor",
+        "url": "https://open.spotify.com/album/2lV3Tmgb4lIv6CbVJKJmjZ"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "El Negro Bembon",
+      "url": "https://open.spotify.com/track/1xVSHCVq7yfjl3txyq9dsw"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Billo's Caracas Boys vs. Dimension Latina",
+        "url": "https://open.spotify.com/album/6V8ZCOf6L8taOSseOwrSUu"
+      },
+      "artists": [
+        {
+          "name": "Billo's Caracas Boys",
+          "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
+        },
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 225140,
+      "name": "Lloraras - Edit",
+      "url": "https://open.spotify.com/track/4Ke0C7xrEiTCZjVGiJWSAM"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Que Gente Averigua",
         "url": "https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK"
       },
@@ -367,6 +367,26 @@
       "duration_ms": 284653,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 370640,
+      "name": "Triste Y Vac\u00eda",
+      "url": "https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -403,26 +423,6 @@
       "duration_ms": 295093,
       "name": "Mujer Divina",
       "url": "https://open.spotify.com/track/67MXiEsdYo4tYEwIybqgGG"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/4886ILGnNYIFzsgxC6JFLJ"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 370640,
-      "name": "Triste Y Vac\u00eda",
-      "url": "https://open.spotify.com/track/53GPxPUQjOBFIU4SEbQ1ze"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 328880,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Una Dimension De Exitos",
         "url": "https://open.spotify.com/album/6cEzcbjpmhMhkuO22YNOOD"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 262493,
       "name": "Traigo De Todo",
       "url": "https://open.spotify.com/track/4YJY8jFr8QKWKJaJVHqBAH"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 328880,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 626826,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Los Amigos",
         "url": "https://open.spotify.com/album/79pbn3RdGDpThPwyZ6PB7g"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 333920,
       "name": "El Pito (I'll Never Go Back to Georgia)",
       "url": "https://open.spotify.com/track/123DhY52I0k5RVbJyGUwt9"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 626826,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo"
     },
     {
       "added_at": "2024-09-24 20:30:16",

@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8571,
+  "num_followers": 8575,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAACITX2ViiuPcwsgAR8lpQ7H",
+  "snapshot_id": "Z5QpgAAAAACh8AgIVa0uNb+M7HKiN13W",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 313311,
-      "name": "Raat Ki Rani",
-      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
+      "duration_ms": 345765,
+      "name": "Aey Nehin",
+      "url": "https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk"
     },
     {
       "added_at": null,
@@ -94,11 +94,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "James Francies",
+          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
         }
       ],
-      "duration_ms": 345765,
-      "name": "Aey Nehin",
-      "url": "https://open.spotify.com/track/7xFvweaPGFCrpQGqsSVKnk"
+      "duration_ms": 286730,
+      "name": "Autumn Leaves (feat. James Francies)",
+      "url": "https://open.spotify.com/track/4A4BdAB3MPQhLn7MZZOSmW"
     },
     {
       "added_at": null,
@@ -162,15 +166,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "James Francies",
-          "url": "https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX"
         }
       ],
-      "duration_ms": 286730,
-      "name": "Autumn Leaves (feat. James Francies)",
-      "url": "https://open.spotify.com/track/4A4BdAB3MPQhLn7MZZOSmW"
+      "duration_ms": 313311,
+      "name": "Raat Ki Rani",
+      "url": "https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 245787,
-      "name": "Not Your Usual Night",
-      "url": "https://open.spotify.com/track/4GmOX4FuzC2lRAezV21V7G"
+      "duration_ms": 314564,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/1eaJpZ4sPAzolKZ0ea8Kmc"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

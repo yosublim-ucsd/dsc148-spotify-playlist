@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "M\u00e5ngata",
+        "url": "https://open.spotify.com/album/0ZqhNn6iJybe10BKkf9HJW"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349759,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/7dqg29qwZpI1VFTSzuIwxu"
+    },
+    {
+      "album": {
         "name": "Spa Lounge",
         "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
       },

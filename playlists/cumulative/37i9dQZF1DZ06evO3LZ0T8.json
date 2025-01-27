@@ -1163,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "Vibin\u2019",
+        "url": "https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167317,
+      "name": "Vibin'",
+      "url": "https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1sDfCWZzggw6l015h5agWf"
       },

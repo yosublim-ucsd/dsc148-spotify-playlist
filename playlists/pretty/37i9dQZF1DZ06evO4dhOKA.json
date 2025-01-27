@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 62328,
+  "num_followers": 62350,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5GGgAAAAABfcRkmlH9zkdjnZiT2LJSc",
+  "snapshot_id": "Z5QpgAAAAAAXp+cn59TRMxsKAXKsZaRP",
   "tracks": [
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 201733,
-      "name": "El \u00c1rbol De La Horca",
-      "url": "https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs"
+      "duration_ms": 172640,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 172640,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
+      "duration_ms": 201733,
+      "name": "El \u00c1rbol De La Horca",
+      "url": "https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs"
     },
     {
       "added_at": null,
@@ -363,26 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
-        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
       "artists": [
         {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 169664,
-      "name": "Con Tu Imagen (EN VIVO DESDE EL DOMO CARE)",
-      "url": "https://open.spotify.com/track/1VLdYIeUG6fWsoWFNVY7uP"
+      "duration_ms": 186253,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/3R8wD60sNRPZYldMZsCVGk"
     },
     {
       "added_at": null,
@@ -403,18 +395,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
+        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
       },
       "artists": [
         {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 186253,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/3R8wD60sNRPZYldMZsCVGk"
+      "duration_ms": 169664,
+      "name": "Con Tu Imagen (EN VIVO DESDE EL DOMO CARE)",
+      "url": "https://open.spotify.com/track/1VLdYIeUG6fWsoWFNVY7uP"
     },
     {
       "added_at": null,

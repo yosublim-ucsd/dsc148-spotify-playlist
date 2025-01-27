@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,141 likes - 75 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,181 likes - 75 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 48 | [Jainism](https://open.spotify.com/track/7o3rmtT5FdBISM6L3I9wTn) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [Jainism](https://open.spotify.com/album/2pplRHhezNgAkNUJ1nXvCZ) | 4:16 |
 | 49 | [Synaesthesia](https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Synaesthesia](https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU) | 9:11 |
 | 50 | [Tannhäuser / Derive](https://open.spotify.com/track/0gURBZfus0Bt9YV2Q5RtYg) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Tannhäuser / Derive](https://open.spotify.com/album/0DC3IujabfOoVst3JeD1iZ) | 10:07 |
-| 51 | [Don't Succomb To Fear](https://open.spotify.com/track/0IWlLKgPSJIDxAkd5y8wlt) | [The Tidal Water](https://open.spotify.com/artist/5fmcz0paR2ZDr36Z7MKbwS) | [Don't Succomb To Fear](https://open.spotify.com/album/48cECvVBzQKDlOQHUDYgbi) | 5:41 |
+| 51 | [Don't Succumb To Fear](https://open.spotify.com/track/0IWlLKgPSJIDxAkd5y8wlt) | [The Tidal Water](https://open.spotify.com/artist/5fmcz0paR2ZDr36Z7MKbwS) | [Don't Succumb To Fear](https://open.spotify.com/album/48cECvVBzQKDlOQHUDYgbi) | 5:41 |
 | 52 | [Awakening](https://open.spotify.com/track/1SsCjS2hxhTY0ebE5XAKYu) | [Airbag](https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC) | [The Century of the Self](https://open.spotify.com/album/2fm83K2Z3EwR9dnPy1iiTw) | 6:44 |
 | 53 | [In the Shadows](https://open.spotify.com/track/3pnZ1Pc1ZEnYXqK1CrslFf) | [Venamoris](https://open.spotify.com/artist/4GFSsEAhmyfGlTlXqyoCiW), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [In the Shadows](https://open.spotify.com/album/1o9YaCsVQz9QIQND8nuDHy) | 3:52 |
 | 54 | [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 |

@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "b\u00e4ndipaita",
+        "url": "https://open.spotify.com/album/59qcRtqY5mkcUdlPqqGBAC"
+      },
+      "artists": [
+        {
+          "name": "kia",
+          "url": "https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW"
+        }
+      ],
+      "date_added": "2025-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166093,
+      "name": "b\u00e4ndipaita",
+      "url": "https://open.spotify.com/track/6OKQ4Zca1qPutoAP70WDJY"
+    },
+    {
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP"
       },

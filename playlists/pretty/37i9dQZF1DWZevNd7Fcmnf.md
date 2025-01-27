@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZevNd7Fcmnf.md) - [plain](/playlists/plain/37i9dQZF1DWZevNd7Fcmnf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZevNd7Fcmnf)
 
-### [GIRLS und PANZER \-ガールズ&パンツァー\-](https://open.spotify.com/playlist/37i9dQZF1DWZevNd7Fcmnf)
+### [GIRLS und PANZER](https://open.spotify.com/playlist/37i9dQZF1DWZevNd7Fcmnf)
 
-> Enjoy Music from "GIRLS und PANZER" series! 戦車を使用した武道「戦車道」に挑む少女たちの物語『ガールズ&パンツァー』公式プレイリスト！（C）GIRLS und PANZER Projekt
+> Enjoy Music from "GIRLS und PANZER" series! （C）GIRLS und PANZER Projekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,007 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,037 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZevNd7Fcmnf.md) - [plain]
 | 82 | [戦車道行進曲!パンツァーフォー! \- オーケストラver.](https://open.spotify.com/track/4bWCBs7gaTL9F00fXt1hW4) | [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [『ガールズ&パンツァー』オーケストラ・コンサート HERBST MUSIKFEST 2015](https://open.spotify.com/album/3xA8K3v6mkp0YbisRDPCJw) | 3:21 |
 | 83 | [ガールズ&パンツァーのための狂詩曲](https://open.spotify.com/track/6YphbnDXmtmwZz1f1ENUuD) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG) | [交響曲 ガールズ&パンツァー](https://open.spotify.com/album/5oxIacOQYSKLFUa3oMUv9D) | 7:19 |
 
-Snapshot ID: `ZRxniQAAAADd8qlQK483hcApdD6PhDOf`
+Snapshot ID: `Z5bapgAAAACWDWcUDaqnS2LSo1r6JJVX`

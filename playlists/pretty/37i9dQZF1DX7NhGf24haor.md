@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Rebelion
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,581 likes - 112 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,628 likes - 112 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 6 | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/track/0CUeNPfczZYcb0IdV1CeqL) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/album/6m5mmcB1gIUvS8khA3n1we) | 4:12 |
 | 7 | [Wild & Free](https://open.spotify.com/track/0gtIDZDm3H1bsT5K2IsUNJ) | [State of Deva](https://open.spotify.com/artist/7MyoSv4wg5VRYvoUBHdhJi) | [Wild & Free](https://open.spotify.com/album/5FBs85luOw3um1zM5A3fD8) | 2:58 |
 | 8 | [Voodoo](https://open.spotify.com/track/03IGSRIjb8Aie7MFPeKepM) | [Flux Overload](https://open.spotify.com/artist/6Y0b8U7HteRz5sDhg5SMAf) | [Voodoo](https://open.spotify.com/album/6kZe5QiPT5A5QRU84skAMR) | 3:21 |
-| 9 | [DO YOU LIKE ZAAG?](https://open.spotify.com/track/2e8egSL6DTWLAjgsdC9YHE) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Juyen Sebulba](https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [The Final Dose](https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5) | 1:57 |
+| 9 | [DO YOU LIKE ZAAG?](https://open.spotify.com/track/2e8egSL6DTWLAjgsdC9YHE) | [Juyen Sebulba](https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [The Final Dose](https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5) | 1:57 |
 | 10 | [Utopia](https://open.spotify.com/track/6OfBDwczRKT2wMj1s0YqBJ) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [Utopia](https://open.spotify.com/album/14YvDsN7BmpKDqpAXhjGba) | 3:23 |
 | 11 | [Nothing To Lose](https://open.spotify.com/track/2BFCpSFQzRhibfEVHSRnak) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Nothing To Lose](https://open.spotify.com/album/5nwM3L9UNn8XNZFNo4tKZz) | 3:08 |
 | 12 | [2 The Dancefloor](https://open.spotify.com/track/5XYEsvZHo6xL5pja8A9mgg) | [Bioweapon](https://open.spotify.com/artist/3EfUmgy6o1IOQBL4vXKgwd), [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB) | [2 The Dancefloor](https://open.spotify.com/album/6SDMZrHxmeCA55XFdAGG1E) | 3:13 |

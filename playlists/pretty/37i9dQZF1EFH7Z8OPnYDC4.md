@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 330 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 471 likes - 330 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 192 | [Overture](https://open.spotify.com/track/2FKZspC4gDD8FOz8Sj1Juc) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 2:08 |
 | 193 | [Do I Hear a Waltz?: Bargaining](https://open.spotify.com/track/01OstllripJ6X4iR5QtVe9) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Sergio Franchi](https://open.spotify.com/artist/3afJ7ksCTA53PwM233jIf8), [Elizabeth Allen](https://open.spotify.com/artist/1klwXZwQim73BQIp0Wra4q), [Frederick Dvonch](https://open.spotify.com/artist/3PTEv5PB7Y60Xs26d5OE9f) | [Do I Hear a Waltz? \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4LUZkj3At3mr6YFgHRWLua) | 2:25 |
 | 194 | [Happy Hunting Horn](https://open.spotify.com/track/2iHkq79NGzxyXADQaK6w1c) | [Kenny Drew Trio](https://open.spotify.com/artist/27DOq2qA4K0yfDES0FjTf8) | [Pal Joey](https://open.spotify.com/album/2b5r7QCdMY0v825HHAaw21) | 4:18 |
-| 195 | [Take Him](https://open.spotify.com/track/5QSLs0y2FlvbU9izgiMuVc) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [André Previn \- A Collection](https://open.spotify.com/album/3qY9t7A1S9aYEbiQ14ndM4) | 3:39 |
-| 196 | [The Man Who Has Everything](https://open.spotify.com/track/5Ga4cvsdRPYfXsfeCaFvPP) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [The Complete Jazz Sessions, 1962](https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC) | 5:58 |
+| 195 | [The Man Who Has Everything](https://open.spotify.com/track/5Ga4cvsdRPYfXsfeCaFvPP) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [The Complete Jazz Sessions, 1962](https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC) | 5:58 |
+| 196 | [Take Him](https://open.spotify.com/track/5QSLs0y2FlvbU9izgiMuVc) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [André Previn \- A Collection](https://open.spotify.com/album/3qY9t7A1S9aYEbiQ14ndM4) | 3:39 |
 | 197 | [Plant You Now, Dig You Later](https://open.spotify.com/track/4DKZi2P6gIRPtqXuWk8Ubi) | [Original Broadway Cast of 'Pal Joey'](https://open.spotify.com/artist/11LEVxRCItwUu8jD6pprpR) | [Pal Joey \(1952 Broadway Cast\)](https://open.spotify.com/album/0ulhJMwIAu09ICF9ngP2O5) | 2:01 |
 | 198 | [I Must Love You](https://open.spotify.com/track/22mHFCaNFZ3KmtBI7fDqt1) | [Melvin Davis](https://open.spotify.com/artist/3qgqFAwG2ml4B2c1pvFpWH) | [Detroit Soul Ambassador](https://open.spotify.com/album/32mGVAOcuZRKw8AHXtArMS) | 2:37 |
 | 199 | [Mare Nostrum](https://open.spotify.com/track/6B751vzYa5U2U34qRAVbhh) | [Sylvain Barou](https://open.spotify.com/artist/3douOkeGF4y6WK26h9NKFj) | [Sylvain Barou](https://open.spotify.com/album/6flfzyCsHqvtRqQMIHJkkz) | 4:45 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `Abn14AAAAAAmJ9UADGmx5S5nvx0iZ9C6`
+Snapshot ID: `Abn7bAAAAAAdAFMbtSmqeUT+PKwvkKeE`

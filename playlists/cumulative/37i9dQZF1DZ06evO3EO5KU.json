@@ -2179,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Soltaron Al Diablo",
+        "url": "https://open.spotify.com/album/5XC8F978hjLimag6EtQlIY"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138123,
+      "name": "Soltaron Al Diablo",
+      "url": "https://open.spotify.com/track/6RkNnXYuEUI0pBdNJOi0gF"
+    },
+    {
+      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4"
       },

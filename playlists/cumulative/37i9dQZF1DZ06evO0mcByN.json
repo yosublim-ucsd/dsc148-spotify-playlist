@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Eliseu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3IxfoVmsukfrHmPm6asX4V"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542010,
+      "name": "Eliseu - Ao Vivo",
+      "url": "https://open.spotify.com/track/7I1ZA8OJDPwyWmcvogY8Z5"
+    },
+    {
+      "album": {
         "name": "Escritor",
         "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
       },

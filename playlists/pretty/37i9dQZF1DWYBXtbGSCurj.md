@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Portugal No Beat, MC LUUKY, Mc Poze do Rodo, Mc Kadu, Chefin, Bielzin, Oruam, Borges, MC Tuto
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,116 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,125 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

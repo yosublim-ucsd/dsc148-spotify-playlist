@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 67167,
+  "num_followers": 67187,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Burn This Disco Out",
-      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -379,6 +363,38 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Burn This Disco Out",
+      "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "It's My House",
+      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Odyssey (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 274066,
       "name": "My Forbidden Lover",
       "url": "https://open.spotify.com/track/4rVxIA2PfuPaFsVH5AOqIm"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "It's My House",
-      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Take A Bite",
         "url": "https://open.spotify.com/album/2pjdKFcOiyGDDAxlEyRJIK"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 340493,
       "name": "In The Navy - Single Version",
       "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
-        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
-      },
-      "artists": [
-        {
-          "name": "Sarah Dash",
-          "url": "https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH"
-        }
-      ],
-      "duration_ms": 338973,
-      "name": "Sinner Man",
-      "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Stay Free",
         "url": "https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 322480,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Sarah Dash",
+          "url": "https://open.spotify.com/artist/40GzTuEPg9xjzGeXJESEMH"
+        }
+      ],
+      "duration_ms": 338973,
+      "name": "Sinner Man",
+      "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
     },
     {
       "added_at": "2024-09-07 16:02:33",

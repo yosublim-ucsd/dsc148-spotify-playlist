@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 33579,
+  "num_followers": 33585,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -251,38 +251,6 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "F\u00e8'l Vini Avan",
-        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
-      },
-      "artists": [
-        {
-          "name": "Klass",
-          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
-        }
-      ],
-      "duration_ms": 360200,
-      "name": "Pitit deyo",
-      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
-        "name": "Ou Gou",
-        "url": "https://open.spotify.com/album/0fuvXt6xRN9kcgG3hhqiPF"
-      },
-      "artists": [
-        {
-          "name": "k-dilak mesaje a",
-          "url": "https://open.spotify.com/artist/0V8CG6FzGBvvOEbS2WRMVO"
-        }
-      ],
-      "duration_ms": 279885,
-      "name": "Ou Gou",
-      "url": "https://open.spotify.com/track/7gFOB1tSGmyyk0ez0boAQu"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/7BJ2XJcYzTUoiw7EQtZw7Z"
       },
@@ -303,18 +271,50 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+        "name": "Ou Gou",
+        "url": "https://open.spotify.com/album/0fuvXt6xRN9kcgG3hhqiPF"
       },
       "artists": [
         {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+          "name": "k-dilak mesaje a",
+          "url": "https://open.spotify.com/artist/0V8CG6FzGBvvOEbS2WRMVO"
         }
       ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+      "duration_ms": 279885,
+      "name": "Ou Gou",
+      "url": "https://open.spotify.com/track/7gFOB1tSGmyyk0ez0boAQu"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
+        "name": "Option",
+        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Ti doudou",
+      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
+        "name": "F\u00e8'l Vini Avan",
+        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
+      },
+      "artists": [
+        {
+          "name": "Klass",
+          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
+        }
+      ],
+      "duration_ms": 360200,
+      "name": "Pitit deyo",
+      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
     },
     {
       "added_at": "2025-01-10 05:00:36",
@@ -335,18 +335,18 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "Option",
-        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
       },
       "artists": [
         {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
         }
       ],
-      "duration_ms": 274106,
-      "name": "Ti doudou",
-      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2025-01-10 05:00:36",
@@ -523,6 +523,26 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
+        "name": "JIJE'M",
+        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Bedjine",
+          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
+        }
+      ],
+      "duration_ms": 316998,
+      "name": "KOUPAB",
+      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
         "name": "L\u00f2d Nan Dez\u00f2d",
         "url": "https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT"
       },
@@ -595,58 +615,6 @@
     {
       "added_at": "2025-01-10 05:00:36",
       "album": {
-        "name": "Tantan- Pam Pam Pam",
-        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
-      },
-      "artists": [
-        {
-          "name": "Tantan",
-          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
-        }
-      ],
-      "duration_ms": 386733,
-      "name": "Pam Pam Pam",
-      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
-        "name": "JIJE'M",
-        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
-        },
-        {
-          "name": "Bedjine",
-          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
-        }
-      ],
-      "duration_ms": 316998,
-      "name": "KOUPAB",
-      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
-        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
-        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
-      },
-      "artists": [
-        {
-          "name": "Djakout #1",
-          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
-        }
-      ],
-      "duration_ms": 332910,
-      "name": "Habitude",
-      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
-    },
-    {
-      "added_at": "2025-01-10 05:00:36",
-      "album": {
         "name": "3 Tou 9",
         "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
       },
@@ -659,6 +627,22 @@
       "duration_ms": 289537,
       "name": "San Limit",
       "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
+        "name": "Tantan- Pam Pam Pam",
+        "url": "https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8"
+      },
+      "artists": [
+        {
+          "name": "Tantan",
+          "url": "https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL"
+        }
+      ],
+      "duration_ms": 386733,
+      "name": "Pam Pam Pam",
+      "url": "https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4"
     },
     {
       "added_at": "2025-01-10 05:00:36",
@@ -695,6 +679,22 @@
       "duration_ms": 271712,
       "name": "Cheri Benyen M'",
       "url": "https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj"
+    },
+    {
+      "added_at": "2025-01-10 05:00:36",
+      "album": {
+        "name": "Nou Pap D\u00f2mi Dey\u00f2: Ou Pa Kontan,Vi\u2019n Bat Mwen",
+        "url": "https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np"
+      },
+      "artists": [
+        {
+          "name": "Djakout #1",
+          "url": "https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P"
+        }
+      ],
+      "duration_ms": 332910,
+      "name": "Habitude",
+      "url": "https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo"
     },
     {
       "added_at": "2025-01-10 05:00:36",

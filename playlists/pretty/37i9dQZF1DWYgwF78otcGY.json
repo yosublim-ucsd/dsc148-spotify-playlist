@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29604,
+  "num_followers": 29606,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
         "name": "I Won't Shake (La La Gunilla)",
         "url": "https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC"
       },
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "Alltid p\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
-      },
-      "artists": [
-        {
-          "name": "Nanne",
-          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "H\u00e5ll om mig",
-      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "Bra vibrationer",
         "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 186453,
       "name": "Bra vibrationer",
       "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
+        "name": "Alltid p\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
+      },
+      "artists": [
+        {
+          "name": "Nanne",
+          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "H\u00e5ll om mig",
+      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
-      },
-      "artists": [
-        {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
         "name": "As I Lay Me Down",
         "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 189120,
       "name": "As I Lay Me Down",
       "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
+        "name": "Mera mera mera",
+        "url": "https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw"
+      },
+      "artists": [
+        {
+          "name": "EMIL HENROHN",
+          "url": "https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Mera mera mera",
+      "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
+    },
+    {
+      "added_at": "2025-01-09 23:00:05",
+      "album": {
         "name": "Underbart",
         "url": "https://open.spotify.com/album/1RXvOiBHUXPHqMfNZYohGQ"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 188560,
       "name": "Underbart",
       "url": "https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0"
-    },
-    {
-      "added_at": "2025-01-09 23:00:05",
-      "album": {
-        "name": "Mera mera mera",
-        "url": "https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw"
-      },
-      "artists": [
-        {
-          "name": "EMIL HENROHN",
-          "url": "https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH"
-        }
-      ],
-      "duration_ms": 178168,
-      "name": "Mera mera mera",
-      "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "Move (Ensam) - Spotify Singles",
-        "url": "https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp"
+        "name": "Discography",
+        "url": "https://open.spotify.com/album/2HkYSJxNf8FLikNbc08uFB"
       },
       "artists": [
         {
-          "name": "B.Baby",
-          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
         }
       ],
-      "duration_ms": 147723,
-      "name": "Move (Ensam) - Spotify Singles",
-      "url": "https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh"
+      "duration_ms": 182506,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/3M1MbdMOc0MMD9oxsscdtw"
     },
     {
       "added_at": "2025-01-09 23:00:05",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-01-09 23:00:05",
       "album": {
-        "name": "Discography",
-        "url": "https://open.spotify.com/album/2HkYSJxNf8FLikNbc08uFB"
+        "name": "Move (Ensam) - Spotify Singles",
+        "url": "https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp"
       },
       "artists": [
         {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/3M1MbdMOc0MMD9oxsscdtw"
+      "duration_ms": 147723,
+      "name": "Move (Ensam) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh"
     },
     {
       "added_at": "2025-01-09 23:00:05",

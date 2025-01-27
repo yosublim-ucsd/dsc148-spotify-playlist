@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,808 likes - 105 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,811 likes - 105 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 78 | [Romance](https://open.spotify.com/track/75OqiU9QFLNeLTLvOCudWr) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Romance](https://open.spotify.com/album/6SUTDYK3cMr9mFR82UU5vG) | 2:38 |
 | 79 | [symphony \(feat\. dj newboi\)](https://open.spotify.com/track/7dQ3GQ0vuLTaND6zGmBAKH) | [RUPRECXNTA](https://open.spotify.com/artist/7kugjX8abdYGhdcZtKnEpV), [dj newboi](https://open.spotify.com/artist/1hVWmA25NKYHWdFloDrGN3) | [symphony \(feat\. dj newboi\)](https://open.spotify.com/album/5zMlLS2Z9Y84hRiQgdZKnY) | 2:37 |
 | 80 | [PARTY 24/7](https://open.spotify.com/track/2i4BcfalhQr4gvNFVJ0fsS) | [Nia Varan](https://open.spotify.com/artist/2cA365KqADueskrjJqSeBS), [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA) | [PARTY 24/7](https://open.spotify.com/album/3MfpDFeL2WeoGRHR5oEx6O) | 2:21 |
-| 81 | [ビリケン](https://open.spotify.com/track/4uw7rnFgYs9g3pdexIIL7L) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [ビリケン](https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db) | 2:30 |
+| 81 | [ビリケン \- Biriken](https://open.spotify.com/track/4uw7rnFgYs9g3pdexIIL7L) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [ビリケン \- Biriken](https://open.spotify.com/album/5Um8TaZJ6QluqpqlMMs2db) | 2:30 |
 | 82 | [PUT IT ON \(feat\. Tade Dust\)](https://open.spotify.com/track/4CcUieitEkKQN0emlLVK4m) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [PUT IT ON \(feat\. Tade Dust\)](https://open.spotify.com/album/4mmOZg3YoZi1VH05AdOjiK) | 2:44 |
 | 83 | [QUEEN CODE](https://open.spotify.com/track/5V9THXM30aWKfndTwshW2b) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Tsunari](https://open.spotify.com/artist/1jiktv8es5sE3GMGO4Ago6) | [QUEEN CODE](https://open.spotify.com/album/6P3dOXXpCI7LtZ76WWiv9f) | 2:42 |
 | 84 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |

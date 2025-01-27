@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jayden Daniels and Jalen Hurts
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Josh Allen and Patrick Mahomes
 
 775 songs - 1 day 16 hr 0 min
 

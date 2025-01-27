@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Teddy Swims au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,311 likes - 105 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,334 likes - 105 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 86 | [COMMENT JE FAIS ?](https://open.spotify.com/track/7wSrAgxxbbiXpPDAWYpj3o) | [HINA](https://open.spotify.com/artist/782ZBggStTrVHyBWkxInmy), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [COMMENT JE FAIS ?](https://open.spotify.com/album/0c12IcG8xyxAHuUEsZ6FJr) | 2:50 |
 | 87 | [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 |
 | 88 | [Turbofée](https://open.spotify.com/track/40XQBEMdfMicRK35jlnKJK) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Éclipse](https://open.spotify.com/album/4pPRjgXmc6LuO7hR2fikA9) | 3:48 |
-| 89 | [LA CIBLE](https://open.spotify.com/track/1U9MbmYgXjtnsBfenpvz3p) | [Mola](https://open.spotify.com/artist/2i9Epm0DZYGrXPOJbLpTbR), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [LA CIBLE](https://open.spotify.com/album/2rsUfLhWm5FFCfTA5kJb4o) | 2:44 |
+| 89 | [La cible](https://open.spotify.com/track/1U9MbmYgXjtnsBfenpvz3p) | [Mola](https://open.spotify.com/artist/2i9Epm0DZYGrXPOJbLpTbR), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [La cible](https://open.spotify.com/album/2rsUfLhWm5FFCfTA5kJb4o) | 2:44 |
 | 90 | [Le contrat](https://open.spotify.com/track/3w2rgYa7H4otgrk9fxuHFv) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [Le contrat](https://open.spotify.com/album/2SEXr6ShsjB0ZDAuphOaxA) | 2:59 |
 | 91 | [Goldrush](https://open.spotify.com/track/1AC9rys1AG0BJ5PwnX3mXu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Goldrush](https://open.spotify.com/album/5NLwkvch5mURFt3AJfvkQX) | 2:48 |
 | 92 | [Confidence](https://open.spotify.com/track/7t5vDhD3zSYsE9IbFKW4Jt) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC) | [Confidence](https://open.spotify.com/album/6kYWEWroEin0Uhem5nbjoL) | 2:12 |

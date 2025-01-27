@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-500 songs - 1 day 0 hr 24 min
+501 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 | 2023-05-19 |
 | [Certified](https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Certified](https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK) | 2:55 | 2023-08-11 | 2025-01-25 |
 | [Chain Gang](https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Chain Gang](https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0) | 1:47 | 2023-07-07 | 2024-12-09 |
+| [Champs Élysées](https://open.spotify.com/track/5gVBu5EPgBtvpdunsSCphU) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Champs Élysées](https://open.spotify.com/album/7CiBz23MJz5cZz4IPclRu5) | 2:41 | 2025-01-24 |  |
 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 | 2021-10-29 | 2023-12-16 |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2022-01-21 | 2023-12-16 |
 | [Cheque](https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Cheque](https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g) | 2:45 | 2021-10-29 | 2023-12-02 |
@@ -498,7 +499,7 @@
 | [Whispers](https://open.spotify.com/track/1lheFnHjdH5vCqyTYql0Xi) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Whispers](https://open.spotify.com/album/1sPwaNuzWsYxwJRHUdDSkA) | 2:37 | 2022-04-01 | 2022-04-21 |
 | [White House](https://open.spotify.com/track/45zkrrZ1JcJodTjeXiVECG) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [White House](https://open.spotify.com/album/1gSDFRaw2fdOqUHjrTTsxR) | 2:58 | 2021-10-29 | 2022-05-29 |
 | [Wicked](https://open.spotify.com/track/0YOE11WL98noVE5ifw12KC) | [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4) | [Wicked](https://open.spotify.com/album/0az7WFTJmmJdrdQvnGFl1d) | 2:37 | 2022-04-01 | 2022-07-14 |
-| [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 |  |
+| [Wish He Knew](https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Wish He Knew](https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl) | 2:37 | 2023-02-10 | 2025-01-27 |
 | [Wish You Were Here \(feat\. Brandyn Burnette\)](https://open.spotify.com/track/0GevQZGBPYjfPzK8e3jxzl) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [Wish You Were Here \(feat\. Brandyn Burnette\)](https://open.spotify.com/album/56jh1XYw5wQcXmcnR46LRA) | 2:53 | 2021-10-29 | 2022-06-11 |
 | [Wolf](https://open.spotify.com/track/0MHVWtDog7jgL4zinfLohH) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Shelley Segal](https://open.spotify.com/artist/3Is6CJbBt3YB6gDxnoNfiE) | [Wolf](https://open.spotify.com/album/5ApWVuuK9DZDBXVMbl0jUV) | 2:34 | 2024-04-19 | 2024-05-22 |
 | [You Are My Life](https://open.spotify.com/track/51ecx8vfBmfo9maBzKDBfa) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [You Are My Life](https://open.spotify.com/album/4XdIx8D65ziUGCnmV4jl1W) | 3:04 | 2021-10-29 | 2022-06-07 |

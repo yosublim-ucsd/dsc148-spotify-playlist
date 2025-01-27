@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,052 likes - 138 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051 likes - 138 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 106 | [Rollin' \(Me & You\)](https://open.spotify.com/track/35ByQ3uLTbLVt8i92NDJHp) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Trouble in Paradise](https://open.spotify.com/album/0xqUuEVN3srOCA51CprgIk) | 2:44 |
 | 107 | [I Been That Girl](https://open.spotify.com/track/7o2JyoEdDAlhdyzjAfol7m) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The MF Life \(Deluxe Version\)](https://open.spotify.com/album/3PWwOV9kUSHZ4EvFFKWLLY) | 2:53 |
 | 108 | [Co\-Defendant](https://open.spotify.com/track/0TEWH6vaudxvccI5dO2Ari) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [Da REAList](https://open.spotify.com/album/2odMjBXzTq94QWJtiYrc1b) | 4:27 |
-| 109 | [Basic Ordinary Ugly](https://open.spotify.com/track/5wblr9dK0iPouvvFTUiImS) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/2eXGs6Oj4TMW7gNjhsEY5l) | 2:32 |
+| 109 | [Basic Ordinary Ugly](https://open.spotify.com/track/18qoH5WqtbG3449blLy4mK) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:32 |
 | 110 | [Don't Quit \- Live](https://open.spotify.com/track/7I7fTsTJF0XzcL9Th8UeD0) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 7:07 |
 | 111 | [Dime](https://open.spotify.com/track/3aiopvlbadQySEYnycJ7kV) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:36 |
 | 112 | [This Is Revival](https://open.spotify.com/track/3glwzl5Je8zFPJkSo8YBJM) | [Brittani Scott](https://open.spotify.com/artist/2zekc0lrVTCOVrgSntYwar), [David Jennings](https://open.spotify.com/artist/0bngvThnRev3ZK6PzEhnWw) | [This Is Revival](https://open.spotify.com/album/7qFgqgOj8keNKjD8k0qDVG) | 5:24 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 137 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 138 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `Abn1/gAAAAAB5RhMTa5V8ztgQp0pOm7L`
+Snapshot ID: `Abn7lAAAAAAlIQzLYUw6nkNjZXCg52u6`

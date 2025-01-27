@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: J.Eskine\n",
-  "num_followers": 621693,
+  "num_followers": 622276,
   "original_name": "PURO SUCO DO VER\u00c3O",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Amor Na Praia",
-        "url": "https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 156150,
-      "name": "Amor Na Praia",
-      "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Amor Na Praia",
+        "url": "https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 156150,
+      "name": "Amor Na Praia",
+      "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "SEQU\u00caNCIA STRIPTEASE",
         "url": "https://open.spotify.com/album/1bS7v3HQh9l3cfALnsa7c3"
       },
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "De Gra\u00e7a ou Pagando",
+      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "Novinha do TKT",
         "url": "https://open.spotify.com/album/2t3kBsdC89kMxYhMoD3gPb"
       },
@@ -531,26 +547,6 @@
       "duration_ms": 172727,
       "name": "Novinha do TKT",
       "url": "https://open.spotify.com/track/2IUZNW8TPTZCJ4ZHY4OfEX"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
-        "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
-      },
-      "artists": [
-        {
-          "name": "Lou Garcia",
-          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
-        },
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        }
-      ],
-      "duration_ms": 117230,
-      "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
-      "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -579,18 +575,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+        "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
+        "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
       },
       "artists": [
         {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        },
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
         }
       ],
-      "duration_ms": 196702,
-      "name": "De Gra\u00e7a ou Pagando",
-      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
+      "duration_ms": 117230,
+      "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
+      "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -607,6 +607,22 @@
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 203337,
+      "name": "S\u00f3 F\u00e9",
+      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -651,18 +667,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "D.N.A",
-        "url": "https://open.spotify.com/album/2i4Eypw6nZY7suaDBD6249"
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
       },
       "artists": [
         {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        },
+        {
+          "name": "Kak\u00e1 e Pedrinho",
+          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
         }
       ],
-      "duration_ms": 126854,
-      "name": "Tbt",
-      "url": "https://open.spotify.com/track/5EEsPmKPqHkpVogSfWCUoc"
+      "duration_ms": 176556,
+      "name": "Cabelo de Sol",
+      "url": "https://open.spotify.com/track/5K71WiSDgJv48q07H7NklJ"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -691,22 +711,18 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Obrigado Deus",
-        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
+        "name": "D.N.A",
+        "url": "https://open.spotify.com/album/2i4Eypw6nZY7suaDBD6249"
       },
       "artists": [
         {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        },
-        {
-          "name": "Kak\u00e1 e Pedrinho",
-          "url": "https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ"
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 176556,
-      "name": "Cabelo de Sol",
-      "url": "https://open.spotify.com/track/5K71WiSDgJv48q07H7NklJ"
+      "duration_ms": 126854,
+      "name": "Tbt",
+      "url": "https://open.spotify.com/track/5EEsPmKPqHkpVogSfWCUoc"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -751,42 +767,6 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Vira Lata",
-        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 130978,
-      "name": "Vira Lata",
-      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 203337,
-      "name": "S\u00f3 F\u00e9",
-      "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
         "name": "Tu Xera",
         "url": "https://open.spotify.com/album/1fszMT29XdTywyKjRNiAff"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 158790,
       "name": "Tu Xera",
       "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "Vira Lata",
+        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 130978,
+      "name": "Vira Lata",
+      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -899,30 +899,6 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Patrai",
-        "url": "https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "O REI DA BATIDINHA",
-          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
-        }
-      ],
-      "duration_ms": 113448,
-      "name": "Patrai",
-      "url": "https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
         "name": "Arrocha Safad\u00e3o",
         "url": "https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 153958,
       "name": "Dengo",
       "url": "https://open.spotify.com/track/6Ulh9GPYz6JKdv04qc3q2U"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "Patrai",
+        "url": "https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "O REI DA BATIDINHA",
+          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+        }
+      ],
+      "duration_ms": 113448,
+      "name": "Patrai",
+      "url": "https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Tem paGGodeiro a\u00ed? (#s\u00f3nostalgia) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 134581,
+      "name": "Surra De Toma - Ao Vivo",
+      "url": "https://open.spotify.com/track/3lzZ8IKfeyefBvv7qVbUmR"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "Adora a bunda, odeia o rosto",
         "url": "https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi"
       },
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Tem paGGodeiro a\u00ed? (#s\u00f3nostalgia) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 134581,
-      "name": "Surra De Toma - Ao Vivo",
-      "url": "https://open.spotify.com/track/3lzZ8IKfeyefBvv7qVbUmR"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
         "name": "CAVALINHO",
         "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
       },
@@ -1099,22 +1099,6 @@
       "duration_ms": 115909,
       "name": "Maravilhosa - Ao Vivo",
       "url": "https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "Pra Quebrar a Cara",
-        "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 163892,
-      "name": "A Gente Se Entrega",
-      "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1163,6 +1147,22 @@
       "duration_ms": 193432,
       "name": "Malvadinho (Sei Que Ela \u00e9 do Job)",
       "url": "https://open.spotify.com/track/4Xq1NHhHFFjLg4LbAa40oz"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "Pra Quebrar a Cara",
+        "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 163892,
+      "name": "A Gente Se Entrega",
+      "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Medley Explos\u00e3o - Reggae Funk",
+        "url": "https://open.spotify.com/album/535EBEKDa7e278S26SXPfW"
+      },
+      "artists": [
+        {
+          "name": "Antoniel Remix Oficial",
+          "url": "https://open.spotify.com/artist/1SNoYlKoisFXoMXHK93cwm"
+        }
+      ],
+      "duration_ms": 246935,
+      "name": "Medley Explos\u00e3o - Reggae Funk",
+      "url": "https://open.spotify.com/track/73mGrH51bfCXuESnwzOVKH"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "Menina do Job X Viciada em Sentar",
         "url": "https://open.spotify.com/album/3aBnoiW9LC1q0qy3BtD1Tb"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 115055,
       "name": "Menina do Job X Viciada em Sentar",
       "url": "https://open.spotify.com/track/0xMv0OavacNO4fqYDy4BjJ"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "Medley Explos\u00e3o - Reggae Funk",
-        "url": "https://open.spotify.com/album/535EBEKDa7e278S26SXPfW"
-      },
-      "artists": [
-        {
-          "name": "Antoniel Remix Oficial",
-          "url": "https://open.spotify.com/artist/1SNoYlKoisFXoMXHK93cwm"
-        }
-      ],
-      "duration_ms": 246935,
-      "name": "Medley Explos\u00e3o - Reggae Funk",
-      "url": "https://open.spotify.com/track/73mGrH51bfCXuESnwzOVKH"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Tem paGGodeiro a\u00ed? (#s\u00f3nostalgia) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "Surto Coletivo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BJnnK4LPHhNK2TqwC6s99"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "Sentadona",
         "url": "https://open.spotify.com/album/7lFs6hVt0xCmfKfVHqu04K"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 182813,
       "name": "Sentadona",
       "url": "https://open.spotify.com/track/3xa6lWOIHi5kbMnpYx7ndh"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "Tem paGGodeiro a\u00ed? (#s\u00f3nostalgia) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/12rouM3CKMKqJAorMwbaxO"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "Surto Coletivo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4BJnnK4LPHhNK2TqwC6s99"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "\u00c9 Pra Balan\u00e7ar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0kMdb7R4oo0uwLoJeZT1ET"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 167007,
+      "name": "\u00c9 Pra Balan\u00e7ar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dbua0xFYs12lDZjdbDi97"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "A Noite",
         "url": "https://open.spotify.com/album/72kmwLnQaMzbwWjCCSyz81"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 145725,
       "name": "Me Liga, Me Chama - Ao Vivo",
       "url": "https://open.spotify.com/track/410lHm3hmpvvQMxjq5pHvM"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "\u00c9 Pra Balan\u00e7ar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0kMdb7R4oo0uwLoJeZT1ET"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 167007,
-      "name": "\u00c9 Pra Balan\u00e7ar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dbua0xFYs12lDZjdbDi97"
     },
     {
       "added_at": "2025-01-17 03:00:02",

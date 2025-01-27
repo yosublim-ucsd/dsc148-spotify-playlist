@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-300 songs - 1 day 2 hr 25 min
+301 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Falling Into The Darkness](https://open.spotify.com/track/4jZnHTXCNzmu1fklBFveJe) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Jodie Poye](https://open.spotify.com/artist/6CclapVC4PKNda06Rjrprv) | [Falling Into The Darkness](https://open.spotify.com/album/4Y3ZBubnX08Oz6eVTYEFeX) | 5:57 | 2023-05-26 | 2023-09-15 |
 | [Famous](https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [Famous](https://open.spotify.com/album/3ro1Am5Vrj5ML2zlgOlvIJ) | 6:59 | 2022-04-15 | 2022-07-29 |
 | [Far Away](https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [Crazy Box](https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP) | [Far Away](https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal) | 4:50 | 2023-10-27 | 2024-03-24 |
-| [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 | 2023-11-25 |  |
+| [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 | 2023-11-25 | 2025-01-27 |
 | [Feel Home](https://open.spotify.com/track/1gsatgs4xQi1FsCzaL50Ma) | [Liquexx](https://open.spotify.com/artist/5v5HDK4ZozQQZJ7NVL8phC), [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej) | [Feel Home](https://open.spotify.com/album/28EWTMUSAatw0LPVz2mCdc) | 4:23 | 2022-04-15 | 2022-05-21 |
 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 | 2022-04-15 |  |
 | [Flame](https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts) | [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Flame](https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB) | 5:49 | 2023-11-10 |  |
@@ -211,6 +211,7 @@
 | [Riot](https://open.spotify.com/track/6ITJJfjs52aEB6MVbGcmzc) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Empyre One](https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22) | [Riot](https://open.spotify.com/album/7yVr8cUBPP4FC0yJpEzvSM) | 2:51 | 2022-07-28 | 2022-09-02 |
 | [Road to You](https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Psycho Cat](https://open.spotify.com/artist/6lJSb6YH8I0BxXqaPJ8qdp) | [Road to You](https://open.spotify.com/album/40St0blvPq3jpP7j5NSSXX) | 4:44 | 2023-03-15 | 2024-06-05 |
 | [Rockafaster](https://open.spotify.com/track/6LLAMgc8Y8li44oDDxkFVi) | [Fatality](https://open.spotify.com/artist/4YQOU9GVYBYVJmdmGkDQh1), [Nable](https://open.spotify.com/artist/6cJETXA6eNEwW9ZAqahVf7), [Pop Dog](https://open.spotify.com/artist/5iXB0pbIJUKm3e8ECZ6iB3) | [Rockafaster](https://open.spotify.com/album/4bk9LRnHRukyV69zMS6LCR) | 4:58 | 2023-10-06 | 2023-10-28 |
+| [Roshini](https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Krodax](https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp) | [Roshini](https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH) | 6:33 | 2025-01-24 |  |
 | [Sacred Space \- Original mix](https://open.spotify.com/track/4WgAzEQpYRXn7oyWG3Iu0H) | [Symbolic](https://open.spotify.com/artist/0oUwhzCzcC6VAaKSFG55U3) | [Sacred Space](https://open.spotify.com/album/1TddewzjqbWzIzJ7jcuZMp) | 7:26 | 2022-04-22 | 2022-07-26 |
 | [Safari](https://open.spotify.com/track/6Hy6Az0d1SFPAtN8iBZiIs) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [TERRA](https://open.spotify.com/artist/6EMXsJEdrX9vLI7DWSjG5l) | [Safari](https://open.spotify.com/album/1GxtaYGp8kJ6wc1RFDmUbW) | 6:10 | 2023-09-14 |  |
 | [Sahara](https://open.spotify.com/track/7J1TYqJ7CcEV5I9GlOZvbU) | [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2) | [Sahara](https://open.spotify.com/album/4RUTUNXzckpNmi2GCiTv1s) | 2:16 | 2022-06-03 | 2022-06-11 |

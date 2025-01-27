@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1195,
+  "num_followers": 1199,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Bienvenidos (Juega, Aprende, Baila Canciones Infantiles Con Luli Pamp\u00edn)",
-        "url": "https://open.spotify.com/album/09igXCXQKwsdYuT1uDPiv7"
-      },
-      "artists": [
-        {
-          "name": "Luli Pamp\u00edn",
-          "url": "https://open.spotify.com/artist/2s5oIH7jW68tUafw6zs2y6"
-        }
-      ],
-      "duration_ms": 183214,
-      "name": "Chumbala Cachumbala",
-      "url": "https://open.spotify.com/track/6wD3hbMqosHMbhZpgXkqVu"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 103906,
       "name": "Yo Tengo Una Casita",
       "url": "https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Bienvenidos (Juega, Aprende, Baila Canciones Infantiles Con Luli Pamp\u00edn)",
+        "url": "https://open.spotify.com/album/09igXCXQKwsdYuT1uDPiv7"
+      },
+      "artists": [
+        {
+          "name": "Luli Pamp\u00edn",
+          "url": "https://open.spotify.com/artist/2s5oIH7jW68tUafw6zs2y6"
+        }
+      ],
+      "duration_ms": 183214,
+      "name": "Chumbala Cachumbala",
+      "url": "https://open.spotify.com/track/6wD3hbMqosHMbhZpgXkqVu"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -267,6 +267,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri, Vol. 2",
+        "url": "https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 142226,
+      "name": "Caminito de la Escuela - Remasterizado",
+      "url": "https://open.spotify.com/track/4zE0vkNCDI5Gxpe0esVtbt"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5"
       },
@@ -283,6 +299,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Gallina Pintadita, Vol. 1",
+        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
+      },
+      "artists": [
+        {
+          "name": "Gallina Pintadita",
+          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
+        }
+      ],
+      "duration_ms": 192632,
+      "name": "Mariana",
+      "url": "https://open.spotify.com/track/1omsGCyXOwY4zk6VuhxRuE"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Rondas y Cl\u00e1sicos Infantiles 2",
         "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
       },
@@ -295,6 +327,22 @@
       "duration_ms": 206186,
       "name": "El Auto De Pap\u00e1",
       "url": "https://open.spotify.com/track/66Z2LsDkNBc2rCWTqcOcB6"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "El Patio de Mi Casa",
+        "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 124640,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/7vUU63HyochOSQ8OBvf5uk"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -343,70 +391,6 @@
       "duration_ms": 160640,
       "name": "Patos al Agua",
       "url": "https://open.spotify.com/track/1FkJkFuhba5yth1ax8cQ07"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "El Patio de Mi Casa",
-        "url": "https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 124640,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/7vUU63HyochOSQ8OBvf5uk"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri, Vol. 2",
-        "url": "https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 142226,
-      "name": "Caminito de la Escuela - Remasterizado",
-      "url": "https://open.spotify.com/track/4zE0vkNCDI5Gxpe0esVtbt"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "A cantar",
-        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 55376,
-      "name": "Dos ojitos tengo",
-      "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Gallina Pintadita, Vol. 1",
-        "url": "https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH"
-      },
-      "artists": [
-        {
-          "name": "Gallina Pintadita",
-          "url": "https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq"
-        }
-      ],
-      "duration_ms": 192632,
-      "name": "Mariana",
-      "url": "https://open.spotify.com/track/1omsGCyXOwY4zk6VuhxRuE"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -471,18 +455,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "M\u00fasica Infantil para Fiestas: Canciones para Bailar Ni\u00f1os y Padres",
-        "url": "https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT"
+        "name": "A cantar",
+        "url": "https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em"
       },
       "artists": [
         {
-          "name": "La Banda de Carmen",
-          "url": "https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8"
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 173567,
-      "name": "Mueve el Ombligo",
-      "url": "https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx"
+      "duration_ms": 55376,
+      "name": "Dos ojitos tengo",
+      "url": "https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -499,6 +483,22 @@
       "duration_ms": 170800,
       "name": "La Patita",
       "url": "https://open.spotify.com/track/1aGPWR1quPaIAtZ8fUlphA"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "M\u00fasica Infantil para Fiestas: Canciones para Bailar Ni\u00f1os y Padres",
+        "url": "https://open.spotify.com/album/4mModRw64DMTdGsDfhzjYT"
+      },
+      "artists": [
+        {
+          "name": "La Banda de Carmen",
+          "url": "https://open.spotify.com/artist/1J37T04jOISczqfu7UInu8"
+        }
+      ],
+      "duration_ms": 173567,
+      "name": "Mueve el Ombligo",
+      "url": "https://open.spotify.com/track/6A6iJVLM4LkDkKYCK7w7wx"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -571,6 +571,38 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
+        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mi Familia",
+      "url": "https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Canci\u00f3n de las Brujas - Remasterizado",
+      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Mejores Amigos",
         "url": "https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl"
       },
@@ -587,22 +619,6 @@
       "duration_ms": 185640,
       "name": "La Feria de Cepill\u00edn",
       "url": "https://open.spotify.com/track/6ixbJ6uzpbNdg8SmdMnczD"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Rondas y Cl\u00e1sicos Infantiles 2",
-        "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
-      },
-      "artists": [
-        {
-          "name": "El Reino Infantil",
-          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mi Familia",
-      "url": "https://open.spotify.com/track/2bsMa5r165wLPih4iM3uBn"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -663,34 +679,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
       "artists": [
         {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 196120,
-      "name": "Canci\u00f3n de las Brujas - Remasterizado",
-      "url": "https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "La Casita de Patylu",
-        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "La Bruja de Nueva York",
-      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
+      "duration_ms": 175333,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -711,18 +711,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Vacaciones \u00a1Tope guay!",
-        "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
       },
       "artists": [
         {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Mi mam\u00e1",
-      "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
+      "duration_ms": 103613,
+      "name": "El Zapatero",
+      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -743,6 +743,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "Vacaciones \u00a1Tope guay!",
+        "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Mi mam\u00e1",
+      "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Rondas y Cl\u00e1sicos Infantiles 2",
         "url": "https://open.spotify.com/album/6LSxhgKPmhfElYHtZnoTKg"
       },
@@ -759,6 +775,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "La Casita de Patylu",
+        "url": "https://open.spotify.com/album/3xfTZePmvXmlPTlaUeDHuT"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "La Bruja de Nueva York",
+      "url": "https://open.spotify.com/track/7atPDraoeT4FjHRDM82VOr"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -768,25 +800,9 @@
           "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Un Mundo De Canciones",
-        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
-      },
-      "artists": [
-        {
-          "name": "CantaJuego",
-          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
-        }
-      ],
-      "duration_ms": 103613,
-      "name": "El Zapatero",
-      "url": "https://open.spotify.com/track/77rZyXXSmwMw5GVpQHw4vd"
+      "duration_ms": 156453,
+      "name": "Osito Carpintero",
+      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -823,22 +839,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Miss Patylu Vol. 2",
-        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 152198,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Vacaciones tope guay",
         "url": "https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw"
+        "name": "Miss Patylu Vol. 2",
+        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
       },
       "artists": [
         {
-          "name": "Chiquititas",
-          "url": "https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ"
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 158986,
-      "name": "Mal\u00edsima",
-      "url": "https://open.spotify.com/track/3IwVXqUC0QRTDeKiKnzn5F"
+      "duration_ms": 152198,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -887,6 +887,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw"
+      },
+      "artists": [
+        {
+          "name": "Chiquititas",
+          "url": "https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ"
+        }
+      ],
+      "duration_ms": 158986,
+      "name": "Mal\u00edsima",
+      "url": "https://open.spotify.com/track/3IwVXqUC0QRTDeKiKnzn5F"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
         "name": "31 Minutos, Ratoncitos",
         "url": "https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E"
       },
@@ -899,6 +915,22 @@
       "duration_ms": 165293,
       "name": "La Regla Primordial - Retrete Navarrete y los Bulliciosos",
       "url": "https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 184226,
+      "name": "Garabato Colorado",
+      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -919,38 +951,6 @@
       "duration_ms": 181840,
       "name": "Susanita",
       "url": "https://open.spotify.com/track/4itDsTzwhI73m91UoQKICM"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Osito Carpintero",
-      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
-        "name": "Entre Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/5hQ1RpVaS1pFO2fnOyHBlj"
-      },
-      "artists": [
-        {
-          "name": "Payasitas Nifu Nifa",
-          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
-        }
-      ],
-      "duration_ms": 147762,
-      "name": "Sana, Sana, Colita De Rana (Fierro & M\u00e1rquez)",
-      "url": "https://open.spotify.com/track/7Lz7aRrIQVXguc0YAyN7QY"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZevNd7Fcmnf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZevNd7Fcmnf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZevNd7Fcmnf)
 
-### [GIRLS und PANZER \-ガールズ&パンツァー\-](https://open.spotify.com/playlist/37i9dQZF1DWZevNd7Fcmnf)
+### [GIRLS und PANZER](https://open.spotify.com/playlist/37i9dQZF1DWZevNd7Fcmnf)
 
-> Enjoy Music from "GIRLS und PANZER" series! 戦車を使用した武道「戦車道」に挑む少女たちの物語『ガールズ&パンツァー』公式プレイリスト！（C）GIRLS und PANZER Projekt
+> Enjoy Music from "GIRLS und PANZER" series! （C）GIRLS und PANZER Projekt
 
 83 songs - 4 hr 21 min
 

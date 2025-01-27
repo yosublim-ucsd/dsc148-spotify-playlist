@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Leo Rizzi en portada.",
-  "num_followers": 74930,
+  "num_followers": 74939,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -231,38 +231,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "El lugar correcto",
-      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
-        "name": "Lluvias de Mayo",
-        "url": "https://open.spotify.com/album/5LLprNRf1qrIX377J9gwhq"
-      },
-      "artists": [
-        {
-          "name": "Un Le\u00f3n Marinero",
-          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "Lluvias de Mayo",
-      "url": "https://open.spotify.com/track/5IMyx2Xtze7pivWP42kDx4"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "No Me Llores",
         "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
       },
@@ -283,6 +251,22 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
+        "name": "Lluvias de Mayo",
+        "url": "https://open.spotify.com/album/5LLprNRf1qrIX377J9gwhq"
+      },
+      "artists": [
+        {
+          "name": "Un Le\u00f3n Marinero",
+          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "Lluvias de Mayo",
+      "url": "https://open.spotify.com/track/5IMyx2Xtze7pivWP42kDx4"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
         "name": "El Cielo Te Mand\u00f3 para M\u00ed",
         "url": "https://open.spotify.com/album/3Sbn5yRNAZzyPIo93H9JaQ"
       },
@@ -295,6 +279,26 @@
       "duration_ms": 170751,
       "name": "El Cielo Te Mand\u00f3 para M\u00ed",
       "url": "https://open.spotify.com/track/7HdimD8zmBiFmz5XfRIKIj"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 239377,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -319,22 +323,18 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Te Perd\u00ed",
-        "url": "https://open.spotify.com/album/1lRJqVJ2VkDy9q7UKhlnMy"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 239377,
-      "name": "Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
+      "duration_ms": 231053,
+      "name": "El lugar correcto",
+      "url": "https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Mis Amigas Las Flores",
         "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 178039,
       "name": "Mis Amigas Las Flores",
       "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Necios",
-      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Juego De Feria",
         "url": "https://open.spotify.com/album/4mFw8K0Ts3T6yQourMWESD"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 157146,
       "name": "Juego De Feria",
       "url": "https://open.spotify.com/track/5tVNRjHFayBzyOPSpUniDF"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Necios",
+      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Las C\u00e1psulas Del Tiempo Son Rosas",
-        "url": "https://open.spotify.com/album/1EYtlVjlntnbVZQh0QLptu"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 183320,
-      "name": "Escuchado",
-      "url": "https://open.spotify.com/track/49WZpJPbTNDSXOIrmXN2qY"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Hola, Buenas Noches",
         "url": "https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 193190,
       "name": "Hola, Buenas Noches",
       "url": "https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Las C\u00e1psulas Del Tiempo Son Rosas",
+        "url": "https://open.spotify.com/album/1EYtlVjlntnbVZQh0QLptu"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 183320,
+      "name": "Escuchado",
+      "url": "https://open.spotify.com/track/49WZpJPbTNDSXOIrmXN2qY"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Polvo De Gigantes",
-        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Polvo De Gigantes",
-      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Pu\u00f1etas Mentales",
         "url": "https://open.spotify.com/album/2CgMSZgcZAVyhq0vVSk7kn"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 139571,
       "name": "Pu\u00f1etas Mentales",
       "url": "https://open.spotify.com/track/4M54nkILKhxGO73bEMr3hU"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Polvo De Gigantes",
+        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Polvo De Gigantes",
+      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
     },
     {
       "added_at": "2025-01-24 06:00:28",

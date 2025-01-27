@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 揺らぎ（yuragi）
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,416 likes - 74 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,434 likes - 74 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 17 | [余韻](https://open.spotify.com/track/6IXpfkYDZG9HduKQ4PEI7c) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [余韻](https://open.spotify.com/album/4EqQmG1fJ3GQ36FfonkaGp) | 4:06 |
 | 18 | [You Are My Snorkel](https://open.spotify.com/track/6Wcat6Y6mt1KXw2XzIBeIc) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [You Are My Snorkel](https://open.spotify.com/album/4k262eLlTpHidQVREp4gmc) | 3:39 |
 | 19 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 |
-| 20 | [やめるなら今だ](https://open.spotify.com/track/24moPNcVQ1zpt4vCMIi7ZQ) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [やめるなら今だ](https://open.spotify.com/album/1FxYYHAFvn8HxkUJYDTeTi) | 4:21 |
+| 20 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 |
 | 21 | [花束 \- re\-recording](https://open.spotify.com/track/6cOgk4wMlOG1qr7INlPlVX) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [花束 \(re\-recording\)](https://open.spotify.com/album/1pqXoArCj3TIPDFgDQz9um) | 4:06 |
-| 22 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 |
+| 22 | [やめるなら今だ](https://open.spotify.com/track/24moPNcVQ1zpt4vCMIi7ZQ) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [やめるなら今だ](https://open.spotify.com/album/1FxYYHAFvn8HxkUJYDTeTi) | 4:21 |
 | 23 | [Some of You](https://open.spotify.com/track/5G6Ud6rFS5FuQy7B42iXwC) | [NOT WONK](https://open.spotify.com/artist/12f2uQ7TswXKZRFvJuELAb) | [Some of You](https://open.spotify.com/album/3cXpGmejsILkD8BOs9zlZf) | 6:52 |
 | 24 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 |
 | 25 | [airplanemusic](https://open.spotify.com/track/1jT6Wg0HUWTkMsr73MqdKw) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [punk cake](https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b) | 1:45 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 39 | [cake girl](https://open.spotify.com/track/3pJJGh7WGi8M2UIKp7SGC3) | [Phoebe](https://open.spotify.com/artist/1j9gEFcQW78lP49qprDgTe) | [cake girl](https://open.spotify.com/album/1TaNRAmSWgEfyOeJ8rpCsP) | 4:12 |
 | 40 | [それが恋だと言ってくれ！](https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [それが恋だと言ってくれ！](https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy) | 3:13 |
 | 41 | [海のにおい](https://open.spotify.com/track/5NcHKzO5vQc6L4rCE1wBiw) | [岡林風穂 withサポート](https://open.spotify.com/artist/6bkMTzpaHuuvRbITFpJpwV) | [BLUE IS SO BRIGHT](https://open.spotify.com/album/430ytOlwJpb5txWmJpdD0d) | 3:53 |
-| 42 | [Alone](https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [temp.](https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ) | [Alone](https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE) | 3:45 |
-| 43 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
+| 42 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 |
+| 43 | [Alone](https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [temp.](https://open.spotify.com/artist/3fy7EyjDaIZ3BNhNOv2jtQ) | [Alone](https://open.spotify.com/album/5d2lYaqGOSfvsJ6K2ZY7DE) | 3:45 |
 | 44 | [LIKE A FIRST KISS](https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [LIKE A FIRST KISS](https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM) | 3:18 |
 | 45 | [夢を見ようよ](https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 3:12 |
 | 46 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 64 | [Oppressed](https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Oppressed](https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ) | 5:15 |
 | 65 | [ANIMA \- Feat\. Such](https://open.spotify.com/track/5vFc7ydAJJ5T2QotoTvm0B) | [TEMPLIME](https://open.spotify.com/artist/55ci5kA4LZrGVdJRbIe6E6), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [EMPT MILE](https://open.spotify.com/album/7BSqHAeNbOl6Wi6ywf2Nkf) | 4:01 |
 | 66 | [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 |
-| 67 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
-| 68 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 |
+| 67 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 |
+| 68 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
 | 69 | [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 |
 | 70 | [天才は今度](https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりを編む駐車場](https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV) | 2:55 |
-| 71 | [Bothering](https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Bothering / Daiji Rushing](https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww) | 2:38 |
-| 72 | [A Winter Song](https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv) | [yk \(Hello1103\)](https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk) | [A Winter Song](https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo) | 2:44 |
-| 73 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
-| 74 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |
+| 71 | [New Morning](https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Liquid Yellow Portraits](https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk) | 3:59 |
+| 72 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
+| 73 | [A Winter Song](https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv) | [yk \(Hello1103\)](https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk) | [A Winter Song](https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo) | 2:44 |
+| 74 | [Forest \- feat\. ACE COOL](https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Forest \(feat\. ACE COOL\)](https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5) | 3:03 |
 
 Snapshot ID: `Z5JZjQAAAABGm7jK3AGBf0JLHH93w5eY`

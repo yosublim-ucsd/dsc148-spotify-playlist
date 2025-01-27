@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,851 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,845 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 15 | [kawałek dla Marcina P.](https://open.spotify.com/track/7uX71wnAiyEKVkjikwn6Cp) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [+ piekło + niebo +](https://open.spotify.com/album/0vRXC5k20GgSWbTWumsRFO) | 3:51 |
 | 16 | [Madison](https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Madison](https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs) | 4:05 |
 | 17 | [Soundtrack](https://open.spotify.com/track/5bKltagkEhBFsVsv7arzPR) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API) | [Wracając](https://open.spotify.com/album/4cPdaFlz0WZLlyfZzzi0ZB) | 3:18 |
-| 18 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
+| 18 | [Francoise Hardy](https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Passé](https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M) | 3:08 |
 | 19 | [Strange Love](https://open.spotify.com/track/57yG1qk6snp79Whw9lMK03) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [In Search of a Better Tomorrow](https://open.spotify.com/album/2WXKp7LdHW5LDYYuziTXtS) | 5:44 |
-| 20 | [Francoise Hardy](https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Passé](https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M) | 3:08 |
+| 20 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
 | 21 | [Calm Down](https://open.spotify.com/track/7myxGhUzbxWAPIUykBBCWH) | [Katarzyna Groniec](https://open.spotify.com/artist/4k8QgTeCBwedPSM2zOFkda) | [Konstelacje](https://open.spotify.com/album/2T0oABCOJfIuDc3CicdOGr) | 3:47 |
 | 22 | [Spring](https://open.spotify.com/track/50YWq0Uoq6Xc67U7ptPbcl) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 3:06 |
 | 23 | [Mopsik klopsik](https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy) | [Śpiewające Brzdące](https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH) | [Lisek i przyjaciele](https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5) | 2:13 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 34 | [Nieba nie ma](https://open.spotify.com/track/2DSZJstkmFvGHA8iQO0b9G) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [OMEN](https://open.spotify.com/album/0kK9SKko1fs7wDayiYv4mD) | 2:58 |
 | 35 | [Ja Się Wcale Nie Chwalę](https://open.spotify.com/track/6BGeRP62GNdpbiS4iGtI0Q) | [DJ 600V](https://open.spotify.com/artist/1f5Eu4igDRi2LNNY837AdS), [Kaliber 44](https://open.spotify.com/artist/2UTeT9IOjc4x9MeQWA0Hrx) | [Produkcja Hip\-Hop Ciemna/Jasna](https://open.spotify.com/album/47WX4JHl2oMXyXV6rPagKt) | 4:23 |
 | 36 | [Wszystkie narkotyki świata](https://open.spotify.com/track/3fVqdsGyi34YN1MdLUHtaF) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Wszystkie narkotyki świata](https://open.spotify.com/album/5oaYpD16K3Q1Q7aqa1UJVe) | 4:13 |
-| 37 | [Mam potrzebę](https://open.spotify.com/track/4aX4Mywt3VV5FG3wilFRnS) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [TAM](https://open.spotify.com/album/25ZzpEQG9zQWrxjUNVfZBQ) | 4:12 |
-| 38 | [Blue](https://open.spotify.com/track/6qjbwqkGuUj7XI31Gfawfs) | [Spięty](https://open.spotify.com/artist/02JmHOSFJi2bLjGnO274di) | [HEARTCORE](https://open.spotify.com/album/2wu6Xg4fyZuoTSsu4GBJhN) | 4:29 |
+| 37 | [Blue](https://open.spotify.com/track/6qjbwqkGuUj7XI31Gfawfs) | [Spięty](https://open.spotify.com/artist/02JmHOSFJi2bLjGnO274di) | [HEARTCORE](https://open.spotify.com/album/2wu6Xg4fyZuoTSsu4GBJhN) | 4:29 |
+| 38 | [Mam potrzebę](https://open.spotify.com/track/4aX4Mywt3VV5FG3wilFRnS) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [TAM](https://open.spotify.com/album/25ZzpEQG9zQWrxjUNVfZBQ) | 4:12 |
 | 39 | [HHULTRAS](https://open.spotify.com/track/71Y1TmjUbMGbBlHkBV54pz) | [Włodi](https://open.spotify.com/artist/2FBmYj55zZwng9GlsCCn9j) | [HHULTRAS](https://open.spotify.com/album/1hrT9b9eOofnc73kblwE6b) | 2:47 |
 | 40 | [MARIA PRZED OŁTARZEM](https://open.spotify.com/track/4cAlhZl3ytWpHKkAosthiB) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [EROTIK ERA](https://open.spotify.com/album/6KXlPEuTkJITCD6zzCeAjF) | 3:00 |
 | 41 | [Nie było Cię \- Live](https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Live](https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92) | 3:59 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 69 | [Klucz](https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Piosenki domowe](https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV) | 2:16 |
 | 70 | [Fight First](https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Mother's Day \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf) | 2:43 |
 | 71 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
-| 72 | [Coincidence \- Part 1 \- Prologue](https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3) | [Paweł Tomaszewski](https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty), [Orkiestra Symfoniczna Filharmonii w Szczecinie](https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp), [Filharmonia Szczecin](https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy) | [COINCIDENCE](https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy) | 2:07 |
-| 73 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
+| 72 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
+| 73 | [Coincidence \- Part 1 \- Prologue](https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3) | [Paweł Tomaszewski](https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty), [Orkiestra Symfoniczna Filharmonii w Szczecinie](https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp), [Filharmonia Szczecin](https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy) | [COINCIDENCE](https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy) | 2:07 |
 | 74 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
 | 75 | [Summerland](https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H) | [Matecki](https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w) | [Matecki](https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe) | 3:01 |
 | 76 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |

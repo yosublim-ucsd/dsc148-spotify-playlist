@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 170048,
+  "num_followers": 170067,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Os Anjos Te Louvam - Ao Vivo",
-      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
         "name": "Cuida de Mim",
         "url": "https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY"
       },
@@ -135,22 +119,6 @@
       "duration_ms": 301426,
       "name": "O Amor de Deus",
       "url": "https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
-      },
-      "artists": [
-        {
-          "name": "Juninho Black",
-          "url": "https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "Vem",
-      "url": "https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -179,22 +147,34 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "O Dom da Vida",
-        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
       },
       "artists": [
         {
-          "name": "Fabi Oliveira",
-          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
-        },
-        {
-          "name": "Carol Oliveira",
-          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 228000,
-      "name": "O Dom da Vida",
-      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
+      "duration_ms": 253893,
+      "name": "Os Anjos Te Louvam - Ao Vivo",
+      "url": "https://open.spotify.com/track/4tOew5u9pgzElc0RcH3bgy"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf"
+      },
+      "artists": [
+        {
+          "name": "Juninho Black",
+          "url": "https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "Vem",
+      "url": "https://open.spotify.com/track/5DKGCBPgRe0YGvdFFDrHTg"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -219,6 +199,26 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "O Dom da Vida",
+        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
+      },
+      "artists": [
+        {
+          "name": "Fabi Oliveira",
+          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
+        },
+        {
+          "name": "Carol Oliveira",
+          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "O Dom da Vida",
+      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "Ema\u00fas",
         "url": "https://open.spotify.com/album/4fRNHUgTEG8ptziVNewp6c"
       },
@@ -231,38 +231,6 @@
       "duration_ms": 435428,
       "name": "Ema\u00fas",
       "url": "https://open.spotify.com/track/3jeyIcmHyOYPXefSgDJSsw"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 277777,
-      "name": "Santo, Santo, Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
-      },
-      "artists": [
-        {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
-        }
-      ],
-      "duration_ms": 333746,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -283,22 +251,18 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Nada Se Compara",
-        "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
       },
       "artists": [
         {
-          "name": "Coral Unasp",
-          "url": "https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2"
-        },
-        {
-          "name": "Garnet Lima",
-          "url": "https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S"
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
         }
       ],
-      "duration_ms": 181956,
-      "name": "Nada Se Compara",
-      "url": "https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo"
+      "duration_ms": 333746,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -315,6 +279,42 @@
       "duration_ms": 240520,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/5mcDBMyHgUFj6vlxJHjSZE"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Mem\u00f3ri4s Groove (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "Santo, Santo, Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Nada Se Compara",
+        "url": "https://open.spotify.com/album/3UeS120DmaRg42viHosGU6"
+      },
+      "artists": [
+        {
+          "name": "Coral Unasp",
+          "url": "https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2"
+        },
+        {
+          "name": "Garnet Lima",
+          "url": "https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S"
+        }
+      ],
+      "duration_ms": 181956,
+      "name": "Nada Se Compara",
+      "url": "https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -351,6 +351,26 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "Tudo Posso",
+        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        },
+        {
+          "name": "Lucas Augusto",
+          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
+        }
+      ],
+      "duration_ms": 397762,
+      "name": "Tudo Posso",
+      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "Um Pedido",
         "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
       },
@@ -383,22 +403,6 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Eli Soares",
-        "url": "https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 231520,
-      "name": "Porque Ele Vive",
-      "url": "https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
         "name": "Sobre Deixar",
         "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
       },
@@ -411,26 +415,6 @@
       "duration_ms": 220386,
       "name": "O Que H\u00e1 Por Dentro",
       "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Tudo Posso",
-        "url": "https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        },
-        {
-          "name": "Lucas Augusto",
-          "url": "https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR"
-        }
-      ],
-      "duration_ms": 397762,
-      "name": "Tudo Posso",
-      "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -459,18 +443,18 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Pela F\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4"
+        "name": "Eli Soares",
+        "url": "https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT"
       },
       "artists": [
         {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 252680,
-      "name": "Pela F\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ"
+      "duration_ms": 231520,
+      "name": "Porque Ele Vive",
+      "url": "https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -487,22 +471,6 @@
       "duration_ms": 169318,
       "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
       "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Luz - Parte 1",
-        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 221193,
-      "name": "Zanzando",
-      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -527,18 +495,34 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Luz Do Mundo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
+        "name": "Pela F\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
         }
       ],
-      "duration_ms": 280133,
-      "name": "Crente Que Ora - Ao Vivo",
-      "url": "https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8"
+      "duration_ms": 252680,
+      "name": "Pela F\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Luz - Parte 1",
+        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 221193,
+      "name": "Zanzando",
+      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -623,18 +607,18 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "A Voz",
-        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
+        "name": "Luz Do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj"
       },
       "artists": [
         {
-          "name": "Hiago Klayton",
-          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 260113,
-      "name": "A Voz",
-      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
+      "duration_ms": 280133,
+      "name": "Crente Que Ora - Ao Vivo",
+      "url": "https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -655,6 +639,22 @@
       "duration_ms": 298787,
       "name": "Ele vem (feat. Coral Black To Black)",
       "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "A Voz",
+        "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
+      },
+      "artists": [
+        {
+          "name": "Hiago Klayton",
+          "url": "https://open.spotify.com/artist/2XcKlKmIFaf5AoOpfrvC6m"
+        }
+      ],
+      "duration_ms": 260113,
+      "name": "A Voz",
+      "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
+        "name": "Em Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "A Voz do Senhor",
+      "url": "https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
         "name": "\u00c9s o Meu Amor",
         "url": "https://open.spotify.com/album/0v8NOxHR61aVvzwPfxYi8k"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Em Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/3VxkndQE4cUUtTXpRMqDPi"
+        "name": "Betel",
+        "url": "https://open.spotify.com/album/1jhLRHULJvXJnjsVINAnaQ"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
         }
       ],
-      "duration_ms": 244826,
-      "name": "A Voz do Senhor",
-      "url": "https://open.spotify.com/track/1n17nz8qrz1dH44m8oIcvJ"
+      "duration_ms": 264597,
+      "name": "Betel",
+      "url": "https://open.spotify.com/track/4NH7oWDU6wzIFV51AQZmKz"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -979,18 +995,50 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Betel",
-        "url": "https://open.spotify.com/album/1jhLRHULJvXJnjsVINAnaQ"
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/53rDqvzsW2NeuMVmnV8vvD"
       },
       "artists": [
         {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+          "name": "Vinicius Motta",
+          "url": "https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y"
         }
       ],
-      "duration_ms": 264597,
-      "name": "Betel",
-      "url": "https://open.spotify.com/track/4NH7oWDU6wzIFV51AQZmKz"
+      "duration_ms": 234947,
+      "name": "Louvarei",
+      "url": "https://open.spotify.com/track/0vUHDItGEgGhRsVFn0ad7j"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Saas",
+          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Oh Gl\u00f3ria, Aleluia",
+      "url": "https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD"
+    },
+    {
+      "added_at": "2025-01-17 03:01:12",
+      "album": {
+        "name": "Rei das na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/2eaDXLSrL8Ax7EX7Rl4ZYW"
+      },
+      "artists": [
+        {
+          "name": "Luiz Arcanjo",
+          "url": "https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "Rei das na\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/7e9Tk2WfDMC7CULNVHY4p9"
     },
     {
       "added_at": "2025-01-17 03:01:12",
@@ -1023,38 +1071,6 @@
     {
       "added_at": "2025-01-17 03:01:12",
       "album": {
-        "name": "Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/0HzCNIs96iWzsKDGafucUM"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Saas",
-          "url": "https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Oh Gl\u00f3ria, Aleluia",
-      "url": "https://open.spotify.com/track/2Ig8JT3kPxnsyxecxehEJD"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/53rDqvzsW2NeuMVmnV8vvD"
-      },
-      "artists": [
-        {
-          "name": "Vinicius Motta",
-          "url": "https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y"
-        }
-      ],
-      "duration_ms": 234947,
-      "name": "Louvarei",
-      "url": "https://open.spotify.com/track/0vUHDItGEgGhRsVFn0ad7j"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
         "name": "Ele Continua Sendo Deus",
         "url": "https://open.spotify.com/album/3FaxCHA7axuqcMmp8lun13"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 174098,
       "name": "V\u00ea Se Vigia",
       "url": "https://open.spotify.com/track/5NFTXXhjDzWhoX0jg3Azdd"
-    },
-    {
-      "added_at": "2025-01-17 03:01:12",
-      "album": {
-        "name": "Rei das na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/2eaDXLSrL8Ax7EX7Rl4ZYW"
-      },
-      "artists": [
-        {
-          "name": "Luiz Arcanjo",
-          "url": "https://open.spotify.com/artist/3jhaArlXRtYY9R7GJrvcZ2"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Rei das na\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/7e9Tk2WfDMC7CULNVHY4p9"
     },
     {
       "added_at": "2025-01-17 03:01:12",

@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,532 songs - 2 day 9 hr 41 min
+1,533 songs - 2 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,7 +622,7 @@
 | [impromptu love](https://open.spotify.com/track/136bCLrehD1YeAqsFSZhVs) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [impromptu love](https://open.spotify.com/album/5LzfVJgkagIRWtQNTZo7Oy) | 2:04 | 2025-01-10 |  |
 | [In My Mind](https://open.spotify.com/track/79Qncq9X02HoE3AvSz7HZt) | [Raven Paradox](https://open.spotify.com/artist/6kOg93cYVJ8rQile4irBtc) | [In My Mind](https://open.spotify.com/album/3xrXU507RQMBgeqPo54hha) | 1:38 | 2022-09-09 | 2023-09-16 |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2022-01-27 | 2022-06-10 |
-| [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 | 2022-10-28 |  |
+| [In Stereo](https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [In Stereo](https://open.spotify.com/album/5zIfnaGoXMBTw3ifSBFxeJ) | 1:52 | 2022-10-28 | 2025-01-27 |
 | [In the Mood \- Instrumental](https://open.spotify.com/track/5qNfTRKQtMCWZSMQ4yQHc6) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Chuuwee](https://open.spotify.com/artist/6ZBnvCszokLW4YHZ50uHY8), [Jaz Lund](https://open.spotify.com/artist/76wFPyb3pS7rjiDOJOeS7P) | [Dreaming Hills \(Extras\)](https://open.spotify.com/album/01SxP0WBT6TiJYiTDZnAKr) | 2:52 | 2023-09-29 | 2024-05-14 |
 | [In The Mood For Coffee](https://open.spotify.com/track/1f3o2sG628NdG1WnMGfxUp) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [In The Mood For Coffee](https://open.spotify.com/album/6GwK4fEPO8ywjMxs2ftsip) | 2:51 | 2022-11-11 |  |
 | [In The Third Move](https://open.spotify.com/track/5uAhIMnDPNjRNeiH5tDtqy) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:24 | 2022-01-27 | 2022-07-15 |
@@ -1240,6 +1240,7 @@
 | [Spiritual State](https://open.spotify.com/track/5JrPCcTiJMNvQmZ3OAiHNf) | [Jack Dean](https://open.spotify.com/artist/0bCEZwHpCgEfOd5M2ye5mw) | [Spiritual State](https://open.spotify.com/album/1IO6AGIqlwckR4lWUGaVSR) | 1:14 | 2022-11-11 | 2023-09-29 |
 | [springfeel](https://open.spotify.com/track/3tiJSouABGhdavwAdtxaoS) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [springfeel](https://open.spotify.com/album/5B5FChuXQYXVZHXeidfbGM) | 2:12 | 2023-07-13 | 2024-05-14 |
 | [Square](https://open.spotify.com/track/3fRppxMcSzxXIvQwEuMtV4) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Square](https://open.spotify.com/album/7A5kZKRWSNSW3NN16e52da) | 2:04 | 2023-04-11 | 2025-01-14 |
+| [St4rgaze](https://open.spotify.com/track/1cF4ddR83XpBTgnL0b9g1k) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [St4rgaze](https://open.spotify.com/album/0Vl5RR457Z9u2jky2mt6hL) | 2:22 | 2025-01-24 |  |
 | [Stacks](https://open.spotify.com/track/5ZaDdUug7zmuk17YGoXhzx) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Stacks](https://open.spotify.com/album/2mVEfdt55X9RHZLELJhYtt) | 2:43 | 2024-09-13 |  |
 | [Stacks](https://open.spotify.com/track/7eN7K7LEeMS0zC1leXHa2G) | [Puar](https://open.spotify.com/artist/2yvxxt7s9QjwEOZtLQ2yfT) | [Stacks](https://open.spotify.com/album/1contCImnUdQuH7V4sH76R) | 1:28 | 2022-11-11 | 2023-09-29 |
 | [Stargazing](https://open.spotify.com/track/2LoG2hHYfOchc1DknWJ74n) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [francis neverfrozen](https://open.spotify.com/artist/7AwYggzFDddHG7tC7nVdbr) | [Stargazing](https://open.spotify.com/album/3YBxjT1HmhFt07jVSCnaJD) | 3:01 | 2024-12-13 | 2025-01-02 |
