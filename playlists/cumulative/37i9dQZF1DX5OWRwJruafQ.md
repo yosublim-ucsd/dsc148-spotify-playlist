@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-541 songs - 1 day 1 hr 53 min
+542 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-03-29 | 2024-08-27 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-21 |  |
 | [8500](https://open.spotify.com/track/1HjXEP7AK1SrehhZ7wgOt7) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Skywar](https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT) | [Auto Mode](https://open.spotify.com/album/1g2kiM7YojZsx7LpTA8Jat) | 2:08 | 2024-07-09 | 2024-07-19 |
-| [AAN MILO](https://open.spotify.com/track/57yFUb45xU65dGzc3G6aam) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [AAN MILO](https://open.spotify.com/album/3UjyMmnzh0nemZfKBHCViK) | 3:25 | 2024-02-05 |  |
+| [AAN MILO](https://open.spotify.com/track/57yFUb45xU65dGzc3G6aam) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [AAN MILO](https://open.spotify.com/album/3UjyMmnzh0nemZfKBHCViK) | 3:25 | 2024-02-05 | 2025-01-28 |
 | [Accounts](https://open.spotify.com/track/47q370VByrWHa7cZKMwIig) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [His Story](https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU) | 4:12 | 2024-06-21 |  |
 | [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 | 2023-12-18 | 2024-01-06 |
 | [Active](https://open.spotify.com/track/2WZeBhTbaVg1k4KoT1VbNt) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Active](https://open.spotify.com/album/4MD3NRT3pi9ZfvDuvBTql4) | 2:05 | 2024-06-28 | 2024-09-04 |
@@ -157,6 +157,7 @@
 | [Excited](https://open.spotify.com/track/4zgEDxWXTVuNmkI79ptoms) | [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Quan](https://open.spotify.com/artist/4rDS8JCx4Q5fYKO5K14Vxp) | [Excited](https://open.spotify.com/album/3tSrUwOd0bpchOFDr23apD) | 2:52 | 2023-03-29 | 2023-04-21 |
 | [Executioner](https://open.spotify.com/track/6qCfjN5FG8PznhZK8BQ1Vn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Kahlon](https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG) | [Executioner](https://open.spotify.com/album/2LAQrYQv9hTHbJK2jT8iFZ) | 2:57 | 2024-01-11 | 2024-06-29 |
 | [Expense](https://open.spotify.com/track/4LPNEtQxELZYdaacTHWMxq) | [Teji Grewal](https://open.spotify.com/artist/68evXbnRy6P5jtQ9Q0gVMr) | [Expense](https://open.spotify.com/album/1T0Lwamtr3bvYAOIQ4WdW3) | 2:10 | 2023-03-29 | 2023-04-09 |
+| [Eyeliner](https://open.spotify.com/track/5BC0VrJSzMjqfgDtSvlohN) | [YOUNG MANN](https://open.spotify.com/artist/3MEzcjiyoFTVSdjE9KuGHA), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Eyeliner](https://open.spotify.com/album/1opra6xOlpn3PZAzxMWZfO) | 3:47 | 2025-01-27 |  |
 | [Face Off](https://open.spotify.com/track/6F4IkQArLX0RLBtkdVozdw) | [Harry Waraich](https://open.spotify.com/artist/3z8JCnJGvJfcjNDfHzTnzp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Face Off](https://open.spotify.com/album/2oF0uESFONNNQOdQwtM57J) | 2:44 | 2023-09-18 | 2023-10-07 |
 | [Faith](https://open.spotify.com/track/5Hnl7vagze1xTLyybaltfs) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Faith](https://open.spotify.com/album/21Gstty5YfiD673TAy3xc7) | 3:36 | 2024-08-29 | 2024-10-02 |
 | [Faizal](https://open.spotify.com/track/5Ay3nE2YNmBF60RDB6DtkP) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Faizal](https://open.spotify.com/album/2OIBwvMBt2Ktk3SWRMmrKx) | 2:58 | 2023-03-29 | 2024-06-14 |

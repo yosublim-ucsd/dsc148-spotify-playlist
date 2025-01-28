@@ -1,13 +1,33 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 466,
+  "num_followers": 469,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADJWeZAzOGwpUjlf/B3fuu2m+X/cGL",
+  "snapshot_id": "AAADJraYCY4dl8dPzcElrUq93nqUGY2s",
   "tracks": [
+    {
+      "added_at": "2025-01-27 04:22:50",
+      "album": {
+        "name": "GOTH BITCH DUB: DARK MODE ACTIVATED",
+        "url": "https://open.spotify.com/album/5LCXcFfKxBXdqzGrKoB9MN"
+      },
+      "artists": [
+        {
+          "name": "621 gecs",
+          "url": "https://open.spotify.com/artist/3NjokjblTaaMSU0aI74QfG"
+        },
+        {
+          "name": "5p4M",
+          "url": "https://open.spotify.com/artist/5tXGRStVIEvCT3bncuaYyf"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "GOTH BITCH DUB - 5p4M Remix",
+      "url": "https://open.spotify.com/track/2nzVUvU3The7E3NRYVtZ5Z"
+    },
     {
       "added_at": "2025-01-27 01:30:23",
       "album": {

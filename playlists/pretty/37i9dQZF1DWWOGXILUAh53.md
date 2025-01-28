@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: OneRepublic & Kygo
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,453 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,609 likes - 48 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 47 | [Let You Love Me](https://open.spotify.com/track/6m7zDZsm5DGV64PQUflzKl) | [Shane Codd](https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0), [Manovski](https://open.spotify.com/artist/4c6faOq8iBjAq5nLadxd8M) | [Let You Love Me](https://open.spotify.com/album/5Ua81wDpLuRUfY4Yl7TEgo) | 2:51 |
 | 48 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 |
 
-Snapshot ID: `Z5MeawAAAAAodoYe8n0iM0wji5MBS227`
+Snapshot ID: `Z5egmQAAAAAIpRkc1nWAZOTgo8GJD0CU`

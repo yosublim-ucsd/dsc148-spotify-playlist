@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 6419,
+  "num_followers": 6462,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 202967,
+      "name": "CALENT\u00d3N",
+      "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg \u00c9 Sempre Assim",
         "url": "https://open.spotify.com/album/3qMozrdsRzEyAgIQpcQNBz"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 162461,
       "name": "Mtg \u00c9 Sempre Assim",
       "url": "https://open.spotify.com/track/2aewP8hWWmeCjBBLODTPy3"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 202967,
-      "name": "CALENT\u00d3N",
-      "url": "https://open.spotify.com/track/3l9YiADzNmEvBfZVPEF49F"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Yo Las Pongo",
-        "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 191353,
-      "name": "Yo Las Pongo",
-      "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "De Volta Ao Game",
         "url": "https://open.spotify.com/album/6IaOp7KexxCF8uyKtr6VxD"
       },
@@ -1523,6 +1499,30 @@
       "duration_ms": 147692,
       "name": "MTG Ela s\u00f3 Quer",
       "url": "https://open.spotify.com/track/2O5G3UQiqzxumbFjLGWVOc"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Yo Las Pongo",
+        "url": "https://open.spotify.com/album/0unP8lNuU71xBHNlzwo8HF"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 191353,
+      "name": "Yo Las Pongo",
+      "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "SaxoSuelta Oriente Tribe",
+        "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
+      },
+      "artists": [
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Darek Sotelo",
+          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
+        }
+      ],
+      "duration_ms": 229437,
+      "name": "SaxoSuelta Oriente Tribe",
+      "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Toca Aquela 24 por 48",
         "url": "https://open.spotify.com/album/0Uimy4Ev8lRxZ7qeGQ8PkO"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 123794,
       "name": "Mtg Toca Aquela 24 por 48",
       "url": "https://open.spotify.com/track/7B6z78yDDaj96EE9G5JW0W"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "SaxoSuelta Oriente Tribe",
-        "url": "https://open.spotify.com/album/2KRebCVIU8ZmpMrlSJkDCE"
-      },
-      "artists": [
-        {
-          "name": "Dj Esli",
-          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
-        },
-        {
-          "name": "Darek Sotelo",
-          "url": "https://open.spotify.com/artist/3l7uhia33njke2sMA5qq0H"
-        }
-      ],
-      "duration_ms": 229437,
-      "name": "SaxoSuelta Oriente Tribe",
-      "url": "https://open.spotify.com/track/34inPy9EJX1LijFMKdpTs3"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1"
+      },
+      "artists": [
+        {
+          "name": "Chapa & Castelo",
+          "url": "https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Quemando Papel",
         "url": "https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9"
       },
@@ -2087,26 +2107,6 @@
       "duration_ms": 259777,
       "name": "Bagatelle",
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/2nHLZjtZeEKky3uOZtLbf1"
-      },
-      "artists": [
-        {
-          "name": "Chapa & Castelo",
-          "url": "https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4IL0li89Pjk3hAM9ihqPBl"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2611,6 +2611,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Qu\u00e9 Chimba",
+        "url": "https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 169740,
+      "name": "Qu\u00e9 Chimba",
+      "url": "https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Alibi",
         "url": "https://open.spotify.com/album/0GJwwMpIUzTaPLKKXxzDpt"
       },
@@ -2631,22 +2647,6 @@
       "duration_ms": 133740,
       "name": "Mtg Alibi",
       "url": "https://open.spotify.com/track/3JTuZvqu7bWkQj1oDDM9AQ"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Qu\u00e9 Chimba",
-        "url": "https://open.spotify.com/album/3bCabsApM2gTY3KYRKMsw6"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 169740,
-      "name": "Qu\u00e9 Chimba",
-      "url": "https://open.spotify.com/track/0rIZ49wxDf8H2LXOKmAMW5"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2763,26 +2763,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Sax To Me",
-        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Joseph Qas",
-          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
-        }
-      ],
-      "duration_ms": 364971,
-      "name": "Sax To Me",
-      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "PLYBOY",
         "url": "https://open.spotify.com/album/606n0J7rUfs0x3ZUF4IjGK"
       },
@@ -2819,6 +2799,26 @@
       "duration_ms": 155076,
       "name": "MTG Escrito Nas Estrelas",
       "url": "https://open.spotify.com/track/3O4ypwGN1urKFzO9jIoq8Z"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Sax To Me",
+        "url": "https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Joseph Qas",
+          "url": "https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI"
+        }
+      ],
+      "duration_ms": 364971,
+      "name": "Sax To Me",
+      "url": "https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2883,22 +2883,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Vamo a Jugar Al Goloso",
-        "url": "https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4"
-      },
-      "artists": [
-        {
-          "name": "Guaracha",
-          "url": "https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc"
-        }
-      ],
-      "duration_ms": 153808,
-      "name": "Vamo a Jugar Al Goloso",
-      "url": "https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Antrax",
         "url": "https://open.spotify.com/album/0YWzujtA6XZwQqHQuWMEnB"
       },
@@ -2923,6 +2907,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Vamo a Jugar Al Goloso",
+        "url": "https://open.spotify.com/album/5W9c58mWuZ4liGx1Bg2hz4"
+      },
+      "artists": [
+        {
+          "name": "Guaracha",
+          "url": "https://open.spotify.com/artist/26u8yZqpmuhdH9SvClAJrc"
+        }
+      ],
+      "duration_ms": 153808,
+      "name": "Vamo a Jugar Al Goloso",
+      "url": "https://open.spotify.com/track/4XNtOTaQub1YEWSXEHcAuB"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "El Mariachi",
         "url": "https://open.spotify.com/album/1IDoRaTAdiGxOGQvPxhUdG"
       },
@@ -2943,6 +2943,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG Nosso Xote",
         "url": "https://open.spotify.com/album/4DANxV5ONUmk39WxeNOJww"
       },
@@ -2959,22 +2975,6 @@
       "duration_ms": 136615,
       "name": "MTG Nosso Xote",
       "url": "https://open.spotify.com/track/5BSWVqeTFYNz8IiLPTGkty"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2024-09-30 22:44:34",

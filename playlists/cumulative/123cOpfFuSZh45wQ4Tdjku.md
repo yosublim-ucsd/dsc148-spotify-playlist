@@ -4,7 +4,7 @@
 
 > mostly furry
 
-279 songs - 14 hr 7 min
+282 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [CTRL](https://open.spotify.com/track/0614iq7Ffah7opcLKqoxXX) | [Shadrow](https://open.spotify.com/artist/2fZ2nHEB3va8LTHXX8oKgU) | [CTRL](https://open.spotify.com/album/1CNrYKuLnNlnaYb2vqwx3N) | 4:08 | 2024-01-23 |  |
 | [Cyber Road](https://open.spotify.com/track/2dskFLEpVf6TuOCM3UeHOm) | [Tundra Fox](https://open.spotify.com/artist/5YhzBLEPDn6WsOletqmX5M) | [Tundra Fox Music](https://open.spotify.com/album/5Mes2PsdAWigtNwpYE2wpv) | 4:14 | 2023-12-07 |  |
 | [CYBERNETIC HEART](https://open.spotify.com/track/7p1MBFFf6XTYJGh5elBNhM) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 | 2024-10-24 |  |
+| [CYBERNETIC HEART \- Instrumental](https://open.spotify.com/track/05tLwHgaXGZssYlNJOSiX7) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 | 2025-01-27 |  |
 | [Dandelion](https://open.spotify.com/track/03uJ32wSbxzd1SLvZDHJZ2) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Paper Alibis](https://open.spotify.com/album/5q9JKSnjSiY2kVLdC7LuHS) | 5:20 | 2024-07-19 |  |
 | [DATA\_REJECT](https://open.spotify.com/track/1TiWVrt0psOIdayQL47Vk5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [DATA\_REJECT](https://open.spotify.com/album/0bdN37m2iBcjE90RfSEv16) | 3:11 | 2024-07-09 |  |
 | [Death Valley](https://open.spotify.com/track/1K3hnMxbGjFOsbafk52We3) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Death Valley](https://open.spotify.com/album/3zCIfp9cAWatprfqsUkhsk) | 3:14 | 2023-11-20 |  |
@@ -253,6 +254,7 @@
 | [There's No Good in a Goodbye](https://open.spotify.com/track/4SXGlAPgk4ucGfn3NHCdGI) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Unleashed](https://open.spotify.com/album/36ZrBEKFyHtbNumTv7pSuA) | 4:10 | 2023-11-18 |  |
 | [This Is Why We Can't Have Nice Things](https://open.spotify.com/track/4Qdd66HMaxta8ZQDbG9Dtb) | [Martyrs of Apathy](https://open.spotify.com/artist/0CqyREwcnKy21Xw0GMJvrv) | [Possession](https://open.spotify.com/album/4xKLhgglDTedKwWXyShpI9) | 3:24 | 2023-11-20 |  |
 | [This Land Is Ours](https://open.spotify.com/track/3ctpMpyWn3e2MpaJisa2TD) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 5:32 | 2024-07-19 |  |
+| [Time for Farewell](https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Time for Farewell](https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF) | 3:51 | 2025-01-27 |  |
 | [Timus](https://open.spotify.com/track/2PcBJUYvVh2jvWbE30Qq7m) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 2:14 | 2024-08-03 |  |
 | [TOKYO](https://open.spotify.com/track/7dJcucfRrG7Z0ufRSYEmTe) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [TOKYO](https://open.spotify.com/album/5bnBjDItfsQmJkE7jwpogy) | 2:50 | 2024-01-18 |  |
 | [TOKYO ANNIVERSARY \- MRSHLMusic Remix](https://open.spotify.com/track/6ZcNUCHfQ0sCMTxAVYjBfM) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [MRSHLMusic](https://open.spotify.com/artist/6hX9Jvgj2AAVJZCr4uLTaA) | [TOKYO ANNIVERSARY \(MRSHLMusic Remix\)](https://open.spotify.com/album/32RU2opM8BLT6WKOYIQn4E) | 3:33 | 2024-01-21 |  |
@@ -267,6 +269,7 @@
 | [Vent Pipe Cheetar Chase](https://open.spotify.com/track/3K8dvEFJaXkG7mMd9a5HPy) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:08 | 2024-12-24 |  |
 | [VrChat](https://open.spotify.com/track/7CNOrVqMNJ0nTy3meJ7oqY) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Bean](https://open.spotify.com/album/2QROPTNiSEd62NdRD9yC8a) | 3:28 | 2024-05-15 |  |
 | [Wag My Tail](https://open.spotify.com/track/706eKOKkaHuRjxd25q1WZo) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Wag My Tail](https://open.spotify.com/album/2sBXtD2bY1FaiXTzIft4qB) | 3:56 | 2024-05-13 |  |
+| [Waterland](https://open.spotify.com/track/726bs3udSSK6Ec7H6Y21mf) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Waterland](https://open.spotify.com/album/4ld2ghxuhuLm6fC1M1kaca) | 2:56 | 2025-01-27 |  |
 | [We're Taking Back the Night](https://open.spotify.com/track/5DkFdMS4cRWmJTXLli9iXe) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [Instinct](https://open.spotify.com/album/3wynjF8o8q5g2KhgzyN8Xl) | 4:24 | 2023-11-18 |  |
 | [Welcome To Heaven](https://open.spotify.com/track/1Hqk4SHLCLSQYfORVEcWkf) | [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv), [Shoba Narayan](https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj), [Patina Miller](https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 1:00 | 2024-05-14 |  |
 | [What a Hellhole \- Sinner Adam Song](https://open.spotify.com/track/4IZnhuNYLbLpn7jxo10uF8) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO), [EggOnYourLeg](https://open.spotify.com/artist/1JINyD79RTJCCR1kf8WKen) | [What a Hellhole \(Sinner Adam Song\)](https://open.spotify.com/album/2Dk8I86os3rOvKRyZTuuaf) | 2:52 | 2024-12-20 |  |

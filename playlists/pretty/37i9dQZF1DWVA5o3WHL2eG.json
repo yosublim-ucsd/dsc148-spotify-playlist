@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Kauta",
-  "num_followers": 37074,
+  "num_followers": 37076,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Juli",
-        "url": "https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR"
+        "name": "stunde null",
+        "url": "https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD"
       },
       "artists": [
         {
-          "name": "fyne",
-          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
         }
       ],
-      "duration_ms": 189840,
-      "name": "Juli",
-      "url": "https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY"
+      "duration_ms": 121186,
+      "name": "petrichor",
+      "url": "https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -259,18 +259,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "stunde null",
-        "url": "https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD"
+        "name": "Juli",
+        "url": "https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR"
       },
       "artists": [
         {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+          "name": "fyne",
+          "url": "https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH"
         }
       ],
-      "duration_ms": 121186,
-      "name": "petrichor",
-      "url": "https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR"
+      "duration_ms": 189840,
+      "name": "Juli",
+      "url": "https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -307,26 +307,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "daf\u00fcr oder dagegen",
-        "url": "https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V"
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h"
       },
       "artists": [
         {
-          "name": "Mieze Katz",
-          "url": "https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0"
-        },
-        {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
-        },
-        {
-          "name": "Mia.",
-          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         }
       ],
-      "duration_ms": 183510,
-      "name": "daf\u00fcr oder dagegen",
-      "url": "https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ"
+      "duration_ms": 215624,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -347,18 +339,26 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h"
+        "name": "daf\u00fcr oder dagegen",
+        "url": "https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "Mieze Katz",
+          "url": "https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0"
+        },
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        },
+        {
+          "name": "Mia.",
+          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
         }
       ],
-      "duration_ms": 215624,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q"
+      "duration_ms": 183510,
+      "name": "daf\u00fcr oder dagegen",
+      "url": "https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 149032,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "irgendwer",
         "url": "https://open.spotify.com/album/6nwQZBtgTsMTBoMDxpEj2y"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 168695,
       "name": "irgendwer",
       "url": "https://open.spotify.com/track/6ytgQodHGwKDK07bJAuKil"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 149032,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Hardcore Workout Queen",
-        "url": "https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d"
-      },
-      "artists": [
-        {
-          "name": "Friedberg",
-          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
-        }
-      ],
-      "duration_ms": 221967,
-      "name": "So Dope",
-      "url": "https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Milk",
         "url": "https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 169075,
       "name": "Milk",
       "url": "https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Hardcore Workout Queen",
+        "url": "https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d"
+      },
+      "artists": [
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "duration_ms": 221967,
+      "name": "So Dope",
+      "url": "https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35"
     },
     {
       "added_at": "2025-01-07 23:00:01",

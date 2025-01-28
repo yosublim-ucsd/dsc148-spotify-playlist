@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > teto tetin cs \- onde ele tá nada disso importa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,853 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,948 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [Metralha](https://open.spotify.com/track/4ty23iZN8LE3NKB6gVuUQw) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Metralha](https://open.spotify.com/album/7MQxAhJAEiSTBjzfNrK2qT) | 3:00 |
 | 55 | [Ela geme](https://open.spotify.com/track/3x77qZobVBsNCSsPRujX9W) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Escola de Trap II](https://open.spotify.com/album/3lKN73ZhtJHwhtp4qufryz) | 3:18 |
 
-Snapshot ID: `Z5MCgQAAAADKy7JTwIO6JANP11GohsTw`
+Snapshot ID: `Z5eg/QAAAADimD1ATbgdXPSls0hNcArT`

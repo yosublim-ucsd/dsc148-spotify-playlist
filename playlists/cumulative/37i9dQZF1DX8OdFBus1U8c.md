@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! Cover : Fejo
 
-214 songs - 11 hr 21 min
+215 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Pambaram](https://open.spotify.com/track/1oR0JPBlacz2cwcphSmzgi) | [Street Academics](https://open.spotify.com/artist/0LZRSRpEniupzKWif9FXh6) | [Loop](https://open.spotify.com/album/7dfo3lWr4LUO0WjMCoFnP6) | 3:48 | 2022-04-18 |  |
 | [Panchayath Kinar](https://open.spotify.com/track/56Xhc2nRo7mQLGmDzBDBWA) | [STIC](https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5), [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Panchayath Kinar](https://open.spotify.com/album/2tXM6Zea2UnpSxwxQMtxSF) | 2:32 | 2025-01-09 |  |
 | [Pandu Thotte](https://open.spotify.com/track/6BXftLsxnw9cgSKaKkjO2k) | [Nomadic Voice](https://open.spotify.com/artist/1oze8SLXENyjFZJbdfemfT), [16bars](https://open.spotify.com/artist/7qLiDZ7AveASlnEWpBpDc7), [VKDKV](https://open.spotify.com/artist/2is3kAPzIxjgRHXd9qZB3n) | [Pandu Thotte](https://open.spotify.com/album/2SHreN0cgRVxO5Vbcq3bxS) | 2:48 | 2022-04-22 | 2023-07-24 |
-| [PANIPAALI](https://open.spotify.com/track/1BuUtMcQoplYtoiRUTLWTa) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PANIPAALI](https://open.spotify.com/album/1q5r4D2xFAdPr16F4xYbI1) | 3:40 | 2021-12-03 |  |
+| [PANIPAALI](https://open.spotify.com/track/1BuUtMcQoplYtoiRUTLWTa) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PANIPAALI](https://open.spotify.com/album/1q5r4D2xFAdPr16F4xYbI1) | 3:40 | 2021-12-03 | 2025-01-28 |
 | [Panipaali\-2](https://open.spotify.com/track/4DkshUNprCxqUt2tRdTNO5) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Panipaali\-2](https://open.spotify.com/album/4md2GkBem01yXH7CsAeHIz) | 3:38 | 2021-12-03 | 2024-05-22 |
 | [Pattuduthu Vannathum \(From "Kumari"\)](https://open.spotify.com/track/5m5Ns63z7A2QGSqL3QghqL) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sreehari](https://open.spotify.com/artist/7JoyE37sAJF5iZod0sNBhr) | [Pattuduthu Vannathum \(From "Kumari"\) \- Single](https://open.spotify.com/album/7FPwLr3yhBPyGrlBPpSWul) | 4:09 | 2022-11-04 | 2023-07-24 |
 | [Payye Payye Thinnanda](https://open.spotify.com/track/3TijOEnNGG9jKkNpt0a2WO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Payye Payye Thinnanda](https://open.spotify.com/album/6jhnLuH31gqeu44mrFubf0) | 2:56 | 2024-04-15 | 2024-05-22 |
@@ -211,6 +211,7 @@
 | [Varavu](https://open.spotify.com/track/4z4Ga5Q74ME9wQZKvP2keQ) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO) | [Varavu](https://open.spotify.com/album/2jCaTaMTrZZ0yb3eGp4a4L) | 2:33 | 2025-01-10 |  |
 | [Vayassethrayayi \(From "Vayassethrayayi Muppathi"\)](https://open.spotify.com/track/61LuvKi1wLtwpB9FJLBIzy) | [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Anurag Ram](https://open.spotify.com/artist/0TcPzzzoOrgzGEEWbp4um5), [Vishnu Subhash](https://open.spotify.com/artist/4oWJLj6pDpogL4fgojO8zQ), [Rag Sagar](https://open.spotify.com/artist/3QPRVJ6ltAtG3vKYPBYeeA) | [Vayassethrayayi \(From "Vayassethrayayi Muppathi"\)](https://open.spotify.com/album/5afYG1riDPocWvyYFtyVS3) | 4:13 | 2024-01-23 | 2024-02-13 |
 | [Vayyaveli](https://open.spotify.com/track/7foOcAmVozH37pMMCdv4I0) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vayyaveli](https://open.spotify.com/album/4s7DeJy6LGA7RcwwodVaXQ) | 2:57 | 2022-06-23 | 2024-12-19 |
+| [Vedi](https://open.spotify.com/track/1hF2EpIVu1pOK2AtRq9Wod) | [Thirumali](https://open.spotify.com/artist/4LEOrzbFhr9mYeHAXhzm2R), [Shyam\-Krishna](https://open.spotify.com/artist/18IVgi1pPSzLCMWcizl9Ld), [Mallu Gomez](https://open.spotify.com/artist/02YDDhHdxAQCYMUUKIGUEt), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Vedi](https://open.spotify.com/album/46IOg4n8hRcFt6TiBApEzN) | 3:35 | 2025-01-27 |  |
 | [Venjarippu](https://open.spotify.com/track/7F02EEb6hTjG4y7Md3hJvx) | [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB) | [RAP BHOOSHANAM COCHIN BROTHERS PVT\. LTD.](https://open.spotify.com/album/7ilFtn0ij6e5V8cVVb6VZo) | 2:52 | 2023-07-23 | 2023-08-22 |
 | [Vere Level](https://open.spotify.com/track/3qKFI8feoGekhCFfTR8OPs) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Vere Level](https://open.spotify.com/album/1JrVlSYxmfdrTcPou5Urnc) | 3:34 | 2022-06-23 | 2024-04-09 |
 | [Voice of Voiceless](https://open.spotify.com/track/0fuSvkUjYtk5iqbyNIptZN) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Voice of Voiceless](https://open.spotify.com/album/2YRk162JljfmD25M71gql8) | 3:06 | 2022-10-25 | 2023-11-04 |

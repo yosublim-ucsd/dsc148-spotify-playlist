@@ -4,7 +4,7 @@
 
 > 
 
-875 songs - 1 day 18 hr 14 min
+878 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Blueslides](https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 3:55 | 2024-03-04 | 2024-11-06 |
 | [Bombaclot](https://open.spotify.com/track/5v0GLC6yRDRyxeZSEGdf8y) | [Beatsbycali](https://open.spotify.com/artist/2EUvd5VqbA8wS5F70z2Jlg), [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [RTB Chi](https://open.spotify.com/artist/1vujQ4R9pnn0sOeQZDJvfs) | [Bombaclot](https://open.spotify.com/album/74eVXHFF8J4ra7RQobQoyh) | 2:35 | 2023-04-03 | 2023-05-09 |
 | [Bombo Fabrika](https://open.spotify.com/track/6ibgoEbPm2GAkz8on3Wo3J) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3QjaxGp6wfwMiZbYdIeOUO) | 5:00 | 2024-04-23 | 2024-11-06 |
+| [Bool, Balm & Bollective](https://open.spotify.com/track/0UmV17gerlXy4V3wuOUWPo) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:35 | 2025-01-28 |  |
 | [Borough Check](https://open.spotify.com/track/1yeUcA8cGzT2Y7Crt9hqXw) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ), [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW) | [Blowout Comb](https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt) | 6:55 | 2023-10-03 | 2024-04-24 |
 | [Bosses](https://open.spotify.com/track/7eWMg3GRc2whQzRYsVcA8u) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:26 | 2023-01-07 | 2023-05-09 |
 | [Bought The Earth](https://open.spotify.com/track/43MyijzQ0ngRPjYHeUV7AM) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 2:58 | 2024-02-16 | 2024-02-22 |
@@ -328,6 +329,7 @@
 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 | 2023-04-03 | 2024-03-05 |
 | [Hell Night](https://open.spotify.com/track/1BeZDWwsxqxOUvTJzH2M4T) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Hell Night](https://open.spotify.com/album/5EwJMf9I4CfMZEEV133gJG) | 3:13 | 2022-09-11 |  |
 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 | 2022-10-17 | 2023-05-09 |
+| [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2025-01-27 |  |
 | [HeMotions](https://open.spotify.com/track/39HsFsNfFYZdpnQfq8lbS3) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:07 | 2023-03-10 | 2023-05-09 |
 | [Hey Jane](https://open.spotify.com/track/3Umj02ZNl4d356pS1D38mn) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:00 | 2024-11-05 |  |
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 | 2024-11-06 |
@@ -864,6 +866,7 @@
 | [When I](https://open.spotify.com/track/4QUsmmXmINYXwh7UsiMX2j) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:00 | 2023-06-18 | 2023-12-14 |
 | [Where we left Off](https://open.spotify.com/track/189jnLyHbPJKr5bp11qdDi) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Nothing more Nothing LESS](https://open.spotify.com/album/0oQ0ObULWWC4LItIkL9hM0) | 3:47 | 2022-05-03 | 2024-11-06 |
 | [Whiplash'd](https://open.spotify.com/track/4dlsntjrHwjQlDPCFHfqgW) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Whiplash'd](https://open.spotify.com/album/7lirv2kkhnhhHm2TV1Pk8u) | 1:50 | 2022-09-19 | 2023-05-09 |
+| [Who Shot Me?](https://open.spotify.com/track/20F9XLcFdWcI2yS74hHQ99) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:47 | 2025-01-28 |  |
 | [Wholeworldslatt \(feat\. Veeze\)](https://open.spotify.com/track/3fyWuJpGOok9xs2TxniPIn) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [s\*x m\*ney dr\*gs](https://open.spotify.com/album/6vKVBLTsQW5wXOzmOIkPVZ) | 3:25 | 2023-07-12 | 2023-12-14 |
 | [Why Tf?!](https://open.spotify.com/track/4yuwWhW2dUREUILWnDFLiR) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:01 | 2023-01-03 | 2023-04-12 |
 | [will i touch the sky](https://open.spotify.com/track/4PvBEB2BYMfc9dmblEwt3n) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Victims & Villains](https://open.spotify.com/album/75gfDhxXd2V3SbWZUYhGia) | 4:06 | 2023-04-04 | 2023-05-09 |

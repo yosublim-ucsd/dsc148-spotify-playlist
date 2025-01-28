@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-722 songs - 2 day 8 hr 8 min
+723 songs - 2 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 | 2023-03-21 |
 | [A Pervasive Awareness](https://open.spotify.com/track/1yomRVFAS05Kw4CRSm15Ii) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [Ancient Moods Mahollova Mind](https://open.spotify.com/album/1LgquUBsctr0v68Jh3fKpF) | 3:26 | 2024-12-05 | 2025-01-25 |
 | [A1 \- It's just a burning memory](https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:32 | 2024-02-08 |  |
+| [Abstract Pets \- Salamanda Remix](https://open.spotify.com/track/2LeeCUKxDcRSYHww0i03ao) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1), [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy), [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Abstract Pets \(Salamanda Remix\)](https://open.spotify.com/album/6QCdfa3s2Aseq6xYVhGdBW) | 2:30 | 2025-01-24 |  |
 | [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 | 2024-02-15 | 2024-12-06 |
 | [After Dark](https://open.spotify.com/track/3cSsJEy5tiGkJRpMRfPUO8) | [石井悠輝](https://open.spotify.com/artist/3WrQKuYGn08URJ35spu8vJ) | [REFLECTION](https://open.spotify.com/album/6pOjcCujDiE0DvR9aIk3LK) | 1:45 | 2022-03-31 | 2022-05-11 |
 | [AFTER IMAGE](https://open.spotify.com/track/1Jxb8fKZJrobr8T2NCBNlY) | [Masayuki Sakamoto](https://open.spotify.com/artist/3KkI7GpwZIcwRAXOEzP9Pr) | [プシュケ](https://open.spotify.com/album/0olvnM41x2P7CJJ4cvwyFQ) | 3:28 | 2022-04-07 | 2022-06-24 |
@@ -165,7 +166,7 @@
 | [Destiny](https://open.spotify.com/track/3XwyTHASTc774AVHBtRjuE) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Mariage](https://open.spotify.com/album/1OVjXKtVfQGOyGuuM6SkCr) | 5:06 | 2024-05-23 | 2024-09-06 |
 | [Digital Detox](https://open.spotify.com/track/7suak3E7l3TBrlhm694OSU) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 2:24 | 2024-09-25 | 2024-12-15 |
 | [DINORWIC](https://open.spotify.com/track/7dg77VJR6x1lHL2dhMk1r5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [DINORWIC](https://open.spotify.com/album/6OcfNZg7POZwLZtVHZFQRX) | 11:51 | 2024-10-11 | 2025-01-08 |
-| [Disintegration Loops \(1.1 Excerpt I\)](https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Music from The Comedy, A Film by Rick Alverson](https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH) | 2:02 | 2024-02-08 |  |
+| [Disintegration Loops \(1.1 Excerpt I\)](https://open.spotify.com/track/6VdEA4ZNDsZDHFh5C0v8O1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Music from The Comedy, A Film by Rick Alverson](https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH) | 2:02 | 2024-02-08 | 2025-01-28 |
 | [DNA](https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [In The Dark Woods](https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw) | 5:16 | 2022-03-31 | 2024-02-09 |
 | [DOLPHINS](https://open.spotify.com/track/4yJAbkC1MfvoyRwtToIw4m) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Esperanto](https://open.spotify.com/album/2zZysv8QqhFQh71PcmDPfa) | 3:21 | 2022-03-31 | 2022-06-15 |
 | [doomsday cord \- Instrumental](https://open.spotify.com/track/3cb37iVCyzBtAXomMT6Qhj) | [Kyo Ichinose](https://open.spotify.com/artist/7HrDKfDCZsEeMWYIyLZWYT), [eufonius](https://open.spotify.com/artist/4cP9sxuv6OMGWN0RrhsQjc) | [Sense of](https://open.spotify.com/album/5X2jP13Q22TGIo3J8A8EnE) | 4:22 | 2022-04-07 | 2022-07-17 |

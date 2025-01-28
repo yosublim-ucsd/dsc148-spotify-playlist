@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T?si=jIw8wELjSLGef5qtHBp0kg>S.O.N Music</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,555 likes - 80 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,574 likes - 80 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

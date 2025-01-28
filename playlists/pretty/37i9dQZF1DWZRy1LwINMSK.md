@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Lleflight & Jairo Vera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,900 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,924 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 99 | [Mafia Chilena: GUCCI GREMLIN](https://open.spotify.com/track/00nkC3hghUJB2ILdTAn44T) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Mafia Chilena: GUCCI GREMLIN](https://open.spotify.com/album/4le82QUKPdaEI75sUfOrU8) | 2:56 |
 | 100 | [Mafia Chilena: LOS CHICHOS](https://open.spotify.com/track/1xbTJhhQ0zE9qsf4pAtxCe) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Mafia Chilena: LOS CHICHOS](https://open.spotify.com/album/3gkPtGCboYoObv0k0dvw06) | 2:02 |
 
-Snapshot ID: `Z1ujRAAAAAC86XiISviL8dT5OBzLR0Xu`
+Snapshot ID: `Z5eklQAAAACwcXConqOx9Cbi9PfklduZ`

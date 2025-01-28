@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 491265,
+  "num_followers": 491346,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-01-23 07:18:15",
       "album": {
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+    },
+    {
+      "added_at": "2025-01-23 07:18:15",
+      "album": {
         "name": "Percayalah",
         "url": "https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 266111,
       "name": "Percayalah",
       "url": "https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet"
-    },
-    {
-      "added_at": "2025-01-23 07:18:15",
-      "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2025-01-23 07:18:15",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-01-23 07:18:15",
       "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+    },
+    {
+      "added_at": "2025-01-23 07:18:15",
+      "album": {
         "name": "Marion",
         "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 221381,
       "name": "Rayu",
       "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
-    },
-    {
-      "added_at": "2025-01-23 07:18:15",
-      "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2025-01-23 07:18:15",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-01-23 07:18:15",
       "album": {
+        "name": "Evaluasi (Reprise)",
+        "url": "https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Evaluasi (Reprise)",
+      "url": "https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU"
+    },
+    {
+      "added_at": "2025-01-23 07:18:15",
+      "album": {
         "name": "DEKADE",
         "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 218470,
       "name": "Bukan Cinta Biasa - Dekade Version",
       "url": "https://open.spotify.com/track/6N4EZhQbBsDjwr2buY3TGk"
-    },
-    {
-      "added_at": "2025-01-23 07:18:15",
-      "album": {
-        "name": "DIA",
-        "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
-      },
-      "artists": [
-        {
-          "name": "Anji",
-          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
-        }
-      ],
-      "duration_ms": 207490,
-      "name": "Dia - Hits Single",
-      "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
     },
     {
       "added_at": "2025-01-23 07:18:15",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-01-23 07:18:15",
       "album": {
-        "name": "Evaluasi (Reprise)",
-        "url": "https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF"
+        "name": "DIA",
+        "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
       },
       "artists": [
         {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          "name": "Anji",
+          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
         }
       ],
-      "duration_ms": 193421,
-      "name": "Evaluasi (Reprise)",
-      "url": "https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU"
+      "duration_ms": 207490,
+      "name": "Dia - Hits Single",
+      "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
     },
     {
       "added_at": "2025-01-23 07:18:15",

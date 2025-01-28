@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Sicario",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -234,6 +234,36 @@
       "duration_ms": 184666,
       "name": "AIORA",
       "url": "https://open.spotify.com/track/67GZhMIBqNdPbwmcQGO7eF"
+    },
+    {
+      "album": {
+        "name": "PROSOPA",
+        "url": "https://open.spotify.com/album/6Tt12mJtVSkCSM9zXyMRTy"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "_OTS",
+          "url": "https://open.spotify.com/artist/1duTYTeIWqrESenXtZ3a82"
+        },
+        {
+          "name": "Takanuva",
+          "url": "https://open.spotify.com/artist/2ciuV1nz063tai3NKwomQs"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144578,
+      "name": "ALADDIN",
+      "url": "https://open.spotify.com/track/4WRdYQM21e3bji4xHSVNoG"
     },
     {
       "album": {
@@ -1087,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "EPANO STO TRAPEZI",
+        "url": "https://open.spotify.com/album/1ZiVzPUElXoi8M8bENOhag"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144087,
+      "name": "EPANO STO TRAPEZI",
+      "url": "https://open.spotify.com/track/3wpiU5pc42REYEW9vd7fBa"
+    },
+    {
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -1146,7 +1194,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 128399,
       "name": "FAST LIFE",
       "url": "https://open.spotify.com/track/7wW0e6qtNpzH5CWSH3xzJp"
@@ -1285,6 +1333,28 @@
     },
     {
       "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
+    },
+    {
+      "album": {
         "name": "GIA SENA",
         "url": "https://open.spotify.com/album/7KXUrhBDgWGARi4ehXKTFM"
       },
@@ -1352,6 +1422,28 @@
       "duration_ms": 220327,
       "name": "GILEKO",
       "url": "https://open.spotify.com/track/3bd0uhm7ENvy8q6Z2savKd"
+    },
+    {
+      "album": {
+        "name": "GIMMIE",
+        "url": "https://open.spotify.com/album/2ghMBXS9U58BLws1LZM1Nq"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "GIMMIE",
+      "url": "https://open.spotify.com/track/3C4vDKPYaUpG0ZH8y4axeV"
     },
     {
       "album": {
@@ -1953,6 +2045,28 @@
     },
     {
       "album": {
+        "name": "LEOFORIO",
+        "url": "https://open.spotify.com/album/24wowOyzw1jCVkK63eWmGx"
+      },
+      "artists": [
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156862,
+      "name": "LEOFORIO",
+      "url": "https://open.spotify.com/track/5ZirPH2NK1tcghUP3tW8fa"
+    },
+    {
+      "album": {
         "name": "LOGIA",
         "url": "https://open.spotify.com/album/64XLG1PntIfSNtfQr37wvq"
       },
@@ -2122,7 +2236,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 157575,
       "name": "MATRIX",
       "url": "https://open.spotify.com/track/4SMXHvHA1FtsekSN6BWnJy"
@@ -2590,7 +2704,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 132704,
       "name": "Panama",
       "url": "https://open.spotify.com/track/59TU63XlKvPgYYnTu3mnc0"
@@ -2788,7 +2902,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 114624,
       "name": "PIRATES",
       "url": "https://open.spotify.com/track/65vWYKMJK4sb6HayK7OdJH"
@@ -3170,7 +3284,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 254579,
       "name": "Skoteine Mou Erota",
       "url": "https://open.spotify.com/track/2ne8nKFYuYTUnhsUAtELii"

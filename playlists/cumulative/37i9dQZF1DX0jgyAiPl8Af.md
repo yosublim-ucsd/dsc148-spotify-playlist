@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-835 songs - 1 day 12 hr 3 min
+837 songs - 1 day 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Dream by day](https://open.spotify.com/track/6VC0dMG2hyvdSgANubpBoM) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dream by day](https://open.spotify.com/album/2RohB8WrmEWB1J2OqP8yoB) | 2:25 | 2022-10-28 | 2023-05-13 |
 | [Dream Sweet Dreams](https://open.spotify.com/track/4NgP1eBz1VPVKWDDIgsDvW) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Dream Sweet Dreams](https://open.spotify.com/album/4gWqNj16uzmwC4VglSdtFt) | 1:40 | 2023-03-10 | 2023-08-19 |
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-03-24 |  |
+| [Dripping Ink](https://open.spotify.com/track/7oSRJwhRI80F6aMV33dZ9t) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Dripping Ink](https://open.spotify.com/album/7rxlruoX81Q26EZoVK7sr1) | 1:42 | 2025-01-27 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2022-11-25 | 2024-04-20 |
 | [Dubrovnik](https://open.spotify.com/track/6bTvNM2GfDx56jhng3K6Uj) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dubrovnik](https://open.spotify.com/album/00ofzPCdvfpTcffTPxqoZr) | 2:05 | 2023-05-12 | 2024-06-08 |
 | [Dunfanaghy Beach](https://open.spotify.com/track/4dPDiKpvkhXrCZ7dd9nM3K) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Dunfanaghy Beach](https://open.spotify.com/album/4LlIknto9ZksRNDIZXfPL8) | 2:10 | 2021-12-08 | 2022-06-17 |
@@ -607,6 +608,7 @@
 | [Riso](https://open.spotify.com/track/0wijlfBBmTPzrE8DoClLKL) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Riso](https://open.spotify.com/album/2VmFSZrAeIXRHOO2oX0flG) | 3:20 | 2022-10-07 | 2023-06-09 |
 | [River crossing](https://open.spotify.com/track/1oaGPO8tK1VnTc6zBWzNkL) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [River crossing](https://open.spotify.com/album/2pj3W209MgHfvHu5bPclaQ) | 2:35 | 2024-05-03 | 2024-10-02 |
 | [River of Regisfield](https://open.spotify.com/track/02p0tuBNxqqaiveKZOXgDn) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [River of Regisfield](https://open.spotify.com/album/4ULQ5eDNyE3acU66R9YnqP) | 1:52 | 2022-09-09 | 2023-08-19 |
+| [River's Edge](https://open.spotify.com/track/7lcpqrRdvs8komIL2UI1e6) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [River's Edge](https://open.spotify.com/album/0nqR7HIHANllfef8LZt8NZ) | 3:02 | 2025-01-27 |  |
 | [Rolling Hills](https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Rolling Hills](https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8) | 1:57 | 2022-09-02 | 2023-08-19 |
 | [Romina](https://open.spotify.com/track/56dLWbtZzayZIl9OtXQQNI) | [Albert Kraus](https://open.spotify.com/artist/63ueGtFxRPWEhEqweSglrM) | [Romina](https://open.spotify.com/album/5cEsMVp5pTN5clLQYMj3sy) | 3:27 | 2021-12-08 | 2022-06-03 |
 | [Roter Felsen](https://open.spotify.com/track/381kyYVgs1EMDVChtfxdVa) | [Daniel Raticelli](https://open.spotify.com/artist/3B1yfNtIHrXNfmhocEoDjj) | [Nanaimo](https://open.spotify.com/album/1lZH79nxNkwd1wIZS6w8rk) | 2:16 | 2021-12-08 | 2022-11-26 |

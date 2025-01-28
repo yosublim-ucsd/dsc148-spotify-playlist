@@ -2073,6 +2073,28 @@
     },
     {
       "album": {
+        "name": "Better Half (feat. Omoinotake)",
+        "url": "https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9"
+      },
+      "artists": [
+        {
+          "name": "JEONGHAN",
+          "url": "https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF"
+        },
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234626,
+      "name": "Better Half (feat. Omoinotake)",
+      "url": "https://open.spotify.com/track/1beUALLSloBEvYre65QiW6"
+    },
+    {
+      "album": {
         "name": "Better Spring",
         "url": "https://open.spotify.com/album/0Hh9Zowcy88neSc4sv0S5b"
       },

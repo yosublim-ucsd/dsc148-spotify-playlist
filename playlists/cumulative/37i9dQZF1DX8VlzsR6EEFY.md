@@ -4,7 +4,7 @@
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Victor García, Luis Ángel El Flaco en portada.
 
-269 songs - 14 hr 1 min
+270 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 | 2024-05-24 | 2024-07-19 |
 | [Lo Que Me Pase A Mí](https://open.spotify.com/track/1CYiVzPdMXs1dTi2y0gSOh) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Osvaldo Rodriguez](https://open.spotify.com/artist/2BMaTsuqLtDUuOQHzGIgjP) | [Lo Que Me Pase A Mí](https://open.spotify.com/album/3GmvyNsEeIEI3efVQizugb) | 1:52 | 2025-01-10 |  |
 | [Locos](https://open.spotify.com/track/0SQyv78TlUxm6auo5bNsBp) | [Al Tiro de Armando Ramos](https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O), [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Locos](https://open.spotify.com/album/756ApmQctVkcEJnbmXOrwz) | 3:00 | 2024-10-04 | 2024-11-30 |
+| [Los Años](https://open.spotify.com/track/2bWiy4CRq8qhtgODoODKX6) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Los Años](https://open.spotify.com/album/2vwnIZS3UXRcIGAfGDtS94) | 3:05 | 2025-01-27 |  |
 | [LOS DOS](https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:34 | 2024-05-24 |  |
 | [Los Malacostumbré](https://open.spotify.com/track/6Jrp7alMvsw2Nj80XpIGba) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Los Malacostumbré](https://open.spotify.com/album/6CqGOQz33Go8fMyrZkT5nK) | 2:12 | 2024-05-03 | 2024-06-08 |
 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 | 2024-03-08 | 2024-04-19 |

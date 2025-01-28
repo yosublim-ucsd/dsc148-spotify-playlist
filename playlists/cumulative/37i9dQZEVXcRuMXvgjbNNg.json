@@ -505,6 +505,32 @@
     },
     {
       "album": {
+        "name": "Sayonara Wild Hearts",
+        "url": "https://open.spotify.com/album/4G2oaPBAeY6aBi2S3QHtwq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ols\u00e9n",
+          "url": "https://open.spotify.com/artist/4Sxhex40BZgYwJu0JqIZzn"
+        },
+        {
+          "name": "Jonathan Eng",
+          "url": "https://open.spotify.com/artist/6DGvFaab7SEc4jnv38mKxQ"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129957,
+      "name": "A Place I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/6O96v1HqTrP34qPhdQ7sU7"
+    },
+    {
+      "album": {
         "name": "Dog Years",
         "url": "https://open.spotify.com/album/5C33QGKq6Xy9FKCAFdV7Po"
       },
@@ -898,7 +924,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 208280,
       "name": "Aesop Mountain",
       "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
@@ -2296,7 +2322,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 161612,
       "name": "As the World Caves In",
       "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
@@ -3217,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Better in the Morning",
+        "url": "https://open.spotify.com/album/192l8IAm2wYfwxsbt58WOO"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Better in the Morning",
+      "url": "https://open.spotify.com/track/4iZDK4OvoQSZGeTmkxM4GH"
+    },
+    {
+      "album": {
         "name": "The Ghost and the Wall",
         "url": "https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo"
       },
@@ -3841,6 +3885,28 @@
     },
     {
       "album": {
+        "name": "Once in a Long, Long While...",
+        "url": "https://open.spotify.com/album/5dhet1luldVxu21FUspJXV"
+      },
+      "artists": [
+        {
+          "name": "Low Roar",
+          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
+        },
+        {
+          "name": "J\u00f3fr\u00ed\u00f5ur \u00c1kad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/3LSqAcESIkzE2HxeBRsgVy"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169805,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/6lt8Z886tMHpNqzOFWX8Yn"
+    },
+    {
+      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/6qE8gDVWBdeQkCId3DbfLc"
       },
@@ -3888,7 +3954,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 189624,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/6HBNGrp119jJwbklsGOuUh"
@@ -5606,7 +5672,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 186000,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N"
@@ -6744,7 +6810,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 132080,
       "name": "Dad & Darts",
       "url": "https://open.spotify.com/track/2OqEvGkERXnwe4hghMyltD"
@@ -8416,7 +8482,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
@@ -9510,7 +9576,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 180400,
       "name": "Fare Thee Well (Dink's Song)",
       "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
@@ -10834,6 +10900,24 @@
       "duration_ms": 217682,
       "name": "Getaway Cabin",
       "url": "https://open.spotify.com/track/5mocOe376g4ZYDrhJtVn2T"
+    },
+    {
+      "album": {
+        "name": "Ghost Choir",
+        "url": "https://open.spotify.com/album/2jmGDEJUjKQLzUBQzvQWga"
+      },
+      "artists": [
+        {
+          "name": "Louie Zong",
+          "url": "https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97842,
+      "name": "Ghost Choir",
+      "url": "https://open.spotify.com/track/5d5vbFsYB7EebhVgafqvKS"
     },
     {
       "album": {
@@ -12946,7 +13030,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 268488,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/2tej1KSqNuxwywIpY1rDRc"
@@ -13548,6 +13632,24 @@
       "duration_ms": 307853,
       "name": "Hopeless Wanderer",
       "url": "https://open.spotify.com/track/4dfLrcSJpjvoRlgkHZEqz1"
+    },
+    {
+      "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181285,
+      "name": "Hopes And Dreams",
+      "url": "https://open.spotify.com/track/7CMVo848b9LsUtVavIoiXC"
     },
     {
       "album": {
@@ -14904,7 +15006,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 150141,
       "name": "I'd Have to Think About It",
       "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
@@ -16740,7 +16842,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 414790,
       "name": "Kara Main Theme - Kara",
       "url": "https://open.spotify.com/track/1KOUWbi3StqWAT4odlEhu3"
@@ -17394,7 +17496,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 241770,
       "name": "Learning to Fly",
       "url": "https://open.spotify.com/track/6Au80eD2nty1qvZaxLEkkG"
@@ -18746,7 +18848,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 191960,
       "name": "Love Letter From The Sea to The Shore",
       "url": "https://open.spotify.com/track/0yDghAfS3CT7Di30WoJE7h"
@@ -19476,7 +19578,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 139533,
       "name": "Make Your Own Kind Of Music",
       "url": "https://open.spotify.com/track/6H3Wa6hWR9DRMzMSd4pZkT"
@@ -19584,7 +19686,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 246173,
       "name": "Manchester",
       "url": "https://open.spotify.com/track/6Ehg6hFp7O2qUF3njy7dAj"
@@ -20756,7 +20858,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 92769,
       "name": "Moving Light",
       "url": "https://open.spotify.com/track/6EQneB4nJ8r8COyeqR6eQz"
@@ -21692,7 +21794,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 156040,
       "name": "Noble Maiden Fair (A Mhaighdean Bhan Uasal) - From \"Brave\"/Soundtrack",
       "url": "https://open.spotify.com/track/47d2mzkc3bPUD93NB0gKLR"
@@ -21786,6 +21888,24 @@
       "duration_ms": 190565,
       "name": "North Dakota",
       "url": "https://open.spotify.com/track/2l70NKAySm5pCzRAZxzPbn"
+    },
+    {
+      "album": {
+        "name": "Northern Italy",
+        "url": "https://open.spotify.com/album/2Aa1jx859mkgznEZQeLF1J"
+      },
+      "artists": [
+        {
+          "name": "Margaux Beylier",
+          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190214,
+      "name": "Northern Italy",
+      "url": "https://open.spotify.com/track/1Eg4CmLudi51fJHjY6kegZ"
     },
     {
       "album": {
@@ -21970,6 +22090,24 @@
       "duration_ms": 273253,
       "name": "O Endante Yale Wodaj (feat. Zemarit Mirtnesh Tilahun)",
       "url": "https://open.spotify.com/track/727Vp3JCfx1MqLI4Ko3KAW"
+    },
+    {
+      "album": {
+        "name": "Oak Trees",
+        "url": "https://open.spotify.com/album/3fjx4x46zUIWgplJlI7Wfv"
+      },
+      "artists": [
+        {
+          "name": "Daniel Nunnelee",
+          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233845,
+      "name": "Oak Trees",
+      "url": "https://open.spotify.com/track/39HJhQPvFCpt8y3N2jlKjd"
     },
     {
       "album": {
@@ -27839,6 +27977,24 @@
     },
     {
       "album": {
+        "name": "Over the Hedge-Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/7bhg9CHSxZgayMAC4mJGTx"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157493,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/5rasBZY5n2yEKm6J7mypIK"
+    },
+    {
+      "album": {
         "name": "Seagazing",
         "url": "https://open.spotify.com/album/6SdT8z2g3Lak9wOALGrbbi"
       },
@@ -29588,7 +29744,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 428200,
       "name": "The Battle",
       "url": "https://open.spotify.com/track/1ze3GTOVgAG5xLVrvcEoUS"
@@ -29686,7 +29842,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 245106,
       "name": "The Boxer feat. Mumford & Sons and Paul Simon",
       "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
@@ -29744,6 +29900,24 @@
       "duration_ms": 244354,
       "name": "The Few Things",
       "url": "https://open.spotify.com/track/7vvfMbZeNxCrYOqxqcw3fe"
+    },
+    {
+      "album": {
+        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146160,
+      "name": "The First I love You",
+      "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
     },
     {
       "album": {
@@ -30032,7 +30206,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 218666,
       "name": "The Long Song - From \"Doctor Who\" Series 7",
       "url": "https://open.spotify.com/track/2E27d8ONfN4H7clLIfWAic"
@@ -30292,7 +30466,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 113663,
       "name": "The Opening (Original Video Game Soundtrack)",
       "url": "https://open.spotify.com/track/2Cy0je383HEoGsRPk7ZVUr"
@@ -30443,6 +30617,24 @@
     },
     {
       "album": {
+        "name": "Doctor Who - Series 9 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5AQhqhSKwL8yIlNWhm5o8C"
+      },
+      "artists": [
+        {
+          "name": "Murray Gold",
+          "url": "https://open.spotify.com/artist/3vmtDGkzacafVdenyPHPMb"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287720,
+      "name": "The Shepherd's Boy",
+      "url": "https://open.spotify.com/track/6EIJTVtOQEzmLUItwb4sdh"
+    },
+    {
+      "album": {
         "name": "The Sidewalk Was the Shore",
         "url": "https://open.spotify.com/album/0T0RYIAWtkA4dERbSezZ1m"
       },
@@ -30566,7 +30758,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 177149,
       "name": "the way that i am",
       "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
@@ -30660,6 +30852,24 @@
       "duration_ms": 190500,
       "name": "The Weather (Acoustic)",
       "url": "https://open.spotify.com/track/7nECboGB4x2fYyf7lPyg7C"
+    },
+    {
+      "album": {
+        "name": "acoustic-ish: an album\u2026ish",
+        "url": "https://open.spotify.com/album/2I8D4okVugDDq3YPvRDydA"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "The Weather (acoustic-ish)",
+      "url": "https://open.spotify.com/track/4YrBpjgss8Y8VisQArkLwF"
     },
     {
       "album": {

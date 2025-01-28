@@ -14470,7 +14470,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 147531,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/7EJVlH2MfseE8YSOhCiNhO"
@@ -29314,6 +29314,28 @@
       "duration_ms": 223796,
       "name": "Worth Fighting For (Otero Remix)",
       "url": "https://open.spotify.com/track/7q0S9pxEA7ejXrhZhswQmy"
+    },
+    {
+      "album": {
+        "name": "Would You Believe",
+        "url": "https://open.spotify.com/album/1uGGYERqCATg5uUGH93wFZ"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        },
+        {
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207779,
+      "name": "Would You Believe",
+      "url": "https://open.spotify.com/track/4NWJ93NdSq9GGH0VyFtiGD"
     },
     {
       "album": {

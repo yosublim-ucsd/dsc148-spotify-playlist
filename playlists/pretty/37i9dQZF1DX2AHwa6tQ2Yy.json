@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 49404,
+  "num_followers": 49412,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Learning",
-      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Eating out",
         "url": "https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 173369,
       "name": "Eating out",
       "url": "https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "Love in the Open",
-        "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
-      },
-      "artists": [
-        {
-          "name": "Jet Vesper",
-          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
-        }
-      ],
-      "duration_ms": 122719,
-      "name": "Love in the Open",
-      "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "maryjane",
         "url": "https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 201680,
       "name": "maryjane",
       "url": "https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "Love in the Open",
+        "url": "https://open.spotify.com/album/7favYyfj0YmlHjZNPC3LfE"
+      },
+      "artists": [
+        {
+          "name": "Jet Vesper",
+          "url": "https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2"
+        }
+      ],
+      "duration_ms": 122719,
+      "name": "Love in the Open",
+      "url": "https://open.spotify.com/track/7bHrageN8GFaQ1jC3G9f4H"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -955,34 +955,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "SEE YOU TRY...",
-        "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
-      },
-      "artists": [
-        {
-          "name": "Yawdoesitall",
-          "url": "https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P"
-        },
-        {
-          "name": "Yasmina Sadiki",
-          "url": "https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh"
-        },
-        {
-          "name": "TAWANDA",
-          "url": "https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5"
-        },
-        {
-          "name": "DEVAURA",
-          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "SEE YOU TRY...",
-      "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Universe",
         "url": "https://open.spotify.com/album/1FQFL3StdKqMQctfhN4DR2"
       },
@@ -1019,6 +991,34 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "SEE YOU TRY...",
+        "url": "https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV"
+      },
+      "artists": [
+        {
+          "name": "Yawdoesitall",
+          "url": "https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P"
+        },
+        {
+          "name": "Yasmina Sadiki",
+          "url": "https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh"
+        },
+        {
+          "name": "TAWANDA",
+          "url": "https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5"
+        },
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "SEE YOU TRY...",
+      "url": "https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "exodus the north star",
-        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 205354,
-      "name": "exodus the north star",
-      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 205354,
+      "name": "exodus the north star",
+      "url": "https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "you already know [demo_2021].wav",
         "url": "https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 182169,
       "name": "you already know [demo_2021].wav",
       "url": "https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Autumn Girl",
-        "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
-      },
-      "artists": [
-        {
-          "name": "Will Clift",
-          "url": "https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Autumn Girl",
-      "url": "https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Autumn Girl",
+        "url": "https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE"
+      },
+      "artists": [
+        {
+          "name": "Will Clift",
+          "url": "https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Autumn Girl",
+      "url": "https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/7rw7bnbtHuPrjXRb2iuZ6h"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
-        "name": "chasing the bus",
-        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 188550,
-      "name": "chasing the bus",
-      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 252616,
       "name": "'Round Midnight",
       "url": "https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
+        "name": "chasing the bus",
+        "url": "https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 188550,
+      "name": "chasing the bus",
+      "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
     },
     {
       "added_at": "2024-03-14 20:40:35",

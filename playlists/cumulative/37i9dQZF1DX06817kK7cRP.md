@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-215 songs - 9 hr 23 min
+216 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,9 +101,10 @@
 | [Jetlag](https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Cloudscape](https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo) | 2:26 | 2024-07-25 |  |
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-01-13 |  |
 | [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2023-01-12 |  |
+| [Junior](https://open.spotify.com/track/4cNqYiu2K5gBjjy1GmHngv) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [Junior](https://open.spotify.com/album/7xy09uniqHYvBDiNJ9M4lW) | 2:09 | 2025-01-10 |  |
 | [Keep Cruising](https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA) | [Keep Cruising](https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT) | 3:56 | 2023-01-12 |  |
 | [Kind Of Blue In Green](https://open.spotify.com/track/5McZisEwv6FzvGSh0PM77K) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN) | [Kind Of Blue In Green](https://open.spotify.com/album/1U1Zp9IDjrqrpo00IT9MVH) | 2:38 | 2023-03-28 | 2023-04-14 |
-| [Kruisin'](https://open.spotify.com/track/6ghuMTXlPGarm2SaPxrxcY) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Kruisin'](https://open.spotify.com/album/5jRxlX5baGFYSlK4XJ9K2a) | 2:51 | 2023-09-29 |  |
+| [Kruisin'](https://open.spotify.com/track/6ghuMTXlPGarm2SaPxrxcY) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Kruisin'](https://open.spotify.com/album/5jRxlX5baGFYSlK4XJ9K2a) | 2:51 | 2023-09-29 | 2025-01-28 |
 | [L'Autofilteur](https://open.spotify.com/track/0eDMWlp5OKqwujmaYU52uW) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [L'Autofilteur](https://open.spotify.com/album/4tWicAtKzwy8kQcbc7C3Ay) | 3:31 | 2023-01-12 | 2023-04-02 |
 | [L'Autofilteur](https://open.spotify.com/track/4woeoi4CZ8tcsWDImypP5n) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 3:31 | 2023-04-13 | 2023-04-28 |
 | [La Luz](https://open.spotify.com/track/2wPiI06tTvnHyeV2Hn370J) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [La Luz](https://open.spotify.com/album/1F064LtPXfOAstcUhdylwz) | 2:00 | 2024-08-23 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,024 likes - 153 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,021 likes - 153 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 10 | [Xmas Bells](https://open.spotify.com/track/0nwZ6TwyMCjPfFm9KLvsD5) | [New Morning](https://open.spotify.com/artist/1LCzf2HbU3AjBuVZDj1xdb) | [Xmas Bells](https://open.spotify.com/album/4Khbpau26opiPjdN3EhUpA) | 2:02 |
 | 11 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 2:40 |
 | 12 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/1jYPxZRtTjBkzONbXSDcth) | [Sleepy Titan](https://open.spotify.com/artist/4ehFI3LIUrDNhMXTR1XCdL) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/0tM8zlJ2jEL7AcwmPltjEW) | 1:57 |
-| 13 | [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 |
-| 14 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 |
+| 13 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 |
+| 14 | [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 |
 | 15 | [Beats & Baubles](https://open.spotify.com/track/1nJiaOfFOxhM2zPupNQaoh) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Beats & Baubles](https://open.spotify.com/album/32Jogj0yxkutOXSmLnOuJ1) | 1:48 |
 | 16 | [SNOWMAN](https://open.spotify.com/track/5FDlU08eFeBHVIqpOkbh16) | [chateau\_lounge](https://open.spotify.com/artist/69AjHyxWyUkSN7pmLIbXwd) | [SNOWMAN](https://open.spotify.com/album/0GE7b3xACXmFmkpiw6TEKM) | 1:52 |
 | 17 | [Christmas Time Is Here](https://open.spotify.com/track/5eeLuQVqGv8XAmud2RRCw6) | [Alejandra Webb](https://open.spotify.com/artist/2Lz8COjDMuGOxLwh5scGPA) | [Christmas Time Is Here](https://open.spotify.com/album/3bknC2a31jcEzUvUpgb6WC) | 2:46 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 37 | [8 Days of Christmas](https://open.spotify.com/track/0sjqQzwRTVt46woq1Trv5Z) | [Candlewarmth](https://open.spotify.com/artist/1lEndFgpul8l0g4alJm2vt) | [8 Days of Christmas](https://open.spotify.com/album/3uPA4i195y3KYZOuMBZeYY) | 2:28 |
 | 38 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/23E5XFraifxkUJglRpBm9m) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/6pnsjGMTpc5iSc3cEP3fFd) | 2:08 |
 | 39 | [Christmas Bells](https://open.spotify.com/track/6yHUCNNMHHVNVaHp2Qw5KF) | [Legendor](https://open.spotify.com/artist/6ETL5WY9KP23LaKCFLpoRW) | [Bring Me Love](https://open.spotify.com/album/7HFEkapfCYUVn7NPUBVP3H) | 2:04 |
-| 40 | [Coming Home To You](https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Coming Home To You](https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP) | 2:06 |
-| 41 | [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 |
+| 40 | [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 |
+| 41 | [Coming Home To You](https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Coming Home To You](https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP) | 2:06 |
 | 42 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/5Fwj3sPOh0TzshTIQWbrH5) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/06pftaJLqXmfGn67McYKdc) | 2:15 |
 | 43 | [Santa's Lowrider](https://open.spotify.com/track/6iUbgMflpaO6flBTxLpZrR) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Santa's Lowrider](https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC) | 2:09 |
 | 44 | [xmas feels](https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [xmas feels](https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX) | 2:20 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 50 | [O Christmas Chill](https://open.spotify.com/track/57eaor5p4n2fVunmw5A43c) | [Amethyst Voyage](https://open.spotify.com/artist/7qtiZX6nbdr4hwHxMnizT0) | [O Christmas Chill](https://open.spotify.com/album/4hknqOVnHmbEriOiMbakTA) | 2:06 |
 | 51 | [Yuletide](https://open.spotify.com/track/4SqfEcfHRqR522BleRT5Rr) | [Eye Tide](https://open.spotify.com/artist/1jEP1ZVf7FIRHLof2S0j48) | [Lo\-fi Christmas](https://open.spotify.com/album/5a4JddrBEJGsKbMzzunBIH) | 1:43 |
 | 52 | [polar bear plunge](https://open.spotify.com/track/0SPN9jcNRZJqsxYOYffStJ) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Holiday Beats](https://open.spotify.com/album/7n1IZHrf5dqB8yxvegeUM4) | 2:05 |
-| 53 | [Noche De Paz](https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Noche De Paz](https://open.spotify.com/album/6zcFS4GCuFl3BusJlCtW4A) | 2:30 |
-| 54 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 |
+| 53 | [Reindeer Sweater](https://open.spotify.com/track/2Ba3w0cniTGYIh2sgmyDPm) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:13 |
+| 54 | [Noche De Paz](https://open.spotify.com/track/2zszx16qYoyLC5N3VQVxex) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Noche De Paz](https://open.spotify.com/album/6zcFS4GCuFl3BusJlCtW4A) | 2:30 |
 | 55 | [Santa Looked a Lot Like Daddy](https://open.spotify.com/track/5s4gbvEoagDAQEGwPfdlKS) | [Baron Oxtar](https://open.spotify.com/artist/6lvzUcMXzJo17F9zo0x2Zs) | [How Great Thou Art](https://open.spotify.com/album/7EMAzPm5WUM3aKFbLsCeyN) | 2:10 |
 | 56 | [My Favourite Things](https://open.spotify.com/track/40cGmW2di3zK4zyzEXHJyb) | [Katerina Robbins](https://open.spotify.com/artist/0bKSKcre6jkpyXLYh44yxr) | [My Favourite Things](https://open.spotify.com/album/2RdI5HciSrf3eOFGPiQqT1) | 2:17 |
 | 57 | [Do You Hear What I Hear](https://open.spotify.com/track/1G8tBRmHzFloc6KzvDoQpE) | [Rosa Mahoney](https://open.spotify.com/artist/28SJ1LuRJWcILK2Mz0uZmn) | [Do You Hear What I Hear](https://open.spotify.com/album/2ZYQ3Xez3PDeeWfeSidR15) | 2:58 |

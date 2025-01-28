@@ -1,15 +1,15 @@
 {
   "description": "Introducing the hottest new classical music of 2025\ud83d\udd25\nCover: Jeneba Kanneh-Mason.",
-  "num_followers": 30,
+  "num_followers": 44,
   "original_name": "Fresh Classical 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5OUPwAAAADg0fGwcPV0K7F2zRtgVTQJ",
+  "snapshot_id": "Z5ecyAAAAABs0dukOWE6F+NTc7h71Gfy",
   "tracks": [
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "La fille aux cheveux de lin",
         "url": "https://open.spotify.com/album/1ZjcrrdQb3pvhCAqWh62vy"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2McoMylVClF4w6HQOUnFrD"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Ravel: The Complete Solo Piano Works",
         "url": "https://open.spotify.com/album/2I4Npa3S0lc14yerFPlLOj"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/2IDo6WzaIJ6hDh4i0fEmzJ"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "refuge",
         "url": "https://open.spotify.com/album/1vOX4iRyIwBIe1RDYmbHD0"
@@ -69,31 +69,7 @@
       "url": "https://open.spotify.com/track/5MFUnentmT90GocdjXcnyO"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
-      "album": {
-        "name": "Kreisler: Caprice viennois, Op. 2 (Arr. Fougeray for Violin and Guitar)",
-        "url": "https://open.spotify.com/album/2yHZciyRknuNoEkY1zovFs"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kreisler",
-          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Rapha\u00ebl Feuill\u00e2tre",
-          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
-        }
-      ],
-      "duration_ms": 100826,
-      "name": "Caprice viennois, Op. 2 (Arr. Fougeray for Violin and Guitar): II. Andante con moto",
-      "url": "https://open.spotify.com/track/29djfJX2smSZgYLEPbpiWC"
-    },
-    {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "When I Fall In Love (Arr. for Piano by Rosey Chan)",
         "url": "https://open.spotify.com/album/6TQ31OQSex24hz8PrE6vXB"
@@ -113,7 +89,7 @@
       "url": "https://open.spotify.com/track/3PNbcJH2CPBvLnd6lF2g12"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Field: Nocturne No. 14 in G Major, H. 58",
         "url": "https://open.spotify.com/album/25H8xWK0FbBVeq2RmSuxXn"
@@ -133,7 +109,7 @@
       "url": "https://open.spotify.com/track/0R0Jt6AtWvquyxklC01fQu"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Tchaikovsky: 6 Pieces, Op. 51: No. 6, Valse sentimentale (Arr. Peinado for Violin & Piano)",
         "url": "https://open.spotify.com/album/6GPuwbL2rnvnBSb52rGzmi"
@@ -157,7 +133,7 @@
       "url": "https://open.spotify.com/track/0OTFk2oQlWeNaQzOiSKDdt"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Puccini: Vissi d'Arte (Olivia Belli Rework)",
         "url": "https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x"
@@ -173,7 +149,31 @@
       "url": "https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
+      "album": {
+        "name": "Kreisler: Caprice viennois, Op. 2 (Arr. Fougeray for Violin and Guitar)",
+        "url": "https://open.spotify.com/album/2yHZciyRknuNoEkY1zovFs"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kreisler",
+          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "duration_ms": 100826,
+      "name": "Caprice viennois, Op. 2 (Arr. Fougeray for Violin and Guitar): II. Andante con moto",
+      "url": "https://open.spotify.com/track/29djfJX2smSZgYLEPbpiWC"
+    },
+    {
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "La Ballerine",
         "url": "https://open.spotify.com/album/6QX9xsauZadCh1dGUMbSrR"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/0JDjG0TfXuu65cpMO4GBCV"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "LBFiles: Igiul",
         "url": "https://open.spotify.com/album/5LpTcf1USOOhBW3kZFakUD"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/32eq76NcmQIVkN9QVW7Qof"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Long Nights and Starry Skies",
         "url": "https://open.spotify.com/album/6KsrPQ6TYATNYWeZZ5Ib9I"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/2CKg3VJaUVY1gQvOgksoK5"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Together Without You (Solo Piano Version)",
         "url": "https://open.spotify.com/album/4qlRWzYVeWDuKre2VNd0Q8"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5vGns3SGrcSQFUfxuhQ0zT"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Beethoven: Piano Sonata No. 29 \"Hammerklavier\"; An die ferne Geliebte (Arr. Liszt)",
         "url": "https://open.spotify.com/album/1WO12bMF6j9vKGngz9Regg"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/5wNF1gpp00ZUZc3IRr9dsw"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Bach: Keyboard Concerto No. 1, BWV 1052: I. Allegro",
         "url": "https://open.spotify.com/album/41xAJe6SBh94HVChAEKzvh"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/4hYAZmllaw9btKWxLmo5nO"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Gjeilo: Winter Light (Version for Saxophone & Ensemble)",
         "url": "https://open.spotify.com/album/385YudCNpN3BO1RgM3xBRL"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/4Fb69m7ImDBFq43qquzfuy"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Schubert: Sonata in C Minor, D. 958, 4 Impromptus, D. 935 & Rondo, D. 951",
         "url": "https://open.spotify.com/album/718UoE4gEcpxkPeuKoEav0"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/5RhLy62olXlNaRzskVyvTu"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Parisian Lovers",
         "url": "https://open.spotify.com/album/6U0gvl6aazi28oY4wTE9nr"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/5uMNEYJedK8eOYcoyzJlMj"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Everything Changes (Solo Piano Version) & Everything Changes... But All Remains",
         "url": "https://open.spotify.com/album/13zNUY6qGtrRQPEUDCv4ix"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/0l4EXKxTWO1DvP5wnGt14m"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Nocturne II - After Dawn",
         "url": "https://open.spotify.com/album/5lYT3LFBYCqSpB2YqYyUoY"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/525ryQdhkG7si9Eyky3PGM"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Puccini",
         "url": "https://open.spotify.com/album/6fSNsUje3JqIWyR2AkpCAn"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/0aVPUvLHVsyqojJDbcakjM"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Matth\u00e4us-Passion, BWV 244, Pt. 1: No. 3, Choral. \"Herzliebster Jesu, was hast du Verbrochen\"",
         "url": "https://open.spotify.com/album/6TsiB0weyyo454PKmfxFYB"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/6Y2zXQzYEsNYUW81ZYhHVK"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Made in USA: Gershwin, Beach & Barber",
         "url": "https://open.spotify.com/album/3QrvbRw6k8pVVUN49vWCwF"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/3Oywl0XakigMLVBK57QC4W"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Newman: Theme (From \"American Beauty\")",
         "url": "https://open.spotify.com/album/2BB8KvmXDHz69BVSpFI6Pb"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/0YjaC9peYewdRxCTCNd3hX"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Chopin: 24 Preludes, Op. 28: No. 4 in E Minor. Largo",
         "url": "https://open.spotify.com/album/0WZabZ5Xaqgsqod0xY7891"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/3maBF9jM0ICV3qSKmvNvIu"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Song for the Village",
         "url": "https://open.spotify.com/album/1SHP2IfM5wdTzhtrpjEl3I"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/62k80mnRaoxQpCAkgHI1sT"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Wiegala (Arr. for Violin and String Quintet by Esther Abrami)",
         "url": "https://open.spotify.com/album/2f82mjX0vistYuipYG1rsx"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/047hDThUrQfxqye3s4zahb"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Chopin: Nocturne No. 21 in C Minor",
         "url": "https://open.spotify.com/album/6ZM8z4fSJ1C19vjpBnNRL3"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/7HFuUNfCzqJi3QlMtQGcdk"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Michael Nyman: The Promise",
         "url": "https://open.spotify.com/album/0M1GxmaJ7vekWhoXGE15Ux"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0yaWT7x4jyX0dT6rpy65lo"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Pavane Floue",
         "url": "https://open.spotify.com/album/4UQWJkNFyhumm5vouylxGu"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/6FxxwOmQkkym2WJkqRosvz"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "The Great Puccini",
         "url": "https://open.spotify.com/album/3jXBDXu9NiK2Jsr6gi8aUs"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/6zagJMi6gpqVQSX8yWNe3F"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/7hvINzZ3iT0iBtqCwhpOyg"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/65EGyXq1ZSEQ47vOWdIkMC"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Liszt: Espressivo (from Piano Sonata in B Minor, S. 178)",
         "url": "https://open.spotify.com/album/7LhcRWE14SxBw1Z54rNlcn"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/3F1KUBM9Yr0pq6K7FPOcfp"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/3DvbPJL6yFXhgp4mD5j5fD"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "My Way of Light",
         "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
-      "added_at": "2025-01-24 13:23:11",
+      "added_at": "2025-01-27 14:48:40",
       "album": {
         "name": "Tchaikovsky Piano Concerto No. 1 Variation",
         "url": "https://open.spotify.com/album/1pRM0fBJpDkRdROKP8Lobn"

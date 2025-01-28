@@ -269,6 +269,32 @@
     },
     {
       "album": {
+        "name": "Addiction (feat. KEL)",
+        "url": "https://open.spotify.com/album/7kZtUDcUxaXy8oDoprzzFK"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Zen/it",
+          "url": "https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Addiction (feat. KEL)",
+      "url": "https://open.spotify.com/track/7GgpGxQmLLLEPj1c556hdP"
+    },
+    {
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
       },
@@ -648,7 +674,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 120000,
       "name": "All of the Lights",
       "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
@@ -1126,7 +1152,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 130061,
       "name": "Around My Heart",
       "url": "https://open.spotify.com/track/6bnoFeiNxHKQFNILvqAtLp"
@@ -1174,6 +1200,24 @@
       "duration_ms": 136800,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/0L15QG9PmT6mdxAxdjeT9o"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/3BnkAfMywDoW7C12B4xpYw"
     },
     {
       "album": {
@@ -2266,7 +2310,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 150196,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/0gVhruxc9xFNKg3oPRfp4q"
@@ -2868,6 +2912,28 @@
       "duration_ms": 161589,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
+    },
+    {
+      "album": {
+        "name": "Control Of Me (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195291,
+      "name": "Control Of Me (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
     },
     {
       "album": {
@@ -3480,6 +3546,32 @@
       "duration_ms": 134812,
       "name": "Dead Or Alive",
       "url": "https://open.spotify.com/track/4ebye8oxJ3SaTi3MD50lbn"
+    },
+    {
+      "album": {
+        "name": "Deep Fear",
+        "url": "https://open.spotify.com/album/5VxZLYZ35mQC7mE8UxBOjP"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "Sidekick",
+          "url": "https://open.spotify.com/artist/6q9gCO6m4qEl9UiPAjSFiq"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139159,
+      "name": "Deep Fear",
+      "url": "https://open.spotify.com/track/2w95hYvNjSscsijPsYGS8r"
     },
     {
       "album": {
@@ -4542,6 +4634,24 @@
       "duration_ms": 158250,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/4FzrngyvChFT7ymR6OKNsr"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1gCaL4MQetFtRh6wZNH9UT"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/3gG1APb47C9I1nIgcLFMEh"
     },
     {
       "album": {
@@ -5727,6 +5837,28 @@
     },
     {
       "album": {
+        "name": "Guide Me Home",
+        "url": "https://open.spotify.com/album/2965nO2xmEzsHQoA945z0N"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157258,
+      "name": "Guide Me Home",
+      "url": "https://open.spotify.com/track/5Yq1yDwsCuPBgnAn4h7tAe"
+    },
+    {
+      "album": {
         "name": "Gun Down",
         "url": "https://open.spotify.com/album/3qDHLGkvR45jz1av10H0tJ"
       },
@@ -5988,6 +6120,24 @@
       "duration_ms": 189636,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ"
+    },
+    {
+      "album": {
+        "name": "Headbanger",
+        "url": "https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173045,
+      "name": "Headbanger",
+      "url": "https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq"
     },
     {
       "album": {
@@ -8576,7 +8726,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 160500,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
@@ -8974,7 +9124,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
@@ -12426,7 +12576,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 152906,
       "name": "Saphir",
       "url": "https://open.spotify.com/track/306T8vusV4CHXBkCHpme1f"
@@ -15324,7 +15474,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 238080,
       "name": "We Are The People - ARTBAT Remix",
       "url": "https://open.spotify.com/track/0L6223jyrD2qFSxSmjpEMP"

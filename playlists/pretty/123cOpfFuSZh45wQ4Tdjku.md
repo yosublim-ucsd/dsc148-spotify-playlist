@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 857 likes - 278 songs - 14 hr 5 min
+[maple](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 859 likes - 281 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,5 +286,8 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 276 | [Birthday Song](https://open.spotify.com/track/4D9ySWAIUxMWdWeNmsLuva) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:18 |
 | 277 | [Puro Dance](https://open.spotify.com/track/17lvuXGfdOBXEact6fPlPQ) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:10 |
 | 278 | [Buttered Toast](https://open.spotify.com/track/1VBjbarikzjid4jhL4AdWe) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Buttered Toast](https://open.spotify.com/album/2nRtDQWwM4POnHzrsPAXDS) | 3:57 |
+| 279 | [Time for Farewell](https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Time for Farewell](https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF) | 3:51 |
+| 280 | [Waterland](https://open.spotify.com/track/726bs3udSSK6Ec7H6Y21mf) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Waterland](https://open.spotify.com/album/4ld2ghxuhuLm6fC1M1kaca) | 2:56 |
+| 281 | [CYBERNETIC HEART \- Instrumental](https://open.spotify.com/track/05tLwHgaXGZssYlNJOSiX7) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Cybernetic Heart](https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm) | 3:07 |
 
-Snapshot ID: `AAABTRQXT92Du9J4vtiWaL6lAw9+67NJ`
+Snapshot ID: `AAABUHuh3FPx9THJc0AlGWrFWFS95nX7`

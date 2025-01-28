@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 347951,
+  "num_followers": 347922,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Facing A Task Unfinished",
+        "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 315986,
+      "name": "He Will Hold Me Fast",
+      "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Sabbath",
         "url": "https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 212133,
       "name": "Sabbath",
       "url": "https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Facing A Task Unfinished",
-        "url": "https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 315986,
-      "name": "He Will Hold Me Fast",
-      "url": "https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "You Are My Salvation",
-        "url": "https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd"
-      },
-      "artists": [
-        {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 182437,
-      "name": "You Are My Salvation",
-      "url": "https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Eternal Light",
         "url": "https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 247000,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "You Are My Salvation",
+        "url": "https://open.spotify.com/album/5eIxhguVqI4AS3LiTfmvEd"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
+        }
+      ],
+      "duration_ms": 182437,
+      "name": "You Are My Salvation",
+      "url": "https://open.spotify.com/track/2GTziTqyy9epimNQqO9Mn4"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Lord I Need You",
-        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "Lord I Need You",
-      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Ever Closer",
         "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 232687,
       "name": "Ever Closer",
       "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Lord I Need You",
+        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "Lord I Need You",
+      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Life Again",
-        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
-      },
-      "artists": [
-        {
-          "name": "Brad & Rebekah",
-          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
-        }
-      ],
-      "duration_ms": 264428,
-      "name": "Life Again",
-      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Simple as That",
         "url": "https://open.spotify.com/album/3XBMq0LWlGNbrhRFC7RAEV"
       },
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
       "artists": [
         {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Rushing",
-      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
+      "duration_ms": 264428,
+      "name": "Life Again",
+      "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1159,6 +1143,22 @@
       "duration_ms": 309360,
       "name": "Altogether Good - Live",
       "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Rushing",
+      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "For The Ones We Love",
-        "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
-      },
-      "artists": [
-        {
-          "name": "Jonas Myrin",
-          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "For The Ones We Love",
-      "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Worship Anywhere: Live from Camp NewBreed",
         "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 294106,
       "name": "Certainly (Live)",
       "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "For The Ones We Love",
+        "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
+      },
+      "artists": [
+        {
+          "name": "Jonas Myrin",
+          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "For The Ones We Love",
+      "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Sing Over Me",
-        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        },
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254007,
-      "name": "Sing Over Me",
-      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy"
       },
@@ -1415,6 +1391,30 @@
       "duration_ms": 263089,
       "name": "Harbor",
       "url": "https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Sing Over Me",
+        "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        },
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 254007,
+      "name": "Sing Over Me",
+      "url": "https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
-      },
-      "artists": [
-        {
-          "name": "Kali Joy",
-          "url": "https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe"
-        }
-      ],
-      "duration_ms": 182070,
-      "name": "There Will Be A Light Again",
-      "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Abide with Me",
         "url": "https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 260894,
       "name": "Be Still, My Soul",
       "url": "https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
+      },
+      "artists": [
+        {
+          "name": "Kali Joy",
+          "url": "https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe"
+        }
+      ],
+      "duration_ms": 182070,
+      "name": "There Will Be A Light Again",
+      "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
     },
     {
       "added_at": "2024-07-26 09:52:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Moses Bliss
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,115 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,200 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 89 | [REASON](https://open.spotify.com/track/0KtITVpLZZGJyUxeJRYxzT) | [J Vessel](https://open.spotify.com/artist/2jWuaPjpJpIwXhWY6y0JQp) | [REASON](https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0) | 3:13 |
 | 90 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 
-Snapshot ID: `Z1dlFgAAAAAcVCEsf2oaIPuZMEkRd4eP`
+Snapshot ID: `Z5ei1AAAAADPgRVojfdzOOcu2Cc+Hnt/`

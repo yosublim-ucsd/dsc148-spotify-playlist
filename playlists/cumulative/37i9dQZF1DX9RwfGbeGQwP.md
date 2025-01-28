@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,533 songs - 2 day 9 hr 43 min
+1,534 songs - 2 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Afternoon Tea](https://open.spotify.com/track/1Yu6rvWmXu7UtjJv6mj86f) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Green Carpet](https://open.spotify.com/album/3dE744NYdmVowa8WjOftrX) | 1:24 | 2022-01-27 | 2022-06-03 |
 | [Airmode](https://open.spotify.com/track/5sutYbAzYOsOaw3SBWXSOb) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Airmode](https://open.spotify.com/album/4uCZClT1s76MUKHgC3ipMz) | 2:22 | 2022-04-22 | 2022-11-21 |
 | [Airmode](https://open.spotify.com/track/7JiG627CSJ1qkZHcRWGK76) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:22 | 2022-11-11 | 2022-11-26 |
-| [Alaska](https://open.spotify.com/track/12me4QCt6tX1pYWdUa0lg6) | [passmeby](https://open.spotify.com/artist/3vZvHb70x1Tdl30yKpXu5W) | [Alaska](https://open.spotify.com/album/34aw9IgoXoVbZjpCaRFuZE) | 2:18 | 2023-04-11 |  |
+| [Alaska](https://open.spotify.com/track/12me4QCt6tX1pYWdUa0lg6) | [passmeby](https://open.spotify.com/artist/3vZvHb70x1Tdl30yKpXu5W) | [Alaska](https://open.spotify.com/album/34aw9IgoXoVbZjpCaRFuZE) | 2:18 | 2023-04-11 | 2025-01-28 |
 | [Alchemy](https://open.spotify.com/track/5oz38CIdam02h3Ys8pw9sX) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Alchemy](https://open.spotify.com/album/3Hmp8RMd76PEeaJfHlLTYp) | 1:54 | 2022-06-03 | 2024-09-15 |
 | [aldo](https://open.spotify.com/track/2s32Bxpb4A6O4tn8ya6Xst) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [Aldo](https://open.spotify.com/album/0iggnegKxi6h3NIkAwkAq1) | 2:11 | 2023-09-08 |  |
 | [alice in dreamland](https://open.spotify.com/track/2dAPFKzlLcipQezfc0NpqS) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [alice in dreamland](https://open.spotify.com/album/4Ahyx1rbiTOdsTekuXoGcc) | 2:16 | 2024-01-19 |  |
@@ -756,6 +756,7 @@
 | [Lost In Bass](https://open.spotify.com/track/1HXDPrnTAG7h4ioqERvqBL) | [Juan Ling](https://open.spotify.com/artist/5Ar4iiLpngpY9FZRsFO2Dy) | [Lost In Bass](https://open.spotify.com/album/6SD42hydmhMgTNmlAaLDuH) | 2:48 | 2022-01-27 | 2022-12-17 |
 | [Lost Time](https://open.spotify.com/track/24HeDGq4VhfLqgxNMMtQZC) | [Theo Juarez](https://open.spotify.com/artist/3Z9OuAjJsitd2yLGCq7q6A), [Felix Deleon](https://open.spotify.com/artist/5o8YHpc8nmpN6PlAQMkaH4), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Lost Time](https://open.spotify.com/album/6Qc6tlgIxU07xFw5wsip8u) | 2:20 | 2022-09-23 | 2023-09-22 |
 | [Lots of lofi in one tone](https://open.spotify.com/track/7MZgOMd6nDWR4HHJM8NStG) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Lots of lofi in one tone](https://open.spotify.com/album/4ADuZR1RptULzYraMIvgPO) | 2:03 | 2022-04-15 |  |
+| [Louisiana Belle](https://open.spotify.com/track/4aqsBKBI9PAozNPLka2bxA) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Louisiana Belle](https://open.spotify.com/album/7FD4XoWfiFWOUZH7luCmJQ) | 2:01 | 2025-01-24 |  |
 | [love letters](https://open.spotify.com/track/6gH5qa93MI3efakVxIC6Sw) | [Fuyu](https://open.spotify.com/artist/4p6uSzp3RTnHrfgkZEUj4O) | [love letters](https://open.spotify.com/album/0Yu8z7QTDgeNTZq43JFSws) | 2:24 | 2022-07-29 | 2022-09-17 |
 | [Love Potion](https://open.spotify.com/track/2zJLvAcYQVAsRQuNNu05BL) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Love Potion](https://open.spotify.com/album/4qGPC8agy2yto2IgqKFoRn) | 2:46 | 2022-01-27 | 2022-10-15 |
 | [Love Switch](https://open.spotify.com/track/4WMDzHu6tzEBhar6NYkdQ8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Effervescence](https://open.spotify.com/album/6Y7FWY7v3ZJFhZB83WPWv0) | 2:46 | 2022-01-27 | 2022-09-09 |

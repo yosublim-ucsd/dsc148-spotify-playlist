@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Myke Towers & Pirlo
 
-459 songs - 1 day 2 hr 14 min
+460 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Big Booty, Pretty Face](https://open.spotify.com/track/6yNuJensFQsNZ6sqURrDBe) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Big Booty, Pretty Face](https://open.spotify.com/album/02ut4XCIr8lj4kQpfI3GMl) | 3:47 | 2023-03-03 | 2024-05-04 |
 | [BIG MOVES](https://open.spotify.com/track/5V4NkldBDetisUhRsHvBfK) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [BIG MOVES](https://open.spotify.com/album/0qTmGPizxtjKohNWEIADfx) | 2:36 | 2024-08-26 | 2024-12-14 |
 | [Billetes de 100](https://open.spotify.com/track/1yBg48PZwiER3mXSRJFEhe) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 2:57 | 2023-05-19 | 2023-07-01 |
+| [Bipolar](https://open.spotify.com/track/4hiMyQuMfHW8juqtszubKa) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [AndrahPR](https://open.spotify.com/artist/3ICR0LgQlwZ2F78lTexRYS), [Davinccii](https://open.spotify.com/artist/27PSxNOdjCa9VvcqwcXp6v) | [Bipolar](https://open.spotify.com/album/7ianvqZmV9kYyhLU0Rq9fu) | 2:26 | 2025-01-27 |  |
 | [Blessings](https://open.spotify.com/track/0aOcyrtTn2Fpit2GIeaGwO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Blessings](https://open.spotify.com/album/0stTNi5KJMdoruNe8JG6by) | 3:04 | 2023-01-19 | 2023-11-11 |
 | [Bloody II](https://open.spotify.com/track/6Hs094CmM9IJcCUpCKodyp) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [Bloody II](https://open.spotify.com/album/6LRvbsSDwfVzGYwIUz1U9R) | 2:47 | 2022-09-09 | 2023-05-20 |
 | [BOOKER T](https://open.spotify.com/track/26w9NTiE9NGjW1ZvIOd1So) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:36 | 2022-03-18 | 2022-05-04 |
@@ -220,7 +221,7 @@
 | [HELLCAT](https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [HELLCAT](https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV) | 3:06 | 2022-08-10 |  |
 | [Hickey](https://open.spotify.com/track/17jNQ0lKM8bA9lWcyXxIc0) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [JEYYFF](https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA) | [Hickey](https://open.spotify.com/album/1RpQyRy62ij8VYq7K4DL2l) | 3:31 | 2024-05-03 | 2024-08-27 |
 | [Hmm](https://open.spotify.com/track/7Gtx4i1zh875u3k5AmaPpS) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Hmm](https://open.spotify.com/album/6NsfFRsKueNyFFX9vTb7IQ) | 2:34 | 2022-03-18 | 2022-05-04 |
-| [HOMENAJE](https://open.spotify.com/track/02qsYZznhFSX0psInKC7st) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [HOMENAJE](https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts) | 3:35 | 2024-01-26 |  |
+| [HOMENAJE](https://open.spotify.com/track/02qsYZznhFSX0psInKC7st) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [HOMENAJE](https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts) | 3:35 | 2024-01-26 | 2025-01-28 |
 | [Hoodie](https://open.spotify.com/track/7DtsTnAn320fWxiw6bdAHe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Hoodie](https://open.spotify.com/album/4hbG4DAg7wlYF6cvmYv9Hb) | 4:10 | 2022-12-02 | 2024-12-14 |
 | [Hoodie](https://open.spotify.com/track/0tDLDI57XWC0ZTrfxKJVmB) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Hoodie](https://open.spotify.com/album/7khVi5TFgnk7RkKP7e9ttP) | 2:54 | 2024-02-09 | 2024-04-13 |
 | [HOY COBRÉ](https://open.spotify.com/track/0tjZv2hChdHZCW1zFXpy1J) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 2:42 | 2022-03-18 | 2023-02-11 |

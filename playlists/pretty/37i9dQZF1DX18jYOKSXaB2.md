@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > Best served with party jollof
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,977 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 7 | [Ifeoma](https://open.spotify.com/track/10XsCKNpmw7Xx8kSsI8OrD) | [Shugavybz](https://open.spotify.com/artist/55o2TzDIJFZ3AtYK9N53tm), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Ifeoma](https://open.spotify.com/album/712c1s1yOhmn5ImbCMyU1M) | 1:55 |
 | 8 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 |
 | 9 | [Madu](https://open.spotify.com/track/0kJy3um7LxqMqfs0en45rG) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [No Bad Songz](https://open.spotify.com/album/7aBqPFpPw91lIsW9pNZ1zt) | 2:41 |
-| 10 | [Bride Price](https://open.spotify.com/track/4FQTBegN76cKnDvjKvD73p) | [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Bella Shurmuda](https://open.spotify.com/artist/33yrkToeYjqUo7KT9zZmV4) | [Bride Price](https://open.spotify.com/album/4Cgae05jrRiZFCCFdtqX0m) | 3:35 |
+| 10 | [Bride Price](https://open.spotify.com/track/4FQTBegN76cKnDvjKvD73p) | [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Bride Price](https://open.spotify.com/album/4Cgae05jrRiZFCCFdtqX0m) | 3:35 |
 | 11 | [Onyeka \(Baby\)](https://open.spotify.com/track/5gsvgZuxT41OWmH03SBT8J) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:22 |
 | 12 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
 | 13 | [HANG MY BOOTS \(feat\. King Promise\)](https://open.spotify.com/track/0Wi9WFZpUd4W4PjzIgq637) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [HANG MY BOOTS](https://open.spotify.com/album/660uXRVzFGz4WZe8QOqKzj) | 3:07 |

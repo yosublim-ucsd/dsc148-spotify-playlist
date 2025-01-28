@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 300132,
+  "num_followers": 300152,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 170075,
+      "name": "Sycamore",
+      "url": "https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1"
+    },
+    {
+      "added_at": "2025-01-06 13:02:01",
+      "album": {
         "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
         "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 216596,
       "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
       "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
-    },
-    {
-      "added_at": "2025-01-06 13:02:01",
-      "album": {
-        "name": "- (Deluxe)",
-        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 170075,
-      "name": "Sycamore",
-      "url": "https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1"
     },
     {
       "added_at": "2025-01-06 13:02:01",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
-        "name": "So We Remain",
-        "url": "https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR"
-      },
-      "artists": [
-        {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
-        }
-      ],
-      "duration_ms": 159986,
-      "name": "So We Remain",
-      "url": "https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv"
-    },
-    {
-      "added_at": "2025-01-06 13:02:01",
-      "album": {
         "name": "hill that i'll die on",
         "url": "https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 144694,
       "name": "hill that i'll die on",
       "url": "https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo"
+    },
+    {
+      "added_at": "2025-01-06 13:02:01",
+      "album": {
+        "name": "So We Remain",
+        "url": "https://open.spotify.com/album/3auQEEvgNqTzRw8XVDdhjR"
+      },
+      "artists": [
+        {
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+        }
+      ],
+      "duration_ms": 159986,
+      "name": "So We Remain",
+      "url": "https://open.spotify.com/track/07rSgUwp4YTZH5bCYya7Xv"
     },
     {
       "added_at": "2025-01-06 13:02:01",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/05xlHjdXEOCXMXLT7JF927"
+      },
+      "artists": [
+        {
+          "name": "Cap Carter",
+          "url": "https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/5MZ2tuD2nO5afsX7Px1vnx"
+    },
+    {
+      "added_at": "2025-01-06 13:02:01",
+      "album": {
         "name": "1, 2, 3 (Orchestral)",
         "url": "https://open.spotify.com/album/4RvLclWKxkOp55UoHxTy3m"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/05xlHjdXEOCXMXLT7JF927"
-      },
-      "artists": [
-        {
-          "name": "Cap Carter",
-          "url": "https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/5MZ2tuD2nO5afsX7Px1vnx"
-    },
-    {
-      "added_at": "2025-01-06 13:02:01",
-      "album": {
         "name": "Edge of Surrender",
         "url": "https://open.spotify.com/album/12ss4gOADhZxmtPjVS0dyf"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
-        "name": "Oceans & Engines",
-        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Oceans & Engines",
-      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
-    },
-    {
-      "added_at": "2025-01-06 13:02:01",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 191929,
       "name": "Wait",
       "url": "https://open.spotify.com/track/6u4DSrgxLXATEgwZSaaQHI"
+    },
+    {
+      "added_at": "2025-01-06 13:02:01",
+      "album": {
+        "name": "Oceans & Engines",
+        "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
     },
     {
       "added_at": "2025-01-06 13:02:01",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-01-06 13:02:01",
       "album": {
-        "name": "You'll Never Know Me Sober",
-        "url": "https://open.spotify.com/album/4VC6vdo96S3JOJmeUYW88U"
-      },
-      "artists": [
-        {
-          "name": "Luca George",
-          "url": "https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "You'll Never Know Me Sober",
-      "url": "https://open.spotify.com/track/3FZX4Pg6RnaBqAXgeUx5FK"
-    },
-    {
-      "added_at": "2025-01-06 13:02:01",
-      "album": {
         "name": "Thank God I Do",
         "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
+    },
+    {
+      "added_at": "2025-01-06 13:02:01",
+      "album": {
+        "name": "You'll Never Know Me Sober",
+        "url": "https://open.spotify.com/album/4VC6vdo96S3JOJmeUYW88U"
+      },
+      "artists": [
+        {
+          "name": "Luca George",
+          "url": "https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "You'll Never Know Me Sober",
+      "url": "https://open.spotify.com/track/3FZX4Pg6RnaBqAXgeUx5FK"
     },
     {
       "added_at": "2025-01-06 13:02:01",

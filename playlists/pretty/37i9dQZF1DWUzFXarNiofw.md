@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jordan Adetunji
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,239 likes - 154 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,305 likes - 154 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 15 | [No Spaces](https://open.spotify.com/track/0R2S5yZDLy5HtMkslO6sdf) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [No Spaces](https://open.spotify.com/album/4MyQEs6Nn34vwTy5Qxh84j) | 3:07 |
 | 16 | [how it goes](https://open.spotify.com/track/2JYWmiS6iCpCNsutMd15uk) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [introspect](https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u) | 3:28 |
 | 17 | [Lord Knows \(MajorStage Live\)](https://open.spotify.com/track/3PvTiTzvr5rjWgjPLvBspK) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [Lord Knows \(MajorStage Live\)](https://open.spotify.com/album/0Xige69uf8tkQV2YcZQzdS) | 3:00 |
-| 18 | [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 |
+| 18 | [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 |
 | 19 | [My Man \- Radio Edit](https://open.spotify.com/track/6zEkfavoEIEPP3sGoXBWZB) | [Ann Nesby](https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b) | [My Man \(Radio Edit\)](https://open.spotify.com/album/5dxq7lKD5z5ApydM7qHK93) | 2:54 |
 | 20 | [Diamonds Dancing](https://open.spotify.com/track/0wnU11smENfLmcoWdtQZMe) | [GIGI](https://open.spotify.com/artist/2nUCb4O54MGkGUcGDEUF1h) | [Diamonds Dancing](https://open.spotify.com/album/4nNCj70pOczVkS7T4Ii0rR) | 3:06 |
 | 21 | [I'm Not Here](https://open.spotify.com/track/7bAki4sFwFfF9MT8Tm4sUW) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [I'm Not Here](https://open.spotify.com/album/3pXuhKaqUHWxlawLUM4TRa) | 4:12 |

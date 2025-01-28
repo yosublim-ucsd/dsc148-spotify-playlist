@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-439 songs - 1 day 4 hr 0 min
+440 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cut It \- Original Mix](https://open.spotify.com/track/6kTT8AcENWGhgbEwVeMMty) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [COLOR VA03](https://open.spotify.com/album/7hKxU851bFxIWHD8NH3XgR) | 6:43 | 2023-06-09 | 2023-06-16 |
 | [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-25 |  |
 | [Da Beat Goes](https://open.spotify.com/track/0c69i7dEofhykHqM9mU4Qi) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Da Beat Goes](https://open.spotify.com/album/5zxIcrySHLJFClX3lfjBS2) | 2:24 | 2024-09-16 | 2024-10-11 |
-| [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-25 |  |
+| [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-25 | 2025-01-28 |
 | [Daddy's Issue](https://open.spotify.com/track/6vzN8Hr9rJ8Bk5OnHAxei0) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Daddy's Issue](https://open.spotify.com/album/33OZ6sGO6ahdHOjr0KDls3) | 4:37 | 2024-02-22 | 2024-03-23 |
 | [Damager](https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Damager](https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB) | 3:44 | 2025-01-20 |  |
 | [Dance](https://open.spotify.com/track/4CIxgvDwjSnZJQSpZSPmte) | [Heggemann](https://open.spotify.com/artist/4887FTCAl0wdw3jwpkGq6d) | [Dance](https://open.spotify.com/album/3Yak9mqgWt0VXjCcaeqIFb) | 2:38 | 2024-03-29 | 2024-04-06 |
@@ -230,6 +230,7 @@
 | [LIGHT IT UP](https://open.spotify.com/track/5fDMxAnUvFwVqIUPQjlGcV) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [LIGHT IT UP](https://open.spotify.com/album/3bdwPBIYg2JrDrMvKN5iUH) | 2:20 | 2024-08-12 | 2024-08-23 |
 | [Lights Out](https://open.spotify.com/track/0CtEQErgyA7Jp4Jb3LGC7S) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Lights Out](https://open.spotify.com/album/0VkJvDI13bCS5WJ6zNBp0m) | 2:33 | 2024-07-25 | 2024-08-13 |
 | [Live And Direct](https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Live And Direct](https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td) | 2:51 | 2024-07-25 | 2024-08-02 |
+| [Lonely Boy \- Radio Edit](https://open.spotify.com/track/0yoNW4nLQX8NaIyqgZkZWb) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy \(Radio Edit\)](https://open.spotify.com/album/4vnfTU5B6yTpUsedT6Jqgs) | 3:23 | 2025-01-27 |  |
 | [Lost in Chaos](https://open.spotify.com/track/06b25nBIIh9eEc3xQanUan) | [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Lost in Chaos](https://open.spotify.com/album/3ZU4vBH6aIJ5JvScEmmsOl) | 4:35 | 2023-10-05 | 2023-10-14 |
 | [Love & Peace](https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC), [3rd Dale Universe](https://open.spotify.com/artist/6fjRdySULf9G3LmSjVLg2N) | [Love & Peace](https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK) | 6:00 | 2023-03-10 | 2023-06-09 |
 | [LOVE 4 LIFE](https://open.spotify.com/track/4fmMlfYmxRNdTEWXBJyaZa) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [LOVE 4 LIFE](https://open.spotify.com/album/0qr4l55ClUflNoMLfR8K8g) | 2:53 | 2023-07-13 | 2023-07-18 |

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-1,000 songs - 1 day 14 hr 45 min
+1,001 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Dizzy](https://open.spotify.com/track/4jtGfSRuNkTBkF3I9qt0N5) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Dizzy](https://open.spotify.com/album/1YOb6V7Hxqz8jbHq7ZvLJr) | 1:22 | 2022-04-15 | 2023-10-06 |
 | [don't ask](https://open.spotify.com/track/5diB9qcSwbt0fUFokzVj6H) | [Casein](https://open.spotify.com/artist/4LO3YMhEA7AJ9G7P3Cnuio) | [don't ask](https://open.spotify.com/album/4YikEDQT9EllZk6oM15xga) | 2:00 | 2022-05-13 | 2023-11-17 |
 | [don't worry it will be okay](https://open.spotify.com/track/5mCdx36Sn4lSlmFeMozAGI) | [Aviscerall](https://open.spotify.com/artist/39eka3QcVZN0xYUX5nvtXM) | [don't worry it will be okay](https://open.spotify.com/album/1i6hCRgWPoDVH9egvxgvdp) | 2:23 | 2022-04-15 | 2023-09-29 |
+| [don\`t go](https://open.spotify.com/track/2J8z3PEgZDhBf2pkXyCvXO) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [don\`t go](https://open.spotify.com/album/1Lo7F3bCn4kHzTYywmNJyY) | 2:10 | 2025-01-24 |  |
 | [Done](https://open.spotify.com/track/0fX9ormKlG4EDxOMMCFfit) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Done](https://open.spotify.com/album/6HrXUyuJx3BDKQkrF2l1s8) | 2:21 | 2022-05-27 | 2023-10-13 |
 | [Donuts](https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Donuts](https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr) | 2:21 | 2023-10-06 |  |
 | [Dope](https://open.spotify.com/track/1lPk06VsnBj2v5fw7rtfQe) | [RLLBTS](https://open.spotify.com/artist/0gpz8rdbGxZSfiFMO15fRA), [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Dope](https://open.spotify.com/album/4M78MUiR59VODOKV4QyEqh) | 2:30 | 2023-07-19 | 2023-09-22 |
@@ -281,7 +282,7 @@
 | [Forever](https://open.spotify.com/track/7mgyF0MVvFzvWhrGlR3YUn) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/1LM5SvKdVqLsFa1T3di8x2) | 1:58 | 2022-11-11 | 2023-11-17 |
 | [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 | 2022-11-11 |  |
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-08-19 |
-| [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 |  |
+| [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 | 2025-01-28 |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
 | [Friday](https://open.spotify.com/track/0VMPNNbZcV6aP0O9ZCLNhe) | [Little Lazy Lights](https://open.spotify.com/artist/2YEOM2LGal4G2Z2GkbbAlA) | [Friday](https://open.spotify.com/album/5yDhrdMgbYA3EdMkKBYads) | 3:36 | 2022-04-15 |  |
 | [Friday Dazed](https://open.spotify.com/track/3XxZiDTQflprBVjBFxM8P9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Friday Dazed](https://open.spotify.com/album/3r7qEzzlkQNFSQOuggOQm4) | 2:12 | 2023-10-13 |  |

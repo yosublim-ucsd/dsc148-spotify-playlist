@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 166500,
       "name": "Blues for a Lost Love",
       "url": "https://open.spotify.com/track/5ZofcIkLEHUrLQh3TeTlji"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 189476,
       "name": "Bring Some Lovin'",
       "url": "https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr"
@@ -2095,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Dawn in the Alley",
+        "url": "https://open.spotify.com/album/1lyrbKjdIxYhGqd8zbuTMf"
+      },
+      "artists": [
+        {
+          "name": "Tom Stills Quartet",
+          "url": "https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215083,
+      "name": "Dawn in the Alley",
+      "url": "https://open.spotify.com/track/5GLOOQmr5sRewmhLru6iwo"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/5oN2Epvtk0HNsWlEqunZFD"
       },
@@ -2204,7 +2222,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 164442,
       "name": "Deeply Touched",
       "url": "https://open.spotify.com/track/5e8bKf7ZObQK4hr0HHTJ67"
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 160589,
       "name": "Ducks for cover",
       "url": "https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc"
@@ -3833,6 +3851,24 @@
     },
     {
       "album": {
+        "name": "I Can't Get Started",
+        "url": "https://open.spotify.com/album/3MspyES9KjpsxXTuZrrzrf"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/0bAD35qAAMrn6c37PTJ36r"
+    },
+    {
+      "album": {
         "name": "I Can\u2019t Get Started",
         "url": "https://open.spotify.com/album/4biFCrWFx9nlHAauPuKUGv"
       },
@@ -4626,7 +4662,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 191217,
       "name": "It Should Be Me",
       "url": "https://open.spotify.com/track/0h3L9JLMXpDzdudaVJMaho"
@@ -5040,7 +5076,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 173641,
       "name": "Ladybird",
       "url": "https://open.spotify.com/track/5aO27DQUEMmiFGXvLdg5ub"
@@ -7024,6 +7060,24 @@
       "duration_ms": 203324,
       "name": "Nod in Agreement",
       "url": "https://open.spotify.com/track/1Gt3b2N5sq9NWhyyZkEOer"
+    },
+    {
+      "album": {
+        "name": "Nolita",
+        "url": "https://open.spotify.com/album/4px4xcXrosMjy2nl7NiGiC"
+      },
+      "artists": [
+        {
+          "name": "Foster Davies",
+          "url": "https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215546,
+      "name": "Nolita",
+      "url": "https://open.spotify.com/track/2QW2wMMnxkTAHxMVulVZGd"
     },
     {
       "album": {
@@ -9306,7 +9360,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 209169,
       "name": "Sunday Morning, Still Dreaming",
       "url": "https://open.spotify.com/track/3wahN8tk3wKi2TQNODyr81"
@@ -9558,7 +9612,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 203096,
       "name": "The Beauty of Everyday Things",
       "url": "https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb"

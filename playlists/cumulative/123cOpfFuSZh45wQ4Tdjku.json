@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Cybernetic Heart",
+        "url": "https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187583,
+      "name": "CYBERNETIC HEART - Instrumental",
+      "url": "https://open.spotify.com/track/05tLwHgaXGZssYlNJOSiX7"
+    },
+    {
+      "album": {
         "name": "Paper Alibis",
         "url": "https://open.spotify.com/album/5q9JKSnjSiY2kVLdC7LuHS"
       },
@@ -4895,6 +4913,28 @@
     },
     {
       "album": {
+        "name": "Time for Farewell",
+        "url": "https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF"
+      },
+      "artists": [
+        {
+          "name": "Rei Caffie",
+          "url": "https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa"
+        },
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "Time for Farewell",
+      "url": "https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E"
+    },
+    {
+      "album": {
         "name": "Furry Youtubers",
         "url": "https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix"
       },
@@ -5156,6 +5196,24 @@
       "duration_ms": 236800,
       "name": "Wag My Tail",
       "url": "https://open.spotify.com/track/706eKOKkaHuRjxd25q1WZo"
+    },
+    {
+      "album": {
+        "name": "Waterland",
+        "url": "https://open.spotify.com/album/4ld2ghxuhuLm6fC1M1kaca"
+      },
+      "artists": [
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176503,
+      "name": "Waterland",
+      "url": "https://open.spotify.com/track/726bs3udSSK6Ec7H6Y21mf"
     },
     {
       "album": {

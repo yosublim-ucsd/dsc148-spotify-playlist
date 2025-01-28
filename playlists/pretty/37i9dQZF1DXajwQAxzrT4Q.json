@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 86192,
+  "num_followers": 86203,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z31j/QAAAABknKcOYSuw9Augu5lJUQHP",
+  "snapshot_id": "Z5eh7AAAAABnVuvZ08iDg8/Yllx0MBle",
   "tracks": [
     {
       "added_at": "2025-01-07 17:27:25",
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-01-07 17:27:25",
       "album": {
-        "name": "now rock",
-        "url": "https://open.spotify.com/album/7FdDt6ToaawcKKfJJOg2p1"
-      },
-      "artists": [
-        {
-          "name": "gangwalkk",
-          "url": "https://open.spotify.com/artist/5CfPXXv7fxuj8CeegMa5hK"
-        },
-        {
-          "name": "Rrodney",
-          "url": "https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n"
-        }
-      ],
-      "duration_ms": 170710,
-      "name": "now rock",
-      "url": "https://open.spotify.com/track/0sLiGUOYYRQ2pzJgijFCNm"
-    },
-    {
-      "added_at": "2025-01-07 17:27:25",
-      "album": {
         "name": "We Are Young (Jersey Club)",
         "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 109124,
       "name": "We Are Young (Jersey Club)",
       "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
+    },
+    {
+      "added_at": "2025-01-07 17:27:25",
+      "album": {
+        "name": "now rock",
+        "url": "https://open.spotify.com/album/7FdDt6ToaawcKKfJJOg2p1"
+      },
+      "artists": [
+        {
+          "name": "gangwalkk",
+          "url": "https://open.spotify.com/artist/5CfPXXv7fxuj8CeegMa5hK"
+        },
+        {
+          "name": "Rrodney",
+          "url": "https://open.spotify.com/artist/17DH4a7VS4JaAr2bbsWe0n"
+        }
+      ],
+      "duration_ms": 170710,
+      "name": "now rock",
+      "url": "https://open.spotify.com/track/0sLiGUOYYRQ2pzJgijFCNm"
     },
     {
       "added_at": "2025-01-07 17:27:25",

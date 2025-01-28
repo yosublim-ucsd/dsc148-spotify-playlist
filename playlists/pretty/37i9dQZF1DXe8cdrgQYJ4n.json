@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18535,
+  "num_followers": 18537,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Freaky (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
         "name": "HOODIE E BANBAJI",
         "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 189973,
       "name": "HOODIE E BANBAJI",
       "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Freaky (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
     },
     {
       "added_at": "2025-01-18 02:30:10",

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: FouKi
 
-3,061 songs - 6 day 18 hr 43 min
+3,062 songs - 6 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Amiri jeans](https://open.spotify.com/track/4YCvIRnKeOQfKbJXNWKZw5) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Frères Ennemis](https://open.spotify.com/album/2BBiqL9LvtK9Dk9aYBEsGC) | 2:59 | 2024-02-23 | 2024-04-06 |
 | [amnezia](https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [amnezia](https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t) | 3:34 | 2023-05-05 | 2023-06-24 |
 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 | 2023-05-05 | 2023-06-19 |
-| [AMORÉ](https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AMORÉ](https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW) | 2:24 | 2024-12-13 |  |
+| [AMORÉ](https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AMORÉ](https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW) | 2:24 | 2024-12-13 | 2025-01-28 |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 | 2022-02-19 |
 | [Amour, Haine & Danger](https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Amour, Haine & Danger](https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3) | 3:18 | 2022-09-30 | 2022-10-15 |
 | [Amours et Contradictions](https://open.spotify.com/track/0QvndhdnzK1S5nDH5mBaMW) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi), [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [Amours et Contradictions](https://open.spotify.com/album/5S8FScCHYUnn7FTvU7iI1I) | 2:59 | 2024-04-19 | 2024-04-27 |
@@ -2975,6 +2975,7 @@
 | [Woodstock](https://open.spotify.com/track/0oBxRhHoaLXn7pK2uaqhuN) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Toutes les rues sont silencieuses](https://open.spotify.com/album/0TiErnEo7n4RpcFM6tTTCa) | 2:58 | 2024-09-20 | 2024-11-09 |
 | [Wooh](https://open.spotify.com/track/2jxCBpeOC7oQCn6rpYMFiW) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Wooh](https://open.spotify.com/album/3X0opvSQguDu3GTrLJIAJ5) | 2:31 | 2022-05-27 | 2022-06-11 |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2021-12-31 | 2022-01-22 |
+| [Wow](https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Wow](https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g) | 1:56 | 2025-01-24 |  |
 | [X Freestyle](https://open.spotify.com/track/5TP6atkguwiAwp1KDGKEbc) | [Jay Jay](https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt) | [X Freestyle](https://open.spotify.com/album/3Z2FAJleolchMDQAKMS8Bb) | 2:00 | 2024-06-07 | 2024-06-15 |
 | [X\-ADV](https://open.spotify.com/track/3JuUBmJeZKZm9j1qIVHqxL) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [X\-ADV](https://open.spotify.com/album/681VCnep9IPSH0fi7bqEdn) | 2:51 | 2024-08-30 | 2024-09-24 |
 | [Xela](https://open.spotify.com/track/3TEZwf2lJWIeEwBog3TXDf) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [Xela](https://open.spotify.com/album/7Gpwzyny4QUiqCs68MhnVe) | 3:46 | 2022-03-18 | 2022-04-02 |

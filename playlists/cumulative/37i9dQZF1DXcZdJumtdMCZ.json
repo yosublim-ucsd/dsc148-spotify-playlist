@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Hit Man",
+        "url": "https://open.spotify.com/album/4GrrGcatLmYzEPrY9a9edJ"
+      },
+      "artists": [
+        {
+          "name": "San T",
+          "url": "https://open.spotify.com/artist/6ATsGtHUNuw82AxZC3I8Bb"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Hit Man",
+      "url": "https://open.spotify.com/track/1YgKWkzYdSagrum7QpeKjr"
+    },
+    {
+      "album": {
         "name": "Rum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7wOBAKgO7PkU1tsOMPI8LN"
       },
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 121390,
       "name": "Lady Superstar (from the Netflix Documentary \u201cNayanthara: Beyond the Fairy Tale\")",
       "url": "https://open.spotify.com/track/4KDNHea3R68RjE6AiF8P6P"
@@ -2837,6 +2855,24 @@
     },
     {
       "album": {
+        "name": "Solli Vei",
+        "url": "https://open.spotify.com/album/75674aUkYs4u2joPaL94YK"
+      },
+      "artists": [
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Solli Vei",
+      "url": "https://open.spotify.com/track/0a3kxt3ENfxvhNRC9MVLCY"
+    },
+    {
+      "album": {
         "name": "Stable In The Game",
         "url": "https://open.spotify.com/album/41z6TiF47cBMfGdzEd9PBr"
       },
@@ -3538,7 +3574,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 75000,
       "name": "Vinayagane",
       "url": "https://open.spotify.com/track/6wmdzlkYB7gJHTI2GGvYBj"

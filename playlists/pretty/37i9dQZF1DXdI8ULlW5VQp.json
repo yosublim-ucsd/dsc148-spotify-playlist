@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Leo Rizzi en portada.",
-  "num_followers": 74939,
+  "num_followers": 74959,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/4G0T2SK5Ph41HvzJEfSNVV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 206964,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/0i9vrEyQW07WdbJbavyGYw"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "Diosa",
         "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 186333,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/4G0T2SK5Ph41HvzJEfSNVV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 206964,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/0i9vrEyQW07WdbJbavyGYw"
     },
     {
       "added_at": "2025-01-24 06:00:28",

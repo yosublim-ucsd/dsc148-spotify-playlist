@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,821 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,836 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 49 | [African Vibe PT 2 \- Ka Valungu \- 3 Step Remix](https://open.spotify.com/track/3jbBtITwX7GLqWcqz3odek) | [Peta Teanet](https://open.spotify.com/artist/7BeJbenrKbpNEUIsbvrl3d), [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts) | [African Vibe PT 2 \- Ka Valungu \(3 Step Remix\)](https://open.spotify.com/album/5JvzmgfOX9gzhwcXUt2NrI) | 5:58 |
 | 50 | [Thula](https://open.spotify.com/track/2oGJRoKav60Mddy3c6RKZG) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [Khonaye](https://open.spotify.com/artist/05QAPP670eYB6veuT6aSzO) | [Thula EP](https://open.spotify.com/album/2QyWyvrhEVnBaLG4loqEi1) | 7:21 |
 
-Snapshot ID: `Z5K8AwAAAAC81LodBDCeIayLk2mutGOa`
+Snapshot ID: `Z5egygAAAADjYcCWP/sKCr5cQPEAqo7I`

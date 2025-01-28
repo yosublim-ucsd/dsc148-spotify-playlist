@@ -4,12 +4,12 @@
 
 > sweet and fresh emerging indie pop, featuring Esme Emerson 🍑
 
-161 songs - 8 hr 51 min
+162 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 hours](https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [24 hours](https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2) | 3:40 | 2024-06-14 | 2024-09-21 |
-| [A\-Rated Horror Movies](https://open.spotify.com/track/0ph4jYlwATx7yqLqaMqRZ2) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [A\-Rated Horror Movies](https://open.spotify.com/album/5KEnhyozeDtN6rESMoEAmA) | 2:37 | 2025-01-24 |  |
+| [A\-Rated Horror Movies](https://open.spotify.com/track/0ph4jYlwATx7yqLqaMqRZ2) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [A\-Rated Horror Movies](https://open.spotify.com/album/5KEnhyozeDtN6rESMoEAmA) | 2:37 | 2025-01-24 | 2025-01-28 |
 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 | 2024-08-21 |  |
 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 | 2024-06-14 |  |
 | [All I Ever Dream About](https://open.spotify.com/track/3wxG6mf4sbIg5i8hnCcMnG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [All I Ever Dream About](https://open.spotify.com/album/6ChtPY348jHDmASn1U6FlZ) | 3:04 | 2024-08-21 |  |
@@ -166,6 +166,7 @@
 | [When You Love Someone](https://open.spotify.com/track/2VpS7nNjtgrsrJRPEiOWjE) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [When You Love Someone](https://open.spotify.com/album/05bNACzQPssICbU1zbDtP7) | 3:59 | 2025-01-24 |  |
 | [White Noise](https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [April's Nectar](https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv) | 3:15 | 2024-06-14 | 2024-07-13 |
 | [Who](https://open.spotify.com/track/36Qy5JWTlosQe8mliqKCjw) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Who](https://open.spotify.com/album/6dUqAzE6hZbHbhIhtvoXA0) | 3:07 | 2024-06-14 | 2024-07-13 |
+| [Why Won't We](https://open.spotify.com/track/6293vQ1jOawXNqDhHZvFP5) | [Jack Panther](https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN) | [Why Won't We](https://open.spotify.com/album/1TnPgz3o5exKqZ2Ypdj80v) | 3:44 | 2025-01-24 |  |
 | [With u](https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [With u](https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h) | 2:20 | 2025-01-24 |  |
 | [you say that i'm crazy](https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [you say that i'm crazy](https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9) | 2:26 | 2025-01-24 |  |
 | [You!](https://open.spotify.com/track/5OIn9FHpJKAn6ZbX1y8Y46) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Heaven Knows!](https://open.spotify.com/album/3bK8WVeP0mMupP2d53LNWA) | 3:37 | 2024-06-14 | 2024-08-22 |

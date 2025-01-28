@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,212 songs - 3 day 12 hr 20 min
+2,213 songs - 3 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -829,7 +829,7 @@
 | [Happy Camper](https://open.spotify.com/track/65Aih3UTZ71FYy1IFX9yai) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Happy Camper](https://open.spotify.com/album/0dGweGrhJHrI7b2aZzrlbP) | 2:00 | 2023-06-06 | 2023-12-08 |
 | [happy moggie](https://open.spotify.com/track/6mnuzqUm6MObdHHk59Tg4E) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [happy moggie](https://open.spotify.com/album/5HRw1jjjlShVFhlyNlyjpi) | 2:18 | 2023-12-08 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 | 2024-05-14 |
-| [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2023-07-13 |  |
+| [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2023-07-13 | 2025-01-28 |
 | [hatten](https://open.spotify.com/track/0nPa8iAD5XHvwAuh7dND32) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [hatten](https://open.spotify.com/album/00xZabDtZSUmnM8ODVHA7e) | 2:35 | 2023-01-06 | 2024-02-02 |
 | [Hauga](https://open.spotify.com/track/4Zt4YhDZ0SoMIR8lzXZw7I) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Hauga](https://open.spotify.com/album/08Hy3qIJEDIvUDw1oaoT7g) | 2:01 | 2023-04-03 | 2024-10-18 |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
@@ -961,6 +961,7 @@
 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 | 2022-09-02 |  |
 | [jeanne](https://open.spotify.com/track/46Hd3sSda0qW9zi7aSca7Q) | [Radiocosmo](https://open.spotify.com/artist/3HvDYPOZuI4QsWFCE6exMf) | [jeanne](https://open.spotify.com/album/7lSxjQrUYFyfnS8nO3XXit) | 2:06 | 2022-10-01 | 2023-01-07 |
 | [Jericho Sun](https://open.spotify.com/track/4pDDvReURWfRQMrM0vSZXi) | [Neil Fonda](https://open.spotify.com/artist/5H1cu70jIQPO4nP9bjlKhp) | [Jericho Sun](https://open.spotify.com/album/5HgpaEHSoNk9HFFhMCqlH7) | 1:56 | 2022-04-15 | 2022-07-08 |
+| [Jester's Lullaby](https://open.spotify.com/track/2aC4EzyoeHagzpbzXZpCuS) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Jester's Lullaby](https://open.spotify.com/album/1xkP2sAu2JghaXPrWuvukZ) | 1:53 | 2025-01-24 |  |
 | [Jokes On You I'm A Ninja](https://open.spotify.com/track/1FggDvwM0V0pmjsko1FhQz) | [hello low](https://open.spotify.com/artist/0rw0XSu4ERGOxViqqBfclo) | [Jokes On You I'm A Ninja](https://open.spotify.com/album/5KzWFIVfpfeMOIufKDlRew) | 2:51 | 2023-12-22 |  |
 | [Joosin](https://open.spotify.com/track/3B5v26g0nd65Hs5WFzHRss) | [Software Soul](https://open.spotify.com/artist/2XVmqcuBGLwCHsBHizRMsx) | [Heart Songs](https://open.spotify.com/album/6jE8JZgJMdGG2UpILyWT9G) | 2:43 | 2022-04-15 | 2022-09-23 |
 | [Journey Through Time](https://open.spotify.com/track/3QBPjH5Me3YIgMi3SAhS0s) | [Amerettius](https://open.spotify.com/artist/46S1SxpfQQUugnv7HvAAZ4) | [Journey Through Time](https://open.spotify.com/album/4wmRTL1CNrBJp2g5h2kY2B) | 2:08 | 2022-04-15 | 2022-04-22 |
@@ -1554,7 +1555,7 @@
 | [rain on us](https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [rain on us](https://open.spotify.com/album/3quSGC6EbfpwVqZiXaR0kQ) | 2:27 | 2022-05-13 | 2022-11-12 |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-03-24 |  |
 | [Raincoat](https://open.spotify.com/track/5T41z0Wg9mPbPGXvquzaiK) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [Raincoat](https://open.spotify.com/album/4M2OJAbq1PJLe732DTkxv3) | 2:04 | 2022-04-15 | 2022-09-02 |
-| [Rainfall](https://open.spotify.com/track/3nEjm1jr2UtlRiUDmxsMgQ) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Rainfall](https://open.spotify.com/album/3y0ntVNpp1wBGXXEwBciUA) | 2:20 | 2024-11-15 |  |
+| [Rainfall](https://open.spotify.com/track/3nEjm1jr2UtlRiUDmxsMgQ) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Rainfall](https://open.spotify.com/album/3y0ntVNpp1wBGXXEwBciUA) | 2:20 | 2024-11-15 | 2025-01-28 |
 | [Rainy Day](https://open.spotify.com/track/6mbalHByVjWkquAsv2Cjq0) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [Sella Vie](https://open.spotify.com/artist/1KQ9sumkPMkY6j1W8ocSvZ), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Rainy Day](https://open.spotify.com/album/4VixZK2usHrdrMsGRWukCO) | 2:16 | 2022-12-09 | 2023-09-16 |
 | [Rainy Day Reverie](https://open.spotify.com/track/0YvTkRufBOCQbWGzbHh2Nn) | [Perpetual Machine](https://open.spotify.com/artist/2LfRjZGrFS9eu2fppbwGEk) | [Rainy Day Reverie](https://open.spotify.com/album/3T3Rn3i6ytAFsli99mo5WT) | 1:59 | 2023-11-17 |  |
 | [rainy days](https://open.spotify.com/track/4dYfEHMUW9TxpYg8B5Iv5y) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [rainy days](https://open.spotify.com/album/65inz801tjfzT0VvCCoj7N) | 2:05 | 2024-01-12 |  |
@@ -1590,7 +1591,7 @@
 | [Resonance](https://open.spotify.com/track/47O54hs8nwd4vy1DOcgMth) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Resonance](https://open.spotify.com/album/2sl0CVYk9JPGp5ub68hqd2) | 2:31 | 2023-06-06 | 2023-10-06 |
 | [restful](https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [restful](https://open.spotify.com/album/551yGRG1Q9kX7h6h4gLzgz) | 2:06 | 2024-06-28 |  |
 | [Resting Days](https://open.spotify.com/track/6FKD7NlcNchJckU1LxjN5U) | [Chizu](https://open.spotify.com/artist/6NQ1aKb4xNup2HIbJFaJdF) | [Resting Days](https://open.spotify.com/album/4MTSGuIddwLkv38fWmMHvq) | 2:20 | 2024-06-21 |  |
-| [Resting My Eyes](https://open.spotify.com/track/6kw2yo60FfpYIFF52zWwUd) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Resting My Eyes](https://open.spotify.com/album/7I2hfGM9gY1hZpnZUJDIdx) | 2:12 | 2023-03-08 | 2025-01-27 |
+| [Resting My Eyes](https://open.spotify.com/track/6kw2yo60FfpYIFF52zWwUd) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Resting My Eyes](https://open.spotify.com/album/7I2hfGM9gY1hZpnZUJDIdx) | 2:12 | 2023-03-08 |  |
 | [Restless](https://open.spotify.com/track/5xYTsbx3aGOGv3mvIxny97) | [Moodster](https://open.spotify.com/artist/5RNTB5zF7ep1Eyu2VunrKI) | [Restless](https://open.spotify.com/album/30DSkNqh7iM9CoxpoYhNde) | 1:55 | 2022-04-15 | 2023-02-14 |
 | [Resurrected](https://open.spotify.com/track/3kSNdHcFAtT2PRIDhhEfPf) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Resurrected](https://open.spotify.com/album/3Mu69V1Epb8T2he3BcYhnc) | 2:06 | 2023-09-22 | 2023-11-25 |
 | [Reverie](https://open.spotify.com/track/7IOjCUl7RBwXDHSmheWbvK) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Reverie](https://open.spotify.com/album/6TCyI0UIhnvQp4snaZ1gbd) | 2:26 | 2023-07-13 | 2023-09-29 |
@@ -1735,7 +1736,7 @@
 | [Slump Chills](https://open.spotify.com/track/3hLIeWkgVEno7EtXRF03wl) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Slump Chills](https://open.spotify.com/album/7tx1pc4ZwRuC4KefeaDarI) | 2:42 | 2022-05-27 | 2022-11-12 |
 | [smileyface](https://open.spotify.com/track/6oGk8aYZv1s28KeBrFGQax) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [smileyface](https://open.spotify.com/album/78DU2xHbAo9sss8dmbstyI) | 2:54 | 2023-11-17 |  |
 | [Smokey](https://open.spotify.com/track/4p14eOpDYsh7lxZCNDFeF6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Smokey](https://open.spotify.com/album/25uVN5TAJTQ2byMKlkOJab) | 1:30 | 2022-04-15 | 2022-05-27 |
-| [Smokin' aces](https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Smokin' aces](https://open.spotify.com/album/2hWKhdSkjrJAhYMepkdxkf) | 2:01 | 2023-01-20 |  |
+| [Smokin' aces](https://open.spotify.com/track/3GoTqkZ7NxIGy7uBLkeLuR) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Smokin' aces](https://open.spotify.com/album/2hWKhdSkjrJAhYMepkdxkf) | 2:01 | 2023-01-20 | 2025-01-28 |
 | [Smoking at Sundown](https://open.spotify.com/track/7fZE886mHBzgaeA5SlMSaa) | [peerless](https://open.spotify.com/artist/1c2JWfQucGww8ADlPqc0oJ) | [Laboratoire](https://open.spotify.com/album/6TmlJOoGjqc57gXO0lxgvX) | 2:12 | 2022-11-25 |  |
 | [smooof](https://open.spotify.com/track/1LvgRFtCVEAPSB3wi71XCz) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [smooof](https://open.spotify.com/album/1g3DAdvE09HPSC8pkvIQ3L) | 1:55 | 2022-04-15 | 2022-08-19 |
 | [Smooth](https://open.spotify.com/track/3jSuyQDMePz5zAusBX4Wh1) | [Aran Brôg](https://open.spotify.com/artist/7ba3vzhS4RU7esRdjexxwA), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Smooth](https://open.spotify.com/album/6JqYaastMBcPBiezjq7elr) | 2:16 | 2022-10-01 | 2023-01-07 |
@@ -1962,7 +1963,7 @@
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2022-04-15 | 2022-06-10 |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2023-09-29 |  |
 | [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2022-11-25 | 2024-09-09 |
-| [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-07-13 | 2025-01-27 |
+| [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-07-13 |  |
 | [The sea that forgot the past](https://open.spotify.com/track/1mViogHkkvCrautHVmmkAI) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [edgarddd](https://open.spotify.com/artist/5hhz5oUTkVnBxC3YpYm5Ve) | [Exit](https://open.spotify.com/album/6qgtK04UoX18RtSLnKHz5D) | 1:37 | 2022-04-15 | 2022-11-12 |
 | [The Smokeroom Band](https://open.spotify.com/track/21Wl7gBjfJuhNHe66c3LOu) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 3:27 | 2022-04-15 | 2022-06-25 |
 | [The Spy Hunter](https://open.spotify.com/track/1AMBXDrCOcfzXIKaJF23yx) | [Pensive Strider](https://open.spotify.com/artist/32v1SzCcOazNtxUl8CQQyB) | [Life Finds A Way](https://open.spotify.com/album/2c6XwUzMBg6jbkxrLl9cQi) | 2:53 | 2022-04-15 | 2022-06-25 |

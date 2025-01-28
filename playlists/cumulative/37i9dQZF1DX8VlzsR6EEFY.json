@@ -2793,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Los A\u00f1os",
+        "url": "https://open.spotify.com/album/2vwnIZS3UXRcIGAfGDtS94"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185689,
+      "name": "Los A\u00f1os",
+      "url": "https://open.spotify.com/track/2bWiy4CRq8qhtgODoODKX6"
+    },
+    {
+      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
       },

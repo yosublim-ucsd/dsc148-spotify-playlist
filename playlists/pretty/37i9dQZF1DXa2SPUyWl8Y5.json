@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 530775,
+  "num_followers": 531055,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2AnCwAAAACON+3hVMywcJpembgsdRgh",
+  "snapshot_id": "Z5eikAAAAAB6GCzwBNC9BnMU6YC07LWp",
   "tracks": [
     {
       "added_at": "2024-12-16 13:11:39",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Owls (Edit)",
-        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 226014,
-      "name": "Owls - Edit",
-      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 266730,
       "name": "Phases",
       "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Owls (Edit)",
+        "url": "https://open.spotify.com/album/0VzQDLVUDzjnh2cr1PHYXq"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 226014,
+      "name": "Owls - Edit",
+      "url": "https://open.spotify.com/track/0YKWDyJc8iG6vqk08sBz0x"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Spaziergang im All",
-        "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
-      },
-      "artists": [
-        {
-          "name": "Deorbiting",
-          "url": "https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr"
-        }
-      ],
-      "duration_ms": 498670,
-      "name": "Spaziergang im All",
-      "url": "https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Pulses",
         "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 364810,
       "name": "Pulses",
       "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Spaziergang im All",
+        "url": "https://open.spotify.com/album/6k0PV6yPKNrerXkZCJN9Mf"
+      },
+      "artists": [
+        {
+          "name": "Deorbiting",
+          "url": "https://open.spotify.com/artist/17qE2mJQTOOEyHch0DxyNr"
+        }
+      ],
+      "duration_ms": 498670,
+      "name": "Spaziergang im All",
+      "url": "https://open.spotify.com/track/0mu7vzezz2e3GlmK3bDKcd"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
-      },
-      "artists": [
-        {
-          "name": "Benzsoul",
-          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
-        }
-      ],
-      "duration_ms": 404532,
-      "name": "Solid",
-      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Wadi Dana",
         "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy"
       },
       "artists": [
         {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+          "name": "Benzsoul",
+          "url": "https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf"
         }
       ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+      "duration_ms": 404532,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -623,6 +607,22 @@
       "duration_ms": 347680,
       "name": "In A Blurry World",
       "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Unfold Voices EP",
-        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
-      },
-      "artists": [
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        }
-      ],
-      "duration_ms": 391577,
-      "name": "Unfold Me",
-      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Tarcu",
         "url": "https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
         "name": "Meertraum",
         "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 394418,
       "name": "Meertraum",
       "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
-        "name": "Lyra",
-        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
-      },
-      "artists": [
-        {
-          "name": "Teho",
-          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
-        }
-      ],
-      "duration_ms": 437891,
-      "name": "Lyra",
-      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -787,6 +771,22 @@
       "duration_ms": 227033,
       "name": "Scarper",
       "url": "https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Lyra",
+        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
+      },
+      "artists": [
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        }
+      ],
+      "duration_ms": 437891,
+      "name": "Lyra",
+      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "K\u00fcnstlerische Freiheit II",
-        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
-      },
-      "artists": [
-        {
-          "name": "Annett Gapstream",
-          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
-        }
-      ],
-      "duration_ms": 397891,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Night",
         "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 253920,
       "name": "Night",
       "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "K\u00fcnstlerische Freiheit II",
+        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
+      },
+      "artists": [
+        {
+          "name": "Annett Gapstream",
+          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
+        }
+      ],
+      "duration_ms": 397891,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
+        "name": "Storia Infinita - Chapter Three",
+        "url": "https://open.spotify.com/album/417hmxteoKV7nKVsWQ46jH"
+      },
+      "artists": [
+        {
+          "name": "Fran&co",
+          "url": "https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX"
+        }
+      ],
+      "duration_ms": 418364,
+      "name": "Storia Infinita",
+      "url": "https://open.spotify.com/track/0L74Azd7cF1Rrt0Nkx9n0s"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
         "name": "Exoplanet",
         "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 501290,
       "name": "Exoplanet",
       "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
-        "name": "Storia Infinita - Chapter Three",
-        "url": "https://open.spotify.com/album/417hmxteoKV7nKVsWQ46jH"
-      },
-      "artists": [
-        {
-          "name": "Fran&co",
-          "url": "https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX"
-        }
-      ],
-      "duration_ms": 418364,
-      "name": "Storia Infinita",
-      "url": "https://open.spotify.com/track/0L74Azd7cF1Rrt0Nkx9n0s"
     },
     {
       "added_at": "2024-12-16 13:11:39",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-12-16 13:11:39",
       "album": {
-        "name": "Barturator",
-        "url": "https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e"
-      },
-      "artists": [
-        {
-          "name": "Andre Lanine",
-          "url": "https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh"
-        }
-      ],
-      "duration_ms": 394775,
-      "name": "Barturator",
-      "url": "https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3"
-    },
-    {
-      "added_at": "2024-12-16 13:11:39",
-      "album": {
         "name": "Dawn Beyond",
         "url": "https://open.spotify.com/album/0ONHjTZfUAt99kjcLbixcl"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 411219,
       "name": "Dawn Beyond",
       "url": "https://open.spotify.com/track/39lsi4cPpq25nzejBUprQS"
+    },
+    {
+      "added_at": "2024-12-16 13:11:39",
+      "album": {
+        "name": "Barturator",
+        "url": "https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e"
+      },
+      "artists": [
+        {
+          "name": "Andre Lanine",
+          "url": "https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh"
+        }
+      ],
+      "duration_ms": 394775,
+      "name": "Barturator",
+      "url": "https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3"
     },
     {
       "added_at": "2024-12-16 13:11:39",

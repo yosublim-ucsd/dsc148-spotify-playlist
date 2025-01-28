@@ -3937,6 +3937,24 @@
     },
     {
       "album": {
+        "name": "Murray",
+        "url": "https://open.spotify.com/album/6GysYHx4p5DkTXcp54uK5m"
+      },
+      "artists": [
+        {
+          "name": "Fat Mizzo",
+          "url": "https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198741,
+      "name": "Murray",
+      "url": "https://open.spotify.com/track/5ec36tT5RBowyUPB0AZLUl"
+    },
+    {
+      "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd"
       },
@@ -4425,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "Molno Jorjo",
+        "url": "https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc"
+      },
+      "artists": [
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/1sRxcnih7w5PfbJAujdbJo"
+    },
+    {
+      "album": {
         "name": "L'MORPHINE",
         "url": "https://open.spotify.com/album/4uOkyB9V8LUsqQz4FP6pdq"
       },
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 177230,
       "name": "Piola",
       "url": "https://open.spotify.com/track/1GekDYBKy3TqF5vCB327yW"
@@ -5620,7 +5656,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 170000,
       "name": "Stuntman",
       "url": "https://open.spotify.com/track/1yfWeaWdlkbh8HqLrH0wta"

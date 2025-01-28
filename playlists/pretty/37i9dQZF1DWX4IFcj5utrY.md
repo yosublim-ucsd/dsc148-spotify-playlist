@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=DqPU7Xy6TDSGYKMTtwqUmQ"> Oscar Mbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,581 likes - 60 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,611 likes - 60 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 59 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 |
 | 60 | [Parachute \(feat\. Rachel Chinouriri\)](https://open.spotify.com/track/0BlxpYD81CZucSEvCS11Ed) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Parachute \(feat\. Rachel Chinouriri\)](https://open.spotify.com/album/6TRdgdNykVKxmg4GAoyGfl) | 3:53 |
 
-Snapshot ID: `Z4+geQAAAADA3Jr1ShJF7rjYYPVQGlWj`
+Snapshot ID: `Z5ehTgAAAADKaIUUU0sDdGy7ILk4Wnh8`

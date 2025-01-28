@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per stare così ༼ ༎ຶ ෴ ༎ຶ༽ werdn in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,941 likes - 108 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,935 likes - 108 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

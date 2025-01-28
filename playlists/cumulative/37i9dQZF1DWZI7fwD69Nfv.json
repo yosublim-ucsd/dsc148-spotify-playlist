@@ -1815,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Los A\u00f1os",
+        "url": "https://open.spotify.com/album/2vwnIZS3UXRcIGAfGDtS94"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185689,
+      "name": "Los A\u00f1os",
+      "url": "https://open.spotify.com/track/2bWiy4CRq8qhtgODoODKX6"
+    },
+    {
+      "album": {
         "name": "Los Caminos de la Vida (Spotify Singles)",
         "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"

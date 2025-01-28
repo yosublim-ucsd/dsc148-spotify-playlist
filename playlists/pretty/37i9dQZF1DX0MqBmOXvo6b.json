@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 416769,
+  "num_followers": 416885,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
+        "name": "Meltwater",
+        "url": "https://open.spotify.com/album/07MG9or18XN9PHa0YsgDHy"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "duration_ms": 124361,
+      "name": "Meltwater",
+      "url": "https://open.spotify.com/track/4BG2ZezVv6JF9Wf8i86Oaz"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
         "name": "House of the Rising Sun",
         "url": "https://open.spotify.com/album/3SAkKz7Km8eVzgnKk1bsPW"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 159750,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "Meltwater",
-        "url": "https://open.spotify.com/album/07MG9or18XN9PHa0YsgDHy"
-      },
-      "artists": [
-        {
-          "name": "Ferragno",
-          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
-        }
-      ],
-      "duration_ms": 124361,
-      "name": "Meltwater",
-      "url": "https://open.spotify.com/track/4BG2ZezVv6JF9Wf8i86Oaz"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Making peace",
-        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
-      },
-      "artists": [
-        {
-          "name": "Christian Janssen",
-          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
-        }
-      ],
-      "duration_ms": 143034,
-      "name": "Making peace",
-      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "Silent Waltz",
         "url": "https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 162968,
       "name": "Silent Waltz",
       "url": "https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Making peace",
+        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "duration_ms": 143034,
+      "name": "Making peace",
+      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Peaceful Rebellion",
-        "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
-      },
-      "artists": [
-        {
-          "name": "Janet Redger",
-          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
-        }
-      ],
-      "duration_ms": 139978,
-      "name": "Peaceful Rebellion",
-      "url": "https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "It Rained Last Night",
         "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 132509,
       "name": "It Rained Last Night",
       "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Peaceful Rebellion",
+        "url": "https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI"
+      },
+      "artists": [
+        {
+          "name": "Janet Redger",
+          "url": "https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL"
+        }
+      ],
+      "duration_ms": 139978,
+      "name": "Peaceful Rebellion",
+      "url": "https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
+        "name": "Unfolding Gray",
+        "url": "https://open.spotify.com/album/38frgnQ5RQFfZeTUReZZ3g"
+      },
+      "artists": [
+        {
+          "name": "Antoine Di Luzio",
+          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+        }
+      ],
+      "duration_ms": 147361,
+      "name": "Unfolding Gray",
+      "url": "https://open.spotify.com/track/6mzCgfC0GxBdrHnwrChfLZ"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
         "name": "Particle rise",
         "url": "https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Unfolding Gray",
-        "url": "https://open.spotify.com/album/38frgnQ5RQFfZeTUReZZ3g"
+        "name": "Changements",
+        "url": "https://open.spotify.com/album/5sjtsgMoKlPyp1GcrW5op1"
       },
       "artists": [
         {
-          "name": "Antoine Di Luzio",
-          "url": "https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv"
+          "name": "Lo Mimieux",
+          "url": "https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM"
         }
       ],
-      "duration_ms": 147361,
-      "name": "Unfolding Gray",
-      "url": "https://open.spotify.com/track/6mzCgfC0GxBdrHnwrChfLZ"
+      "duration_ms": 165986,
+      "name": "Changements",
+      "url": "https://open.spotify.com/track/2tujCQTkcY1vCNynkn0Jiu"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -1655,22 +1671,6 @@
       "duration_ms": 122000,
       "name": "Little Boy",
       "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "Changements",
-        "url": "https://open.spotify.com/album/5sjtsgMoKlPyp1GcrW5op1"
-      },
-      "artists": [
-        {
-          "name": "Lo Mimieux",
-          "url": "https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "Changements",
-      "url": "https://open.spotify.com/track/2tujCQTkcY1vCNynkn0Jiu"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
+        "name": "Marche Lente",
+        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
+      },
+      "artists": [
+        {
+          "name": "Zander Shaelyn",
+          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
+        }
+      ],
+      "duration_ms": 131436,
+      "name": "Marche Lente",
+      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
         "name": "Lik Eit Tre (Ps.1)",
         "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
       },
@@ -1771,22 +1787,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Marche Lente",
-        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
-      },
-      "artists": [
-        {
-          "name": "Zander Shaelyn",
-          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
-        }
-      ],
-      "duration_ms": 131436,
-      "name": "Marche Lente",
-      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "D\u00e9lise",
         "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
       },
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Without A Care",
-        "url": "https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD"
-      },
-      "artists": [
-        {
-          "name": "Martin Fox",
-          "url": "https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Without A Care",
-      "url": "https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "Tendrement",
         "url": "https://open.spotify.com/album/599xVWUaHJbNMwGYfKMnSz"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 129901,
       "name": "Tendrement",
       "url": "https://open.spotify.com/track/4WFF3LgLuK0qGqY1YUdzD6"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Without A Care",
+        "url": "https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD"
+      },
+      "artists": [
+        {
+          "name": "Martin Fox",
+          "url": "https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Without A Care",
+      "url": "https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Preludes",
-        "url": "https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1"
+        "name": "Fleur De Vie",
+        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
       },
       "artists": [
         {
-          "name": "Julius Nilsson",
-          "url": "https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX"
+          "name": "Jonas Bergsson",
+          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
         }
       ],
-      "duration_ms": 139771,
-      "name": "City Prelude",
-      "url": "https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53"
+      "duration_ms": 176717,
+      "name": "Fleur De Vie",
+      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2075,70 +2075,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Fleur De Vie",
-        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Bergsson",
-          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
-        }
-      ],
-      "duration_ms": 176717,
-      "name": "Fleur De Vie",
-      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "From the Seas and the Streams",
-        "url": "https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc"
-      },
-      "artists": [
-        {
-          "name": "Halgeir Nielsen",
-          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "From the Seas and the Streams",
-      "url": "https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "Apr\u00e8s Tout",
-        "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
-      },
-      "artists": [
-        {
-          "name": "Alexis Pavot",
-          "url": "https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk"
-        }
-      ],
-      "duration_ms": 147250,
-      "name": "Apr\u00e8s tout",
-      "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "Pourquoi",
-        "url": "https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z"
-      },
-      "artists": [
-        {
-          "name": "Hector Vall\u00c7e",
-          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Pourquoi",
-      "url": "https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "The Seventh Wave",
         "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
       },
@@ -2151,6 +2087,22 @@
       "duration_ms": 128088,
       "name": "The Seventh Wave",
       "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Preludes",
+        "url": "https://open.spotify.com/album/39pSeV5BLaPnUAQUtx6ww1"
+      },
+      "artists": [
+        {
+          "name": "Julius Nilsson",
+          "url": "https://open.spotify.com/artist/6TldgZgNH66W2AGRLsqwPX"
+        }
+      ],
+      "duration_ms": 139771,
+      "name": "City Prelude",
+      "url": "https://open.spotify.com/track/7jCRVvGKxzAMWDqIiW2T53"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2171,18 +2123,50 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Mitternacht",
-        "url": "https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39"
+        "name": "From the Seas and the Streams",
+        "url": "https://open.spotify.com/album/0SFqRZjTN8wcgIPG4E7ulc"
       },
       "artists": [
         {
-          "name": "Teide",
-          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
         }
       ],
-      "duration_ms": 155693,
-      "name": "Mitternacht",
-      "url": "https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz"
+      "duration_ms": 149800,
+      "name": "From the Seas and the Streams",
+      "url": "https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Pourquoi",
+        "url": "https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Pourquoi",
+      "url": "https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Apr\u00e8s Tout",
+        "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
+      },
+      "artists": [
+        {
+          "name": "Alexis Pavot",
+          "url": "https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "Apr\u00e8s tout",
+      "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2203,6 +2187,22 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
+        "name": "Mitternacht",
+        "url": "https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39"
+      },
+      "artists": [
+        {
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "Mitternacht",
+      "url": "https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
         "name": "Dominoes",
         "url": "https://open.spotify.com/album/4LYivEUNJfK93jCMNdGJ4X"
       },
@@ -2215,22 +2215,6 @@
       "duration_ms": 147980,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/5Lgp1kr0fG9sPe6ZlJKe04"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "The Pond",
-        "url": "https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw"
-      },
-      "artists": [
-        {
-          "name": "Kisane",
-          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
-        }
-      ],
-      "duration_ms": 148714,
-      "name": "The Pond",
-      "url": "https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2251,18 +2235,18 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Woman traveling alone",
-        "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
+        "name": "The Pond",
+        "url": "https://open.spotify.com/album/2ipoCdTtDNjEhFZYBHaPpw"
       },
       "artists": [
         {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
         }
       ],
-      "duration_ms": 126396,
-      "name": "Woman traveling alone",
-      "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
+      "duration_ms": 148714,
+      "name": "The Pond",
+      "url": "https://open.spotify.com/track/0sP3vS5hPhIRz694UxUJ7w"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2283,6 +2267,38 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
+        "name": "Woman traveling alone",
+        "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 126396,
+      "name": "Woman traveling alone",
+      "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Open Mind",
+        "url": "https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB"
+      },
+      "artists": [
+        {
+          "name": "Iris Fairchild",
+          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
+        }
+      ],
+      "duration_ms": 122105,
+      "name": "Open Mind",
+      "url": "https://open.spotify.com/track/7lz4IM1oPgxaCvs1R0xTHn"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
         "name": "Glimmer",
         "url": "https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 160741,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "In Reform",
-        "url": "https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL"
-      },
-      "artists": [
-        {
-          "name": "Phileas Galle",
-          "url": "https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68"
-        }
-      ],
-      "duration_ms": 155732,
-      "name": "In Reform",
-      "url": "https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2331,6 +2331,22 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
+        "name": "In Reform",
+        "url": "https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL"
+      },
+      "artists": [
+        {
+          "name": "Phileas Galle",
+          "url": "https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68"
+        }
+      ],
+      "duration_ms": 155732,
+      "name": "In Reform",
+      "url": "https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
         "name": "Go With The Flow",
         "url": "https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh"
       },
@@ -2347,18 +2363,18 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Open Mind",
-        "url": "https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB"
+        "name": "Une rivi\u00e8re silencieuse",
+        "url": "https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0"
       },
       "artists": [
         {
-          "name": "Iris Fairchild",
-          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
         }
       ],
-      "duration_ms": 122105,
-      "name": "Open Mind",
-      "url": "https://open.spotify.com/track/7lz4IM1oPgxaCvs1R0xTHn"
+      "duration_ms": 145333,
+      "name": "Une rivi\u00e8re silencieuse",
+      "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2391,22 +2407,6 @@
       "duration_ms": 154000,
       "name": "Saragossa",
       "url": "https://open.spotify.com/track/2DAgJPb2am07TT3LKcM7u1"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "Une rivi\u00e8re silencieuse",
-        "url": "https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Une rivi\u00e8re silencieuse",
-      "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2571,6 +2571,22 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
+        "name": "Quiet Suns",
+        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "duration_ms": 131374,
+      "name": "Quiet Suns",
+      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
         "name": "Inmersion",
         "url": "https://open.spotify.com/album/4UKB7Z0S4Qwy6SjYddkmk1"
       },
@@ -2599,22 +2615,6 @@
       "duration_ms": 137519,
       "name": "For Kate",
       "url": "https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "Quiet Suns",
-        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
-      },
-      "artists": [
-        {
-          "name": "Skaresn\u00f8",
-          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
-        }
-      ],
-      "duration_ms": 131374,
-      "name": "Quiet Suns",
-      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2715,22 +2715,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Barren Lands",
-        "url": "https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Austin",
-          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
-        }
-      ],
-      "duration_ms": 139992,
-      "name": "Barren Lands",
-      "url": "https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "Peaceful Ignorance",
         "url": "https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16"
       },
@@ -2743,6 +2727,22 @@
       "duration_ms": 158750,
       "name": "Peaceful Ignorance",
       "url": "https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Barren Lands",
+        "url": "https://open.spotify.com/album/0ZQ69ATAPr87F8ZQV40CbQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "duration_ms": 139992,
+      "name": "Barren Lands",
+      "url": "https://open.spotify.com/track/0o56FySlmk0hN1FoVqfnue"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -2779,6 +2779,22 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
+        "name": "Falling Trees",
+        "url": "https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3"
+      },
+      "artists": [
+        {
+          "name": "Jared Chance Taylor",
+          "url": "https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt"
+        }
+      ],
+      "duration_ms": 162808,
+      "name": "Falling Trees",
+      "url": "https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
         "name": "Blund",
         "url": "https://open.spotify.com/album/5v1lS8JfFsyrxPCbTbVchK"
       },
@@ -2807,22 +2823,6 @@
       "duration_ms": 156938,
       "name": "Acertijos",
       "url": "https://open.spotify.com/track/2GLPAM5vr3dyAJMKEO5R8a"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
-        "name": "Falling Trees",
-        "url": "https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3"
-      },
-      "artists": [
-        {
-          "name": "Jared Chance Taylor",
-          "url": "https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt"
-        }
-      ],
-      "duration_ms": 162808,
-      "name": "Falling Trees",
-      "url": "https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -3003,22 +3003,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "transition",
-        "url": "https://open.spotify.com/album/6UfEKOtts2xmAXoMg9TxNI"
-      },
-      "artists": [
-        {
-          "name": "Elois Jacq",
-          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
-        }
-      ],
-      "duration_ms": 155874,
-      "name": "transition",
-      "url": "https://open.spotify.com/track/0xzLNybwXCrgQ6GjbIKlm7"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "Knots",
         "url": "https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx"
       },
@@ -3031,6 +3015,22 @@
       "duration_ms": 212918,
       "name": "Knots",
       "url": "https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "transition",
+        "url": "https://open.spotify.com/album/6UfEKOtts2xmAXoMg9TxNI"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "duration_ms": 155874,
+      "name": "transition",
+      "url": "https://open.spotify.com/track/0xzLNybwXCrgQ6GjbIKlm7"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -3051,22 +3051,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu"
-      },
-      "artists": [
-        {
-          "name": "Ava Decker",
-          "url": "https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "Enchanted",
         "url": "https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS"
       },
@@ -3079,6 +3063,22 @@
       "duration_ms": 136559,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/4Il6knVZLcBiCPUdcvJsIu"
+      },
+      "artists": [
+        {
+          "name": "Ava Decker",
+          "url": "https://open.spotify.com/artist/0DP3HMpZrLwWXEDUYYxnBu"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/72Gtr23IMiIGxZCp6LCfX7"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf"
-      },
-      "artists": [
-        {
-          "name": "Liu Ju",
-          "url": "https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk"
-        }
-      ],
-      "duration_ms": 148985,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "Sk\u00e4rg\u00e5rd",
         "url": "https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 139994,
       "name": "Sk\u00e4rg\u00e5rd",
       "url": "https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf"
+      },
+      "artists": [
+        {
+          "name": "Liu Ju",
+          "url": "https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk"
+        }
+      ],
+      "duration_ms": 148985,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -3227,22 +3227,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Reinashi",
-        "url": "https://open.spotify.com/album/2zHeJDYun39pmBE20tkR42"
-      },
-      "artists": [
-        {
-          "name": "La Pix",
-          "url": "https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD"
-        }
-      ],
-      "duration_ms": 152215,
-      "name": "Reinashi",
-      "url": "https://open.spotify.com/track/4mJSOjkarcuBa35LpLMtS5"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "The Belfry",
         "url": "https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu"
       },
@@ -3255,6 +3239,22 @@
       "duration_ms": 148483,
       "name": "The Belfry",
       "url": "https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Reinashi",
+        "url": "https://open.spotify.com/album/2zHeJDYun39pmBE20tkR42"
+      },
+      "artists": [
+        {
+          "name": "La Pix",
+          "url": "https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD"
+        }
+      ],
+      "duration_ms": 152215,
+      "name": "Reinashi",
+      "url": "https://open.spotify.com/track/4mJSOjkarcuBa35LpLMtS5"
     },
     {
       "added_at": "2025-01-21 10:57:42",
@@ -3339,22 +3339,6 @@
     {
       "added_at": "2025-01-21 10:57:42",
       "album": {
-        "name": "Danderlion",
-        "url": "https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR"
-      },
-      "artists": [
-        {
-          "name": "Aron Edwards",
-          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Danderlion",
-      "url": "https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG"
-    },
-    {
-      "added_at": "2025-01-21 10:57:42",
-      "album": {
         "name": "A Brighter Future",
         "url": "https://open.spotify.com/album/6mFYBZojwGTAiauZGEvHDc"
       },
@@ -3383,6 +3367,22 @@
       "duration_ms": 172874,
       "name": "Tulips In Spring",
       "url": "https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl"
+    },
+    {
+      "added_at": "2025-01-21 10:57:42",
+      "album": {
+        "name": "Danderlion",
+        "url": "https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR"
+      },
+      "artists": [
+        {
+          "name": "Aron Edwards",
+          "url": "https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Danderlion",
+      "url": "https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG"
     },
     {
       "added_at": "2025-01-21 10:57:42",

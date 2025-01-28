@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,078 likes - 196 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,231 likes - 196 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 195 | [Catch Up](https://open.spotify.com/track/4wRSpt0ZILCSt8Wxco9l12) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Catch Up](https://open.spotify.com/album/2XPpsANRiPjLCejPEBeLfK) | 2:52 |
 | 196 | [Keeping](https://open.spotify.com/track/7J6zJzF5nBfW610gUHT6gE) | [Chimi Berry](https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc) | [Keeping](https://open.spotify.com/album/1as5ri9NKFQcZN9YZJUIh4) | 2:58 |
 
-Snapshot ID: `Z5OpmwAAAABwGl0pN3t0VwwMx3PisNLs`
+Snapshot ID: `Z5emXAAAAACNfnLG6SNqkDHRY2JYh3XN`

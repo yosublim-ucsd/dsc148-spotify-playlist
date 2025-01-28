@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 188 songs - 9 hr 17 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 191 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,5 +196,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 186 | [Hot Now](https://open.spotify.com/track/3eeyKNIBrt5TH4y0y3QkOu) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:08 |
 | 187 | [Back Again \(feat\. Lil Durk\)](https://open.spotify.com/track/0rk2IHFiHFnO7t0jvAeHW9) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Prince Dre](https://open.spotify.com/artist/01Zk9dhjhxQNqje6GrKJ3d), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Welcome to O'Block](https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp) | 2:31 |
 | 188 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
+| 189 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
+| 190 | [Bool, Balm & Bollective](https://open.spotify.com/track/0UmV17gerlXy4V3wuOUWPo) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:35 |
+| 191 | [Who Shot Me?](https://open.spotify.com/track/20F9XLcFdWcI2yS74hHQ99) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:47 |
 
-Snapshot ID: `AAAd3dTXYquyR7mQptFBjC+QxhUESF4C`
+Snapshot ID: `AAAd4HhBre0nYp/rise0N7puPyoJ1btB`

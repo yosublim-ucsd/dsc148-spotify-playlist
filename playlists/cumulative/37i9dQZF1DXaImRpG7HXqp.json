@@ -3013,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "DayBreak",
+        "url": "https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155291,
+      "name": "DayBreak",
+      "url": "https://open.spotify.com/track/36808teFyYEdLykzyq3MMx"
+    },
+    {
+      "album": {
         "name": "Dayspring Dew",
         "url": "https://open.spotify.com/album/6ZJOzTo1OgudWntdAVZLTN"
       },
@@ -3334,6 +3352,24 @@
       "duration_ms": 108255,
       "name": "Doing Better",
       "url": "https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo"
+    },
+    {
+      "album": {
+        "name": "Dolomites",
+        "url": "https://open.spotify.com/album/2zVXtznsC9kRigDpDLCE5g"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Dolomites",
+      "url": "https://open.spotify.com/track/1z33oWkek1cihwgo5r2D6L"
     },
     {
       "album": {

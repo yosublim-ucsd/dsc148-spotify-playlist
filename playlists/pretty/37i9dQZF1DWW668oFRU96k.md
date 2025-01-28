@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: OneRepublic x Kygo
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,034 likes - 65 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,041 likes - 65 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 64 | [Reincarnate](https://open.spotify.com/track/6eTiMWdpeL0u07O1SoZ3z5) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Reincarnate](https://open.spotify.com/album/2BTfOx2IBJeSO0G0OwaGgz) | 2:41 |
 | 65 | [Metamorphose](https://open.spotify.com/track/79lKF68vSBGEb9HcsUTAwL) | [ILLUM1NDS](https://open.spotify.com/artist/2I5MQy43ASNUl9TzX7VQGV) | [Metamorphose](https://open.spotify.com/album/1J4H4iqrrWpaTKTGOBMZ0t) | 2:22 |
 
-Snapshot ID: `Z5JnhwAAAABqQoo8JB2YLRwXkIPQp2z1`
+Snapshot ID: `Z5ehaAAAAAAADuhFtHJIDTzOBYGlFwOk`

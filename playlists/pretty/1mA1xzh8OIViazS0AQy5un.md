@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 247 likes - 698 songs - 1 day 15 hr 38 min
+[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 246 likes - 699 songs - 1 day 15 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -706,5 +706,6 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 | 696 | [Headlock](https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:35 |
 | 697 | [Virtute the Cat Explains Her Departure](https://open.spotify.com/track/5bil0D8WSuxyGSDLA4LxZK) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 4:08 |
 | 698 | [Kiss Me Again \- Radio Edit](https://open.spotify.com/track/6wlH6Ebu3Ssa4a04zCxDJB) | [Roy Bee](https://open.spotify.com/artist/7HTzhX7y1EPL4MUPI6kFkh) | [Kiss Me Again](https://open.spotify.com/album/74hcYgwg4PrOulvUWDlVQk) | 2:44 |
+| 699 | [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 |
 
-Snapshot ID: `AAACzGqKMsOGF69b8lQGhOXH0hT27qhx`
+Snapshot ID: `AAACzegscNbkCbIcOgV3DSQ4UrsYQYzt`

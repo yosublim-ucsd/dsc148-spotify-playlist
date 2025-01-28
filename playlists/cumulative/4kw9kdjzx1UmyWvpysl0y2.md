@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-901 songs - 2 day 3 hr 8 min
+902 songs - 2 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,7 +736,7 @@
 | [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-02 | 2022-10-19 |
 | [stay](https://open.spotify.com/track/4F25Cp06qeW8WfgNBugAqv) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak](https://open.spotify.com/album/40yb4Nu3r6xYGf2jQhzWCC) | 3:51 | 2023-04-11 | 2023-07-05 |
 | [Stay With Me](https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD) | [Stay With Me](https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc) | 3:50 | 2023-10-11 | 2024-01-26 |
-| [Stealing Fire](https://open.spotify.com/track/6aTN1V5VCHjn8q73XsXTCT) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Stealing Fire](https://open.spotify.com/album/57dawWYMECpg7ZGKWNH2q4) | 3:51 | 2024-10-18 |  |
+| [Stealing Fire](https://open.spotify.com/track/6aTN1V5VCHjn8q73XsXTCT) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Stealing Fire](https://open.spotify.com/album/57dawWYMECpg7ZGKWNH2q4) | 3:51 | 2024-10-18 | 2025-01-28 |
 | [STEREO](https://open.spotify.com/track/7BF0YStgkz3SbuEWkodlP5) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [STEREO](https://open.spotify.com/album/1O3gAtGtFNMteLPa1YjXAH) | 2:58 | 2023-11-29 | 2024-03-14 |
 | [still?](https://open.spotify.com/track/4vqbuKcOPlutoGCEKZ2Grv) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [still?](https://open.spotify.com/album/5ngxW1fB5FLHP4pwm5PJ6h) | 3:07 | 2024-03-14 | 2024-06-04 |
 | [still? \- BKAYE Remix](https://open.spotify.com/track/4ieyLj9yjnB41DAapVidGc) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [still? \(BKAYE Remix\)](https://open.spotify.com/album/1VtTUZn5x5iVubXCNZOgeB) | 2:53 | 2024-04-02 | 2024-06-20 |
@@ -875,6 +875,7 @@
 | [We Could Have It All](https://open.spotify.com/track/2exlWmUXIoMGpo5SvWXwN5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [We Could Have It All](https://open.spotify.com/album/6Nm8yTBRXvqYY6LuGsvXHu) | 3:30 | 2022-04-08 | 2022-06-18 |
 | [We Made It](https://open.spotify.com/track/5GRM663KWRMOo3OOcGsSlP) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [We Made It](https://open.spotify.com/album/3AOoItOGEvBVpqtWGHTjtZ) | 2:37 | 2022-11-08 | 2023-02-01 |
 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 | 2021-11-19 | 2022-02-18 |
+| [What Are We Proving](https://open.spotify.com/track/5J0WnlrYHDUzglZzyq3Rpn) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [What Are We Proving](https://open.spotify.com/album/7c2Mz03qiwZJuhqTSevtZL) | 4:38 | 2025-01-27 |  |
 | [What If I Stay](https://open.spotify.com/track/0AFGePrpNwxHi0RkZcn2DT) | [OVSKY](https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX) | [What If I Stay](https://open.spotify.com/album/2Cq1ho6qwefhOEZo3ydzw4) | 2:28 | 2024-07-18 | 2024-10-10 |
 | [Wheel Of Life](https://open.spotify.com/track/2ZZVvGeE3M8dfRBUy7khPH) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [Wheel Of Life](https://open.spotify.com/album/4vHjXmcYrtyS3TsJvsspuR) | 3:50 | 2022-01-19 | 2022-03-26 |
 | [When The Sun Goes Down](https://open.spotify.com/track/6FH2pCTCx5HkevdqH1P20D) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [When The Sun Goes Down](https://open.spotify.com/album/2u43o2x6oU5twBqN0DiNqI) | 3:48 | 2022-05-18 | 2022-07-29 |

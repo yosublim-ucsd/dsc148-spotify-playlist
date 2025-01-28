@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 
 > Put yourself to sleep with delta frequencies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,958 likes - 129 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,003 likes - 129 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8h3zQNo57xG.md) - [plain]
 | 128 | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Careful Mind \(Delta 83 Hz \- 84 Hz\)](https://open.spotify.com/album/4yZmbSxZTXG24qQ0GNoqgX) | 4:37 |
 | 129 | [Delta Sleep Waves 84.4Hz \- 85.7Hz](https://open.spotify.com/track/5KHYjgWV3oxkX6UbY2iJBM) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:12 |
 
-Snapshot ID: `Z2LMnQAAAABUL6CSPUPDcLkAJw3Dyf/b`
+Snapshot ID: `Z5ec1gAAAABxKQp7B6OmOMl1J2f+pFn2`

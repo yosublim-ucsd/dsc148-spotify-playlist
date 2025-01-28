@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Eclat Story
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,530 likes - 96 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,576 likes - 96 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

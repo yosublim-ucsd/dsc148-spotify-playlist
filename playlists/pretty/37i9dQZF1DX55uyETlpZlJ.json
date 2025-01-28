@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Chandan Shetty",
-  "num_followers": 24317,
+  "num_followers": 24327,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5Nk6wAAAAArFfZXebAZ/szG6gEIV5vV",
+  "snapshot_id": "Z5d4OQAAAAAb/Tht4avg3WLfy/c7BeSa",
   "tracks": [
     {
       "added_at": "2025-01-07 12:47:04",
@@ -83,6 +83,38 @@
       "duration_ms": 186461,
       "name": "Madhura Saagara",
       "url": "https://open.spotify.com/track/0M2sipZTcTQTfhj6TthgnU"
+    },
+    {
+      "added_at": "2025-01-27 12:12:41",
+      "album": {
+        "name": "Nenapina Sagaradlli",
+        "url": "https://open.spotify.com/album/2pdVLRAz7nK21vOQavJKNl"
+      },
+      "artists": [
+        {
+          "name": "Chethan Shrinivas",
+          "url": "https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Nenapina Sagaradlli",
+      "url": "https://open.spotify.com/track/0O0l6M3ZGLkbIZEQfGuW4W"
+    },
+    {
+      "added_at": "2025-01-27 12:12:08",
+      "album": {
+        "name": "Thamma Kel",
+        "url": "https://open.spotify.com/album/0ZZ33eV5ntxd5aLYtWRyar"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Thamma Kel",
+      "url": "https://open.spotify.com/track/5mgMrUnTtrs3RdHM5aV7EO"
     },
     {
       "added_at": "2025-01-21 11:34:47",
@@ -1319,34 +1351,6 @@
       "duration_ms": 271209,
       "name": "BRAHMA BAREDA YAAKINGE",
       "url": "https://open.spotify.com/track/1tfn40F6YmXE7W4yEnDIL3"
-    },
-    {
-      "added_at": "2025-01-06 04:59:04",
-      "album": {
-        "name": "Iru Jothe Endhu",
-        "url": "https://open.spotify.com/album/7697h4IU2P4ddZaP4kwO24"
-      },
-      "artists": [
-        {
-          "name": "Dr Nithin S",
-          "url": "https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD"
-        },
-        {
-          "name": "Vaishnavi",
-          "url": "https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ"
-        },
-        {
-          "name": "Nishan S",
-          "url": "https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G"
-        },
-        {
-          "name": "Pramod Maravanthe",
-          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Iru Jothe Endhu",
-      "url": "https://open.spotify.com/track/7j8Bt3CSX0aQzUr8Wil4lN"
     },
     {
       "added_at": "2025-01-06 04:59:04",

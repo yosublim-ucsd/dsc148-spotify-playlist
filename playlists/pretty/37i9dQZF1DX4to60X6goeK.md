@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Georgie Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,781 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,805 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Bomb Squad \- Bou Remix](https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Bomb Squad \(Bou Remix\)](https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk) | 4:48 |
 | 55 | [OH SHIT](https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Dreps](https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2) | [OH SHIT](https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv) | 2:13 |
 
-Snapshot ID: `Z4DwSgAAAAAbuKcF4Ob1MyavHWMuRZTp`
+Snapshot ID: `Z5eg6gAAAADOmFfxdcjoz2FbpbTM0lKC`

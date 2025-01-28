@@ -6325,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/4h2xnaKa1f8T7ki3Fdmmmx"
+      },
+      "artists": [
+        {
+          "name": "Taxidermists",
+          "url": "https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96503,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/5Jp97FprZYGlTMM0tpiMTT"
+    },
+    {
+      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/0xwLWmM77s0319HTS6HJ4T"
       },
@@ -6394,6 +6412,24 @@
       "duration_ms": 139953,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7epmAvoQHWEXQKkESieryn"
+    },
+    {
+      "album": {
+        "name": "Scribble",
+        "url": "https://open.spotify.com/album/4cOGsGT3sE4PDiejAHrfai"
+      },
+      "artists": [
+        {
+          "name": "Scribble",
+          "url": "https://open.spotify.com/artist/3Ib4CzrIzFgmCUuu0kqyH8"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/4s8rwUpjO2RT0AiKhS827c"
     },
     {
       "album": {

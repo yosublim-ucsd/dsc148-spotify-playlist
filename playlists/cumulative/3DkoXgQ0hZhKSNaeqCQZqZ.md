@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-292 songs - 15 hr 24 min
+293 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [GLITCH](https://open.spotify.com/track/75PzX20N9fJpdCRsYLt4Dq) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [IAN STARR](https://open.spotify.com/artist/5BTyrWm7ePzkLX9czUxsWc) | [GLITCH](https://open.spotify.com/album/0z3bDfBUtxr3W6gv67wLPP) | 1:47 | 2024-12-16 |  |
 | [GOING TO PUNCH YOU](https://open.spotify.com/track/3iPdFhPWzJAlyGpafXmnjN) | [Labirhin](https://open.spotify.com/artist/2rYGNtQDYXTIbFHWYUCFqJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [GOING TO PUNCH YOU](https://open.spotify.com/album/597BsHHMigrZANoHToGSCo) | 4:26 | 2024-11-20 |  |
 | [Gorveve](https://open.spotify.com/track/2golnpSgmVjIgUjvlz4CWk) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:09 | 2025-01-25 |  |
+| [GOTH BITCH DUB \- 5p4M Remix](https://open.spotify.com/track/2nzVUvU3The7E3NRYVtZ5Z) | [621 gecs](https://open.spotify.com/artist/3NjokjblTaaMSU0aI74QfG), [5p4M](https://open.spotify.com/artist/5tXGRStVIEvCT3bncuaYyf) | [GOTH BITCH DUB: DARK MODE ACTIVATED](https://open.spotify.com/album/5LCXcFfKxBXdqzGrKoB9MN) | 3:03 | 2025-01-27 |  |
 | [Happier Than Ever](https://open.spotify.com/track/1jYALVAdoLsmP9Nh0g0W5Y) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [JTwusky](https://open.spotify.com/artist/1eUXPi6ctQSSt6y4VGZzGl) | [Happier Than Ever](https://open.spotify.com/album/6DzGmloBNUS7Cc6occWcrc) | 4:50 | 2024-01-18 |  |
 | [HEATDEATH](https://open.spotify.com/track/40MMRtYzfFgnXkPPpdYp6e) | [NOISE ARTIFACT](https://open.spotify.com/artist/6UojgIi7c86XvCyk5NCKs5) | [HEATDEATH](https://open.spotify.com/album/7wrOGqqfzuyvulI6NPkbOk) | 2:54 | 2024-07-22 |  |
 | [High Sky \- Remix](https://open.spotify.com/track/0rziGzCavNZsDVJl222JSb) | [Retri](https://open.spotify.com/artist/47aYUNg7lhL9arG8W8PSBW), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [High Sky \(Remix\)](https://open.spotify.com/album/3WfUus5Fo8QWjV3FwGYOtF) | 4:00 | 2024-02-09 |  |

@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Marry Me Again",
+        "url": "https://open.spotify.com/album/0mJfkkjsRf7VHkMSa1jQKB"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187463,
+      "name": "Marry Me Again",
+      "url": "https://open.spotify.com/track/0fPB8sy9eFUKcazRfP7HZE"
+    },
+    {
+      "album": {
         "name": "Let's Do Country Right",
         "url": "https://open.spotify.com/album/3iT8ACbErKCSxNmN19frzy"
       },
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 221868,
       "name": "Shallow (The Duet with Garth Brooks and Trisha Yearwood)",
       "url": "https://open.spotify.com/track/0SA1RVvy3x161K2PcW2CSO"

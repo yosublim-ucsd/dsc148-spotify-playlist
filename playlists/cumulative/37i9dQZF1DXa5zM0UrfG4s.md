@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-384 songs - 17 hr 32 min
+385 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bygda Vår](https://open.spotify.com/track/7yhjOBAgtIExnt9uRRmgiO) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygda Vår](https://open.spotify.com/album/62WlPC9vdBQV8zjE4HdiJP) | 4:06 | 2023-09-13 | 2023-09-22 |
 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2023-09-13 | 2024-08-18 |
 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 | 2023-06-15 |  |
+| [Bygdegut \(her er eg\)](https://open.spotify.com/track/5t4O0SahpSw7pavJBwGEC5) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bygdegut \(her er eg\)](https://open.spotify.com/album/0TiVDDgfK4JpMZaBlwYlrP) | 3:47 | 2025-01-27 |  |
 | [Bøgda](https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda](https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu) | 2:44 | 2021-12-16 | 2024-04-26 |
 | [Bøgda \- Remix](https://open.spotify.com/track/5Bz4qWEYrg4jCX9hWq1Pkh) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bøgda \(Remix\)](https://open.spotify.com/album/2JERhOqPI0H3ihKyqjBYt7) | 2:51 | 2024-04-04 | 2025-01-24 |
 | [Bøgdamann](https://open.spotify.com/track/58RhRKDcZ7gT2JAlbRWyUc) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Bøgdamann](https://open.spotify.com/album/7gFTlR2Nh47dXpgyw744zG) | 2:47 | 2023-03-09 | 2024-02-09 |
@@ -82,7 +83,7 @@
 | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/1cr0ryXVaePFlRl4lkmdf7) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/5JsBau0Y0oWV0j1fqJ2Xp3) | 2:53 | 2024-02-15 | 2024-03-22 |
 | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/track/4lkJBloFZ3aXhsezo8BgO1) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT) | [DET ÄR JU DEJ JAG GÅR OCH VÄNTAR PÅ](https://open.spotify.com/album/484DSeiUk7NvezjWAvI2iP) | 2:53 | 2023-09-28 | 2024-02-22 |
 | [Det årnær sæ](https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Det årnær sæ](https://open.spotify.com/album/5VUUm9IhL7migYIkyKwLe5) | 2:58 | 2021-12-16 | 2022-06-06 |
-| [Digge gutta](https://open.spotify.com/track/64LmSaPo5ZdoWRt711Akgi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:07 | 2024-10-17 |  |
+| [Digge gutta](https://open.spotify.com/track/64LmSaPo5ZdoWRt711Akgi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:07 | 2024-10-17 | 2025-01-28 |
 | [Digger deg](https://open.spotify.com/track/4nt7SCb3Nkp60GcLHfPn5Y) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Digger deg](https://open.spotify.com/album/2CjutmDqrsL14Ru3OhcwaD) | 3:06 | 2022-01-20 | 2022-07-28 |
 | [Diggy Liggy](https://open.spotify.com/track/1N6ZbLCBBnO43OVkr0t0LC) | [Teddy Nelson](https://open.spotify.com/artist/7s2dnP8BfaBimZOM4P0fFE) | [Diggy Liggy](https://open.spotify.com/album/5c6e85py9XmaFQBFvODfoC) | 2:16 | 2022-03-24 | 2022-04-21 |
 | [Distriktet](https://open.spotify.com/track/0tSNao38KTHqH4mNXywCEA) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651), [Kappa Laks](https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj) | [Distriktet](https://open.spotify.com/album/0XW2yFERF8vEvHkhxXU9rm) | 2:54 | 2022-01-20 | 2022-07-23 |

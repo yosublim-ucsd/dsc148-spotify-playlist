@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 
 > <a href="spotify:artist:3wc57nV2fGEoM8x4xPK1O9">Dixon</a>'s favorite tracks\. Updated regularly\. Curated by Dixon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,875 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,900 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMAcZLI8XCI.md) - [plain]
 | 39 | [Vacillator](https://open.spotify.com/track/2qaEUTFIjxaQJB8zHRJVWH) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 7:44 |
 | 40 | [Polkaism](https://open.spotify.com/track/1Ja66cVUWbnX5Cn9TjEJMu) | [Laurent Dury](https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj) | [Minimal Stories \(Parigo No\. 22\)](https://open.spotify.com/album/5mdfALHA6NyXz7msDxjLfX) | 2:04 |
 
-Snapshot ID: `Z5NWrAAAAAD+7oo5aTUnBXw/ZYVu1JPv`
+Snapshot ID: `Z5eWegAAAACircDMJk7MQXBfGdXaYf1E`

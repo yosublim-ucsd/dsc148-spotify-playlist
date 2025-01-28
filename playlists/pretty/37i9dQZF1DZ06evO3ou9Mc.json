@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 407460,
+  "num_followers": 407516,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QpgAAAAAA/8vlFxry3psY3Vdn1VdNI",
+  "snapshot_id": "Z5V7AAAAAADFhRuBtt4YaWfxnMG3hrdB",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 278440,
-      "name": "Hammerhead",
-      "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
+      "duration_ms": 189160,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 189160,
-      "name": "Trust In You",
-      "url": "https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw"
+      "duration_ms": 278440,
+      "name": "Hammerhead",
+      "url": "https://open.spotify.com/track/6LGeOxAohAJTZ0fxKXMqXa"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: prima stanza a destra
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,107 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,114 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [quando è tardi](https://open.spotify.com/track/2cQYsIpKFAAT4tim4q7KoY) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [AMANDA](https://open.spotify.com/album/0EOB3v9j52qO0JZ2rg6NLQ) | 1:56 |
-| 2 | [TI SCRIVEREI](https://open.spotify.com/track/1SOtWCEMKvpEgabXuyRxUx) | [THAEO](https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J) | [TI SCRIVEREI](https://open.spotify.com/album/5S03nIH67yLrJwWyr4pFr3) | 2:58 |
-| 3 | [FESTA](https://open.spotify.com/track/40mtBbIeH9h5rBjZ7q2loe) | [Iperiixo](https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv) | [FESTA](https://open.spotify.com/album/64jsstCeblWt2W0yzvCrlP) | 2:13 |
+| 2 | [FESTA](https://open.spotify.com/track/40mtBbIeH9h5rBjZ7q2loe) | [Iperiixo](https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv) | [FESTA](https://open.spotify.com/album/64jsstCeblWt2W0yzvCrlP) | 2:13 |
+| 3 | [TI SCRIVEREI](https://open.spotify.com/track/1SOtWCEMKvpEgabXuyRxUx) | [THAEO](https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J) | [TI SCRIVEREI](https://open.spotify.com/album/5S03nIH67yLrJwWyr4pFr3) | 2:58 |
 | 4 | [Piazza Centrale](https://open.spotify.com/track/18Qwl091shcZXWQJVu1ALh) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Piazza Centrale](https://open.spotify.com/album/2R2v7AI4Z6B9a8OFqhQ1WW) | 3:38 |
 | 5 | [La canzone più triste](https://open.spotify.com/track/24KXWEGZLQ1FmTA44pIMIf) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [La canzone più triste](https://open.spotify.com/album/0oLdb4ykACnF6Ny6u5QJOK) | 3:16 |
 | 6 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [PARTITA A SCACCHI](https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [PARTITA A SCACCHI](https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49) | 3:08 |
 | 100 | [temporale](https://open.spotify.com/track/2GuzXPKvxMIWvghTeUSeZI) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [temporale](https://open.spotify.com/album/24oXNujZs5H0WxHplyXeVb) | 2:44 |
 
-Snapshot ID: `Z5LKTwAAAADdYGupPgTkN47/a9k0Lpn+`
+Snapshot ID: `Z5dRpgAAAACTfDzblGpVrAoiMh0MJ4LC`

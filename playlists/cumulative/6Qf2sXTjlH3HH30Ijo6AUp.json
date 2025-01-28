@@ -2151,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "Hot For You Baby",
+        "url": "https://open.spotify.com/album/06UN5FS25CSUgSyqrpZxp8"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283103,
+      "name": "Hot For You Baby",
+      "url": "https://open.spotify.com/track/7LYGiSEES9KJlThWIkNbGF"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -5298,7 +5316,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"

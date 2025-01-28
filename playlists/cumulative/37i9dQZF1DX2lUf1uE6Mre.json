@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "GOVA",
+        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "Juana auf Snapchat",
+      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
+    },
+    {
+      "album": {
         "name": "Jung & machen Geld",
         "url": "https://open.spotify.com/album/6dUdLyCrv5lFjki79qSGLh"
       },
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 161237,
       "name": "Wenn du mich siehst",
       "url": "https://open.spotify.com/track/4utjEtHZpJmCqdD9KtpBJi"

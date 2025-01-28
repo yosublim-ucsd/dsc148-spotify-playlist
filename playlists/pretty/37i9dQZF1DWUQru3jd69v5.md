@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > RRARI DAL TACCO in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,343 likes - 61 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,330 likes - 61 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 7 | [G II](https://open.spotify.com/track/3HUPMluR4pzVtC1tVdcxlh) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [G II](https://open.spotify.com/album/3qo652f9S3cLUEHQcCz4XG) | 2:33 |
 | 8 | [Assolo](https://open.spotify.com/track/4qwZ6vYaOcrjRgoySJN6FW) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Kimble](https://open.spotify.com/artist/29w7cTRBrov7bDdWYDrWwM) | [Assolo](https://open.spotify.com/album/7iJAtuDChMdDnDD48XKjx3) | 2:16 |
 | 9 | [MERITO IL PREMIO \(SCHETTINO FLOW\)](https://open.spotify.com/track/7y0ItLQOdhKCeNIr1BwQW5) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq) | [MERITO IL PREMIO \(SCHETTINO FLOW\)](https://open.spotify.com/album/74yfDONhqg5qLnCMHLNeFE) | 2:03 |
-| 10 | [Santo Domingo](https://open.spotify.com/track/2WLXU9SmXgcxPC3gfLfhLX) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [MC30](https://open.spotify.com/album/5dhZ6Rpkqyg3QRbBMBQEgS) | 2:06 |
+| 10 | [Santo Domingo](https://open.spotify.com/track/2WLXU9SmXgcxPC3gfLfhLX) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd), [Lucifer](https://open.spotify.com/artist/31r6yVmmkwBaiF1PEJahvP) | [MC30](https://open.spotify.com/album/5dhZ6Rpkqyg3QRbBMBQEgS) | 2:06 |
 | 11 | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/album/1kVpGWPrFHLWXogTepm0fr) | 3:37 |
 | 12 | [Man Down 3!](https://open.spotify.com/track/4rSfjYpGAac0MwfQ1RXUvf) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Man Down 3!](https://open.spotify.com/album/2eBm5IPjsjOk6viusZcWkT) | 2:55 |
 | 13 | [6 AM](https://open.spotify.com/track/36Id1ziq4J8BqtxrwxRFu8) | [Cimo](https://open.spotify.com/artist/0avMRzInbLJgZbegtymOQ3), [Frisio](https://open.spotify.com/artist/5y5Lf6igP3nDIifegEhoNF) | [6 AM](https://open.spotify.com/album/5ieiLk5ERupOn7vRlJOybj) | 2:21 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 60 | [MOB](https://open.spotify.com/track/5bOnfzY2D7tHEhYgrIDfBo) | [raili](https://open.spotify.com/artist/4a3JcHZa8hyE8HqFqcQIlI) | [MOB](https://open.spotify.com/album/5Pq9UgqqMpAYFlNZWKNCLE) | 3:36 |
 | 61 | [NON RALLENTI MAI](https://open.spotify.com/track/4a6ogwxxOXsnw9iORCrdUl) | [HEVA](https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z) | [ESORDIO](https://open.spotify.com/album/7satvpXjYURRriEn48rk6k) | 2:26 |
 
-Snapshot ID: `Z5LKTgAAAAAIs6fqjl8bBqa1qkLAxOyF`
+Snapshot ID: `Z5ehUwAAAABuZS35fFXIc0ugTXYzpZ5d`

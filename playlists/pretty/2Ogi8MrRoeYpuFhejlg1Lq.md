@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Ogi8MrRoeYpuFhejlg1Lq.md) - [plain]
 
 > icy thot
 
-[sam](https://open.spotify.com/user/samanthafukutaki) - 4 likes - 20 songs - 1 hr 12 min
+[sam](https://open.spotify.com/user/samanthafukutaki) - 2,760 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

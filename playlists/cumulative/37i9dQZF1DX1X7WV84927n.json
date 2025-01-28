@@ -8163,6 +8163,24 @@
     },
     {
       "album": {
+        "name": "HUMAN FIRE",
+        "url": "https://open.spotify.com/album/0YtytpnCETCNjeSeb8CPiU"
+      },
+      "artists": [
+        {
+          "name": "Wig Wam",
+          "url": "https://open.spotify.com/artist/5EzPaejJ1QA4wkTLV37e60"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182940,
+      "name": "HUMAN FIRE",
+      "url": "https://open.spotify.com/track/4j7zdykqA9rehmusXdRS4w"
+    },
+    {
+      "album": {
         "name": "Human Xstacy",
         "url": "https://open.spotify.com/album/2Ln2b7BxELYDs3jDH0qBqK"
       },
@@ -13950,7 +13968,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 204906,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/6CBzAoZQxtQRijpauBTYRG"
@@ -14308,6 +14326,24 @@
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "album": {
+        "name": "Rest For The Wicked",
+        "url": "https://open.spotify.com/album/7cGqhALsDNf0sr9sH6X25q"
+      },
+      "artists": [
+        {
+          "name": "Any Given Sin",
+          "url": "https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Rest For The Wicked",
+      "url": "https://open.spotify.com/track/6t9cg6RUM04Ge4AldgPcEM"
     },
     {
       "album": {
@@ -19618,7 +19654,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 237378,
       "name": "Voodoo Doll (feat. Eva Under Fire)",
       "url": "https://open.spotify.com/track/5NcvwkdGZCJ8CgJTXSI2Jt"

@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 59138,
+  "num_followers": 59152,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 279533,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Nice Up The Dance",
-        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
-      },
-      "artists": [
-        {
-          "name": "Kabaka Pyramid",
-          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
-        }
-      ],
-      "duration_ms": 212795,
-      "name": "Nice Up The Dance",
-      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Heart Of The Congos",
         "url": "https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
-        "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
+        "name": "Nice Up The Dance",
+        "url": "https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ"
       },
       "artists": [
         {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
         }
       ],
-      "duration_ms": 175680,
-      "name": "Babylon Too Rough",
-      "url": "https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz"
+      "duration_ms": 212795,
+      "name": "Nice Up The Dance",
+      "url": "https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -507,6 +491,22 @@
       "duration_ms": 211960,
       "name": "Sycamore Tree",
       "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
+        "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Babylon Too Rough",
+      "url": "https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -559,6 +559,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Extra Raw: The First Lady Of Dancehall",
+        "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Man Is The Least",
+      "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Stop That Train",
         "url": "https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "One Man Against The World",
-        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
-      },
-      "artists": [
-        {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
-        }
-      ],
-      "duration_ms": 369573,
-      "name": "Rumours",
-      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Sweep Over My Soul",
         "url": "https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Extra Raw: The First Lady Of Dancehall",
-        "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
+        "name": "One Man Against The World",
+        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
       },
       "artists": [
         {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
         }
       ],
-      "duration_ms": 230573,
-      "name": "Man Is The Least",
-      "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
+      "duration_ms": 369573,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Big Big",
-        "url": "https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH"
-      },
-      "artists": [
-        {
-          "name": "Christopher Martin",
-          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
-        }
-      ],
-      "duration_ms": 182828,
-      "name": "Big Big",
-      "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Reggae Gold 2012",
         "url": "https://open.spotify.com/album/6ZETpi6qYuaLSvgs57jbVS"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/2BDTYAe51lKG7w5XMCVeyg"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Big Big",
+        "url": "https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH"
+      },
+      "artists": [
+        {
+          "name": "Christopher Martin",
+          "url": "https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj"
+        }
+      ],
+      "duration_ms": 182828,
+      "name": "Big Big",
+      "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
     }
   ],
   "unique_name": "Legendary Labels: VP Records",

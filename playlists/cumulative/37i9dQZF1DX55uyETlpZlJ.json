@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 220500,
       "name": "Iru Jothe Endhu",
       "url": "https://open.spotify.com/track/7j8Bt3CSX0aQzUr8Wil4lN"
@@ -6399,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "Nenapina Sagaradlli",
+        "url": "https://open.spotify.com/album/2pdVLRAz7nK21vOQavJKNl"
+      },
+      "artists": [
+        {
+          "name": "Chethan Shrinivas",
+          "url": "https://open.spotify.com/artist/4xCYkVYorLsSPfALQ9FLem"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "Nenapina Sagaradlli",
+      "url": "https://open.spotify.com/track/0O0l6M3ZGLkbIZEQfGuW4W"
+    },
+    {
+      "album": {
         "name": "Nenapina Setuve",
         "url": "https://open.spotify.com/album/4bOC609dc5Qf2gyMKU6ZZz"
       },
@@ -8510,6 +8528,24 @@
       "duration_ms": 177773,
       "name": "Test drive (featuring Swastik)",
       "url": "https://open.spotify.com/track/2duEvDFatZxlBpSRBXIawO"
+    },
+    {
+      "album": {
+        "name": "Thamma Kel",
+        "url": "https://open.spotify.com/album/0ZZ33eV5ntxd5aLYtWRyar"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Thamma Kel",
+      "url": "https://open.spotify.com/track/5mgMrUnTtrs3RdHM5aV7EO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Fui Mlk e os funks mais 🔑 do Brasil\. Foto: Nilo, Mc Paiva ZS
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,477,115 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,478,250 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Subindo e Descendo](https://open.spotify.com/track/4F3XVx6fmZvWLBqmBG1gxg) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [Mc Topre](https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy) | [Alcateia](https://open.spotify.com/album/5ds061BRZCKGmFLpq1Cwok) | 3:12 |
 | 50 | [Conselho da Minha Ex](https://open.spotify.com/track/4eOZLlPpkrnvm8EmU20IqM) | [DJ JOAO DA INESTAN](https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [Conselho da Minha Ex](https://open.spotify.com/album/0FCr0p4rgWqFOGWfTJJ8qw) | 1:47 |
 
-Snapshot ID: `Z5PKcwAAAAAnSDnjl/T+kLmbAE3yZrkd`
+Snapshot ID: `Z5egoQAAAACoC8LldAuSNIK6e4hNAzcB`

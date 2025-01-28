@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 754 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [В чуждите очи](https://open.spotify.com/track/21SQFSO5iD87UoxKOQhSaO) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Tomas](https://open.spotify.com/artist/48MmYtebtmsS7LjcYwGBWk), [Alex Robov](https://open.spotify.com/artist/3dUX6G8rrysXN3GVdfpOBA) | [В чуждите очи](https://open.spotify.com/album/0ZyFgIhm9zUQjfNXK6SPwQ) | 3:15 |
 | 50 | [Havana](https://open.spotify.com/track/3krDdyri6NeeU7FwTiAniq) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Havana](https://open.spotify.com/album/4Fp1TGVc2iUXRqNN1cExmC) | 2:42 |
 
-Snapshot ID: `LymiyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lyr0SAAAAAAAAAAAAAAAAAAAAAAAAGVu`

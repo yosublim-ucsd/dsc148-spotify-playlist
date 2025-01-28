@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-442 songs - 1 day 2 hr 48 min
+443 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2021-04-02 | 2024-07-06 |
 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 | 2023-12-01 | 2024-12-04 |
 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 | 2022-07-15 |  |
-| [Better Alone](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Mirage](https://open.spotify.com/album/5OiM0enXs1WLv4zZ79sJ3x) | 3:14 | 2024-06-28 |  |
+| [Better Alone](https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Mirage](https://open.spotify.com/album/5OiM0enXs1WLv4zZ79sJ3x) | 3:14 | 2024-06-28 | 2025-01-28 |
 | [Better Days](https://open.spotify.com/track/01KaVHhy0tzsHoeWUdHtUp) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [Better Days](https://open.spotify.com/album/1Q2Pcq3RR5ZFtaYUbS5Qub) | 3:24 | 2024-06-17 | 2024-07-13 |
 | [Better Nights](https://open.spotify.com/track/1ts3V3FF6It4MB8SRSiWFd) | [LOST LIKE US](https://open.spotify.com/artist/3HdDenuk2AgR6ovskT428h) | [Better Nights](https://open.spotify.com/album/7b53SDEDfJrFmaSyRPUMAG) | 3:03 | 2024-09-06 | 2024-11-09 |
 | [better off](https://open.spotify.com/track/6IfQgvL7w7Pc8oTG4rz0Q6) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [better off](https://open.spotify.com/album/5drwxFFxlPrea3j1ZQXxkl) | 4:50 | 2024-06-28 | 2024-08-24 |
@@ -109,6 +109,7 @@
 | [Don't Fall in Love](https://open.spotify.com/track/08wEcfIEXMRvgzXVrOED8B) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Solace](https://open.spotify.com/album/3BZHVbIcj4cfUNDecwYDHR) | 3:21 | 2024-04-12 | 2024-04-19 |
 | [don't miss me too much \(Aaron Redding Remix\)](https://open.spotify.com/track/47N2vh7GLGtGrxE7xMBjoh) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Aaron Redding](https://open.spotify.com/artist/1kUNK3Uk9u4GSyXCyJmeXv) | [don't miss me too much \(remixes\)](https://open.spotify.com/album/3E1EF7PnT9AOtijAxG450q) | 3:10 | 2024-03-01 | 2024-04-13 |
 | [Don't Say Goodbye](https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Don't Say Goodbye](https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA) | 3:08 | 2024-05-17 |  |
+| [Don't Worry](https://open.spotify.com/track/4Q9ZUCGB0K3QDCNQBeV8GQ) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr) | [Don't Worry](https://open.spotify.com/album/2Y6ruoZW1oH8TXM5r6Fy99) | 2:51 | 2025-01-24 |  |
 | [Don't You Cry](https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov) | [Don't You Cry](https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg) | 4:06 | 2024-04-05 |  |
 | [Driving Fast](https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Driving Fast](https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8) | 3:07 | 2024-11-08 |  |
 | [Echo Of You](https://open.spotify.com/track/1i0PNueAftDJuAWWnTQsCx) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Echo Of You](https://open.spotify.com/album/6TJrzV02OC57GC2sExG41G) | 3:01 | 2025-01-17 |  |

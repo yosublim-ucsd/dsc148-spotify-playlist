@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1005740,
+  "num_followers": 1005713,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -423,38 +423,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "If Not Now?",
-        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Theirs13",
-      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "I'll Still Call",
         "url": "https://open.spotify.com/album/7lWAeNIi1tL8tva47N5lnz"
       },
@@ -483,6 +451,38 @@
       "duration_ms": 251690,
       "name": "Humans",
       "url": "https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "If Not Now?",
+        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Theirs13",
+      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "Craterellus Tubaeformis",
-        "url": "https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ"
-      },
-      "artists": [
-        {
-          "name": "Skinshape",
-          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "Float Back To You",
         "url": "https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 135752,
       "name": "Broom",
       "url": "https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Craterellus Tubaeformis",
+        "url": "https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ"
+      },
+      "artists": [
+        {
+          "name": "Skinshape",
+          "url": "https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "PHANTOM OF THE AFTERS",
-        "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
-      },
-      "artists": [
-        {
-          "name": "Kojaque",
-          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
-        },
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 182259,
-      "name": "WOOF",
-      "url": "https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "Caf\u00e9 Noir",
         "url": "https://open.spotify.com/album/44x1XWvcEwzLN9EBxRIwDI"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 140800,
       "name": "Fallin 4 Ya Luv",
       "url": "https://open.spotify.com/track/2oCNvjR0wSsPzfDxmcoyqb"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "PHANTOM OF THE AFTERS",
+        "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 182259,
+      "name": "WOOF",
+      "url": "https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
+        "name": "What's Your Motive",
+        "url": "https://open.spotify.com/album/0Agt8lNHXUtNqaNfXdF4JH"
+      },
+      "artists": [
+        {
+          "name": "The Hails",
+          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
+        }
+      ],
+      "duration_ms": 200961,
+      "name": "Fiona",
+      "url": "https://open.spotify.com/track/5R5bBeonMDFY4VX4DqjNgC"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
         "name": "Charlie (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 291536,
       "name": "Charlie (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
-        "name": "What's Your Motive",
-        "url": "https://open.spotify.com/album/0Agt8lNHXUtNqaNfXdF4JH"
-      },
-      "artists": [
-        {
-          "name": "The Hails",
-          "url": "https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT"
-        }
-      ],
-      "duration_ms": 200961,
-      "name": "Fiona",
-      "url": "https://open.spotify.com/track/5R5bBeonMDFY4VX4DqjNgC"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB"
-      },
-      "artists": [
-        {
-          "name": "Morning Silk",
-          "url": "https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "HOMESICK",
         "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 327000,
       "name": "Evening News",
       "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB"
+      },
+      "artists": [
+        {
+          "name": "Morning Silk",
+          "url": "https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd"
     },
     {
       "added_at": "2024-12-20 05:00:37",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Get Well",
+      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
         "name": "Future Reference",
         "url": "https://open.spotify.com/album/4tCSd29eiXYeQoGZ15GTjg"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Get Well",
-      "url": "https://open.spotify.com/track/2HL9AWMPtGWxPEYyEdpdaU"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "Candy / How many miles",
         "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-12-20 05:00:37",
       "album": {
-        "name": "Pixie Dust",
-        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 183716,
-      "name": "Pixie Dust",
-      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
-    },
-    {
-      "added_at": "2024-12-20 05:00:37",
-      "album": {
         "name": "Dick Arkive: Issue 2",
         "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 242345,
       "name": "I Think I Lost That Love",
       "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+    },
+    {
+      "added_at": "2024-12-20 05:00:37",
+      "album": {
+        "name": "Pixie Dust",
+        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 183716,
+      "name": "Pixie Dust",
+      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
     },
     {
       "added_at": "2024-12-20 05:00:37",

@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 231645,
+  "num_followers": 231682,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,30 @@
     {
       "added_at": "2025-01-24 21:08:03",
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
+    },
+    {
+      "added_at": "2025-01-24 21:08:03",
+      "album": {
         "name": "Fade Out (with MKLA)",
         "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
       },
@@ -1439,30 +1463,6 @@
     {
       "added_at": "2025-01-24 21:08:03",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2025-01-24 21:08:03",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/2aF7ZqZsOq3VchQimJRRHe"
       },
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-01-24 21:08:03",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
-    },
-    {
-      "added_at": "2025-01-24 21:08:03",
-      "album": {
         "name": "ORIGIN (Deluxe)",
         "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 187675,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
+    },
+    {
+      "added_at": "2025-01-24 21:08:03",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 198451,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
     },
     {
       "added_at": "2025-01-24 21:08:03",
@@ -2279,18 +2279,18 @@
     {
       "added_at": "2025-01-24 21:08:03",
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/0drD49MS1Um3TlYdJS9Ib3"
+        "name": "Don't Worry",
+        "url": "https://open.spotify.com/album/2Y6ruoZW1oH8TXM5r6Fy99"
       },
       "artists": [
         {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
         }
       ],
-      "duration_ms": 249225,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM"
+      "duration_ms": 171428,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/4Q9ZUCGB0K3QDCNQBeV8GQ"
     },
     {
       "added_at": "2025-01-24 21:08:03",
@@ -2315,18 +2315,18 @@
     {
       "added_at": "2025-01-24 21:08:03",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/5OiM0enXs1WLv4zZ79sJ3x"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/0drD49MS1Um3TlYdJS9Ib3"
       },
       "artists": [
         {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
         }
       ],
-      "duration_ms": 194392,
-      "name": "Better Alone",
-      "url": "https://open.spotify.com/track/7fsiHd1FrQjjBdHvMA7uY7"
+      "duration_ms": 249225,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM"
     }
   ],
   "unique_name": "crying on the dance floor",

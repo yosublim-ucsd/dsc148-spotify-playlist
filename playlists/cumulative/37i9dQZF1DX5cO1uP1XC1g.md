@@ -2,7 +2,7 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The Hottest Arabic Music.<br/>Cover: Ahmed Saad
+> The Hottest Arabic Music.<br/>Cover: Tamer Ashour
 
 411 songs - 1 day 0 hr 49 min
 

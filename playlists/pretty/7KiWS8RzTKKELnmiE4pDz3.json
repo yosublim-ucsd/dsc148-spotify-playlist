@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAd3dTXYquyR7mQptFBjC+QxhUESF4C",
+  "snapshot_id": "AAAd4HhBre0nYp/rise0N7puPyoJ1btB",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -3359,6 +3359,54 @@
       "duration_ms": 222119,
       "name": "5 Dollar Pony Rides",
       "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
+    },
+    {
+      "added_at": "2025-01-27 23:25:58",
+      "album": {
+        "name": "Hello Miss Johnson",
+        "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 164747,
+      "name": "Hello Miss Johnson",
+      "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
+    },
+    {
+      "added_at": "2025-01-28 01:19:50",
+      "album": {
+        "name": "Still Brazy (Deluxe)",
+        "url": "https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Bool, Balm & Bollective",
+      "url": "https://open.spotify.com/track/0UmV17gerlXy4V3wuOUWPo"
+    },
+    {
+      "added_at": "2025-01-28 01:24:32",
+      "album": {
+        "name": "Still Brazy (Deluxe)",
+        "url": "https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Who Shot Me?",
+      "url": "https://open.spotify.com/track/20F9XLcFdWcI2yS74hHQ99"
     }
   ],
   "unique_name": "main ",

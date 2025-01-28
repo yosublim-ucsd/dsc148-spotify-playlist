@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAClhXkjrBqpfe6eavfOZTBB",
+  "snapshot_id": "AAAAAAAAAABCKT1/wJCDFnuuhUBUY7w3",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:00",
@@ -147,26 +147,6 @@
       "duration_ms": 196386,
       "name": "The Move",
       "url": "https://open.spotify.com/track/2XeoPCq3tFl7nwdvUr8Pps"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Thrill Seeker: 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        },
-        {
-          "name": "Adam Dutkiewicz",
-          "url": "https://open.spotify.com/artist/7MQmvww3EAbsmv7p1O0ufN"
-        }
-      ],
-      "duration_ms": 243281,
-      "name": "Speech Impediment",
-      "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -383,6 +363,22 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
         "name": "Alter Ego (feat. Eminem)",
         "url": "https://open.spotify.com/album/2LUWCihTuzpeW2POZhClra"
       },
@@ -463,22 +459,6 @@
       "duration_ms": 348553,
       "name": "I'm on 4.0",
       "url": "https://open.spotify.com/track/6seyIInTwPGCr18JBSCDRo"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Glass Shatters (New Mix)",
-        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 244397,
-      "name": "Glass Shatters - New Mix",
-      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -623,6 +603,26 @@
       "duration_ms": 246853,
       "name": "A Melancholy",
       "url": "https://open.spotify.com/track/5oJsQtznN1gxjv2Akf7wi9"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "The Call That Never Ended, Pt. 1",
+        "url": "https://open.spotify.com/album/01CTkUKTpiRO6XCAoJH9F4"
+      },
+      "artists": [
+        {
+          "name": "Drude",
+          "url": "https://open.spotify.com/artist/3vQjl2sfogIo5VGFrh4at6"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 105048,
+      "name": "Baawe She Callin",
+      "url": "https://open.spotify.com/track/1cgtnrPjZpHdeRkIrSiFsc"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

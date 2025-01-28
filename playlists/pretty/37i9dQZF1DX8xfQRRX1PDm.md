@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Bad Newz
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,116 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,393 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Zingaat](https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Dhadak \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA) | 3:46 |
 | 75 | [Khalibali](https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1) | [Shivam Pathak](https://open.spotify.com/artist/39nPl2OnVXyxuBApjXkGmj), [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9), [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp) | [Padmaavat](https://open.spotify.com/album/7mZB5aUcjoHfDKSQtDRXrf) | 4:18 |
 
-Snapshot ID: `Z5DKoQAAAACg9EhQPZmAU9rinl6I8Ev3`
+Snapshot ID: `Z5eiTgAAAAAjlq6GCU6VPInWFLCdYFx3`

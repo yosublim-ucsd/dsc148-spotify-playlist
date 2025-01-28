@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Moa Rivera
 
-572 songs - 1 day 8 hr 35 min
+573 songs - 1 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Cada Día](https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd) | [Siendo Yo](https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG) | 4:05 | 2022-07-19 | 2023-02-14 |
 | [Cada Ves Te Extraño Más](https://open.spotify.com/track/2jNPwc6cNzigjSXnhT2JKC) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [Sandronyc](https://open.spotify.com/artist/5kmkNsW1vHzkOiG5nB3jsp) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/29O8xR6EgbPGmjCrwV7aB8) | 3:29 | 2022-07-19 | 2023-01-14 |
 | [Cala En El Alma](https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Cala En El Alma](https://open.spotify.com/album/2DEkSigFOQ5qfwPiFKTG47) | 3:01 | 2024-09-20 | 2024-11-30 |
-| [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-16 |  |
+| [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-16 | 2025-01-28 |
 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 | 2023-07-07 | 2024-04-06 |
 | [Calumnia](https://open.spotify.com/track/2AX7b01Rmdf215GOK3OIF8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Calumnia](https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX) | 3:05 | 2024-03-08 | 2024-06-29 |
 | [Canaima](https://open.spotify.com/track/3W7KwglhgkvB6C6geMbdG0) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Canaima](https://open.spotify.com/album/0JJhhN6M64SeDDCIFvA1ok) | 2:29 | 2023-07-07 | 2023-08-19 |
@@ -143,6 +143,7 @@
 | [Devuélveme](https://open.spotify.com/track/48BbpvKGJdh88imU1lvPa0) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q) | [Devuélveme](https://open.spotify.com/album/5Aado9i2Z6phDjkDieB7ZR) | 3:15 | 2022-01-01 | 2022-06-30 |
 | [Di Que Sí](https://open.spotify.com/track/3SwU6NpaZ257IYLkOINHuM) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Di Que Sí](https://open.spotify.com/album/3nqE0CkDhzUuvWV5D3uPRg) | 3:07 | 2024-05-17 | 2024-07-13 |
 | [Dicen en mi Barrio](https://open.spotify.com/track/1JuPGhXphzWrADfz8ZtO4f) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Aún Me Sigo Encontrando](https://open.spotify.com/album/5h5LYj1q3fHaol9hIF6sQx) | 3:03 | 2024-05-10 | 2024-07-27 |
+| [Dime](https://open.spotify.com/track/6NuyWrCUmOsoI7QY2ctvtD) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime](https://open.spotify.com/album/1N3cFEsXs9SKnnW4YE0Ks5) | 2:59 | 2025-01-27 |  |
 | [Dime \- Salsa](https://open.spotify.com/track/72lcWU4PrmDIVzJLBG5p7C) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Dime \(Salsa\)](https://open.spotify.com/album/6ojbNRqGpAAJVRxq2wxGJf) | 3:51 | 2022-01-01 | 2022-04-29 |
 | [Dime Cómo Se Siente](https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime Cómo Se Siente](https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ) | 2:40 | 2023-10-06 | 2024-04-06 |
 | [Dime Que Me Amas](https://open.spotify.com/track/2SEypzXYAHVxK31W7QhOZI) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Dime Que Me Amas](https://open.spotify.com/album/5H96OR41CZ6eqodDCTFqNV) | 2:38 | 2022-01-01 | 2022-06-30 |

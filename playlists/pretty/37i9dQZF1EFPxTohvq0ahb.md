@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,397 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,396 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 68 | [Outta Here](https://open.spotify.com/track/4qiTM5v9HzIUj0KZMod8GG) | [Esmée Denters](https://open.spotify.com/artist/4ZfZ9troLXZsAVxcvXKXnV) | [Outta Here \(International Version\)](https://open.spotify.com/album/2qhJWYrgBn0oqSIlutu5xh) | 3:21 |
 | 69 | [The Beautiful People \- Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/track/0uSHKgNOrllkfSki78JMBK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Burlesque Original Motion Picture Soundtrack](https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3) | 3:32 |
 | 70 | [Never Ever \(feat\. Jeezy\)](https://open.spotify.com/track/4pFST1TizXzxezYLFFTcYn) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Fantasy Ride](https://open.spotify.com/album/6TpQvLoBuLgVM2XDSJ1VF9) | 4:32 |
-| 71 | [Hot Tottie \(feat\. Jay\-Z\)](https://open.spotify.com/track/1Vot6YSxInL52SGTN0XN9n) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:59 |
+| 71 | [Hot Tottie \(feat\. JAY\-Z\)](https://open.spotify.com/track/1Vot6YSxInL52SGTN0XN9n) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:59 |
 | 72 | [Fool In Love](https://open.spotify.com/track/6ikk2CSM0lLh4WpY3qH7IA) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Deluxe Explicit\)](https://open.spotify.com/album/3oQebIVUPY0IPiROZSIQFl) | 4:15 |
 | 73 | [Always Be Together](https://open.spotify.com/track/37kFlpLhkRrPA1AQ8ZAyqb) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 4:28 |
 | 74 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 163 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 | 164 | [Stay](https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA) | 3:49 |
 
-Snapshot ID: `Abn7lAAAAADbSSjcpAOhZ2ER7bXg5Dni`
+Snapshot ID: `AboBFgAAAACeF8e9yXUwRu2PpsfgixFj`

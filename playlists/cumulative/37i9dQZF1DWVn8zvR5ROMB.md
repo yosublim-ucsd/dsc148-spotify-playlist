@@ -4,7 +4,7 @@
 
 > All of the newest country songs in one playlist! Featuring Lauren Alaina, Kane Brown, Max McNown and more.
 
-8,798 songs - 20 day 1 hr 33 min
+8,799 songs - 20 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -871,6 +871,7 @@
 | [Blue Eyed Constellation](https://open.spotify.com/track/2qslrX6hylkvFTfQ6p8Rhm) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Blue Eyed Constellation](https://open.spotify.com/album/6y45mq9RVJVkAiZiOmUvpw) | 3:53 | 2023-07-21 | 2023-07-29 |
 | [Blue Eyes Crying in the Rain](https://open.spotify.com/track/3lpVFeyh92JhY6nmOhWcQ4) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Blue Eyes Crying in the Rain](https://open.spotify.com/album/6z3GpVMoF41dY6B28Fmk2v) | 2:56 | 2023-03-03 | 2023-03-11 |
 | [Blue Guitar](https://open.spotify.com/track/6Ckb5FMJHjZh2dFFyfn4RP) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Blue Guitar](https://open.spotify.com/album/7p8eJUdGjDoKuwDNGAu1Wn) | 3:30 | 2022-08-05 | 2022-08-13 |
+| [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 | 2025-01-27 |  |
 | [Blue Jean Masterpiece](https://open.spotify.com/track/27vFxHgbfyhmyQO0BOEYW4) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [Blue Jean Masterpiece](https://open.spotify.com/album/4mq8g0JxrnZSzm15qYJgBo) | 2:55 | 2023-09-08 | 2023-09-16 |
 | [Blue Jeans, Blue Eyes, Blue Skies](https://open.spotify.com/track/0DFiAZUCJW4gx3vosfOMxZ) | [Patrick Murphy](https://open.spotify.com/artist/2GV1qOwwdkJFVbDL4u6rlh) | [Blue Jeans, Blue Eyes, Blue Skies](https://open.spotify.com/album/4MS37aQApw813pA8Va9PGL) | 4:40 | 2022-06-03 | 2022-06-18 |
 | [Blue Over You](https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Blue Over You](https://open.spotify.com/album/1DAz6NgojMSptSktSRV8oA) | 4:05 | 2024-02-23 | 2024-03-02 |

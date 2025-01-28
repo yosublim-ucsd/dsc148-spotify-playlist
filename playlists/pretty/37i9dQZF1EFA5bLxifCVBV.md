@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87 likes - 193 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 193 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 83 | [Free and Equal Blues](https://open.spotify.com/track/6lhdFMZRCRwPGvwYe4bXcP) | [Josh White](https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb) | [The Story Of John Henry..\. A Musical Narrative](https://open.spotify.com/album/66z5jhUnq0p2Nh1ChBoYdu) | 3:51 |
 | 84 | [Never Trust A Friend](https://open.spotify.com/track/7KMFVVwIeNEocj1xMjcFQY) | [Chaotic Dischord](https://open.spotify.com/artist/3wtA3NrxZk9no4ltkbTEVb) | [Now! That's What I Call A Fuckin' Racket, Vol\. 1](https://open.spotify.com/album/7qvBQEwrVzZyjACSVVSIo8) | 2:08 |
 | 85 | [Green Eyes](https://open.spotify.com/track/32TC1Ay0ccXZz8zSTHq5Jx) | [Tommy Dorsey / Jimmy Dorsey](https://open.spotify.com/artist/4gRI1O2PDMRfIV1pFShRcj) | [The Dorsey Brothers](https://open.spotify.com/album/2UfILZ3cxaEgaXYjeikYEe) | 3:15 |
-| 86 | [Mewette \- Remastered Version](https://open.spotify.com/track/3y3zhrwmKd9T5oIOu4DGJR) | [Gay Purr\-ee \- Robert Goulet](https://open.spotify.com/artist/3VvHG57lT5KbYI8ZIMGTh9) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 1:09 |
-| 87 | [The Farmer's Daughter \- Live](https://open.spotify.com/track/6oYQCkPMDqap7y0IxeJjhl) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Sing Me Back Home: The Music Of Merle Haggard \(Live\)](https://open.spotify.com/album/3LILuEUwV5dBr7wjw8ESk2) | 2:55 |
+| 86 | [The Farmer's Daughter \- Live](https://open.spotify.com/track/6oYQCkPMDqap7y0IxeJjhl) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Sing Me Back Home: The Music Of Merle Haggard \(Live\)](https://open.spotify.com/album/3LILuEUwV5dBr7wjw8ESk2) | 2:55 |
+| 87 | [Mewette \- Remastered Version](https://open.spotify.com/track/3y3zhrwmKd9T5oIOu4DGJR) | [Gay Purr\-ee \- Robert Goulet](https://open.spotify.com/artist/3VvHG57lT5KbYI8ZIMGTh9) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 1:09 |
 | 88 | [The End Of A Beutiful Friendship \- Live](https://open.spotify.com/track/4FdZGAT4noVSMUwTK0s3WM) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable](https://open.spotify.com/album/2iTU0F5TbfWfYMk9ZVK8ui) | 3:35 |
 | 89 | [Fiddle Faddle](https://open.spotify.com/track/7FXu8mphx3UbHBR1LcnoFD) | [Byron Berline](https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io) | [Fiddle And A Song](https://open.spotify.com/album/3F9LR1yUStjTdrXJqOfiUz) | 2:03 |
 | 90 | [The Marine's Hymn](https://open.spotify.com/track/0MFzIJzp7bKmUZloelwxFN) | [US Navy Band](https://open.spotify.com/artist/7mJ3QsXQ9NMZmCM5rATFS0) | [Music For Honors and Ceremonies](https://open.spotify.com/album/3fGs0Ol4K8dL3Sh463TEoZ) | 0:38 |
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 171 | [Dusty Shoes](https://open.spotify.com/track/6lwldurksSlyXeiJXKXTYE) | [Leslie A\. Hutchinson](https://open.spotify.com/artist/6PJmqHWnjjvZcrqnoJdU69) | [Hutch At The Piano](https://open.spotify.com/album/5ex3tZE3opPxy7o2Eo1l7W) | 3:28 |
 | 172 | [The Rakish Young Man with the Whiskahs](https://open.spotify.com/track/1zySHyAUFSbiADrZ8D7EVM) | [Celeste Holm](https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 3:15 |
 | 173 | [Man for Sale](https://open.spotify.com/track/4tmy7MJeg5TZZlWtXghTMb) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:16 |
-| 174 | [Never Was Born](https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq) | [Joan McCracken](https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
-| 175 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 |
+| 174 | [Welcome Hinges](https://open.spotify.com/track/5sTSjad3ZN3gOSJJU78sLz) | [Mabel Taliaferro](https://open.spotify.com/artist/6gRyDyEeAhnP9ULECHOsjG), [David Brooks](https://open.spotify.com/artist/2RFwsEgg8cc5h5LygnB4Zs) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 2:44 |
+| 175 | [Never Was Born](https://open.spotify.com/track/4e1nNIkE2ZDebHnsm6cLyq) | [Joan McCracken](https://open.spotify.com/artist/0fXFItzsugYaL1Ee2PMwO0) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
 | 176 | [Time, You Old Gypsy Man](https://open.spotify.com/track/1VYp41t4qFW5ZNOsF3fMEy) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:14 |
 | 177 | [Moon About Town](https://open.spotify.com/track/78KIhz7vKYFqXCW3ZHaVvb) | [Dane Vannatter](https://open.spotify.com/artist/1XeeSo5hTiXO6lnbdtU2PW) | [Double Standards](https://open.spotify.com/album/2NjKDR9mMpKoWSPe0tEBKG) | 4:35 |
 | 178 | [Liza Crossing the Ice](https://open.spotify.com/track/3zZ3tmzNHoFleGGavyVRJ8) | [Toni Hart](https://open.spotify.com/artist/2KVOqll0LjBIBf4CQoAfjG) | [Bloomer Girl \(Original Broadway Cast\)](https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd) | 1:54 |
@@ -202,4 +202,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 192 | [Be Yourself](https://open.spotify.com/track/6yxG4DUyWo3TOuOVSLlFy9) | [RICHYFEIN](https://open.spotify.com/artist/2d0qI4NoEE9GH20qXpByph), [Dukeee](https://open.spotify.com/artist/45dEm7cqNob0CT3raETqHO) | [Trip On My Mind](https://open.spotify.com/album/5Pk2fExyrgdBebtERAEppx) | 2:55 |
 | 193 | [Intro to Necessity](https://open.spotify.com/track/7BiVEwi5DvPSFb8Z2WE518) | [David Staller](https://open.spotify.com/artist/3NZQn55ReTcDxkdftWW1Az), [Terri White](https://open.spotify.com/artist/79Gxi9msUDwqFtEvocmAJN) | [Finian's Rainbow \(Irish Repertory Theatre Cast Recording\)](https://open.spotify.com/album/1MmpLk5yBwgHevhiGh3FVB) | 0:27 |
 
-Snapshot ID: `Abn7lAAAAADjnee+7/7GzN72pcz3TzCr`
+Snapshot ID: `AboBKwAAAADMjk1OWhHVFffDwadj9Wpq`

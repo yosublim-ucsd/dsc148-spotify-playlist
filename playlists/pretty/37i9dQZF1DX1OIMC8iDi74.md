@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 🏆 with Knock2
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,422 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,427 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 89 | [WE RUN THIS](https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [WE RUN THIS](https://open.spotify.com/album/4tHMYveYbsqqCJVfpxnxk6) | 3:14 |
 | 90 | [Still In Love](https://open.spotify.com/track/7zB0Rfnc9u7Cx0xJAWK6Po) | [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Still In Love](https://open.spotify.com/album/6hQeO7qGSyDTcI1mBbqSqy) | 3:36 |
 | 91 | [Deadweight](https://open.spotify.com/track/1LVQWik5SWl7Sqd9achOuX) | [JAWNS](https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm) | [Deadweight](https://open.spotify.com/album/18uWjwoHK5esXVpyEpUJMM) | 3:07 |
-| 92 | [NEED ME](https://open.spotify.com/track/0inWEfsFk8ybCjvYcvE2kE) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [NEED ME](https://open.spotify.com/album/5lu5cfXFepG55yvescWOCV) | 3:18 |
-| 93 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 |
+| 92 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 |
+| 93 | [NEED ME](https://open.spotify.com/track/0inWEfsFk8ybCjvYcvE2kE) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [NEED ME](https://open.spotify.com/album/5lu5cfXFepG55yvescWOCV) | 3:18 |
 | 94 | [Set Me Free](https://open.spotify.com/track/1pSVHYdn6KP0ZNqD6hqtV9) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Set Me Free](https://open.spotify.com/album/6NO1HcyAGwBtGf4AOAlxtB) | 3:31 |
 | 95 | [CLICK](https://open.spotify.com/track/0of4XBoLyjnbhTDgIRvQT5) | [Ghastly](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf), [PSYCHEDELIC](https://open.spotify.com/artist/5BTAISzCbD7fqC7yd8HQ4p) | [CLICK](https://open.spotify.com/album/3zHItNxiOHLwIEkxZFcjTH) | 3:45 |
 | 96 | [BACK ONCE AGAIN](https://open.spotify.com/track/475Yj4cSdEsxxrxE7cnbHL) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [BACK ONCE AGAIN](https://open.spotify.com/album/1qXaLVyzBn7CsxW9UBzsR3) | 2:39 |
 | 97 | [Element](https://open.spotify.com/track/7sUcDPS4aKs3L171pM2iTP) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Lizdek](https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG) | [Element](https://open.spotify.com/album/0IdRdaNv8lVXVI5ybDRKyx) | 2:00 |
-| 98 | [JUMP!!](https://open.spotify.com/track/6DXnIycKlFuuJ1lLR94OFI) | [Golden Child](https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR), [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0) | [JUMP!!](https://open.spotify.com/album/1fBr8LZ22eSGhjHYhWrGDG) | 2:14 |
-| 99 | [Cyanide](https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Cyanide](https://open.spotify.com/album/0PjSvHusBgifniYJcyBsBp) | 3:05 |
+| 98 | [Cyanide](https://open.spotify.com/track/3iFJjgV27J4vDs9N7RAAKs) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Cyanide](https://open.spotify.com/album/0PjSvHusBgifniYJcyBsBp) | 3:05 |
+| 99 | [JUMP!!](https://open.spotify.com/track/6DXnIycKlFuuJ1lLR94OFI) | [Golden Child](https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR), [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0) | [JUMP!!](https://open.spotify.com/album/1fBr8LZ22eSGhjHYhWrGDG) | 2:14 |
 | 100 | [ALL MFS](https://open.spotify.com/track/5mixDqBHkUKreGTaX1K3YK) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [ALL MFS](https://open.spotify.com/album/4MYyoKorYFc2NqSiHbyHi4) | 2:29 |
 
-Snapshot ID: `Z5PNtAAAAAAuBpEfUmYyNmu6vI76RRVW`
+Snapshot ID: `Z5ea0AAAAADI0Av+Donb0Jp/96QzYKxO`

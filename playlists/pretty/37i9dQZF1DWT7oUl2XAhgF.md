@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,884 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,934 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paris](https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Paris](https://open.spotify.com/album/4cAI2lU33xuw3YLixV8w1T) | 2:56 |
 | 2 | [Lucille](https://open.spotify.com/track/2e6yQaYtbgM2zkNqSB5xGO) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Lucille](https://open.spotify.com/album/1pIPvngMvFfEJ2TnDrufNp) | 4:35 |
 | 3 | [Your Light](https://open.spotify.com/track/6abwIudy5gCZvNuFrAmWk6) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Your Light](https://open.spotify.com/album/04U1QazlwjvnpD0QuMRsx3) | 3:54 |
-| 4 | [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 |
+| 4 | [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 |
 | 5 | [Heal Me Good](https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U) | [Yufu](https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj) | [Heal Me Good](https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH) | 4:07 |
 | 6 | [I Can't Get You Out Of My Mind](https://open.spotify.com/track/0ip8o1lEyLkuG6M4HieVpq) | [Luke Marzec](https://open.spotify.com/artist/5X0GAEimapMzpG5Q7Sibmh) | [I Can't Get You Out Of My Mind](https://open.spotify.com/album/0IiBKeJR3hLccDd2fj4Ogo) | 4:04 |
 | 7 | [My Heart is Drowning](https://open.spotify.com/track/3ULdoOEdHUrfoi7D1B4IC5) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [My Heart is Drowning](https://open.spotify.com/album/27MkfKfFf4AONvPedCeBrX) | 2:43 |

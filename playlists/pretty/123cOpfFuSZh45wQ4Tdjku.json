@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 857,
+  "num_followers": 859,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "maple",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAABTRQXT92Du9J4vtiWaL6lAw9+67NJ",
+  "snapshot_id": "AAABUHuh3FPx9THJc0AlGWrFWFS95nX7",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -5039,6 +5039,58 @@
       "duration_ms": 237562,
       "name": "Buttered Toast",
       "url": "https://open.spotify.com/track/1VBjbarikzjid4jhL4AdWe"
+    },
+    {
+      "added_at": "2025-01-27 15:15:31",
+      "album": {
+        "name": "Time for Farewell",
+        "url": "https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF"
+      },
+      "artists": [
+        {
+          "name": "Rei Caffie",
+          "url": "https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa"
+        },
+        {
+          "name": "Kennyoung",
+          "url": "https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Time for Farewell",
+      "url": "https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E"
+    },
+    {
+      "added_at": "2025-01-27 15:15:35",
+      "album": {
+        "name": "Waterland",
+        "url": "https://open.spotify.com/album/4ld2ghxuhuLm6fC1M1kaca"
+      },
+      "artists": [
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Waterland",
+      "url": "https://open.spotify.com/track/726bs3udSSK6Ec7H6Y21mf"
+    },
+    {
+      "added_at": "2025-01-27 15:15:47",
+      "album": {
+        "name": "Cybernetic Heart",
+        "url": "https://open.spotify.com/album/5RUEw3otfwvpbyMDlza0Rm"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 187583,
+      "name": "CYBERNETIC HEART - Instrumental",
+      "url": "https://open.spotify.com/track/05tLwHgaXGZssYlNJOSiX7"
     }
   ],
   "unique_name": "My favourite furry songs",

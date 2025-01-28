@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con Juana Molina en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,646 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,661 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 39 | [Paralelo](https://open.spotify.com/track/27DQTbtsu1PxpfcBDFuA4J) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Paralelo](https://open.spotify.com/album/6e0TDXvlVtxZdZLfyxuyra) | 4:18 |
 | 40 | [Rota](https://open.spotify.com/track/0vlz20EDRMttxRuTPNZzfr) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [FLAPS](https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO) | 4:15 |
 | 41 | [MUJERES](https://open.spotify.com/track/2Uh18PA0zlvdd1k3Bo08oy) | [Maia Mónaco](https://open.spotify.com/artist/41sYI8tgxbuw8rBVbhGZus) | [RAÍZ](https://open.spotify.com/album/1ByIGwTsNPIm7MvYDgZd3C) | 5:14 |
-| 42 | [La madrina](https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Shima](https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl) | 3:08 |
-| 43 | [El bosque del recuerdo](https://open.spotify.com/track/21XHYgDzHj3k0ZOTZ2lNKp) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N) | [El bosque del recuerdo](https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj) | 3:01 |
+| 42 | [El bosque del recuerdo](https://open.spotify.com/track/21XHYgDzHj3k0ZOTZ2lNKp) | [Lara Pedrosa](https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N) | [El bosque del recuerdo](https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj) | 3:01 |
+| 43 | [La madrina](https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2) | [Gimena Alvarez Cela](https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5) | [Shima](https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl) | 3:08 |
 | 44 | [Panorámica](https://open.spotify.com/track/18NNtWaOxjwn7Vo6idfV2S) | [Ignacia](https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg) | [Panorámica](https://open.spotify.com/album/49mPgkDTzC1piJbODEk8Gq) | 3:06 |
-| 45 | [Este Presente](https://open.spotify.com/track/7DjQuAlt01yXiAatSTVgdE) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Carlos Britez](https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax) | [Este Presente](https://open.spotify.com/album/35hoAaO6YMQ3Th1JtB090W) | 2:04 |
-| 46 | [Aquel](https://open.spotify.com/track/0hPxGqpAf3NuD4z6kP5iFo) | [Vera Sienra](https://open.spotify.com/artist/5HFKY3J2ebRWwSP7uFXoSI), [Eduardo Mateo](https://open.spotify.com/artist/3nL900KIKlV6HBTI4W0pCx) | [Nuestra Soledad](https://open.spotify.com/album/0BeoW5lOTbWiopYZaEuuJ6) | 2:59 |
+| 45 | [Aquel](https://open.spotify.com/track/0hPxGqpAf3NuD4z6kP5iFo) | [Vera Sienra](https://open.spotify.com/artist/5HFKY3J2ebRWwSP7uFXoSI), [Eduardo Mateo](https://open.spotify.com/artist/3nL900KIKlV6HBTI4W0pCx) | [Nuestra Soledad](https://open.spotify.com/album/0BeoW5lOTbWiopYZaEuuJ6) | 2:59 |
+| 46 | [Este Presente](https://open.spotify.com/track/7DjQuAlt01yXiAatSTVgdE) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1), [Carlos Britez](https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax) | [Este Presente](https://open.spotify.com/album/35hoAaO6YMQ3Th1JtB090W) | 2:04 |
 | 47 | [Copla Punk](https://open.spotify.com/track/2UIGU50qRq7BCZTw3gFLdT) | [Sucia y seca](https://open.spotify.com/artist/6HZSZhku5lVfHrPYy6mzKW) | [Aro](https://open.spotify.com/album/3nRuq1SFFHati4oV1pLsgt) | 4:49 |
 | 48 | [Helix](https://open.spotify.com/track/1Xf5nB7xeB5xVoCmivZ661) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Posible](https://open.spotify.com/album/32bUZaU0ffEvgnEkNW7jrd) | 4:17 |
 | 49 | [Mantis](https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv) | [UMA](https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP) | [Nueva en el Amor](https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw) | 2:46 |

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: jan-feb 2025 (previous playlists archived on my profile)",
-  "num_followers": 22655,
+  "num_followers": 22656,
   "original_name": "something new",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALzV3WY4d1ccw/h8fTrqoo5COUwV6J",
+  "snapshot_id": "AAALz3OiUp0uKTYDOadwksqSyjFlDPM+",
   "tracks": [
     {
       "added_at": "2025-01-11 22:36:19",
@@ -579,6 +579,38 @@
       "duration_ms": 470266,
       "name": "Twenty Trees",
       "url": "https://open.spotify.com/track/0Gl6BDxRo6hr8zQ8l2ghu5"
+    },
+    {
+      "added_at": "2025-01-27 15:05:48",
+      "album": {
+        "name": "Scribble",
+        "url": "https://open.spotify.com/album/4cOGsGT3sE4PDiejAHrfai"
+      },
+      "artists": [
+        {
+          "name": "Scribble",
+          "url": "https://open.spotify.com/artist/3Ib4CzrIzFgmCUuu0kqyH8"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Silly Girl",
+      "url": "https://open.spotify.com/track/4s8rwUpjO2RT0AiKhS827c"
+    },
+    {
+      "added_at": "2025-01-27 17:17:03",
+      "album": {
+        "name": "Shoot",
+        "url": "https://open.spotify.com/album/4h2xnaKa1f8T7ki3Fdmmmx"
+      },
+      "artists": [
+        {
+          "name": "Taxidermists",
+          "url": "https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7"
+        }
+      ],
+      "duration_ms": 96503,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/5Jp97FprZYGlTMM0tpiMTT"
     }
   ],
   "unique_name": "something new",

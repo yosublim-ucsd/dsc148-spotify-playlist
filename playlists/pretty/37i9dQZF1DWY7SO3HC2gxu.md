@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa\. Cover: Sofiya Nzau
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,208 likes - 90 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,218 likes - 90 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 89 | [Kasha](https://open.spotify.com/track/7vp0BkEiQf1nDpes5YczjV) | [SVNTOS](https://open.spotify.com/artist/7mtChaLa6PH3q9ZwYMG5e1), [Sousa](https://open.spotify.com/artist/6jZOIoQk76BDjxtfxhPlJ3), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kasha](https://open.spotify.com/album/4yqvxOXcQrBfmrXxH6vQcU) | 6:00 |
 | 90 | [Tobina](https://open.spotify.com/track/1wQIZO21QL5D36PjSYU5aE) | [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Mandala](https://open.spotify.com/artist/4XRCFvGfu0MhCKJ42OGXDe) | [Tobina](https://open.spotify.com/album/1JLdZk9Qcw4EiGsDhst35a) | 5:17 |
 
-Snapshot ID: `Z2SzVQAAAAClYtw2MaFFjC+5ggSdxQ9a`
+Snapshot ID: `Z5ei2gAAAAB6U+pSNl7YkhkllmJYfu17`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,594 likes - 102 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,637 likes - 102 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 101 | [We Will Make It](https://open.spotify.com/track/7yVh5SkxIS6OpNlL8gf2Qx) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [We Will Make It](https://open.spotify.com/album/3XY93ClwPSOcghbPeDkGzr) | 2:08 |
 | 102 | [Ordinary Day](https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Ordinary Day](https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg) | 2:30 |
 
-Snapshot ID: `Z5DFcQAAAAAWR9IIhMjMMXLK5FPlyXxm`
+Snapshot ID: `Z5ekqgAAAAB/XOsBIxXmCF93VhGBLmcP`

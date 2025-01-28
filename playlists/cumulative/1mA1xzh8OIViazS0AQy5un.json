@@ -8603,6 +8603,24 @@
     },
     {
       "album": {
+        "name": "PANIC ATTACK",
+        "url": "https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149920,
+      "name": "PANIC ATTACK",
+      "url": "https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },

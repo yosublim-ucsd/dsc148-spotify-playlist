@@ -6741,6 +6741,24 @@
     },
     {
       "album": {
+        "name": "Colourful",
+        "url": "https://open.spotify.com/album/3yy8nOHK8Y7vuKIFdNRrtX"
+      },
+      "artists": [
+        {
+          "name": "Klubfiller",
+          "url": "https://open.spotify.com/artist/21CTwCPVk35jNlil50YBJZ"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Colourful",
+      "url": "https://open.spotify.com/track/49SCLD6Ck36QhWdCryjt40"
+    },
+    {
+      "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/2zFGIOMWzoPcmst3YUoVDb"
       },

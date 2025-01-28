@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,473,851 likes - 100 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,477,090 likes - 100 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 41 | [AVANGARD \- Slowed](https://open.spotify.com/track/36KN8cwJgQmIOYaUS0Lvvu) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD \(Slowed\)](https://open.spotify.com/album/6Ye61eIVj9IhshMtVmYRNM) | 3:19 |
 | 42 | [Life in Rio](https://open.spotify.com/track/7vtGOauV0Zz8Px5EJYm7d7) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4) | [Life in Rio](https://open.spotify.com/album/2EuOCirl08WxbRY2cfj4H5) | 1:34 |
 | 43 | [FUNK UNIVERSO](https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [FUNK UNIVERSO](https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw) | 2:07 |
-| 44 | [MONTAGEM BRAVO \- Slowed](https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt) | [MONTAGEM BRAVO](https://open.spotify.com/album/2RhX80u97LacDUbFoSLT5W) | 1:31 |
+| 44 | [MONTAGEM BRAVO \- Slowed](https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [MONTAGEM BRAVO](https://open.spotify.com/album/2RhX80u97LacDUbFoSLT5W) | 1:31 |
 | 45 | [SPOOKY](https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva) | [fennecxx](https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2), [DJ ALEX](https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL) | [SPOOKY](https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9) | 1:36 |
 | 46 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 47 | [Sequência da Dz7](https://open.spotify.com/track/6KAjgfXSrqcoouZ0Rh9pza) | [TRASHXRL](https://open.spotify.com/artist/3rt96VXGtEgD4uSOJ6B69H), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [Sequência da Dz7](https://open.spotify.com/album/12UaXYNu0359E12ysYpLWs) | 1:59 |

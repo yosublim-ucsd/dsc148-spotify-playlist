@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2420364,
+  "num_followers": 2420543,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+        "name": "Nobela",
+        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+          "name": "Join The Club",
+          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
         }
       ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
+      "duration_ms": 291506,
+      "name": "Nobela",
+      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Nobela",
-        "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
       },
       "artists": [
         {
-          "name": "Join The Club",
-          "url": "https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
         }
       ],
-      "duration_ms": 291506,
-      "name": "Nobela",
-      "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "3rd Time\u2019s A Charm",
-        "url": "https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Gusto",
-      "url": "https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Titig",
         "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "3rd Time\u2019s A Charm",
+        "url": "https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Gusto",
+      "url": "https://open.spotify.com/track/0uemlnPoeZOYIDaMFZ7lvi"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Hayaan Mo Sila",
+        "url": "https://open.spotify.com/album/12DwmRcztX6NAZR0vQsYUF"
+      },
+      "artists": [
+        {
+          "name": "Ex Battalion",
+          "url": "https://open.spotify.com/artist/2iB7AJhJmkWkkehY9ccB0j"
+        },
+        {
+          "name": "O.C. Dawgs",
+          "url": "https://open.spotify.com/artist/00xU4wfephkJrjwJPDvfkf"
+        }
+      ],
+      "duration_ms": 367229,
+      "name": "Hayaan Mo Sila",
+      "url": "https://open.spotify.com/track/7MrDfa1uQGVXx0JMZ2u5tN"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Ngayong Gabi",
         "url": "https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 284812,
       "name": "ERE",
       "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Hayaan Mo Sila",
-        "url": "https://open.spotify.com/album/12DwmRcztX6NAZR0vQsYUF"
-      },
-      "artists": [
-        {
-          "name": "Ex Battalion",
-          "url": "https://open.spotify.com/artist/2iB7AJhJmkWkkehY9ccB0j"
-        },
-        {
-          "name": "O.C. Dawgs",
-          "url": "https://open.spotify.com/artist/00xU4wfephkJrjwJPDvfkf"
-        }
-      ],
-      "duration_ms": 367229,
-      "name": "Hayaan Mo Sila",
-      "url": "https://open.spotify.com/track/7MrDfa1uQGVXx0JMZ2u5tN"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Sila",
+        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "711",
         "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Sila",
-        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
       "artists": [
         {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Nahuhulog",
         "url": "https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP"
       },
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+        "name": "JKL",
+        "url": "https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC"
       },
       "artists": [
         {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
         }
       ],
-      "duration_ms": 236705,
-      "name": "Magkabilang Mundo",
-      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+      "duration_ms": 218000,
+      "name": "Demonyo",
+      "url": "https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq"
     }
   ],
   "unique_name": "OPM Favorites",

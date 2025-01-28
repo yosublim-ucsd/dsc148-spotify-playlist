@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 Neton Vega is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,932,711 likes - 20 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,656 likes - 20 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [Panty Chanel](https://open.spotify.com/track/16tB6ylVvnR7uUWdl9F09m) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Panty Chanel](https://open.spotify.com/album/6ERVQRksfePRgY9Tu0jKPW) | 3:10 |
 | 20 | [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 |
 
-Snapshot ID: `Z5HM0AAAAACv6OJnB/oy6ro34G1BWEH/`
+Snapshot ID: `Z5efuQAAAAAwoNA3v8uEsQ6OpsvTxEsb`

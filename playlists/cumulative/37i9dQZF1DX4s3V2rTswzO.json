@@ -367,6 +367,32 @@
     },
     {
       "album": {
+        "name": "Long Nights and Starry Skies",
+        "url": "https://open.spotify.com/album/6KsrPQ6TYATNYWeZZ5Ib9I"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156218,
+      "name": "Beau soir, CD 84 (Performed on Harp & Saxophone)",
+      "url": "https://open.spotify.com/track/2CKg3VJaUVY1gQvOgksoK5"
+    },
+    {
+      "album": {
         "name": "Voice of the Violin",
         "url": "https://open.spotify.com/album/1BXO57T2KEgCS6ca9tlmZ6"
       },
@@ -386,7 +412,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 147960,
       "name": "Beau soir, L. 6 (Arranged for Violin and Piano by Jascha Heifetz)",
       "url": "https://open.spotify.com/track/1DsqYVJjTCfYmxOnlDPQPr"
@@ -490,10 +516,40 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 411026,
       "name": "Clarinet Concerto in A Major, K. 622/II. Adagio",
       "url": "https://open.spotify.com/track/5AjGHyx54NLmriCjj71qiR"
+    },
+    {
+      "album": {
+        "name": "Mozart: Clarinet Concerto",
+        "url": "https://open.spotify.com/album/5PerO11RxVNvixJPjW4UAl"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Andrew Marriner",
+          "url": "https://open.spotify.com/artist/5mXUIRg6rxR9EvW0s7qQh7"
+        },
+        {
+          "name": "Jaime Martin",
+          "url": "https://open.spotify.com/artist/5pf59s93BwFYfj6L6gQGSM"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403386,
+      "name": "Clarinet Concerto in A Major, K. 622: II. Adagio",
+      "url": "https://open.spotify.com/track/2l48bK5FOYIQHgoYSPl7Qw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Rina
 
-184 songs - 7 hr 47 min
+185 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Island Chick](https://open.spotify.com/track/7pOnWrb3yXx3PeXPj2Zged) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Island Chick](https://open.spotify.com/album/1uhlZZYdp50ha43tV7PNYK) | 2:28 | 2024-09-02 | 2024-12-17 |
 | [Istanbul Almanya](https://open.spotify.com/track/0yxqqfiYmRe8X3D6FUB2BI) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh) | [Istanbul Almanya](https://open.spotify.com/album/2hW9xSIAuEH4oFuB3ToD6j) | 2:09 | 2024-11-25 | 2025-01-17 |
 | [J\-Lo](https://open.spotify.com/track/3FCPOqUmiJsepiiHCoBYJ5) | [AriBeatz](https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Press Play](https://open.spotify.com/album/6jTVWEXHEAoEnnXBlfUcvn) | 2:41 | 2024-06-28 |  |
+| [Juana auf Snapchat](https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [GOVA](https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v) | 3:00 | 2025-01-27 |  |
 | [Jung & machen Geld](https://open.spotify.com/track/1W1fap9it2ePXTKjKpzSii) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Jung & machen Geld](https://open.spotify.com/album/6dUdLyCrv5lFjki79qSGLh) | 2:40 | 2024-07-25 | 2024-09-17 |
 | [Jupitáá](https://open.spotify.com/track/2eBPKRtfYveuzwy8IExoyF) | [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4) | [Jupitáá](https://open.spotify.com/album/1HZ7PUDTfDAJD6r9Eu4FX5) | 2:24 | 2024-11-18 | 2025-01-17 |
 | [Katastrophe](https://open.spotify.com/track/64PC5XVJuKbvxYHecenRGO) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Jiyo](https://open.spotify.com/artist/0i9OWm62ob5N5f6NTqhSts) | [Katastrophe](https://open.spotify.com/album/2uGdPU34k4wNNAq3qVZRLv) | 3:18 | 2024-06-28 | 2024-08-27 |
@@ -177,7 +178,7 @@
 | [Vrumm](https://open.spotify.com/track/6lx99yqF0e7NuDHZsvwBmM) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Arlinda](https://open.spotify.com/artist/2SSMKpG9gJLqvXS8mZqlHn) | [Vrumm](https://open.spotify.com/album/4M98BMRGhKbjl0Lz2bMJbs) | 2:21 | 2024-06-28 | 2024-08-02 |
 | [WAGWAN](https://open.spotify.com/track/4eWo9P0bY0SniczUtzTYxu) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [WAGWAN](https://open.spotify.com/album/5oKxG7kTpuQK9kPdQXUI6C) | 2:32 | 2024-10-10 | 2024-11-08 |
 | [WAS IST DA LOS ?!](https://open.spotify.com/track/6WFdu4LIuTVrD2O1Z1bJdW) | [NOAH](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [WAS IST DA LOS ?!](https://open.spotify.com/album/36ASREHRtD2mbiifWWpc3j) | 2:08 | 2024-07-04 | 2024-08-27 |
-| [Wenn du mich siehst](https://open.spotify.com/track/4utjEtHZpJmCqdD9KtpBJi) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Wenn du mich siehst](https://open.spotify.com/album/6EXySHJrVxmQesnBkNUCe2) | 2:41 | 2024-11-11 |  |
+| [Wenn du mich siehst](https://open.spotify.com/track/4utjEtHZpJmCqdD9KtpBJi) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Wenn du mich siehst](https://open.spotify.com/album/6EXySHJrVxmQesnBkNUCe2) | 2:41 | 2024-11-11 | 2025-01-28 |
 | [Whine](https://open.spotify.com/track/17oiBKFtiAfnRqqZMChngT) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Whine](https://open.spotify.com/album/189vyuLhrhYsxLIkqvQuFR) | 2:19 | 2024-10-24 |  |
 | [Wie beim ersten Mal](https://open.spotify.com/track/4jhQOtHfWQq6GYkhvsAkOq) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Wie beim ersten Mal](https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE) | 2:34 | 2024-06-28 |  |
 | [Wie Du](https://open.spotify.com/track/1N1coNchKY1dQniPSnAJs5) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Wie Du](https://open.spotify.com/album/6rRXy84kUpSl6c7umodBJx) | 3:04 | 2024-07-25 | 2024-10-25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 657,
+  "num_followers": 658,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QpgAAAAADS+rjmm8IxaZ3mUi1lNY00",
+  "snapshot_id": "Z5V7AAAAAAC0vWSbH8ZIgXZNudAPkTxT",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 226133,
-      "name": "Dear Roy...",
-      "url": "https://open.spotify.com/track/4hfGKgAnzb9jJx7cEQGfqE"
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

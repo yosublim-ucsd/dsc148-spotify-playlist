@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Jadson Moreno
 
-319 songs - 1 day 7 hr 24 min
+320 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Jesus Vive \- Ao Vivo](https://open.spotify.com/track/0KlZvag6ts0IiBKB3eADYC) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Jesus Vive \(Ao Vivo\)](https://open.spotify.com/album/4peKjX1TTlUZXO9hR4SnRg) | 7:17 | 2023-05-12 | 2023-06-03 |
 | [Jesus é Bom Pra Mim \(feat\. Leandro Borges\)](https://open.spotify.com/track/73U4EUYq12rKBPP8Edm2Uc) | [Esther Marcos](https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Jesus é Bom Pra Mim \(feat\. Leandro Borges\)](https://open.spotify.com/album/0hIOwaDDKAGxNWL4xfa6wS) | 4:16 | 2022-12-09 | 2023-02-04 |
 | [Jonas \(Ao Vivo\)](https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Jonas \(Ao Vivo\)](https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A) | 4:53 | 2025-01-24 |  |
+| [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS) | [Vitor Santana](https://open.spotify.com/artist/4XWwdp5t6DPloruDrgyRmZ) | [João 20 + pra Sempre \- Ao Vivo](https://open.spotify.com/album/3adHglUeEVq6ETuiGOwz3w) | 4:49 | 2025-01-27 |  |
 | [LEÃO \(LION\) \(feat\. Chris Brown & Thalles Roberto\)](https://open.spotify.com/track/2UnJa5chfcRDI60rLvpZKD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [LEÃO](https://open.spotify.com/album/59s62ul4SWlgcHDIPvwAcf) | 5:42 | 2022-10-08 | 2023-04-01 |
 | [Lindo Momento](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 | 2024-04-19 |  |
 | [Livramento](https://open.spotify.com/track/5DQs4Xg23TO0zRzuwskitZ) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Livramento](https://open.spotify.com/album/4lsUDMd1JGkCbeEoczP03s) | 7:05 | 2024-09-20 |  |
@@ -281,7 +282,7 @@
 | [Teu Socorro](https://open.spotify.com/track/4XTR3ZTc0Epw23VLqHJdHC) | [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t), [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx) | [Teu Socorro](https://open.spotify.com/album/2MJA6Ndwig76ZSiBNycMMf) | 4:14 | 2023-06-16 | 2023-07-15 |
 | [Teu Toque \- Ao Vivo](https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2) | [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Teu Toque \(Ao Vivo\)](https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD) | 7:33 | 2022-09-09 |  |
 | [Toda Terra \- Ao Vivo](https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Toda Terra \(Ao Vivo\)](https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt) | 8:39 | 2024-06-14 |  |
-| [Todavia Me Alegrarei](https://open.spotify.com/track/1oYLqvcF0K6MluD4tl4PUv) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Planos de Deus](https://open.spotify.com/album/2HPXxngcKMkkSmlCDc9Mvu) | 4:04 | 2022-09-09 |  |
+| [Todavia Me Alegrarei](https://open.spotify.com/track/1oYLqvcF0K6MluD4tl4PUv) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Planos de Deus](https://open.spotify.com/album/2HPXxngcKMkkSmlCDc9Mvu) | 4:04 | 2022-09-09 | 2025-01-28 |
 | [Todos Os Meus Dias \- Ao Vivo](https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Gabriel Guedes \(Ao Vivo\)](https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs) | 3:24 | 2022-09-09 |  |
 | [Transformação](https://open.spotify.com/track/3vUTz0lUcDLNUODDL58EPv) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Transformação](https://open.spotify.com/album/0TZjYSwxgZgbmAA1756mT5) | 5:12 | 2022-09-09 | 2022-12-17 |
 | [Tu És Fiel](https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Tu És Fiel](https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N) | 5:01 | 2022-09-09 | 2023-10-07 |

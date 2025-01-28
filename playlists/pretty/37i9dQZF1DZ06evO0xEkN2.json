@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 222998,
+  "num_followers": 223021,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QpgAAAAADtgLJwyY2dv7gT5yzm8LH2",
+  "snapshot_id": "Z5V7AAAAAAAgRAANWpvABE7ZS91y3WTQ",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 266746,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Veces Tres",
         "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 259906,
       "name": "Busc\u00e1ndote (Paraguayito Dub)",
       "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 266746,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Inocente Pobre Amigo",
-      "url": "https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Todos los Rumberos",
         "url": "https://open.spotify.com/album/69M76iFB13orBTuymkmh4M"
       },
@@ -863,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Carne Ni Pescado",
-        "url": "https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6"
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
       "artists": [
         {
@@ -872,9 +856,25 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 199693,
-      "name": "Quiero Bailar Contigo",
-      "url": "https://open.spotify.com/track/43uYpVAeYnZF7XCED74Mbx"
+      "duration_ms": 221000,
+      "name": "Inocente Pobre Amigo",
+      "url": "https://open.spotify.com/track/6KpWUri1N9k4yC80UKizLC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 276906,
+      "name": "C.D.A.",
+      "url": "https://open.spotify.com/track/5rnhbKrkvUPvclA1Scjpp8"
     }
   ],
   "unique_name": "This Is Panteon Rococo",

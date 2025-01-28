@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: NATTI NATASHA
 
-403 songs - 1 day 0 hr 28 min
+404 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Dile](https://open.spotify.com/track/1w2cCY4iJ50Pm9qtwt310x) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Dile](https://open.spotify.com/album/0gwDKRO0kdXe8digRzZqFs) | 3:16 | 2022-03-04 | 2022-07-29 |
 | [Dile](https://open.spotify.com/track/5YaTs3P7JgHnM0UFKMWNnh) | [Kewin Cosmos](https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT) | [Episodes](https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6) | 3:16 | 2022-07-19 | 2022-09-03 |
 | [Dile al Amor](https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:49 | 2022-09-09 | 2024-01-13 |
+| [Dime](https://open.spotify.com/track/6NuyWrCUmOsoI7QY2ctvtD) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime](https://open.spotify.com/album/1N3cFEsXs9SKnnW4YE0Ks5) | 2:59 | 2025-01-27 |  |
 | [Dime Cómo Se Siente](https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime Cómo Se Siente](https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ) | 2:40 | 2023-10-20 | 2024-05-18 |
 | [Dime Porque](https://open.spotify.com/track/5ak2OdhjNeZrksibKWG19G) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Dime Porque](https://open.spotify.com/album/0rHNWqNDjbVu2EU5XLtUNJ) | 3:36 | 2022-03-04 | 2022-09-03 |
 | [Dividimos \(Bachata Version\)](https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Dividimos](https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX) | 4:40 | 2022-03-04 | 2022-09-03 |

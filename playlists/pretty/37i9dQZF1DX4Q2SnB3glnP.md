@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,646 likes - 178 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,001 likes - 178 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 177 | [Olvidado](https://open.spotify.com/track/0p4IWEs8ZHhcFdXuy5SYL2) | [Piano Pacifico](https://open.spotify.com/artist/2wuUrp6l6k3yscNZNUFUpJ) | [Luna Mágica](https://open.spotify.com/album/4RO63cpWlUOBZCnGo5VRKa) | 2:32 |
 | 178 | [Yoga Depth](https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46) | [Elevie J](https://open.spotify.com/artist/11nQp4wRj814vcNBbVKXua) | [Yoga Depth](https://open.spotify.com/album/7zWRfbF3Jzfku0Wbztivo7) | 2:12 |
 
-Snapshot ID: `Z5J+AwAAAAA9SQbQ1lv4nfEXZJ/CIh1T`
+Snapshot ID: `Z5ezrQAAAAAr6iEFgncGdhmeuR0cGxFR`

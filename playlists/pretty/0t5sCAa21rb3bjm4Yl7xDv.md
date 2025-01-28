@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > your favourite playlist's favourite playlist &lt;3\. shop this summer's pop collection <a href="https://www.umusic.ca/pages/POP">here</a>\. Cover: Taylor Swift
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 80,173 likes - 111 songs - 5 hr 51 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 80,169 likes - 111 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

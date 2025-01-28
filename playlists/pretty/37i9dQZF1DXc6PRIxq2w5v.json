@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Thiag\u00e3o",
-  "num_followers": 177527,
+  "num_followers": 177526,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -731,18 +731,22 @@
     {
       "added_at": "2025-01-24 03:01:23",
       "album": {
-        "name": "\"23\"",
-        "url": "https://open.spotify.com/album/5dkRYSCzuYH0xxETVrtYK6"
+        "name": "Eu Era Servo",
+        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
         }
       ],
-      "duration_ms": 132653,
-      "name": "\"23\"",
-      "url": "https://open.spotify.com/track/6F8XUsLU6CijVibDWajAA3"
+      "duration_ms": 171740,
+      "name": "Eu Era Servo",
+      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
     },
     {
       "added_at": "2025-01-24 03:01:23",
@@ -771,26 +775,6 @@
     {
       "added_at": "2025-01-24 03:01:23",
       "album": {
-        "name": "Eu Era Servo",
-        "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 171740,
-      "name": "Eu Era Servo",
-      "url": "https://open.spotify.com/track/0IRsbv7O7PeZhF0BR6aZyj"
-    },
-    {
-      "added_at": "2025-01-24 03:01:23",
-      "album": {
         "name": "Tempestade",
         "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 204827,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
+    },
+    {
+      "added_at": "2025-01-24 03:01:23",
+      "album": {
+        "name": "\"23\"",
+        "url": "https://open.spotify.com/album/5dkRYSCzuYH0xxETVrtYK6"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 132653,
+      "name": "\"23\"",
+      "url": "https://open.spotify.com/track/6F8XUsLU6CijVibDWajAA3"
     },
     {
       "added_at": "2025-01-24 03:01:23",
@@ -939,6 +939,46 @@
     {
       "added_at": "2025-01-24 03:01:23",
       "album": {
+        "name": "Amor Freestyle",
+        "url": "https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        }
+      ],
+      "duration_ms": 168861,
+      "name": "Amor Freestyle",
+      "url": "https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE"
+    },
+    {
+      "added_at": "2025-01-24 03:01:23",
+      "album": {
+        "name": "Te Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 157384,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
+    },
+    {
+      "added_at": "2025-01-24 03:01:23",
+      "album": {
         "name": "Quero Voltar",
         "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
       },
@@ -975,30 +1015,6 @@
       "duration_ms": 171428,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
-    },
-    {
-      "added_at": "2025-01-24 03:01:23",
-      "album": {
-        "name": "Te Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
     },
     {
       "added_at": "2025-01-24 03:01:23",
@@ -1099,22 +1115,6 @@
       "duration_ms": 187317,
       "name": "O Deus Que Te V\u00ea",
       "url": "https://open.spotify.com/track/20wzjA0ERa7WmZ8ezMNQFB"
-    },
-    {
-      "added_at": "2025-01-24 03:01:23",
-      "album": {
-        "name": "Amor Freestyle",
-        "url": "https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        }
-      ],
-      "duration_ms": 168861,
-      "name": "Amor Freestyle",
-      "url": "https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE"
     },
     {
       "added_at": "2025-01-24 03:01:23",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-01-24 03:01:23",
       "album": {
+        "name": "Prosseguir",
+        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
+      },
+      "artists": [
+        {
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
+        }
+      ],
+      "duration_ms": 155300,
+      "name": "Prosseguir",
+      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
+    },
+    {
+      "added_at": "2025-01-24 03:01:23",
+      "album": {
         "name": "Purificado",
         "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 145125,
       "name": "Purificado",
       "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
-    },
-    {
-      "added_at": "2025-01-24 03:01:23",
-      "album": {
-        "name": "Prosseguir",
-        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
-      },
-      "artists": [
-        {
-          "name": "Jhonysul",
-          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
-        }
-      ],
-      "duration_ms": 155300,
-      "name": "Prosseguir",
-      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "added_at": "2025-01-24 03:01:23",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2025-01-24 03:01:23",
       "album": {
-        "name": "Penso Alto",
-        "url": "https://open.spotify.com/album/6xcGJ3yFbuRuGheyo6t7xR"
+        "name": "Soundtrack",
+        "url": "https://open.spotify.com/album/6gArENQ5ALPN26mSe3rInz"
       },
       "artists": [
         {
@@ -1492,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE"
         }
       ],
-      "duration_ms": 172198,
-      "name": "Penso Alto",
-      "url": "https://open.spotify.com/track/5b10S6Ps41CbUk4QamHKIB"
+      "duration_ms": 198936,
+      "name": "Deus Conhece Tudo",
+      "url": "https://open.spotify.com/track/3ZopgP6BJqLb5e555Wmgqu"
     },
     {
       "added_at": "2025-01-24 03:01:23",
@@ -1643,8 +1643,8 @@
     {
       "added_at": "2025-01-24 03:01:23",
       "album": {
-        "name": "Soundtrack",
-        "url": "https://open.spotify.com/album/6gArENQ5ALPN26mSe3rInz"
+        "name": "Penso Alto",
+        "url": "https://open.spotify.com/album/6xcGJ3yFbuRuGheyo6t7xR"
       },
       "artists": [
         {
@@ -1656,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE"
         }
       ],
-      "duration_ms": 198936,
-      "name": "Deus Conhece Tudo",
-      "url": "https://open.spotify.com/track/3ZopgP6BJqLb5e555Wmgqu"
+      "duration_ms": 172198,
+      "name": "Penso Alto",
+      "url": "https://open.spotify.com/track/5b10S6Ps41CbUk4QamHKIB"
     },
     {
       "added_at": "2025-01-24 03:01:23",

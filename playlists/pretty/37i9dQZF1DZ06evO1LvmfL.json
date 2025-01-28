@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 328500,
+  "num_followers": 328968,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QpgAAAAAA1F7EDx5nFs16hlewbo4Ph",
+  "snapshot_id": "Z5V7AAAAAADXuk4nUnrzSBiu0URUGszI",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Bad",
         "url": "https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7"
       },
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 176424,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+      "duration_ms": 217573,
+      "name": "Not Your Man",
+      "url": "https://open.spotify.com/track/1fQknzJ5j8dreu0zjTkFpl"
     },
     {
       "added_at": null,
@@ -808,9 +824,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 217573,
-      "name": "Not Your Man",
-      "url": "https://open.spotify.com/track/1fQknzJ5j8dreu0zjTkFpl"
+      "duration_ms": 182350,
+      "name": "Your Kind of Crazy",
+      "url": "https://open.spotify.com/track/4WJ6n3hm5R5vOuDno4UqZv"
     },
     {
       "added_at": null,
@@ -876,9 +892,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 182350,
-      "name": "Your Kind of Crazy",
-      "url": "https://open.spotify.com/track/4WJ6n3hm5R5vOuDno4UqZv"
+      "duration_ms": 215740,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 198949,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/1o3kKSPLb3hLAlHfsWDrO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 198676,
-      "name": "For the Rest of Your Life",
-      "url": "https://open.spotify.com/track/7fz1pTAybj22pbsSiLwugA"
     }
   ],
   "unique_name": "This Is Teddy Swims",

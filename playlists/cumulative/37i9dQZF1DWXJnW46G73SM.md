@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:تامر عاشور
 
-1,331 songs - 3 day 2 hr 19 min
+1,332 songs - 3 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2022-07-14 | 2022-10-08 |
 | [Had Men Jilak](https://open.spotify.com/track/56Y3GU1zXSnrLgTvYy9LFB) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Had Men Gilak](https://open.spotify.com/album/6D4G8wpUbwss3P8PlaEDNP) | 3:21 | 2024-01-19 | 2024-02-16 |
 | [Hadalaany \- From Bhabak Movie](https://open.spotify.com/track/2MBqyVD794w8Tn0IPGLEBW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Hadalaany \(From Bhabak Movie\)](https://open.spotify.com/album/2dQZwRz9UH0MLwKmxeegsz) | 3:26 | 2022-07-06 | 2022-09-27 |
-| [HADI](https://open.spotify.com/track/7oiLuyrPC4QuNwHFfua07x) | [ZerOne](https://open.spotify.com/artist/2lcab8Cgn9N6ungK6xTTYJ) | [Out of Phase](https://open.spotify.com/album/2pepikw3xByaUJq9wmfLc3) | 2:04 | 2024-12-19 |  |
+| [HADI](https://open.spotify.com/track/7oiLuyrPC4QuNwHFfua07x) | [ZerOne](https://open.spotify.com/artist/2lcab8Cgn9N6ungK6xTTYJ) | [Out of Phase](https://open.spotify.com/album/2pepikw3xByaUJq9wmfLc3) | 2:04 | 2024-12-19 | 2025-01-28 |
 | [Hadouta](https://open.spotify.com/track/5thHVbvP2rjqp6OjEj7vYh) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Hadouta](https://open.spotify.com/album/2kGYSWJdmsp0yN5hvCcEgK) | 2:19 | 2023-04-20 | 2023-05-02 |
 | [Haga Ghareeba](https://open.spotify.com/track/70xGNS2RoKq99DTRuVXuTr) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Haga Ghareeba](https://open.spotify.com/album/0DDyP1N6Tp9I3zB5EwzV91) | 3:45 | 2021-12-23 | 2022-02-26 |
 | [Hagat Gowaya](https://open.spotify.com/track/2E5OAehopM9crGhQ5M77du) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Hagat Gowaya](https://open.spotify.com/album/6fz6lOjPVM8FCQlSrNLOH1) | 4:24 | 2024-07-18 | 2024-07-25 |
@@ -1213,6 +1213,7 @@
 | [لو تخاصمني](https://open.spotify.com/track/2ijApNHjp90HBYZLZKVCue) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [لو تخاصمني](https://open.spotify.com/album/5S17tuujr6lGt6Cmv0L4Ie) | 3:10 | 2022-11-08 | 2023-01-21 |
 | [لو سامحنا](https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [لو سامحنا](https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6) | 2:48 | 2024-02-16 | 2024-04-24 |
 | [لو يرجع](https://open.spotify.com/track/0Qcvtb92fzNlgM34hQrY0s) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [لو يرجع](https://open.spotify.com/album/0Y9i5zjYmbTb6TmJDRnitL) | 3:22 | 2024-02-14 | 2024-04-24 |
+| [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 | 2025-01-27 |  |
 | [ليلي](https://open.spotify.com/track/32AzhDEGxCBnQOt8EyVqeU) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [ليلي](https://open.spotify.com/album/1k1ipnt0ZtGREruIPdfEe8) | 3:38 | 2024-02-16 | 2024-05-03 |
 | [ليه خسرتك](https://open.spotify.com/track/4mqAEhjGpFZRTi1DnRBlvA) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM) | [ليه خسرتك](https://open.spotify.com/album/00s1ad6SOrgQc97aLd3eju) | 2:28 | 2023-01-26 | 2023-03-08 |
 | [ما اتفقناش](https://open.spotify.com/track/1NgXSCMvPWPYvewx5m2Oyr) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [ما اتفقناش](https://open.spotify.com/album/59VCxKihjY3xe5zG8srH2X) | 3:41 | 2024-01-05 | 2024-02-08 |

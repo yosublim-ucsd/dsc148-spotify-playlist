@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62517,
+  "num_followers": 62525,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5NktgAAAABGRfk5hme69AuVr/AcmE5Z",
+  "snapshot_id": "Z5d39QAAAADwRxU2Z2h3hqPKWmv66IMG",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -109,6 +109,86 @@
       "url": "https://open.spotify.com/track/1gf6r5Xesd8HPLZ1WVfuZb"
     },
     {
+      "added_at": "2025-01-27 12:11:02",
+      "album": {
+        "name": "Mava Mava Appikondu (From \"Bhagiratha'')",
+        "url": "https://open.spotify.com/album/3G3Do4sY9LFjZeHwSXMw9T"
+      },
+      "artists": [
+        {
+          "name": "S. Pradeep Varma",
+          "url": "https://open.spotify.com/artist/2uutftgiWJixzeOj5zS10G"
+        },
+        {
+          "name": "Poornachandra M Devnag",
+          "url": "https://open.spotify.com/artist/58hfNRJgTUeUCHzfS6vQAr"
+        },
+        {
+          "name": "Shruthi Prahlada",
+          "url": "https://open.spotify.com/artist/1KW5uuc8ZpuVbpnAnopYpi"
+        }
+      ],
+      "duration_ms": 208847,
+      "name": "Mava Mava Appikondu (From \"Bhagiratha'')",
+      "url": "https://open.spotify.com/track/55g34WbkDkrTOpYwblpgcP"
+    },
+    {
+      "added_at": "2025-01-27 08:16:51",
+      "album": {
+        "name": "Laggam (Kannada)",
+        "url": "https://open.spotify.com/album/5DVaHjIlcbe7p9gFbkQXoe"
+      },
+      "artists": [
+        {
+          "name": "Charan Arjun",
+          "url": "https://open.spotify.com/artist/75yCfkTG0b56BdrEhoNreg"
+        },
+        {
+          "name": "Sparsh Arther",
+          "url": "https://open.spotify.com/artist/4FaHRt1uJNf8imZo85dre4"
+        },
+        {
+          "name": "Impana Jayaraj",
+          "url": "https://open.spotify.com/artist/7fvbITLe0tPcsYviUEkjfb"
+        },
+        {
+          "name": "Sidhu Arasu",
+          "url": "https://open.spotify.com/artist/6k7crctWe2sYAIwyEFUS5D"
+        }
+      ],
+      "duration_ms": 205916,
+      "name": "Irralare Innu Viralare",
+      "url": "https://open.spotify.com/track/4SUpiLZNHNRFLAeJuHMnZe"
+    },
+    {
+      "added_at": "2025-01-27 12:11:33",
+      "album": {
+        "name": "Neenage Nee Shuru Maadu Baa (From \"Shabhash Baddimagne\")",
+        "url": "https://open.spotify.com/album/2mcGXpL4N6VGq2giEN7tv0"
+      },
+      "artists": [
+        {
+          "name": "Prashanth Siddhi",
+          "url": "https://open.spotify.com/artist/1HbRPyOAiw8rRACuto5gQM"
+        },
+        {
+          "name": "Pramod Maravante",
+          "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
+        },
+        {
+          "name": "Siddartha Belmannu",
+          "url": "https://open.spotify.com/artist/5XfdsTcXpygFRC6dxjODBC"
+        },
+        {
+          "name": "Prithvi Bhat",
+          "url": "https://open.spotify.com/artist/4NpvD2E2PGBnv56XQB3bqr"
+        }
+      ],
+      "duration_ms": 285714,
+      "name": "Neenage Nee Shuru Maadu Baa (From \"Shabhash Baddimagne\")",
+      "url": "https://open.spotify.com/track/4pnM4rtP7RBIyfVIk2Hg9J"
+    },
+    {
       "added_at": "2025-01-23 09:38:32",
       "album": {
         "name": "Talvar Nodu Guru (From \"Talvar\")",
@@ -151,6 +231,34 @@
       "duration_ms": 212584,
       "name": "Maaye (From \"Monk The Young\")",
       "url": "https://open.spotify.com/track/44lGUIJRNNM8svFDzc8URK"
+    },
+    {
+      "added_at": "2025-01-27 08:16:51",
+      "album": {
+        "name": "Laggam (Kannada)",
+        "url": "https://open.spotify.com/album/5DVaHjIlcbe7p9gFbkQXoe"
+      },
+      "artists": [
+        {
+          "name": "Charan Arjun",
+          "url": "https://open.spotify.com/artist/75yCfkTG0b56BdrEhoNreg"
+        },
+        {
+          "name": "Sparsh Arther",
+          "url": "https://open.spotify.com/artist/4FaHRt1uJNf8imZo85dre4"
+        },
+        {
+          "name": "Impana Jayaraj",
+          "url": "https://open.spotify.com/artist/7fvbITLe0tPcsYviUEkjfb"
+        },
+        {
+          "name": "Sidhu Arasu",
+          "url": "https://open.spotify.com/artist/6k7crctWe2sYAIwyEFUS5D"
+        }
+      ],
+      "duration_ms": 350166,
+      "name": "Este Eanu Este Eanu",
+      "url": "https://open.spotify.com/track/6VO56YYzHD3pQFZhcgCoqu"
     },
     {
       "added_at": "2025-01-21 11:33:52",
@@ -1353,30 +1461,6 @@
       "url": "https://open.spotify.com/track/2scWlSOgj7iBxj83XxJABp"
     },
     {
-      "added_at": "2024-12-16 07:40:47",
-      "album": {
-        "name": "Paisa Paisa (From \"Forest\")",
-        "url": "https://open.spotify.com/album/23san5axgJX9gpA1HFmiWY"
-      },
-      "artists": [
-        {
-          "name": "Chandhan Shetty",
-          "url": "https://open.spotify.com/artist/6eAvxyOfvQtZWjAcILVxah"
-        },
-        {
-          "name": "Dharma Vish",
-          "url": "https://open.spotify.com/artist/6miwTHZ03xmcPUtShuAGgS"
-        },
-        {
-          "name": "Chetan Kumar (Bharjari)",
-          "url": "https://open.spotify.com/artist/2THFun8Wdh9KDrZynk8Bib"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Paisa Paisa (From \"Forest\")",
-      "url": "https://open.spotify.com/track/0SKtBQKj3lFSBTsETbQW1q"
-    },
-    {
       "added_at": "2024-12-02 13:04:23",
       "album": {
         "name": "Sadhaa (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
@@ -1525,26 +1609,6 @@
       "url": "https://open.spotify.com/track/6wZBz4caM86r1IkRN1rrx8"
     },
     {
-      "added_at": "2024-12-06 13:04:45",
-      "album": {
-        "name": "Ra Ra Rakshasa (from \"Rakshasa\")",
-        "url": "https://open.spotify.com/album/09uPG9lQXIHZoPXqzBoizH"
-      },
-      "artists": [
-        {
-          "name": "Varun Unni",
-          "url": "https://open.spotify.com/artist/2W423FPGk8uamQ3AZpb0hT"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        }
-      ],
-      "duration_ms": 205365,
-      "name": "Ra Ra Rakshasa (from \"Rakshasa\")",
-      "url": "https://open.spotify.com/track/2hCHKcMwDIt2cbX7LSNpyf"
-    },
-    {
       "added_at": "2024-12-02 13:05:04",
       "album": {
         "name": "Peelings (From \"Pushpa 2 The Rule\") [KANNADA]",
@@ -1599,30 +1663,6 @@
       "duration_ms": 199072,
       "name": "Neeniru Saaku Nanna Jothe (From \"Ellige Payana Yavudo Daari\")",
       "url": "https://open.spotify.com/track/2MHEEKQUJn1TDPtslw31mS"
-    },
-    {
-      "added_at": "2025-01-22 11:02:29",
-      "album": {
-        "name": "Phirako Maar (From \"Maryade Prashne\")",
-        "url": "https://open.spotify.com/album/6wAglKvY6zksrSg6LEE9jE"
-      },
-      "artists": [
-        {
-          "name": "Arjun Ramu",
-          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
-        },
-        {
-          "name": "Pasha Bhai",
-          "url": "https://open.spotify.com/artist/0ZtHc632dIHzoNp3YC0o1d"
-        },
-        {
-          "name": "Mohammed Imraz Ahmed",
-          "url": "https://open.spotify.com/artist/2O2xzuVoKiTjfdFsgsiQEi"
-        }
-      ],
-      "duration_ms": 158362,
-      "name": "Phirako Maar (From \"Maryade Prashne\")",
-      "url": "https://open.spotify.com/track/5E0oEVKCvtNPeJDYkqovc4"
     },
     {
       "added_at": "2024-11-26 15:46:48",

@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Tate McRae
 
-821 songs - 1 day 18 hr 17 min
+822 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,6 +555,7 @@
 | [PERICOLOSA](https://open.spotify.com/track/7BRuJv2TVuoLynLYrZiixt) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [PERICOLOSA](https://open.spotify.com/album/6J6gRXvkikfaFRkASex0MG) | 2:40 | 2024-11-21 | 2025-01-03 |
 | [PERIFERIA](https://open.spotify.com/track/2A2hnGyNL6XAPzQdfB7BBY) | [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [PERIFERIA](https://open.spotify.com/album/47a1bfygUymRWWw3G7gdHF) | 2:44 | 2025-01-14 |  |
 | [Persi per niente](https://open.spotify.com/track/7Cb4kwCTNKG0myTbARa6if) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Persi per niente](https://open.spotify.com/album/0XK1pERvepV7TQCT2e9UBy) | 2:54 | 2024-09-26 | 2024-10-18 |
+| [PIANGI](https://open.spotify.com/track/1w7ahwV1JYOsbTEyGlLn0y) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PIANGI](https://open.spotify.com/album/63Ah2ya6p54gOZqPda9ZO6) | 2:52 | 2025-01-27 |  |
 | [Piazza Samba](https://open.spotify.com/track/4mxoVyaAfwUaGEmWaxk3WV) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [Piazza Samba](https://open.spotify.com/album/7hA7jB2SxONB4m4x9wj9K9) | 2:35 | 2024-09-19 | 2024-10-11 |
 | [PIAZZALE MICHELANGELO](https://open.spotify.com/track/4qWPde1KTA5SgkZzcLrLHK) | [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [PIAZZALE MICHELANGELO](https://open.spotify.com/album/7BDts23lmlCtOadFH8yOyV) | 2:18 | 2024-11-21 | 2024-11-29 |
 | [piccola](https://open.spotify.com/track/23rvrgsyz8UfDcdJ0Q2n6W) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [piccola](https://open.spotify.com/album/2K5AyOdOngBYvDhG4pGMcL) | 2:15 | 2024-10-17 | 2024-10-25 |

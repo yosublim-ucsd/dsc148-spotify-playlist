@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,845 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,843 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 43 | [Irenka \(Bankietowy live\)](https://open.spotify.com/track/5JBfBQmCHf9rkJlWF5SlrD) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Bankiet u sanah](https://open.spotify.com/album/5pGAzHKxPQ6Of0LgZSPtWA) | 3:43 |
 | 44 | [Piękna degrengolada](https://open.spotify.com/track/2ftszX8lq1fTOnmT4Y24nB) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [DEGRENGOLADA](https://open.spotify.com/album/3jfees0Gp4stDu3DsNm89h) | 4:07 |
 | 45 | [Raj](https://open.spotify.com/track/09oA66AkngYsAD1geLJ8QO) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:42 |
-| 46 | [Friend or Foe?](https://open.spotify.com/track/6AUa8qlzlPVYzpgLLdGLw9) | [Riverside](https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT) | [ID.Entity](https://open.spotify.com/album/3cv5w51uGOU0ItpaSkATZX) | 7:28 |
-| 47 | [Abrete corazon](https://open.spotify.com/track/1WGAVihxhiKWAfCICZPlwW) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l) | [Hé oyáte](https://open.spotify.com/album/3ovjzkM9J9FIaf8MStJqq1) | 9:52 |
+| 46 | [Abrete corazon](https://open.spotify.com/track/1WGAVihxhiKWAfCICZPlwW) | [Laboratorium Pieśni](https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l) | [Hé oyáte](https://open.spotify.com/album/3ovjzkM9J9FIaf8MStJqq1) | 9:52 |
+| 47 | [Friend or Foe?](https://open.spotify.com/track/6AUa8qlzlPVYzpgLLdGLw9) | [Riverside](https://open.spotify.com/artist/5yjbUO1Jocui7RKE30zfLT) | [ID.Entity](https://open.spotify.com/album/3cv5w51uGOU0ItpaSkATZX) | 7:28 |
 | 48 | [VIOLET \(feat\. ZERØ\)](https://open.spotify.com/track/4i3SeVJzijSclCmmp4UDt8) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3), [ZERØ](https://open.spotify.com/artist/4X0wkHFRCALIvIprXD5YsK) | [BOKKA HITS 10](https://open.spotify.com/album/4lpEIOhjPlV3ACNCQahbne) | 4:10 |
 | 49 | [SUMMER SONG](https://open.spotify.com/track/30snd5cTiUVngr70zOe8RQ) | [Zdechły Osa](https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz) | [BRESLAU HARDCORE](https://open.spotify.com/album/7d3sWhON26NwIUIuoVELTm) | 3:16 |
 | 50 | [My](https://open.spotify.com/track/3x3HRFlqBsM3tm2DH9HpGa) | [Kim Nowak](https://open.spotify.com/artist/2MCd1BJPM71DbGdVewk94d) | [My](https://open.spotify.com/album/71FoVkacUpn0o5dTfQWX4b) | 4:23 |

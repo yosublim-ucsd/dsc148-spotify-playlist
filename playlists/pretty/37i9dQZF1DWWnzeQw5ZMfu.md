@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,939 likes - 40 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,958 likes - 40 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 39 | [Hips Don't Lie \(feat\. Wyclef Jean\) \- Live \- December 2006](https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Shakira Oral Fixation Tour \(Live\)](https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ) | 7:16 |
 | 40 | [All of Me \- Live](https://open.spotify.com/track/3rKvSHAmZ28B33JCTVnsu3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [All of Me \(Live\)](https://open.spotify.com/album/489AtT2eCRZnPP8Bw0u4y2) | 4:59 |
 
-Snapshot ID: `Z4rUHgAAAADB5H5pHd6wW/bkGeDGHYV/`
+Snapshot ID: `Z5eWgAAAAABPQ6onQ2ebWDnTKMAOpT7o`

@@ -4,7 +4,7 @@
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-687 songs - 1 day 14 hr 57 min
+688 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [One Small Thing](https://open.spotify.com/track/4cEy2IWsdZhMwqbxUmITHt) | [Princess Skystar \(Kristin Chenoweth\)](https://open.spotify.com/artist/4FqBHTSvc5TSAU6nZ3Aqg7), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT), [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era) | [My Little Pony: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jaMuZugOn1ED05hWervYc) | 2:47 | 2023-06-11 |  |
 | [Other Friends](https://open.spotify.com/track/26rvZvXZsbizgU7hsO9zN8) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU) | [Other Friends](https://open.spotify.com/album/0NcUOnDYdRadRMV1ff4Pvo) | 2:50 | 2023-04-19 |  |
 | [otherside](https://open.spotify.com/track/4PtJNlcpEGyNAkYy44m5fI) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Caves & Cliffs \(Original Game Soundtrack\)](https://open.spotify.com/album/7yQIrNTf3pBu0FdyAJqTqb) | 3:15 | 2023-04-19 |  |
+| [PANIC ATTACK](https://open.spotify.com/track/7Gf6BvF5vHKq1ZABgdbMkx) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PANIC ATTACK](https://open.spotify.com/album/49iWkiTVH0JxJM36bVT7ey) | 2:29 | 2025-01-27 |  |
 | [Paper Rings](https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:42 | 2023-04-19 |  |
 | [PAPERMOON](https://open.spotify.com/track/44LzijoPl4qNVJV6pYmzdS) | [Tommy heavenly6](https://open.spotify.com/artist/6ClPIi6VMHv2Q3OZ4R17wV) | [PAPERMOON](https://open.spotify.com/album/3i25LyQMQ1XF9u9ehPlxVR) | 4:22 | 2023-04-19 |  |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2023-06-10 |  |

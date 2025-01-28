@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Vintage Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,248,832 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,248,881 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Disco Shit](https://open.spotify.com/track/6Od1L6369vboOOofSij7mj) | [Vittor](https://open.spotify.com/artist/3epyeoRc1gn7KoFUSi77Ud), [ONNE](https://open.spotify.com/artist/4CYh95bpSaKKF9AvEI6G6X) | [Disco Shit](https://open.spotify.com/album/4pTDPdlW4mkmPNneqFrzlo) | 2:52 |
 | 80 | [Deep End \- VIP Mix](https://open.spotify.com/track/1ptHpULRhvFV3te7c58eJX) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Deep End \(VIP Mix\)](https://open.spotify.com/album/3awVZY09UDAWzX4UgmYchs) | 4:02 |
 
-Snapshot ID: `Z5MC7AAAAAAG4dWA4wx8zJ7id8IriT8O`
+Snapshot ID: `Z5eiqAAAAABSKd7f+Cc7zIJliW/p9pUy`

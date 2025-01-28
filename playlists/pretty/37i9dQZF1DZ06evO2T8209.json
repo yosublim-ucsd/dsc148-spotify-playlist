@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 673076,
+  "num_followers": 673322,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QpgAAAAAA0gV2wITs+I6loZItgTJ7v",
+  "snapshot_id": "Z5V7AAAAAABpkEPhwjbmmiqfeNuC8/LM",
   "tracks": [
     {
       "added_at": null,
@@ -878,11 +878,19 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Coco O.",
+          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/2hjjUjikOa29kImnI5kQPw"
+      "duration_ms": 180213,
+      "name": "Treehome95 (feat. Coco O. & Erykah Badu)",
+      "url": "https://open.spotify.com/track/2vLwhcsvRd1f2ETft1kWDN"
     },
     {
       "added_at": null,
@@ -962,19 +970,11 @@
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Coco O.",
-          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 180213,
-      "name": "Treehome95 (feat. Coco O. & Erykah Badu)",
-      "url": "https://open.spotify.com/track/2vLwhcsvRd1f2ETft1kWDN"
+      "duration_ms": 195320,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/2hjjUjikOa29kImnI5kQPw"
     },
     {
       "added_at": null,

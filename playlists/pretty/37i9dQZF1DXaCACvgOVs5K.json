@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 624481,
+  "num_followers": 624637,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Colourblind",
+        "url": "https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy"
+      },
+      "artists": [
+        {
+          "name": "Jess Bays",
+          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Colourblind",
+      "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "For The Weekend",
         "url": "https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX"
       },
@@ -1791,26 +1811,6 @@
       "duration_ms": 169722,
       "name": "For The Weekend",
       "url": "https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Colourblind",
-        "url": "https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy"
-      },
-      "artists": [
-        {
-          "name": "Jess Bays",
-          "url": "https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "Colourblind",
-      "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF"
+      },
+      "artists": [
+        {
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "Sunday Shoutin' (TSHA Remix)",
         "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 216622,
       "name": "Sunday Shoutin' - TSHA Remix",
       "url": "https://open.spotify.com/track/1VQgubfXwqYMBQk0vSElUz"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF"
-      },
-      "artists": [
-        {
-          "name": "Edd",
-          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -2019,22 +2019,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "Planet Blue",
-        "url": "https://open.spotify.com/album/60JACgI9pZoolSzyl1yCTL"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         },
         {
-          "name": "Cleo Simone",
-          "url": "https://open.spotify.com/artist/5J88KX5m3P3TxnoUo1h2Ne"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
         }
       ],
-      "duration_ms": 175414,
-      "name": "Planet Blue",
-      "url": "https://open.spotify.com/track/5MvfAqLuOzuJ46quLvHhwn"
+      "duration_ms": 170955,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56"
     }
   ],
   "unique_name": "Ibiza 2024",

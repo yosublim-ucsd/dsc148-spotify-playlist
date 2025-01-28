@@ -6,46 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z47jgAAAAAAdvTTLxpW3Ry4LhBJzLSb3",
+  "snapshot_id": "Z47jgAAAAACyrlybCRZ5hRDnboDktmPJ",
   "tracks": [
     {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
-      },
-      "artists": [
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Talk It Up",
-      "url": "https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd"
-      },
-      "artists": [
-        {
-          "name": "Toby Sebastian",
-          "url": "https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP"
-        },
-        {
-          "name": "Florence Pugh",
-          "url": "https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq"
-        }
-      ],
-      "duration_ms": 285076,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
         "name": "Atlas: Survive",
         "url": "https://open.spotify.com/album/6CQOJdEaVnfMrimDadiedZ"
@@ -61,87 +25,23 @@
       "url": "https://open.spotify.com/track/2cKkthxFdzFEmZeMThj2Sn"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/7wm2HiXC9K04GXRV6H1iES"
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
       },
       "artists": [
         {
-          "name": "Ezra Glatt",
-          "url": "https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek"
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
         }
       ],
-      "duration_ms": 92769,
-      "name": "Moving Light",
-      "url": "https://open.spotify.com/track/6EQneB4nJ8r8COyeqR6eQz"
+      "duration_ms": 238480,
+      "name": "Talk It Up",
+      "url": "https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Orange Blossoms",
-        "url": "https://open.spotify.com/album/1rhRxEgWl6CcDM87hJVGwD"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 192131,
-      "name": "Orange Blossoms",
-      "url": "https://open.spotify.com/track/3Xg2ZCPPKfWsj9W8cmLbHF"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/1oV4ur0tEOYr6fuPXRnrRA"
-      },
-      "artists": [
-        {
-          "name": "Vraell",
-          "url": "https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO"
-        }
-      ],
-      "duration_ms": 134120,
-      "name": "Glimpse",
-      "url": "https://open.spotify.com/track/4npXs1X5zRRTjvCLNZPuR8"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Mama's Big Ones",
-        "url": "https://open.spotify.com/album/3x44BijmAfm1N7Cs7yILL4"
-      },
-      "artists": [
-        {
-          "name": "Cass Elliot",
-          "url": "https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk"
-        }
-      ],
-      "duration_ms": 139533,
-      "name": "Make Your Own Kind Of Music",
-      "url": "https://open.spotify.com/track/6H3Wa6hWR9DRMzMSd4pZkT"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Exit Form",
-        "url": "https://open.spotify.com/album/1saEAlYnmTmxGMTo4x3fiR"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Aranda",
-          "url": "https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn"
-        }
-      ],
-      "duration_ms": 245836,
-      "name": "Out Loud - Remastered",
-      "url": "https://open.spotify.com/track/415YnURdXwND7z2GiVxtZm"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
         "name": "Hogwarts Legacy (Study Themes from the Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/6RXj34onpdKyOKxLymuOMh"
@@ -161,59 +61,23 @@
       "url": "https://open.spotify.com/track/2iDc9KmT8DnhEUzjIxkeET"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
-        "name": "Songs of the Sunrise Fox",
-        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
+        "name": "ParaNorman",
+        "url": "https://open.spotify.com/album/5IXZEGA5h7aGBwKZ31Rigi"
       },
       "artists": [
         {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+          "name": "Jon Brion",
+          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
         }
       ],
-      "duration_ms": 208280,
-      "name": "Aesop Mountain",
-      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
+      "duration_ms": 173504,
+      "name": "Norman's Walk",
+      "url": "https://open.spotify.com/track/06MOMPokkhyLYztibnUZBE"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Jacob and the Stone",
-        "url": "https://open.spotify.com/album/08qzpzjJjAhAAYp1ZRr0Ax"
-      },
-      "artists": [
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        },
-        {
-          "name": "sped up + slowed",
-          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
-        }
-      ],
-      "duration_ms": 139247,
-      "name": "Jacob and the Stone - Slowed",
-      "url": "https://open.spotify.com/track/4x3r948PzG7f2KQZ7jbrBs"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "151a",
-        "url": "https://open.spotify.com/album/57hpjWfEY0q8USDRrMYMef"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 246173,
-      "name": "Manchester",
-      "url": "https://open.spotify.com/track/6Ehg6hFp7O2qUF3njy7dAj"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y"
@@ -229,7 +93,107 @@
       "url": "https://open.spotify.com/track/2uWMiNjIlRIF5iJ8uss76w"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
+        }
+      ],
+      "duration_ms": 161612,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd"
+      },
+      "artists": [
+        {
+          "name": "Toby Sebastian",
+          "url": "https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP"
+        },
+        {
+          "name": "Florence Pugh",
+          "url": "https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq"
+        }
+      ],
+      "duration_ms": 285076,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Exit Form",
+        "url": "https://open.spotify.com/album/1saEAlYnmTmxGMTo4x3fiR"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Aranda",
+          "url": "https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn"
+        }
+      ],
+      "duration_ms": 245836,
+      "name": "Out Loud - Remastered",
+      "url": "https://open.spotify.com/track/415YnURdXwND7z2GiVxtZm"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Orange Blossoms",
+        "url": "https://open.spotify.com/album/1rhRxEgWl6CcDM87hJVGwD"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 192131,
+      "name": "Orange Blossoms",
+      "url": "https://open.spotify.com/track/3Xg2ZCPPKfWsj9W8cmLbHF"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Doctor Who - Series 9 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5AQhqhSKwL8yIlNWhm5o8C"
+      },
+      "artists": [
+        {
+          "name": "Murray Gold",
+          "url": "https://open.spotify.com/artist/3vmtDGkzacafVdenyPHPMb"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "The Shepherd's Boy",
+      "url": "https://open.spotify.com/track/6EIJTVtOQEzmLUItwb4sdh"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Take Me Down Easy",
+        "url": "https://open.spotify.com/album/3m0UkOUmDAMVsgNPZeYLkf"
+      },
+      "artists": [
+        {
+          "name": "James Henry Jr.",
+          "url": "https://open.spotify.com/artist/02ZZnYUAoQF7J6zhk6G4i9"
+        }
+      ],
+      "duration_ms": 248616,
+      "name": "Take Me Down Easy",
+      "url": "https://open.spotify.com/track/1Gqu3WAy93q3lhkv67ZPW8"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
       "album": {
         "name": "Coarsegold",
         "url": "https://open.spotify.com/album/6tOpEyxCEGW4vJzh7m6yxU"
@@ -245,23 +209,39 @@
       "url": "https://open.spotify.com/track/4BJhs8XWyr2M4MLvS4CSKx"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
-        "name": "the way that i am",
-        "url": "https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y"
+        "name": "acoustic-ish: an album\u2026ish",
+        "url": "https://open.spotify.com/album/2I8D4okVugDDq3YPvRDydA"
       },
       "artists": [
         {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
         }
       ],
-      "duration_ms": 177149,
-      "name": "the way that i am",
-      "url": "https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe"
+      "duration_ms": 190500,
+      "name": "The Weather (acoustic-ish)",
+      "url": "https://open.spotify.com/track/4YrBpjgss8Y8VisQArkLwF"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Ghost Choir",
+        "url": "https://open.spotify.com/album/2jmGDEJUjKQLzUBQzvQWga"
+      },
+      "artists": [
+        {
+          "name": "Louie Zong",
+          "url": "https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD"
+        }
+      ],
+      "duration_ms": 97842,
+      "name": "Ghost Choir",
+      "url": "https://open.spotify.com/track/5d5vbFsYB7EebhVgafqvKS"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
       "album": {
         "name": "Past Lives (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn"
@@ -281,159 +261,151 @@
       "url": "https://open.spotify.com/track/2E9Mfz6CKQVDNVUGSyFeTg"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
-        "name": "Take Me Down Easy",
-        "url": "https://open.spotify.com/album/3m0UkOUmDAMVsgNPZeYLkf"
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/1oV4ur0tEOYr6fuPXRnrRA"
       },
       "artists": [
         {
-          "name": "James Henry Jr.",
-          "url": "https://open.spotify.com/artist/02ZZnYUAoQF7J6zhk6G4i9"
+          "name": "Vraell",
+          "url": "https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO"
         }
       ],
-      "duration_ms": 248616,
-      "name": "Take Me Down Easy",
-      "url": "https://open.spotify.com/track/1Gqu3WAy93q3lhkv67ZPW8"
+      "duration_ms": 134120,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/4npXs1X5zRRTjvCLNZPuR8"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
-        "name": "Inside Llewyn Davis: Original Soundtrack Recording",
-        "url": "https://open.spotify.com/album/1HlwBBTjItwW2VN4OG1rin"
+        "name": "Oak Trees",
+        "url": "https://open.spotify.com/album/3fjx4x46zUIWgplJlI7Wfv"
       },
       "artists": [
         {
-          "name": "Oscar Isaac",
-          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
+          "name": "Daniel Nunnelee",
+          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
+        }
+      ],
+      "duration_ms": 233845,
+      "name": "Oak Trees",
+      "url": "https://open.spotify.com/track/39HJhQPvFCpt8y3N2jlKjd"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Wingspan (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0U1h0B0i4v1m5R2ijtOuee"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 G\u00f3rniak",
+          "url": "https://open.spotify.com/artist/0oVDZHBawiU218Kx4Ec16o"
+        }
+      ],
+      "duration_ms": 113663,
+      "name": "The Opening (Original Video Game Soundtrack)",
+      "url": "https://open.spotify.com/track/2Cy0je383HEoGsRPk7ZVUr"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Once in a Long, Long While...",
+        "url": "https://open.spotify.com/album/5dhet1luldVxu21FUspJXV"
+      },
+      "artists": [
+        {
+          "name": "Low Roar",
+          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
         },
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+          "name": "J\u00f3fr\u00ed\u00f5ur \u00c1kad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/3LSqAcESIkzE2HxeBRsgVy"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Fare Thee Well (Dink's Song)",
-      "url": "https://open.spotify.com/track/0YOOXnCJihgyluizqhAcrz"
+      "duration_ms": 169805,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/6lt8Z886tMHpNqzOFWX8Yn"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+        "name": "Sayonara Wild Hearts",
+        "url": "https://open.spotify.com/album/4G2oaPBAeY6aBi2S3QHtwq"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 189624,
-      "name": "Boyhood",
-      "url": "https://open.spotify.com/track/6HBNGrp119jJwbklsGOuUh"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "ParaNorman",
-        "url": "https://open.spotify.com/album/5IXZEGA5h7aGBwKZ31Rigi"
-      },
-      "artists": [
-        {
-          "name": "Jon Brion",
-          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
-        }
-      ],
-      "duration_ms": 173504,
-      "name": "Norman's Walk",
-      "url": "https://open.spotify.com/track/06MOMPokkhyLYztibnUZBE"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "True That",
-        "url": "https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5"
-      },
-      "artists": [
-        {
-          "name": "Michael Cera",
-          "url": "https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "(i would have followed you)",
-        "url": "https://open.spotify.com/album/7oODsnDx7Pccntmf78OzQM"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "Love Letter From The Sea to The Shore",
-      "url": "https://open.spotify.com/track/0yDghAfS3CT7Di30WoJE7h"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "I'd Have to Think About It",
-        "url": "https://open.spotify.com/album/13NV9whHhEz1qhD2XqiawI"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 150141,
-      "name": "I'd Have to Think About It",
-      "url": "https://open.spotify.com/track/3MkEVGXroAZV4BAtBV9yOf"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/7vSvdmI0szfMcn7LyVjp0R"
-      },
-      "artists": [
-        {
-          "name": "Emma Thompson",
-          "url": "https://open.spotify.com/artist/4tB1f1h4TQqDz4bNaibMpl"
+          "name": "Daniel Ols\u00e9n",
+          "url": "https://open.spotify.com/artist/4Sxhex40BZgYwJu0JqIZzn"
         },
         {
-          "name": "Peigi Barker",
-          "url": "https://open.spotify.com/artist/7qFPUIUb5iU3p3q1ZAyszH"
+          "name": "Jonathan Eng",
+          "url": "https://open.spotify.com/artist/6DGvFaab7SEc4jnv38mKxQ"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
         }
       ],
-      "duration_ms": 156040,
-      "name": "Noble Maiden Fair (A Mhaighdean Bhan Uasal) - From \"Brave\"/Soundtrack",
-      "url": "https://open.spotify.com/track/47d2mzkc3bPUD93NB0gKLR"
+      "duration_ms": 129957,
+      "name": "A Place I Don\u2019t Know",
+      "url": "https://open.spotify.com/track/6O96v1HqTrP34qPhdQ7sU7"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
-        "name": "Speak for Yourself (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+        "name": "Better in the Morning",
+        "url": "https://open.spotify.com/album/192l8IAm2wYfwxsbt58WOO"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
         }
       ],
-      "duration_ms": 268488,
-      "name": "Hide and Seek",
-      "url": "https://open.spotify.com/track/2tej1KSqNuxwywIpY1rDRc"
+      "duration_ms": 164333,
+      "name": "Better in the Morning",
+      "url": "https://open.spotify.com/track/4iZDK4OvoQSZGeTmkxM4GH"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 146160,
+      "name": "The First I love You",
+      "url": "https://open.spotify.com/track/4JWNeArR4aYNnOZ0NOIQV5"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Jacob and the Stone",
+        "url": "https://open.spotify.com/album/08qzpzjJjAhAAYp1ZRr0Ax"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "duration_ms": 139247,
+      "name": "Jacob and the Stone - Slowed",
+      "url": "https://open.spotify.com/track/4x3r948PzG7f2KQZ7jbrBs"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
       "album": {
         "name": "Seven + Mary",
         "url": "https://open.spotify.com/album/5krQbJqzCCOxCGOQ3W8Tr6"
@@ -449,72 +421,108 @@
       "url": "https://open.spotify.com/track/1Bc2DgDK6W5iyWEFkI92fe"
     },
     {
-      "added_at": "2025-01-20 05:00:00",
+      "added_at": "2025-01-27 05:00:00",
       "album": {
-        "name": "Ted Lasso: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/5USNWnvRSYMdG7CUVhG1B0"
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
       },
       "artists": [
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 181285,
+      "name": "Hopes And Dreams",
+      "url": "https://open.spotify.com/track/7CMVo848b9LsUtVavIoiXC"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Over the Hedge-Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/7bhg9CHSxZgayMAC4mJGTx"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/5rasBZY5n2yEKm6J7mypIK"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Northern Italy",
+        "url": "https://open.spotify.com/album/2Aa1jx859mkgznEZQeLF1J"
+      },
+      "artists": [
+        {
+          "name": "Margaux Beylier",
+          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
+        }
+      ],
+      "duration_ms": 190214,
+      "name": "Northern Italy",
+      "url": "https://open.spotify.com/track/1Eg4CmLudi51fJHjY6kegZ"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Detroit: Become Human (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3mlnG0QIGKsAp50vTBKSur"
+      },
+      "artists": [
+        {
+          "name": "Philip Sheppard",
+          "url": "https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1"
+        }
+      ],
+      "duration_ms": 414790,
+      "name": "Kara Main Theme - Kara",
+      "url": "https://open.spotify.com/track/1KOUWbi3StqWAT4odlEhu3"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Learning to Fly",
+        "url": "https://open.spotify.com/album/4wLWLczYQBsCdG65exvyXj"
+      },
+      "artists": [
+        {
+          "name": "Hills x Hills",
+          "url": "https://open.spotify.com/artist/4WQXjloYdAvQregUNv1XYp"
+        }
+      ],
+      "duration_ms": 241770,
+      "name": "Learning to Fly",
+      "url": "https://open.spotify.com/track/6Au80eD2nty1qvZaxLEkkG"
+    },
+    {
+      "added_at": "2025-01-27 05:00:00",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         },
         {
-          "name": "Tom Howe",
-          "url": "https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6"
-        }
-      ],
-      "duration_ms": 132080,
-      "name": "Dad & Darts",
-      "url": "https://open.spotify.com/track/2OqEvGkERXnwe4hghMyltD"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Doctor Who - Series 7 (Original Television Soundtrack / Deluxe Version)",
-        "url": "https://open.spotify.com/album/4w1p9Csd8ljUyoClCpfmhT"
-      },
-      "artists": [
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
         {
-          "name": "Murray Gold",
-          "url": "https://open.spotify.com/artist/3vmtDGkzacafVdenyPHPMb"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 218666,
-      "name": "The Long Song - From \"Doctor Who\" Series 7",
-      "url": "https://open.spotify.com/track/2E27d8ONfN4H7clLIfWAic"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "twelvefour",
-        "url": "https://open.spotify.com/album/1f3jCFgt3cXyaPr854eQ2t"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Electric Indigo",
-      "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "The Chronicles of Narnia: The Lion, The Witch and The Wardrobe (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/01wn5MrXTUWjdYTLYC2wqU"
-      },
-      "artists": [
-        {
-          "name": "Harry Gregson-Williams",
-          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "The Battle",
-      "url": "https://open.spotify.com/track/1ze3GTOVgAG5xLVrvcEoUS"
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

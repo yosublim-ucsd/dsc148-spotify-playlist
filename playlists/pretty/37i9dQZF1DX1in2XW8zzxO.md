@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,816 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,854 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 46 | [All Night](https://open.spotify.com/track/64uHIutDM1LeKX12mONusv) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [All Night](https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch) | 5:58 |
 | 47 | [BIG FUN \- THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY \(FEAT\. JAY MUSIC\)](https://open.spotify.com/track/3JlIWcL8I4XISGbkkVYhvV) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Thuto The Human](https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [BIG FUN \- THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY \(FEAT\. JAY MUSIC\)](https://open.spotify.com/album/68DnMLu8TDXG6RwZ1AzfeK) | 7:09 |
 | 48 | [Shuffle](https://open.spotify.com/track/0jLE159BmNIIwongqStIp1) | [Shuffle Muzik](https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x), [Fire](https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN), [Lynden X](https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a), [Thabsoul](https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT) | [Shuffle](https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i) | 6:15 |
-| 49 | [Class \(feat\. Lorenzo, Licious, Macdeedozer & Figza\)](https://open.spotify.com/track/5oytkJJF06OSd0agoki3d7) | [Gator Groover](https://open.spotify.com/artist/4SJ3vQFXCP0IL1NY5SPt7X), [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Licious](https://open.spotify.com/artist/1rGzMrymPmJnDQkWteiuNu), [Macdeedozer](https://open.spotify.com/artist/1HEVJU3Tcie62BU1d3QDXP), [Figza](https://open.spotify.com/artist/4pVEyxaHrhzQUU4l4R78me) | [Lempilo](https://open.spotify.com/album/4FNoxtymY4Uz8veZFGQ2xv) | 6:54 |
-| 50 | [Ngeke \- Radio Edit](https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22) | [Calvin Shaw](https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa) | [Ngeke](https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL) | 3:54 |
+| 49 | [Ngeke \- Radio Edit](https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22) | [Calvin Shaw](https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa) | [Ngeke](https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL) | 3:54 |
+| 50 | [Class \(feat\. Lorenzo, Licious, Macdeedozer & Figza\)](https://open.spotify.com/track/5oytkJJF06OSd0agoki3d7) | [Gator Groover](https://open.spotify.com/artist/4SJ3vQFXCP0IL1NY5SPt7X), [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Licious](https://open.spotify.com/artist/1rGzMrymPmJnDQkWteiuNu), [Macdeedozer](https://open.spotify.com/artist/1HEVJU3Tcie62BU1d3QDXP), [Figza](https://open.spotify.com/artist/4pVEyxaHrhzQUU4l4R78me) | [Lempilo](https://open.spotify.com/album/4FNoxtymY4Uz8veZFGQ2xv) | 6:54 |
 
 Snapshot ID: `ZxrUTgAAAABXBeCgKIYTRGLeBMcTyZ3D`

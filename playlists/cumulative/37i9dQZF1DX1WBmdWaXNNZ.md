@@ -4,7 +4,7 @@
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-143 songs - 8 hr 59 min
+144 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Drinking Dance](https://open.spotify.com/track/2kslhvz31NSZ6eKSiiNH5a) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Koi](https://open.spotify.com/album/0dQHVhTZlbT2S7vq6pM0t7) | 3:40 | 2022-07-17 | 2024-04-19 |
 | [Drinking Dance](https://open.spotify.com/track/5BI9ImD6DhRtfsgaRAg4LL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [恋](https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27) | 3:40 | 2022-04-07 |  |
 | [Dust](https://open.spotify.com/track/08r2AeGoMNJKd21IVl5N1V) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Gag](https://open.spotify.com/album/6A3T1oQsAklCecRLwiKPps) | 3:46 | 2022-07-17 | 2024-04-19 |
+| [Eureka](https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Eureka](https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL) | 3:31 | 2025-01-27 |  |
 | [Family Song](https://open.spotify.com/track/3Ms2WsIGHExju0gpucrWxv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Family Song](https://open.spotify.com/album/1oJznhV4m2H2PeeNkCnKbR) | 5:24 | 2022-07-17 | 2024-04-19 |
 | [Family Song](https://open.spotify.com/track/6XzDz5r1bGMkcOKeXQwTqM) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Family Song](https://open.spotify.com/album/6xgolNn3qUk3c2fvkBKuwN) | 5:24 | 2022-04-07 |  |
 | [Film](https://open.spotify.com/track/4heHCAVdN0df6wrtN6moAI) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Stranger](https://open.spotify.com/album/7GJtALMajef2QQw7cyzXyx) | 4:49 | 2022-07-17 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: KickFlip",
-  "num_followers": 438858,
+  "num_followers": 438928,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,26 @@
   },
   "snapshot_id": "Z5bNWgAAAAApxLcucABNHM624g2MbfkP",
   "tracks": [
+    {
+      "added_at": "2025-01-27 00:03:38",
+      "album": {
+        "name": "Better Half (feat. Omoinotake)",
+        "url": "https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9"
+      },
+      "artists": [
+        {
+          "name": "JEONGHAN",
+          "url": "https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF"
+        },
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "Better Half (feat. Omoinotake)",
+      "url": "https://open.spotify.com/track/1beUALLSloBEvYre65QiW6"
+    },
     {
       "added_at": "2025-01-27 00:03:38",
       "album": {

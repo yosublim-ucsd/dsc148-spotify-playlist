@@ -1,12 +1,12 @@
 {
   "description": "Morocco\u2019s biggest playlist featuring the hottest 50 tracks. Cover: Stormy",
-  "num_followers": 678986,
+  "num_followers": 679003,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5YwqQAAAADJUJKodpteNj1+EDmbBoMu",
+  "snapshot_id": "Z5fOfQAAAAATRzG3xGyVqZCHoRLap9s6",
   "tracks": [
     {
       "added_at": "2025-01-26 12:55:05",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-01-26 12:55:05",
       "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
-      "added_at": "2025-01-26 12:55:05",
-      "album": {
         "name": "Sokkar",
         "url": "https://open.spotify.com/album/3WANh1LW70HosSAYQxWfkd"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 196697,
       "name": "DIPLOMATICO",
       "url": "https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk"
+    },
+    {
+      "added_at": "2025-01-26 12:55:05",
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "added_at": "2025-01-26 12:55:05",
@@ -359,22 +359,6 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2025-01-26 12:55:05",
-      "album": {
-        "name": "3DABI",
-        "url": "https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "3DABI",
-      "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
     },
     {
       "added_at": "2025-01-26 12:55:05",
@@ -503,22 +487,6 @@
     {
       "added_at": "2025-01-26 12:55:05",
       "album": {
-        "name": "Mimti",
-        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
-        }
-      ],
-      "duration_ms": 198595,
-      "name": "Mimti",
-      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
-    },
-    {
-      "added_at": "2025-01-26 12:55:05",
-      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 199968,
       "name": "TABOUT",
       "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
+    },
+    {
+      "added_at": "2025-01-26 12:55:05",
+      "album": {
+        "name": "Mimti",
+        "url": "https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        }
+      ],
+      "duration_ms": 198595,
+      "name": "Mimti",
+      "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
+    },
+    {
+      "added_at": "2025-01-26 12:55:05",
+      "album": {
+        "name": "3DABI",
+        "url": "https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "3DABI",
+      "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
     },
     {
       "added_at": "2025-01-26 12:55:05",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-01-26 12:55:05",
       "album": {
-        "name": "Zarzour",
-        "url": "https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Zarzour",
-      "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
-    },
-    {
-      "added_at": "2025-01-26 12:55:05",
-      "album": {
         "name": "Lalla w Mali",
         "url": "https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl"
       },
@@ -767,22 +751,6 @@
     {
       "added_at": "2025-01-26 12:55:05",
       "album": {
-        "name": "KIF KIF",
-        "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "KIF KIF",
-      "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
-    },
-    {
-      "added_at": "2025-01-26 12:55:05",
-      "album": {
         "name": "Echoes Of Dust",
         "url": "https://open.spotify.com/album/6e5DWWQd6goRBXoG8U13C8"
       },
@@ -811,6 +779,42 @@
       "duration_ms": 223157,
       "name": "Ya Mektoubi",
       "url": "https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH"
+    },
+    {
+      "added_at": "2025-01-26 12:55:05",
+      "album": {
+        "name": "Zarzour",
+        "url": "https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Zarzour",
+      "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
+    },
+    {
+      "added_at": "2025-01-27 18:20:44",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Timeless (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
       "added_at": "2025-01-26 12:55:05",
@@ -863,26 +867,18 @@
     {
       "added_at": "2025-01-26 12:55:05",
       "album": {
-        "name": "Alibi (with Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+        "name": "KIF KIF",
+        "url": "https://open.spotify.com/album/7DeGLtJG2R45QJrHW1NLLF"
       },
       "artists": [
         {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
         }
       ],
-      "duration_ms": 161655,
-      "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+      "duration_ms": 227826,
+      "name": "KIF KIF",
+      "url": "https://open.spotify.com/track/23iRPid7TsITfNxKGL0toM"
     },
     {
       "added_at": "2025-01-26 12:55:05",

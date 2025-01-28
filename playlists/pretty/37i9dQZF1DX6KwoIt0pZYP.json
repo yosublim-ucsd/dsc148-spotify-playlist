@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 245773,
+  "num_followers": 245786,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
         "name": "alone tonight",
         "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 225031,
       "name": "intentions",
       "url": "https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "Glimpse of Us",
-        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 163333,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "Glimpse of Us",
+        "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/0ghjtCHD4zRz0XkIVp2KQn"
-      },
-      "artists": [
-        {
-          "name": "Midnight Blu",
-          "url": "https://open.spotify.com/artist/1CrF9Qw6ekBFc36BbWWihl"
-        }
-      ],
-      "duration_ms": 292901,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/5q1usJ8JdXbmuojeXEUm0t"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
         "name": "hero",
         "url": "https://open.spotify.com/album/3bu3fyvtURUF34oFHBvxeJ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 184142,
       "name": "hero",
       "url": "https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/0ghjtCHD4zRz0XkIVp2KQn"
+      },
+      "artists": [
+        {
+          "name": "Midnight Blu",
+          "url": "https://open.spotify.com/artist/1CrF9Qw6ekBFc36BbWWihl"
+        }
+      ],
+      "duration_ms": 292901,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/5q1usJ8JdXbmuojeXEUm0t"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16"
+      },
+      "artists": [
+        {
+          "name": "Haven",
+          "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
         "name": "Everlasting Dance",
         "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 203231,
       "name": "Everlasting Dance",
       "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 155486,
-      "name": "Cruise Control",
-      "url": "https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp"
     }
   ],
   "unique_name": "tapioca",

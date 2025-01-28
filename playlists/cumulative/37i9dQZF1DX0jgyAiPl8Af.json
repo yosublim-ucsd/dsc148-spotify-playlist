@@ -3585,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Dripping Ink",
+        "url": "https://open.spotify.com/album/7rxlruoX81Q26EZoVK7sr1"
+      },
+      "artists": [
+        {
+          "name": "Somerset Kent",
+          "url": "https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102985,
+      "name": "Dripping Ink",
+      "url": "https://open.spotify.com/track/7oSRJwhRI80F6aMV33dZ9t"
+    },
+    {
+      "album": {
         "name": "Droplets",
         "url": "https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt"
       },
@@ -10812,6 +10830,24 @@
       "duration_ms": 112475,
       "name": "River of Regisfield",
       "url": "https://open.spotify.com/track/02p0tuBNxqqaiveKZOXgDn"
+    },
+    {
+      "album": {
+        "name": "River's Edge",
+        "url": "https://open.spotify.com/album/0nqR7HIHANllfef8LZt8NZ"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "River's Edge",
+      "url": "https://open.spotify.com/track/7lcpqrRdvs8komIL2UI1e6"
     },
     {
       "album": {

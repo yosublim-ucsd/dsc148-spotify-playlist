@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Sexyy Red & Bruno Mars, Creepy Nuts, Teddy Swims, Central Cee, Tate McRae and more! cover: Sexyy Red & Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,416 likes - 83 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,429 likes - 83 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Yves Jarvis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,287,511 likes - 175 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,534 likes - 175 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

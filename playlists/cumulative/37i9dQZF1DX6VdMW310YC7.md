@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,724 songs - 4 day 21 hr 51 min
+1,725 songs - 4 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Fading Memories](https://open.spotify.com/track/3iO88Yon2jOOeT9AefoGF2) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA), [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd), [Sam Halabi](https://open.spotify.com/artist/0kdzjDb2TKsCiJwWaBkZTQ) | [Fading Memories](https://open.spotify.com/album/5RzqSHBKXhYdHVf1X4B0Z6) | 2:40 | 2020-03-16 | 2021-03-10 |
 | [Falcon Eyes](https://open.spotify.com/track/0cdKQ230JvdLwG2JtPQ0Ws) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Falcon Eyes](https://open.spotify.com/album/4t4XC01yuFtLTcaWopgw3y) | 3:42 | 2022-12-28 | 2023-01-06 |
 | [Fall \- 6AM Mix](https://open.spotify.com/track/63dG0sIaqOYLFZ0S94XF89) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Fall \(KC Lights Remixes\)](https://open.spotify.com/album/7amjEc3T8lTIJuOFFjbORO) | 3:17 | 2022-03-25 | 2022-12-29 |
+| [Fall Apart](https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Fall Apart](https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2) | 3:08 | 2025-01-24 |  |
 | [Fall in Deep](https://open.spotify.com/track/4pgOyxhTFOuNZJndYQJkKk) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Fall in Deep](https://open.spotify.com/album/0ro9l9lDWGBP8liktBsJOZ) | 3:37 | 2020-05-18 | 2021-01-11 |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-09 | 2022-12-29 |
 | [Falling](https://open.spotify.com/track/2B7o7cBAno5SaZLljqlPVc) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Falling](https://open.spotify.com/album/2u45jCKKoRA20flSf7Ry2r) | 3:22 | 2022-07-01 | 2022-09-26 |
@@ -869,7 +870,7 @@
 | [Life](https://open.spotify.com/track/1cbTtMT1nXnvZf93ZYnSSj) | [Thaylo](https://open.spotify.com/artist/56kaKCBAUCPViDb5XvdTaB), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Life](https://open.spotify.com/album/6PBmEy7AwKSRnZbxnDmDzU) | 3:44 | 2024-08-02 | 2024-08-08 |
 | [life gets hard](https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F) | [life gets hard](https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj) | 2:05 | 2024-01-19 |  |
 | [Life on Hold](https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Life on Hold](https://open.spotify.com/album/030x3uRQYYEtkFwpIj60ci) | 3:27 | 2021-09-03 | 2023-09-09 |
-| [LIFELINE](https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo) | 3:26 | 2024-05-10 |  |
+| [LIFELINE](https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo) | 3:26 | 2024-05-10 | 2025-01-28 |
 | [Lifted](https://open.spotify.com/track/52aTqJfaWWLIHSC3bCyjoU) | [Oliver Michael](https://open.spotify.com/artist/58Oe01uYw1nODV5DwGO14z), [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Lifted](https://open.spotify.com/album/57HPihU8Vbc36hgYSqlFUh) | 3:15 | 2024-04-05 | 2024-04-11 |
 | [Light A Fire](https://open.spotify.com/track/47Ahlfj3ZRc1MRf7np0jaf) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Light A Fire](https://open.spotify.com/album/4j0tX0LsZGN3ZNtVAzGjBl) | 2:34 | 2022-05-20 | 2022-12-29 |
 | [Light Of Day](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-07-15 | 2023-09-09 |

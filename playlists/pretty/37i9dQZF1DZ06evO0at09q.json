@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QpgAAAAAAXr9RSpAqtHoTRQVjVan6f",
+  "snapshot_id": "Z5V7AAAAAADoiEARQ678YMltDlqEmfUG",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Right",
-        "url": "https://open.spotify.com/album/7IkoF4tW0xPX9tVF9LxbnT"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 225120,
-      "name": "You Right",
-      "url": "https://open.spotify.com/track/58GOSPgDqiSblEpGD9gFda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/1KhopIaV113en6vdzKxWGZ"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 240000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/7Cpc4zbO1DShE6eikGETd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Right",
+        "url": "https://open.spotify.com/album/7IkoF4tW0xPX9tVF9LxbnT"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "You Right",
+      "url": "https://open.spotify.com/track/58GOSPgDqiSblEpGD9gFda"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yup",
-        "url": "https://open.spotify.com/album/1vU1lIYBioS4MTWvECBnSp"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Yup",
-      "url": "https://open.spotify.com/track/53URohpgcBoGfGsmG0iqpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Therapy EP",
         "url": "https://open.spotify.com/album/0FUzCN0xgPAaKTPHfcjEtV"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 243750,
       "name": "HAMMER (FIRE AGAIN)",
       "url": "https://open.spotify.com/track/4ftYyke3ojGfJb1ZnQR7q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yup",
+        "url": "https://open.spotify.com/album/1vU1lIYBioS4MTWvECBnSp"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Yup",
+      "url": "https://open.spotify.com/track/53URohpgcBoGfGsmG0iqpv"
     },
     {
       "added_at": null,
@@ -427,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/6IVeajoC6n1iTPlYk2ACRP"
+        "name": "Weird Times",
+        "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
       },
       "artists": [
-        {
-          "name": "Jacknife",
-          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
-        },
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/1T9DXPyT430MYJwFbyykZf"
+      "duration_ms": 243809,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj"
     },
     {
       "added_at": null,
@@ -463,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weird Times",
-        "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/6IVeajoC6n1iTPlYk2ACRP"
       },
       "artists": [
+        {
+          "name": "Jacknife",
+          "url": "https://open.spotify.com/artist/28YvCT7aJv6DMie7ltTeqo"
+        },
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 243809,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/4FgfOab3GFJWaYpd6jhlqj"
+      "duration_ms": 166875,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/1T9DXPyT430MYJwFbyykZf"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Ohh",
+      "url": "https://open.spotify.com/track/7oiS5Rx9iAmdFNsIoo6Oeh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Boat House Deck Party, Vol. 3: Crew Edition",
         "url": "https://open.spotify.com/album/1wyyM9aVg91x61TeDBoGF4"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 281652,
       "name": "Move Girl - Original Mix",
       "url": "https://open.spotify.com/track/0Zgdc3RXdmiaptAHzKLI8T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/7rsCAGnLldVpyhXYbLWTSa"
-      },
-      "artists": [
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Ohh",
-      "url": "https://open.spotify.com/track/7oiS5Rx9iAmdFNsIoo6Oeh"
     },
     {
       "added_at": null,
@@ -695,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weird Times",
-        "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/6WJjXanunC2Zhd2ZUybHCE"
       },
       "artists": [
         {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+          "name": "DirtyFun",
+          "url": "https://open.spotify.com/artist/34COAQQm9sxxuIiNYyIClG"
         },
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 227441,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/2csADrGfCpIF81Ce8cD6UO"
+      "duration_ms": 204024,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/5g4IY00EiaIaADARQW6uvr"
     },
     {
       "added_at": null,
@@ -735,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jauz Presents: This Is off the Deep End",
-        "url": "https://open.spotify.com/album/4sqdlKShrnyfzEH86X3bfW"
+        "name": "Weird Times",
+        "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
       },
       "artists": [
         {
-          "name": "Kendoll",
-          "url": "https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r"
-        },
-        {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
         }
       ],
-      "duration_ms": 243809,
-      "name": "Fast Beats",
-      "url": "https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy"
+      "duration_ms": 227441,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/2csADrGfCpIF81Ce8cD6UO"
     },
     {
       "added_at": null,
@@ -775,6 +775,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jauz Presents: This Is off the Deep End (Dj Mix)",
+        "url": "https://open.spotify.com/album/0yXnktH2sNowgwiFUwMYOs"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Kendoll",
+          "url": "https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 213441,
+      "name": "Fast Beats (Mixed)",
+      "url": "https://open.spotify.com/track/5oYFyzwBY1UcPIbqpszII5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/4SU1oWWE8KK62aRXiitiG6"
       },
@@ -791,38 +815,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weird Times",
-        "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
+        "name": "Crown (Remixes)",
+        "url": "https://open.spotify.com/album/06gQyHStWJAZGao5byvLa4"
       },
       "artists": [
         {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        },
+        {
+          "name": "Tyler Graves",
+          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
         }
       ],
-      "duration_ms": 261120,
-      "name": "Dip",
-      "url": "https://open.spotify.com/track/3PGf14hxHUHQR38Yqxd80m"
+      "duration_ms": 255937,
+      "name": "Crown - Qlank Remix",
+      "url": "https://open.spotify.com/track/7fLv8O1Exg0BR8MkOiOXk0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/6WJjXanunC2Zhd2ZUybHCE"
+        "name": "Jauz Presents: This Is off the Deep End",
+        "url": "https://open.spotify.com/album/4sqdlKShrnyfzEH86X3bfW"
       },
       "artists": [
         {
-          "name": "DirtyFun",
-          "url": "https://open.spotify.com/artist/34COAQQm9sxxuIiNYyIClG"
+          "name": "Kendoll",
+          "url": "https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r"
         },
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 204024,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/5g4IY00EiaIaADARQW6uvr"
+      "duration_ms": 243809,
+      "name": "Fast Beats",
+      "url": "https://open.spotify.com/track/7rshJK7NdCCqUOYI3pvBhy"
     },
     {
       "added_at": null,
@@ -859,50 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crown (Remixes)",
-        "url": "https://open.spotify.com/album/06gQyHStWJAZGao5byvLa4"
+        "name": "Weird Times",
+        "url": "https://open.spotify.com/album/0017tXr04i2yUFverqdgEc"
       },
       "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Qlank",
-          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
-        },
-        {
-          "name": "Tyler Graves",
-          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
-        }
-      ],
-      "duration_ms": 255937,
-      "name": "Crown - Qlank Remix",
-      "url": "https://open.spotify.com/track/7fLv8O1Exg0BR8MkOiOXk0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jauz Presents: This Is off the Deep End (Dj Mix)",
-        "url": "https://open.spotify.com/album/0yXnktH2sNowgwiFUwMYOs"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Kendoll",
-          "url": "https://open.spotify.com/artist/17lRBwcCqKBpqgfnUkop3r"
-        },
         {
           "name": "Qlank",
           "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
         }
       ],
-      "duration_ms": 213441,
-      "name": "Fast Beats (Mixed)",
-      "url": "https://open.spotify.com/track/5oYFyzwBY1UcPIbqpszII5"
+      "duration_ms": 261120,
+      "name": "Dip",
+      "url": "https://open.spotify.com/track/3PGf14hxHUHQR38Yqxd80m"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-117 songs - 5 hr 18 min
+118 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [My Beloved Spake](https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:10 | 2023-08-04 |  |
 | [My Policeman \- From the Amazon Original Motion Picture Soundtrack "My Policeman"](https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(From the Amazon Original Motion Picture Soundtrack "My Policeman"\)](https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2) | 5:09 | 2023-08-04 | 2024-06-28 |
 | [Mythical Creatures Follow \- From "Our Planet"](https://open.spotify.com/track/2QRgLk0yjfdxguI59pUyVk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:31 | 2023-12-29 | 2025-01-09 |
-| [Nighttime Conversation](https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:39 | 2023-08-04 |  |
+| [Nighttime Conversation](https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:39 | 2023-08-04 | 2025-01-28 |
 | [Norman](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:50 | 2023-08-04 |  |
 | [Nothing To Stop Us](https://open.spotify.com/track/6OBrG19AuVOmrFonog79re) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:12 | 2023-08-21 | 2025-01-07 |
 | [Nowehere to Hide](https://open.spotify.com/track/0SvH1H37XSxhFOIqZHsmuf) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 1:07 | 2023-10-10 | 2024-03-23 |
@@ -125,5 +125,6 @@
 | [You Stop My Heart](https://open.spotify.com/track/4PPXEa0j144GyF23vT3GZj) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:17 | 2023-08-04 |  |
 | [You're A Strange Man](https://open.spotify.com/track/1lzMLHSOXAEuioVK4RKvYo) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 0:58 | 2025-01-06 | 2025-01-20 |
 | [You're My World \- Soho Version](https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW) | [Anya Taylor\-Joy](https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Last Night In Soho \(Original Motion Picture Score\)](https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL) | 2:18 | 2023-08-04 | 2024-11-14 |
+| [Your Beauty Conquered Me](https://open.spotify.com/track/4zyb2U2qdpg57TkpjOic9T) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 1:07 | 2025-01-28 |  |
 
 \*This playlist was first scraped on 2023-08-05. Prior content cannot be recovered.

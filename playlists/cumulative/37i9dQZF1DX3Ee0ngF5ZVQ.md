@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-682 songs - 1 day 16 hr 36 min
+683 songs - 1 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Heart for Just One Team](https://open.spotify.com/track/4yVht4ghXbMAPcj3NZJRGR) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Heart for Just One Team](https://open.spotify.com/album/0BV4ruQifg3emKKeJ8rR7I) | 3:37 | 2022-09-02 | 2022-10-15 |
 | [Heartbreak](https://open.spotify.com/track/09314p0WJhfG0mXqlg6hTC) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Heartbreak](https://open.spotify.com/album/1YNRiSLFpupJgMqZxRyxQx) | 3:08 | 2022-08-19 | 2022-10-06 |
 | [Heartfelt](https://open.spotify.com/track/0OGcW962TOINe5X95LeAhl) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Heartfelt](https://open.spotify.com/album/5sCBCyGbNmMg4PzIg674ge) | 3:15 | 2023-09-01 | 2023-12-05 |
+| [Hearts Don't](https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Hearts Don't](https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz) | 3:38 | 2025-01-24 |  |
 | [Heaven's Jukebox](https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Heaven's Jukebox](https://open.spotify.com/album/1S99G84SweuUP30hI31utF) | 3:31 | 2021-12-17 | 2022-03-19 |
 | [Hell I Am](https://open.spotify.com/track/4WeR5cSR8JJLB81D8Ccmgu) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Hell I Am](https://open.spotify.com/album/2JS808o99F8IorC0P8DPXj) | 4:00 | 2023-09-01 | 2024-01-28 |
 | [Hell of a Life](https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Hell of a Life](https://open.spotify.com/album/1KJ4BXQeeVzLSYTad2K8dT) | 3:15 | 2023-06-23 |  |
@@ -476,7 +477,7 @@
 | [Roadrunner](https://open.spotify.com/track/0MyEVn9U5jVhuhIEmPKMoS) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner](https://open.spotify.com/album/1IwH9mpPLMI4BHueMx0ExL) | 3:39 | 2024-05-17 | 2024-07-19 |
 | [Roan & Rope](https://open.spotify.com/track/2nSlbrfoenkW5GrShzY3y0) | [L\-7 Productions](https://open.spotify.com/artist/1j4NvacWrmlJSYryFomDgW), [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U), [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj), [Jordan Smith](https://open.spotify.com/artist/02HDPzt4jfUl4w1YEHeW9P), [Kellen Smith](https://open.spotify.com/artist/5eKwxg7wyMKGn94a8qDdM9), [Jordan Lisco](https://open.spotify.com/artist/1tHSBdFPKHSdJASL6wS6ac), [Tris Munsick & the Innocents](https://open.spotify.com/artist/4cA9YGLHMsKTL921ST5tZx), [Sam Munsick](https://open.spotify.com/artist/65kwDghVUSLY1qzOfOp5no), [Kalyn Beasley](https://open.spotify.com/artist/0GkfgLbVWYsHN6eWhiEybX) | [Roan & Rope](https://open.spotify.com/album/5jgfgKWm8UoJnBKfHP5aZ6) | 3:54 | 2022-03-04 | 2022-03-19 |
 | [Rock and Roll Should Kill You](https://open.spotify.com/track/1jW9ZOTcNbDYQlrBCQtbIo) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT) | [Rock and Roll Should Kill You](https://open.spotify.com/album/3KZ75aeOckZC6j3HS853Z4) | 4:07 | 2022-08-01 | 2022-08-12 |
-| [Rodeo Clown](https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Rodeo Clown](https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM) | 3:45 | 2024-11-08 |  |
+| [Rodeo Clown](https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Rodeo Clown](https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM) | 3:45 | 2024-11-08 | 2025-01-28 |
 | [Roger, Miller Lite and Me \- Live at Brooklyn Bowl, Nashville, 2021](https://open.spotify.com/track/5JqTcAUYNqTIlVWwMptv25) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Roger, Miller Lite and Me \(Live at Brooklyn Bowl, Nashville, 2021\)](https://open.spotify.com/album/1O83B5W5JotBgP91GYh4xK) | 2:51 | 2022-05-20 | 2022-07-26 |
 | [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 | 2024-02-23 | 2024-12-30 |
 | [Saddest Town in Texas](https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz) | [Rusty Gear](https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh) | [Saddest Town in Texas](https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC) | 3:32 | 2024-03-15 | 2024-05-15 |

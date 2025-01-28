@@ -2,7 +2,7 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> اسمعوا افضل الاغاني الخليجية\. الغلاف: عايض
+> اسمعوا افضل الاغاني الخليجية\. الغلاف: أحلام
 
 213 songs - 15 hr 17 min
 

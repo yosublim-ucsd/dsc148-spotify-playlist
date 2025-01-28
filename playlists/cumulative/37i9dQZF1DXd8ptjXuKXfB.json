@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Baklava",
+        "url": "https://open.spotify.com/album/3Er39ax8G7uEHsELq8brOw"
+      },
+      "artists": [
+        {
+          "name": "Goore",
+          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196909,
+      "name": "Baklava",
+      "url": "https://open.spotify.com/track/6cr4UR0RTJtdprtAeqJes1"
+    },
+    {
+      "album": {
         "name": "BALATON",
         "url": "https://open.spotify.com/album/38ffpMuedU47W59X0Bwbib"
       },
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 175517,
       "name": "EL FUEGO",
       "url": "https://open.spotify.com/track/5BU8XvzZa3OgdDph9DsMwu"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 163107,
       "name": "Frida Kahlo",
       "url": "https://open.spotify.com/track/7CMqBgZAFANJNyQueevWvR"
@@ -1737,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Hossz\u00fa m\u00e9g az \u00e9jjel",
+        "url": "https://open.spotify.com/album/2GbZ099EVpGAtU97iV8bci"
+      },
+      "artists": [
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162812,
+      "name": "Hossz\u00fa m\u00e9g az \u00e9jjel",
+      "url": "https://open.spotify.com/track/4MwcyjBcVkgMOhtIklw5Pz"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
       },
@@ -1976,7 +2012,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 201038,
       "name": "J\u00f3 ha itt vagy",
       "url": "https://open.spotify.com/track/6E8wcyizpYSj75Tqxm8qso"
@@ -2638,6 +2674,28 @@
       "duration_ms": 178285,
       "name": "Mes\u00e9lj m\u00e9g r\u00f3la",
       "url": "https://open.spotify.com/track/5KSrW9PVNhiNH74Z6Jdfoh"
+    },
+    {
+      "album": {
+        "name": "Meztelen",
+        "url": "https://open.spotify.com/album/6TgAPeBHnPFcNBPryaOQHi"
+      },
+      "artists": [
+        {
+          "name": "Majka",
+          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
+        },
+        {
+          "name": "Horv\u00e1th Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/4I1y8Rd0H2NGXMzmT6JWsz"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Meztelen",
+      "url": "https://open.spotify.com/track/2DUQVPD8RtAcVZGzabRezv"
     },
     {
       "album": {
@@ -4062,7 +4120,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 224186,
       "name": "Sz\u00e1zszorszebb",
       "url": "https://open.spotify.com/track/7fP6QaybUJQUncS89dFlyk"
@@ -4352,6 +4410,28 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "album": {
+        "name": "T\u00fcrelem",
+        "url": "https://open.spotify.com/album/1D3zOKx9bImw1ep4bLGBci"
+      },
+      "artists": [
+        {
+          "name": "Atka",
+          "url": "https://open.spotify.com/artist/4WgDaRJ6Bf8rjN7kav2gBV"
+        },
+        {
+          "name": "Valter",
+          "url": "https://open.spotify.com/artist/3g7HTvu3GHHLLFxF1B9Esy"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182086,
+      "name": "T\u00fcrelem",
+      "url": "https://open.spotify.com/track/3hDp960JpO0UJzne9A5nEA"
     },
     {
       "album": {

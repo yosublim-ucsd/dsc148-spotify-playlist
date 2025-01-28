@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 
 > Instrumental house for when you need to focus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,494 likes - 175 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,787 likes - 175 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wtrGDH81Oa.md) - [plain]
 | 174 | [Bonez](https://open.spotify.com/track/2BBqygCwljo8N4XcWk6bCN) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Bonez](https://open.spotify.com/album/40RcBRJGlIp9zlsWuGHGGj) | 3:16 |
 | 175 | [Coastal Whisper](https://open.spotify.com/track/7eCiVG3O4Fnlv0pLHKAZO9) | [Closest Cloud](https://open.spotify.com/artist/2QfBfWsylKXit3b3yugeMP) | [Coastal Whisper](https://open.spotify.com/album/51aRPoFEmJJYABkef651QE) | 2:33 |
 
-Snapshot ID: `Z5OVTgAAAACF0IuJ3T2vMkat3etBBlVf`
+Snapshot ID: `Z5emKwAAAABf2FFHlwl/I+LHpfqAOLJ+`

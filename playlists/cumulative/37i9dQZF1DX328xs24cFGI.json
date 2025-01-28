@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 131666,
       "name": "\u5922\u706f\u7c60",
       "url": "https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T"
@@ -5582,6 +5582,24 @@
       "duration_ms": 207599,
       "name": "\u604b\u306f\u30e9\u30e0\u30cd\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/48enrq4jA32v0ikuVgZRuV"
+    },
+    {
+      "album": {
+        "name": "\u604b\u3092\u3057\u3066",
+        "url": "https://open.spotify.com/album/4fJN4wJDBWEVxRVTtdGjio"
+      },
+      "artists": [
+        {
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363461,
+      "name": "\u604b\u3092\u3057\u3066",
+      "url": "https://open.spotify.com/track/4SLpqkURxuWPY83DWOuJKc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 597065,
+  "num_followers": 597111,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QpgAAAAAAasLKof9Md0GJegbZ6EtEK",
+  "snapshot_id": "Z5V7AAAAAADK5iZaTrlYLKTGe01tZi6k",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE MORE TIME...",
-        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
+        "name": "Cheshire Cat",
+        "url": "https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 217187,
-      "name": "MORE THAN YOU KNOW",
-      "url": "https://open.spotify.com/track/2uMNjuv6vXS9lRr61GvssB"
+      "duration_ms": 194960,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheshire Cat",
-        "url": "https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83"
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 194960,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
+      "duration_ms": 217187,
+      "name": "MORE THAN YOU KNOW",
+      "url": "https://open.spotify.com/track/2uMNjuv6vXS9lRr61GvssB"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dude Ranch",
-        "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 199973,
-      "name": "Josie",
-      "url": "https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV"
+      "duration_ms": 30213,
+      "name": "Brohemian Rhapsody",
+      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe Explicit Version)",
-        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
+        "name": "Dude Ranch",
+        "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/4M4taWkQGn3FcbH6tnH6mx"
+      "duration_ms": 199973,
+      "name": "Josie",
+      "url": "https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV"
     },
     {
       "added_at": null,
@@ -715,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 30213,
-      "name": "Brohemian Rhapsody",
-      "url": "https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Pin the Grenade",
-      "url": "https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neighborhoods (Deluxe Explicit Version)",
         "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
       },
@@ -756,25 +724,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/1bvbL0HbprbpwmzwaZczr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Another Girl Another Planet",
-      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
+      "duration_ms": 200360,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/4M4taWkQGn3FcbH6tnH6mx"
     },
     {
       "added_at": null,
@@ -795,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
       "artists": [
         {
@@ -804,9 +756,57 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Ghost On The Dance Floor",
-      "url": "https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC"
+      "duration_ms": 179440,
+      "name": "Pin the Grenade",
+      "url": "https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Another Girl Another Planet",
+      "url": "https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neighborhoods (Deluxe Explicit Version)",
+        "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/1bvbL0HbprbpwmzwaZczr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 115520,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd"
     }
   ],
   "unique_name": "This Is blink-182",

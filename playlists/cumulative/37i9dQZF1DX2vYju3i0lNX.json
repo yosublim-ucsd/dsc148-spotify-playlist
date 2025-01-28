@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 264101,
       "name": "Alma",
       "url": "https://open.spotify.com/track/6Tb2bIfXcBmajMseEi8IvV"
@@ -7187,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "I Can't Get Started",
+        "url": "https://open.spotify.com/album/3MspyES9KjpsxXTuZrrzrf"
+      },
+      "artists": [
+        {
+          "name": "Eternal Time Trio",
+          "url": "https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/0bAD35qAAMrn6c37PTJ36r"
+    },
+    {
+      "album": {
         "name": "I Can\u00b4t Get Started",
         "url": "https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp"
       },
@@ -11194,7 +11212,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 224052,
       "name": "Maywood In My Heart",
       "url": "https://open.spotify.com/track/4nmm4RBqwy3rOwMELRrl5p"
@@ -11504,6 +11522,24 @@
       "duration_ms": 149302,
       "name": "Midnight Passion",
       "url": "https://open.spotify.com/track/3P62YgTZIrJR5RMKXFNMMr"
+    },
+    {
+      "album": {
+        "name": "Midnight Promises",
+        "url": "https://open.spotify.com/album/69z5cd3AMhQL4A1zefTG2c"
+      },
+      "artists": [
+        {
+          "name": "Polar Desert",
+          "url": "https://open.spotify.com/artist/3RrhMjXV12D6Qs5YW0Ie9S"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207406,
+      "name": "Midnight Promises",
+      "url": "https://open.spotify.com/track/0T4Q4ZUFGWoFCcAkdmlEBN"
     },
     {
       "album": {
@@ -12854,6 +12890,24 @@
       "duration_ms": 203324,
       "name": "Nod in Agreement",
       "url": "https://open.spotify.com/track/1Gt3b2N5sq9NWhyyZkEOer"
+    },
+    {
+      "album": {
+        "name": "Nolita",
+        "url": "https://open.spotify.com/album/4px4xcXrosMjy2nl7NiGiC"
+      },
+      "artists": [
+        {
+          "name": "Foster Davies",
+          "url": "https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215546,
+      "name": "Nolita",
+      "url": "https://open.spotify.com/track/2QW2wMMnxkTAHxMVulVZGd"
     },
     {
       "album": {
@@ -16616,7 +16670,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 264127,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW"
@@ -17300,7 +17354,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 229767,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP"
@@ -17682,6 +17736,24 @@
       "duration_ms": 181238,
       "name": "Theme for Ruth",
       "url": "https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66"
+    },
+    {
+      "album": {
+        "name": "Then Came You",
+        "url": "https://open.spotify.com/album/2Ue2LV0BOqqCwQoY7t0a0y"
+      },
+      "artists": [
+        {
+          "name": "Jonah Anderson",
+          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232515,
+      "name": "Then Came You",
+      "url": "https://open.spotify.com/track/0Iz2Wn5ejC7y5Rr67qQiY6"
     },
     {
       "album": {
@@ -18132,7 +18204,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 268850,
       "name": "Tickets for Two Please",
       "url": "https://open.spotify.com/track/4ym6wFwd1wwT23sdBZQp1I"
@@ -19554,7 +19626,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 214907,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/30UZLHtCtfBOQy6TAnivr2"

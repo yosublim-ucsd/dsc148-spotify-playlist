@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,793 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 791,775 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Midnight](https://open.spotify.com/track/0G5Lb2yYO6OgGLKOEiGJoE) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [Midnight](https://open.spotify.com/album/6c4l39l4KI7waOKtqfQy3T) | 4:43 |
 | 50 | [On & On](https://open.spotify.com/track/4JWzHP8Loi9M6ZSOoIkkOA) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [On & On](https://open.spotify.com/album/60WrzKoiRdmG6TVv7I6243) | 2:09 |
 
-Snapshot ID: `Z5MC7QAAAABeyaFivj2XJGOaiJHSN16S`
+Snapshot ID: `Z5egpwAAAAD3QqbEnuS3VMRkgvMI3YtR`

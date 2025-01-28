@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 150697,
       "name": "Barbi Baba",
       "url": "https://open.spotify.com/track/2XHqalPmKugChuhFtMBErf"
@@ -3416,7 +3416,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -3434,7 +3434,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -6794,6 +6794,28 @@
       "duration_ms": 202826,
       "name": "enough for you",
       "url": "https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e"
+    },
+    {
+      "album": {
+        "name": "Orgonabokor (Part 2)",
+        "url": "https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        },
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173100,
+      "name": "Entit\u00e1s",
+      "url": "https://open.spotify.com/track/3mZBqTbxSpyY5cZfbj5reu"
     },
     {
       "album": {
@@ -12650,7 +12672,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -13458,7 +13480,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 114392,
       "name": "LOCA",
       "url": "https://open.spotify.com/track/6WtqW4ItZAzcWqilIFteHR"
@@ -14580,7 +14602,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 146400,
       "name": "MEGGYF\u00c1N",
       "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
@@ -14682,6 +14704,24 @@
       "duration_ms": 175333,
       "name": "Mele Kalikimaka (Merry Christmas)",
       "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
+    },
+    {
+      "album": {
+        "name": "Orgonabokor (Part 2)",
+        "url": "https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149686,
+      "name": "Melletted haln\u00e9k meg",
+      "url": "https://open.spotify.com/track/6kWDmNlOoQ4rgqla5iRKeg"
     },
     {
       "album": {
@@ -17762,7 +17802,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 161025,
       "name": "Pakiszt\u00e1ni/popo",
       "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
@@ -22480,6 +22520,24 @@
       "duration_ms": 121136,
       "name": "Szexbomb",
       "url": "https://open.spotify.com/track/7vtIy6njr0f29a6MJFNXdD"
+    },
+    {
+      "album": {
+        "name": "Orgonabokor (Part 2)",
+        "url": "https://open.spotify.com/album/3NKZ2rRG5MGpdF897X3zr2"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146921,
+      "name": "Szir\u00e9n",
+      "url": "https://open.spotify.com/track/7nFVwxI6I9gHaNSBR913hE"
     },
     {
       "album": {

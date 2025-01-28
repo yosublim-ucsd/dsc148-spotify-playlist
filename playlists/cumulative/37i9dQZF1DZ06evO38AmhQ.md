@@ -82,6 +82,6 @@
 | [Wobbly Boot Hotel](https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Waratah St.](https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN) | 2:38 | 2023-06-17 |  |
 | [You and My Guitar](https://open.spotify.com/track/2PTMb71adWDRDJLv0JAjWj) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Mates on the Road](https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr) | 2:49 | 2023-12-13 |  |
 | [You and My Guitar](https://open.spotify.com/track/3cRRh344Xx0FD1y7ZplP6Y) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 2:49 | 2023-06-17 | 2023-12-14 |
-| [You Come Back to Tassie](https://open.spotify.com/track/1WzMWFopWcmhjCNr5eriDA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Family Album No.2](https://open.spotify.com/album/0xuEMIv7f7oEMCtqM9Tgxu) | 3:20 | 2023-12-14 | 2024-11-03 |
+| [You Come Back to Tassie](https://open.spotify.com/track/1WzMWFopWcmhjCNr5eriDA) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Family Album No.2](https://open.spotify.com/album/0xuEMIv7f7oEMCtqM9Tgxu) | 3:20 | 2023-12-14 |  |
 
 \*This playlist was first scraped on 2023-06-18. Prior content cannot be recovered.

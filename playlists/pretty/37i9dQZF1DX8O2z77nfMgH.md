@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: J Balvin
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,665 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,667 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 51 | [Kinkín](https://open.spotify.com/track/0LhelRJav3w8jLqBKVwsrc) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Kinkín](https://open.spotify.com/album/3AAEUzUACvo126zw780BMq) | 4:26 |
 | 52 | [Niégame Tres Veces](https://open.spotify.com/track/4k583rCTuvPRyavFnlfguz) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Angelina Victoria](https://open.spotify.com/artist/2vDo5wnS8H0pvATlvHmdUL), [Vallenatos Norteños](https://open.spotify.com/artist/6XfjRUwgJpsY7UfUdIjc98) | [Vallenatos Norteños](https://open.spotify.com/album/3xlj3HAr3M7qtkC6hhDqgY) | 3:59 |
 
-Snapshot ID: `Z5VnZQAAAACt0Jt213N6KRoQZZTsCtCa`
+Snapshot ID: `Z5f5pAAAAADKdWIjqJbEe6tesbkrwuQV`

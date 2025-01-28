@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-28",
       "duration_ms": 157867,
       "name": "A-Rated Horror Movies",
       "url": "https://open.spotify.com/track/0ph4jYlwATx7yqLqaMqRZ2"
@@ -2878,6 +2878,24 @@
       "duration_ms": 187689,
       "name": "Who",
       "url": "https://open.spotify.com/track/36Qy5JWTlosQe8mliqKCjw"
+    },
+    {
+      "album": {
+        "name": "Why Won't We",
+        "url": "https://open.spotify.com/album/1TnPgz3o5exKqZ2Ypdj80v"
+      },
+      "artists": [
+        {
+          "name": "Jack Panther",
+          "url": "https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Why Won't We",
+      "url": "https://open.spotify.com/track/6293vQ1jOawXNqDhHZvFP5"
     },
     {
       "album": {

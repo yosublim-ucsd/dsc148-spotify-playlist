@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-501 songs - 1 day 0 hr 27 min
+502 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Hypno](https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Hypno](https://open.spotify.com/album/6aeAzL8ytjwJ0L4HGwZJP8) | 3:58 | 2021-10-29 | 2023-05-23 |
 | [Hypnotic \- Benny Benassi & BB Team Remix](https://open.spotify.com/track/77rr1hEnBM8KyS6WabMYQz) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I), [Velvet Cash](https://open.spotify.com/artist/2JE4L1DVUHTozvwDFAQkZr), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [BB Team](https://open.spotify.com/artist/4fGEyY6D7Rq6R1C0d5NLGj) | [Hypnotic \(Benny Benassi & BB Team Remix\)](https://open.spotify.com/album/6Xs5KHYhcjo8XyXRepGR6d) | 3:17 | 2021-10-29 | 2022-07-26 |
 | [Hypnotize](https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Hypnotize EP](https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu) | 2:33 | 2024-05-10 |  |
-| [I DON'T KNOW](https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [I DON'T KNOW](https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv) | 2:52 | 2024-05-24 |  |
+| [I DON'T KNOW](https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [I DON'T KNOW](https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv) | 2:52 | 2024-05-24 | 2025-01-28 |
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-05-06 | 2023-01-06 |
 | [I Know](https://open.spotify.com/track/3qloJH27eI7bk6QEf1SQLC) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [Dima Sick](https://open.spotify.com/artist/5P0zuWTeouNGTD5fRY9mvZ) | [I Know](https://open.spotify.com/album/4lXiRez0XOGF03semVTOiI) | 2:22 | 2021-10-29 | 2022-03-08 |
 | [I Wanna](https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [I Wanna](https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR) | 2:35 | 2022-12-02 |  |
@@ -341,6 +341,7 @@
 | [No Time](https://open.spotify.com/track/1UApNNulZJm0alYFXerYMw) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [No Time](https://open.spotify.com/album/0GwrfKSTdg8sICTbdhwXrN) | 3:20 | 2021-10-29 | 2022-07-27 |
 | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Nobody To Love \(with Loren Gray\)](https://open.spotify.com/album/57rg8xeQiBUfyhDI31Swyp) | 2:26 | 2021-10-29 | 2022-08-06 |
 | [Noise](https://open.spotify.com/track/1VqDOw9oGH0pExiKzzeRXE) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Noise](https://open.spotify.com/album/2maqicbKaJE0nFMiaqbCDF) | 2:39 | 2022-09-02 | 2022-11-13 |
+| [North, West, South, East](https://open.spotify.com/track/5wZCXsK5v970hRFkxXmcSa) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [North, West, South, East](https://open.spotify.com/album/4RaPQf3X9EfNNqbS9LJR2u) | 2:27 | 2025-01-24 |  |
 | [Nostalgia](https://open.spotify.com/track/7weI2jby4EDuZlWCVMB2xz) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [Nostalgia](https://open.spotify.com/album/4Hltgbaee9ENN0q6PeoPHx) | 3:15 | 2023-06-30 | 2023-11-11 |
 | [Not Alone \- Don Diablo VIP Mix](https://open.spotify.com/track/3h4K8EOqmbnfdpemic1XUW) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Not Alone \(Don Diablo VIP Mix\)](https://open.spotify.com/album/5qCcm5p7HSsO244iIFKggX) | 2:31 | 2023-02-17 |  |
 | [Not Dancing](https://open.spotify.com/track/2ipTMqLLogZOwB3VXafqTR) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [Not Dancing](https://open.spotify.com/album/1O5tGALZgYG6VHycsGKsIu) | 2:43 | 2021-10-29 | 2022-04-28 |

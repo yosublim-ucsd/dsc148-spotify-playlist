@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 2024 RADAR登場！持續發掘世一超新聲！Cover: Almond Milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,181 likes - 67 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,184 likes - 67 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
