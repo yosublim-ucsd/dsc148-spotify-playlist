@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1590231,
+  "num_followers": 1590580,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACqUYUeOJtW51fvgIV+ukma",
+  "snapshot_id": "Z5bMgAAAAABYa+RI2TZ2LYDsVuWoirnO",
   "tracks": [
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1071,22 +1055,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOUTH OF FRANCE (REMIX)",
-        "url": "https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR"
+        "name": "ESCAPE PLAN / MAFIA",
+        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "ESCAPE PLAN",
+      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "pick up the phone",
+        "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 183919,
-      "name": "SOUTH OF FRANCE - REMIX",
-      "url": "https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ"
+      "duration_ms": 252262,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
     }
   ],
   "unique_name": "This Is Travis Scott",

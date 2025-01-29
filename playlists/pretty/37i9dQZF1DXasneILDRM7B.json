@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3013129,
+  "num_followers": 3013060,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 139460,
       "name": "my ex's best friend (with blackbear)",
       "url": "https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/6GKIr03B2yvdP0TkWiGJVV"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/1CQ2cMfrmFM1YdfmjENKVE"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -687,18 +687,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "A Hangover You Don't Deserve",
-        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
       "artists": [
         {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 193000,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
+      "duration_ms": 174067,
+      "name": "Monsters (feat. blackbear)",
+      "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -735,46 +739,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+        "name": "A Hangover You Don't Deserve",
+        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
         }
       ],
-      "duration_ms": 174067,
-      "name": "Monsters (feat. blackbear)",
-      "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Hotel Diablo",
-        "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 169397,
-      "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
-      "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
+      "duration_ms": 193000,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -811,6 +787,30 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Hotel Diablo",
+        "url": "https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 169397,
+      "name": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
+      "url": "https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Still Not Getting Any",
         "url": "https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 190173,
       "name": "Lifestyles of the Rich & Famous",
       "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "forget me too (feat. Halsey)",
-      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -891,6 +871,26 @@
       "duration_ms": 218626,
       "name": "Ignorance",
       "url": "https://open.spotify.com/track/47No93LxERvV6MtOAmQzHS"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 171620,
+      "name": "forget me too (feat. Halsey)",
+      "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -989,6 +1005,22 @@
       "url": "https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3"
     },
     {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 205158,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
+    },
+    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Page Avenue",
@@ -1007,24 +1039,8 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 205158,
-      "name": "bloody valentine",
-      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
       "artists": [
         {
@@ -1032,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
+      "duration_ms": 185733,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1133,42 +1149,6 @@
       "url": "https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "Get Your Heart On! (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3CP3XmE4jU61ot1zhimhPV"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        },
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 204526,
-      "name": "Jet Lag (feat. Natasha Bedingfield)",
-      "url": "https://open.spotify.com/track/0I329vpTJRdSRjEcWaQsSL"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
-    },
-    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Appeal To Reason",
@@ -1215,6 +1195,26 @@
       "duration_ms": 214493,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Get Your Heart On! (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3CP3XmE4jU61ot1zhimhPV"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 204526,
+      "name": "Jet Lag (feat. Natasha Bedingfield)",
+      "url": "https://open.spotify.com/track/0I329vpTJRdSRjEcWaQsSL"
     },
     {
       "added_at": "2023-01-25 14:57:38",

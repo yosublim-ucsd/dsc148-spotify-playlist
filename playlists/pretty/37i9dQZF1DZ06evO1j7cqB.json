@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 10534,
+  "num_followers": 10536,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAChTDd+vuD/RbuTkZYLEInm",
+  "snapshot_id": "Z5bMgAAAAAASPnGX0ubpajh5Xciyd0ZP",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 209624,
+      "name": "Black Flags",
+      "url": "https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 105106,
       "name": "Clementine (feat. Richard Rankin & Sophie Skelton)",
       "url": "https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 209624,
-      "name": "Black Flags",
-      "url": "https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M"
     }
   ],
   "unique_name": "This Is Bear McCreary",

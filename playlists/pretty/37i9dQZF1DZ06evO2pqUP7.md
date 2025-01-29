@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,415 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,418 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 47 | [Vicio](https://open.spotify.com/track/3pIzCbwJjBZIF4J3fi2ypR) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Castillo](https://open.spotify.com/album/4l0cvZurvFcRSY9JolKkIo) | 3:18 |
 | 48 | [Dos Opciones](https://open.spotify.com/track/3qIpCIYX31M7RWjkIGaX5l) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Dos Opciones](https://open.spotify.com/album/6XgDscV3NB6BbYqUkvVixf) | 3:44 |
 | 49 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
-| 50 | [Costear \- Equipo Negro Remix](https://open.spotify.com/track/71mReylcyG7MfF1dqpVQEe) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [AMMUNATION](https://open.spotify.com/artist/1UrscYQay7QLyK3HTws7xS) | [Costear \(Equipo Negro Remix\)](https://open.spotify.com/album/58GTCQ17sVh9kAB6PgAIFl) | 8:56 |
+| 50 | [LE GUSTA QUE LA VEAN](https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [LE GUSTA QUE LA VEAN](https://open.spotify.com/album/52tk7FBtVA5xgzLfnzQ4jn) | 2:49 |
 
-Snapshot ID: `Z5V7AAAAAABAmiFcCXYc2u5zcs3jLD5M`
+Snapshot ID: `Z5bMgAAAAACgWqgAeT4ACVRB8AEM+K6n`

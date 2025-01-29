@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 5 hr 37 min
+113 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [dö för mig](https://open.spotify.com/track/5nazg0445VGj83DneXAGNC) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:03 | 2024-01-29 |  |
 | [Efterlyst](https://open.spotify.com/track/1yZi2RWtrDm96A26aPslyY) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Efterlyst](https://open.spotify.com/album/2txxacCQhJATjFK4Un6iTu) | 3:16 | 2024-01-29 |  |
 | [Emptied Out](https://open.spotify.com/track/2h4siYnPJwZHN8BksTmaE1) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Atlas](https://open.spotify.com/album/4e2RuY40WYjCMkFATNZRgm) | 2:59 | 2024-01-29 |  |
+| [end of the world](https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [the wind is picking up](https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19) | 3:09 | 2025-01-28 |  |
 | [Ensam](https://open.spotify.com/track/3g9Bd3dzWumpEYS381Veiz) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ensam](https://open.spotify.com/album/4XswCp5Y7hqGCLeyAVCa8n) | 2:29 | 2024-01-29 |  |
 | [Ett steg fram](https://open.spotify.com/track/1ClnzQ78hPICTZuzBNm9VY) | [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [4april till 3juni](https://open.spotify.com/album/39MYpfkSuziHM3XsUPbzZh) | 2:52 | 2024-01-29 |  |
 | [Ex](https://open.spotify.com/track/1wRwr5JQIVSsUbLbjsokNd) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:06 | 2024-01-29 |  |
@@ -68,6 +69,7 @@
 | [Imposter Syndrome](https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 | 2024-01-29 |  |
 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 | 2024-12-11 |  |
 | [Ingenting har gjort så ont](https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:26 | 2024-01-29 |  |
+| [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 | 2025-01-28 |  |
 | [Jealous \(feat\. Harper\)](https://open.spotify.com/track/077qQHjUTzQVDbhWjDzSoz) | [TRXD](https://open.spotify.com/artist/29JlvmcJaB2Iv1dQZ8Jd8F), [Harper](https://open.spotify.com/artist/0nLSQ7A3JaZfFTH0D4381m) | [Jealous \(feat\. Harper\)](https://open.spotify.com/album/7ABu6SQQwNvzOTSE6gRUEu) | 3:11 | 2024-01-29 |  |
 | [Kids On The Run](https://open.spotify.com/track/1KlMVhdZocTOtVd8YEQ1IO) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Kids On The Run](https://open.spotify.com/album/433AXIDMBatkEVdvSJ39ut) | 3:29 | 2024-01-29 |  |
 | [Kokain](https://open.spotify.com/track/56QJ0BBPhIGmBIzRX7C9pl) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:53 | 2024-01-29 |  |

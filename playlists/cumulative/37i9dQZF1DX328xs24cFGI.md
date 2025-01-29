@@ -4,13 +4,13 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-383 songs - 1 day 0 hr 38 min
+384 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#Me](https://open.spotify.com/track/0W8xLPtCErwDQvi35pUlQj) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [messy bag](https://open.spotify.com/album/7DqgqX97YgOFzw2MT0XAjO) | 2:44 | 2023-10-24 | 2023-11-02 |
 | [10 seconds of falling in love](https://open.spotify.com/track/1nXwAPZDw872vqYdL71HKs) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [10 seconds of falling in love](https://open.spotify.com/album/1UqpNBBcnN8jUt8eFQmgrE) | 3:44 | 2023-02-09 | 2023-04-04 |
-| [100](https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [100](https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q) | 3:07 | 2024-11-19 |  |
+| [100](https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [100](https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q) | 3:07 | 2024-11-19 | 2025-01-29 |
 | [115万キロのフィルム](https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 5:24 | 2023-02-09 |  |
 | [24/7 YOU...](https://open.spotify.com/track/44FOrs9EwYsp64WlsL8EXD) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [24/7 YOU...](https://open.spotify.com/album/1RIeaWQ4OVcm8TEZdiAaPr) | 2:41 | 2024-02-13 | 2024-06-01 |
 | [2gether 4ever](https://open.spotify.com/track/5t8oTln1Hm5wX4J5sumiQH) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [2gether 4ever](https://open.spotify.com/album/5ipfEYTI2lQB5a8ztTtsFx) | 3:23 | 2023-02-28 | 2023-03-25 |
@@ -154,6 +154,7 @@
 | [Ultra C](https://open.spotify.com/track/6sGgy2vdkDQxFsc4yRFj3V) | [清野研太朗](https://open.spotify.com/artist/5mKBAhxcGDafQyz6112hep) | [Ultra C](https://open.spotify.com/album/3Z5cEIcR6IrrTGw7BngETM) | 2:59 | 2024-01-23 | 2024-02-14 |
 | [us](https://open.spotify.com/track/0s96Y4iLjNgEJBjlEZLBNu) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [eyes](https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn) | 4:15 | 2023-11-01 | 2024-02-10 |
 | [utatane](https://open.spotify.com/track/1h5ehmENTsi5d8P7bzI4t6) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Holy Night](https://open.spotify.com/album/0pE8RdY5oe6qtnd3guQSam) | 3:01 | 2024-01-07 | 2024-04-19 |
+| [Valentine and Youth](https://open.spotify.com/track/0X3gRxgqfvts6uMVvvBbYI) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Valentine and Youth](https://open.spotify.com/album/6dJ7LpA1XYbHxVDKPFRCXl) | 3:11 | 2025-01-28 |  |
 | [Vanilla](https://open.spotify.com/track/1SEGeAHw0quw32HHm4qJsj) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Hoshiwokoete](https://open.spotify.com/album/1njyK2fybU7atqcwGkOo20) | 4:10 | 2023-03-16 | 2024-01-31 |
 | [Vanilla](https://open.spotify.com/track/7luM6QZ54WNPm3bZ6fzBkE) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [Vanilla](https://open.spotify.com/album/1KkJckWXXaugwsvMHXQqGL) | 4:11 | 2023-02-09 | 2023-03-18 |
 | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/track/4eQy3KR6AwncK3adZNJVV3) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5), [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [Veranda feat\. Kanano Senritsu](https://open.spotify.com/album/34sAFOo66Y8VNbSDVBr8U8) | 3:28 | 2024-02-13 | 2024-04-19 |
@@ -290,7 +291,7 @@
 | [喜怒哀楽](https://open.spotify.com/track/3jRp2IETgPfv44mIUUEiKf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [喜怒哀楽](https://open.spotify.com/album/7oXS72ywdPr7Vgs1ZrRWuq) | 4:37 | 2024-02-20 | 2024-03-20 |
 | [嘘つきの君が好き](https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [嘘つきの君が好き](https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs) | 3:14 | 2024-01-10 | 2024-02-28 |
 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 | 2024-04-16 |  |
-| [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 | 2024-04-16 | 2025-01-28 |
+| [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 | 2024-04-16 |  |
 | [大切](https://open.spotify.com/track/3tEIBk3DSaw6USVpQzgIKH) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [大切](https://open.spotify.com/album/43IQqwqfhf1xBiFBfA6klF) | 4:59 | 2023-02-09 | 2023-03-18 |
 | [大阪LOVER](https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF) | [DREAMS COME TRUE](https://open.spotify.com/artist/2mJOGcLR3aCHkM1uAF93or) | [大阪LOVER](https://open.spotify.com/album/0uH4fu7TXAnnrx4aRhSBln) | 4:26 | 2023-08-04 |  |
 | [大阪ランデヴ](https://open.spotify.com/track/2Hw8l3di4DKBXKrrnxrTHH) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [大阪ランデヴ](https://open.spotify.com/album/1tFkaDrHfXRj6EkInWiwK6) | 4:21 | 2023-11-16 | 2023-11-24 |
@@ -308,7 +309,7 @@
 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 | 2024-02-13 | 2025-01-21 |
 | [恋だろ](https://open.spotify.com/track/0ir7DGXo3hxaPa82h1vrOj) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [恋だろ](https://open.spotify.com/album/0WkjisVaB4pwRf521uF6Qa) | 4:42 | 2023-02-09 | 2023-03-18 |
 | [恋と呼ばないで](https://open.spotify.com/track/0yOM3ZxlUWynKBTeTvVYtH) | [ほのかりん](https://open.spotify.com/artist/2gNQP8hLHUGMdSzUb7vgXJ) | [恋と呼ばないで](https://open.spotify.com/album/64R2Rx4DErXusAVOigtXtu) | 4:04 | 2024-02-13 | 2024-02-21 |
-| [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 | 2024-11-26 |  |
+| [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 | 2024-11-26 | 2025-01-29 |
 | [恋のディスマッチン](https://open.spotify.com/track/0Zciqrsv1JDOXWD5vYmY7F) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [恋のディスマッチン](https://open.spotify.com/album/67ShhE4c7V44stYppmwvgd) | 2:48 | 2023-05-30 | 2023-06-01 |
 | [恋の色](https://open.spotify.com/track/0L2Ljt0LnXg4RyUiLuF7sD) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [恋の色](https://open.spotify.com/album/017MwPq6jUuJ3lkZaD1frM) | 4:42 | 2023-07-25 | 2023-07-27 |
 | [恋はラムネのように](https://open.spotify.com/track/48enrq4jA32v0ikuVgZRuV) | [平理央](https://open.spotify.com/artist/5XV5kNtCkFTwVcL5rdCUln) | [恋はラムネのように](https://open.spotify.com/album/7r8mkOhilmcTvp4fVoxvj9) | 3:27 | 2023-08-15 | 2023-08-17 |

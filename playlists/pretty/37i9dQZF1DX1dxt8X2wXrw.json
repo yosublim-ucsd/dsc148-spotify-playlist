@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 67832,
+  "num_followers": 67864,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "No Nein",
-        "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
-        }
-      ],
-      "duration_ms": 151273,
-      "name": "No Nein",
-      "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "Why Lawd?",
         "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 181741,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1YZmYp9jZ4Veq6lZpiuV69"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "No Nein",
+        "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+        }
+      ],
+      "duration_ms": 151273,
+      "name": "No Nein",
+      "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
-        "name": "Cinnamon Curls",
-        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 246586,
-      "name": "Cinnamon Curls",
-      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
         "name": "THOUGHT YOU WERE THE ONE",
         "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 178218,
       "name": "THOUGHT YOU WERE THE ONE",
       "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
+        "name": "Cinnamon Curls",
+        "url": "https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 246586,
+      "name": "Cinnamon Curls",
+      "url": "https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-12-20 20:54:00",
       "album": {
+        "name": "Lahai",
+        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 185371,
+      "name": "Suspended",
+      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
+    },
+    {
+      "added_at": "2024-12-20 20:54:00",
+      "album": {
         "name": "Goodbyes (Myrrh)",
         "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
       },
@@ -1183,42 +1199,6 @@
       "duration_ms": 210124,
       "name": "Goodbyes (Myrrh)",
       "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
-    },
-    {
-      "added_at": "2024-12-20 20:54:00",
-      "album": {
-        "name": "Lahai",
-        "url": "https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 185371,
-      "name": "Suspended",
-      "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
-    },
-    {
-      "added_at": "2025-01-23 13:00:36",
-      "album": {
-        "name": "Wheel Up (feat. Byron Messia)",
-        "url": "https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx"
-      },
-      "artists": [
-        {
-          "name": "MORGAN",
-          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
-        },
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Wheel Up (feat. Byron Messia)",
-      "url": "https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9"
     },
     {
       "added_at": "2024-12-20 20:54:00",
@@ -1251,6 +1231,26 @@
       "duration_ms": 161711,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
+    },
+    {
+      "added_at": "2025-01-23 13:00:36",
+      "album": {
+        "name": "Wheel Up (feat. Byron Messia)",
+        "url": "https://open.spotify.com/album/5tcpbxl38BLpALpZgspcFx"
+      },
+      "artists": [
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Wheel Up (feat. Byron Messia)",
+      "url": "https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9"
     },
     {
       "added_at": "2024-12-20 20:54:00",

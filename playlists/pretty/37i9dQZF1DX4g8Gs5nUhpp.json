@@ -1,28 +1,28 @@
 {
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: RHYDER",
-  "num_followers": 176960,
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: MONO",
+  "num_followers": 177135,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5e7lwAAAADEJxU9hovgRQzAI2jcS/E6",
+  "snapshot_id": "Z5kNEwAAAABdzFIFrDXPDRqknB27f8lo",
   "tracks": [
     {
       "added_at": "2025-01-23 04:00:02",
       "album": {
-        "name": "T\u1ebft \u0110\u1ebfn",
-        "url": "https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1"
+        "name": "Ch\u0103m Hoa",
+        "url": "https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan"
       },
       "artists": [
         {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
         }
       ],
-      "duration_ms": 237480,
-      "name": "T\u1ebft \u0110\u1ebfn",
-      "url": "https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE"
+      "duration_ms": 211111,
+      "name": "Ch\u0103m Hoa",
+      "url": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6"
     },
     {
       "added_at": "2025-01-23 04:00:02",
@@ -32,13 +32,13 @@
       },
       "artists": [
         {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
         }
       ],
-      "duration_ms": 29718,
-      "name": "RHYDER ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc"
+      "duration_ms": 27611,
+      "name": "MONO ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/7FSeZzvh0l9OI8PXTxYOlD"
     },
     {
       "added_at": "2025-01-23 04:00:02",
@@ -139,42 +139,6 @@
       "duration_ms": 28839,
       "name": "Wren Evans ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/3w9DrMIy7V7NbTn8fYLggm"
-    },
-    {
-      "added_at": "2025-01-23 04:00:02",
-      "album": {
-        "name": "Tr\u1ea7n Th\u1ebf",
-        "url": "https://open.spotify.com/album/5Ex7sh2k1zqQa18Cso68dy"
-      },
-      "artists": [
-        {
-          "name": "Th\u1ec3 Thi\u00ean",
-          "url": "https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "SAIGONTEY",
-      "url": "https://open.spotify.com/track/1KxXkPa3hO9WZqiIiOb5TJ"
-    },
-    {
-      "added_at": "2025-01-23 04:00:02",
-      "album": {
-        "name": "Ch\u00fac T\u1ebft 2025",
-        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
-      },
-      "artists": [
-        {
-          "name": "Th\u1ec3 Thi\u00ean",
-          "url": "https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU"
-        }
-      ],
-      "duration_ms": 29461,
-      "name": "Th\u1ec3 Thi\u00ean ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/6z17WPPFRNtgZSox8f5pB2"
     },
     {
       "added_at": "2025-01-23 04:00:02",
@@ -319,18 +283,22 @@
     {
       "added_at": "2025-01-23 04:00:02",
       "album": {
-        "name": "Ch\u0103m Hoa",
-        "url": "https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan"
+        "name": "Tr\u1ea7n Th\u1ebf",
+        "url": "https://open.spotify.com/album/5Ex7sh2k1zqQa18Cso68dy"
       },
       "artists": [
         {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
+          "name": "Th\u1ec3 Thi\u00ean",
+          "url": "https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 211111,
-      "name": "Ch\u0103m Hoa",
-      "url": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6"
+      "duration_ms": 177560,
+      "name": "SAIGONTEY",
+      "url": "https://open.spotify.com/track/1KxXkPa3hO9WZqiIiOb5TJ"
     },
     {
       "added_at": "2025-01-23 04:00:02",
@@ -340,13 +308,13 @@
       },
       "artists": [
         {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
+          "name": "Th\u1ec3 Thi\u00ean",
+          "url": "https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU"
         }
       ],
-      "duration_ms": 27611,
-      "name": "MONO ch\u00fac T\u1ebft",
-      "url": "https://open.spotify.com/track/7FSeZzvh0l9OI8PXTxYOlD"
+      "duration_ms": 29461,
+      "name": "Th\u1ec3 Thi\u00ean ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/6z17WPPFRNtgZSox8f5pB2"
     },
     {
       "added_at": "2025-01-23 04:00:02",
@@ -579,6 +547,38 @@
       "duration_ms": 26090,
       "name": "Ng\u00f4 Lan H\u01b0\u01a1ng ch\u00fac T\u1ebft",
       "url": "https://open.spotify.com/track/0jSDADVknUqe9T8QodBGIe"
+    },
+    {
+      "added_at": "2025-01-23 04:00:02",
+      "album": {
+        "name": "T\u1ebft \u0110\u1ebfn",
+        "url": "https://open.spotify.com/album/4L1f8s2bbUOL1rpq9n2ey1"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "T\u1ebft \u0110\u1ebfn",
+      "url": "https://open.spotify.com/track/5ASyAmGRy1pCm2eX4Vl0GE"
+    },
+    {
+      "added_at": "2025-01-23 04:00:02",
+      "album": {
+        "name": "Ch\u00fac T\u1ebft 2025",
+        "url": "https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq"
+      },
+      "artists": [
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 29718,
+      "name": "RHYDER ch\u00fac T\u1ebft",
+      "url": "https://open.spotify.com/track/2Ym6C24XSqIB41loaoPEzc"
     },
     {
       "added_at": "2025-01-23 04:00:02",

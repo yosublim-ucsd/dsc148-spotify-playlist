@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 35509,
+  "num_followers": 35516,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAADmBRfW4144s+NM0ivKifrE",
+  "snapshot_id": "Z5bMgAAAAAD1OuCiwzIwd0bt9/39a11i",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 244639,
-      "name": "Psalm 91 (On Eagles' Wings)",
-      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
+      "duration_ms": 312592,
+      "name": "Psalm 139 (Far Too Wonderful)",
+      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 312592,
-      "name": "Psalm 139 (Far Too Wonderful)",
-      "url": "https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP"
+      "duration_ms": 244639,
+      "name": "Psalm 91 (On Eagles' Wings)",
+      "url": "https://open.spotify.com/track/572afBiucwePeZgB1BBRfC"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 6",
-        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
-      },
-      "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 271766,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Worship Initiative, Vol. 3",
         "url": "https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 342625,
       "name": "Before the Throne of God Above",
       "url": "https://open.spotify.com/track/3ELvknrrLz8QL36CeIb6Je"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Worship Initiative, Vol. 6",
+        "url": "https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 271766,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymns in the Round",
+        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 290566,
+      "name": "Turn Your Eyes Upon Jesus (Acoustic)",
+      "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Modern Hymns",
         "url": "https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 348820,
       "name": "Speak O Lord",
       "url": "https://open.spotify.com/track/3aeNn39bXDyE2HNPkdYI62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymns in the Round",
-        "url": "https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 290566,
-      "name": "Turn Your Eyes Upon Jesus (Acoustic)",
-      "url": "https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "sweet and fresh emerging indie pop, featuring Esme Emerson \ud83c\udf51",
-  "num_followers": 29539,
+  "num_followers": 29587,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/4dVdqGNmSeT4EOt3vO68dR"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 159323,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4GKlQw3wlSRBM3MiCilBOj"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
         "name": "to be free",
         "url": "https://open.spotify.com/album/12i8HQPqFmEO1cBqhF26fI"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/4dVdqGNmSeT4EOt3vO68dR"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 159323,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/4GKlQw3wlSRBM3MiCilBOj"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "in for the kill",
         "url": "https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18"
       },
@@ -343,6 +343,38 @@
       "duration_ms": 198680,
       "name": "in for the kill",
       "url": "https://open.spotify.com/track/3aTPG3soNZ7UImihfDABXx"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "friends",
+        "url": "https://open.spotify.com/album/4AYWIcHcXqQ5fq4l08Bp1C"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "duration_ms": 160114,
+      "name": "friends",
+      "url": "https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "The Things We Say",
+        "url": "https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "The Things We Say",
+      "url": "https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -379,22 +411,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "The Things We Say",
-        "url": "https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ"
-      },
-      "artists": [
-        {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "The Things We Say",
-      "url": "https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "Kiss My Apocalypse",
         "url": "https://open.spotify.com/album/2X42JsIZ1VkhOooPBBfDZl"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "June Baby",
-        "url": "https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j"
-      },
-      "artists": [
-        {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "June Baby",
-      "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "projections",
         "url": "https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 260484,
       "name": "projections",
       "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "June Baby",
+        "url": "https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "June Baby",
+      "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -503,22 +519,6 @@
       "duration_ms": 184423,
       "name": "All I Ever Dream About",
       "url": "https://open.spotify.com/track/3wxG6mf4sbIg5i8hnCcMnG"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
-        "name": "friends",
-        "url": "https://open.spotify.com/album/4AYWIcHcXqQ5fq4l08Bp1C"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 160114,
-      "name": "friends",
-      "url": "https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -731,18 +731,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Hotel Bar",
-        "url": "https://open.spotify.com/album/56hrGkYp09q6C3a2WUvsSx"
+        "name": "mine",
+        "url": "https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK"
       },
       "artists": [
         {
-          "name": "Delights",
-          "url": "https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S"
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
         }
       ],
-      "duration_ms": 179080,
-      "name": "Hotel Bar",
-      "url": "https://open.spotify.com/track/0iypvl1PX8N6xMq3KoUVuf"
+      "duration_ms": 196910,
+      "name": "mine",
+      "url": "https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "mine",
-        "url": "https://open.spotify.com/album/1eFSDXoY46ihpWU92EYROK"
+        "name": "Hotel Bar",
+        "url": "https://open.spotify.com/album/56hrGkYp09q6C3a2WUvsSx"
       },
       "artists": [
         {
-          "name": "SOFY",
-          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+          "name": "Delights",
+          "url": "https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S"
         }
       ],
-      "duration_ms": 196910,
-      "name": "mine",
-      "url": "https://open.spotify.com/track/3LG0hSqKPEU7bClEv1BwIG"
+      "duration_ms": 179080,
+      "name": "Hotel Bar",
+      "url": "https://open.spotify.com/track/0iypvl1PX8N6xMq3KoUVuf"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -811,18 +811,22 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+        "name": "Got Him! (Deluxe)",
+        "url": "https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7"
       },
       "artists": [
         {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
+      "duration_ms": 139470,
+      "name": "Shell (with Jordana)",
+      "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -843,22 +847,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Got Him! (Deluxe)",
-        "url": "https://open.spotify.com/album/2ayt7xGA3amKG61ZTNThv7"
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
       },
       "artists": [
         {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
         }
       ],
-      "duration_ms": 139470,
-      "name": "Shell (with Jordana)",
-      "url": "https://open.spotify.com/track/7gqTEjr68W4i8fSX1wD0wF"
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "How I Wish I Was Cool",
         "url": "https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 186131,
       "name": "How I Wish I Was Cool",
       "url": "https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Green",
-          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
-        }
-      ],
-      "duration_ms": 218451,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "HOKAGE - THE MIXTAPE",
         "url": "https://open.spotify.com/album/6ZpbWiHfm0u6lmCzgE82GR"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 147146,
       "name": "Found The 1",
       "url": "https://open.spotify.com/track/1VaaMp66mFlNF3vaMiZIZC"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "duration_ms": 218451,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
     },
     {
       "added_at": "2025-01-24 00:00:25",

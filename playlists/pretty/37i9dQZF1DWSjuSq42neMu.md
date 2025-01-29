@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 
 > todo un mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,956 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,073 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 69 | [En Tu Cuerpo \- Remix](https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [En Tu Cuerpo \(Remix\)](https://open.spotify.com/album/4IoXqa2p31wSTnOIYppcG3) | 5:10 |
 | 70 | [+Linda](https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [+Linda](https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ) | 2:41 |
 | 71 | [Martini](https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Martini](https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ) | 2:44 |
-| 72 | [EMPELOTICA](https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EMPELOTICA](https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg) | 3:10 |
-| 73 | [A Mi También ft\. Alvaro Diaz, Feid](https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:51 |
-| 74 | [2/Catorce](https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [2/Catorce](https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno) | 3:32 |
+| 72 | [A Mi También ft\. Alvaro Diaz, Feid](https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:51 |
+| 73 | [2/Catorce](https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [2/Catorce](https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno) | 3:32 |
+| 74 | [EMPELOTICA](https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EMPELOTICA](https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg) | 3:10 |
 | 75 | [Mami](https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Pablo Mas](https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 2:48 |
 | 76 | [Ajena \(with Myke Towers, Dylan Fuentes\)](https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX) | [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Ajena](https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV) | 2:42 |
 | 77 | [Rojo](https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rojo](https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C) | 2:30 |

@@ -9229,6 +9229,24 @@
     },
     {
       "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215338,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+    },
+    {
+      "album": {
         "name": "Happy - :D (Remixes)",
         "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
       },
@@ -26644,7 +26662,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 256743,
       "name": "\u062d\u0628\u064a\u0628\u064a \u0631\u0627\u062d \u0645\u0633\u0631\u0639",
       "url": "https://open.spotify.com/track/15mtirqNB6IF1owL0WkIUg"

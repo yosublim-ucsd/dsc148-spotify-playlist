@@ -232,7 +232,7 @@
       ],
       "date_added": "2020-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 325266,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE"
@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR"
+      },
+      "artists": [
+        {
+          "name": "Ohio Players",
+          "url": "https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290160,
+      "name": "Love Rollercoaster",
+      "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75"
+    },
+    {
+      "album": {
         "name": "Hotter Than July",
         "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2020-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 230466,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
@@ -1186,7 +1204,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 449013,
       "name": "One Nation Under a Groove - Album Version - 2015 Remaster",
       "url": "https://open.spotify.com/track/06Y1ZlTO8tO0vVrN4rSfNc"
@@ -1406,6 +1424,24 @@
       "duration_ms": 304400,
       "name": "Pusherman",
       "url": "https://open.spotify.com/track/32nRtHc478v9qD056PHeTp"
+    },
+    {
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193573,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
     },
     {
       "album": {
@@ -1860,7 +1896,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 139733,
       "name": "Think",
       "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
@@ -1954,7 +1990,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"

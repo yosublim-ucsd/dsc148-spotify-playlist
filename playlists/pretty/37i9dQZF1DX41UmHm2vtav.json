@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 478073,
+  "num_followers": 478135,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,38 @@
     {
       "added_at": "2025-01-24 03:03:08",
       "album": {
+        "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+        "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
+      },
+      "artists": [
+        {
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/0OJlOf2aa3J8a38xACGZY4"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Kawz",
+          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+      "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
+    },
+    {
+      "added_at": "2025-01-24 03:03:08",
+      "album": {
         "name": "Don't Let It Go",
         "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
       },
@@ -187,38 +219,6 @@
       "duration_ms": 215104,
       "name": "Tempos Modernos",
       "url": "https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
-        "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
-      },
-      "artists": [
-        {
-          "name": "SOMETHING ELSE",
-          "url": "https://open.spotify.com/artist/0OJlOf2aa3J8a38xACGZY4"
-        },
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Kawz",
-          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
-      "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
     },
     {
       "added_at": "2025-01-24 03:03:08",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-01-24 03:03:08",
       "album": {
-        "name": "Live Your Life",
-        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 200574,
-      "name": "Live Your Life",
-      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
         "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
         "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 152851,
       "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
       "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
+    },
+    {
+      "added_at": "2025-01-24 03:03:08",
+      "album": {
+        "name": "Live Your Life",
+        "url": "https://open.spotify.com/album/46AdlEXi3E3vcRvR3CT4GP"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 200574,
+      "name": "Live Your Life",
+      "url": "https://open.spotify.com/track/20Q9Fs3CtbsYdwVwq3xbsR"
     },
     {
       "added_at": "2025-01-24 03:03:08",
@@ -659,22 +659,22 @@
     {
       "added_at": "2025-01-24 03:03:08",
       "album": {
-        "name": "Outside Of Love (Zerb Remix)",
-        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
       },
       "artists": [
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
         },
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
         }
       ],
-      "duration_ms": 192317,
-      "name": "Outside Of Love - Zerb Remix",
-      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2025-01-24 03:03:08",
@@ -699,22 +699,22 @@
     {
       "added_at": "2025-01-24 03:03:08",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
+        "name": "Outside Of Love (Zerb Remix)",
+        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
       },
       "artists": [
         {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
+      "duration_ms": 192317,
+      "name": "Outside Of Love - Zerb Remix",
+      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
     },
     {
       "added_at": "2025-01-24 03:03:08",
@@ -975,6 +975,30 @@
     {
       "added_at": "2025-01-24 03:03:08",
       "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
+      },
+      "artists": [
+        {
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Windy City Classics",
+          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
+        },
+        {
+          "name": "Lucas Borchardt",
+          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
+    },
+    {
+      "added_at": "2025-01-24 03:03:08",
+      "album": {
         "name": "Quem N\u00e3o Quer Sou Eu",
         "url": "https://open.spotify.com/album/5W6Q0cY6UPrE8xETTenYVr"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 178205,
       "name": "Quem N\u00e3o Quer Sou Eu",
       "url": "https://open.spotify.com/track/2kVbOlICxuNwFU8pFEx12q"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
-      },
-      "artists": [
-        {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
-        },
-        {
-          "name": "Windy City Classics",
-          "url": "https://open.spotify.com/artist/7DHW83PorP554oWiE7pn8m"
-        },
-        {
-          "name": "Lucas Borchardt",
-          "url": "https://open.spotify.com/artist/1awSZh0X5DJMLQVgx8TyeR"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
     },
     {
       "added_at": "2025-01-24 03:03:08",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2025-01-24 03:03:08",
       "album": {
-        "name": "Trem das Onze",
-        "url": "https://open.spotify.com/album/30CvDDVvdCJIYQjrKjmkPa"
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
       },
       "artists": [
         {
-          "name": "Vitor Bueno",
-          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Damon Sharpe",
+          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
         }
       ],
-      "duration_ms": 149047,
-      "name": "Trem das Onze",
-      "url": "https://open.spotify.com/track/4TjmNdH82Zn3DGTxuRGFuf"
+      "duration_ms": 194767,
+      "name": "When In Rome",
+      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
     },
     {
       "added_at": "2025-01-24 03:03:08",
@@ -1343,22 +1347,18 @@
     {
       "added_at": "2025-01-24 03:03:08",
       "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
+        "name": "Trem das Onze",
+        "url": "https://open.spotify.com/album/30CvDDVvdCJIYQjrKjmkPa"
       },
       "artists": [
         {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Damon Sharpe",
-          "url": "https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ"
+          "name": "Vitor Bueno",
+          "url": "https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi"
         }
       ],
-      "duration_ms": 194767,
-      "name": "When In Rome",
-      "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
+      "duration_ms": 149047,
+      "name": "Trem das Onze",
+      "url": "https://open.spotify.com/track/4TjmNdH82Zn3DGTxuRGFuf"
     },
     {
       "added_at": "2025-01-24 03:03:08",
@@ -1431,30 +1431,6 @@
     {
       "added_at": "2025-01-24 03:03:08",
       "album": {
-        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
-        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Overdriver Duo",
-          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
-        },
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        }
-      ],
-      "duration_ms": 215806,
-      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
-      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1475,6 +1451,30 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+    },
+    {
+      "added_at": "2025-01-24 03:03:08",
+      "album": {
+        "name": "Imprevis\u00edvel (Overdriver Duo e Guz Zanotto Remix)",
+        "url": "https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Overdriver Duo",
+          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
+        },
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        }
+      ],
+      "duration_ms": 215806,
+      "name": "Imprevis\u00edvel - Overdriver Duo e Guz Zanotto Remix",
+      "url": "https://open.spotify.com/track/3z51kAmAca2StfedNebGNe"
     },
     {
       "added_at": "2025-01-24 03:03:08",

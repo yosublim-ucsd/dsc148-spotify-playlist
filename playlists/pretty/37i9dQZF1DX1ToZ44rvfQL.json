@@ -1,6 +1,6 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 500914,
+  "num_followers": 500948,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,18 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Sistema Nervioso Central",
-        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
+        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
+        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        },
-        {
-          "name": "Jorge Serrano",
-          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
         }
       ],
-      "duration_ms": 284531,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+      "duration_ms": 212880,
+      "name": "Spaghetti del Rock",
+      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -479,18 +475,22 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
-        "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
+        "name": "Sistema Nervioso Central",
+        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
         }
       ],
-      "duration_ms": 212880,
-      "name": "Spaghetti del Rock",
-      "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+      "duration_ms": 284531,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "De Bichos Y Flores",
-        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "La Luz Del Ritmo",
         "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 272640,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "De Bichos Y Flores",
+        "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Llenos De Magia",
-      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 264838,
       "name": "La Raz\u00f3n Que Te Demora",
       "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Llenos De Magia",
+      "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
-      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 259146,
       "name": "Sapo de Otro Pozo",
       "url": "https://open.spotify.com/track/1g0mhq4ZDQE3cTd1XLcYVf"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
+      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Mi enfermedad",
-      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/7puiKW3huokZs5qtYK4o0K"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 228266,
       "name": "No Me Arrepiento de Este Amor",
       "url": "https://open.spotify.com/track/291JIUH9vV7qveI5F3n8JQ"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Mi enfermedad",
+      "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1359,8 +1359,8 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
       },
       "artists": [
         {
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 221040,
-      "name": "Tu Presencia",
-      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
       "artists": [
         {
@@ -1476,9 +1476,9 @@
           "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+      "duration_ms": 221040,
+      "name": "Tu Presencia",
+      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "Algo mejor",
-        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Mary Poppins y el deshollinador",
-      "url": "https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Valentin Alsina",
         "url": "https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 182666,
       "name": "Ya No Sos Igual",
       "url": "https://open.spotify.com/track/1gom5NgPAZQOjpVLyh4HML"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "Algo mejor",
+        "url": "https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Mary Poppins y el deshollinador",
+      "url": "https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd"
     },
     {
       "added_at": "2024-11-14 17:07:34",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-11-14 17:07:34",
       "album": {
-        "name": "En Vivo Gran Rex",
-        "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 250426,
-      "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
-      "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
-    },
-    {
-      "added_at": "2024-11-14 17:07:34",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 238625,
       "name": "Si Supieras - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
+    },
+    {
+      "added_at": "2024-11-14 17:07:34",
+      "album": {
+        "name": "En Vivo Gran Rex",
+        "url": "https://open.spotify.com/album/20AJy90C3orLhXvUHid4iZ"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 250426,
+      "name": "El Coraz\u00f3n Sobre Todo - En Vivo",
+      "url": "https://open.spotify.com/track/3wPmnfALFXL8sAXUP7h1QK"
     }
   ],
   "unique_name": "Asadito",

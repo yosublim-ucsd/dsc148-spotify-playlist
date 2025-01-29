@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Lauren Alaina, Kane Brown, Max McNown and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,067 likes - 76 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,186 likes - 76 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

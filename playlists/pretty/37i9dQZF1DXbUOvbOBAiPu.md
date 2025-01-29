@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > The best new songs of the week! Cover: Tamino & Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,747 likes - 93 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,748 likes - 93 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

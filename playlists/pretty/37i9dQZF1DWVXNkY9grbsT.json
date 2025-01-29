@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 104615,
+  "num_followers": 104670,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
+        "name": "A Tune for Us",
+        "url": "https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 353212,
+      "name": "A Tune for Us",
+      "url": "https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
         "name": "RITUAL",
         "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 461056,
       "name": "part ii - palace / illusion",
       "url": "https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "A Tune for Us",
-        "url": "https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 353212,
-      "name": "A Tune for Us",
-      "url": "https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
+        "name": "Meaning's Edge",
+        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 405468,
+      "name": "Frekm, Pt. 1",
+      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
         "name": "Fond",
         "url": "https://open.spotify.com/album/5PEVqlVVEvvQJgmLmQ7IEh"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 414706,
       "name": "#9",
       "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Meaning's Edge",
-        "url": "https://open.spotify.com/album/43r2887PJko52LqiNQ2Jbh"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 405468,
-      "name": "Frekm, Pt. 1",
-      "url": "https://open.spotify.com/track/5Tam0wFLfpLK6N5rhRTG7T"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1007,70 +1007,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Songs of Silence",
-        "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
-      },
-      "artists": [
-        {
-          "name": "Vince Clarke",
-          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
-        }
-      ],
-      "duration_ms": 227033,
-      "name": "Scarper",
-      "url": "https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Night Journeys",
-        "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 186600,
-      "name": "Night Journeys I",
-      "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Piedras 2",
-        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 139184,
-      "name": "Heterodina",
-      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Total Blue",
-        "url": "https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG"
-      },
-      "artists": [
-        {
-          "name": "Total Blue",
-          "url": "https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y"
-        }
-      ],
-      "duration_ms": 367841,
-      "name": "Chaparral",
-      "url": "https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Worlds Collide (Hannes Kretzer Rework)",
         "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
@@ -1091,6 +1027,70 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
+      },
+      "artists": [
+        {
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+        }
+      ],
+      "duration_ms": 227033,
+      "name": "Scarper",
+      "url": "https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 139184,
+      "name": "Heterodina",
+      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Night Journeys",
+        "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "Night Journeys I",
+      "url": "https://open.spotify.com/track/3FCmel7RBlvT01EJGA4QEq"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Total Blue",
+        "url": "https://open.spotify.com/album/5vHwzf4eINX33tvjyugsAG"
+      },
+      "artists": [
+        {
+          "name": "Total Blue",
+          "url": "https://open.spotify.com/artist/16PbhgSXhAg8s0hvaAx90y"
+        }
+      ],
+      "duration_ms": 367841,
+      "name": "Chaparral",
+      "url": "https://open.spotify.com/track/4rISOkgmszpJNOAlUyTU02"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
+        "name": "how it ends",
+        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 118577,
+      "name": "how it ends",
+      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/24Num3HZM1YIBWnyqU8myw"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "how it ends",
-        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
-      },
-      "artists": [
-        {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
-        }
-      ],
-      "duration_ms": 118577,
-      "name": "how it ends",
-      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Statik",
         "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
       },
@@ -1235,22 +1235,6 @@
       "duration_ms": 334589,
       "name": "Ray",
       "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1271,6 +1255,38 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Burst / Glimmer",
+        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+      },
+      "artists": [
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+        }
+      ],
+      "duration_ms": 316293,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Burst / Glimmer",
-        "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
       "artists": [
         {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
         }
       ],
-      "duration_ms": 316293,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj"
+      "duration_ms": 218193,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1383,26 +1399,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "What Is Not Strange?",
-        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
-      },
-      "artists": [
-        {
-          "name": "Tashi Wada",
-          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "What Is Not Strange?",
-      "url": "https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Pelikan (Aukai Rework)",
         "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+        "name": "What Is Not Strange?",
+        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
       },
       "artists": [
         {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+          "name": "Tashi Wada",
+          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
+        },
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
         }
       ],
-      "duration_ms": 218193,
-      "name": "Plants",
-      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
+      "duration_ms": 125000,
+      "name": "What Is Not Strange?",
+      "url": "https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "N-Plants",
-        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Ikata - 1",
-      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 278174,
       "name": "Sine Waves",
       "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "N-Plants",
+        "url": "https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Ikata - 1",
+      "url": "https://open.spotify.com/track/4WpJhXF5NvcZQApCRU7Fih"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Quiet in a World Full of Noise",
-        "url": "https://open.spotify.com/album/731xzbAjZ9q07B0rEssiwu"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
-        {
-          "name": "Spencer Zahn",
-          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
-        }
-      ],
-      "duration_ms": 151249,
-      "name": "To Remove",
-      "url": "https://open.spotify.com/track/1rEgVCkWErTR0FWjGwLGXI"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Castle Song",
         "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
       },
@@ -1735,18 +1715,38 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Information - EP",
-        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
       },
       "artists": [
         {
-          "name": "Synkro",
-          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
         }
       ],
-      "duration_ms": 330673,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
+      "duration_ms": 424170,
+      "name": "Psychic Geography",
+      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Quiet in a World Full of Noise",
+        "url": "https://open.spotify.com/album/731xzbAjZ9q07B0rEssiwu"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        },
+        {
+          "name": "Spencer Zahn",
+          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
+        }
+      ],
+      "duration_ms": 151249,
+      "name": "To Remove",
+      "url": "https://open.spotify.com/track/1rEgVCkWErTR0FWjGwLGXI"
     }
   ],
   "unique_name": "Electronic X",

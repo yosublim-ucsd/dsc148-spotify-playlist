@@ -4,7 +4,7 @@
 
 > Wekelijkse update met Hollands en volks\. Cover: Yves Berendse
 
-213 songs - 10 hr 25 min
+214 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Buona Sera](https://open.spotify.com/track/2m5T7Fn0PyGZpxZYa0jEnC) | [Marco Kraats](https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp), [Wesley Broens](https://open.spotify.com/artist/7louP9Nui5MDT4y6Oy45IH) | [Buona Sera](https://open.spotify.com/album/0ERM7CbBalsGGF9fdAw0dy) | 3:23 | 2024-06-13 | 2024-09-13 |
 | [C'est la vie](https://open.spotify.com/track/5dojpFA2YtBwfHmInyb333) | [Fetty](https://open.spotify.com/artist/553VSxbzZS8p7TSUhEbZuU) | [C'est la vie](https://open.spotify.com/album/45DfHxGvEE0ZO7T1FZ8Zre) | 3:19 | 2024-06-27 | 2024-10-19 |
 | [Dans Met Mij](https://open.spotify.com/track/1n9VwFbmlEx7cBpWSr5VOY) | [Niels Bode](https://open.spotify.com/artist/1yFU1rdV1j3Y0qHXmQf3NT) | [Dans Met Mij](https://open.spotify.com/album/5aTf3iSwUnP7IQrs3xC7Bp) | 2:47 | 2024-06-20 | 2024-09-20 |
-| [De Allermooiste](https://open.spotify.com/track/01lqoCqUtguPLnllvPajYY) | [Jan Booi](https://open.spotify.com/artist/00fofzfMay7uoCG6Aliw8p), [Spang!](https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r) | [De Allermooiste](https://open.spotify.com/album/2gTR8IpzUP2BGaiK7pzxv2) | 2:21 | 2024-08-01 |  |
+| [De Allermooiste](https://open.spotify.com/track/01lqoCqUtguPLnllvPajYY) | [Jan Booi](https://open.spotify.com/artist/00fofzfMay7uoCG6Aliw8p), [Spang!](https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r) | [De Allermooiste](https://open.spotify.com/album/2gTR8IpzUP2BGaiK7pzxv2) | 2:21 | 2024-08-01 | 2025-01-29 |
 | [De Chinees](https://open.spotify.com/track/1vgA7zW12S9XuurE8kOGbL) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [De Chinees](https://open.spotify.com/album/4gUzxpRYQCdBIippPc76Bd) | 3:01 | 2024-08-29 |  |
 | [De Grote Race](https://open.spotify.com/track/3KcWa9v9AUjN5nuYVGkOfi) | [Jordi Weijer](https://open.spotify.com/artist/3OpenpcWxQGgQueK6hpVej) | [De Grote Race](https://open.spotify.com/album/3FZjlRiJgxCSN03b5m2zFe) | 2:57 | 2025-01-10 |  |
 | [De Hele Wereld Mag Het Weten](https://open.spotify.com/track/6F5lpnzXy4dGno4tBon7UK) | [Hessel en Ineke](https://open.spotify.com/artist/7LpPw5pABrJEwRXWFct2rP) | [De Hele Wereld Mag Het Weten](https://open.spotify.com/album/7MvdWtMXGtnTrzUcFH0Sdp) | 3:01 | 2024-10-10 | 2024-11-29 |
@@ -114,6 +114,7 @@
 | [Kater Van De Liefde](https://open.spotify.com/track/63nNz8FdlSc5TmxZ8soTej) | [Jesse Prins](https://open.spotify.com/artist/7cTPmBuInxNTQsNGlDIyrm) | [Kater Van De Liefde](https://open.spotify.com/album/4A8yq22J8ljbYLCFBkcRWo) | 3:07 | 2024-10-18 | 2024-11-29 |
 | [King Van De Camping \- Ferry Bouman](https://open.spotify.com/track/3MNbwa4BHTc0nsrRnxvODI) | [Frank Lammers](https://open.spotify.com/artist/29dtP6x6ulMqlK0AydxvXc) | [King Van De Camping \(Ferry Bouman\)](https://open.spotify.com/album/0mheUJEFtEwhKn30gJt9x8) | 2:41 | 2024-12-12 |  |
 | [Kleine After](https://open.spotify.com/track/1RlvrCBtdbogpHYnrSL1Nq) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Kleine After](https://open.spotify.com/album/1rMiNhxe1SzzQRkhSZSbYx) | 2:34 | 2024-09-12 | 2024-12-13 |
+| [Kleine Meid](https://open.spotify.com/track/76FzoYmWYRX5e7NvYOLFai) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Kleine Meid](https://open.spotify.com/album/5DVSNlsQMv8pi5AGUaPQkd) | 3:31 | 2025-01-28 |  |
 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 | 2024-06-13 | 2024-09-13 |
 | [Kom Op En Zing Met Me Mee](https://open.spotify.com/track/1kZrr0uwYBuR7fdkTlocto) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Kom Op En Zing Met Me Mee](https://open.spotify.com/album/48cpiwZscMfRP07Tkp5MR6) | 3:00 | 2024-08-29 |  |
 | [Kom Terug](https://open.spotify.com/track/0N551xcSek0OFH8nQ2ORp3) | [Martin van Waveren](https://open.spotify.com/artist/0A85Nyv0pCEHBaTiCj31DZ) | [Kom Terug](https://open.spotify.com/album/7v4zNEleZXvRDwLsLYDxpX) | 3:03 | 2024-11-21 |  |

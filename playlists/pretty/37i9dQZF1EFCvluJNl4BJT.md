@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,716 likes - 101 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,718 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 66 | [FEELINGS ON SILENT \(feat\. Wale\)](https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:29 |
 | 67 | [Slow Down](https://open.spotify.com/track/4DfCzjuGvK8xq6g6e1EpoE) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:14 |
 | 68 | [SAFE PLACE](https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:39 |
-| 69 | [Sweep It Up](https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Sweep It Up](https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY) | 3:17 |
-| 70 | [I DO](https://open.spotify.com/track/0dbxJcMy8Yd3fCBYCD3lU2) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 2:41 |
+| 69 | [I DO](https://open.spotify.com/track/0dbxJcMy8Yd3fCBYCD3lU2) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 2:41 |
+| 70 | [Sweep It Up](https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Sweep It Up](https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY) | 3:17 |
 | 71 | [Phone Lit](https://open.spotify.com/track/5ovNLJ6nqGN7qcyHwU9Ud8) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/2LCCg172ZNVAA9aFH2EPst) | 4:00 |
 | 72 | [My Way](https://open.spotify.com/track/4sLYSy4ELZjFq0LbPDj6nh) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:29 |
 | 73 | [try\. \(feat\. JoJo\)](https://open.spotify.com/track/7jVxoi0YzIfmaZ4X0o0Jp9) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 2:13 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 88 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axl Folie](https://open.spotify.com/artist/5qB6FDaWA6GvTWvz9MOzZ6) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
 | 89 | [Has a Meaning](https://open.spotify.com/track/18XUxFnqlqbEc9hPHAfOzU) | [sid tipton](https://open.spotify.com/artist/1LgF3q7qslhLt5qb6fAtNA), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 3:10 |
 | 90 | [Sugar Free](https://open.spotify.com/track/6lnF4ddb8jtxuUuR0inTql) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [NEO](https://open.spotify.com/album/2glfQqfWGiPntmwsEyGAIE) | 2:47 |
-| 91 | [Every Day Is Christmas](https://open.spotify.com/track/6u5unFrPKFPSjcwo3qURbG) | [The Braxtons](https://open.spotify.com/artist/1hO5XbzrgqZIwurIDuB3i2) | [Braxton Family Christmas](https://open.spotify.com/album/3YicC3ePV7Ys1aOxP0NjAD) | 3:06 |
-| 92 | [Socialite](https://open.spotify.com/track/25OhI4lM6s5vp2bSV4lSgF) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:20 |
+| 91 | [Socialite](https://open.spotify.com/track/25OhI4lM6s5vp2bSV4lSgF) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:20 |
+| 92 | [Every Day Is Christmas](https://open.spotify.com/track/6u5unFrPKFPSjcwo3qURbG) | [The Braxtons](https://open.spotify.com/artist/1hO5XbzrgqZIwurIDuB3i2) | [Braxton Family Christmas](https://open.spotify.com/album/3YicC3ePV7Ys1aOxP0NjAD) | 3:06 |
 | 93 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 |
 | 94 | [to get home\. \(feat\. Leon Thomas & The Soul Rebels\)](https://open.spotify.com/track/1DVSgQOZnIya4H5a9cJqOC) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz) | [Euphonyus](https://open.spotify.com/album/7jlnxMcPR6LK0bvBtQyu45) | 2:54 |
 | 95 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 100 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 101 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AboBFwAAAAAdGlBsF62bey+cp3YYwYF6`
+Snapshot ID: `AboGygAAAABxlKLx2LtYQImcPcjxlrAI`

@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: FKA twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,254 likes - 102 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,207 likes - 102 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Room Of Fools](https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:25 |
-| 2 | [Without You](https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq) | [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2), [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Without You](https://open.spotify.com/album/2HdjmnNEQ3T0MUj2kT59nP) | 5:03 |
-| 3 | [Full Blast](https://open.spotify.com/track/3dYhasqmoGEcWcGYrLTS7E) | [Wrong Way Up](https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe) | [Full Blast](https://open.spotify.com/album/2oGwu8fzkDTpW0WEl0NLe6) | 3:55 |
-| 4 | [llamando](https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [llamando](https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb) | 2:36 |
-| 5 | [BRUISER](https://open.spotify.com/track/1dAVF1RxI4cIhZmzcevjgX) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [EAGLE OR THE EGG](https://open.spotify.com/album/3rw9U6xu0qvr2PDua4wEUa) | 2:22 |
-| 6 | [Phone Me](https://open.spotify.com/track/26fYCk38bHvGH9TYC9S9Bz) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Phone Me](https://open.spotify.com/album/6LIuYms8fxfEeX2p9DSN14) | 2:51 |
-| 7 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
-| 8 | [Twin Flame](https://open.spotify.com/track/65aCsrip8OcBkTgEMvPSX4) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Twin Flame](https://open.spotify.com/album/5QcYmW7azJX4J8OTSZcWI8) | 2:40 |
-| 9 | [Girl Feels Good](https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:56 |
-| 10 | [Arm fell asleep](https://open.spotify.com/track/1k8EbQ64geRSgIghSRfR9R) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Arm fell asleep](https://open.spotify.com/album/6BDf31jpGIBShiFXzUdJC3) | 4:48 |
-| 11 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
-| 12 | [I WANT TO BE BETTER](https://open.spotify.com/track/6qDUtM6TrV0IFg3nMmXeIQ) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 3:23 |
-| 13 | [Woman](https://open.spotify.com/track/3tlav4JW2DJkza7zskaLK2) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Woman](https://open.spotify.com/album/5XXtHaMgI6jW8y69OXGUbq) | 3:50 |
+| 1 | [llamando](https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [llamando](https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb) | 2:36 |
+| 2 | [Room Of Fools](https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:25 |
+| 3 | [Woman](https://open.spotify.com/track/3tlav4JW2DJkza7zskaLK2) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Woman](https://open.spotify.com/album/5XXtHaMgI6jW8y69OXGUbq) | 3:50 |
+| 4 | [Without You](https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq) | [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2), [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Without You](https://open.spotify.com/album/2HdjmnNEQ3T0MUj2kT59nP) | 5:03 |
+| 5 | [Full Blast](https://open.spotify.com/track/3dYhasqmoGEcWcGYrLTS7E) | [Wrong Way Up](https://open.spotify.com/artist/1NZKjPoMzLhrA6xTpHnOUe) | [Full Blast](https://open.spotify.com/album/2oGwu8fzkDTpW0WEl0NLe6) | 3:55 |
+| 6 | [BRUISER](https://open.spotify.com/track/1dAVF1RxI4cIhZmzcevjgX) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [EAGLE OR THE EGG](https://open.spotify.com/album/3rw9U6xu0qvr2PDua4wEUa) | 2:22 |
+| 7 | [Phone Me](https://open.spotify.com/track/26fYCk38bHvGH9TYC9S9Bz) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Phone Me](https://open.spotify.com/album/6LIuYms8fxfEeX2p9DSN14) | 2:51 |
+| 8 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
+| 9 | [Twin Flame](https://open.spotify.com/track/65aCsrip8OcBkTgEMvPSX4) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Twin Flame](https://open.spotify.com/album/5QcYmW7azJX4J8OTSZcWI8) | 2:40 |
+| 10 | [Girl Feels Good](https://open.spotify.com/track/536rHxlVFXGJBO2xWE7HsV) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:56 |
+| 11 | [Arm fell asleep](https://open.spotify.com/track/1k8EbQ64geRSgIghSRfR9R) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Arm fell asleep](https://open.spotify.com/album/6BDf31jpGIBShiFXzUdJC3) | 4:48 |
+| 12 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
+| 13 | [I WANT TO BE BETTER](https://open.spotify.com/track/6qDUtM6TrV0IFg3nMmXeIQ) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 3:23 |
 | 14 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
 | 15 | [Siento que merezco más \- A COLORS SHOW](https://open.spotify.com/track/1o2D4uroeEIb4xLVcBHT6P) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Siento que merezco más \- A COLORS SHOW](https://open.spotify.com/album/5QhpI19RX6S2azhCwFqt3h) | 2:33 |
 | 16 | [what3ver](https://open.spotify.com/track/0Hp2r3xb1Th9ZEeuQGOGiS) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [what3ver](https://open.spotify.com/album/5hEcSnIt8esLenvAP1f2qv) | 2:55 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 101 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 102 | [Burning Rubber](https://open.spotify.com/track/1vExubRVvilXeSg8S1IjBK) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [JRNY](https://open.spotify.com/album/0ScSPughEFitl5bfKlhvTb) | 2:22 |
 
-Snapshot ID: `Z5MehAAAAABnHGitVT9TRxtYQT4zNnpB`
+Snapshot ID: `Z5kR2AAAAAA83BVlra/PAv0KjHb/gwYC`

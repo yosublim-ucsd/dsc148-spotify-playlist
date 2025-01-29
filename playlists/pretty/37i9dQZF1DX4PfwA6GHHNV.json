@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19957,
+  "num_followers": 19966,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,26 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
+        "name": "Corrente",
+        "url": "https://open.spotify.com/album/5D15hBPxJW8nm119i0T5cz"
+      },
+      "artists": [
+        {
+          "name": "Lz da Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/5wwIfBhmmcRChkLfFKxcu3"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        }
+      ],
+      "duration_ms": 176605,
+      "name": "Corrente",
+      "url": "https://open.spotify.com/track/58slFsFwosSTeALLiPxIkI"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 152079,
       "name": "COLADINHO",
       "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
-        "name": "Corrente",
-        "url": "https://open.spotify.com/album/5D15hBPxJW8nm119i0T5cz"
-      },
-      "artists": [
-        {
-          "name": "Lz da Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/5wwIfBhmmcRChkLfFKxcu3"
-        },
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        }
-      ],
-      "duration_ms": 176605,
-      "name": "Corrente",
-      "url": "https://open.spotify.com/track/58slFsFwosSTeALLiPxIkI"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -391,30 +391,22 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
       },
       "artists": [
         {
-          "name": "Nega",
-          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "TX",
-          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
-        },
-        {
-          "name": "Jaxonethebeat",
-          "url": "https://open.spotify.com/artist/0Ud3CAwnzGV2OYCuTwRuJU"
-        },
-        {
-          "name": "Jaxz Bond",
-          "url": "https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X"
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         }
       ],
-      "duration_ms": 182448,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
+      "duration_ms": 162093,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -439,22 +431,30 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
         },
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        },
+        {
+          "name": "Jaxonethebeat",
+          "url": "https://open.spotify.com/artist/0Ud3CAwnzGV2OYCuTwRuJU"
+        },
+        {
+          "name": "Jaxz Bond",
+          "url": "https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
+      "duration_ms": 182448,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -527,6 +527,30 @@
       "duration_ms": 194862,
       "name": "Luar",
       "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
+        "name": "Ch\u00e1",
+        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 155512,
+      "name": "Ch\u00e1",
+      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -615,30 +639,6 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
-        "name": "Ch\u00e1",
-        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 155512,
-      "name": "Ch\u00e1",
-      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -811,22 +811,18 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+        "name": "Saia Rodada",
+        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
       },
       "artists": [
         {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+      "duration_ms": 249600,
+      "name": "Saia Rodada",
+      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -851,18 +847,22 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
-        "name": "Saia Rodada",
-        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
       "artists": [
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Saia Rodada",
-      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2025-01-24 03:01:24",

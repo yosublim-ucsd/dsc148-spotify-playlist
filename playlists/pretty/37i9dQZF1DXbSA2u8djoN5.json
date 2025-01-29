@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: NOUA UNSPE, Oscar",
-  "num_followers": 19786,
+  "num_followers": 19806,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,26 @@
     {
       "added_at": "2025-01-23 22:00:32",
       "album": {
+        "name": "\u0218tefan IV: Umbra",
+        "url": "https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t"
+      },
+      "artists": [
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "duration_ms": 253312,
+      "name": "EU",
+      "url": "https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na"
+    },
+    {
+      "added_at": "2025-01-23 22:00:32",
+      "album": {
         "name": "CO$ANO$TRA",
         "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 181714,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
-    },
-    {
-      "added_at": "2025-01-23 22:00:32",
-      "album": {
-        "name": "\u0218tefan IV: Umbra",
-        "url": "https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        },
-        {
-          "name": "Ian",
-          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
-        }
-      ],
-      "duration_ms": 253312,
-      "name": "EU",
-      "url": "https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na"
     },
     {
       "added_at": "2025-01-23 22:00:32",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-01-23 22:00:32",
       "album": {
-        "name": "BAGS IN THIS B*TCH",
-        "url": "https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        }
-      ],
-      "duration_ms": 138808,
-      "name": "BAGS IN THIS B*TCH",
-      "url": "https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD"
-    },
-    {
-      "added_at": "2025-01-23 22:00:32",
-      "album": {
         "name": "Femei \u00een Parlament",
         "url": "https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 174871,
       "name": "Derni\u00e8re Cigarette",
       "url": "https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1"
+    },
+    {
+      "added_at": "2025-01-23 22:00:32",
+      "album": {
+        "name": "BAGS IN THIS B*TCH",
+        "url": "https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx"
+      },
+      "artists": [
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "duration_ms": 138808,
+      "name": "BAGS IN THIS B*TCH",
+      "url": "https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD"
     },
     {
       "added_at": "2025-01-23 22:00:32",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-01-23 22:00:32",
       "album": {
-        "name": "Meditez",
-        "url": "https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm"
-      },
-      "artists": [
-        {
-          "name": "Marko Glass",
-          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
-        },
-        {
-          "name": "Cruz",
-          "url": "https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f"
-        }
-      ],
-      "duration_ms": 149100,
-      "name": "Meditez",
-      "url": "https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7"
-    },
-    {
-      "added_at": "2025-01-23 22:00:32",
-      "album": {
         "name": "Fiare noi",
         "url": "https://open.spotify.com/album/4T4w9o0BJUikD9UTYBFukc"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": "2025-01-23 22:00:32",
       "album": {
-        "name": "PATEK",
-        "url": "https://open.spotify.com/album/4PgwdjlApTsBwtlcaU1dDz"
+        "name": "Meditez",
+        "url": "https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm"
       },
       "artists": [
         {
-          "name": "NANE",
-          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        },
+        {
+          "name": "Cruz",
+          "url": "https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f"
         }
       ],
-      "duration_ms": 145680,
-      "name": "PATEK",
-      "url": "https://open.spotify.com/track/3GhuOAqwwIo3hAlXApoKeC"
+      "duration_ms": 149100,
+      "name": "Meditez",
+      "url": "https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7"
     },
     {
       "added_at": "2025-01-23 22:00:32",
@@ -859,6 +843,22 @@
       "duration_ms": 155000,
       "name": "Nimic Nou",
       "url": "https://open.spotify.com/track/0LgIq2vxT19hhGrntgp5oX"
+    },
+    {
+      "added_at": "2025-01-23 22:00:32",
+      "album": {
+        "name": "PATEK",
+        "url": "https://open.spotify.com/album/4PgwdjlApTsBwtlcaU1dDz"
+      },
+      "artists": [
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "PATEK",
+      "url": "https://open.spotify.com/track/3GhuOAqwwIo3hAlXApoKeC"
     },
     {
       "added_at": "2025-01-23 22:00:32",

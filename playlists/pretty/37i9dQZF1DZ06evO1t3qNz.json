@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 33382,
+  "num_followers": 33411,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAAddmkEnaRiyXtLSTN9OmJl",
+  "snapshot_id": "Z5bMgAAAAAAPJFBQmqhPe9LdiTHcTgBL",
   "tracks": [
     {
       "added_at": null,
@@ -215,6 +215,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Holy Ground (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Look Who's Cryin' Now",
         "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
       },
@@ -227,22 +247,6 @@
       "duration_ms": 141724,
       "name": "Look Who's Cryin' Now",
       "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 157662,
-      "name": "Upgrade",
-      "url": "https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2"
     },
     {
       "added_at": null,
@@ -279,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 157662,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobriety",
         "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
       },
@@ -291,26 +311,6 @@
       "duration_ms": 126361,
       "name": "Sobriety",
       "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Holy Ground (feat. Jessie Murph)",
-      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
     },
     {
       "added_at": null,

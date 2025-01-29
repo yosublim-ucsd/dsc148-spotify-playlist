@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 214346,
       "name": "67481 Lesley Brown",
       "url": "https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk"
@@ -74,6 +74,24 @@
       "duration_ms": 197240,
       "name": "A Game of Strategy",
       "url": "https://open.spotify.com/track/06i6kDgeziHoeN6WAlgs9W"
+    },
+    {
+      "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103546,
+      "name": "A Good Choice",
+      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
     },
     {
       "album": {
@@ -394,7 +412,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 170253,
       "name": "Echo Fires Up Another",
       "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
@@ -578,6 +596,24 @@
       "duration_ms": 173226,
       "name": "Help Us Please",
       "url": "https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw"
+    },
+    {
+      "album": {
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105346,
+      "name": "Here I Am Nothing",
+      "url": "https://open.spotify.com/track/2fsVTeVYxRSqgVirtjupvB"
     },
     {
       "album": {
@@ -1176,7 +1212,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 281213,
       "name": "Our Eternal Sky",
       "url": "https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9"
@@ -1284,7 +1320,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 59800,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/6fG5oXUVHyg8xq7yGznSPH"
@@ -1633,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78866,
+      "name": "There Is No Justice In Law",
+      "url": "https://open.spotify.com/track/7lDUIo9A8BIlbLeDq5d1S5"
+    },
+    {
+      "album": {
         "name": "Joy (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
@@ -1644,7 +1698,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 69800,
       "name": "They Are Always Beautiful",
       "url": "https://open.spotify.com/track/7kv1RwOpJP8BbGPUnrHylC"

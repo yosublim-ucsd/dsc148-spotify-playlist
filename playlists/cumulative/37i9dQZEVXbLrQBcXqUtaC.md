@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,509 songs - 3 day 14 hr 33 min
+1,510 songs - 3 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-04 | 2023-11-17 |
 | [Haunted \(Taylor's Version\)](https://open.spotify.com/track/4tMzIAFTFdqGBQLdfbPces) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:05 | 2023-07-08 | 2023-07-10 |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-07-30 | 2022-09-07 |
+| [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:35 | 2025-01-28 |  |
 | [Heart on the Window \(with WENDY\)](https://open.spotify.com/track/0gzXQHsv4zYHQ1pvlyYZZa) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:57 | 2024-11-20 | 2024-11-22 |
 | [Heart on the Window \(with WENDY\)](https://open.spotify.com/track/1b6qYBwDMBpFylGVT4PRgD) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:57 | 2024-11-16 | 2024-11-21 |
 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 | 2024-11-24 | 2024-11-29 |
@@ -1372,7 +1373,7 @@
 | [جرح الخيانة](https://open.spotify.com/track/2kR9jxjX7j6wuHc3eaJhCq) | [سجاد حقي](https://open.spotify.com/artist/32Fg5G3aPFk7Eh19jsbWLY) | [SS 2050](https://open.spotify.com/album/0mUD9gBC7PiCzfD7sHjLM0) | 2:33 | 2022-09-03 | 2023-04-27 |
 | [جننت قلبي](https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [جننت قلبي](https://open.spotify.com/album/4pEnflTz0BQxSdcX2mptfP) | 4:47 | 2023-10-09 | 2024-01-06 |
 | [حبي الك مايشبه حب ثاني](https://open.spotify.com/track/6ycGBHO1NlCvjtMLU6zzJe) | [umiy](https://open.spotify.com/artist/7CLlOKuKAmd7uuSDeyLN0M) | [حبي الك مايشبه حب ثاني](https://open.spotify.com/album/0e9ctZiLQDjmR47acmhUNy) | 4:34 | 2024-09-07 | 2024-09-22 |
-| [حبيبي راح مسرع](https://open.spotify.com/track/15mtirqNB6IF1owL0WkIUg) | [Kstr](https://open.spotify.com/artist/059BiSwXatlPKBSOWG6gIV) | [حبيبي راح مسرع](https://open.spotify.com/album/7dxjuPakkHqpo5qKnFSV6M) | 4:16 | 2024-08-30 |  |
+| [حبيبي راح مسرع](https://open.spotify.com/track/15mtirqNB6IF1owL0WkIUg) | [Kstr](https://open.spotify.com/artist/059BiSwXatlPKBSOWG6gIV) | [حبيبي راح مسرع](https://open.spotify.com/album/7dxjuPakkHqpo5qKnFSV6M) | 4:16 | 2024-08-30 | 2025-01-29 |
 | [حبيبي ليه](https://open.spotify.com/track/2OSxxCfS81wcds5RbQ0Ztq) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV) | 2:00 | 2024-08-31 | 2024-09-13 |
 | [حبيبي ليه](https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي](https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp) | 2:00 | 2024-08-23 | 2024-09-01 |
 | [حراام عليك](https://open.spotify.com/track/4TComAxYaIeuXPU7Lw5gtw) | [umiy](https://open.spotify.com/artist/7CLlOKuKAmd7uuSDeyLN0M) | [umiy \(1\)](https://open.spotify.com/album/7LM9tHOXAjYx5NCrW0WNSW) | 4:20 | 2024-07-27 | 2024-09-20 |

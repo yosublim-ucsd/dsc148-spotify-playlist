@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAAi/6/30P9fI0f1h7n+xwVo",
+  "snapshot_id": "Z5bMgAAAAAD98K1CxsDdUHlqKizt7sDA",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEIO (BLACKMIX)",
+        "url": "https://open.spotify.com/album/6k4Hko1VGP1Vpz8ueq7MHX"
+      },
+      "artists": [
+        {
+          "name": "Kult",
+          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "BM Ally",
+          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
+        }
+      ],
+      "duration_ms": 149571,
+      "name": "MEIO - BLACKMIX",
+      "url": "https://open.spotify.com/track/0V3hyPKNypLf73OCVxegAO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Juma",
         "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
@@ -519,30 +543,6 @@
       "duration_ms": 142153,
       "name": "Ela Joga Muito na Minha Cara",
       "url": "https://open.spotify.com/track/746taTiwMbJLRhxXR1zbXk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEIO (BLACKMIX)",
-        "url": "https://open.spotify.com/album/6k4Hko1VGP1Vpz8ueq7MHX"
-      },
-      "artists": [
-        {
-          "name": "Kult",
-          "url": "https://open.spotify.com/artist/5TJNJuX3fpUNMRmUlsgVbM"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "BM Ally",
-          "url": "https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "MEIO - BLACKMIX",
-      "url": "https://open.spotify.com/track/0V3hyPKNypLf73OCVxegAO"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 155889,
-      "name": "Ranger Preta",
-      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -863,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gloss",
-        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
       "artists": [
         {
@@ -872,13 +852,13 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Weeze Cooker",
-          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 134206,
-      "name": "Gloss",
-      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
+      "duration_ms": 155889,
+      "name": "Ranger Preta",
+      "url": "https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR"
     },
     {
       "added_at": null,
@@ -911,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+        "name": "Gloss",
+        "url": "https://open.spotify.com/album/6bJXjxrtZxQjWbNrhRfrtT"
       },
       "artists": [
         {
@@ -920,17 +900,37 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "Weeze Cooker",
+          "url": "https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Avenida Brasil",
-      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
+      "duration_ms": 134206,
+      "name": "Gloss",
+      "url": "https://open.spotify.com/track/5l3vz1aOUOQAlwU6F1F3Jr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faixa Rosa",
+        "url": "https://open.spotify.com/album/2Wd2TZViUKgjLPv84OBi8u"
+      },
+      "artists": [
+        {
+          "name": "Dj Vitor Lima",
+          "url": "https://open.spotify.com/artist/4OgpoVCB5dqTzLGZ9e5VS4"
+        },
+        {
+          "name": "DJ L30",
+          "url": "https://open.spotify.com/artist/5tfvAC3ptwTnVXeNJ8qkYe"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Faixa Rosa",
+      "url": "https://open.spotify.com/track/2T5OkwBqaTmUJ6fCM4hUbL"
     },
     {
       "added_at": null,
@@ -959,6 +959,30 @@
       "duration_ms": 146000,
       "name": "Papo de Arrependida",
       "url": "https://open.spotify.com/track/64fwPCIeXuhNvVSAvI3CIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Avenida Brasil",
+      "url": "https://open.spotify.com/track/7eIfnbitmJPHXbSeyjzVlC"
     },
     {
       "added_at": null,
@@ -1011,22 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 166103,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baile da Dona On\u00e7a",
         "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
       },
@@ -1051,26 +1059,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faixa Rosa",
-        "url": "https://open.spotify.com/album/2Wd2TZViUKgjLPv84OBi8u"
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
       },
       "artists": [
-        {
-          "name": "Dj Vitor Lima",
-          "url": "https://open.spotify.com/artist/4OgpoVCB5dqTzLGZ9e5VS4"
-        },
-        {
-          "name": "DJ L30",
-          "url": "https://open.spotify.com/artist/5tfvAC3ptwTnVXeNJ8qkYe"
-        },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Faixa Rosa",
-      "url": "https://open.spotify.com/track/2T5OkwBqaTmUJ6fCM4hUbL"
+      "duration_ms": 166103,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
     },
     {
       "added_at": null,

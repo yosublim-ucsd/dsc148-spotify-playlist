@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAAH7AhGUkSrK4c+wx+69I1T",
+  "snapshot_id": "Z5bMgAAAAAB/Cl7kQpRmClQlWgbges1f",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1or, Te Necesito",
-        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 204167,
-      "name": "Se\u00f1or, Te Necesito",
-      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Go Tell It (Gloria)",
         "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 199836,
       "name": "Go Tell It (Gloria)",
       "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1or, Te Necesito",
+        "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 204167,
+      "name": "Se\u00f1or, Te Necesito",
+      "url": "https://open.spotify.com/track/2EullfPQH8lklDEZSVPDJM"
     },
     {
       "added_at": null,

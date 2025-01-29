@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 458,665 likes - 258 songs - 15 hr 46 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 458,635 likes - 259 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -266,5 +266,6 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 | 256 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 257 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 |
 | 258 | [That Girl \(Sped Up\)](https://open.spotify.com/track/7JdvmDLR3EKyXU7Yl9huZA) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [That Girl \(Sped Up\)](https://open.spotify.com/album/3lUD3Fp7dIo0x4KRQbJtjt) | 2:15 |
+| 259 | [Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 2:54 |
 
-Snapshot ID: `AAAMs0eYUSOGttuAHwK3EUNR/O0LWot+`
+Snapshot ID: `AAAMtGeb+dCBEUgEdFFm65N03t6G+idQ`

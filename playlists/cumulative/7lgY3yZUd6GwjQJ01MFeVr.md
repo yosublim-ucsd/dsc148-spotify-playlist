@@ -4,7 +4,7 @@
 
 > Today's top country music!
 
-194 songs - 10 hr 34 min
+196 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Heart Like A Truck](https://open.spotify.com/track/4SZ0i1aQEmnfUGfp9x3yDK) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:19 | 2023-12-08 | 2024-03-16 |
 | [Heartbreak King](https://open.spotify.com/track/4f7mzXeDSFtgQHDBjrSKYe) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Heartbreak King](https://open.spotify.com/album/1HyRowYp3Pvrt8PYcomgpp) | 3:33 | 2024-02-23 | 2024-11-02 |
 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 | 2024-02-02 |  |
+| [HELL BOY](https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [HELL BOY](https://open.spotify.com/album/3c9EqYQI2MUpCF29Fliila) | 2:55 | 2025-01-28 |  |
 | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE) | 3:14 | 2024-06-05 | 2024-11-02 |
 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2024-01-19 | 2024-03-16 |
 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 | 2024-12-12 |  |
@@ -102,6 +103,7 @@
 | [Leave The Light On \(feat\. Alexandra Kay\)](https://open.spotify.com/track/7zXm5RfPShKDVnbMQb7gJ7) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 3:20 | 2024-07-22 |  |
 | [Left Me In The Dusk](https://open.spotify.com/track/06gWq2O5V29LniLkheByNS) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Left Me In The Dusk](https://open.spotify.com/album/4fTR9hPpT2xTd4YaY78ql5) | 2:50 | 2023-12-08 | 2024-11-02 |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-13 |  |
+| [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-01-28 |  |
 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-12-08 | 2024-02-24 |
 | [Livin' Ain't Killed Me Yet](https://open.spotify.com/track/5LXfYCQQFJCasWN2DT5ajG) | [Naomi Cooke Johnson](https://open.spotify.com/artist/0TOpxMqjBLR53TUNKK29ML) | [Livin' Ain't Killed Me Yet](https://open.spotify.com/album/20avoS99wAkzfnxks3FmQH) | 2:40 | 2023-12-08 |  |
 | [Lonely Cowboy](https://open.spotify.com/track/4b4qenweAK0E90SiuUtrLy) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 4:53 | 2024-06-05 |  |

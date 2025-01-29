@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy vocal and instrumental Jazz. Cover: Laufey",
-  "num_followers": 181814,
+  "num_followers": 181921,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Castles in the Air",
-        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
-      },
-      "artists": [
-        {
-          "name": "Laura & Anton",
-          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "Castles in the Air",
-      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 196546,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/1RrdcQQ5nyoZGc9xYnX5DI"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Castles in the Air",
+        "url": "https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S"
+      },
+      "artists": [
+        {
+          "name": "Laura & Anton",
+          "url": "https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "Castles in the Air",
+      "url": "https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -527,6 +527,34 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
+        "name": "What'll I Do",
+        "url": "https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "duration_ms": 245063,
+      "name": "What'll I Do",
+      "url": "https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
       },
@@ -555,34 +583,6 @@
       "duration_ms": 213010,
       "name": "Join Me in a Dream",
       "url": "https://open.spotify.com/track/7uNgFlcMfpYMt3bbqREIE3"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
-        "name": "What'll I Do",
-        "url": "https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Hanlon",
-          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
-        },
-        {
-          "name": "Peter Hodges",
-          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
-        }
-      ],
-      "duration_ms": 245063,
-      "name": "What'll I Do",
-      "url": "https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Sunset In The Blue",
-        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 272990,
-      "name": "Sunset In The Blue",
-      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "In Blue",
         "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 246866,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Sunset In The Blue",
+        "url": "https://open.spotify.com/album/1LIhtVLdBxW5V6rUW1hz8D"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 272990,
+      "name": "Sunset In The Blue",
+      "url": "https://open.spotify.com/track/3fkoZm1DZEfsyAx1Z87bKR"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
+        "name": "Skylark",
+        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 274945,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
         "name": "Close to You (with Jacky Terrasson Trio)",
         "url": "https://open.spotify.com/album/55F0v4gDfpFdyLqhvFQcvY"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Skylark",
-        "url": "https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 274945,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "Old Cape Cod",
         "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
       },
@@ -927,26 +927,6 @@
       "duration_ms": 209043,
       "name": "Old Cape Cod",
       "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
-        "name": "Entre eux deux",
-        "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        },
-        {
-          "name": "Philippe Powell",
-          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "Darling Fare Thee Well",
-      "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -979,6 +959,26 @@
       "duration_ms": 184868,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/6iaE1tdPPx5KILayeCMOBl"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Entre eux deux",
+        "url": "https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        },
+        {
+          "name": "Philippe Powell",
+          "url": "https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "Darling Fare Thee Well",
+      "url": "https://open.spotify.com/track/2IB2SEntcZb2tc0oD49P5U"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "\"Moon River\"",
-        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
-      },
-      "artists": [
-        {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "\"Moon River\"",
-      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 371391,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "\"Moon River\"",
+        "url": "https://open.spotify.com/album/7qZbslBZcGfBhuKKPEu1uf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "\"Moon River\"",
+      "url": "https://open.spotify.com/track/2F3bzglfmmsKVrgzunXhPB"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "The Moon and the Sky",
-        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edna \u00d3sk",
-          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "The Moon and the Sky",
-      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "In Her Words",
         "url": "https://open.spotify.com/album/7AdQX1dp37fnchc6h8sLuv"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 267160,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2BwbCvzK0TomWh4Igp0wq3"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "The Moon and the Sky",
+        "url": "https://open.spotify.com/album/0wkPvLKjh3RW3UGCVkvpYk"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edna \u00d3sk",
+          "url": "https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "The Moon and the Sky",
+      "url": "https://open.spotify.com/track/3QDJUXE2dOArmBxRs5fOxf"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 312786,
-      "name": "And So It Goes",
-      "url": "https://open.spotify.com/track/703WlQONsXodIABGbGvF6M"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "Over The Years",
         "url": "https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 449000,
       "name": "Lucky To Be Me",
       "url": "https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 312786,
+      "name": "And So It Goes",
+      "url": "https://open.spotify.com/track/703WlQONsXodIABGbGvF6M"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+        "name": "Roadhouse",
+        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
       },
       "artists": [
         {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+          "name": "Ruth Cameron",
+          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Let's Try This Again",
-      "url": "https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf"
+      "duration_ms": 311906,
+      "name": "One For My Baby",
+      "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Roadhouse",
-        "url": "https://open.spotify.com/album/1hOiFphQN0xvJS9gNGWaqx"
-      },
-      "artists": [
-        {
-          "name": "Ruth Cameron",
-          "url": "https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "One For My Baby",
-      "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "Embraceable You",
         "url": "https://open.spotify.com/album/0wEQI7wwW5WTh1WaD09fr6"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 288664,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/50xfb5jlP00Jv6xMhcpik9"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Let's Try This Again",
+      "url": "https://open.spotify.com/track/5zgT7IAtYZ0wOMojcdYgNf"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/3V0kkAM0XktsMtD88qXHZO"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 305128,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/37HQHRDtFQ3H80fEgxiW9I"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "On My Way to You",
         "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 357013,
       "name": "What Are You Doing The Rest Of Your Life",
       "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/3V0kkAM0XktsMtD88qXHZO"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 305128,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/37HQHRDtFQ3H80fEgxiW9I"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
+        "name": "Reste un peu (Radio Edit)",
+        "url": "https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ"
+      },
+      "artists": [
+        {
+          "name": "Calo\u00e9",
+          "url": "https://open.spotify.com/artist/5VhECTqYomp7HNwQrzQYNL"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Reste un peu - Radio Edit",
+      "url": "https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
         "name": "C\u00e2dencia",
         "url": "https://open.spotify.com/album/4vqL9Ic575a8taWB6WWju0"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 237013,
       "name": "C\u00e2dencia",
       "url": "https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
-        "name": "Reste un peu (Radio Edit)",
-        "url": "https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ"
-      },
-      "artists": [
-        {
-          "name": "Calo\u00e9",
-          "url": "https://open.spotify.com/artist/5VhECTqYomp7HNwQrzQYNL"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Reste un peu - Radio Edit",
-      "url": "https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "John Coltrane and Johnny Hartman",
-        "url": "https://open.spotify.com/album/6Yx0HNpoOnhtSvyuBnytZf"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane & Johnny Hartman",
-          "url": "https://open.spotify.com/artist/5k3CkxpaPwsFdjlW6A4LOS"
-        }
-      ],
-      "duration_ms": 331840,
-      "name": "Dedicated to You",
-      "url": "https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/3jYDvk2uAOO4nPrY86a08n"
       },
@@ -1943,26 +1927,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "The Night and the Music",
-        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
-      },
-      "artists": [
-        {
-          "name": "Lina Nyberg",
-          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
-        },
-        {
-          "name": "Daniel Karlsson",
-          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
-        }
-      ],
-      "duration_ms": 249026,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "Ella Sings Gershwin",
         "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
@@ -1979,30 +1943,38 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Live Sings Sassy",
-        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
+        "name": "John Coltrane and Johnny Hartman",
+        "url": "https://open.spotify.com/album/6Yx0HNpoOnhtSvyuBnytZf"
       },
       "artists": [
         {
-          "name": "Live Foyn Friis",
-          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
-        },
-        {
-          "name": "B\u00e5rd Helgerud",
-          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
-        },
-        {
-          "name": "Rodrigo Villagra",
-          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
-        },
-        {
-          "name": "Magnus Sefaniassen Eide",
-          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
+          "name": "John Coltrane & Johnny Hartman",
+          "url": "https://open.spotify.com/artist/5k3CkxpaPwsFdjlW6A4LOS"
         }
       ],
-      "duration_ms": 381367,
-      "name": "East of the Sun and West of the Moon",
-      "url": "https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e"
+      "duration_ms": 331840,
+      "name": "Dedicated to You",
+      "url": "https://open.spotify.com/track/7jViEpEn0BrHdqqlPtZcxr"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "The Night and the Music",
+        "url": "https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k"
+      },
+      "artists": [
+        {
+          "name": "Lina Nyberg",
+          "url": "https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv"
+        },
+        {
+          "name": "Daniel Karlsson",
+          "url": "https://open.spotify.com/artist/133ujfci80J2umYb3Oas89"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -2035,6 +2007,34 @@
       "duration_ms": 263026,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/7c7LB2gAiXKssztP4DJMFo"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Live Sings Sassy",
+        "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
+      },
+      "artists": [
+        {
+          "name": "Live Foyn Friis",
+          "url": "https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af"
+        },
+        {
+          "name": "B\u00e5rd Helgerud",
+          "url": "https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh"
+        },
+        {
+          "name": "Rodrigo Villagra",
+          "url": "https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv"
+        },
+        {
+          "name": "Magnus Sefaniassen Eide",
+          "url": "https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw"
+        }
+      ],
+      "duration_ms": 381367,
+      "name": "East of the Sun and West of the Moon",
+      "url": "https://open.spotify.com/track/0hed9Q52TtwFLRMgK0M98e"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -2207,6 +2207,42 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
+        "name": "Spring Waltz",
+        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Spring Waltz",
+      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Sometimes I'm Happy",
+      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
         "name": "Voces Veladas, Vol.2-Un Homenaje a Letristas e Int\u00e9rpretes de Jazz",
         "url": "https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe"
       },
@@ -2239,42 +2275,6 @@
       "duration_ms": 317800,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Sometimes I'm Happy",
-      "url": "https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
-        "name": "Spring Waltz",
-        "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Spring Waltz",
-      "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -2535,6 +2535,22 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 359000,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
         "name": "Can't Get Out Of This Mood (Duo Version)",
         "url": "https://open.spotify.com/album/7hjsSGkreKuIQmlz3bmMYY"
       },
@@ -2551,22 +2567,6 @@
       "duration_ms": 254690,
       "name": "Can't Get Out Of This Mood (feat. Gerald Clayton) - Duo Version",
       "url": "https://open.spotify.com/track/6IXwkkCywEC6IZywMmKiVd"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 359000,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/3598gM7OA4kWCYNGl1Ma8l"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -2787,22 +2787,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Life Came into Colour",
-        "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
-      },
-      "artists": [
-        {
-          "name": "Katharine Timoney",
-          "url": "https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7"
-        }
-      ],
-      "duration_ms": 316166,
-      "name": "Life Came into Colour",
-      "url": "https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "Blue Toy",
         "url": "https://open.spotify.com/album/3QryGVhGpGyQX6FBKdjOUe"
       },
@@ -2815,6 +2799,22 @@
       "duration_ms": 455273,
       "name": "Blue Toy",
       "url": "https://open.spotify.com/track/6gMCbMq9AZMCFbNIvOGSlL"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Life Came into Colour",
+        "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
+      },
+      "artists": [
+        {
+          "name": "Katharine Timoney",
+          "url": "https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7"
+        }
+      ],
+      "duration_ms": 316166,
+      "name": "Life Came into Colour",
+      "url": "https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -2955,6 +2955,22 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
+        "name": "On Broadway Vol. 4 or the Paradox of Continuity",
+        "url": "https://open.spotify.com/album/1krBoEyffLMXuGqGkpKEhw"
+      },
+      "artists": [
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 296066,
+      "name": "Folks Who Live on the Hill",
+      "url": "https://open.spotify.com/track/1t0sRkXJIokqpl8tMVLtIW"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
         "name": "Early Autumn",
         "url": "https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p"
       },
@@ -2987,22 +3003,6 @@
       "duration_ms": 341040,
       "name": "Sweet Kentucky Ham",
       "url": "https://open.spotify.com/track/7rAShsMrZEArdLb5IemOUz"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
-        "name": "On Broadway Vol. 4 or the Paradox of Continuity",
-        "url": "https://open.spotify.com/album/1krBoEyffLMXuGqGkpKEhw"
-      },
-      "artists": [
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 296066,
-      "name": "Folks Who Live on the Hill",
-      "url": "https://open.spotify.com/track/1t0sRkXJIokqpl8tMVLtIW"
     },
     {
       "added_at": "2025-01-17 09:15:32",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2025-01-17 09:15:32",
       "album": {
-        "name": "Cloudy Treasures",
-        "url": "https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm"
-      },
-      "artists": [
-        {
-          "name": "Louise B\u00f8ttern",
-          "url": "https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Cloudy Treasures",
-      "url": "https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA"
-    },
-    {
-      "added_at": "2025-01-17 09:15:32",
-      "album": {
         "name": "It's Magic",
         "url": "https://open.spotify.com/album/2GmDXAz7riUllsiCGd0htY"
       },
@@ -3183,6 +3167,22 @@
       "duration_ms": 425960,
       "name": "Discord",
       "url": "https://open.spotify.com/track/2lWUPIPZmGJPaqiPFsmHqy"
+    },
+    {
+      "added_at": "2025-01-17 09:15:32",
+      "album": {
+        "name": "Cloudy Treasures",
+        "url": "https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm"
+      },
+      "artists": [
+        {
+          "name": "Louise B\u00f8ttern",
+          "url": "https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Cloudy Treasures",
+      "url": "https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA"
     },
     {
       "added_at": "2025-01-17 09:15:32",

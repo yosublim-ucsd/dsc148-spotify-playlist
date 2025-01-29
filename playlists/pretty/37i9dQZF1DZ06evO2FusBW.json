@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10614,
+  "num_followers": 10637,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABXa5AOKpqOPmPBRObEvyKs",
+  "snapshot_id": "Z5bMgAAAAABeNbs3ZlGi14T4RiSM+YU4",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleep Meditations",
+        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
+      },
+      "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 272550,
+      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
+      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/3WLbC4BcUUxjLP9mY2s504"
       },
@@ -387,22 +407,6 @@
       "duration_ms": 295706,
       "name": "Meditation",
       "url": "https://open.spotify.com/track/19d0cpyRZYw0R00y4Am99v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 114633,
-      "name": "Perfect Balance",
-      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Meditations",
-        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
       },
       "artists": [
-        {
-          "name": "TUNE YOUR MIND",
-          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
-        },
         {
           "name": "RIOPY",
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 272550,
-      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
-      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+      "duration_ms": 114633,
+      "name": "Perfect Balance",
+      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,
@@ -687,38 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portraits in Film",
-        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 199648,
-      "name": "Brave Heart",
-      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "Costa da Caparica",
-      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 66",
         "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
       },
@@ -739,6 +707,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "Costa da Caparica",
+      "url": "https://open.spotify.com/track/0a9louq1zctSt5SA7z4cUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portraits in Film",
+        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 199648,
+      "name": "Brave Heart",
+      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "[extended] BLISS",
         "url": "https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 169586,
       "name": "Sense of hope",
       "url": "https://open.spotify.com/track/6yHtgBiDaHaI5TIxfYt5x2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 297288,
-      "name": "The Age of Pisces",
-      "url": "https://open.spotify.com/track/2g7sqs6Pl5DxKyZnL6fcXx"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 297288,
+      "name": "The Age of Pisces",
+      "url": "https://open.spotify.com/track/2g7sqs6Pl5DxKyZnL6fcXx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le R\u00eave d'une note",
         "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 153137,
-      "name": "Evolving Memories",
-      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 432",
         "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 278958,
       "name": "A BIRD'S TALE",
       "url": "https://open.spotify.com/track/0BQSiWiaW8UvRUVSELnAVh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 153137,
+      "name": "Evolving Memories",
+      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
     },
     {
       "added_at": null,

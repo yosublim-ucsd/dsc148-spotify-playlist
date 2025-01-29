@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Cults, Mareux and more
+> With Pastel Ghost, Mareux, Magdalena Bay and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,602 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,620 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 |
 | 50 | [Seventeen](https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Light & Magic](https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO) | 4:37 |
 
-Snapshot ID: `Z5gxwwAAAADvSWYr0cTryCUlPqCTceVM`
+Snapshot ID: `Z5mc7AAAAACaQM2xMjqvTHKM77BE5dim`

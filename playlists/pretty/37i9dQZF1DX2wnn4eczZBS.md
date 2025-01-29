@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: ISAÏ
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,834 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,836 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cherry Jenna](https://open.spotify.com/track/0Z7EHxmP8WznjmOPNsDSzl) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:41 |
-| 2 | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 |
+| 2 | [TWIJFELS](https://open.spotify.com/track/64b003qjzmQcod0AKscKVw) | [GIB](https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h) | [TWIJFELS](https://open.spotify.com/album/4suRDB1oIRcvMAzPiqVB1d) | 2:01 |
 | 3 | [Have Fun](https://open.spotify.com/track/0TMRAlLGfejAdDUZKtA3n6) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Have Fun](https://open.spotify.com/album/550zId70EEaGEsnQirUO11) | 2:41 |
 | 4 | [Zonder handen rijden](https://open.spotify.com/track/2lVKoxQgBNqJwCE1SeLFKl) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:23 |
 | 5 | [Gebroken Spiegel](https://open.spotify.com/track/10Kg907mXNLeJ0K86gE1Or) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM), [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Gebroken Spiegel](https://open.spotify.com/album/6dNDtmJnXyWzaFKiC47vc2) | 3:29 |
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 7 | [Salmari & Kreeft](https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Naar De Haaien & Weer Terug](https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg) | 4:22 |
 | 8 | [Alleen](https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Spijbelaar](https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ) | 3:36 |
 | 9 | [Wolken](https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Wolken](https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD) | 3:25 |
-| 10 | [TWIJFELS](https://open.spotify.com/track/64b003qjzmQcod0AKscKVw) | [GIB](https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h) | [TWIJFELS](https://open.spotify.com/album/4suRDB1oIRcvMAzPiqVB1d) | 2:01 |
-| 11 | [Wolk breekt](https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 4:10 |
-| 12 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
+| 10 | [Wolk breekt](https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Heimwee](https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh) | 4:10 |
+| 11 | [Het Is Genoeg](https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Vrijplaats](https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq) | 3:53 |
+| 12 | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 |
 | 13 | [Verlaten Terrein](https://open.spotify.com/track/4VNEjFbnAG6wRj7AmP5L3S) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Verlaten Terrein](https://open.spotify.com/album/1lFypumlh0lupowvAr4zFQ) | 2:45 |
 | 14 | [Nachtblind](https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40) | 2:00 |
 | 15 | [Spookstad](https://open.spotify.com/track/1hBT3YVAygNFTSP3ntqzp4) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [2 HIGH 2 SOCIETY](https://open.spotify.com/album/4F9UoGdfxO0yy3nXFv5hbE) | 3:19 |
 | 16 | [Onzichtbaar](https://open.spotify.com/track/6MadE1DxKrKN5QeUz5dz4M) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Onzichtbaar](https://open.spotify.com/album/5wHDgUd0gH8yXuiezp97pf) | 2:47 |
-| 17 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
-| 18 | [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 |
+| 17 | [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 |
+| 18 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
 | 19 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 |
 | 20 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 |
 | 21 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 25 | [Soms Regen Ik Ook](https://open.spotify.com/track/0tXcrwN1RTLT84LOdbeCxp) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Eclips](https://open.spotify.com/album/3OvOekPYYw1vNvyAQKSo4l) | 3:26 |
 | 26 | [Heilige Nacht](https://open.spotify.com/track/0bMRaBlTh2DgbayK6qebQi) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Heilige Nacht](https://open.spotify.com/album/3Q1VNqBxfb7yuLoqzlO1TU) | 3:12 |
 | 27 | [Zonder Naam](https://open.spotify.com/track/2L9SjKxjHUPiZ4KRNZsbri) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Zonder Naam](https://open.spotify.com/album/5QEFqvIyfTxjiRgPMuKuq5) | 3:01 |
-| 28 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 |
+| 28 | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf) | 3:27 |
 | 29 | [Altijd Anders](https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Altijd Anders](https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp) | 3:48 |
-| 30 | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g) | [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Shirt Uit \(feat\. Sef\)](https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf) | 3:27 |
+| 30 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 |
 | 31 | [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/track/3GpHznZlxT3dNlAooYmCgG) | [Blue Flamingo](https://open.spotify.com/artist/3jZ97YHIMgSBV09PRJjobi), [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Masker van Glas \(feat\. Spinvis\)](https://open.spotify.com/album/3KI6JN7J0BR1IBUHw4WAT8) | 4:05 |
 | 32 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 |
 | 33 | [Het Outro](https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Het Outro](https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY) | 3:20 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 43 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 |
 | 44 | [Ik Weet Het](https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Weet Het](https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt) | 4:01 |
 | 45 | [Als Ik Verdwaal](https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Als Ik Verdwaal](https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9) | 2:33 |
-| 46 | [Je Geeft Me Niets](https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Je Geeft Me Niets](https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE) | 2:33 |
-| 47 | [BOM](https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6) | [Hang Youth](https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR) | [BOM](https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym) | 2:06 |
-| 48 | [Zo Licht Als Een Veertje](https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Zo Licht Als een Veertje](https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii) | 2:41 |
+| 46 | [BOM](https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6) | [Hang Youth](https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR) | [BOM](https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym) | 2:06 |
+| 47 | [Zo Licht Als Een Veertje](https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW) | [Rens, Jaïr & Ome Uncle](https://open.spotify.com/artist/6qk91FiZD8n4SeSWZTj9vD) | [Zo Licht Als een Veertje](https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii) | 2:41 |
+| 48 | [Je Geeft Me Niets](https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Je Geeft Me Niets](https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE) | 2:33 |
 | 49 | [platland](https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/6sUOZxIoaSE3fC4jGrTCKC) | 3:26 |
 | 50 | [Een Filosofie Van Het Riool](https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Een Filosofie Van Het Riool](https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV) | 5:26 |
 
-Snapshot ID: `Z5LKCAAAAABJD5xLrRIpJSThSiBoIR7k`
+Snapshot ID: `Z5impAAAAABwF+I79CJqCHYlYBzPIZ/F`

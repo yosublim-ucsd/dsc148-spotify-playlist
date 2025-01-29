@@ -2,7 +2,7 @@
 
 ### [Outlaw ](https://open.spotify.com/playlist/37i9dQZF1DWTCIleLirYKm)
 
-> Remembering the legendary outlaw Kris Kristofferson
+> a state of mind.
 
 119 songs - 6 hr 59 min
 

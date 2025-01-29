@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,812 likes - 48 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,813 likes - 48 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 27 | [I Just Want You Around](https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:18 |
 | 28 | [I Won't Settle](https://open.spotify.com/track/1QgwtjWPomK2PbRznDlEtL) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:54 |
 | 29 | [Ready and Willing](https://open.spotify.com/track/6D7710NA02PtdQT4UkPhLg) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:30 |
-| 30 | [Red, Gold & Green](https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Red, Gold & Green](https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ) | 3:49 |
-| 31 | [Haters \- Remix](https://open.spotify.com/track/2GXLbTBGnx0Aye2rwXvpuD) | [Kimié Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Haters \(Remix\)](https://open.spotify.com/album/5AXqdEnnL69bGBt4DOUxQX) | 3:58 |
+| 30 | [Haters \- Remix](https://open.spotify.com/track/2GXLbTBGnx0Aye2rwXvpuD) | [Kimié Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Haters \(Remix\)](https://open.spotify.com/album/5AXqdEnnL69bGBt4DOUxQX) | 3:58 |
+| 31 | [Red, Gold & Green](https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Red, Gold & Green](https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ) | 3:49 |
 | 32 | [Shoulders](https://open.spotify.com/track/1DgDzRESnccvc8ouaFlvNN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG) | 3:53 |
 | 33 | [Hard Place](https://open.spotify.com/track/6o7RxGKmG0YWwPT768suRR) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:27 |
 | 34 | [We Make It Look Easy](https://open.spotify.com/track/6v8hiOy4Go8nQqiEhjmjPW) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:08 |
-| 35 | [Underrated](https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR) | [Tripp Wilson](https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Moku Soul](https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4) | 3:10 |
-| 36 | [Here I Go Again](https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:26 |
+| 35 | [Here I Go Again](https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:26 |
+| 36 | [Underrated](https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR) | [Tripp Wilson](https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Moku Soul](https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4) | 3:10 |
 | 37 | [Lotus](https://open.spotify.com/track/7yOkenc28VBF76li2yZqc9) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:50 |
 | 38 | [Spam Musubi Song](https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Spam Musubi Song](https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk) | 2:20 |
 | 39 | [Riddles](https://open.spotify.com/track/1OBZDE54aqEtA5aEGzlJUV) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro) | 3:07 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 47 | [Endlessly](https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:14 |
 | 48 | [Fly](https://open.spotify.com/track/2uEbpSC86YqCCH9YrLLrXj) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:04 |
 
-Snapshot ID: `Z5V7AAAAAABofhXDtM0eBaFeW8eJ3OPm`
+Snapshot ID: `Z5bMgAAAAADkH1mkK2B0y+fbWCBjFnR9`

@@ -177,6 +177,28 @@
     },
     {
       "album": {
+        "name": "8 Parche",
+        "url": "https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu"
+      },
+      "artists": [
+        {
+          "name": "Baani Sandhu",
+          "url": "https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "8 Parche",
+      "url": "https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen"
+    },
+    {
+      "album": {
         "name": "Aaye Haaye (Feat. Nora Fatehi)",
         "url": "https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC"
       },
@@ -234,6 +256,32 @@
       "duration_ms": 178000,
       "name": "Addicted (\u0a06\u0a26\u0a40)",
       "url": "https://open.spotify.com/track/7CsARx4aBRnx7r76rPMuuL"
+    },
+    {
+      "album": {
+        "name": "Ailaan",
+        "url": "https://open.spotify.com/album/4isux29kRs7HJnskLhBuku"
+      },
+      "artists": [
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185811,
+      "name": "Ailaan",
+      "url": "https://open.spotify.com/track/3qlSsuFecwMbBxSoKTlWhs"
     },
     {
       "album": {
@@ -1934,7 +1982,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 239294,
       "name": "Malwa Block",
       "url": "https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq"
@@ -3312,7 +3360,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 236168,
       "name": "Watch Out",
       "url": "https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq"

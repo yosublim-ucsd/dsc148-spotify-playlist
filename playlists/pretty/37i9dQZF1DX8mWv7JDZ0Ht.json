@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Mariana Nolasco, Lourena",
-  "num_followers": 437930,
+  "num_followers": 437923,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,26 @@
       "duration_ms": 228780,
       "name": "Pode Se Achegar",
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
+    },
+    {
+      "added_at": "2025-01-24 03:01:25",
+      "album": {
+        "name": "olhos mar",
+        "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        },
+        {
+          "name": "Pedro Aranha",
+          "url": "https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS"
+        }
+      ],
+      "duration_ms": 83467,
+      "name": "olhos mar",
+      "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
     },
     {
       "added_at": "2025-01-24 03:01:25",
@@ -455,6 +475,22 @@
     {
       "added_at": "2025-01-24 03:01:25",
       "album": {
+        "name": "At\u00e9 Que Eu Gostei",
+        "url": "https://open.spotify.com/album/1V3wO2cbHUDQf0dCgzaCWI"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 130112,
+      "name": "At\u00e9 Que Eu Gostei",
+      "url": "https://open.spotify.com/track/6cH27jbd3Dy3HlTAlfIeKV"
+    },
+    {
+      "added_at": "2025-01-24 03:01:25",
+      "album": {
         "name": "\u00c2mbar",
         "url": "https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl"
       },
@@ -487,22 +523,6 @@
       "duration_ms": 243370,
       "name": "Ver Em Cores",
       "url": "https://open.spotify.com/track/5cJ3lUnqM7Aio9bG50bn9Y"
-    },
-    {
-      "added_at": "2025-01-24 03:01:25",
-      "album": {
-        "name": "At\u00e9 Que Eu Gostei",
-        "url": "https://open.spotify.com/album/1V3wO2cbHUDQf0dCgzaCWI"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 130112,
-      "name": "At\u00e9 Que Eu Gostei",
-      "url": "https://open.spotify.com/track/6cH27jbd3Dy3HlTAlfIeKV"
     },
     {
       "added_at": "2025-01-24 03:01:25",
@@ -571,6 +591,26 @@
       "duration_ms": 159280,
       "name": "Massagem nas Costas",
       "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
+    },
+    {
+      "added_at": "2025-01-24 03:01:25",
+      "album": {
+        "name": "HOMENS S\u00c3O DE MARTE",
+        "url": "https://open.spotify.com/album/3TJ6m6bk3nfeQz2362qgTR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Nandes",
+          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
+        },
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 161079,
+      "name": "HOMENS S\u00c3O DE MARTE",
+      "url": "https://open.spotify.com/track/6STnMIg2g9fwOnsbGauDQO"
     },
     {
       "added_at": "2025-01-24 03:01:25",
@@ -655,42 +695,6 @@
     {
       "added_at": "2025-01-24 03:01:25",
       "album": {
-        "name": "HOMENS S\u00c3O DE MARTE",
-        "url": "https://open.spotify.com/album/3TJ6m6bk3nfeQz2362qgTR"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Nandes",
-          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
-        },
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 161079,
-      "name": "HOMENS S\u00c3O DE MARTE",
-      "url": "https://open.spotify.com/track/6STnMIg2g9fwOnsbGauDQO"
-    },
-    {
-      "added_at": "2025-01-24 03:01:25",
-      "album": {
-        "name": "tonteira",
-        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 147812,
-      "name": "tonteira",
-      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
-    },
-    {
-      "added_at": "2025-01-24 03:01:25",
-      "album": {
         "name": "Coisa de Cinema",
         "url": "https://open.spotify.com/album/37IH3KuZZiK3BI6yJXamQk"
       },
@@ -707,6 +711,22 @@
       "duration_ms": 175653,
       "name": "Coisa de Cinema",
       "url": "https://open.spotify.com/track/0T0Q7fJ1lH09UEvG9MdNLb"
+    },
+    {
+      "added_at": "2025-01-24 03:01:25",
+      "album": {
+        "name": "tonteira",
+        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 147812,
+      "name": "tonteira",
+      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
     },
     {
       "added_at": "2025-01-24 03:01:25",
@@ -779,22 +799,6 @@
     {
       "added_at": "2025-01-24 03:01:25",
       "album": {
-        "name": "me chama",
-        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "me chama",
-      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
-    },
-    {
-      "added_at": "2025-01-24 03:01:25",
-      "album": {
         "name": "J\u00e1 Te Falei",
         "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
       },
@@ -807,6 +811,22 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2025-01-24 03:01:25",
+      "album": {
+        "name": "me chama",
+        "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 157846,
+      "name": "me chama",
+      "url": "https://open.spotify.com/track/5zxmVREF4n8VpCzkSBuvjY"
     },
     {
       "added_at": "2025-01-24 03:01:25",
@@ -1079,22 +1099,18 @@
     {
       "added_at": "2025-01-24 03:01:25",
       "album": {
-        "name": "P.A",
-        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
+        "name": "Bhangzwn",
+        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
         }
       ],
-      "duration_ms": 151399,
-      "name": "SOL DE ABRIL",
-      "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"
+      "duration_ms": 205132,
+      "name": "T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
     },
     {
       "added_at": "2025-01-24 03:01:25",
@@ -1119,18 +1135,22 @@
     {
       "added_at": "2025-01-24 03:01:25",
       "album": {
-        "name": "Bhangzwn",
-        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
+        "name": "P.A",
+        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
       },
       "artists": [
         {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
         }
       ],
-      "duration_ms": 205132,
-      "name": "T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
+      "duration_ms": 151399,
+      "name": "SOL DE ABRIL",
+      "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"
     },
     {
       "added_at": "2025-01-24 03:01:25",

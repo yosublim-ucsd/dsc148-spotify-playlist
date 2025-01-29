@@ -3949,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "Bailemos Otra Vez",
+        "url": "https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165569,
+      "name": "Te Amo y Punto",
+      "url": "https://open.spotify.com/track/08kdZnRxBJCvGvpSUs5we4"
+    },
+    {
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -4338,6 +4356,24 @@
       "duration_ms": 145229,
       "name": "Ya Quisieran",
       "url": "https://open.spotify.com/track/4xBYrZuhRp7yFvdN63wty5"
+    },
+    {
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275066,
+      "name": "Yo Le Ment\u00ed",
+      "url": "https://open.spotify.com/track/3YfGttVKDOWNnDVqgYrrsE"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFyQSkfNQhy8K"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Taking it down a notch and keeping the vibes on ice...
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,741 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,743 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 44 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 |
 | 45 | [Eyes Wide](https://open.spotify.com/track/5XgaqYdWMbFucbCDVxR17X) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Eyes Wide](https://open.spotify.com/album/5XIwiSpmlKZCRThoM7tQpN) | 2:27 |
 | 46 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 |
-| 47 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
-| 48 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
+| 47 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
+| 48 | [Here It Is](https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Here It Is](https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL) | 3:13 |
 | 49 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
 | 50 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
 | 51 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 73 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 |
 | 74 | [It Is What It Is](https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [It Is What It Is](https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V) | 2:59 |
 | 75 | [Facetime](https://open.spotify.com/track/6UoUGrNJg8xJOVEjlYM7OB) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Facetime](https://open.spotify.com/album/6a3NVQfwG2LJ1JUbslBn54) | 2:39 |
-| 76 | [Sleep On It](https://open.spotify.com/track/0pIhXrs1gIJjY49Enh6Fly) | [Pippa Crossland](https://open.spotify.com/artist/1swXaEPVO4MZAaJ3gh738N) | [Sleep On It](https://open.spotify.com/album/2nUw21YonvLAkoH9ZKkFkW) | 3:16 |
-| 77 | [Other Sides Of The Moon](https://open.spotify.com/track/6nNBUO6bIMUdjAzq50ithk) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Other Sides Of The Moon](https://open.spotify.com/album/5wxu92j7UL9J9EM6CGVqia) | 3:48 |
+| 76 | [Other Sides Of The Moon](https://open.spotify.com/track/6nNBUO6bIMUdjAzq50ithk) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Other Sides Of The Moon](https://open.spotify.com/album/5wxu92j7UL9J9EM6CGVqia) | 3:48 |
+| 77 | [Sleep On It](https://open.spotify.com/track/0pIhXrs1gIJjY49Enh6Fly) | [Pippa Crossland](https://open.spotify.com/artist/1swXaEPVO4MZAaJ3gh738N) | [Sleep On It](https://open.spotify.com/album/2nUw21YonvLAkoH9ZKkFkW) | 3:16 |
 | 78 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 |
-| 79 | [Cardboard Box](https://open.spotify.com/track/6Jv25wiyMdXCntMUvoTdNi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:41 |
-| 80 | [Bloodstone](https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Bloodstone](https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt) | 3:15 |
+| 79 | [Bloodstone](https://open.spotify.com/track/0T76V96CQdOjI8KNK2jIjw) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Bloodstone](https://open.spotify.com/album/7fiTzVTiLIkgICTZ3t6NMt) | 3:15 |
+| 80 | [Cardboard Box](https://open.spotify.com/track/6Jv25wiyMdXCntMUvoTdNi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:41 |
 
 Snapshot ID: `Z0Bx+gAAAADjiHUaosA/gCOziCH/484z`

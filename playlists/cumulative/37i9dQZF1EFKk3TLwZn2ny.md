@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-60 songs - 3 hr 5 min
+61 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Walking Away](https://open.spotify.com/track/0ATBZJ1E0lkMC9oweBVLqa) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:32 | 2024-01-29 |  |
 | [Want It With You](https://open.spotify.com/track/1NODaCfupGkQSWckbtW6X1) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Chapter One](https://open.spotify.com/album/0e6oknt3pDkHsOOR16V0Q5) | 3:16 | 2024-01-29 |  |
 | [White Lie](https://open.spotify.com/track/1pu8uTETEknskKiQ2ZRV2d) | [Molly Ashcroft](https://open.spotify.com/artist/5GaBtvbFE0zu26I2UZHGIk) | [White Lie](https://open.spotify.com/album/338zZshtwKxZY8gXfMBmMr) | 2:50 | 2024-01-29 | 2024-04-14 |
+| [Who Gon Love You](https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [HOFFA](https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi) | 4:13 | 2025-01-28 |  |
 | [Why Would I](https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Why Would I](https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs) | 3:21 | 2024-10-02 |  |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2024-01-29 |  |
 | [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 | 2024-01-29 |  |

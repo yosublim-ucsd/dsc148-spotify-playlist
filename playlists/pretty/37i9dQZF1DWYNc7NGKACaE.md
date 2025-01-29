@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,062 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,066 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 19 | [Karma \- Speed](https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh) | [Karma](https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6) | 2:00 |
 | 20 | [Se a Saudade Bater \(Workout Version\)](https://open.spotify.com/track/4WDFyuqWL2TzMFeiBqMdK2) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b) | [Se a Saudade Bater \(Workout Version\)](https://open.spotify.com/album/5XC3pLLrZMj6d254BFHBD3) | 2:11 |
 | 21 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 |
-| 22 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
-| 23 | [Kill Bill \- Speed](https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS) | [Cabrxlzin](https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Kill Bill \- Speed](https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB) | 1:28 |
+| 22 | [Kill Bill \- Speed](https://open.spotify.com/track/2BFlLdo7yye9ZNXlCo3xbS) | [Cabrxlzin](https://open.spotify.com/artist/72ZS9JdFcROgzmTG2jmhkF), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Kill Bill \- Speed](https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB) | 1:28 |
+| 23 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
 | 24 | [Portugal \(Speed\)](https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Ananda \(Speed\)](https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e) | 2:43 |
 | 25 | [ELA SABE QUE É O LITTLE HAIR FININHA \- REMIX](https://open.spotify.com/track/4Nly3yVddPbsDc6b2eK4W7) | [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7), [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [ELA SABE QUE É O LITTLE HAIR FININHA \(REMIX\)](https://open.spotify.com/album/3nASJZOJV1VWbLzp2DS7AE) | 2:49 |
 | 26 | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi) | 2:56 |

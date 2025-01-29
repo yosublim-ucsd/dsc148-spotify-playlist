@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute no volume máximo as mulheres que marcaram a música em 2024!  Foto: Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,709 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,712 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 31 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 32 | [Sexto Sentido](https://open.spotify.com/track/34j5aln1VAyWwqqENvrPBS) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 1:44 |
 | 33 | [Foi Tudo em Vão](https://open.spotify.com/track/6SCwnNfu4ERv8W8YNC2oLN) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE) | [Foi Tudo em Vão](https://open.spotify.com/album/5ZRELK5Ptbo891dgmLEFZy) | 2:34 |
-| 34 | [Coração Radiante](https://open.spotify.com/track/62eUevs0BSOcH3EBn0HOrE) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:11 |
-| 35 | [Não Posta](https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Não Posta](https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha) | 3:25 |
+| 34 | [Não Posta](https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Não Posta](https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha) | 3:25 |
+| 35 | [Coração Radiante](https://open.spotify.com/track/62eUevs0BSOcH3EBn0HOrE) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:11 |
 | 36 | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/track/3NBfOhDKrioHcQLuCSVXzk) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Nuvem de Testemunhas \- Spotify Singles](https://open.spotify.com/album/1ossP5lDYR9ssNYpPJ8r64) | 1:33 |
 | 37 | [CHATA](https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [CHATA](https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj) | 2:36 |
 | 38 | [ARRASTO](https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK) | [Rubia Divino](https://open.spotify.com/artist/6TSE9aXOA9TkDntWFrQPlz), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [ARRASTO](https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7) | 3:06 |

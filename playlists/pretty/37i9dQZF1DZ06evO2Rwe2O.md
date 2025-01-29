@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,164 likes - 52 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,165 likes - 52 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 51 | [Completely Free](https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:33 |
 | 52 | [Just Like Somebody Else](https://open.spotify.com/track/2Yo8YXctpvkdKzFgrI4eZP) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:44 |
 
-Snapshot ID: `Z5V7AAAAAADIq5sr4dlCbMg2u55OGIyT`
+Snapshot ID: `Z5bMgAAAAAA4KaMkW9nkjACXHCdjVUEn`

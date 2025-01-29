@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-219 songs - 11 hr 18 min
+220 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [buy me presents](https://open.spotify.com/track/3Cz6MZdwncB4qasyRPen4S) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:57 | 2024-06-07 |  |
 | [Call me Cruella \- From "Cruella"/Soundtrack Version](https://open.spotify.com/track/74985XdDOa0oF6C0cKyyUr) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Harder Than Hell](https://open.spotify.com/album/4X9nSf8xmYbemrz2IAXFgY) | 2:07 | 2024-06-07 |  |
 | [Can't Stay Mad](https://open.spotify.com/track/2caU93YaWxERJpGB0ZXnUw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:27 | 2024-06-07 |  |
+| [Carry It All](https://open.spotify.com/track/04Tsc0341Dca5YJCa61H6G) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Nolan Taylor](https://open.spotify.com/album/1q0SJmCvJjp3rGPJHtuwCD) | 2:46 | 2025-01-28 |  |
 | [Catalina](https://open.spotify.com/track/1YPUJa5odVAIJLZ1CnE9jS) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Kaleidoscope Eyes](https://open.spotify.com/album/06n6A4hjeslmQ60FEHUFiZ) | 3:39 | 2024-06-07 |  |
 | [Cemetery](https://open.spotify.com/track/68eyW8UBCCKbqZwXP1i19v) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Solastalgia](https://open.spotify.com/album/7rwzI6iThLPPhZWL07AgE4) | 4:09 | 2024-06-07 |  |
 | [Chameleon](https://open.spotify.com/track/2dUbh6RaHpDQd8gTlu2hUg) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Chameleon](https://open.spotify.com/album/2sHZNoBTXZmva4P2CD7DNT) | 3:06 | 2024-06-07 |  |

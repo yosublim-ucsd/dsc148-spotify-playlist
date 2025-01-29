@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1367,
+  "num_followers": 1371,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAADOjfFvAwL/adK582+WLU0j",
+  "snapshot_id": "Z5bMgAAAAACQPHTDdcNABh1gKrBfF6No",
   "tracks": [
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 73253,
-      "name": "If You Choose This Over Me",
-      "url": "https://open.spotify.com/track/2mavOEFRldoW9JosK9Q7hp"
+      "duration_ms": 84733,
+      "name": "First Of Many",
+      "url": "https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 84733,
-      "name": "First Of Many",
-      "url": "https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX"
+      "duration_ms": 73253,
+      "name": "If You Choose This Over Me",
+      "url": "https://open.spotify.com/track/2mavOEFRldoW9JosK9Q7hp"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "A Sparrowhawk's Tale",
+      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
@@ -567,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
       },
       "artists": [
         {
@@ -576,25 +592,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 236173,
-      "name": "A Sparrowhawk's Tale",
-      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 421893,
-      "name": "To Lose Himself in Vengeance",
-      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
+      "duration_ms": 67133,
+      "name": "Your Beauty Conquered Me",
+      "url": "https://open.spotify.com/track/4zyb2U2qdpg57TkpjOic9T"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 103546,
+      "name": "A Good Choice",
+      "url": "https://open.spotify.com/track/2Mvcw8ipecGUVqLIdIpg4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 73720,
-      "name": "I Can Live In Hope",
-      "url": "https://open.spotify.com/track/0DplUTi3q9CTo73WSsQbFX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 174186,
-      "name": "You Are Like a Dream I Had",
-      "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
+      "duration_ms": 421893,
+      "name": "To Lose Himself in Vengeance",
+      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 100066,
-      "name": "Imagining the Future - Instrumental",
-      "url": "https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
       },
@@ -704,25 +688,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 59800,
-      "name": "Shame On You",
-      "url": "https://open.spotify.com/track/6fG5oXUVHyg8xq7yGznSPH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 102080,
-      "name": "Who Are You Greeting My Love?",
-      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
+      "duration_ms": 73720,
+      "name": "I Can Live In Hope",
+      "url": "https://open.spotify.com/track/0DplUTi3q9CTo73WSsQbFX"
     },
     {
       "added_at": null,
@@ -743,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "You Are Like a Dream I Had",
+      "url": "https://open.spotify.com/track/0yJp0q45dJgyZ5JSfwA3qg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "William Tell (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
       },
@@ -752,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 67133,
-      "name": "Your Beauty Conquered Me",
-      "url": "https://open.spotify.com/track/4zyb2U2qdpg57TkpjOic9T"
+      "duration_ms": 105346,
+      "name": "Here I Am Nothing",
+      "url": "https://open.spotify.com/track/2fsVTeVYxRSqgVirtjupvB"
     },
     {
       "added_at": null,
@@ -768,9 +752,41 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 69800,
-      "name": "They Are Always Beautiful",
-      "url": "https://open.spotify.com/track/7kv1RwOpJP8BbGPUnrHylC"
+      "duration_ms": 214346,
+      "name": "67481 Lesley Brown",
+      "url": "https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 100066,
+      "name": "Imagining the Future - Instrumental",
+      "url": "https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 102080,
+      "name": "Who Are You Greeting My Love?",
+      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
     },
     {
       "added_at": null,
@@ -807,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Eternal Sky",
-        "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
+        "name": "William Tell (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4"
       },
       "artists": [
         {
@@ -816,25 +832,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 281213,
-      "name": "Our Eternal Sky",
-      "url": "https://open.spotify.com/track/2KdsEioLlIadjY03pJIcI9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Echo Fires Up Another",
-      "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
+      "duration_ms": 78866,
+      "name": "There Is No Justice In Law",
+      "url": "https://open.spotify.com/track/7lDUIo9A8BIlbLeDq5d1S5"
     }
   ],
   "unique_name": "This Is Steven Price",

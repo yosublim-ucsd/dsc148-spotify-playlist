@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 12897,
+  "num_followers": 12917,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAADw5KNXiQT1qRT+6wzwBb6s",
+  "snapshot_id": "Z5bMgAAAAABl99Ik75M4vtZ+j7/NE7Ru",
   "tracks": [
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 197266,
-      "name": "blue and red horses",
-      "url": "https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L"
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/3WZWhKFFfIrs6ykt8kO9Ua"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/3WZWhKFFfIrs6ykt8kO9Ua"
+      "duration_ms": 197266,
+      "name": "blue and red horses",
+      "url": "https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L"
     }
   ],
   "unique_name": "This Is Adrianne Lenker",

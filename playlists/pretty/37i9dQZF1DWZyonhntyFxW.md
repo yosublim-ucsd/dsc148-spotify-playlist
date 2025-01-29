@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  حسين
+> إحنا فوق اللعبة ومافيش غيرنا في السين! غلاف:  للّا فضة
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,193 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,223 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Money Man](https://open.spotify.com/track/32DdsYl1ajtduE6xDckm0x) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [El Waqt El Daye3](https://open.spotify.com/album/6i2pEUNQ7CRsogFiuzyOIx) | 2:28 |
-| 2 | [Esaad Younis](https://open.spotify.com/track/6pN2Qzz1XdpEMFXonrLCdd) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 3:21 |
-| 3 | [Nazel 3la Fo2](https://open.spotify.com/track/3IFoNqQxGwzfauWaVOyVtT) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Hassan Yasser](https://open.spotify.com/artist/2mloSlGnOrhM9IZdnroyiR) | [Nazel 3la Fo2](https://open.spotify.com/album/5UM8e0qUtiTcvWjya3AHMG) | 2:21 |
-| 4 | [أنا](https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [أنا](https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X) | 1:45 |
-| 5 | [KARMA](https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [7OB&KASHAT](https://open.spotify.com/album/2svCOWiV5oGoZk1YTU1NPL) | 2:54 |
-| 6 | [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 |
-| 7 | [TARAT TARAT TAT](https://open.spotify.com/track/3PjJRdq44Ftk0bGDZJAuTq) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:40 |
+| 1 | [TARAT TARAT TAT](https://open.spotify.com/track/3PjJRdq44Ftk0bGDZJAuTq) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:40 |
+| 2 | [Money Man](https://open.spotify.com/track/32DdsYl1ajtduE6xDckm0x) | [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W) | [El Waqt El Daye3](https://open.spotify.com/album/6i2pEUNQ7CRsogFiuzyOIx) | 2:28 |
+| 3 | [Esaad Younis](https://open.spotify.com/track/6pN2Qzz1XdpEMFXonrLCdd) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 3:21 |
+| 4 | [Nazel 3la Fo2](https://open.spotify.com/track/3IFoNqQxGwzfauWaVOyVtT) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Hassan Yasser](https://open.spotify.com/artist/2mloSlGnOrhM9IZdnroyiR) | [Nazel 3la Fo2](https://open.spotify.com/album/5UM8e0qUtiTcvWjya3AHMG) | 2:21 |
+| 5 | [أنا](https://open.spotify.com/track/2s48Dw0M65FKzaZT51bTX7) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [أنا](https://open.spotify.com/album/6kRoXSdcEbAAwDv8dsQZ1X) | 1:45 |
+| 6 | [KARMA](https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [7OB&KASHAT](https://open.spotify.com/album/2svCOWiV5oGoZk1YTU1NPL) | 2:54 |
+| 7 | [El Leila](https://open.spotify.com/track/5VVZU6x6dwF0yHhZGBaFUo) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Intifada](https://open.spotify.com/album/3usyZIrdZXOoT4FIUHiBAy) | 3:39 |
 | 8 | [Khalsana 2 \(Intro\)](https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 2:07 |
 | 9 | [SHIKA NOVA](https://open.spotify.com/track/46VhFX6FT3efqbJPHB8pA0) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [3AWDAT EL FA2DAN](https://open.spotify.com/album/4atXm6afwu07xZgmEULnBO) | 1:52 |
 | 10 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 |
 | 40 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 |
 
-Snapshot ID: `Z5eA4QAAAADOI5kbWsX9qaR4AdMCfnKC`
+Snapshot ID: `Z5kNEwAAAABurJipmhZS7P6M4R2XD/GQ`

@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137680,
+      "name": "^_^",
+      "url": "https://open.spotify.com/track/3xS7BMJ5vn7MAo2e8IEEpr"
+    },
+    {
+      "album": {
         "name": "Bicycle",
         "url": "https://open.spotify.com/album/1Y9QrYdLxPaFZIWQWDx33s"
       },
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 196746,
       "name": "B\u7d1a",
       "url": "https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ"
@@ -6206,7 +6224,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 245808,
       "name": "Hold The Girl",
       "url": "https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV"
@@ -10144,7 +10162,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 196253,
       "name": "Never Grow Up",
       "url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq"
@@ -11750,7 +11768,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 158932,
       "name": "Poppin' Run",
       "url": "https://open.spotify.com/track/5i2yNVp1fdqSwOGEMcDLnX"
@@ -20324,7 +20342,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-05",
+      "date_removed": null,
       "duration_ms": 198709,
       "name": "\u30cf\u30ec\u30f3\u30c1",
       "url": "https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY"
@@ -22502,7 +22520,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 172778,
       "name": "\u6210\u9577\u75db",
       "url": "https://open.spotify.com/track/6jTVrUczOZQKqprs4OT7gI"
@@ -24172,7 +24190,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 209000,
       "name": "\u96e8\u304c\u6e80\u3061\u308c\u3070",
       "url": "https://open.spotify.com/track/33sCZggMbJ7IjWYjxsB19c"

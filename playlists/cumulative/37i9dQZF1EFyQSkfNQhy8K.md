@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-214 songs - 10 hr 53 min
+216 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Tarde](https://open.spotify.com/track/1Va8p5BsNByFjzx0cUxj2Q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tarde](https://open.spotify.com/album/5h4uKGYvz5GaiELX8AZLXb) | 3:05 | 2024-01-30 | 2024-02-01 |
 | [Tarde](https://open.spotify.com/track/7gVW4nW63TH4kjCc66j0c2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:06 | 2024-01-29 |  |
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:42 | 2024-01-29 |  |
+| [Te Amo y Punto](https://open.spotify.com/track/08kdZnRxBJCvGvpSUs5we4) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailemos Otra Vez](https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI) | 2:45 | 2025-01-28 |  |
 | [TE CONOZCO](https://open.spotify.com/track/0MrTHUbjsHRC8sMrfLBd65) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:48 | 2024-01-29 |  |
 | [Te Deseo Lo Mejor](https://open.spotify.com/track/2gQ60QJ3Q2fBuQAtBMUSQh) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [AGUILERA](https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35) | 2:36 | 2025-01-09 |  |
 | [Te Va Bien \(feat\. Darell\)](https://open.spotify.com/track/6Fm1HlUcIPN1ZZoVN5rTOa) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Cotidiano](https://open.spotify.com/album/3elvb3StY287PFlnP9wypM) | 4:41 | 2024-01-29 |  |
@@ -222,5 +223,6 @@
 | [Vogue](https://open.spotify.com/track/7vYp30GiDVh3QQPdNsBWRo) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Vogue](https://open.spotify.com/album/0rRzrUT0vUVG9V7qyLpxPy) | 3:02 | 2024-01-29 |  |
 | [Ya acabó \- Con Becky G](https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ya acabó \(Con Becky G\)](https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc) | 2:56 | 2024-01-29 |  |
 | [Ya Quisieran](https://open.spotify.com/track/4xBYrZuhRp7yFvdN63wty5) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Ya Quisieran](https://open.spotify.com/album/5jSFBxQLjGfUcBC7cGkF1h) | 2:25 | 2024-01-29 |  |
+| [Yo Le Mentí](https://open.spotify.com/track/3YfGttVKDOWNnDVqgYrrsE) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:35 | 2025-01-28 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

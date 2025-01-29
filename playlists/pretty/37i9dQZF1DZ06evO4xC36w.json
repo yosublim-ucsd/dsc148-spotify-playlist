@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 918598,
+  "num_followers": 918966,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAADjSZCGxQIpX0pE4n6bbrbX",
+  "snapshot_id": "Z5bMgAAAAADFVOh14uuFYjQ8U/OMlZHd",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n De Oro, Vol. 5: Mariachi",
-        "url": "https://open.spotify.com/album/5nCibJfM8LvlVDRVk2GKIa"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 159921,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/7qjelT2ay3rsDk1cLWDJpE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 179306,
       "name": "Un Vestido de Besos",
       "url": "https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colecci\u00f3n De Oro, Vol. 5: Mariachi",
+        "url": "https://open.spotify.com/album/5nCibJfM8LvlVDRVk2GKIa"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 159921,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/7qjelT2ay3rsDk1cLWDJpE"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 136933,
-      "name": "Oiga Primo",
-      "url": "https://open.spotify.com/track/0rhqoE4lso2Q4NvzlEL76W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "13 Celebrando El 13",
         "url": "https://open.spotify.com/album/3LRsbclfKVaByqLU641wH5"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 197266,
       "name": "T\u00fa Sabes Quien",
       "url": "https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 136933,
+      "name": "Oiga Primo",
+      "url": "https://open.spotify.com/track/0rhqoE4lso2Q4NvzlEL76W"
     }
   ],
   "unique_name": "This Is Joan Sebastian",

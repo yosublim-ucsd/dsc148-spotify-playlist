@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative en rock songs\. Cover: Viagra Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,661 likes - 67 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,668 likes - 67 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 |
-| 2 | [Flying Solo](https://open.spotify.com/track/2v8Fzcbb2021pLpEPzvd96) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Flying Solo](https://open.spotify.com/album/6lwzndNI1LFNCRZMnHNajS) | 3:29 |
-| 3 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 |
-| 4 | [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 |
-| 5 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 |
-| 6 | [Wet Faced & Ugly](https://open.spotify.com/track/3yAVjo24bbVBElLDlIO4fv) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wet Faced & Ugly](https://open.spotify.com/album/5HpdJPwD8dGiUDE9s9HD5P) | 2:51 |
-| 7 | [Who Laughs Last \(feat\. Kristen Stewart\)](https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Kristen Stewart](https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6) | [Who Laughs Last](https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD) | 4:43 |
+| 2 | [Who Laughs Last \(feat\. Kristen Stewart\)](https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Kristen Stewart](https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6) | [Who Laughs Last](https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD) | 4:43 |
+| 3 | [Flying Solo](https://open.spotify.com/track/2v8Fzcbb2021pLpEPzvd96) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Flying Solo](https://open.spotify.com/album/6lwzndNI1LFNCRZMnHNajS) | 3:29 |
+| 4 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 |
+| 5 | [A Moment](https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [A Moment](https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa) | 3:23 |
+| 6 | [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 |
+| 7 | [Wet Faced & Ugly](https://open.spotify.com/track/3yAVjo24bbVBElLDlIO4fv) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wet Faced & Ugly](https://open.spotify.com/album/5HpdJPwD8dGiUDE9s9HD5P) | 2:51 |
 | 8 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 |
 | 9 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
 | 10 | [Higher Places](https://open.spotify.com/track/1am0lL6MkpS71wDTpQ1NqB) | [Afterpartees](https://open.spotify.com/artist/5FtnkdycRhdTikTa8XaM02) | [Higher Places](https://open.spotify.com/album/5CUWqoP5PcRIKa085FPIkT) | 2:27 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 66 | [Pause at You](https://open.spotify.com/track/7sxP7XJT2ST0bEubmCunFA) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [Pause at You](https://open.spotify.com/album/3zvoBOQkGhAWQZ4WURFNge) | 3:07 |
 | 67 | [Out of Depth](https://open.spotify.com/track/5amMdfV0sDSPH94QjmNZIk) | [Marathon](https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw) | [Out of Depth](https://open.spotify.com/album/47853E1ah5tQHDUcXL7cwS) | 4:32 |
 
-Snapshot ID: `Z5LJ/wAAAAAzonGlkNxppONNPnahTHNc`
+Snapshot ID: `Z5im/wAAAAAnR8YFuKUjuZM4JyHxptQO`

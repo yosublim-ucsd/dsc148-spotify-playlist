@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 
 > La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos\. Natalia Jiménez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,701 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,732 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 | 84 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 |
 | 85 | [La Última Y Nos Vamos](https://open.spotify.com/track/6B1bkwG0hs97UYDspOCaF6) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:54 |
 
-Snapshot ID: `Zu0PYAAAAACamZ4kdrFzWb1bpqnYP9Ta`
+Snapshot ID: `Z5koBAAAAABd4Il5AjdlFFAYfbsbc92e`

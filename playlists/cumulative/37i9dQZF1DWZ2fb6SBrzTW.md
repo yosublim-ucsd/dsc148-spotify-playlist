@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-484 songs - 1 day 0 hr 40 min
+485 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Chance \(Na Ham\)](https://open.spotify.com/track/56iVI65i40FrCO5p382IrK) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5) | 2:57 | 2022-11-04 | 2023-10-18 |
 | [Charger](https://open.spotify.com/track/5IMX7sh5kGdVX7iWqN5Url) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Charger](https://open.spotify.com/album/5jvsWsFqZzym9fMhBtDKZ8) | 3:26 | 2022-03-17 | 2022-07-29 |
 | [Child's Play](https://open.spotify.com/track/7nr3wqDwJkiSDbcbct67Um) | [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Child's Play](https://open.spotify.com/album/06kfG0SpfO1jgulBUQBLkD) | 2:31 | 2023-11-03 | 2024-06-28 |
+| [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 | 2025-01-17 |  |
 | [Cho Cho Cho](https://open.spotify.com/track/1quf400g3rYDKzYbjpvyK9) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Killashay](https://open.spotify.com/artist/1D77wT9J4xlUWqO7YZgB3N) | [Cho Cho Cho](https://open.spotify.com/album/7GKtlpyVsjosh6w6FQlyWu) | 2:57 | 2022-06-23 | 2022-07-23 |
 | [Chobar](https://open.spotify.com/track/1Ocfb92ZAdxRPZlphWhmPY) | [DJ Latitude](https://open.spotify.com/artist/0x8oMbjl1nKuz6Ya0L2UmC), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Chobar](https://open.spotify.com/album/7rjQ1DwYzItjOOujoJFzSf) | 2:33 | 2022-06-23 | 2022-07-25 |
 | [Chop Life](https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Chop Life](https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh) | 3:00 | 2023-04-20 | 2023-05-05 |
@@ -393,7 +394,7 @@
 | [Shakira \(feat\. Prince Bright\)](https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Prince Bright](https://open.spotify.com/artist/4kybQvaEJGDlOo7ZsSjwPv) | [4Play](https://open.spotify.com/album/6wpzlNHeY8sffFCEOBR7ep) | 2:28 | 2022-09-23 | 2022-12-14 |
 | [Shako](https://open.spotify.com/track/4UlaNm4IdWyYGwxZB56G2P) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Shako](https://open.spotify.com/album/2BjbcRSIlUI8kewCEjZ5qP) | 2:52 | 2021-09-03 | 2022-07-28 |
 | [Shalaye](https://open.spotify.com/track/4CQ4Os8gfJXjs8P32rOHlu) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Shalaye](https://open.spotify.com/album/6PwpnAAsu5jL3io4dnshFR) | 2:25 | 2024-11-15 | 2024-12-19 |
-| [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 |  |
+| [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-20 | 2025-01-29 |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-07-22 | 2023-03-19 |
 | [Shey Normal](https://open.spotify.com/track/4yOgsbtRZQsiOkhu4AdJyD) | [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Shey Normal](https://open.spotify.com/album/7Frp4ja9CkYK68S4bECDgA) | 1:59 | 2023-05-19 | 2023-05-27 |
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2023-05-11 | 2024-10-19 |

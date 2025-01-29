@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "And\u00fajar",
+        "url": "https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb"
+      },
+      "artists": [
+        {
+          "name": "Sulman Indigo",
+          "url": "https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126815,
+      "name": "And\u00fajar",
+      "url": "https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK"
+    },
+    {
+      "album": {
         "name": "Anemones",
         "url": "https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D"
       },

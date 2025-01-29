@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-164 songs - 7 hr 32 min
+165 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2023-11-20 |  |
 | [A New Era](https://open.spotify.com/track/7JkKc9FMZnuv1ZgZiMfkKq) | [Zoe Chambers](https://open.spotify.com/artist/08QwhHz0qhZmyySexOOLZd) | [Healing Waves](https://open.spotify.com/album/1qV9uz5AkWRaTe7F5j42vm) | 1:58 | 2023-11-20 | 2024-01-09 |
 | [A Perceptual Process](https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [A Perceptual Process](https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl) | 1:53 | 2023-12-04 |  |
-| [A Place Like This](https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [A Place Like This](https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy) | 2:01 | 2023-11-20 |  |
+| [A Place Like This](https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp) | [Mildred Wolf](https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz) | [A Place Like This](https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy) | 2:01 | 2023-11-20 | 2025-01-29 |
 | [Adagietto](https://open.spotify.com/track/6PBCzLB9IiyA6kM6Q3nO5x) | [Arash Safaian](https://open.spotify.com/artist/1HJAvrFp5Azmk9LM5VPhme), [Sebastian Knauer](https://open.spotify.com/artist/6hRtFDYbfdrGOgKcIuN7nh) | [Adagietto \(Matthew Herbert Mediterranean Dub\)](https://open.spotify.com/album/4EzUGS9EkHAxmAKhhErNkE) | 2:22 | 2023-11-20 | 2024-04-19 |
 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 | 2024-04-08 | 2024-05-13 |
 | [Although](https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Although](https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw) | 3:00 | 2023-11-20 |  |
@@ -146,6 +146,7 @@
 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 | 2023-11-20 | 2024-10-21 |
 | [Swear on this Life](https://open.spotify.com/track/1BPrChYcVUL7S6mEdPxFux) | [Fabienne Willis](https://open.spotify.com/artist/3Dk9sa2fJD0euXyvbJwYY9) | [Swear on this Life](https://open.spotify.com/album/4Zt9oIxlh6r3INxyBzY5Fw) | 2:12 | 2023-11-20 | 2024-12-25 |
 | [Szerelem](https://open.spotify.com/track/2QaodYIN7GD9X50xZRIEDc) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Szerelem](https://open.spotify.com/album/3MAqiAswJmXZEXuOQYK7PH) | 2:00 | 2024-02-12 | 2024-08-03 |
+| [Süda](https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Süda](https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG) | 3:22 | 2025-01-13 |  |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2024-04-08 |  |
 | [The Approaching Night](https://open.spotify.com/track/4eoDPVbSx04PlypRDwjsXk) | [Philip Wesley](https://open.spotify.com/artist/7xaLfXBI5MSy3aNX7m4X3O) | [Dark Night of the Soul](https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1) | 6:39 | 2023-11-20 |  |
 | [The End Of A Love Affair](https://open.spotify.com/track/121BsQV03zxG11taJmpnUe) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [April In Paris](https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR) | 3:02 | 2024-07-15 |  |

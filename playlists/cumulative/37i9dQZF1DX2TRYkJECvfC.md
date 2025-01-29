@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-569 songs - 1 day 23 hr 32 min
+571 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 | 2022-05-03 | 2024-04-19 |
 | [Attraction](https://open.spotify.com/track/2UmiXqJJ3qQooP5pUuiI0W) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Attraction](https://open.spotify.com/album/6e2AkcWcXgmgzNNW6HZpwf) | 2:52 | 2021-12-08 | 2024-04-13 |
 | [Aurora](https://open.spotify.com/track/4KyEeZwIuoFH0n68qvl35b) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 4:07 | 2021-12-08 | 2024-04-13 |
+| [Back to Me](https://open.spotify.com/track/5EPuFK1AEclLSniaU3wZmi) | [Luxe Agoris](https://open.spotify.com/artist/6ejyZKJqfU1trzNHiAA3Ro), [Zep Tepi](https://open.spotify.com/artist/5jj9iJoELoG2KCLDfNzeSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Back to Me](https://open.spotify.com/album/5w4aBs5ElgcroR95wVXzHJ) | 2:54 | 2025-01-24 |  |
 | [Bad Love](https://open.spotify.com/track/6W2ZjBmxbpzETmwJQ5h7jA) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Bad Love](https://open.spotify.com/album/2JQZHflIHUVBYaSfuGUmJE) | 3:49 | 2023-10-28 | 2024-08-18 |
 | [Basic Juno](https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Studio A Pt.1](https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO) | 6:07 | 2021-12-08 | 2023-04-25 |
 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 | 2023-05-05 |  |
@@ -350,7 +351,7 @@
 | [Of Sea](https://open.spotify.com/track/5XYSBPFLufUCyMo3hXD9uP) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE) | 6:04 | 2022-05-03 | 2023-08-12 |
 | [Okinawa](https://open.spotify.com/track/5f8jd7PHl0TNHycFqSAw47) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Sakura](https://open.spotify.com/album/79MJ41k1M7f7Znsa3OjnG6) | 2:44 | 2021-12-08 | 2023-01-06 |
 | [On My Way](https://open.spotify.com/track/1oUQXAmLFtTNRIwgRfWOTf) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Frankie Polari](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9) | [By The River](https://open.spotify.com/album/6mFZIdcPLbzEHmauKA4iKA) | 2:51 | 2023-09-01 |  |
-| [On Your Side](https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [On Your Side](https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk) | 6:28 | 2023-02-22 |  |
+| [On Your Side](https://open.spotify.com/track/0vypXe8paGmxoY0fxkLh0X) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [On Your Side](https://open.spotify.com/album/0ybSmADzvdW7DUNMwP33dk) | 6:28 | 2023-02-22 | 2025-01-29 |
 | [Ona Ona](https://open.spotify.com/track/3yu5LUE62gGNZOzq1FtzFE) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Ona Ona](https://open.spotify.com/album/14CT2Ia6QvxCP9W4zrb3fa) | 6:12 | 2024-04-12 |  |
 | [Onda](https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Onda](https://open.spotify.com/album/6SieZ45Tx2LVy0ezpzX290) | 4:11 | 2021-12-08 | 2023-06-01 |
 | [One Sunrise At A Time](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [One Sunrise At A Time](https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK) | 5:43 | 2024-07-12 |  |
@@ -373,6 +374,7 @@
 | [Pan Gloss](https://open.spotify.com/track/22WIjBd903xZOBdnaQXall) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [The Half Full EP](https://open.spotify.com/album/2S87ZI5bdNHKtveA6uhF9O) | 7:03 | 2024-07-12 | 2025-01-19 |
 | [Paradigm](https://open.spotify.com/track/1vY7MXnKBpwmmQfZEyGn2F) | [Arkangel](https://open.spotify.com/artist/4crDJZ41E0jOp0XX5MXJJy) | [Paradigm](https://open.spotify.com/album/3JJYj2V6kyfo3turvi7dEj) | 5:10 | 2024-04-12 | 2024-04-19 |
 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 | 2021-12-08 | 2023-01-06 |
+| [Partyman 3000](https://open.spotify.com/track/4QKAkux3PgARFLf2OjZQeu) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Partyman 3000](https://open.spotify.com/album/1Q8CtTaYYcfpNWXK1U7arG) | 3:15 | 2025-01-24 |  |
 | [Passing Clouds](https://open.spotify.com/track/1quyPEEgePl4mFkIumBWyJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/3SoSko9KzlGKS7PbM4acLt) | 2:32 | 2023-05-26 | 2024-04-19 |
 | [Passing Clouds](https://open.spotify.com/track/3jCTivI1jcDKREf1KKbhM6) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/06WTLNXbFeMrujjCJ0CT8P) | 2:32 | 2022-10-28 | 2023-06-18 |
 | [Passing Me By](https://open.spotify.com/track/2irEY0gvB7djriQOFTGFsq) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Darkside](https://open.spotify.com/album/1MEXNdnUKUN3H1cyleKxUH) | 6:13 | 2022-05-03 | 2022-11-17 |
@@ -546,7 +548,7 @@
 | [Wasting Love](https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Wasting Love](https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1) | 2:13 | 2021-12-08 | 2023-01-06 |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2021-12-08 |  |
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-17 |  |
-| [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 |  |
+| [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 | 2025-01-29 |
 | [What Can I Do](https://open.spotify.com/track/2CGaIWj2aaWdyCEVL7hVoa) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Blaze / What Can I Do](https://open.spotify.com/album/3g3SOezLpRLmLkNUe5jjpO) | 6:15 | 2022-05-03 | 2024-04-13 |
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2021-12-08 | 2022-07-29 |
 | [What You Want](https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 3:45 | 2021-12-08 | 2024-04-13 |

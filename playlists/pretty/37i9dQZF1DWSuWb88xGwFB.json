@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 38302,
+  "num_followers": 38307,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,26 @@
       "duration_ms": 291600,
       "name": "House Of Love - Love Mix",
       "url": "https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
+      },
+      "artists": [
+        {
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Equinox - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -443,22 +463,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "The Warning - Inner Mix",
-      "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Thang",
         "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
       },
@@ -475,22 +479,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
       "artists": [
         {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
         }
       ],
-      "duration_ms": 368466,
-      "name": "Equinox - Henrik Schwarz Remix",
-      "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
+      "duration_ms": 489320,
+      "name": "The Warning - Inner Mix",
+      "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
     },
     {
       "added_at": "2022-03-03 13:59:16",

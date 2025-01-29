@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1234724,
+  "num_followers": 1234799,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACO+meMVRY9HVOOVzeQEumd",
+  "snapshot_id": "Z5bMgAAAAAAgEVeQwFY1N3zhvlBKMU7Y",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of 1980 - 1990",
-        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 349506,
-      "name": "Bad - Edit",
-      "url": "https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Re-Assemble An Atomic Bomb",
         "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 103160,
       "name": "Theme From 'The Batman'",
       "url": "https://open.spotify.com/track/54nPhznuQ4wFu5HDHoVvHY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 349506,
+      "name": "Bad - Edit",
+      "url": "https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-91 songs - 6 hr 7 min
+92 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Halloween](https://open.spotify.com/track/5h5reMGNpL19vdn5wMkbNn) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:52 | 2023-10-13 |  |
 | [Halloween 13\-13](https://open.spotify.com/track/0eTAk9UnA1BWlpBN67J7yG) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Spook & Destroy](https://open.spotify.com/album/63TepuFjeJtCjOqkDu5Gb9) | 3:53 | 2023-10-13 | 2024-10-12 |
 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 | 2023-10-13 |  |
-| [Happy Happy Halloween](https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Happy Happy Halloween](https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm) | 2:17 | 2023-10-13 |  |
+| [Happy Happy Halloween](https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Happy Happy Halloween](https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm) | 2:17 | 2023-10-13 | 2025-01-29 |
 | [Haunted](https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:05 | 2023-10-13 |  |
 | [Hellraiser](https://open.spotify.com/track/2N7LcpJoYo7WWTueTW9KyX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best Of](https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp) | 4:34 | 2023-10-13 |  |
 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 | 2023-10-13 |  |
@@ -81,6 +81,7 @@
 | [superdeadfriends](https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:20 | 2023-10-13 |  |
 | [The American Nightmare](https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:09 | 2023-10-13 |  |
 | [The Devil in I](https://open.spotify.com/track/5hheGdf1cb4rK0FNiedCfK) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 5:42 | 2023-10-13 |  |
+| [The Number Of The Beast \- 1998 Remastered Version](https://open.spotify.com/track/1s4Ie0cT6P73SRSfh3oyGW) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number Of The Beast \(1998 Remastered Edition\)](https://open.spotify.com/album/6q5MEna6Fg46powSoeZJe3) | 4:51 | 2024-10-11 |  |
 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 | 2023-10-13 |  |
 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 | 2024-10-11 |  |
 | [This Is Halloween](https://open.spotify.com/track/4Ih7q9N7eVVEqT9EzyUGS1) | [A War Within](https://open.spotify.com/artist/09wfciQIOHvEbWiAntJM2Y), [Jacob Schultheis](https://open.spotify.com/artist/1TpwAPJcqR37SWLs6VckcB), [Bobbi Van Etten](https://open.spotify.com/artist/1dk3vr42tulVe4W3DwDP0Z), [William Baker](https://open.spotify.com/artist/5jQ31Bh219W6XI0CpkExMa), [Jake Gregory](https://open.spotify.com/artist/1YHSoRC63leb9jkx4UBmOx), [Steven Olsson](https://open.spotify.com/artist/1CvIdk4k7m17nOfuSNgM2L) | [This Is Halloween](https://open.spotify.com/album/2V3RI6HJdf4lvLOsHKRRJg) | 3:20 | 2023-10-13 | 2024-10-12 |

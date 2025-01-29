@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-158 songs - 8 hr 48 min
+160 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Confidence](https://open.spotify.com/track/2tRLRTipIDQYIJs6Zg14qZ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [Nana Rogues](https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9) | [Confidence](https://open.spotify.com/album/3d72iUgQnD6AAh1iIVO7l2) | 3:14 | 2024-01-03 | 2024-01-28 |
 | [Crew](https://open.spotify.com/track/31MUzJRDoberNLCXSISodO) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 3:56 | 2023-12-30 |  |
 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:51 | 2025-01-09 |  |
+| [Dear Ben, Pt\. II](https://open.spotify.com/track/0jdveBJMYBs7lk1w0Pk9Jw) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:39 | 2025-01-28 |  |
 | [Decline](https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Decline](https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud) | 3:08 | 2023-12-30 |  |
 | [Default](https://open.spotify.com/track/5AEJyckUMzLqIyBxZNmGFW) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 1:56 | 2023-12-30 |  |
 | [Desire \(Sub Focus & Dimension\)](https://open.spotify.com/track/507UUx311ghfFTMSuHUeyS) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Desire \(with Dimension\) \[Sub Focus & Dimension\]](https://open.spotify.com/album/0KlELAN2z6hosr3PA7BAr4) | 3:35 | 2023-12-30 |  |
@@ -103,6 +104,7 @@
 | [Mary Jane.](https://open.spotify.com/track/3PLTYnLCus4KHeCyW2jsee) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:52 | 2023-12-30 |  |
 | [Masterpiece](https://open.spotify.com/track/2pOxs66DFLeyKgq7SHguLW) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Stones & Giants](https://open.spotify.com/album/0pFsaEcaen7zirGPKDjqGC) | 4:11 | 2023-12-30 |  |
 | [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-12-11 |  |
+| [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2025-01-28 |  |
 | [Money Calling \(feat\. RAYE, Russ Millions & wewantwraiths\)](https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk) | [Da Beatfreakz](https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Money Calling \(feat\. RAYE, Russ Millions & wewantwraiths\)](https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA) | 3:11 | 2023-12-30 |  |
 | [Mother Nature](https://open.spotify.com/track/0Cyp9kufRZOCwvcTLLIuWq) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:11 | 2025-01-09 |  |
 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 | 2024-05-09 |  |

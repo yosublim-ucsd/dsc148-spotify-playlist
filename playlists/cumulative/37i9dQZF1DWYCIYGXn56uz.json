@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 165454,
       "name": "doppio cuore",
       "url": "https://open.spotify.com/track/2Eqk6Um4vA2GejqjKM5k1U"
@@ -6318,7 +6318,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 165818,
       "name": "MILLE CONCERTI",
       "url": "https://open.spotify.com/track/376QKV218XBWMzHNCo8oDh"
@@ -7024,6 +7024,24 @@
       "duration_ms": 179407,
       "name": "Non \u00e8 abbastanza",
       "url": "https://open.spotify.com/track/4pVl4rqimmJupO2B2aPfTb"
+    },
+    {
+      "album": {
+        "name": "NON \u00c8 DOMENICA",
+        "url": "https://open.spotify.com/album/3uBR98hoGVgJNahHGWsfyT"
+      },
+      "artists": [
+        {
+          "name": "CALI!",
+          "url": "https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153289,
+      "name": "NON \u00c8 DOMENICA",
+      "url": "https://open.spotify.com/track/2OCnhdAKQOUKFcILscyAcU"
     },
     {
       "album": {
@@ -7964,6 +7982,24 @@
       "duration_ms": 148839,
       "name": "PETARDI",
       "url": "https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM"
+    },
+    {
+      "album": {
+        "name": "PIANGI",
+        "url": "https://open.spotify.com/album/63Ah2ya6p54gOZqPda9ZO6"
+      },
+      "artists": [
+        {
+          "name": "Luk3",
+          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172164,
+      "name": "PIANGI",
+      "url": "https://open.spotify.com/track/1w7ahwV1JYOsbTEyGlLn0y"
     },
     {
       "album": {
@@ -10377,6 +10413,24 @@
     },
     {
       "album": {
+        "name": "TI SENTI FRAGILE",
+        "url": "https://open.spotify.com/album/1A3ePSh47IMFqZwmpeVNI3"
+      },
+      "artists": [
+        {
+          "name": "Sinomine",
+          "url": "https://open.spotify.com/artist/0UoXwDX9CXcIr9q7quPazr"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124437,
+      "name": "TI SENTI FRAGILE",
+      "url": "https://open.spotify.com/track/6R5MyN9fYlIXU0YgpC351Z"
+    },
+    {
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/2NVlFPygfMDfSxlcFXUAKu"
       },
@@ -11450,7 +11504,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 182608,
       "name": "Virt\u00f9 dei fragili",
       "url": "https://open.spotify.com/track/2zQorQicWbyz2piMgK0U3b"

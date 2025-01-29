@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Cameron Whitcomb",
-  "num_followers": 452142,
+  "num_followers": 452099,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2025-01-17 05:00:26",
       "album": {
+        "name": "Record High",
+        "url": "https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "Record High",
+      "url": "https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
         "name": "Honky Tonkin' About",
         "url": "https://open.spotify.com/album/0NcALFoPC2VFUj05Jsj9zP"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 185315,
       "name": "Honky Tonkin' About",
       "url": "https://open.spotify.com/track/0mYDmAlfKvnSigoH2h9XbZ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:26",
-      "album": {
-        "name": "Record High",
-        "url": "https://open.spotify.com/album/7sbj8haNKScqrV1B4Q4EGY"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 208453,
-      "name": "Record High",
-      "url": "https://open.spotify.com/track/7KTouudlySEWXOWHAuFAFv"
     },
     {
       "added_at": "2025-01-17 05:00:26",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-01-17 05:00:26",
       "album": {
+        "name": "Glory Days",
+        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
         "name": "Can't Break Up Now",
         "url": "https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 200133,
       "name": "Can't Break Up Now",
       "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
-    },
-    {
-      "added_at": "2025-01-17 05:00:26",
-      "album": {
-        "name": "Glory Days",
-        "url": "https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8"
-      },
-      "artists": [
-        {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "Glory Days",
-      "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
     },
     {
       "added_at": "2025-01-17 05:00:26",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2025-01-17 05:00:26",
       "album": {
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/67CYhfUWA7AuKQwFqfw2ac"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/0XjVqPBriEaw2aDQixHSi1"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
         "name": "I Know (feat. Tenille Townes & Bryce Vine)",
         "url": "https://open.spotify.com/album/67YRdAiqz6kybb31VrYo58"
       },
@@ -1587,26 +1607,6 @@
       "duration_ms": 183578,
       "name": "I Know (feat. Tenille Townes & Bryce Vine)",
       "url": "https://open.spotify.com/track/5DU3wahsCBJ6kkyDBYpIRN"
-    },
-    {
-      "added_at": "2025-01-17 05:00:26",
-      "album": {
-        "name": "Two Of Us",
-        "url": "https://open.spotify.com/album/67CYhfUWA7AuKQwFqfw2ac"
-      },
-      "artists": [
-        {
-          "name": "Brett Kissel",
-          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
-        },
-        {
-          "name": "Cooper Alan",
-          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/0XjVqPBriEaw2aDQixHSi1"
     },
     {
       "added_at": "2025-01-17 05:00:26",

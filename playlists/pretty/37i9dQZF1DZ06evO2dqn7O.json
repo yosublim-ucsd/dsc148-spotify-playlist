@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 55589,
+  "num_followers": 55600,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAB09YBS1bsJfsbRTLp4TF/e",
+  "snapshot_id": "Z5bMgAAAAADjc35QsU6pROwEcF78w/24",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "HEY CHILD",
+      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zen (with K.Flay & grandson)",
         "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 215882,
       "name": "Zen (with K.Flay & grandson)",
       "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "HEY CHILD",
-      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "HOLD YOU DOWN",
+      "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This is Acoustic (Live Session / Acoustic Version)",
         "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
       },
@@ -419,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORION",
-        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
       },
       "artists": [
         {
@@ -428,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 197933,
-      "name": "HOLD YOU DOWN",
-      "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
+      "duration_ms": 177839,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
       "duration_ms": 287893,
       "name": "Bad Husband (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 177839,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,766 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,825 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 45 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
 | 46 | [Lakeside Repose](https://open.spotify.com/track/58rgF4KUtRIMH3LTczh1wY) | [Sounds of the Forest](https://open.spotify.com/artist/1Ip11InkOnNCOLpDIw5mu6) | [Thicket Winging](https://open.spotify.com/album/2x4Qi7jqGL5dW8BiOwU28l) | 6:16 |
 | 47 | [Distant Thunder in the East of the City](https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Rain](https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4) | 3:03 |
-| 48 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
-| 49 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 |
+| 48 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 |
+| 49 | [Summmer Forest](https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 4:03 |
 | 50 | [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 |
 
 Snapshot ID: `Z5egTQAAAADr7ZxoaAz7jUa/ZmWy7K7E`

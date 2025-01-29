@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-09-07",
-  "description": "2025 DAVICHI CONCERT \u3008A Stitch in Time\u3009 2025.01.18 ~19 KSPO DOME(\uc62c\ub9bc\ud53d\uacf5\uc6d0)",
-  "name": "On Tour Korea: DAVICHI",
+  "description": "2025 BURNART FESTIVAL 2\uc6d4 1\uc77c(\ud1a0) 18:20 @ \ud0a8\ud14d\uc2a4 1\uc804\uc2dc\uc7a5 5\ud640",
+  "name": "On Tour Korea: Alaina Castillo",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 219160,
       "name": "8282",
       "url": "https://open.spotify.com/track/7y4oE4ATKrE9XIM9XSeyQN"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 203360,
       "name": "A very personal story",
       "url": "https://open.spotify.com/track/3PWyWdzpWOfBmH7R5moC8O"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 258613,
       "name": "All of My Love",
       "url": "https://open.spotify.com/track/1WbJUPHOanDu6tnzrEUKB7"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 184346,
       "name": "Autumn Night",
       "url": "https://open.spotify.com/track/05f49QdY08agCPBn5ihwt2"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 256573,
       "name": "Because It's You",
       "url": "https://open.spotify.com/track/0XspMrW9JyX4bbbDNkpYjF"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 225940,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/7jS3Ok1gGluZS9OUZ2NejC"
@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159906,
+      "name": "call me when ur lonely",
+      "url": "https://open.spotify.com/track/1tED5QooJfZVo6763TG0ys"
+    },
+    {
+      "album": {
         "name": "The 3rd GENERATION (Special Album)",
         "url": "https://open.spotify.com/album/5EJQFPTIEU6J1KkBxr9wDI"
       },
@@ -638,7 +656,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 321933,
       "name": "Can I Love Again (Feat. Davichi)",
       "url": "https://open.spotify.com/track/75ahxDbFWybBd4NrVt31qP"
@@ -791,6 +809,24 @@
     },
     {
       "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
+    },
+    {
+      "album": {
         "name": "DAVICHI HUG",
         "url": "https://open.spotify.com/album/0dn0gkjIDJYnyd2dyrojo8"
       },
@@ -802,7 +838,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 201333,
       "name": "Cry Again",
       "url": "https://open.spotify.com/track/5S3HLZv4wJd8NnDc9PmIxn"
@@ -820,7 +856,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 210533,
       "name": "Days After Days",
       "url": "https://open.spotify.com/track/44VvwNrZgS8QAH7cmh3vFm"
@@ -838,7 +874,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
@@ -856,7 +892,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 233840,
       "name": "Dear.",
       "url": "https://open.spotify.com/track/7zIBeEZZiEX4lRvIIxt8ss"
@@ -928,7 +964,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 305594,
       "name": "Don't You Know",
       "url": "https://open.spotify.com/track/4s6bLHJvKZxnXkUHnyQYdl"
@@ -950,6 +986,24 @@
       "duration_ms": 257026,
       "name": "Don\u2019t Leave Me",
       "url": "https://open.spotify.com/track/4vf2BXFpNqFIVwJoxJjQPb"
+    },
+    {
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "down 4 u",
+      "url": "https://open.spotify.com/track/4kT9Ie0YpCGlYTKrSE60iV"
     },
     {
       "album": {
@@ -1020,7 +1074,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 203760,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/6ivzyHOOZEJFnuYGyM7sLl"
@@ -1056,7 +1110,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 325150,
       "name": "Even though I hate you, I love you (Special Track)",
       "url": "https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4"
@@ -1110,7 +1164,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 226213,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/3qMDvt6ljJHkT0u9AE5QWq"
@@ -1168,10 +1222,28 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 209306,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco"
+    },
+    {
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "fantasies",
+      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
     },
     {
       "album": {
@@ -1322,7 +1394,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 236146,
       "name": "First Loss",
       "url": "https://open.spotify.com/track/4cOxx9vS7Zda7m0RzAsGMG"
@@ -1380,7 +1452,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 192430,
       "name": "Forgetting You",
       "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
@@ -1402,6 +1474,24 @@
       "duration_ms": 176901,
       "name": "Friendly Fire",
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
+    },
+    {
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166920,
+      "name": "get better",
+      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
     },
     {
       "album": {
@@ -1736,7 +1826,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 221066,
       "name": "Hot Stuff",
       "url": "https://open.spotify.com/track/0mBqZHt102BjZ6Rb6EQJ2a"
@@ -1776,6 +1866,24 @@
       "duration_ms": 257453,
       "name": "I Am Going Back",
       "url": "https://open.spotify.com/track/2BQrdfhhvuxQ4A0iF5V6TY"
+    },
+    {
+      "album": {
+        "name": "i don't think i love you anymore",
+        "url": "https://open.spotify.com/album/40o9ndikNL2d6j4w9hJP01"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229383,
+      "name": "i don't think i love you anymore",
+      "url": "https://open.spotify.com/track/43rHcWvKMlLGWMmJFjCk7I"
     },
     {
       "album": {
@@ -1870,7 +1978,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 201488,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/22eryKJukqkGpFXiaZYV92"
@@ -2045,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205626,
+      "name": "indica",
+      "url": "https://open.spotify.com/track/5xYeduRB8cgNdtAdwxqbQq"
+    },
+    {
+      "album": {
         "name": "It's So Good",
         "url": "https://open.spotify.com/album/2OzhVjGzyX5BWyMgGKG3Ij"
       },
@@ -2074,7 +2200,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 244663,
       "name": "It\u2032s Okay, That\u2032s Love",
       "url": "https://open.spotify.com/track/4tBLahLLMvQ9jM7BpS5J3H"
@@ -2092,7 +2218,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 234786,
       "name": "I\u2032ll be by your side",
       "url": "https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2"
@@ -2121,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "just a boy",
+        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185681,
+      "name": "just a boy",
+      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
+    },
+    {
+      "album": {
         "name": "Just hug me",
         "url": "https://open.spotify.com/album/5DeM0LUxSOmfXQzBedDA2F"
       },
@@ -2132,7 +2276,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 202893,
       "name": "Just hug me",
       "url": "https://open.spotify.com/track/2H3Hl20eU9cpzQUz43GtEc"
@@ -2616,7 +2760,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 246302,
       "name": "Memories of Summer - It's Because I Miss You Today",
       "url": "https://open.spotify.com/track/5RZhMjAPD8RWQKpfJU1TYb"
@@ -2710,7 +2854,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 201266,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3DpQKzDdKiug4lWXpH4qVY"
@@ -2728,7 +2872,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 192120,
       "name": "My Man",
       "url": "https://open.spotify.com/track/1qH6VoOY5hiMYVjDCLela0"
@@ -2833,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "no vuelvas a mirar atr\u00e1s",
+        "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245945,
+      "name": "no vuelvas a mirar atr\u00e1s",
+      "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
+    },
+    {
+      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -2888,6 +3050,24 @@
       "duration_ms": 231039,
       "name": "Obvs",
       "url": "https://open.spotify.com/track/5kSBstWdaP3tMlArgGM00C"
+    },
+    {
+      "album": {
+        "name": "ocean waves",
+        "url": "https://open.spotify.com/album/5LoZ3scFKYTRKeMB4gOBTT"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "ocean waves",
+      "url": "https://open.spotify.com/track/46IbTqaHrikVVcvgUBbLyJ"
     },
     {
       "album": {
@@ -2985,6 +3165,42 @@
     },
     {
       "album": {
+        "name": "party in my head (ur not invited)",
+        "url": "https://open.spotify.com/album/3imQuJ7FuS85XSHrsAkTCy"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "party in my head (ur not invited)",
+      "url": "https://open.spotify.com/track/5EPBBxuMALRFTMimsm1OsX"
+    },
+    {
+      "album": {
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245945,
+      "name": "pass you by",
+      "url": "https://open.spotify.com/track/6idG4unPt6ROA9BSusQ9Me"
+    },
+    {
+      "album": {
         "name": "Peng Black Girls Remix - A COLORS SHOW",
         "url": "https://open.spotify.com/album/472cjeBcWY3uAAJtxnpM4z"
       },
@@ -3036,10 +3252,28 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 235293,
       "name": "Please Don't Cry",
       "url": "https://open.spotify.com/track/78P0z4KDUgbBNFS9JBi68y"
+    },
+    {
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "pocket locket",
+      "url": "https://open.spotify.com/track/7t9d2YdmD87JC72pocMtlz"
     },
     {
       "album": {
@@ -3076,6 +3310,24 @@
       "duration_ms": 200240,
       "name": "Points of Authority",
       "url": "https://open.spotify.com/track/5egqKwgK5r5rvGD1LrtR7J"
+    },
+    {
+      "album": {
+        "name": "pretty little thing",
+        "url": "https://open.spotify.com/album/2ZK5HZO4clL6OJs226ek3i"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190959,
+      "name": "pretty little thing",
+      "url": "https://open.spotify.com/track/1L4GnoQuaqprB0KhC9Z86I"
     },
     {
       "album": {
@@ -3148,7 +3400,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 224189,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"
@@ -3461,6 +3713,42 @@
     },
     {
       "album": {
+        "name": "starz",
+        "url": "https://open.spotify.com/album/07z1Ps5aZnKj0uBVD5uRKf"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "starz",
+      "url": "https://open.spotify.com/track/1cE3qIWMrHbHlpDyfRrOGY"
+    },
+    {
+      "album": {
+        "name": "parallel universe pt. 1",
+        "url": "https://open.spotify.com/album/70LeV0ELqFrNx4KFNTtsaF"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181480,
+      "name": "stfu (i got u)",
+      "url": "https://open.spotify.com/track/7IPYZOkcGbjkBAOgeZrav2"
+    },
+    {
+      "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/3ilE8nR9iS1gfSgpJX6rDV"
       },
@@ -3530,7 +3818,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 176786,
       "name": "Stitching",
       "url": "https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI"
@@ -3548,7 +3836,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 216734,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4pGYUkxccL8wtRaOrbuJ5j"
@@ -3636,6 +3924,24 @@
       "duration_ms": 226906,
       "name": "Teenage Fantasy",
       "url": "https://open.spotify.com/track/0fIFjeeLJjIBliWUCsxyMF"
+    },
+    {
+      "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "tell the one u love",
+      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
     },
     {
       "album": {
@@ -3740,7 +4046,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 242786,
       "name": "The Only Reason",
       "url": "https://open.spotify.com/track/7L0sdabB8ORxLAPaHd9k4K"
@@ -3798,7 +4104,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 225171,
       "name": "This Love",
       "url": "https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW"
@@ -3838,6 +4144,24 @@
       "duration_ms": 188213,
       "name": "Tippy Toes",
       "url": "https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF"
+    },
+    {
+      "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/6S99rpqeEMctqNEs43xmOW"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200212,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/4WGFnr5oQ7JzIORYDWwA4S"
     },
     {
       "album": {
@@ -3926,7 +4250,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 225750,
       "name": "Two Lovers",
       "url": "https://open.spotify.com/track/6wprWuhcSZmUrAnLy3gt5D"
@@ -3966,7 +4290,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 268213,
       "name": "Unspoken Words",
       "url": "https://open.spotify.com/track/6hfSBKcK4txmsY8ZpXYCgs"
@@ -4182,7 +4506,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 254426,
       "name": "WHITE",
       "url": "https://open.spotify.com/track/4Zgxp4V4mKGhekxUqad25W"
@@ -4330,7 +4654,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 265653,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/6wWcp5E4t718rKfoVM98H1"
@@ -4370,7 +4694,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 221549,
       "name": "You call it romance (feat.Davichi)",
       "url": "https://open.spotify.com/track/2lQW8bo5EEqLtwTqsT6Wlm"
@@ -4406,7 +4730,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 220413,
       "name": "Your tender heart hurts me",
       "url": "https://open.spotify.com/track/6ShXmyHOzhNANXSquXe5UQ"
@@ -4428,6 +4752,24 @@
       "duration_ms": 202249,
       "name": "You\u2032re the One",
       "url": "https://open.spotify.com/track/4j3Vq3lnkqC6RXEVNWjOsm"
+    },
+    {
+      "album": {
+        "name": "\u00a1p\u00e1rate!",
+        "url": "https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153189,
+      "name": "\u00a1p\u00e1rate!",
+      "url": "https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO"
     },
     {
       "album": {
@@ -4478,7 +4820,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 225093,
       "name": "\uac70\ubd81\uc774",
       "url": "https://open.spotify.com/track/7GrHzeeRsicxcliBJ8fSlo"
@@ -4514,7 +4856,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 207159,
       "name": "\uadf8\ub300\ub2c8\uae4c\uc694",
       "url": "https://open.spotify.com/track/1jBuX5QLx45C9T9zRgTPlN"
@@ -4644,7 +4986,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 226906,
       "name": "\ub179\ub294\uc911 (feat. \ubc84\ubc8c\uc9c4\ud2b8)",
       "url": "https://open.spotify.com/track/32KdWhukykXUymNsye9HHu"
@@ -4662,7 +5004,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 241173,
       "name": "\ub2e4\ube44\uce58\ucf54\ub4dc - \ud3b8\uc9c0",
       "url": "https://open.spotify.com/track/0CJ6dEzTBntICEzk5AGJl3"
@@ -4680,7 +5022,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 303133,
       "name": "\ubbf8\uc6cc\ub3c4 \uc0ac\ub791\ud558\ub2c8\uae4c",
       "url": "https://open.spotify.com/track/3SJtFKazTXObgtSLHwmByn"
@@ -4698,7 +5040,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 237026,
       "name": "\uc0ac\uace0\ucce4\uc5b4\uc694",
       "url": "https://open.spotify.com/track/6sGDd0oEWCUXA6qyvCXPjs"
@@ -4716,7 +5058,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 259372,
       "name": "\uc0ac\ub791\uacfc \uc804\uc7c1 - \ud558\ud558 Narration Version",
       "url": "https://open.spotify.com/track/17nIj0cUDWtrsj5NbTh3E5"
@@ -4734,7 +5076,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 231800,
       "name": "\uc548\ub155\uc774\ub77c\uace0 \ub9d0\ud558\uc9c0\ub9c8",
       "url": "https://open.spotify.com/track/3ZMPl8BrHqX0erYjqWiZ0c"
@@ -4760,7 +5102,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 212143,
       "name": "\uc5ec\uc131\uc2dc\ub300",
       "url": "https://open.spotify.com/track/6uDF3NUIKSpEcPHKrTKoIA"
@@ -4778,7 +5120,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 226998,
       "name": "\uc5ec\uc790\uc774\ub2c8\uae4c",
       "url": "https://open.spotify.com/track/0tawSXXpPaKN4zoTpe8dx9"
@@ -4800,7 +5142,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 213227,
       "name": "\uc6b0\ub9ac \uc0ac\ub791\ud588\uc796\uc544",
       "url": "https://open.spotify.com/track/0UjaZizYPg1UWH96ybOZ0n"
@@ -4826,7 +5168,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 217853,
       "name": "\uc6d0\ub354\uc6b0\uba3c",
       "url": "https://open.spotify.com/track/2e4ApHhDStMXQyHOoxz8Ev"

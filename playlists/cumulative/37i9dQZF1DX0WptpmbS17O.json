@@ -821,6 +821,32 @@
     },
     {
       "album": {
+        "name": "Happy Ever After You",
+        "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        },
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197071,
+      "name": "Happy Ever After You",
+      "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
+    },
+    {
+      "album": {
         "name": "Pictures",
         "url": "https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod"
       },

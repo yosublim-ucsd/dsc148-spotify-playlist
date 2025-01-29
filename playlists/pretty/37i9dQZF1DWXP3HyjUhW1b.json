@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed est\u00e1n las meras-meras petateras de nuestro cancionero. La Adictiva",
-  "num_followers": 338450,
+  "num_followers": 338465,
   "original_name": "Cancionero Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwBGkQAAAAAHhxeg1MrP8s7cDhnSYdcP",
+  "snapshot_id": "Z5knkQAAAAD+595MFAj6mNPt5yA+rJ82",
   "tracks": [
     {
       "added_at": "2024-10-04 19:48:33",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+    },
+    {
+      "added_at": "2024-10-04 19:48:33",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2024-10-04 19:48:33",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
       "added_at": "2024-10-04 19:48:33",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
-    },
-    {
-      "added_at": "2024-10-04 19:48:33",
-      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 272866,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302"
+    },
+    {
+      "added_at": "2024-10-04 19:48:33",
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2024-10-04 19:48:33",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 225213,
-      "name": "Por Mi No Te Detengas",
-      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
+      "duration_ms": 409466,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
     },
     {
       "added_at": "2024-10-04 19:48:33",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 409466,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4"
+      "duration_ms": 225213,
+      "name": "Por Mi No Te Detengas",
+      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
     },
     {
       "added_at": "2024-10-04 19:48:33",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA"
+        "name": "A Todas Las Que Am\u00e9",
+        "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
         }
       ],
-      "duration_ms": 152173,
-      "name": "Si Nos Dejan - En Vivo",
-      "url": "https://open.spotify.com/track/04kdbkyXKEGnbRxqLKjchb"
+      "duration_ms": 161426,
+      "name": "Una P\u00e1gina M\u00e1s",
+      "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
     },
     {
       "added_at": "2024-10-04 19:48:33",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
-        "name": "A Todas Las Que Am\u00e9",
-        "url": "https://open.spotify.com/album/3mPYmDJtfS7QiqWJ1OtIeA"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0NwQIWxyE13WaqiiHC9kIA"
       },
       "artists": [
         {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 161426,
-      "name": "Una P\u00e1gina M\u00e1s",
-      "url": "https://open.spotify.com/track/2eVPRDZqjO0sMD32ecDPyP"
+      "duration_ms": 152173,
+      "name": "Si Nos Dejan - En Vivo",
+      "url": "https://open.spotify.com/track/04kdbkyXKEGnbRxqLKjchb"
     },
     {
       "added_at": "2024-10-04 19:48:33",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
-        "name": "Por Las Damas",
-        "url": "https://open.spotify.com/album/7f9iAg217HyY4rY0f6760q"
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
       },
       "artists": [
         {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 183946,
-      "name": "Belleza De Cantina",
-      "url": "https://open.spotify.com/track/4XC7YfQYxDuUa7I287yeWw"
+      "duration_ms": 210493,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/5JaMGjY9Ltvo9CFQfmUdYW"
     },
     {
       "added_at": "2024-10-04 19:48:33",
@@ -1919,22 +1919,18 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW"
+        "name": "Por Las Damas",
+        "url": "https://open.spotify.com/album/7f9iAg217HyY4rY0f6760q"
       },
       "artists": [
         {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Los Amables Del Norte",
-          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 175891,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/0gySORG1cXDarlA9LEQvSi"
+      "duration_ms": 183946,
+      "name": "Belleza De Cantina",
+      "url": "https://open.spotify.com/track/4XC7YfQYxDuUa7I287yeWw"
     },
     {
       "added_at": "2024-10-04 19:48:33",
@@ -1971,18 +1967,22 @@
     {
       "added_at": "2024-10-04 19:48:33",
       "album": {
-        "name": "Mi Raz\u00f3n De Ser",
-        "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Los Amables Del Norte",
+          "url": "https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K"
         }
       ],
-      "duration_ms": 210493,
-      "name": "Mi Raz\u00f3n De Ser",
-      "url": "https://open.spotify.com/track/5JaMGjY9Ltvo9CFQfmUdYW"
+      "duration_ms": 175891,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/0gySORG1cXDarlA9LEQvSi"
     },
     {
       "added_at": "2024-10-04 19:48:33",

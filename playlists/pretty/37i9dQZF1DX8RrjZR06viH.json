@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 92538,
+  "num_followers": 92532,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,22 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
+        "name": "Sover du",
+        "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
       },
       "artists": [
         {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+          "name": "Jon Ranes",
+          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
+        },
+        {
+          "name": "ULD",
+          "url": "https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9"
         }
       ],
-      "duration_ms": 158511,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
+      "duration_ms": 264731,
+      "name": "Sover du",
+      "url": "https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -351,6 +355,22 @@
       "duration_ms": 196758,
       "name": "Heim te st\u00e5vo",
       "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 158511,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -383,26 +403,6 @@
       "duration_ms": 216426,
       "name": "A Potion For Love",
       "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
-        "name": "Sover du",
-        "url": "https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s"
-      },
-      "artists": [
-        {
-          "name": "Jon Ranes",
-          "url": "https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t"
-        },
-        {
-          "name": "ULD",
-          "url": "https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9"
-        }
-      ],
-      "duration_ms": 264731,
-      "name": "Sover du",
-      "url": "https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -711,6 +711,26 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
+        "name": "Trenger deg n\u00e5",
+        "url": "https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 166474,
+      "name": "Trenger deg n\u00e5",
+      "url": "https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
         "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
         "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
       },
@@ -747,22 +767,6 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Vendepunkt",
-        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
-      },
-      "artists": [
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "P\u00e5 bes\u00f8k",
-      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
         "name": "Mamma sa det ordne se for snille piker",
         "url": "https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF"
       },
@@ -795,6 +799,22 @@
       "duration_ms": 151466,
       "name": "vinner",
       "url": "https://open.spotify.com/track/5hKZmsVhSmC56KXGpftOCu"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
+        "name": "Vendepunkt",
+        "url": "https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI"
+      },
+      "artists": [
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "P\u00e5 bes\u00f8k",
+      "url": "https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -843,22 +863,6 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 176808,
-      "name": "F\u00f8r han for",
-      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
         "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
         "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
       },
@@ -875,22 +879,18 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "HJERTET MITT ER HELT OK",
-        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
       },
       "artists": [
         {
-          "name": "Hkeem",
-          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
-        },
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 144706,
-      "name": "HJERTET MITT ER HELT OK",
-      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -923,6 +923,26 @@
       "duration_ms": 162930,
       "name": "Summer Rain",
       "url": "https://open.spotify.com/track/3LVadaj97lffSz5nUD9mWC"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
+        "name": "HJERTET MITT ER HELT OK",
+        "url": "https://open.spotify.com/album/52qTuKqpnm3PtCtMRFa3i4"
+      },
+      "artists": [
+        {
+          "name": "Hkeem",
+          "url": "https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH"
+        },
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 144706,
+      "name": "HJERTET MITT ER HELT OK",
+      "url": "https://open.spotify.com/track/4vpI1R5pmRKAS9pbMDb8Vg"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Trenger deg n\u00e5",
-        "url": "https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp"
-      },
-      "artists": [
-        {
-          "name": "Jonas Benyoub",
-          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 166474,
-      "name": "Trenger deg n\u00e5",
-      "url": "https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Deathbed",
-        "url": "https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX"
+        "name": "Happy Tears",
+        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
       },
       "artists": [
         {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 161090,
-      "name": "Deathbed",
-      "url": "https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB"
+      "duration_ms": 176433,
+      "name": "Happy Tears",
+      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Happy Tears",
-        "url": "https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf"
+        "name": "Deathbed",
+        "url": "https://open.spotify.com/album/2xzMh5FNtZkKM1xTCkkSBX"
       },
       "artists": [
         {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
         }
       ],
-      "duration_ms": 176433,
-      "name": "Happy Tears",
-      "url": "https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC"
+      "duration_ms": 161090,
+      "name": "Deathbed",
+      "url": "https://open.spotify.com/track/63zL4acsiE0QI5N214BrZB"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Late to the Party",
-        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Late to the Party",
-      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
         "name": "Part Of The Story",
         "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 165040,
       "name": "Har du glemt meg?",
       "url": "https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -1291,6 +1291,38 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
+        "name": "25 bare fem \u00e5r til",
+        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "25 bare fem \u00e5r til",
+      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
+        "name": "Boxes",
+        "url": "https://open.spotify.com/album/5UvxcC7flSaHQONo8GR3Nk"
+      },
+      "artists": [
+        {
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
+        }
+      ],
+      "duration_ms": 198156,
+      "name": "Boxes",
+      "url": "https://open.spotify.com/track/2Rt8iphdrBbcknJg1GZ8Pe"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
         "name": "Hollywood Hills",
         "url": "https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH"
       },
@@ -1307,18 +1339,18 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "25 bare fem \u00e5r til",
-        "url": "https://open.spotify.com/album/5AJRaypaewaQL04QgPkz1L"
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
       "artists": [
         {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
         }
       ],
-      "duration_ms": 165882,
-      "name": "25 bare fem \u00e5r til",
-      "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -1343,38 +1375,6 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
-      },
-      "artists": [
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 263880,
-      "name": "fare thee well",
-      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
-        "name": "Head In My Hands",
-        "url": "https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00"
-      },
-      "artists": [
-        {
-          "name": "Kakkmaddafakka",
-          "url": "https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "Head In My Hands",
-      "url": "https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
         "name": "Om du tror p\u00e5 oss",
         "url": "https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 230201,
       "name": "Om du tror p\u00e5 oss",
       "url": "https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
+        "name": "Head In My Hands",
+        "url": "https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00"
+      },
+      "artists": [
+        {
+          "name": "Kakkmaddafakka",
+          "url": "https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "Head In My Hands",
+      "url": "https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -1415,42 +1431,6 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Sommer i Norge",
-        "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
-      },
-      "artists": [
-        {
-          "name": "Vidar Villa",
-          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
-        },
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "duration_ms": 169248,
-      "name": "Sommer i Norge",
-      "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
-        "name": "Boxes",
-        "url": "https://open.spotify.com/album/5UvxcC7flSaHQONo8GR3Nk"
-      },
-      "artists": [
-        {
-          "name": "Emma Jensen",
-          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
-        }
-      ],
-      "duration_ms": 198156,
-      "name": "Boxes",
-      "url": "https://open.spotify.com/track/2Rt8iphdrBbcknJg1GZ8Pe"
-    },
-    {
-      "added_at": "2025-01-23 23:00:13",
-      "album": {
         "name": "December (honey, honey)",
         "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
       },
@@ -1463,6 +1443,22 @@
       "duration_ms": 175392,
       "name": "December (honey, honey)",
       "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
+    },
+    {
+      "added_at": "2025-01-23 23:00:13",
+      "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 236210,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
     },
     {
       "added_at": "2025-01-23 23:00:13",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2025-01-23 23:00:13",
       "album": {
-        "name": "Som sommaren",
-        "url": "https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa"
+        "name": "Sommer i Norge",
+        "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
       },
       "artists": [
         {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+          "name": "Vidar Villa",
+          "url": "https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg"
+        },
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
         }
       ],
-      "duration_ms": 228624,
-      "name": "Som sommaren",
-      "url": "https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ"
+      "duration_ms": 169248,
+      "name": "Sommer i Norge",
+      "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

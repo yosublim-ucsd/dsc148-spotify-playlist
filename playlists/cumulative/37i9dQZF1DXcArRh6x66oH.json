@@ -3871,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "Don't care no more",
+        "url": "https://open.spotify.com/album/3dWbfEXVaIYEFnqRlvqEMj"
+      },
+      "artists": [
+        {
+          "name": "Travis Bolt",
+          "url": "https://open.spotify.com/artist/7w3bNGVaI2zJ4J6cCnATLu"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252264,
+      "name": "Never Tried Cocaine",
+      "url": "https://open.spotify.com/track/3loX3gXExSXzZJWWP6lhLw"
+    },
+    {
+      "album": {
         "name": "Men & Coyotes",
         "url": "https://open.spotify.com/album/2N7pHyHhmfU1AMkCJZi8bQ"
       },

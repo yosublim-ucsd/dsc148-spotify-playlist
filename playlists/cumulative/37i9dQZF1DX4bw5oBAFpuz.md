@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-511 songs - 1 day 5 hr 23 min
+512 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2023-02-23 | 2023-04-26 |
 | [Letters](https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Letters](https://open.spotify.com/album/4yl0l9uQmFY69HEABZ2IbA) | 3:01 | 2023-02-23 | 2024-06-21 |
 | [Let’s Go Home Together \- Stripped](https://open.spotify.com/track/2cptaUFdsU60tdh7zRglai) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Let’s Go Home Together \(Stripped\)](https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf) | 3:41 | 2023-02-23 |  |
+| [Lifeline](https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 2:59 | 2025-01-28 |  |
 | [Lift You Up](https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ) | [Jasper Steverlinck](https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V) | [Lift You Up](https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX) | 3:01 | 2023-11-02 |  |
 | [Light Switch \- Acoustic](https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Acoustic\)](https://open.spotify.com/album/0H6pdORxZ735HztupqklPx) | 3:06 | 2023-02-23 | 2024-07-27 |
 | [Little Things](https://open.spotify.com/track/240WkSGaUBJMBmHLqS33WA) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [HILDA](https://open.spotify.com/album/36JKBe1pJrnrxPOFLCE0uj) | 3:09 | 2023-02-23 |  |
@@ -365,7 +366,7 @@
 | [Selfish Ways \- Acoustic](https://open.spotify.com/track/1nnNyDxDuSW88AP2oh4pQp) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Selfish Ways \(Acoustic\)](https://open.spotify.com/album/1F4rojYzrIQvsD6xNU1dTC) | 2:40 | 2023-04-25 | 2024-03-20 |
 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 | 2024-03-21 |  |
 | [Set In Stone](https://open.spotify.com/track/5fmf2sDbU6cbodUM6On6wg) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:41 | 2023-02-23 |  |
-| [Set Me Free](https://open.spotify.com/track/6idYm6kt2C1ZuW9ZL53o4g) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Set me free](https://open.spotify.com/album/3u6HkVsfrWF56eVEj73uE1) | 3:05 | 2024-11-08 |  |
+| [Set Me Free](https://open.spotify.com/track/6idYm6kt2C1ZuW9ZL53o4g) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Set me free](https://open.spotify.com/album/3u6HkVsfrWF56eVEj73uE1) | 3:05 | 2024-11-08 | 2025-01-29 |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2023-02-23 |  |
 | [Señorita](https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shawn Mendes \(Deluxe\)](https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w) | 3:10 | 2024-10-14 | 2025-01-24 |
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2023-02-23 | 2023-07-15 |

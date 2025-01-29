@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-473 songs - 1 day 1 hr 58 min
+474 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/track/0l9Iw63br78PdwmjNzwmOj) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Victoria Zaro](https://open.spotify.com/artist/3QLQxutu868fKgeEkEgXW0) | [Simple \(feat\. Victoria Zaro\)](https://open.spotify.com/album/76jSo7nMbW3o3lYBryCTyV) | 2:51 | 2021-12-27 |  |
 | [Sims \- Miquela Remix](https://open.spotify.com/track/1uxP6Vw86pAvlnuLUSWLll) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 2:37 | 2021-12-27 | 2022-11-18 |
 | [Sims \- Miquela Remix](https://open.spotify.com/track/5zMv6hOpodogQ6kFS49Jux) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m) | 2:37 | 2022-11-17 |  |
+| [Skin](https://open.spotify.com/track/6RIXApn1gj8dGerx3iF9sT) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere \(Deluxe\)](https://open.spotify.com/album/5Vy5Zym9vIpikh6uGhtp9P) | 3:04 | 2025-01-28 |  |
 | [Slide](https://open.spotify.com/track/7toqgHdLvDdb3Hbvv39CDK) | [Bonafide Suspects](https://open.spotify.com/artist/4upQwKkXBfMfkiUPkmU00a) | [Slide](https://open.spotify.com/album/6Jj9zYZkOMqiGZ1P2uQ1Wq) | 3:45 | 2022-12-15 | 2023-12-14 |
 | [So Will I](https://open.spotify.com/track/35hWvR2SVsWwzScQ4UEMED) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 4:11 | 2021-12-27 |  |
 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 | 2022-07-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rodolfo Abrantes",
-  "num_followers": 142753,
+  "num_followers": 142771,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Deixa Vir - Vol II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "Grita! (Shout!) - Ao Vivo",
-      "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "Rei da Gl\u00f3ria",
         "url": "https://open.spotify.com/album/4Ql7QaliRERc2HdfTlRapP"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 339580,
       "name": "Rei da Gl\u00f3ria",
       "url": "https://open.spotify.com/track/4MoyWz9gecTgUvnMdL0Xz9"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Deixa Vir - Vol II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "Grita! (Shout!) - Ao Vivo",
+      "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 4)",
-        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 322400,
-      "name": "Rookmaaker - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "Daniel (feat. Fernandinho)",
         "url": "https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 252348,
       "name": "Daniel (feat. Fernandinho)",
       "url": "https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 4)",
+        "url": "https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 322400,
+      "name": "Rookmaaker - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "O Come\u00e7o, o Fim e o Meio",
-        "url": "https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ"
-      },
-      "artists": [
-        {
-          "name": "Resgate",
-          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
-        }
-      ],
-      "duration_ms": 247459,
-      "name": "O Come\u00e7o, o Fim e o Meio",
-      "url": "https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -735,18 +719,34 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
+        "name": "O Come\u00e7o, o Fim e o Meio",
+        "url": "https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ"
       },
       "artists": [
         {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
         }
       ],
-      "duration_ms": 251707,
-      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
-      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
+      "duration_ms": 247459,
+      "name": "O Come\u00e7o, o Fim e o Meio",
+      "url": "https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+      },
+      "artists": [
+        {
+          "name": "ID2",
+          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Recome\u00e7o",
-        "url": "https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ"
+        "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3zfUPNwzbXglzAEsaOdQl9"
       },
       "artists": [
         {
-          "name": "ID2",
-          "url": "https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Recome\u00e7o",
-      "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
+      "duration_ms": 251707,
+      "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
+      "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
-        "name": "Kleber Lucas ao vivo no Teatro Rival, Pt.1 (AO VIVO)",
-        "url": "https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 309425,
-      "name": "Nova criatura (AO VIVO)",
-      "url": "https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
         "name": "Falhas (Ao Vivo)",
         "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 379130,
       "name": "Falhas - Ao Vivo",
       "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
+        "name": "Kleber Lucas ao vivo no Teatro Rival, Pt.1 (AO VIVO)",
+        "url": "https://open.spotify.com/album/76A83uRzxB9ySA6BLEKInf"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 309425,
+      "name": "Nova criatura (AO VIVO)",
+      "url": "https://open.spotify.com/track/05nNQLlg1HBWdviQKWpT1w"
     },
     {
       "added_at": "2025-01-03 03:01:06",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-01-03 03:01:06",
       "album": {
+        "name": "Quebre as Correntes",
+        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
+      },
+      "artists": [
+        {
+          "name": "Banda LIV",
+          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
+        }
+      ],
+      "duration_ms": 248348,
+      "name": "Quebre as Correntes",
+      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
+    },
+    {
+      "added_at": "2025-01-03 03:01:06",
+      "album": {
         "name": "Maranata (Trono)",
         "url": "https://open.spotify.com/album/5LqVnPYwTlK5BPgK347wuw"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 303775,
       "name": "Maranata (Trono)",
       "url": "https://open.spotify.com/track/607mQzTrTUaQCMyzSd5hQo"
-    },
-    {
-      "added_at": "2025-01-03 03:01:06",
-      "album": {
-        "name": "Quebre as Correntes",
-        "url": "https://open.spotify.com/album/1fto84wZULJvDxB44FccKm"
-      },
-      "artists": [
-        {
-          "name": "Banda LIV",
-          "url": "https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k"
-        }
-      ],
-      "duration_ms": 248348,
-      "name": "Quebre as Correntes",
-      "url": "https://open.spotify.com/track/4eKjz73xp1IMpdM7JXs8QA"
     },
     {
       "added_at": "2025-01-03 03:01:06",

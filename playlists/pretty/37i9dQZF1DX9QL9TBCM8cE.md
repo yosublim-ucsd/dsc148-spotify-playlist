@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,092 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,097 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 38 | [Secret utopIA](https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld), [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q), [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 03](https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS) | 3:48 |
 | 39 | [学祭革命夜明け前](https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 04](https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57) | 3:52 |
 | 40 | [Unsung Heroes](https://open.spotify.com/track/78hYc1DvsAEQSMWJLpQcuR) | [アンティーカ](https://open.spotify.com/artist/67qSRMNHBKQHbPed5y3qMz) | [THE IDOLM@STER SHINY COLORS "CANVAS" 02](https://open.spotify.com/album/2GJ9WsBpkibxIe8vMKI4Yr) | 4:46 |
-| 41 | [愚者の独白](https://open.spotify.com/track/4ThcKDoasWe7p4aPLrXlVJ) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 03](https://open.spotify.com/album/1amhjTEry84P4TaaXupGGl) | 4:37 |
+| 41 | [Black Reverie \- 2023 Version](https://open.spotify.com/track/2wpG1jlGLA1WFFRENepGV5) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 03 \(2023 Ver.\)](https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E) | 4:51 |
 | 42 | [Timeless Shooting Star](https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS L@YERED WING 06](https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp) | 3:32 |
 | 43 | [We can go now!](https://open.spotify.com/track/11BYRDBsnSUInB5mxkxoEg) | [イルミネーションスターズ](https://open.spotify.com/artist/2Ly8tGTt2wjAOWmXpVfRqS) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 02](https://open.spotify.com/album/1GZo9sFK2v23lzAWDVKhLi) | 3:44 |
 | 44 | [くだらないや](https://open.spotify.com/track/04jCaEuKFqRxqpG3q2Gx0c) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:45 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Desvelados. The essential tracks, all in one playlist.",
-  "num_followers": 548,
+  "num_followers": 547,
   "original_name": "This Is Los Desvelados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABUSDm7D1OKPU+O4LPzTrtm",
+  "snapshot_id": "Z5bMgAAAAADd2Z97Ud41OiEaFRddALKE",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Salieron Rumores",
+        "url": "https://open.spotify.com/album/6Fs1Gcj7MrYUMEzOUA7CYB"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 139681,
+      "name": "Salieron Rumores",
+      "url": "https://open.spotify.com/track/0SX9Hs9YY4AP4Z9CR33tAv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Pilas (En Vivo)",
         "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 118826,
       "name": "Bien Pilas - En Vivo",
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Salieron Rumores",
-        "url": "https://open.spotify.com/album/6Fs1Gcj7MrYUMEzOUA7CYB"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 139681,
-      "name": "Salieron Rumores",
-      "url": "https://open.spotify.com/track/0SX9Hs9YY4AP4Z9CR33tAv"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dash",
+        "url": "https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bueno para Lo Mal",
         "url": "https://open.spotify.com/album/4LVOHVtCGN4OxBCmKkplpl"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 273978,
       "name": "Bueno para Lo Mal",
       "url": "https://open.spotify.com/track/32K8tXYpqGNPPcMYQyx8Ml"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dash",
-        "url": "https://open.spotify.com/album/6yPZzcF4xp64gOdDB7lxfI"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Dash",
-      "url": "https://open.spotify.com/track/3mGNfLaiEjokEf4IGN5eI5"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 227866,
-      "name": "Gucci",
-      "url": "https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW"
+      "duration_ms": 145825,
+      "name": "Situaciones de la Calle",
+      "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 145825,
-      "name": "Situaciones de la Calle",
-      "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
+      "duration_ms": 227866,
+      "name": "Gucci",
+      "url": "https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Underground 2",
+        "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 156096,
+      "name": "Turbo Cheyenne (En Vivo)",
+      "url": "https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
         "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
       },
@@ -667,28 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradecido Estoy",
-        "url": "https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recien",
-          "url": "https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 165395,
-      "name": "Agradecido Estoy",
-      "url": "https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Underground 2",
-        "url": "https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY"
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
       "artists": [
         {
@@ -696,13 +696,13 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         },
         {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+          "name": "Grupo Agrado",
+          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
         }
       ],
-      "duration_ms": 156096,
-      "name": "Turbo Cheyenne (En Vivo)",
-      "url": "https://open.spotify.com/track/19TJxFBjhKXgE6d2hY9pvG"
+      "duration_ms": 206831,
+      "name": "Sin Saber De Mi",
+      "url": "https://open.spotify.com/track/2bfDHwOhVLJFRyMV23hiLR"
     },
     {
       "added_at": null,
@@ -727,22 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+        "name": "Agradecido Estoy",
+        "url": "https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG"
       },
       "artists": [
         {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+          "name": "Grupo Recien",
+          "url": "https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br"
         },
         {
-          "name": "Grupo Agrado",
-          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 206831,
-      "name": "Sin Saber De Mi",
-      "url": "https://open.spotify.com/track/2bfDHwOhVLJFRyMV23hiLR"
+      "duration_ms": 165395,
+      "name": "Agradecido Estoy",
+      "url": "https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despu\u00e9s los Miro",
-        "url": "https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "Despu\u00e9s los Miro",
-      "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aqu\u00ed No Se Espanten",
         "url": "https://open.spotify.com/album/6BczdtPtn0MIwchBO5Zttb"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUETOS \"Made In Usa\" (En Vivo)",
-        "url": "https://open.spotify.com/album/3GmqjffDBHUXeooXGISX4t"
+        "name": "Despu\u00e9s los Miro",
+        "url": "https://open.spotify.com/album/0MtwfoBQyAntAOUx7cGQq3"
       },
       "artists": [
-        {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
-        },
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 216483,
-      "name": "Paso Firme - En Vivo",
-      "url": "https://open.spotify.com/track/1b7ZvRTLu693vaJY9KybhV"
+      "duration_ms": 163245,
+      "name": "Despu\u00e9s los Miro",
+      "url": "https://open.spotify.com/track/1Fn05klztwWCRBzqabkTLt"
     },
     {
       "added_at": null,
@@ -851,6 +831,26 @@
       "duration_ms": 238776,
       "name": "Simplemente El P",
       "url": "https://open.spotify.com/track/79E2tjgMIO5PvlbvE8E5DG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUETOS \"Made In Usa\" (En Vivo)",
+        "url": "https://open.spotify.com/album/3GmqjffDBHUXeooXGISX4t"
+      },
+      "artists": [
+        {
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 216483,
+      "name": "Paso Firme - En Vivo",
+      "url": "https://open.spotify.com/track/1b7ZvRTLu693vaJY9KybhV"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexican Mafia Corridos",
-        "url": "https://open.spotify.com/album/792fLNAl0z9jvw9q8OZljr"
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
       },
       "artists": [
         {
@@ -896,13 +896,13 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         },
         {
-          "name": "La Edici\u00f3n de Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU"
+          "name": "Grupo Nueva Linea",
+          "url": "https://open.spotify.com/artist/41Mo4EzNJLzanG8PwNajIG"
         }
       ],
-      "duration_ms": 172173,
-      "name": "Gente De Accionar (feat. La Edicion De Culiacan)",
-      "url": "https://open.spotify.com/track/6IL0KT5ngyffCx9rXydIUs"
+      "duration_ms": 276336,
+      "name": "Bueno Para Lo Malo",
+      "url": "https://open.spotify.com/track/5HupHNcM3sEawvuDuUKF2s"
     }
   ],
   "unique_name": "This Is Los Desvelados",

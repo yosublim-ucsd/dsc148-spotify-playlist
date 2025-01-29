@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,561 likes - 94 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,556 likes - 94 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 50 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
 | 51 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
 | 52 | [Angels We Have Heard on High](https://open.spotify.com/track/0TDif8fPpS7TfXsOHLHfDn) | [Henri La Mer](https://open.spotify.com/artist/4pkV0vxYX43iSVbrQaFSO9) | [Angels We Have Heard on High](https://open.spotify.com/album/2KqInjYpnuhRqjqff6qgDF) | 2:40 |
-| 53 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
-| 54 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
+| 53 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
+| 54 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
 | 55 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
 | 56 | [Jingle Bell Rock](https://open.spotify.com/track/2e3zjySEdkrM0Il8JAqJHC) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [All I Want for Christmas Is You](https://open.spotify.com/album/4iRFHTb6XezGA4iosFiYNu) | 2:18 |
 | 57 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 80 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
 | 81 | [Christmas Love](https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Christmas Love](https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua) | 3:13 |
 | 82 | [I Still Believe in Santa Clause](https://open.spotify.com/track/23SGz7Wz2c5A9830LLUCdH) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:50 |
-| 83 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/55tU7r4O96CUsaWZuMDaBo) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4sBMrHHFC65NetHmShTGgO) | 2:48 |
+| 83 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 |
 | 84 | [It's Christmas in New York](https://open.spotify.com/track/4kfVEaZGZL3AcrcAvsyYNf) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 4:43 |
-| 85 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 |
+| 85 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/55tU7r4O96CUsaWZuMDaBo) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4sBMrHHFC65NetHmShTGgO) | 2:48 |
 | 86 | [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 |
 | 87 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS) | [N.B.H\-Trio](https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV) | 4:10 |
 | 88 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5DLLYzJ575Fm5nO9JMz1Qb) | [Rebecca McCarthey](https://open.spotify.com/artist/6jwFngKucSiFvC4ZnyNuSq) | [Christmas In New York](https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW) | 3:38 |

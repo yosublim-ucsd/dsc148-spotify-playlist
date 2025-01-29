@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 250852,
+  "num_followers": 250994,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -403,18 +403,18 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
-        "name": "Soon It Will Be Cold Enough",
-        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
         {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 180520,
-      "name": "Soon It Will Be Cold Enough to Build Fires",
-      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+      "duration_ms": 244181,
+      "name": "Always Returning - Remastered 2005",
+      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -435,18 +435,18 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+        "name": "Soon It Will Be Cold Enough",
+        "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
         }
       ],
-      "duration_ms": 244181,
-      "name": "Always Returning - Remastered 2005",
-      "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
+      "duration_ms": 180520,
+      "name": "Soon It Will Be Cold Enough to Build Fires",
+      "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -675,38 +675,6 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
-        "name": "Within and Without",
-        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 287720,
-      "name": "Eyes Be Closed",
-      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
-    },
-    {
-      "added_at": "2025-01-17 05:00:27",
-      "album": {
-        "name": "Time Spent Away From U",
-        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "U",
-      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
-    },
-    {
-      "added_at": "2025-01-17 05:00:27",
-      "album": {
         "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
         "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 151548,
       "name": "Storm / Mom",
       "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
+    },
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
+        "name": "Time Spent Away From U",
+        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
+    },
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
+        "name": "Within and Without",
+        "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "Eyes Be Closed",
+      "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -775,22 +775,6 @@
       "duration_ms": 252735,
       "name": "Inspirit",
       "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
-    },
-    {
-      "added_at": "2025-01-17 05:00:27",
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
-      },
-      "artists": [
-        {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
-        }
-      ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -847,6 +831,22 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 340276,
+      "name": "As Much as Possible",
+      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
+    },
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
       "artists": [
         {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 340276,
-      "name": "As Much as Possible",
-      "url": "https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL"
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -907,6 +907,22 @@
       "duration_ms": 266640,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+    },
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -947,22 +963,6 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:27",
-      "album": {
         "name": "Heart - EP",
         "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
-        "name": "X-Dream",
-        "url": "https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV"
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
       },
       "artists": [
         {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 261334,
-      "name": "X-Dream",
-      "url": "https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd"
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+        "name": "X-Dream",
+        "url": "https://open.spotify.com/album/6BSiu2BYuTWsLO8EyXpmgV"
       },
       "artists": [
         {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
         }
       ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
+      "duration_ms": 261334,
+      "name": "X-Dream",
+      "url": "https://open.spotify.com/track/76sVe0f6NIgZo690KZyEEd"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
+    },
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 404630,
       "name": "Saw You for the First Time",
       "url": "https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j"
-    },
-    {
-      "added_at": "2025-01-17 05:00:27",
-      "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
-    },
-    {
-      "added_at": "2025-01-17 05:00:27",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 299448,
       "name": "Way Ur Touchin Me",
       "url": "https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp"
+    },
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "added_at": "2025-01-17 05:00:27",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-01-17 05:00:27",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
+    },
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
         "name": "Anything In Return",
         "url": "https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt"
-    },
-    {
-      "added_at": "2025-01-17 05:00:27",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
     },
     {
       "added_at": "2025-01-17 05:00:27",

@@ -4,7 +4,7 @@
 
 > drømmesamarbejdet: <a href="spotify:artist:5NYUb39ntjgN7cRtN4y25T">Anton Westerlin</a>🔗<a href="spotify:artist:1GKN1Js8fa19K23eIhOMhg">Annika</a>
 
-3,801 songs - 8 day 5 hr 12 min
+3,802 songs - 8 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3212,6 +3212,7 @@
 | [Sweat](https://open.spotify.com/track/2icgt5jY4q7QizU2PFQkJl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Sweat](https://open.spotify.com/album/41TGksDNlabLcOy0UIMUPT) | 3:19 | 2024-05-23 | 2024-06-01 |
 | [SWEET](https://open.spotify.com/track/203R8nzSPZssBVTczIBrrk) | [BAGG](https://open.spotify.com/artist/6TKPGIjpbGko3z9jzdQwCH) | [SWEET](https://open.spotify.com/album/4VL2MnYfFM4qHAN0hy8A1F) | 2:48 | 2024-05-02 | 2024-05-10 |
 | [Sweet](https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Sweet](https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX) | 2:54 | 2024-08-22 | 2024-08-30 |
+| [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-24 |  |
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-17 | 2024-10-25 |
 | [Sweet Devotion \- Edit](https://open.spotify.com/track/7FSgGyCg0kBU3iUKSMbxNd) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 3:27 | 2024-05-02 | 2024-05-10 |
 | [Sweet Emotion](https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Sweet Emotion](https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0) | 3:08 | 2024-07-25 | 2024-08-02 |

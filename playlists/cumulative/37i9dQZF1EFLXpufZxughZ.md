@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-157 songs - 9 hr 8 min
+158 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2023-12-13 |  |
 | [Addresses](https://open.spotify.com/track/3kc5G9gYWIiqrQEHPwTRN2) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 3:09 | 2023-12-13 |  |
 | [Ambition \(feat\. Meek Mill & Rick Ross\)](https://open.spotify.com/track/5tZmLjU4vhPlJb12IweZuB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Ambition](https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6) | 5:02 | 2023-12-13 |  |
+| [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 | 2025-01-28 |  |
 | [Basic Ordinary Ugly](https://open.spotify.com/track/0AxURtGtBclLeSi3Jy9Z62) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/5NnEgD8zjgofmIzCj1ass4) | 2:32 | 2023-12-13 | 2023-12-22 |
 | [Basic Ordinary Ugly](https://open.spotify.com/track/18qoH5WqtbG3449blLy4mK) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:32 | 2025-01-26 |  |
 | [Basic Ordinary Ugly](https://open.spotify.com/track/5wblr9dK0iPouvvFTUiImS) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/2eXGs6Oj4TMW7gNjhsEY5l) | 2:32 | 2023-12-21 | 2025-01-27 |

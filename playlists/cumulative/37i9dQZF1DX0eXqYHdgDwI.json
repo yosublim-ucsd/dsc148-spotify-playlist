@@ -616,6 +616,24 @@
     {
       "album": {
         "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260004,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
+    },
+    {
+      "album": {
+        "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/2sgfT0ExcSuQOGZ9DM3nMJ"
       },
       "artists": [
@@ -626,7 +644,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 260004,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/2TmLZLv57mW4OA3Il1ULsf"
@@ -732,7 +750,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 262533,
       "name": "My Immortal",
       "url": "https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M"
@@ -2060,6 +2078,24 @@
       "duration_ms": 248960,
       "name": "Mystery of Love",
       "url": "https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy"
+    },
+    {
+      "album": {
+        "name": "American Football",
+        "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268333,
+      "name": "Never Meant",
+      "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
     },
     {
       "album": {
@@ -2096,6 +2132,24 @@
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+    },
+    {
+      "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
     },
     {
       "album": {
@@ -2606,7 +2660,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
@@ -2678,7 +2732,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK"

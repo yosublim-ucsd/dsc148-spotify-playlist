@@ -4,7 +4,7 @@
 
 > 
 
-829 songs - 1 day 18 hr 23 min
+831 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/5gZYpjakt37G3c58FKcQwJ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Trip At Knight \(Complete Edition\)](https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz) | 3:56 | 2022-05-27 |  |
 | [Mistress](https://open.spotify.com/track/4WSbFi3yvVmaS2JGYu0h7P) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 2:51 | 2022-12-28 |  |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2022-06-08 |  |
+| [MONEY AND VIBES](https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [MONEY AND VIBES](https://open.spotify.com/album/7s4VOuuo8CvJ5VLCmpBU8P) | 2:02 | 2025-01-29 |  |
 | [Money Conversations](https://open.spotify.com/track/6ZGJxCrdcILAro3kM3wvRA) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:11 | 2022-12-09 |  |
 | [Money On The Dresser](https://open.spotify.com/track/0k88aN0xmk8Xn1zdnyTiPG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:13 | 2023-07-06 |  |
 | [MONSTER](https://open.spotify.com/track/29UGVk5EL1xdfwUup4xi2t) | [Kempton Zalen](https://open.spotify.com/artist/533FxOCnNtctm1LHR6sUj4) | [MONSTER](https://open.spotify.com/album/1otKeILDeZoK6WFqfKAH42) | 2:04 | 2023-11-16 |  |
@@ -582,6 +583,7 @@
 | [Plenty](https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Plenty](https://open.spotify.com/album/097aY57QMnEguasSbYWyoW) | 3:58 | 2022-12-02 |  |
 | [PLUTOSKI](https://open.spotify.com/track/2t4H61OtTYgmDe61KxkjKH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MIXTAPE PLUTO](https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54) | 2:59 | 2024-09-21 | 2024-09-24 |
 | [POP GUNS](https://open.spotify.com/track/0yP6H7QGpaZQw6hpkt7HFn) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [STUNNA 4 FILES](https://open.spotify.com/album/5NVMlDtzTwNjX9sExAlf4t) | 2:30 | 2022-10-21 |  |
+| [Pop It Off](https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pop It Off](https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt) | 3:09 | 2025-01-28 |  |
 | [Pop Out \(feat\. Lil Tjay\)](https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 2:46 | 2022-12-07 |  |
 | [Pop Out \(feat\. Nardo Wick\)](https://open.spotify.com/track/0VOMBffX1llDu37yQUt3u3) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:15 | 2022-10-14 |  |
 | [pop ur shit](https://open.spotify.com/track/47yD0e9MCRIB8dgUXPfyW3) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:13 | 2024-01-12 |  |

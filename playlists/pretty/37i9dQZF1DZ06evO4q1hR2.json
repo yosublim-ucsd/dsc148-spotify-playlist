@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 62491,
+  "num_followers": 62516,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABaDeU8eUSZKUeZbQYuSXMx",
+  "snapshot_id": "Z5bMgAAAAABfR2TDi13ofGn6RFrZAIY1",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Atrapado",
+      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Vas Amor (En Vivo)",
         "url": "https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 137555,
       "name": "Te Vas Amor (En Vivo)",
       "url": "https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras Rancheras",
-        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Atrapado",
-      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
     },
     {
       "added_at": null,

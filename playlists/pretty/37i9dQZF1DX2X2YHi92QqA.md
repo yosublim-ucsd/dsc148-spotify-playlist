@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Тепла музика в прохолодні дні ☕ ❄️🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,513 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,516 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 52 | [Карнізи](https://open.spotify.com/track/00h9eif2nfiEA1ykBFLvBZ) | [DOVI](https://open.spotify.com/artist/3PI6jFJpFKYyrHmTw0yxo5), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Карнізи](https://open.spotify.com/album/39oe0p8Azz1pwo1UoP6qTR) | 2:35 |
 | 53 | [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 |
 | 54 | [Босі](https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Босі](https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU) | 2:24 |
-| 55 | [Очі дівочі](https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy) | [ALISA](https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc) | [Очі дівочі](https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm) | 2:34 |
-| 56 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
+| 55 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
+| 56 | [Очі дівочі](https://open.spotify.com/track/1BzT1AVF0JTnApO8bsM9Uy) | [ALISA](https://open.spotify.com/artist/0EYWRVAexwhEOW4JkIJRpc) | [Очі дівочі](https://open.spotify.com/album/0XO1uQyWo1MMol2JcnLyVm) | 2:34 |
 | 57 | [Моя земля](https://open.spotify.com/track/0zOdJN17UxanpNnoHdFqyI) | [Богдан Купер](https://open.spotify.com/artist/7oVQRtkKW1oTAe6m6yjW7K) | [Моя земля](https://open.spotify.com/album/2BLs5G4LBAleDOpWZwwfQu) | 2:46 |
 | 58 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
 | 59 | [Не засну](https://open.spotify.com/track/6ak3VHnrq0angPugVN08ER) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Не засну](https://open.spotify.com/album/6OSWN0osXRuxeOzsrjBmxR) | 2:27 |

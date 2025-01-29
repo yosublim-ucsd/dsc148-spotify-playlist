@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,836 likes - 51 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,844 likes - 51 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 15 | [Coração que Sangra](https://open.spotify.com/track/41AZy4CW6HyXc3eBG3S16J) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 4:23 |
 | 16 | [Suas Digitais](https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:50 |
 | 17 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 |
-| 18 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 |
+| 18 | [Apenas um Toque](https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 7:00 |
 | 19 | [Não é Tarde](https://open.spotify.com/track/1FrncXJGmRTpAGksXoR9k8) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:24 |
-| 20 | [Apenas um Toque](https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 7:00 |
+| 20 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 |
 | 21 | [Faraó ou Deus?](https://open.spotify.com/track/2k6ytNPcfFJfIhEVY3F33T) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/5B1HnQZlDWNvY7OQE1F2uz) | 4:55 |
 | 22 | [Rasgando o Coração](https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 5:01 |
 | 23 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 50 | [Te Amo Tanto \(feat\. Fernanda Brum\)](https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 5:04 |
 | 51 | [És Real pra Mim](https://open.spotify.com/track/2hsERnD409nL9T06rhZC01) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [És Real Pra Mim](https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A) | 5:34 |
 
-Snapshot ID: `Z5V7AAAAAAAHYJyzqNwgqNX7K3azKfhe`
+Snapshot ID: `Z5bMgAAAAADoRi+0ZCx8zyhlXOPxmI3+`

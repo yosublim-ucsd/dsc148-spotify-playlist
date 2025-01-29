@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 202756,
+  "num_followers": 202775,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAD9YdhDWAz33Jz/ZoazeTZT",
+  "snapshot_id": "Z5bMgAAAAACIfQ+3XEN2vccq2QJLemCN",
   "tracks": [
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Pior M\u00fasica do Ano",
+        "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 219103,
+      "name": "A Pior M\u00fasica do Ano",
+      "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
         "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
       },
@@ -879,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Pior M\u00fasica do Ano",
-        "url": "https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV"
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
       "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         }
       ],
-      "duration_ms": 219103,
-      "name": "A Pior M\u00fasica do Ano",
-      "url": "https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG"
+      "duration_ms": 197098,
+      "name": "valeu a batalha",
+      "url": "https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq"
     },
     {
       "added_at": null,
@@ -915,22 +931,6 @@
       "duration_ms": 222128,
       "name": "FALC\u00c3O",
       "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 197098,
-      "name": "valeu a batalha",
-      "url": "https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq"
     },
     {
       "added_at": null,
@@ -1127,30 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funktroit",
-        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "DJ Sammer",
-          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
-        }
-      ],
-      "duration_ms": 140134,
-      "name": "\u00c9 o Rei do Sexo",
-      "url": "https://open.spotify.com/track/5MGhz9NF41oppyU31Z0dpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Dono do Lugar",
         "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 300298,
       "name": "at\u00e9 sua alma",
       "url": "https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funktroit",
+        "url": "https://open.spotify.com/album/7LFxfEV4nuomiNyOATUHsU"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs"
+        }
+      ],
+      "duration_ms": 140134,
+      "name": "\u00c9 o Rei do Sexo",
+      "url": "https://open.spotify.com/track/5MGhz9NF41oppyU31Z0dpj"
     },
     {
       "added_at": null,
@@ -1239,6 +1239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 238026,
+      "name": "Oto Patam\u00e1",
+      "url": "https://open.spotify.com/track/4GbyHGSgLam0Px0L8IftT7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
         "url": "https://open.spotify.com/album/5WwCBLbEXcRhpZSRQbGzTH"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 184615,
       "name": "Mtg Faz o Cu de Xota X Comedores de Xereca",
       "url": "https://open.spotify.com/track/4sisPEgb5dv5Jx0ljBAY7n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 238026,
-      "name": "Oto Patam\u00e1",
-      "url": "https://open.spotify.com/track/4GbyHGSgLam0Px0L8IftT7"
     },
     {
       "added_at": null,

@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 31 | [Fake Names](https://open.spotify.com/track/2ClUu1kEWAGb6KZroRkkUq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Fake Names](https://open.spotify.com/album/6HR8wY3bzZWNoU3sJZY2bX) | 2:39 |
 | 32 | [I GUESS THEY CALL IT FALLIN'](https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 4:01 |
 | 33 | [Hear Me Out](https://open.spotify.com/track/0UcY1x4UkJqYwd9vnO3S2p) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:37 |
-| 34 | [UNIVERSE](https://open.spotify.com/track/0BhWiby1vUZaFUzmKvk9YK) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:56 |
-| 35 | [WAIT!](https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:02 |
+| 34 | [WAIT!](https://open.spotify.com/track/3kIgoto0T2mhZXOcRNNo7F) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:02 |
+| 35 | [UNIVERSE](https://open.spotify.com/track/0BhWiby1vUZaFUzmKvk9YK) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:56 |
 | 36 | [Patterns](https://open.spotify.com/track/2LEQiEchYXOfllBduPpnAn) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:40 |
 | 37 | [How Much Do You Love Me](https://open.spotify.com/track/4nede11n2Bu8fcS00E7XER) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:33 |
 | 38 | [Beg For Your Love](https://open.spotify.com/track/2OvDg8MoPWvr6xsd9egdPt) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRegGOhYpv3j.md) - [plain]
 | 74 | [it's not you, it's me](https://open.spotify.com/track/0X3mAcw0fxCLqgVcLoGbpC) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:20 |
 | 75 | [Space Traveler \- Lucy Remix](https://open.spotify.com/track/5ZeBGX6fqhzK237bzlvAi3) | [Florian Meindl](https://open.spotify.com/artist/3ifSx5yWok1sISs8J89omX), [Lucy](https://open.spotify.com/artist/7oVnuNTfcmObCIJ2DVvkk3) | [Time Illusion Remixes](https://open.spotify.com/album/2S56BIAz0orTVXIdGVTCzy) | 7:37 |
 
-Snapshot ID: `AboBPgAAAACU4v4EUXNk3tJqH66fnFR3`
+Snapshot ID: `AboGygAAAACOY4iSkuXG8FFG79z73ZeV`

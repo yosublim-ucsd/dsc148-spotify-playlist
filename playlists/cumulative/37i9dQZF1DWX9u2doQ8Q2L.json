@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 213106,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/3QmJn4aRv6DvNNvGLsb5Uq"
@@ -5819,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "Eureka",
+        "url": "https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Eureka",
+      "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
+    },
+    {
+      "album": {
         "name": "EVERGREEN",
         "url": "https://open.spotify.com/album/1FsSbVECGxs7ZYr5dA0Qa6"
       },
@@ -6102,7 +6120,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 157660,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/50serZyxwPIVyE9GIXFTnV"
@@ -7014,7 +7032,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 204000,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU"
@@ -25053,6 +25071,32 @@
     },
     {
       "album": {
+        "name": "\u3070\u3089\u306e\u82b1",
+        "url": "https://open.spotify.com/album/3XBYfNrQhj53VhoG2rp0XL"
+      },
+      "artists": [
+        {
+          "name": "AVYSS",
+          "url": "https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC"
+        },
+        {
+          "name": "safmusic",
+          "url": "https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7"
+        },
+        {
+          "name": "Telematic Visions",
+          "url": "https://open.spotify.com/artist/1XrPQiMA2GWz8uPO7i9qZ5"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350220,
+      "name": "\u3070\u3089\u306e\u82b1",
+      "url": "https://open.spotify.com/track/43Lwbzu8ZdVOKdeIxjlzdw"
+    },
+    {
+      "album": {
         "name": "\u3072\u3064\u3058\u306e\u30b7\u30e7\u30fc\u30f3\uff08Life's a Treat\uff09[English Cover]",
         "url": "https://open.spotify.com/album/1EHfP9ipb4HweCWgUAee8c"
       },
@@ -29982,6 +30026,24 @@
       "duration_ms": 238720,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+    },
+    {
+      "album": {
+        "name": "\u72ec\u767d",
+        "url": "https://open.spotify.com/album/3bohD8rUa1U2O5zMVAfLHf"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232344,
+      "name": "\u72ec\u767d",
+      "url": "https://open.spotify.com/track/6KGVTqKatNlWRNBvkJl0px"
     },
     {
       "album": {

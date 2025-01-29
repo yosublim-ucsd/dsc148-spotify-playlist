@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,201 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,203 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 24 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
 | 25 | [Gun Shots](https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Gun Shots](https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff) | 2:38 |
 | 26 | [When days are dark](https://open.spotify.com/track/0GXELsQ5B5qmBBmNUpy1NM) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [When days are dark](https://open.spotify.com/album/761h656NyhlwFRUJpir3mx) | 2:50 |
-| 27 | [Ghetto Barz](https://open.spotify.com/track/1PkG4e1yiQVpb6upawmYZL) | [Narc Da Kidd](https://open.spotify.com/artist/6zWfAhLn7fkVeVAluyVPLk), [CurwieBoi](https://open.spotify.com/artist/37zIF5Aikozj1Qd0KwWGP9) | [Ghetto Barz](https://open.spotify.com/album/2oB6UIhhAKMY3lktYXh18R) | 1:52 |
-| 28 | [Dubble G's](https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Dubble G's](https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH) | 2:19 |
+| 27 | [Dubble G's](https://open.spotify.com/track/2VYYkJDDcK2FJdrWPHdd9d) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC) | [Dubble G's](https://open.spotify.com/album/2Qe1foItp17ymshvUdGQpH) | 2:19 |
+| 28 | [Ghetto Barz](https://open.spotify.com/track/1PkG4e1yiQVpb6upawmYZL) | [Narc Da Kidd](https://open.spotify.com/artist/6zWfAhLn7fkVeVAluyVPLk), [CurwieBoi](https://open.spotify.com/artist/37zIF5Aikozj1Qd0KwWGP9) | [Ghetto Barz](https://open.spotify.com/album/2oB6UIhhAKMY3lktYXh18R) | 1:52 |
 | 29 | [Op Fok](https://open.spotify.com/track/3VLuOtqtLhNlt66vE2xQca) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5) | [Op Fok](https://open.spotify.com/album/0YhcZQV5uZ6jBn01gpjMDL) | 2:08 |
 | 30 | [Heroes](https://open.spotify.com/track/5o1ERSpNGpOGvJuR2VPwLk) | [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Heroes](https://open.spotify.com/album/2ZECSjB5povRqXRkPioLy7) | 2:24 |
 | 31 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |

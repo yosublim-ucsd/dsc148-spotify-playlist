@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "El gran d\u00eda",
+        "url": "https://open.spotify.com/album/5hNqLZYrCxLazU9wYpKrcS"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146262,
+      "name": "El gran d\u00eda",
+      "url": "https://open.spotify.com/track/4rXPoBRArkNhJCwvVClS5G"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO"
       },
@@ -6440,6 +6458,24 @@
       "duration_ms": 163250,
       "name": "Song of the Sea",
       "url": "https://open.spotify.com/track/63ot2ojzQVR1q2ZURw9mgA"
+    },
+    {
+      "album": {
+        "name": "Sounding Voices",
+        "url": "https://open.spotify.com/album/1iPItFVLSCmWEr5GKuERmL"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sullivan",
+          "url": "https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171517,
+      "name": "Sounding Voices",
+      "url": "https://open.spotify.com/track/3jFhsPP7zQRNLosDG3nodt"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74922,
+  "num_followers": 74915,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Water & The Rough",
         "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
@@ -495,6 +479,38 @@
       "duration_ms": 238174,
       "name": "Home",
       "url": "https://open.spotify.com/track/7jVxFSofsmJaJytScnXydF"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -531,22 +547,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 294063,
       "name": "Take Me Home (feat. Nadia Reid)",
       "url": "https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Where'd You Go",
-        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 219479,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -627,6 +611,22 @@
       "duration_ms": 215147,
       "name": "Where the Light Is",
       "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Where'd You Go",
+        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 219479,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+      "duration_ms": 223560,
+      "name": "Midnight Moon",
+      "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
         }
       ],
-      "duration_ms": 223560,
-      "name": "Midnight Moon",
-      "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Sweetest Days",
+        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "The Sweetest Days",
+      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 222128,
       "name": "Lonely (feat. Gena Rose Bruce)",
       "url": "https://open.spotify.com/track/0MJY00jHH62MhIpEB4BTPf"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "The Sweetest Days",
-        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "The Sweetest Days",
-      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
     },
     {
       "added_at": "2023-11-30 13:00:00",

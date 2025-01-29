@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,895 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,866 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 6 | [Arre Borriquito](https://open.spotify.com/track/3qqxSpnpYCMkg6opoFRjA3) | [Denise De Kalafe](https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 2:50 |
 | 7 | [Aires De Navidad](https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:43 |
 | 8 | [Mis Deseos / Feliz Navidad \(with Thalia\)](https://open.spotify.com/track/6ZdxGOaZoNzbGrBLjUcrUs) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 4:24 |
-| 9 | [El Tamborilero](https://open.spotify.com/track/3Vrn9BAwRqcMh1jgNzgSNf) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/6Ff42qXok850iV7nee00V1) | 2:56 |
+| 9 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
 | 10 | [Noche Buena Y Navidad \(Rockin' Around The Christmas Tree\)](https://open.spotify.com/track/2oGrSrg08RVLHeqFH1eaHZ) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Noche Buena Y Navidad \(Rockin' Around The Christmas Tree\)](https://open.spotify.com/album/09q2zFwQEfVn3XN5EkkEu5) | 2:03 |
-| 11 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
+| 11 | [El Tamborilero](https://open.spotify.com/track/3Vrn9BAwRqcMh1jgNzgSNf) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/6Ff42qXok850iV7nee00V1) | 2:56 |
 | 12 | [Blanca Navidad](https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:32 |
 | 13 | [Canción para la Navidad](https://open.spotify.com/track/2gSexK7Je8Szlo7nm0vvJB) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [El pregón](https://open.spotify.com/album/1Z27GPKKGRGUpayXPsVej2) | 3:49 |
 | 14 | [Jingle Bells](https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:00 |

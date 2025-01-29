@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar",
-  "num_followers": 207313,
+  "num_followers": 361214,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nvkwAAAACH6b4cbK2ssZ+8WSZ3IpWX",
+  "snapshot_id": "Z5koBAAAAAAikTV/2I8j3sK4zMCW62pZ",
   "tracks": [
     {
       "added_at": "2025-01-17 05:50:11",
@@ -631,22 +631,18 @@
     {
       "added_at": "2025-01-17 05:50:11",
       "album": {
-        "name": "\u00bfSer\u00e1 Prudente?",
-        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 226906,
-      "name": "\u00bfSer\u00e1 Prudente?",
-      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
+      "duration_ms": 203840,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
     },
     {
       "added_at": "2025-01-17 05:50:11",
@@ -671,18 +667,22 @@
     {
       "added_at": "2025-01-17 05:50:11",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+        "name": "\u00bfSer\u00e1 Prudente?",
+        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 203840,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G"
+      "duration_ms": 226906,
+      "name": "\u00bfSer\u00e1 Prudente?",
+      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
     },
     {
       "added_at": "2025-01-17 05:50:11",

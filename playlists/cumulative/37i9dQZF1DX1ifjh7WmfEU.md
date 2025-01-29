@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-271 songs - 11 hr 57 min
+272 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 | 2024-03-25 |  |
 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 | 2022-05-27 | 2025-01-23 |
 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 | 2024-03-25 |  |
+| [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 | 2025-01-28 |  |
 | [Approval](https://open.spotify.com/track/3QzrEF8QSFkZZIJiHzhA9O) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Approval](https://open.spotify.com/album/2TduV2Na9lQiW4HmjSbc5r) | 2:59 | 2024-11-06 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-05-27 |  |
 | [Arcticgrey](https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Arcticgrey](https://open.spotify.com/album/4e3FQVTO1Sa0Tsmu3C7IMt) | 2:02 | 2022-05-27 | 2025-01-23 |

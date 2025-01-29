@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Remi Wolf
 
-528 songs - 1 day 8 hr 3 min
+531 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Geyser](https://open.spotify.com/track/6lMMiFxOnNZBEJFc4UQPwS) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:23 | 2021-09-03 | 2022-07-29 |
 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 | 2022-03-08 | 2023-02-27 |
 | [Ghosts](https://open.spotify.com/track/4evGW5N0eRbVzw9dyES0xt) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/6C5vaAEWNO1ayXvYwv45Q2) | 2:59 | 2022-03-08 | 2022-04-21 |
-| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2024-09-30 |  |
+| [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2024-09-30 | 2025-01-29 |
 | [girlfriend](https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/7tBqY28TsUNRRzSJZ1yMLV) | 2:13 | 2023-03-02 | 2023-05-26 |
 | [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 | 2023-03-08 | 2023-10-02 |
 | [girlfriend](https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:13 | 2023-03-08 | 2024-04-19 |
@@ -196,6 +196,7 @@
 | [Happy Girl](https://open.spotify.com/track/4KERVj1ZarxTVdsUJJDS3U) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Happy Girl](https://open.spotify.com/album/4lPXRjKmQPMX5yYD81Wodh) | 3:03 | 2022-03-08 | 2022-07-24 |
 | [HAVE A NICE DAY](https://open.spotify.com/track/4ioO0T2VDmyhLndmBGlJYL) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [HAVE A NICE DAY](https://open.spotify.com/album/3V43Y3y0CGYwwLyytbH25w) | 4:21 | 2021-09-03 | 2022-04-21 |
 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 | 2021-09-03 | 2022-07-29 |
+| [Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself \(Deluxe Version\)](https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM) | 3:35 | 2025-01-28 |  |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2022-03-08 | 2024-07-25 |
 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 | 2022-03-08 | 2024-07-25 |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-09-30 | 2024-11-26 |
@@ -221,7 +222,7 @@
 | [I Feel Alive](https://open.spotify.com/track/5BL5JIhruwOhrRZd3Djoqs) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [I Feel Alive](https://open.spotify.com/album/0aFqZJGOa5R2wETNRQPW8m) | 2:34 | 2022-03-08 | 2022-07-28 |
 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 | 2022-03-08 | 2024-07-25 |
 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-09-03 | 2022-07-29 |
-| [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2024-09-30 |  |
+| [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2024-09-30 | 2025-01-29 |
 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 | 2024-09-30 | 2025-01-09 |
 | [i think i wanna be alone](https://open.spotify.com/track/0uORqw0i7S97SG4dwb4Ett) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 1:42 | 2022-03-08 | 2022-11-29 |
 | [i think i wanna be alone](https://open.spotify.com/track/1md2KOmyjGwQxuy5W39Lsz) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [i think i wanna be alone](https://open.spotify.com/album/0QhJHjBtJmNy8sfdQU7XoJ) | 1:42 | 2021-09-03 | 2022-07-29 |
@@ -264,6 +265,7 @@
 | [Leaning On Myself](https://open.spotify.com/track/20t31bYVci0qKda2XeTxSj) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Leaning On Myself](https://open.spotify.com/album/2j2pSyCuPAwU4baWANtUu4) | 3:16 | 2021-09-03 | 2022-06-12 |
 | [Lemon Glow](https://open.spotify.com/track/3Fd7afY38ng56uHQJ1bbWr) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Lemon Glow](https://open.spotify.com/album/2LIof5OBvd0dwNf4NFmiKE) | 4:04 | 2021-09-03 | 2022-04-20 |
 | [Lemon Glow](https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:04 | 2022-03-08 | 2023-03-03 |
+| [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-28 |  |
 | [Lifetime](https://open.spotify.com/track/6UcQPAH459nMfAXAvV9Udc) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/4aymv3MZSQ5GEb1jS6NVSa) | 3:17 | 2022-03-08 | 2022-04-19 |
 | [Lilacs](https://open.spotify.com/track/3pexh626z6y0VFieT8hvpF) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Lilacs](https://open.spotify.com/album/2Cve2sVjHyift5YHQ8jox0) | 3:15 | 2022-03-08 | 2022-07-27 |
 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 | 2021-09-03 | 2022-04-19 |
@@ -349,6 +351,7 @@
 | [On + Off](https://open.spotify.com/track/4JTbXALrXVYabZKZ9gr8M7) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [On + Off](https://open.spotify.com/album/5o2W0AlXEITVI8OjRE4k3X) | 3:41 | 2021-09-03 | 2022-04-29 |
 | [One Time](https://open.spotify.com/track/1Z4UKak2eNteHFZkwiYPNz) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [Sway](https://open.spotify.com/album/4GgwHp794AzZkv2hh8geZu) | 3:37 | 2022-03-08 | 2024-07-25 |
 | [Only One](https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Only One](https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w) | 3:09 | 2024-07-24 | 2024-08-10 |
+| [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 | 2025-01-28 |  |
 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 | 2021-09-03 | 2022-04-19 |
 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 | 2022-03-08 |  |
 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 | 2022-03-08 | 2022-08-30 |
@@ -450,7 +453,7 @@
 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 | 2022-03-08 | 2024-01-28 |
 | [The Barrel](https://open.spotify.com/track/3s71tbgmSN9TfJLj4D18Mt) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/6GO0ZV4w1GHfksdyBiEAY0) | 4:59 | 2022-03-08 | 2022-04-21 |
 | [The greatest](https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2021-09-03 |  |
-| [The Last Year](https://open.spotify.com/track/5BgoeQzJbjxOc48yH6wPEH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:35 | 2024-07-24 |  |
+| [The Last Year](https://open.spotify.com/track/5BgoeQzJbjxOc48yH6wPEH) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:35 | 2024-07-24 | 2025-01-29 |
 | [The Mother We Share](https://open.spotify.com/track/3PvzvltQZLIKk9YgoMP3Yq) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones Of What You Believe \(Special Edition\)](https://open.spotify.com/album/54IMJ8S0redmP6krSlKZLD) | 3:10 | 2022-03-08 | 2022-04-20 |
 | [The Mother We Share](https://open.spotify.com/track/2FV7Exjr70J652JcGucCtE) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/5RXMsB6VV6NfaspYWsdPyD) | 3:11 | 2022-03-08 | 2023-12-30 |
 | [The Mother We Share](https://open.spotify.com/track/2pE0CMK1fE3mfU0eEOHhKw) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [The Bones of What You Believe](https://open.spotify.com/album/7mYtNRrdUIZZymc5epjYHE) | 3:11 | 2022-03-08 | 2022-10-13 |

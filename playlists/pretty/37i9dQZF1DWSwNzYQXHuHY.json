@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 10609,
+  "num_followers": 10616,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-01-16 09:27:31",
       "album": {
-        "name": "Ordinary Confession",
-        "url": "https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Ordinary Confession",
-      "url": "https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9"
-    },
-    {
-      "added_at": "2025-01-16 09:27:31",
-      "album": {
         "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
         "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 168492,
       "name": "Your Shampoo Scent In The Flowers",
       "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
+    },
+    {
+      "added_at": "2025-01-16 09:27:31",
+      "album": {
+        "name": "Ordinary Confession",
+        "url": "https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Ordinary Confession",
+      "url": "https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9"
     },
     {
       "added_at": "2025-01-16 09:27:31",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-01-16 09:27:31",
       "album": {
-        "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
-        "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
-      },
-      "artists": [
-        {
-          "name": "hiko",
-          "url": "https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM"
-        },
-        {
-          "name": "Hoody(\ud6c4\ub514)",
-          "url": "https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB"
-        }
-      ],
-      "duration_ms": 173124,
-      "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
-      "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
-    },
-    {
-      "added_at": "2025-01-16 09:27:31",
-      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+    },
+    {
+      "added_at": "2025-01-16 09:27:31",
+      "album": {
+        "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
+        "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
+      },
+      "artists": [
+        {
+          "name": "hiko",
+          "url": "https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM"
+        },
+        {
+          "name": "Hoody(\ud6c4\ub514)",
+          "url": "https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "\uc654\ub2e4 \uac14\ub2e4 (feat. Hoody)",
+      "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
     },
     {
       "added_at": "2025-01-16 09:27:31",
@@ -667,30 +667,6 @@
     {
       "added_at": "2025-01-16 09:27:31",
       "album": {
-        "name": "What's On Your Mind? (Feat. UNE)",
-        "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
-        },
-        {
-          "name": "\uc73c\ub124 (UNE)",
-          "url": "https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW"
-        }
-      ],
-      "duration_ms": 156857,
-      "name": "What's On Your Mind? (Feat. UNE)",
-      "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
-    },
-    {
-      "added_at": "2025-01-16 09:27:31",
-      "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
       },
@@ -727,6 +703,46 @@
     {
       "added_at": "2025-01-16 09:27:31",
       "album": {
+        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Love me Again",
+      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
+    },
+    {
+      "added_at": "2025-01-16 09:27:31",
+      "album": {
+        "name": "What's On Your Mind? (Feat. UNE)",
+        "url": "https://open.spotify.com/album/2nU0j0QE2LU1bomxX3n8Wt"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        },
+        {
+          "name": "\uc73c\ub124 (UNE)",
+          "url": "https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW"
+        }
+      ],
+      "duration_ms": 156857,
+      "name": "What's On Your Mind? (Feat. UNE)",
+      "url": "https://open.spotify.com/track/5COkVzFpPDKxpVxAClg7WE"
+    },
+    {
+      "added_at": "2025-01-16 09:27:31",
+      "album": {
         "name": "Attitude #4",
         "url": "https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 212840,
       "name": "On You (feat. 1ho & Mabinc)",
       "url": "https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc"
-    },
-    {
-      "added_at": "2025-01-16 09:27:31",
-      "album": {
-        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
-      },
-      "artists": [
-        {
-          "name": "KEN",
-          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Love me Again",
-      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
     },
     {
       "added_at": "2025-01-16 09:27:31",

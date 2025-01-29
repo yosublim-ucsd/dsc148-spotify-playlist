@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 85656,
+  "num_followers": 85695,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Olokun",
-        "url": "https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf"
-      },
-      "artists": [
-        {
-          "name": "XAVO",
-          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
-        }
-      ],
-      "duration_ms": 211295,
-      "name": "Olokun",
-      "url": "https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 209077,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Olokun",
+        "url": "https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf"
+      },
+      "artists": [
+        {
+          "name": "XAVO",
+          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
+        }
+      ],
+      "duration_ms": 211295,
+      "name": "Olokun",
+      "url": "https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "\u00c1frica",
+        "url": "https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq"
+      },
+      "artists": [
+        {
+          "name": "Clap Freckles",
+          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
+        }
+      ],
+      "duration_ms": 191115,
+      "name": "\u00c1frica",
+      "url": "https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "La Ni\u00f1a (Remixes)",
         "url": "https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 264005,
       "name": "La Ni\u00f1a (Alan Rosales & Manu Morales Tribal Remix)",
       "url": "https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "\u00c1frica",
-        "url": "https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq"
-      },
-      "artists": [
-        {
-          "name": "Clap Freckles",
-          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
-        }
-      ],
-      "duration_ms": 191115,
-      "name": "\u00c1frica",
-      "url": "https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7"
     },
     {
       "added_at": "2024-07-05 22:41:57",

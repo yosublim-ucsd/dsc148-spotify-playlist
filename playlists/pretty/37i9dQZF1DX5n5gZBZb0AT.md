@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,906 likes - 40 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,068 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 37 | [YUMMI](https://open.spotify.com/track/3RlfkOE0lXMec08I6CaakR) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW) | [YUMMI](https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9) | 1:35 |
 | 38 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 39 | [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 |
-| 40 | [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 |
+| 40 | [Ele Te Bota Soca Soca](https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P) | [Ele Te Bota Soca Soca](https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5) | 3:00 |
 
 Snapshot ID: `ZoxAKAAAAADZzW0pbNdeuBJHllDhOKiY`

@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 354858,
+  "num_followers": 354872,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp"
+      },
+      "artists": [
+        {
+          "name": "Primo Son",
+          "url": "https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb"
+        }
+      ],
+      "duration_ms": 226448,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Chinito Rulo (Remix)",
         "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 187198,
       "name": "Chinito Rulo (Remix)",
       "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp"
-      },
-      "artists": [
-        {
-          "name": "Primo Son",
-          "url": "https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb"
-        }
-      ],
-      "duration_ms": 226448,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
-        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
-      },
-      "artists": [
-        {
-          "name": "Plu Con Pla",
-          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Amanecer\u00e1 (Bial Hclap Remix)",
         "url": "https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 186818,
       "name": "Amanecer\u00e1 - Bial Hclap Remix",
       "url": "https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "No M\u00e1s Velorio (El B\u00faho Remix)",
+        "url": "https://open.spotify.com/album/4v0pFizZJj1oMIEBmzNcPU"
+      },
+      "artists": [
+        {
+          "name": "Plu Con Pla",
+          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "No M\u00e1s Velorio - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/63AWfwvngiv2XdeRo3dK2H"
     },
     {
       "added_at": "2024-07-12 22:50:04",

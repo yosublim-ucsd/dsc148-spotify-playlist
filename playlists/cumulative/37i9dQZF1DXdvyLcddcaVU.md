@@ -4,7 +4,7 @@
 
 > \#fyp
 
-608 songs - 1 day 7 hr 55 min
+609 songs - 1 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Diamondz n Roses](https://open.spotify.com/track/7Aua757VSl2zj4YZ6HHMfH) | [VaporGod](https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm) | [Diamondz n Roses](https://open.spotify.com/album/2ZqkqA3r1QaLaALOWbs60S) | 4:24 | 2023-11-10 | 2024-03-30 |
 | [Diarabi](https://open.spotify.com/track/1BuOKZA8fokaiEVqBkIHF1) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Dozo](https://open.spotify.com/album/6AtO14RzdM18MZyWHvoH26) | 3:06 | 2023-10-20 | 2024-04-13 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-24 | 2023-10-02 |
+| [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 | 2025-01-28 |  |
 | [Dimanche soir](https://open.spotify.com/track/3BkKW3ASZ0uzvsn0ZH70Rr) | [Lasco](https://open.spotify.com/artist/3dJuPTbC8aP88uCs6qB3Ra) | [2.6.Z](https://open.spotify.com/album/76EPcq3yFSKI4Y0gnTnnqW) | 4:00 | 2024-05-03 | 2024-08-02 |
 | [Dingue de toi \- Nabi\-Nabilla](https://open.spotify.com/track/2OHJYG61WwBhKCmyJ8rBtz) | [Sofiane](https://open.spotify.com/artist/3uSbAaLwGw2xF9je73h7F4) | [Dingue de toi \(Nabi\-Nabilla\)](https://open.spotify.com/album/0h6hmSwESIeAz3cL5V7lmW) | 3:54 | 2024-03-15 | 2024-05-25 |
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-08-23 | 2024-10-05 |
@@ -384,7 +385,7 @@
 | [Michael Jordan](https://open.spotify.com/track/6zUuYG5WmHSHNoZQ13TiT2) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [Michael Jordan](https://open.spotify.com/album/56C3vM0iBhNvx6p3i29ugU) | 3:43 | 2024-04-19 | 2024-09-28 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-03 | 2024-08-02 |
 | [Minimum ça](https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Minimum ça](https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha) | 2:29 | 2024-09-06 |  |
-| [MINUIT PILE](https://open.spotify.com/track/01kvKrTJRtr46q2SRW24yK) | [Braak's](https://open.spotify.com/artist/5lCApSCPniQPmRqWo12oG4) | [MINUIT PILE](https://open.spotify.com/album/0XEhUmLCMqTlWFyQMxwq9S) | 3:10 | 2024-10-04 |  |
+| [MINUIT PILE](https://open.spotify.com/track/01kvKrTJRtr46q2SRW24yK) | [Braak's](https://open.spotify.com/artist/5lCApSCPniQPmRqWo12oG4) | [MINUIT PILE](https://open.spotify.com/album/0XEhUmLCMqTlWFyQMxwq9S) | 3:10 | 2024-10-04 | 2025-01-29 |
 | [Mirage](https://open.spotify.com/track/0KplBbjiVQ2oaPsx5TawwH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Mirage](https://open.spotify.com/album/0MEK1B5cx2RcBhNyjoKozb) | 2:49 | 2023-11-10 | 2024-02-03 |
 | [Miskine](https://open.spotify.com/track/1oAJcJ1Wqg5lkHHTdRGOld) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 3:00 | 2023-11-10 | 2024-01-27 |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2023-10-20 | 2023-12-14 |

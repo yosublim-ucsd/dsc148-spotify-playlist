@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 98670,
+  "num_followers": 98805,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-01-21 11:29:26",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 153026,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
-    },
-    {
-      "added_at": "2025-01-21 11:29:26",
-      "album": {
         "name": "what a feeling",
         "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 159945,
       "name": "who does that? (feat. Bella Shmurda)",
       "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
+    },
+    {
+      "added_at": "2025-01-21 11:29:26",
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 153026,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y"
     },
     {
       "added_at": "2025-01-21 11:29:26",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-01-21 11:29:26",
       "album": {
+        "name": "Mr Lover",
+        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "Mr Lover",
+      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
+    },
+    {
+      "added_at": "2025-01-21 11:29:26",
+      "album": {
         "name": "Ogechi",
         "url": "https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 150927,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
-    },
-    {
-      "added_at": "2025-01-21 11:29:26",
-      "album": {
-        "name": "Mr Lover",
-        "url": "https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK"
-      },
-      "artists": [
-        {
-          "name": "Fido",
-          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Mr Lover",
-      "url": "https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak"
     },
     {
       "added_at": "2025-01-21 11:29:26",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2025-01-21 11:29:26",
       "album": {
-        "name": "Lately (feat. Ruger)",
-        "url": "https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF"
+        "name": "Bhad Boi",
+        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
       },
       "artists": [
         {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 171764,
-      "name": "Lately (feat. Ruger)",
-      "url": "https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C"
+      "duration_ms": 161684,
+      "name": "Chocolate & Caramel",
+      "url": "https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA"
     }
   ],
   "unique_name": "Traffic Jams Naija ",

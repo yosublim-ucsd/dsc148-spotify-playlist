@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: Hitsujibungaku",
+  "description": "The biggest rock artists in Japan right now!  Cover: indigo la End",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "CLASSIC",
+        "url": "https://open.spotify.com/album/6tsA7mKlSnFrI1LMUbd1pP"
+      },
+      "artists": [
+        {
+          "name": "FINLANDS",
+          "url": "https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274173,
+      "name": "CLASSIC",
+      "url": "https://open.spotify.com/track/2EE5bX7zFI6TCbIvvL8A4y"
+    },
+    {
+      "album": {
         "name": "COMEBACK -\u611b\u3057\u304d\u7834\u7247-",
         "url": "https://open.spotify.com/album/1kIuGGIYH31Y9ev3q2DmA3"
       },
@@ -2648,6 +2666,24 @@
       "duration_ms": 198501,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/2wHdToVrYPjymTvp2Tm2bN"
+    },
+    {
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/3hwHY1kb8NZQ3b3rG50Jkh"
+      },
+      "artists": [
+        {
+          "name": "Enfants",
+          "url": "https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Dying Star",
+      "url": "https://open.spotify.com/track/60fJwXfsLswVout8DYaAzf"
     },
     {
       "album": {
@@ -8551,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "REACHING FOR THE SKY",
+        "url": "https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235900,
+      "name": "REACHING FOR THE SKY",
+      "url": "https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N"
+    },
+    {
+      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/4UywvUBYPPckuNbgqT8LXg"
       },
@@ -8754,7 +8808,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 252385,
       "name": "Re\u65b9\u7a0b\u5f0f",
       "url": "https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH"
@@ -11147,6 +11201,24 @@
     },
     {
       "album": {
+        "name": "Music For Walking (Out Of The Woods)",
+        "url": "https://open.spotify.com/album/5BOrVVQthtuBSqxaduFAkx"
+      },
+      "artists": [
+        {
+          "name": "Lovely Summer Chan",
+          "url": "https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "The Great Time Killer",
+      "url": "https://open.spotify.com/track/2TWxpuIdzsvYwC4WsJBMAZ"
+    },
+    {
+      "album": {
         "name": "METAATEM",
         "url": "https://open.spotify.com/album/1qURL5FFneLcsfIMwIYWO2"
       },
@@ -11508,7 +11580,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 228400,
       "name": "todayyyyy",
       "url": "https://open.spotify.com/track/15ZEkb83IYYal4xsbhHE03"
@@ -13958,7 +14030,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 86280,
       "name": "\u3059\u3054\u3044\u901f\u3055",
       "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
@@ -15934,7 +16006,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 214213,
       "name": "\u30c1\u30fc\u30ba\u30b1\u30fc\u30ad\u30fb\u30d5\u30a1\u30af\u30c8\u30ea\u30fc",
       "url": "https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO"
@@ -16136,6 +16208,24 @@
       "duration_ms": 217693,
       "name": "\u30ca\u30ab\u30de",
       "url": "https://open.spotify.com/track/38Xae6a4lqhRxVPhwpQdu8"
+    },
+    {
+      "album": {
+        "name": "MOLTING AND DANCING",
+        "url": "https://open.spotify.com/album/5iiTVjvlqwtOGpTSl59Ure"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185093,
+      "name": "\u30ca\u30cf\u30c8",
+      "url": "https://open.spotify.com/track/5bIfUwPurq7SaWSKrcukw5"
     },
     {
       "album": {
@@ -18671,6 +18761,24 @@
     },
     {
       "album": {
+        "name": "\u5c90\u8def",
+        "url": "https://open.spotify.com/album/72EaB9BSyVJmPXJkRCSaSu"
+      },
+      "artists": [
+        {
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196584,
+      "name": "\u5c90\u8def",
+      "url": "https://open.spotify.com/track/17t6acsp6qAo3zrvTVJvXr"
+    },
+    {
+      "album": {
         "name": "\u5e0c\u671b\u3092\u9cf4\u3089\u305b",
         "url": "https://open.spotify.com/album/2XlmRic9iwoVLR5YwI2Gzh"
       },
@@ -18844,7 +18952,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 223657,
       "name": "\u5fc3\u5909\u308f\u308a",
       "url": "https://open.spotify.com/track/2J3BzhevHS1UjZ5wHoboZd"
@@ -20504,7 +20612,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 259480,
       "name": "\u76c6\u30ae\u30ea\u604b\u6b4c",
       "url": "https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO"

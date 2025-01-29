@@ -9365,6 +9365,24 @@
     },
     {
       "album": {
+        "name": "MONEY AND VIBES",
+        "url": "https://open.spotify.com/album/7s4VOuuo8CvJ5VLCmpBU8P"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122253,
+      "name": "MONEY AND VIBES",
+      "url": "https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8"
+    },
+    {
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
       },
@@ -12002,6 +12020,28 @@
       "duration_ms": 150073,
       "name": "POP GUNS",
       "url": "https://open.spotify.com/track/0yP6H7QGpaZQw6hpkt7HFn"
+    },
+    {
+      "album": {
+        "name": "Pop It Off",
+        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Pop It Off",
+      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Olamide
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,880 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,911 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 49 | [Lifestyle \(feat\. Pheelz\)](https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Lifestyle \(feat\. Pheelz\)](https://open.spotify.com/album/0Z0XLLoN98NG1YgG15n4uX) | 2:55 |
 | 50 | [Hustle](https://open.spotify.com/track/612ZmfgN8sC6XYXnnTi42v) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Hitboy Kellz](https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Niggas From The South](https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe) | 2:00 |
 | 51 | [\[escapism\]](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [\[escapism\]](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 |
-| 52 | [Tonight](https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Tonight](https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L) | 2:21 |
-| 53 | [Jumpin Bumpin](https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Jumpin Bumpin](https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw) | 2:49 |
+| 52 | [Jumpin Bumpin](https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Jumpin Bumpin](https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw) | 2:49 |
+| 53 | [Tonight](https://open.spotify.com/track/7uuDAeMQrufj048z0D6ykf) | [Arman Cekin](https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Tonight](https://open.spotify.com/album/6VQtVcmETaiNEN7OZmlX3L) | 2:21 |
 | 54 | [Wake Up](https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn) | [Shoody B](https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Wake Up](https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh) | 3:03 |
 | 55 | [Woman of Virtue \(feat\. Ajebo Hustlers\)](https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:31 |
 | 56 | [Easy](https://open.spotify.com/track/3enIVGgMGl7OCRZXytWHzQ) | [Niyi](https://open.spotify.com/artist/3P6XhIOLjmq0i5SUEq6qH9), [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Easy](https://open.spotify.com/album/7c69EqQLbojXYEBnpxWPAr) | 2:54 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 64 | [Wàsérè](https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT) | [Shakez Baba](https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Wàsérè](https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE) | 2:36 |
 | 65 | [Yolo](https://open.spotify.com/track/01OYVpdzkZfzunrtn10Gdp) | [Freezy](https://open.spotify.com/artist/19HzSVOcJ5kFoIGdIHKaQt), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Yolo](https://open.spotify.com/album/79iq083PHHb2WCJuh0lS5A) | 3:04 |
 | 66 | [One Night](https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Serenità](https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ) | [One Night](https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p) | 3:12 |
-| 67 | [On Boiz](https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp) | [Ajé \(The Realest\)](https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy) | [On Boiz](https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm) | 2:23 |
-| 68 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 |
+| 67 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 |
+| 68 | [On Boiz](https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp) | [Ajé \(The Realest\)](https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy) | [On Boiz](https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm) | 2:23 |
 | 69 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
 | 70 | [LOCO](https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Afro Jersey](https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ) | 2:20 |
 

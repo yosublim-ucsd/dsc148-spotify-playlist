@@ -701,6 +701,28 @@
     },
     {
       "album": {
+        "name": "Feels (feat. Bow Anderson)",
+        "url": "https://open.spotify.com/album/1VMYbbaGKKwGSz5DMEL4oV"
+      },
+      "artists": [
+        {
+          "name": "GYMBRO",
+          "url": "https://open.spotify.com/artist/1dVQrgVgad6dhS9ATZGy9D"
+        },
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133741,
+      "name": "Feels (feat. Bow Anderson)",
+      "url": "https://open.spotify.com/track/5uo8RId6BnZxNaqXqXPu6H"
+    },
+    {
+      "album": {
         "name": "Shapeshifter",
         "url": "https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT"
       },

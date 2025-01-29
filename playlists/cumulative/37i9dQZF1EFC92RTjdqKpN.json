@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153718,
+      "name": "IT girl",
+      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
+    },
+    {
+      "album": {
         "name": "Night & Day (Day Edition)",
         "url": "https://open.spotify.com/album/0VKcOEVdDLf95KdHfBw9AR"
       },

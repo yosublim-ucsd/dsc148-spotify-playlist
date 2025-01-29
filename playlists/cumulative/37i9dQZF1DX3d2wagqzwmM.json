@@ -403,6 +403,32 @@
     },
     {
       "album": {
+        "name": "Answer The Phone",
+        "url": "https://open.spotify.com/album/7e2EB2MwutUU0yFApeUPvT"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Mark Sixma",
+          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
+        },
+        {
+          "name": "Michael Parker",
+          "url": "https://open.spotify.com/artist/4Pt8SOQa9s8qftzbBPPC76"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157016,
+      "name": "Answer The Phone",
+      "url": "https://open.spotify.com/track/0jY4DlyVmwz0ql7UqYk5n4"
+    },
+    {
+      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/39DFgihpiauLPgVncx2g4J"
       },
@@ -896,7 +922,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 179888,
       "name": "Beautiful Life - Faustix RMX",
       "url": "https://open.spotify.com/track/27r1J3SrSwVoRHIcb5FdIh"
@@ -974,6 +1000,28 @@
       "duration_ms": 174347,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3KckvunLh7ppfXqzl0P8AT"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6ynBCRtz2f2HHh3RJZsgAp"
+      },
+      "artists": [
+        {
+          "name": "R3SPAWN",
+          "url": "https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB"
+        },
+        {
+          "name": "DJ Junior (TW)",
+          "url": "https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/3CKIWKgDVHOURcDLizLVpa"
     },
     {
       "album": {
@@ -2452,7 +2500,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 183000,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/25FHIFGpiG9xyh2bFyaKwR"
@@ -2912,7 +2960,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 142531,
       "name": "Everything",
       "url": "https://open.spotify.com/track/5rMdkUncqN8Ge7FfsuQdY6"
@@ -3094,7 +3142,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 261825,
       "name": "Fast Moving",
       "url": "https://open.spotify.com/track/2lMCEetyocuK0NW4hwReV6"
@@ -4302,6 +4350,28 @@
     {
       "album": {
         "name": "Here For You",
+        "url": "https://open.spotify.com/album/65ufEqgIXD8A6JcPEQsP1Q"
+      },
+      "artists": [
+        {
+          "name": "Linka",
+          "url": "https://open.spotify.com/artist/4wiFBUvu3Vqn8gZpY81szc"
+        },
+        {
+          "name": "Gregor Potter",
+          "url": "https://open.spotify.com/artist/3QgGgYrGPyaHh4n1d65Ukd"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160985,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/12DLTLX0XRcxbCFHfM8t9U"
+    },
+    {
+      "album": {
+        "name": "Here For You",
         "url": "https://open.spotify.com/album/5hTj9b6fi06IiQCtwpIUOi"
       },
       "artists": [
@@ -4710,7 +4780,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 198571,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/005Tc9RHU1uHpjutQrXrk7"
@@ -4998,6 +5068,24 @@
       "duration_ms": 146250,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/0QFKNWVDzx68m98IMDSxyY"
+    },
+    {
+      "album": {
+        "name": "Kernkraft 400",
+        "url": "https://open.spotify.com/album/2SWDnlGPhjI7gGIm8oynie"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217241,
+      "name": "Kernkraft 400",
+      "url": "https://open.spotify.com/track/1bN8jDJ4QqgXm0lttHv35v"
     },
     {
       "album": {
@@ -5324,6 +5412,32 @@
       "duration_ms": 167460,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/4w9CVTUWqTA3HwMzQJ1iml"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/7J61Uu0AG8bKc3hW2QkUse"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Maynamic",
+          "url": "https://open.spotify.com/artist/59tEd7UdrbizecKsQGcSAL"
+        },
+        {
+          "name": "Edd Blaze",
+          "url": "https://open.spotify.com/artist/3cySvdUfWyFpkVC5pVD5wb"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150454,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0LBGk4xW093mDP7u1nVAdt"
     },
     {
       "album": {
@@ -6889,6 +7003,24 @@
     },
     {
       "album": {
+        "name": "OIIA OIIA (Spinning Cat)",
+        "url": "https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "OIIA OIIA (Spinning Cat)",
+      "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
+    },
+    {
+      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/6YuBMPHdINEax8Te6XxtnH"
       },
@@ -8194,7 +8326,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 170307,
       "name": "Renegade Master",
       "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
@@ -9264,6 +9396,24 @@
       "duration_ms": 164062,
       "name": "Sound Of The Underground",
       "url": "https://open.spotify.com/track/5ydM92jw4MF8qt5Hzwi4wX"
+    },
+    {
+      "album": {
+        "name": "Sound of the Underground",
+        "url": "https://open.spotify.com/album/6BPNER5Jea0HNq4tqqGWXt"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "Sound of the Underground",
+      "url": "https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a"
     },
     {
       "album": {
@@ -11178,7 +11328,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 194500,
       "name": "War Is Coming - Adryx-G Remix",
       "url": "https://open.spotify.com/track/1NzefGWURi0iL7E4yz9qn9"

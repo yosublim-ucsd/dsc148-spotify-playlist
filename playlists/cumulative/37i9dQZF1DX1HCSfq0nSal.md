@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Morad, Rels B, Rvfv
 
-703 songs - 1 day 14 hr 54 min
+704 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [38](https://open.spotify.com/track/2LqIOz2Etck4ihJLBRGE0d) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Biwan La Pauta](https://open.spotify.com/artist/2gVPhMOFpW3p95EigvSJXI), [Pedro Calderon](https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh) | [38](https://open.spotify.com/album/1JEMQtX0pAFIkO88vQe0Wb) | 2:58 | 2024-02-23 | 2024-03-15 |
 | [3D](https://open.spotify.com/track/6AddEFczaiz7MraQxrOHNT) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [3D](https://open.spotify.com/album/1I4KyAYrYUQO4n644l0qqp) | 2:57 | 2024-07-12 | 2024-08-09 |
 | [4 PREZ](https://open.spotify.com/track/5KI2PiYrNnVhj4PQ3kqMjr) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [4 PREZ](https://open.spotify.com/album/2Blh4kM0W8RddcJojwSlll) | 2:29 | 2023-05-16 | 2023-06-24 |
+| [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 | 2025-01-28 |  |
 | [58](https://open.spotify.com/track/47hrwb3PwrrZOp9UqaZgcZ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 4:47 | 2024-09-06 | 2024-10-11 |
 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 | 2023-05-22 | 2023-06-29 |
 | [6PM EN MALLORCA](https://open.spotify.com/track/24k6OwxLtnJX0UaC4j5O8W) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [6PM EN MALLORCA](https://open.spotify.com/album/0TFsABRaWVVS30lrRnD3Un) | 2:24 | 2023-08-01 | 2023-08-22 |
@@ -616,7 +617,7 @@
 | [Te Colaboro](https://open.spotify.com/track/2ja1QIx9ZkqAMteiqfvvcA) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Te Colaboro](https://open.spotify.com/album/0namOwyHHQdPSL04R7b6V7) | 3:36 | 2024-03-22 | 2024-04-05 |
 | [Te Gusta](https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 3:20 | 2023-01-17 | 2023-03-18 |
 | [Te Menti](https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Te Menti](https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl) | 3:07 | 2023-09-18 | 2023-10-20 |
-| [Te Regalo](https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC) | [Te Regalo](https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO) | 2:27 | 2024-12-09 |  |
+| [Te Regalo](https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC) | [Te Regalo](https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO) | 2:27 | 2024-12-09 | 2025-01-29 |
 | [Tendencia Global](https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Tendencia Global](https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk) | 3:54 | 2022-03-18 | 2022-05-27 |
 | [Textos Fríos](https://open.spotify.com/track/0aTmQfJO43j5wC0pDzWuEI) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Música Buena Para Días Malos](https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG) | 4:18 | 2024-04-29 | 2024-06-22 |
 | [Thalía](https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Thalía](https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og) | 3:03 | 2024-03-08 | 2024-04-23 |

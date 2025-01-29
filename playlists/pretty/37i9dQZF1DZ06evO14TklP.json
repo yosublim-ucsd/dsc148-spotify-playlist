@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 11252,
+  "num_followers": 11281,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABJpwYMdp1Kwuvhu3qX93Mg",
+  "snapshot_id": "Z5bMgAAAAAB61kfHIoRhjRI+ISBbIlY/",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PADRIM",
+        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
+      },
+      "artists": [
+        {
+          "name": "FBC",
+          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "CONFIO",
+      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EU GOSTO DE GAROTAS",
         "url": "https://open.spotify.com/album/6pR1Ki8v3x7jPXbSFqRmAU"
       },
@@ -483,30 +507,6 @@
       "duration_ms": 175748,
       "name": "CAMISA 10",
       "url": "https://open.spotify.com/track/2mZcF2Nfx3bG4cEognxsuz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PADRIM",
-        "url": "https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC"
-      },
-      "artists": [
-        {
-          "name": "FBC",
-          "url": "https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "CONFIO",
-      "url": "https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN"
     },
     {
       "added_at": null,
@@ -903,22 +903,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+        "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+        "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
       },
       "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+          "name": "CRIVO",
+          "url": "https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe"
         }
       ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
+      "duration_ms": 181714,
+      "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+      "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
     },
     {
       "added_at": null,
@@ -947,30 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
-        "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
       },
       "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Xaga",
-          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
-        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "CRIVO",
-          "url": "https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe"
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
-      "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,
@@ -1063,26 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temporary Lover",
-        "url": "https://open.spotify.com/album/6ZHopj9rFD6Hz6tCluHnFW"
-      },
-      "artists": [
-        {
-          "name": "Adrian Jean",
-          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 231367,
-      "name": "Temporary Lover",
-      "url": "https://open.spotify.com/track/2VERl2PyQuLQdz0iteB4NO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fresh Freestyle",
         "url": "https://open.spotify.com/album/3Jh4xQPfR5azQKd536afSV"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 163403,
       "name": "Fresh Freestyle",
       "url": "https://open.spotify.com/track/1yRHonnmAUQTa6gEEa10s2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Temporary Lover",
+        "url": "https://open.spotify.com/album/6ZHopj9rFD6Hz6tCluHnFW"
+      },
+      "artists": [
+        {
+          "name": "Adrian Jean",
+          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 231367,
+      "name": "Temporary Lover",
+      "url": "https://open.spotify.com/track/2VERl2PyQuLQdz0iteB4NO"
     },
     {
       "added_at": null,

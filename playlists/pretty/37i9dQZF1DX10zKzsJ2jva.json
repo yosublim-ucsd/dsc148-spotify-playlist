@@ -1,12 +1,12 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Neton Vega",
-  "num_followers": 15447171,
+  "num_followers": 15448849,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeiAAAAADJUbE1321q/Tfbn8umOqzX",
+  "snapshot_id": "Z5kIjQAAAABr+iNqO73vDq/jDXK7QR4S",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:56",
@@ -251,26 +251,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Imag\u00ednate",
-        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 170365,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "miau",
         "url": "https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg"
       },
@@ -395,30 +375,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "MIRAME REMIX",
-        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "MIRAME REMIX",
-      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Pika Pika",
         "url": "https://open.spotify.com/album/6gBAfpYNwF9cuUE5uKqegt"
       },
@@ -499,6 +455,26 @@
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -619,6 +595,30 @@
       "duration_ms": 163750,
       "name": "Mami T\u00fa",
       "url": "https://open.spotify.com/track/4jhDnHwl6llj46pzUuaON3"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "MIRAME REMIX",
+        "url": "https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "MIRAME REMIX",
+      "url": "https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU"
     },
     {
       "added_at": "2025-01-24 05:00:56",

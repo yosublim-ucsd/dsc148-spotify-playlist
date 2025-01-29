@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,841 likes - 295 songs - 18 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,842 likes - 295 songs - 18 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,8 +190,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 180 | [Best Friend](https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Best Friend](https://open.spotify.com/album/3tFee3xnJ2I9vWAmAEC93x) | 2:35 |
 | 181 | [Chills](https://open.spotify.com/track/0BtWu5QzPWkFMP2RPSoUfr) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Party For Your Life](https://open.spotify.com/album/0BKvOwxCCIYAEL7XLNBAfW) | 3:28 |
 | 182 | [Guns and Roses \(feat\. P!nk\)](https://open.spotify.com/track/0IK8i6kTkS9TKhP1YM6I5a) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 4:28 |
-| 183 | [Buyou](https://open.spotify.com/track/4d7HyOmNEpi55uv96g4Iyt) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 4:19 |
-| 184 | [Condone It](https://open.spotify.com/track/5iG5cxNN8um3C4b4rDAWl8) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:00 |
+| 183 | [Condone It](https://open.spotify.com/track/5iG5cxNN8um3C4b4rDAWl8) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 3:00 |
+| 184 | [Buyou](https://open.spotify.com/track/4d7HyOmNEpi55uv96g4Iyt) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 4:19 |
 | 185 | [Luchas Mentales](https://open.spotify.com/track/1f70ywNtUyw4VgckqXeuOv) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:46 |
 | 186 | [paid my dues \(feat\. Takeoff\)](https://open.spotify.com/track/61TWTSHcrFVgaRr6U4MKBs) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:42 |
 | 187 | [Fuckin' up the Count](https://open.spotify.com/track/19qoXk7V1Fs3BV5MkCOaA9) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Shadow of a Doubt](https://open.spotify.com/album/41zRghNRGMG6l8dYtRp3iI) | 3:21 |
@@ -229,8 +229,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 219 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
 | 220 | [Literally](https://open.spotify.com/track/7sNL6nRdkkLT7tyzRcgExG) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 5:34 |
 | 221 | [Bish Bounce](https://open.spotify.com/track/20HlDD6s3Twz0cslCXUxZJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:59 |
-| 222 | [FEED](https://open.spotify.com/track/2UnYYdvyWndHU4yPdoyAtZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:02 |
-| 223 | [Lil Nigga Snupe](https://open.spotify.com/track/6sozeIaS4AlmDGhAjnZAib) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreamchasers 3](https://open.spotify.com/album/5k21b6J72f19J3NmPXgPUu) | 3:27 |
+| 222 | [Lil Nigga Snupe](https://open.spotify.com/track/6sozeIaS4AlmDGhAjnZAib) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreamchasers 3](https://open.spotify.com/album/5k21b6J72f19J3NmPXgPUu) | 3:27 |
+| 223 | [FEED](https://open.spotify.com/track/2UnYYdvyWndHU4yPdoyAtZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:02 |
 | 224 | [BLAME IT ON SET](https://open.spotify.com/track/1IbxylXUqdrkToPnGoUUQV) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:58 |
 | 225 | [Tweaking \(feat\. Vory\)](https://open.spotify.com/track/0OOQ6JTTFaWIoUWc6r33w4) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:17 |
 | 226 | [Space Rabbit](https://open.spotify.com/track/3Jez7g0MbMXh8jhkxW1uSo) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:58 |
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 294 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 295 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AboBDAAAAABEJldodV5BYZURVR9ncP0/`
+Snapshot ID: `AboG3gAAAAAUKcu8HRvKoIm6+87aVa0A`

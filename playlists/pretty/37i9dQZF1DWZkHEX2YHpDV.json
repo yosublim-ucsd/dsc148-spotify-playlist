@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Anxious",
-  "num_followers": 460309,
+  "num_followers": 460334,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "GODDAMNITALL",
+        "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 196301,
+      "name": "GODDAMNITALL",
+      "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Final Nail (with Charlotte Sands)",
         "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 150404,
       "name": "Final Nail (with Charlotte Sands)",
       "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "GODDAMNITALL",
-        "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 196301,
-      "name": "GODDAMNITALL",
-      "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
+      },
+      "artists": [
+        {
+          "name": "Rozei",
+          "url": "https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 156673,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Spiral In A Straight Line",
         "url": "https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 172604,
       "name": "WHAT THE HELL",
       "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Cigarettes",
-        "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
-      },
-      "artists": [
-        {
-          "name": "Rozei",
-          "url": "https://open.spotify.com/artist/4KDCtEFisBruCfqakuV4PZ"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 156673,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
-      },
-      "artists": [
-        {
-          "name": "John Harvie",
-          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Machines",
         "url": "https://open.spotify.com/album/1erZ8PIF7ZCeC3uBKhZwCT"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 246798,
       "name": "Machines",
       "url": "https://open.spotify.com/track/12wkU3vVGrvQzp4wQcL3mL"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
+      },
+      "artists": [
+        {
+          "name": "John Harvie",
+          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1PEGf8YJnr7wSxkISJvkvf"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 201532,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6vb6dZnI78LNQpLIPXtSxE"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Stop Talking",
         "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 200883,
       "name": "Stop Talking",
       "url": "https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1PEGf8YJnr7wSxkISJvkvf"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 201532,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6vb6dZnI78LNQpLIPXtSxE"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "SOULSUCKER",
         "url": "https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 146620,
       "name": "SOULSUCKER",
       "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Kept Me Alive",
-        "url": "https://open.spotify.com/album/5LxODVOGMuaLrep0RAGmWs"
-      },
-      "artists": [
-        {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
-        }
-      ],
-      "duration_ms": 177083,
-      "name": "Kept Me Alive",
-      "url": "https://open.spotify.com/track/1tmOC0PqokvkmDcPVt3K0r"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Kept Me Alive",
+        "url": "https://open.spotify.com/album/5LxODVOGMuaLrep0RAGmWs"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "duration_ms": 177083,
+      "name": "Kept Me Alive",
+      "url": "https://open.spotify.com/track/1tmOC0PqokvkmDcPVt3K0r"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu"
+        "name": "PIN-EYE",
+        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
       },
       "artists": [
         {
-          "name": "Brooklane",
-          "url": "https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW"
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
         }
       ],
-      "duration_ms": 157376,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/352rVkzjhMmzhivUPghajg"
+      "duration_ms": 272668,
+      "name": "PIN-EYE",
+      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "PIN-EYE",
-        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/60IGbp8jEh7hiknYc9cCdu"
       },
       "artists": [
         {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+          "name": "Brooklane",
+          "url": "https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW"
         }
       ],
-      "duration_ms": 272668,
-      "name": "PIN-EYE",
-      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+      "duration_ms": 157376,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/352rVkzjhMmzhivUPghajg"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Heart of Thorns",
+        "url": "https://open.spotify.com/album/4WxEFzNhrbfQYCT9wshwSV"
+      },
+      "artists": [
+        {
+          "name": "Jager Henry",
+          "url": "https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn"
+        },
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        }
+      ],
+      "duration_ms": 217231,
+      "name": "Heart of Thorns",
+      "url": "https://open.spotify.com/track/3VjAelnD2pD7CI2OOlDWUK"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Bored of Being Sad",
         "url": "https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT"
       },
@@ -1755,42 +1775,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "I Think It's Time",
-        "url": "https://open.spotify.com/album/67tdElpNSPRUFXHX5EFj8d"
-      },
-      "artists": [
-        {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "I Think It's Time",
-      "url": "https://open.spotify.com/track/2CkFgrKRdVym1Y1UZPawqq"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Heart of Thorns",
-        "url": "https://open.spotify.com/album/4WxEFzNhrbfQYCT9wshwSV"
-      },
-      "artists": [
-        {
-          "name": "Jager Henry",
-          "url": "https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn"
-        },
-        {
-          "name": "LiL Lotus",
-          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
-        }
-      ],
-      "duration_ms": 217231,
-      "name": "Heart of Thorns",
-      "url": "https://open.spotify.com/track/3VjAelnD2pD7CI2OOlDWUK"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Halloween Mixtape II",
         "url": "https://open.spotify.com/album/11K5RRCKRsn5RCYWBNniD5"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 191539,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/0ROIqKhl27uiOHlNZZV4XQ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "I Think It's Time",
+        "url": "https://open.spotify.com/album/67tdElpNSPRUFXHX5EFj8d"
+      },
+      "artists": [
+        {
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "I Think It's Time",
+      "url": "https://open.spotify.com/track/2CkFgrKRdVym1Y1UZPawqq"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "You'll Get Nothing and Like It",
-        "url": "https://open.spotify.com/album/1ByEzlphT62gPQ6fsO9Mf4"
-      },
-      "artists": [
-        {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
-        }
-      ],
-      "duration_ms": 112833,
-      "name": "You'll Get Nothing and Like It",
-      "url": "https://open.spotify.com/track/5Fb1ZtrV0mTKzy2RhzPP7I"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "American Psycho",
         "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
       },
@@ -2031,6 +2015,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "You'll Get Nothing and Like It",
+        "url": "https://open.spotify.com/album/1ByEzlphT62gPQ6fsO9Mf4"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "duration_ms": 112833,
+      "name": "You'll Get Nothing and Like It",
+      "url": "https://open.spotify.com/track/5Fb1ZtrV0mTKzy2RhzPP7I"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Absolute Bloom",
         "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
       },
@@ -2043,26 +2043,6 @@
       "duration_ms": 205628,
       "name": "Absolute Bloom",
       "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Don't Listen To My Voicemail",
-        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
-      },
-      "artists": [
-        {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 178432,
-      "name": "Don't Listen To My Voicemail",
-      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -2099,6 +2079,26 @@
       "duration_ms": 181173,
       "name": "Say So Long",
       "url": "https://open.spotify.com/track/45COGBQ3UpoYp7Sru6TCIz"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Don't Listen To My Voicemail",
+        "url": "https://open.spotify.com/album/76zdzOD8AliMDpch3KUtg3"
+      },
+      "artists": [
+        {
+          "name": "Your Broken Hero",
+          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 178432,
+      "name": "Don't Listen To My Voicemail",
+      "url": "https://open.spotify.com/track/2n3GSvKOeHl2hp2htjjHh9"
     },
     {
       "added_at": "2024-12-06 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 287672,
+  "num_followers": 287822,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACNIT6fwTmbLO/3kTKkobtK",
+  "snapshot_id": "Z5bMgAAAAADCeYE//OXiGy+96TBliKgT",
   "tracks": [
     {
       "added_at": null,
@@ -987,6 +987,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tudo do Melhor",
         "url": "https://open.spotify.com/album/0AFvUWJbsl049V5M6De4bk"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 273008,
       "name": "Tudo do Melhor",
       "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
     },
     {
       "added_at": null,

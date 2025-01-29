@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 810730,
+  "num_followers": 810720,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "I Like Me Better",
         "url": "https://open.spotify.com/album/4iNcyb5KYzejr9t5OROcFw"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Still Haven't Found Found What I'm Looking For",
-        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
-      },
-      "artists": [
-        {
-          "name": "Raye Mills",
-          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
-        }
-      ],
-      "duration_ms": 253686,
-      "name": "I Still Haven't Found Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sunday Best (Acoustic Version)",
         "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "I Still Haven't Found Found What I'm Looking For",
+        "url": "https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3"
+      },
+      "artists": [
+        {
+          "name": "Raye Mills",
+          "url": "https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe"
+        }
+      ],
+      "duration_ms": 253686,
+      "name": "I Still Haven't Found Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Chantaje",
         "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 207431,
       "name": "Chantaje",
       "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Cabeza de le\u00f3n",
         "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
       },
       "artists": [
         {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
         }
       ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2024-06-27 18:23:04",
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+        "name": "Sweet but Psycho",
+        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
       "artists": [
         {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+          "name": "Parker Jenkins",
+          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
         }
       ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
+      "duration_ms": 188712,
+      "name": "Sweet but Psycho - Acoustic",
+      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1699,18 +1715,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sweet but Psycho",
-        "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
+        "name": "Saturday Nights",
+        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
       },
       "artists": [
         {
-          "name": "Parker Jenkins",
-          "url": "https://open.spotify.com/artist/7tWORed2e6L4nzFezvRPOI"
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
         }
       ],
-      "duration_ms": 188712,
-      "name": "Sweet but Psycho - Acoustic",
-      "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
+      "duration_ms": 178852,
+      "name": "Saturday Nights",
+      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1731,22 +1747,6 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Saturday Nights",
-        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 178852,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Never Leave You",
-        "url": "https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN"
-      },
-      "artists": [
-        {
-          "name": "Sterre Weldring",
-          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
-        }
-      ],
-      "duration_ms": 207745,
-      "name": "Never Leave You",
-      "url": "https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6oRie5UdfiDPjd7t4od18I"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 205762,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1pR68GqUGbbH6aogiIgjHL"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Never Leave You",
+        "url": "https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN"
+      },
+      "artists": [
+        {
+          "name": "Sterre Weldring",
+          "url": "https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL"
+        }
+      ],
+      "duration_ms": 207745,
+      "name": "Never Leave You",
+      "url": "https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
-      },
-      "artists": [
-        {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Acoustic Visions",
         "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 228922,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2283,8 +2283,8 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
       },
       "artists": [
         {
@@ -2292,9 +2292,9 @@
           "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
         }
       ],
-      "duration_ms": 125895,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
+      "duration_ms": 210912,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2311,22 +2311,6 @@
       "duration_ms": 206584,
       "name": "Never My Love",
       "url": "https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I"
-    },
-    {
-      "added_at": "2024-08-26 18:16:09",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT"
-      },
-      "artists": [
-        {
-          "name": "Nat\u00e1le",
-          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2377,10 +2361,26 @@
       "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
     },
     {
+      "added_at": "2024-08-26 18:16:09",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1le",
+          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
+    },
+    {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
       },
       "artists": [
         {
@@ -2388,9 +2388,9 @@
           "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
         }
       ],
-      "duration_ms": 210912,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
+      "duration_ms": 125895,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6Qa0pmGUAcl2TA0ZD3b448"
     },
     {
       "added_at": "2023-06-09 14:25:05",

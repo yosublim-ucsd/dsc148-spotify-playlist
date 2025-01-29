@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,314 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,517 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 52 | [Hasta siempre](https://open.spotify.com/track/4f131ZKqnk9SudTFYcnJU7) | [Soledad Bravo](https://open.spotify.com/artist/6wrOOWIlmDTI9G5MSpAuh2) | [Cantos revolucionarios de america latina](https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k) | 4:30 |
 | 53 | [El Barzón](https://open.spotify.com/track/7M4mRIorxuEm0lV27cuOii) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Mostros](https://open.spotify.com/album/4gcc4CQKB7Dttr8bMkhhjA) | 4:26 |
 | 54 | [Somos Sur](https://open.spotify.com/track/7Ke2pX91o8sYw220ZY0whv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Shadia Mansour](https://open.spotify.com/artist/3PaRWHJX1nnmN4kffMGm93) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:46 |
-| 55 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
-| 56 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
+| 55 | [Mujeres](https://open.spotify.com/track/0PELaQWHo1MA89JH4lHyRj) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Mujeres](https://open.spotify.com/album/3NOtXGgprgAE7XcyimuA6P) | 3:35 |
+| 56 | [Zopilotes](https://open.spotify.com/track/4cc2vkj6pzguv9wIw5ncAk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [El Objeto Antes Llamado Disco](https://open.spotify.com/album/2qbDaaW7eJ42FByw7pQkZQ) | 4:33 |
 | 57 | [La Muralla](https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [La Nueva Cancion Chilena, Vol\. 1](https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI) | 4:39 |
 | 58 | [Los desaparecidos](https://open.spotify.com/track/5kRPQMhi3LaYuDVy4DPi3b) | [Sergent Garcia](https://open.spotify.com/artist/6FaSJ1FXpb5QxKu77LPiZr) | [Sin Fronteras](https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz) | 7:36 |
 | 59 | [El Mundo Que Nos Tocó Vivir](https://open.spotify.com/track/1KEi9GBOe3bXTj1WGM282v) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Funkybarítico Hedónico Fantástico](https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL) | 4:00 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 80 | [Plegaria A Un Labrador](https://open.spotify.com/track/6RrcBK5hXE6q11tkjbdQ4Z) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [20 Grandes Exitos](https://open.spotify.com/album/0y9Oz2HQSp0zUEcHN0TguN) | 3:13 |
 | 81 | [Balada Del Asalariado](https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:16 |
 | 82 | [Todavia Cantamos](https://open.spotify.com/track/1TenrgmXbei6eyBQQdcnYK) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X) | [Gieco Y Heredia En Vivo](https://open.spotify.com/album/3DJPYHm866uKwVGciRggY3) | 3:46 |
-| 83 | [La Casita](https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 7:10 |
-| 84 | [Verte Regresar](https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06), [Paulina Lasa](https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [De Vuelta a Casa: Ayotzinapa Somos Todxs](https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx) | 3:02 |
+| 83 | [Verte Regresar](https://open.spotify.com/track/1Bkjsd1xAsXd2aUcfgSAns) | [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06), [Paulina Lasa](https://open.spotify.com/artist/1FGlGdkJCdp7XbeZfnigMo), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [De Vuelta a Casa: Ayotzinapa Somos Todxs](https://open.spotify.com/album/3qx8RpeMgbrukkOSRwoLPx) | 3:02 |
+| 84 | [La Casita](https://open.spotify.com/track/7cT1pgrHFuUBgBEzvefusg) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Oscar Chávez / La Más Completa Colección](https://open.spotify.com/album/47J1O0MfeIVexX6SpIoAFv) | 7:10 |
 | 85 | [Canción De Alicia En El País \- En Vivo](https://open.spotify.com/track/26RdRBgT6NBI3higAhwUfU) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Yo No Quiero Volverme Tan Loco \(En Vivo\)](https://open.spotify.com/album/3w5AZnbgckUFu8kcH79DAr) | 4:17 |
 | 86 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 | 87 | [Promesas y Perdones](https://open.spotify.com/track/5frSqRBs5NdRrjoZSCUUX7) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Split](https://open.spotify.com/album/378dF8Ci1JMWc8J3yf0vf1) | 3:40 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 97 | [Rico el País](https://open.spotify.com/track/7smmyQa9tnBfPAYqqPn06Q) | [Claudio Narea](https://open.spotify.com/artist/5CjS7mlKNA0G9mTLr1oOnV) | [El Largo Camino al Éxito](https://open.spotify.com/album/0eeWzoH8FtW0mPiRfVX09B) | 3:43 |
 | 98 | [Allende Vive \(Y Yo Se Donde\)](https://open.spotify.com/track/4vO6EVjidsnB2llQBWiMZv) | [Jorge González](https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG) | [Mi Destino \(Confesiones de Una Estrella del Rock\)](https://open.spotify.com/album/6pyJGoLdGE5v0yYKAbWgWz) | 6:31 |
 | 99 | [5 Malparidos](https://open.spotify.com/track/3utheouYKf2SEbo3mpeaBv) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:44 |
-| 100 | [Bandera](https://open.spotify.com/track/1ux8AW7eyqjbSNEZHLjz8d) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Rio](https://open.spotify.com/album/1il55HVMuXthlY1MYH1r7e) | 2:37 |
+| 100 | [Nada Es Verdad \(Finale\) / Spoken Words](https://open.spotify.com/track/0WJY4uPMOZZtpKWW6cxr99) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Un Canto por México \- El Musical](https://open.spotify.com/album/5KgUgn1TWwmPjAqX69XaFD) | 1:54 |
 
 Snapshot ID: `Z382vAAAAABdqbA4+t+wSuZjb5LO6Amv`

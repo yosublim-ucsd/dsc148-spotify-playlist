@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dancefloor \| SoundCloud mix series: Bassline Therapy Radio
 
-517 songs - 1 day 3 hr 7 min
+518 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [MY TYPE](https://open.spotify.com/track/0NEgkALTriBpIiuCAXWfuS) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [MY TYPE](https://open.spotify.com/album/0QzG8T7TedFy2nt1B2ZNAK) | 2:18 | 2024-12-16 |  |
 | [Mystic](https://open.spotify.com/track/44r9A7X8akUCR9LYmEs6RM) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 4:05 | 2024-12-19 | 2024-12-21 |
 | [Nasty](https://open.spotify.com/track/5Nl0ItwBPIHI4veRFJUoZH) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Nasty](https://open.spotify.com/album/49W2Pw7Ar8pu0Gq9g6Jpu6) | 3:19 | 2024-10-19 | 2025-01-13 |
-| [NASTY](https://open.spotify.com/track/09rdtmzo1R9vmlJhmD3Nbp) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [Fya Man](https://open.spotify.com/artist/644ezI82brXn85lO9kI6ab) | [NASTY](https://open.spotify.com/album/6K2vReL8woto0ZMhUF1P0B) | 2:50 | 2024-11-04 |  |
+| [NASTY](https://open.spotify.com/track/09rdtmzo1R9vmlJhmD3Nbp) | [Jake Shore](https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA), [Fya Man](https://open.spotify.com/artist/644ezI82brXn85lO9kI6ab) | [NASTY](https://open.spotify.com/album/6K2vReL8woto0ZMhUF1P0B) | 2:50 | 2024-11-04 | 2025-01-29 |
 | [Nasty Sh!T](https://open.spotify.com/track/4YjSVUUgIOim8IDe6IsQyp) | [Curlyheads](https://open.spotify.com/artist/1jPQ8rMD8Yd8tRh48ortFZ) | [Nasty Sh!T](https://open.spotify.com/album/1XUO844eqBCitExHkOJAgk) | 3:37 | 2024-02-05 | 2024-06-24 |
 | [Naughty Sax](https://open.spotify.com/track/0tIZdfCSOK2isSINnEgC4a) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Late Night Talks](https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk) | 2:46 | 2024-12-09 |  |
 | [Needle On The Record](https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Needle On The Record](https://open.spotify.com/album/7E0q2fAykseBKfLY7X53jJ) | 3:06 | 2024-01-08 | 2024-01-22 |
@@ -396,6 +396,7 @@
 | [Shaka](https://open.spotify.com/track/4JjsTeJOcfvpj5t3IJijXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Discothèque Records Vol\. 5](https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI) | 2:33 | 2024-10-05 | 2024-11-19 |
 | [Shake](https://open.spotify.com/track/4wogoDBPSDqJRTxW96O9AG) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Shake](https://open.spotify.com/album/4QEBZvjI7TVin8YWse5oxN) | 3:08 | 2024-01-08 | 2024-01-22 |
 | [Shake It](https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Shake It](https://open.spotify.com/album/1O4lERAS7dRSaJkV3zN1mM) | 2:55 | 2024-08-19 | 2024-09-05 |
+| [Shake That](https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB) | [Icarix](https://open.spotify.com/artist/0MxIuhSYO3ek7VTPsOcbcr) | [Shake That](https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9) | 2:41 | 2025-01-29 |  |
 | [Shake What Yo Mama](https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Shake What Yo Mama](https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB) | 3:13 | 2024-02-13 | 2024-06-24 |
 | [Shapeshifter](https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Shapeshifter](https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM) | 3:10 | 2024-09-16 | 2024-11-05 |
 | [She Wanna Party](https://open.spotify.com/track/1mDAHqZES8gNScg0NlDZcn) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [See You Dance EP](https://open.spotify.com/album/50ByWZGBKJf4KMznk0gIox) | 6:54 | 2024-12-29 |  |

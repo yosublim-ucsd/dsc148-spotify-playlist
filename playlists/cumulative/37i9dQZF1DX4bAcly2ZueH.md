@@ -4,13 +4,14 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-181 songs - 9 hr 26 min
+182 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7\(inst\)](https://open.spotify.com/track/7DAYKQaoiG4EdHeVhaXpr8) | [shai](https://open.spotify.com/artist/2s1boYFNVi9Hx2waX6LLWP) | [24/7\(inst\)](https://open.spotify.com/album/0wJjzXVYFy8jRoUumVOaV9) | 2:21 | 2024-11-20 |  |
 | [A Deeper Understanding](https://open.spotify.com/track/3mkvXHxUGTiuEwQvHZ3vW0) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Miniature Existence](https://open.spotify.com/album/0pLL3CDKtVR7Tb0wX6d9ZT) | 2:41 | 2022-10-11 | 2023-02-15 |
 | [A Deeper Understanding](https://open.spotify.com/track/6BVt6hi3Z7IE2h3bElR6rG) | [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [A Deeper Understanding](https://open.spotify.com/album/4ZInQdWGYfbZJvXnDcx2te) | 2:41 | 2022-10-11 | 2022-11-13 |
+| [A Part Of Me](https://open.spotify.com/track/7oIvBYbS12GF2JBrAH9UMA) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [A Part Of Me](https://open.spotify.com/album/0dLI1kHm9QuFxv5QLEBFNZ) | 2:46 | 2025-01-29 |  |
 | [All the Way](https://open.spotify.com/track/4OPXzKlS84fnRcZI3Kv5S6) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 3:55 | 2022-10-11 | 2023-07-12 |
 | [arne](https://open.spotify.com/track/2EbOv3Xq9fnqhIUSxqZgRG) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Schole Collection I](https://open.spotify.com/album/66Hod8g4yngCwSwd7HFGOS) | 3:35 | 2024-03-05 | 2024-07-18 |
 | [arne](https://open.spotify.com/track/7eq7fc6tWLEGpsagJozBY2) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Schole Collection I](https://open.spotify.com/album/20qYMxPGgww0RK99l7d5Gr) | 3:35 | 2022-10-11 | 2022-11-14 |
@@ -39,7 +40,7 @@
 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 | 2023-02-14 |  |
 | [Day Trip](https://open.spotify.com/track/3hrqbiVTLD6L0Q7MhPOmBr) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:17 | 2022-10-11 | 2024-04-19 |
 | [Day Trip](https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Day Trip](https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W) | 2:17 | 2024-03-05 |  |
-| [Daybreak](https://open.spotify.com/track/0pdCW0sYvYdC4GFdFENQ1E) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/5iRvrRfL009SzrwF1gW8eZ) | 3:28 | 2024-03-05 |  |
+| [Daybreak](https://open.spotify.com/track/0pdCW0sYvYdC4GFdFENQ1E) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/5iRvrRfL009SzrwF1gW8eZ) | 3:28 | 2024-03-05 | 2025-01-29 |
 | [Daybreak](https://open.spotify.com/track/5PMMr9QcrnOWf6ZHxYwMrt) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/3KoIxalt9ie7Kmfy2aFK0K) | 3:28 | 2022-10-11 | 2024-04-19 |
 | [Daylight Blows into One Door](https://open.spotify.com/track/3Vby3xFI5eRyCPWcxYs8Re) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Daylight Blows into One Door](https://open.spotify.com/album/1tLvlUp7uEBV9U1KaKQhr6) | 3:28 | 2024-03-05 |  |
 | [Daylight Blows into One Door](https://open.spotify.com/track/4UUK97XIT1y1TyBLgVi6Xc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:28 | 2022-10-11 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,977 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,056 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 22 | [Pelinegra](https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pelinegra](https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK) | 3:37 |
 | 23 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
 | 24 | [Caballero](https://open.spotify.com/track/0uVVQdgUSUPNYXhcmwBOv4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:29 |
-| 25 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL) | 3:23 |
-| 26 | [No Es Mía](https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY) | 3:08 |
+| 25 | [No Es Mía](https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY) | 3:08 |
+| 26 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL) | 3:23 |
 | 27 | [Déjame en Paz](https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 5:13 |
 | 28 | [Me Dañas Por Deporte](https://open.spotify.com/track/4uSVVolWZ9VtprCYJSgVmG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 2:40 |
 | 29 | [Verte Cerquita](https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Sobre el Aire](https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T) | 3:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 50 | [En Lo Malo Me Va Bien](https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [¿Cómo Terminamos Aquí?](https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe) | 4:01 |
 | 51 | [No Se Sobrepase](https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:03 |
 
-Snapshot ID: `Z5V7AAAAAAChW8vgVOT2vnFJfTnM4R+N`
+Snapshot ID: `Z5bMgAAAAADPfj6F0Dfska3DYw5UFrAv`

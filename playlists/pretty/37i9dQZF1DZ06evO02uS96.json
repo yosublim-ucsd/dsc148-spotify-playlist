@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 165928,
+  "num_followers": 165934,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAADfGbEEvcuWJce6TVFIa3NW",
+  "snapshot_id": "Z5bMgAAAAACgwvCN2lxXXrUPW8W50vBL",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9065\u304b",
-        "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 191047,
-      "name": "\u9065\u304b",
-      "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
         "url": "https://open.spotify.com/album/47iFTH6dUkGoRpWRyjgRWv"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 245038,
       "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9065\u304b",
+        "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "\u9065\u304b",
+      "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Black Bird",
-      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 371426,
-      "name": "\u82b1\u306e\u5504",
-      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+      "duration_ms": 227200,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8776\u3005\u7d50\u3073",
-        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 302960,
-      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
-      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 281560,
       "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
       "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8776\u3005\u7d50\u3073",
+        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 302960,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
     },
     {
       "added_at": null,

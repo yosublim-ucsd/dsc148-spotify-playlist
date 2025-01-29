@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3NhlMhDst2O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3NhlMhDst2O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3NhlMhDst2O)
 
-### [Navidad Sin Ti](https://open.spotify.com/playlist/37i9dQZF1DX3NhlMhDst2O)
+### [Sonidos del Ayer](https://open.spotify.com/playlist/37i9dQZF1DX3NhlMhDst2O)
 
-> otro año ya se ha ido, cuantas cosas han pasado\. algo hemos aprendido y algo hemos olvidado 🥺🥀😭
+> el primer tonto de tu vida quiero ser 🥺🥀😭
 
 172 songs - 9 hr 27 min
 

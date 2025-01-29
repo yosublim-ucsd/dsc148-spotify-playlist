@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,182 likes - 52 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,202 likes - 52 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 12 | [Rivers \- Solo Piano Version](https://open.spotify.com/track/5Rwivn8wMEQ6TP6XshXhZq) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 2:16 |
 | 13 | [Moments](https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:33 |
 | 14 | [Killing Me Softly With His Song](https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0) | [Norman Gimbel](https://open.spotify.com/artist/5Ixk3FBu30Vqyk61bjGuuM), [Charles Fox](https://open.spotify.com/artist/3XA4LLL4CW8h4VWRY1EVbB), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 1:03 |
-| 15 | [Guiding Light](https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:17 |
-| 16 | [Miracles](https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Memories](https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj) | 3:23 |
+| 15 | [Miracles](https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Memories](https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj) | 3:23 |
+| 16 | [Guiding Light](https://open.spotify.com/track/1jt4hk4d51pZ8DZl8yMMmG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:17 |
 | 17 | [Waterfalls](https://open.spotify.com/track/2mRzR5As98D4UWLIH3v5Rl) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 4:05 |
 | 18 | [The Way It Was](https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:20 |
 | 19 | [Last Song](https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Secret Piano](https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA) | 1:55 |
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 22 | [Returning To You](https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:21 |
 | 23 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 |
 | 24 | [One Look \- Solo Piano Version](https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:18 |
-| 25 | [Carousel](https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Escape](https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV) | 3:01 |
+| 25 | [Music Box](https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 4:28 |
 | 26 | [Reverie](https://open.spotify.com/track/42InL799NohWvvJBYexpxf) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Classical Soul Vol\. 1](https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9) | 3:38 |
-| 27 | [Music Box](https://open.spotify.com/track/6sRMsgGmxXH8bawlSQtS3M) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 4:28 |
+| 27 | [Carousel](https://open.spotify.com/track/7qUR44mhbatVB3p4OPw3Qd) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Escape](https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV) | 3:01 |
 | 28 | [Reborn](https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 3:31 |
 | 29 | [When the Bells Ring](https://open.spotify.com/track/7nXepAp45r8vUP8MB7WEZu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:18 |
 | 30 | [Forever Song \- Solo Piano Version](https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 3:26 |
 | 31 | [Remember](https://open.spotify.com/track/4dqde2wJGFvMuQwiikyErr) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Escape](https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV) | 1:24 |
 | 32 | [Exhale](https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evolution](https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct) | 2:48 |
 | 33 | [Still Life](https://open.spotify.com/track/5Zo96jw2gqhA6JpUsmPrSu) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:22 |
-| 34 | [Hope](https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Piano Karma](https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr) | 3:11 |
-| 35 | [Shine \- Solo Piano Version](https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 3:10 |
+| 34 | [Shine \- Solo Piano Version](https://open.spotify.com/track/0RSGM4UB0H4OfS7DqC06qi) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Solo Piano Collection](https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK) | 3:10 |
+| 35 | [Hope](https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Piano Karma](https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr) | 3:11 |
 | 36 | [Peace](https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Peace](https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw) | 2:22 |
 | 37 | [Evermore](https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 2:50 |
 | 38 | [Crest of a Wave](https://open.spotify.com/track/2pJFbZazTwTdPsU8tTuBoF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:15 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 51 | [Colours \- Solo Piano Version](https://open.spotify.com/track/6mMTqraNCrZ1zImkldJptJ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:08 |
 | 52 | [The Journey](https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx) | [The Gagliano Strings](https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Stolen Lullabies](https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY) | 2:14 |
 
-Snapshot ID: `Z5V7AAAAAADZNhTb5FIvHKzvGT4X6x+R`
+Snapshot ID: `Z5bMgAAAAACb6KRtZaxmodUJ3+1cfr/J`

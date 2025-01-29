@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: VBS",
-  "num_followers": 18336,
+  "num_followers": 18339,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,18 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "NOC \u017bYWYCH TRUP\u00d3W",
-        "url": "https://open.spotify.com/album/1yMtpj4wdhzWK3JqCccyzK"
+        "name": "Brednie",
+        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
       },
       "artists": [
         {
-          "name": "Koza",
-          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
-        },
-        {
-          "name": "Kuba Wi\u0119cek",
-          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
+          "name": "Promie\u0144",
+          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
         }
       ],
-      "duration_ms": 173333,
-      "name": "opar",
-      "url": "https://open.spotify.com/track/3ylPOWccrGAJWTiK4VjOUk"
+      "duration_ms": 195176,
+      "name": "Brednie",
+      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -391,18 +387,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Brednie",
-        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
+        "name": "NOC \u017bYWYCH TRUP\u00d3W",
+        "url": "https://open.spotify.com/album/1yMtpj4wdhzWK3JqCccyzK"
       },
       "artists": [
         {
-          "name": "Promie\u0144",
-          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/5rm8Cp2ZHkyGl0TI3obsdb"
+        },
+        {
+          "name": "Kuba Wi\u0119cek",
+          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
         }
       ],
-      "duration_ms": 195176,
-      "name": "Brednie",
-      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
+      "duration_ms": 173333,
+      "name": "opar",
+      "url": "https://open.spotify.com/track/3ylPOWccrGAJWTiK4VjOUk"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "UCIEKAM",
-        "url": "https://open.spotify.com/album/5Y8eLJWfXoVqxuwmmvx49X"
-      },
-      "artists": [
-        {
-          "name": "Gverilla",
-          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
-        }
-      ],
-      "duration_ms": 144003,
-      "name": "UCIEKAM",
-      "url": "https://open.spotify.com/track/4MLwDuUPotk1Ygf5JdkvOb"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "NONSTOP",
         "url": "https://open.spotify.com/album/469rGu6MSyXHKPsnAQFbLJ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 188047,
       "name": "chinatown freestyle",
       "url": "https://open.spotify.com/track/1S5eTODjX6u2rkB7o48IiO"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "UCIEKAM",
+        "url": "https://open.spotify.com/album/5Y8eLJWfXoVqxuwmmvx49X"
+      },
+      "artists": [
+        {
+          "name": "Gverilla",
+          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
+        }
+      ],
+      "duration_ms": 144003,
+      "name": "UCIEKAM",
+      "url": "https://open.spotify.com/track/4MLwDuUPotk1Ygf5JdkvOb"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -743,6 +743,26 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "Zawsze",
+        "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 173379,
+      "name": "Zawsze",
+      "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "urbancard ep",
         "url": "https://open.spotify.com/album/1hHZSUz9tnpwLBDbfiYJ0L"
       },
@@ -783,26 +803,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Zawsze",
-        "url": "https://open.spotify.com/album/6g0UbXE7lpeY399E178U88"
-      },
-      "artists": [
-        {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
-        },
-        {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
-        }
-      ],
-      "duration_ms": 173379,
-      "name": "Zawsze",
-      "url": "https://open.spotify.com/track/6cevsYFP4dyYQnA7K1alpE"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "Ch\u0142opak, kt\u00f3ry \u017cy\u0142 w swojej g\u0142owie",
         "url": "https://open.spotify.com/album/3Da3R3T5AzWHvnNZp3D7SE"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 182093,
       "name": "BACKLOG",
       "url": "https://open.spotify.com/track/3wQNn8UrIa7YdfenRTDQRk"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
+        "url": "https://open.spotify.com/album/4K5ZaGcVQMpCGkMDK9jeep"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
+      "url": "https://open.spotify.com/track/0ZfFvtLadMbxYY3wEDVKwp"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -915,22 +935,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
-        "url": "https://open.spotify.com/album/4K5ZaGcVQMpCGkMDK9jeep"
+        "name": "Z\u0142ote \u0142ezki",
+        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
       },
       "artists": [
         {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
         },
         {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+          "name": "BIESY",
+          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
         }
       ],
-      "duration_ms": 199285,
-      "name": "Gdzie by\u015b si\u0119 chcia\u0142a obudzi\u0107?",
-      "url": "https://open.spotify.com/track/0ZfFvtLadMbxYY3wEDVKwp"
+      "duration_ms": 181973,
+      "name": "Z\u0142ote \u0142ezki",
+      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -959,22 +979,18 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Z\u0142ote \u0142ezki",
-        "url": "https://open.spotify.com/album/2nSAPkDSY1DuM55mUC089j"
+        "name": "ASMR",
+        "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
       },
       "artists": [
         {
-          "name": "Meek, Oh Why?",
-          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
-        },
-        {
-          "name": "BIESY",
-          "url": "https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr"
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Z\u0142ote \u0142ezki",
-      "url": "https://open.spotify.com/track/6yEfNY4hAzCtckKBdLFH6f"
+      "duration_ms": 230169,
+      "name": "ASMR",
+      "url": "https://open.spotify.com/track/7EhMso5bZ2o60CNXi5S11B"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "ASMR",
-        "url": "https://open.spotify.com/album/2J0jcZfuIQX0kgEz87MG3o"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 230169,
-      "name": "ASMR",
-      "url": "https://open.spotify.com/track/7EhMso5bZ2o60CNXi5S11B"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "TEQUILA I BILARD",
         "url": "https://open.spotify.com/album/1q0NNAmutqgOTmCa8hm8VW"
       },
@@ -1031,6 +1031,26 @@
       "duration_ms": 200111,
       "name": "TEQUILA I BILARD",
       "url": "https://open.spotify.com/track/4wgybKRLOSicfyJLK5d61u"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
+      },
+      "artists": [
+        {
+          "name": "Hodak",
+          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 151764,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1063,26 +1083,6 @@
       "duration_ms": 136630,
       "name": "MUSZ\u0118 ZAWIJA\u0106",
       "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/3GzN0Q80lTZMJsPkLKFSy0"
-      },
-      "artists": [
-        {
-          "name": "Hodak",
-          "url": "https://open.spotify.com/artist/3B6UKFIsDwnJUKlJp7qQyU"
-        },
-        {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
-        }
-      ],
-      "duration_ms": 151764,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/1vYNAjjzMFZiSS8deHB25Q"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "JORDAN PEELE",
+        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
+      },
+      "artists": [
+        {
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
+        }
+      ],
+      "duration_ms": 183455,
+      "name": "JORDAN PEELE",
+      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "FALA MIXTAPE vol. 3",
         "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 170602,
       "name": "Sto lat",
       "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "JORDAN PEELE",
-        "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
-      },
-      "artists": [
-        {
-          "name": "NAUTOFON",
-          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
-        }
-      ],
-      "duration_ms": 183455,
-      "name": "JORDAN PEELE",
-      "url": "https://open.spotify.com/track/0kT0GbHVY7fjAMau8OtzJ1"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "Rapujecie co\u015b jeszcze?",
+        "url": "https://open.spotify.com/album/73WDTjEEjo4ZDMkpVkDqoo"
+      },
+      "artists": [
+        {
+          "name": "Spajku/Dziunek",
+          "url": "https://open.spotify.com/artist/59Rik4l7RgbGXu9YcTw8GH"
+        },
+        {
+          "name": "Dj DBT",
+          "url": "https://open.spotify.com/artist/1ghzisNIQPOmoBdLlFqnyt"
+        },
+        {
+          "name": "Kajetan Borowski",
+          "url": "https://open.spotify.com/artist/3TTFIdrb9JttQKaSPyvLcu"
+        }
+      ],
+      "duration_ms": 157546,
+      "name": "Rapujecie co\u015b jeszcze?",
+      "url": "https://open.spotify.com/track/4bLxnXJckZR0SCrzTgOclI"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "Szukaj wyj\u015b\u0107",
         "url": "https://open.spotify.com/album/0TmFZdoxVyYex2zj5MA59H"
       },
@@ -1507,46 +1531,6 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "CHRUST",
-        "url": "https://open.spotify.com/album/1ynZHAzUYgxeE77sfYmcCD"
-      },
-      "artists": [
-        {
-          "name": "M\u0142ody \u017bmija",
-          "url": "https://open.spotify.com/artist/4xJhyfIs26kawaeeRSaOk2"
-        },
-        {
-          "name": "getroundintheseason",
-          "url": "https://open.spotify.com/artist/4iIrLlqZNjgFoiPRynjKtR"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "CHRUST",
-      "url": "https://open.spotify.com/track/0iGg7sRBut4WBcFfvOYdvu"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "Strach",
-        "url": "https://open.spotify.com/album/6lEC7jalZkPqTxohKnnH4p"
-      },
-      "artists": [
-        {
-          "name": "Monika Fortuniak",
-          "url": "https://open.spotify.com/artist/01ncc1B50xOY2nYOgyJqI2"
-        },
-        {
-          "name": "Bisz",
-          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
-        }
-      ],
-      "duration_ms": 251786,
-      "name": "Strach",
-      "url": "https://open.spotify.com/track/7EtgTcSNPsQ7I4r4TsqFJd"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
         "name": "WHOOP WHOOP",
         "url": "https://open.spotify.com/album/19pclJrXhH67ncIWTtATPk"
       },
@@ -1559,46 +1543,6 @@
       "duration_ms": 117015,
       "name": "WHOOP WHOOP",
       "url": "https://open.spotify.com/track/1A4uMh4qfInD40KfFYimE7"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "Rapujecie co\u015b jeszcze?",
-        "url": "https://open.spotify.com/album/73WDTjEEjo4ZDMkpVkDqoo"
-      },
-      "artists": [
-        {
-          "name": "Spajku/Dziunek",
-          "url": "https://open.spotify.com/artist/59Rik4l7RgbGXu9YcTw8GH"
-        },
-        {
-          "name": "Dj DBT",
-          "url": "https://open.spotify.com/artist/1ghzisNIQPOmoBdLlFqnyt"
-        },
-        {
-          "name": "Kajetan Borowski",
-          "url": "https://open.spotify.com/artist/3TTFIdrb9JttQKaSPyvLcu"
-        }
-      ],
-      "duration_ms": 157546,
-      "name": "Rapujecie co\u015b jeszcze?",
-      "url": "https://open.spotify.com/track/4bLxnXJckZR0SCrzTgOclI"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "PIEK\u0141O DLA DJ\u00d3W",
-        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
-      },
-      "artists": [
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
-        }
-      ],
-      "duration_ms": 129520,
-      "name": "PIEK\u0141O DLA DJ\u00d3W",
-      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1687,6 +1631,62 @@
       "duration_ms": 276136,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/0jfGFAlrxBYAaebeotjeCC"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "CHRUST",
+        "url": "https://open.spotify.com/album/1ynZHAzUYgxeE77sfYmcCD"
+      },
+      "artists": [
+        {
+          "name": "M\u0142ody \u017bmija",
+          "url": "https://open.spotify.com/artist/4xJhyfIs26kawaeeRSaOk2"
+        },
+        {
+          "name": "getroundintheseason",
+          "url": "https://open.spotify.com/artist/4iIrLlqZNjgFoiPRynjKtR"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "CHRUST",
+      "url": "https://open.spotify.com/track/0iGg7sRBut4WBcFfvOYdvu"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "Strach",
+        "url": "https://open.spotify.com/album/6lEC7jalZkPqTxohKnnH4p"
+      },
+      "artists": [
+        {
+          "name": "Monika Fortuniak",
+          "url": "https://open.spotify.com/artist/01ncc1B50xOY2nYOgyJqI2"
+        },
+        {
+          "name": "Bisz",
+          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
+        }
+      ],
+      "duration_ms": 251786,
+      "name": "Strach",
+      "url": "https://open.spotify.com/track/7EtgTcSNPsQ7I4r4TsqFJd"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
+        "name": "PIEK\u0141O DLA DJ\u00d3W",
+        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
+      },
+      "artists": [
+        {
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+        }
+      ],
+      "duration_ms": 129520,
+      "name": "PIEK\u0141O DLA DJ\u00d3W",
+      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
+        "name": "melody",
+        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
+      },
+      "artists": [
+        {
+          "name": "Heczko",
+          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "melody",
+      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
+    },
+    {
+      "added_at": "2025-01-24 11:29:36",
+      "album": {
         "name": "NOWY WOKAL",
         "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 161094,
       "name": "Tygrysy Europy",
       "url": "https://open.spotify.com/track/4edHAEwmAN2CHXeuMKsmUh"
-    },
-    {
-      "added_at": "2025-01-24 11:29:36",
-      "album": {
-        "name": "melody",
-        "url": "https://open.spotify.com/album/67fAmVuzvvP1HmZviYspUb"
-      },
-      "artists": [
-        {
-          "name": "Heczko",
-          "url": "https://open.spotify.com/artist/5ICsMFaQxZafgG5w4nFqcn"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "melody",
-      "url": "https://open.spotify.com/track/2clLQQghiF2vOz8mtEudrh"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -2019,8 +2019,8 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Nic nie s\u0142ysza\u0142em, nic nie widzia\u0142em",
-        "url": "https://open.spotify.com/album/2ufzT5WqGa0VKZrEXhwrvk"
+        "name": "Jakby\u015b chcia\u0142 pogada\u0107",
+        "url": "https://open.spotify.com/album/4WUVCP7TZVxpp3DkWgMceQ"
       },
       "artists": [
         {
@@ -2028,21 +2028,13 @@
           "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
         },
         {
-          "name": "Agata Wy\u017clic",
-          "url": "https://open.spotify.com/artist/6Fv0xjXPmZ9yjVDTtQkz0E"
-        },
-        {
-          "name": "Franczi",
-          "url": "https://open.spotify.com/artist/0Tf0q2oKVyabinfD2MdDh6"
-        },
-        {
-          "name": "Molehead",
-          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
+          "name": "Zajac",
+          "url": "https://open.spotify.com/artist/3hh49NK2eOABrmYdCfmMoS"
         }
       ],
-      "duration_ms": 158260,
-      "name": "Nic nie s\u0142ysza\u0142em, nic nie widzia\u0142em",
-      "url": "https://open.spotify.com/track/0hrHSwJkc48cIUVCA43d2U"
+      "duration_ms": 147000,
+      "name": "Jakby\u015b chcia\u0142 pogada\u0107",
+      "url": "https://open.spotify.com/track/4ktmLRlu6kfD2dHSe5t5sX"
     },
     {
       "added_at": "2025-01-24 11:29:36",
@@ -2155,8 +2147,8 @@
     {
       "added_at": "2025-01-24 11:29:36",
       "album": {
-        "name": "Jakby\u015b chcia\u0142 pogada\u0107",
-        "url": "https://open.spotify.com/album/4WUVCP7TZVxpp3DkWgMceQ"
+        "name": "Nic nie s\u0142ysza\u0142em, nic nie widzia\u0142em",
+        "url": "https://open.spotify.com/album/2ufzT5WqGa0VKZrEXhwrvk"
       },
       "artists": [
         {
@@ -2164,13 +2156,21 @@
           "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
         },
         {
-          "name": "Zajac",
-          "url": "https://open.spotify.com/artist/3hh49NK2eOABrmYdCfmMoS"
+          "name": "Agata Wy\u017clic",
+          "url": "https://open.spotify.com/artist/6Fv0xjXPmZ9yjVDTtQkz0E"
+        },
+        {
+          "name": "Franczi",
+          "url": "https://open.spotify.com/artist/0Tf0q2oKVyabinfD2MdDh6"
+        },
+        {
+          "name": "Molehead",
+          "url": "https://open.spotify.com/artist/28jCpgzkMtyThCNKZjGVSa"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Jakby\u015b chcia\u0142 pogada\u0107",
-      "url": "https://open.spotify.com/track/4ktmLRlu6kfD2dHSe5t5sX"
+      "duration_ms": 158260,
+      "name": "Nic nie s\u0142ysza\u0142em, nic nie widzia\u0142em",
+      "url": "https://open.spotify.com/track/0hrHSwJkc48cIUVCA43d2U"
     }
   ],
   "unique_name": "alt rap",

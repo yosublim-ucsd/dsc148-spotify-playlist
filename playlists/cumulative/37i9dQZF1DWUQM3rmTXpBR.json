@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Alternative Arabic songs. Cover: Fulana",
+  "description": "Alternative Arabic songs. Cover: Jadal",
   "name": "Arab Indie",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 156000,
       "name": "7 PM",
       "url": "https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 176997,
       "name": "Fattaht",
       "url": "https://open.spotify.com/track/0ma4ipffXSLN3MsVLnyqMQ"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 187354,
       "name": "Rien - Walo",
       "url": "https://open.spotify.com/track/1VzK9N1vmvEStE4nfOGrWs"
@@ -3161,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Hami Barid",
+        "url": "https://open.spotify.com/album/1Md7bIvbh9IhfePGgFe1vk"
+      },
+      "artists": [
+        {
+          "name": "Jadal",
+          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206391,
+      "name": "Ya Helweh",
+      "url": "https://open.spotify.com/track/2iIFu3LG8Pc8n6r2q0ts84"
+    },
+    {
+      "album": {
         "name": "Ya Khsara",
         "url": "https://open.spotify.com/album/4PSYyfCAw0opDo9xKlv1tz"
       },
@@ -3194,6 +3212,24 @@
       "duration_ms": 146028,
       "name": "Ya Msafer Wahdak",
       "url": "https://open.spotify.com/track/1zPfv9d1zoorqjH3rVQq04"
+    },
+    {
+      "album": {
+        "name": "Hami Barid",
+        "url": "https://open.spotify.com/album/1Md7bIvbh9IhfePGgFe1vk"
+      },
+      "artists": [
+        {
+          "name": "Jadal",
+          "url": "https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246073,
+      "name": "Ya Reit",
+      "url": "https://open.spotify.com/track/3GoSYddTVSM8YisxeSAbF6"
     },
     {
       "album": {

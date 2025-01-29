@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,211 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,214 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 71 | [아에이오우 어 ?!](https://open.spotify.com/track/579cWJAuA8z2pC0iw3660T) | [Soul Company](https://open.spotify.com/artist/1uqY5wsMbmNuHOQQ0pD8nJ) | [The Best](https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35) | 4:55 |
 | 72 | [생긴대로 놀아 \(feat\. Juvie Train & Koonta\)](https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:23 |
 | 73 | [뿌리깊은 나무](https://open.spotify.com/track/2W7KlM3CkB65v2P5pBwkqh) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [Garion 가리온](https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp) | 5:31 |
-| 74 | [What U Write 4 \(Feat\. P\-Type & The Illest I.L.L.S.\) \- 2021 Remaster](https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [The Illest I.L.L.S.](https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 2:52 |
+| 74 | [Drama \- 2021 Remaster](https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:59 |
 | 75 | [Never Give Up Ⅱ \(Feat\. 손박사, 오전도사, DJ Uzi, Rich\)](https://open.spotify.com/track/2E84dE2xWHEMKIBofKogIE) | [ZoPD](https://open.spotify.com/artist/1JIlqu7XZniSF86iMlgKHR), [Rich](https://open.spotify.com/artist/0OAPcmruJr93HIMyFgFjoP), [손박사](https://open.spotify.com/artist/7IQBTbw1x949fH2KfbHi1d), [오전도사](https://open.spotify.com/artist/1jy9lnMScttgD1RbRtKk2h), [DJ Uzi](https://open.spotify.com/artist/7tSx5FV8Ku05I1LEFDWXh7) | [조PD\. Net / Best In East](https://open.spotify.com/album/1WmWpvspnZ2DQGL4dsbdWR) | 4:16 |
 | 76 | [4 Life \(Feat\. Yuri\)](https://open.spotify.com/track/7sFUq6W4gdE4xUwA2bBy0m) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf), [유리](https://open.spotify.com/artist/1AXNCr2bifA6kjh3nxvSo0) | [Beatz 4 Da Streetz](https://open.spotify.com/album/22IDKUmV5T4Cyd4hSKj2ri) | 4:02 |
 | 77 | [Don Quixote 돈키호테 \(feat\. Realslow\)](https://open.spotify.com/track/22ALrulRzldazLgc0Syvpg) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq), [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [HEAVY BASS](https://open.spotify.com/album/2hu45G5eFtK74ZSAHk9u2i) | 3:55 |

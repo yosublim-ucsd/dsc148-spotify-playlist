@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,007 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,036 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 34 | [Juntos a la Par](https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Juntos a la Par](https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs) | 2:26 |
 | 35 | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9) | 3:13 |
 | 36 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 |
-| 37 | [Ya Me Enteré](https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Ya Me Enteré](https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb) | 2:38 |
-| 38 | [Fuiste Tu](https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Fuiste Tu](https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9) | 3:50 |
+| 37 | [Fuiste Tu](https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [La Sonora Gigante](https://open.spotify.com/artist/3Ky0xtfzwZFKcZ5Zs1U8tn) | [Fuiste Tu](https://open.spotify.com/album/13qausPX6sj70dDe4lugZ9) | 3:50 |
+| 38 | [Ya Me Enteré](https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Ya Me Enteré](https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb) | 2:38 |
 | 39 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
 | 40 | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/track/2aJcujrPc21lVka5bvV6n5) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Pájaro Vio El Cielo y Se Voló](https://open.spotify.com/album/5SWpyLFGaGUkL83v1i4Ysr) | 3:08 |
 | 41 | [Ji Ji Ji](https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [No Pares Hasta Tener lo Suficiente \- Don't Stop 'til You Get Enough](https://open.spotify.com/track/7D1AsxEUv12CXEzTmyZXWX) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo \(Soundway Records\)](https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I) | 2:54 |
 | 75 | [Ya No Tiene Novio](https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o) | [Ya No Tiene Novio](https://open.spotify.com/album/5pGUyvkN6cw85W0rE8n3kp) | 3:00 |
 
-Snapshot ID: `ZIxajAAAAADDnmSkrRR8rMoluPYzwoDr`
+Snapshot ID: `Z5knLQAAAABKQsY1hpG3yiyLAE5KRmLr`

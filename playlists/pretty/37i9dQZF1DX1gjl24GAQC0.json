@@ -1,6 +1,6 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? (Cover: \nZEROBASEONE) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
-  "num_followers": 800505,
+  "num_followers": 800441,
   "original_name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",
   "owner": {
     "name": "Spotify",
@@ -735,38 +735,6 @@
     {
       "added_at": "2025-01-20 09:07:27",
       "album": {
-        "name": "We Go Up",
-        "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "We Go Up",
-      "url": "https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW"
-    },
-    {
-      "added_at": "2025-01-20 09:07:27",
-      "album": {
-        "name": "SAD SONG",
-        "url": "https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA"
-      },
-      "artists": [
-        {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "SAD SONG",
-      "url": "https://open.spotify.com/track/4AwUc1mdlX4ARHkUNG0iho"
-    },
-    {
-      "added_at": "2025-01-20 09:07:27",
-      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -787,6 +755,38 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "added_at": "2025-01-20 09:07:27",
+      "album": {
+        "name": "SAD SONG",
+        "url": "https://open.spotify.com/album/0NmzOw8evaF6bn2U7tiWSA"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "SAD SONG",
+      "url": "https://open.spotify.com/track/4AwUc1mdlX4ARHkUNG0iho"
+    },
+    {
+      "added_at": "2025-01-20 09:07:27",
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
     },
     {
       "added_at": "2025-01-20 09:07:27",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-01-20 09:07:27",
       "album": {
-        "name": "Candy - Winter Special Mini Album",
-        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
+      "duration_ms": 221341,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
     }
   ],
   "unique_name": "Hallyu Boy Bands (\ud55c\ub958 \ubcf4\uc774 \ubc34\ub4dc)",

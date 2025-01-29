@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-520 songs - 1 day 3 hr 30 min
+521 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-09-13 | 2023-03-22 |
 | [Jam \(feat\. Wizkid\)](https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 3:18 | 2021-12-16 |  |
 | [Jealousy](https://open.spotify.com/track/5aRxIGkVO0t7oWiwmxQ5WE) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Jealousy](https://open.spotify.com/album/4CbnSfZ10XhzFFG5Lzx0jG) | 2:45 | 2023-12-01 | 2025-01-20 |
-| [JEJEREJE \(with Ginton\)](https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [JEJEREJE \(with Ginton\)](https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ) | 3:04 | 2024-10-03 |  |
+| [JEJEREJE \(with Ginton\)](https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [JEJEREJE \(with Ginton\)](https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ) | 3:04 | 2024-10-03 | 2025-01-29 |
 | [Jessy](https://open.spotify.com/track/4fu6Xv1f0LK73K566EkFYQ) | [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Jessy](https://open.spotify.com/album/7rrA3YP0m7l5kwDt89MBKz) | 2:28 | 2024-09-12 |  |
 | [Jiggle](https://open.spotify.com/track/0F245o4yDaGy2leKy2l2Ae) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Meeka](https://open.spotify.com/artist/3x1abDAAJYxgkeV9MRLlbn) | [Jiggle](https://open.spotify.com/album/51rfhvpTi6fhMYpkq3ci4o) | 2:12 | 2022-04-21 | 2023-04-07 |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-29 | 2023-02-10 |
@@ -294,6 +294,7 @@
 | [Mami So Bad](https://open.spotify.com/track/7HL6wIxsT3aRJrUxfVowFn) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Mami So Bad](https://open.spotify.com/album/4QX6zxCyytdRQDmR1IcW0R) | 3:01 | 2021-12-16 | 2022-05-17 |
 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 | 2021-12-16 | 2023-04-07 |
 | [MANSORY](https://open.spotify.com/track/5ykyiyN3DwPgMjwdFvT7zW) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [MANSORY](https://open.spotify.com/album/2IBCiUYbFf6kwrdLK1Nsga) | 4:05 | 2024-10-04 | 2024-10-18 |
+| [Marathon](https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Koba Brown](https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75) | [Marathon](https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj) | 3:00 | 2025-01-28 |  |
 | [MAS DUSHI](https://open.spotify.com/track/3q1ji65PsbwM9nAAheWEYL) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [MAS DUSHI](https://open.spotify.com/album/5yjHjSmo3ouZQdYu910Vpd) | 2:38 | 2024-07-22 |  |
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-12-14 |  |
 | [Mehbooba](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 | 2021-12-16 | 2021-12-29 |

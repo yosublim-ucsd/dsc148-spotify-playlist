@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222119,
+      "name": "5 Dollar Pony Rides",
+      "url": "https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE"
+    },
+    {
+      "album": {
         "name": "slash 010 - 5 Mins Of Acid",
         "url": "https://open.spotify.com/album/6pRDiTc1Sc31lLpITNIh0j"
       },
@@ -1251,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
+    },
+    {
+      "album": {
         "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
         "url": "https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ"
       },
@@ -1506,7 +1546,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -1638,6 +1678,24 @@
       "duration_ms": 133754,
       "name": "Bad Feeling (Oompa Loompa)",
       "url": "https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A"
+    },
+    {
+      "album": {
+        "name": "Bad Spot",
+        "url": "https://open.spotify.com/album/1zXeOdXbCIGMveQdkkRfKN"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Bad Spot",
+      "url": "https://open.spotify.com/track/0eJ3XZjx1zDsrMM6lMupiH"
     },
     {
       "album": {
@@ -2838,7 +2896,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
@@ -3290,7 +3348,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 135440,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/2g8J25mESnMa9jseFrvDE1"
@@ -3366,7 +3424,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 228836,
       "name": "CAF\u00e9 CON RON",
       "url": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
@@ -4769,6 +4827,24 @@
     },
     {
       "album": {
+        "name": "Day Late & A Buck Short",
+        "url": "https://open.spotify.com/album/1FfgPDghlTyXLyqV1Vdnpj"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153415,
+      "name": "Day Late & A Buck Short",
+      "url": "https://open.spotify.com/track/2fsCi7ljM1DCc9nmMw7WU6"
+    },
+    {
+      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf"
       },
@@ -5240,7 +5316,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
@@ -5258,7 +5334,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 257893,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
@@ -5840,6 +5916,24 @@
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
     },
     {
       "album": {
@@ -9277,6 +9371,28 @@
     },
     {
       "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180540,
+      "name": "Hypnotized (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
+    },
+    {
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -9618,7 +9734,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 90501,
       "name": "I Might Brake, But I Won't",
       "url": "https://open.spotify.com/track/6tYLXzcuk69VO4FTQX7wE3"
@@ -9730,7 +9846,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 138565,
       "name": "I Would Like",
       "url": "https://open.spotify.com/track/1EwclTZTt1eR8ZMfslR7FE"
@@ -11684,7 +11800,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 110471,
       "name": "Lemon Watermelon",
       "url": "https://open.spotify.com/track/6J4ovF4WfchmxfAudw7QIb"
@@ -12294,6 +12410,32 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "album": {
+        "name": "it's Franky baby!",
+        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156302,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6xl52ErKTebAhTyH01MiE1"
     },
     {
       "album": {
@@ -13195,6 +13337,24 @@
     },
     {
       "album": {
+        "name": "Me More Cowboy Than You (Demo)",
+        "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Me More Cowboy Than You - Demo",
+      "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
+    },
+    {
+      "album": {
         "name": "Medicate Me",
         "url": "https://open.spotify.com/album/5IVuTn7LffwxIzCx2Ii3Bp"
       },
@@ -13228,7 +13388,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
@@ -14271,6 +14431,28 @@
     },
     {
       "album": {
+        "name": "New Jeans (Jersey Club - Remixes)",
+        "url": "https://open.spotify.com/album/1syclG2meQ0loNB48TaQb3"
+      },
+      "artists": [
+        {
+          "name": "Dxrkaii",
+          "url": "https://open.spotify.com/artist/4iApnomXD1KyVGCc2eDmlX"
+        },
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110005,
+      "name": "New Jeans - Jersey Club - Slowed Down",
+      "url": "https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"
+    },
+    {
+      "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
@@ -15260,7 +15442,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 149440,
       "name": "P*RNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
@@ -15720,7 +15902,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 206373,
       "name": "Plead The Fifth",
       "url": "https://open.spotify.com/track/5OuevpXMOUPQACn9P0FpDR"
@@ -18098,7 +18280,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 224127,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
@@ -18532,7 +18714,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 162253,
       "name": "SPINNIN (Segway Remix)",
       "url": "https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi"
@@ -19904,7 +20086,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 147080,
       "name": "Tell Me It's You",
       "url": "https://open.spotify.com/track/2AdSN6utb6kfgmgas1g6az"
@@ -20724,6 +20906,24 @@
       "duration_ms": 105724,
       "name": "The Thin Grey Line",
       "url": "https://open.spotify.com/track/1d966178PJg6b4kcXqoYF3"
+    },
+    {
+      "album": {
+        "name": "Matters of the Heart",
+        "url": "https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw"
+      },
+      "artists": [
+        {
+          "name": "RuthAnne",
+          "url": "https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175492,
+      "name": "The Vow",
+      "url": "https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8"
     },
     {
       "album": {
@@ -21879,6 +22079,28 @@
     },
     {
       "album": {
+        "name": "Wacuka",
+        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Wacuka",
+      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
       },
@@ -22094,7 +22316,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
@@ -22738,6 +22960,28 @@
       "duration_ms": 129571,
       "name": "Why's this dealer?",
       "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
+    },
+    {
+      "album": {
+        "name": "Wiggle Up, Giddy Up!",
+        "url": "https://open.spotify.com/album/35Oojm51uhnUPWDEcTnNwN"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        },
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157709,
+      "name": "Wiggle Up, Giddy Up!",
+      "url": "https://open.spotify.com/track/4eHpZ7aVEIIjtxK8JrxBWg"
     },
     {
       "album": {

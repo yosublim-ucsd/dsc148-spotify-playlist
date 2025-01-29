@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1383315,
+  "num_followers": 1383760,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAByh4sblWvrHtQgEbhLG4qd",
+  "snapshot_id": "Z5bMgAAAAADZ88fR/mfxT0U5/h9VRxPf",
   "tracks": [
     {
       "added_at": null,
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 288000,
-      "name": "530",
-      "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv"
+      "duration_ms": 158980,
+      "name": "PROMOTION",
+      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
     },
     {
       "added_at": null,
@@ -948,9 +948,25 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 158980,
-      "name": "PROMOTION",
-      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
+      "duration_ms": 288000,
+      "name": "530",
+      "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 278893,
+      "name": "Family Business",
+      "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116"
     },
     {
       "added_at": null,
@@ -971,22 +987,6 @@
       "duration_ms": 192253,
       "name": "Erase Me - Main",
       "url": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 278893,
-      "name": "Family Business",
-      "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116"
     }
   ],
   "unique_name": "This Is Kanye West",

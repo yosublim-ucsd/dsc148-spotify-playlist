@@ -2,9 +2,9 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: KID PHENOMENON from EXILE TRIBE
+> 日本で活躍するボーイズグループを特集。cover: Number\_i
 
-391 songs - 22 hr 27 min
+393 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [FUJI](https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:42 | 2024-03-05 | 2024-10-02 |
 | [FUN](https://open.spotify.com/track/2IkUO4UhrUvVhfy6fGawYe) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [FUN](https://open.spotify.com/album/7MQN91PFTzXHmA4uUukZ4B) | 3:17 | 2024-07-09 | 2024-07-31 |
 | [Furete](https://open.spotify.com/track/6cORKmyAM5qYe8gwtQ4WlH) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [Furete](https://open.spotify.com/album/3Mgfnr0yrpFMMVAm4mBEIu) | 3:41 | 2024-04-16 | 2024-04-19 |
+| [Generation\_Cloud](https://open.spotify.com/track/3vkGaXx8dOqoqnki0GD4sc) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Generation\_Cloud](https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO) | 2:36 | 2025-01-28 |  |
 | [GET STUPID](https://open.spotify.com/track/5UHHgSPZkVMM6RBOmhfB5f) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [GET STUPID](https://open.spotify.com/album/1wwvdUYewkU9xAqn9DhZa7) | 2:40 | 2024-06-18 | 2024-06-26 |
 | [GIANT](https://open.spotify.com/track/5cZUp0PoAYzsXefD0pdALc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GIANT](https://open.spotify.com/album/2vVMz605sZeoefSLbbBNeb) | 2:54 | 2024-11-12 |  |
 | [Gifted\. \- Orchestra ver.](https://open.spotify.com/track/6eVpSSlmikGCpP6gdt0FnH) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Gifted\. \-Orchestra ver.\-](https://open.spotify.com/album/0k3aV68FkJd7YOMlteL4WD) | 3:51 | 2024-03-26 | 2024-05-01 |
@@ -106,6 +107,7 @@
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-01-02 | 2024-03-13 |
 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 | 2024-03-12 | 2024-10-02 |
 | [God Mode](https://open.spotify.com/track/02bRlgNPp9ctqByOhAMs9d) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [God Mode](https://open.spotify.com/album/3j6i1vKHTjehKad1kwqdJV) | 3:34 | 2024-01-31 | 2024-02-07 |
+| [GOD\_i](https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOD\_i](https://open.spotify.com/album/4fU7LKsNvfSiqBWreDtW1I) | 3:35 | 2025-01-28 |  |
 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 | 2024-07-09 |  |
 | [Good Luck](https://open.spotify.com/track/0u5f07aW3aQsRK0EdIPEXm) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Good Luck](https://open.spotify.com/album/0mk4PMcHThPUtvUojBbomB) | 3:02 | 2024-04-30 | 2024-06-12 |
 | [Good Vibes](https://open.spotify.com/track/0iTOCL3n4PD4vDEfHlBkpj) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Good Vibes](https://open.spotify.com/album/37FYeIgW29RaVLI9SA2egw) | 3:19 | 2025-01-21 |  |
@@ -180,7 +182,7 @@
 | [Major](https://open.spotify.com/track/0EzHIwggAVyiJNizm6UDHy) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Major](https://open.spotify.com/album/6wB9poeCgF8QKdymMJ5Phc) | 3:18 | 2024-06-04 | 2024-06-13 |
 | [Make It Count](https://open.spotify.com/track/5yH5ZOM6rzDisQrahixgM9) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Make It Count](https://open.spotify.com/album/2xZTCdsoeOjHuLfKt5cZM1) | 3:30 | 2025-01-14 |  |
 | [Mania](https://open.spotify.com/track/672t5orA6YcHdTM5aGFjUG) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Mania](https://open.spotify.com/album/5Fve3jeQNug5Y8EuWt78ot) | 3:19 | 2024-05-07 | 2024-05-29 |
-| [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 |  |
+| [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 | 2025-01-29 |
 | [MAZQUERADE](https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs) | 3:22 | 2024-10-01 | 2024-12-09 |
 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 | 2024-05-08 |
 | [MEME](https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [MEME](https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk) | 2:21 | 2024-11-05 | 2025-01-09 |
@@ -189,7 +191,7 @@
 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 | 2024-06-25 | 2024-07-10 |
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 | 2024-04-10 |
 | [MONEYBAG 7ver.](https://open.spotify.com/track/001j2dUGwEkNV7k8eGeor0) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [MONEYBAG 7ver.](https://open.spotify.com/album/0I2e0pluTkgdurceUwWuSD) | 4:46 | 2024-04-23 | 2024-05-08 |
-| [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 | 2024-05-21 | 2025-01-15 |
+| [moooove!!](https://open.spotify.com/track/36ZL5cyG69Y8asuzxGQZpX) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [moooove!!](https://open.spotify.com/album/4ZtNpsrNTSnoeTTP7AyHbx) | 3:00 | 2024-05-21 |  |
 | [MORNING SUN](https://open.spotify.com/track/4BTc4b3BoVPoHKys65v8kQ) | [EXILE B HAPPY](https://open.spotify.com/artist/5Vjo1ziwxQtYiup9JGlN9A) | [MORNING SUN](https://open.spotify.com/album/7fii6VfmYoLZAPLvvArvgh) | 3:40 | 2024-01-09 | 2024-05-29 |
 | [Move!](https://open.spotify.com/track/1kVdZkrESvjq6mvVP9bWVa) | [BMK](https://open.spotify.com/artist/6iCVcgkf5Jv4rlcSAswaz6) | [Move!](https://open.spotify.com/album/4yNywLr8yi2JrjiTi7Wdqd) | 3:30 | 2024-06-25 | 2024-07-31 |
 | [Moving Pieces](https://open.spotify.com/track/7z5ntslVYEBFtunuEYA9e5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Moving Pieces](https://open.spotify.com/album/4IeJCO4rFxksf0Wcxc0bmR) | 2:51 | 2023-11-23 | 2023-11-29 |
@@ -215,7 +217,7 @@
 | [OLD SCHOOL HUSTLE](https://open.spotify.com/track/2N9hMxfWXkmb5eaTFRY74j) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [Pump It Up! feat\. TAKUMA THE GREAT](https://open.spotify.com/album/3gAzzb2vZTvmDUbljdEDY1) | 2:59 | 2024-07-26 | 2024-07-31 |
 | [One](https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [One](https://open.spotify.com/album/5YjWEzGDPT2LZHcKAPIc2w) | 3:40 | 2024-10-14 |  |
 | [ONE DAY](https://open.spotify.com/track/6j9Viekj6TmxbUXVcbf6BJ) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [ONE DAY](https://open.spotify.com/album/0n8TRWzkuPoAbKKZXm42wy) | 3:54 | 2024-04-09 | 2024-04-24 |
-| [ONE NIGHT](https://open.spotify.com/track/0hDmpbW1tZLVCnuX3fyxvn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE VIEW](https://open.spotify.com/album/00h5i6rfYbF7CJcaYCr5mA) | 2:48 | 2024-10-29 |  |
+| [ONE NIGHT](https://open.spotify.com/track/0hDmpbW1tZLVCnuX3fyxvn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE VIEW](https://open.spotify.com/album/00h5i6rfYbF7CJcaYCr5mA) | 2:48 | 2024-10-29 | 2025-01-29 |
 | [Our Life Is Always Right](https://open.spotify.com/track/5f1bMtJMhHD6v2HhtnfSEL) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/2gTj6KswDtJHmPomUBQPjA) | 4:21 | 2024-10-16 | 2024-12-04 |
 | [Our Magic](https://open.spotify.com/track/0ELdPfYZH0fEWBfQXXFrjH) | [WILD BLUE](https://open.spotify.com/artist/4qgBzbI2ncLyF2fEGf8GTm) | [Our Magic](https://open.spotify.com/album/54AYLnK5rsWv23R5TJRynz) | 3:59 | 2025-01-14 |  |
 | [OVERDRIVE](https://open.spotify.com/track/1KxOqIOLvry0dc8BF8NSvC) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [OVERDRIVE](https://open.spotify.com/album/3VvUSMv126FUn8tyMak8WQ) | 3:18 | 2024-07-30 | 2024-09-04 |
@@ -371,7 +373,7 @@
 | [ボーイミーツガール](https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 4:02 | 2024-10-16 |  |
 | [ポケット](https://open.spotify.com/track/0IHBe0KFpJ2QeasyRprvUx) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ポケット](https://open.spotify.com/album/3H30hm2wmhuvrnU1OpS30f) | 4:12 | 2025-01-07 | 2025-01-15 |
 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 | 2024-02-13 | 2024-04-24 |
-| [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 | 2024-11-26 |  |
+| [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 | 2024-11-26 | 2025-01-29 |
 | [世界を明るく照らしましょう](https://open.spotify.com/track/4ngH59pzL0tAtBQDn5AKRW) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [世界を明るく照らしましょう](https://open.spotify.com/album/1OJngpGVsQCYAmy0DqkOhv) | 3:47 | 2024-09-17 | 2024-10-30 |
 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 | 2024-05-07 | 2025-01-27 |
 | [共闘 feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/4yhuShHeIeTJYKmQcMAYJC) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [共闘 feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/1Bnpg0kRAWkmCkxIN1aEwU) | 2:56 | 2024-04-16 | 2024-05-22 |

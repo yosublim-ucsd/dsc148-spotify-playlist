@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,045 likes - 15 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,045 likes - 27 songs - 21 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 13 | [«Les Deux Tours»: Anaïs n'a d'yeux que pour Gollum](https://open.spotify.com/episode/1m70QDrVHOYSFaDvInTwIH) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 1:06:16 |
 | 14 | [Les «AMIES» rejoignent la «Communauté de l'anneau»](https://open.spotify.com/episode/2cDq8uLHEqfp9VMht6hPXX) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 1:19:50 |
 | 15 | [«Terminator 2»: «Hasta la vista», les 90's](https://open.spotify.com/episode/0cZeMyZj8hCcsdfLrzKO0C) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 52:22 |
+| 16 | [Avant le gouda tiède](https://open.spotify.com/episode/4TJ8JgYMJr2ExTFYJNLBTE) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:00:09 |
+| 17 | [Avant les conversations de fluncheuses](https://open.spotify.com/episode/4IqA4R188ehtNmeXnx5nc8) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:12:40 |
+| 18 | [Avant de respirer le paillasson](https://open.spotify.com/episode/39rHDa32wV8ymvjXMyXnpb) | [4 quarts d'heure](https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt) | [4 quarts d'heure](https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt) | 1:14:29 |
+| 19 | ["Voici les clefs" avec Florent Bernard](https://open.spotify.com/episode/6YU2ZEu7S8dZknun1UYIX7) | [SUR PAROLE !](https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV) | [SUR PAROLE !](https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV) | 1:46:44 |
+| 20 | ["Les Marquises" avec Hervé](https://open.spotify.com/episode/09EgTzGLrNEIsxErcxissl) | [SUR PAROLE !](https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV) | [SUR PAROLE !](https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV) | 1:15:53 |
+| 21 | ["Le chat" avec Jérome Niel](https://open.spotify.com/episode/0BYFLbAq1GE0WKNtgKFwmk) | [SUR PAROLE !](https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV) | [SUR PAROLE !](https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV) | 1:09:59 |
+| 22 | [Se faire boloss en amour](https://open.spotify.com/episode/1kDp07WITosfn1lBzZt1Kd) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 37:38 |
+| 23 | [Cher journal \(update life omg\)](https://open.spotify.com/episode/6bQIlujl7Aaf4JGSU1YDWM) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 41:14 |
+| 24 | [Simple connexion ou relation amoureuse? \(ou tu te crée une connexion solo?\)](https://open.spotify.com/episode/3WUiEOOIT1SKZZar0pVQp4) | [Garce Therapy](https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y) | [Garce Therapy](https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y) | 34:08 |
+| 25 | [Juliette Katz \- "J’ai jamais bu de margarita de ma vie"](https://open.spotify.com/episode/4pARlnLT2XTiq9bbEHCoSe) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 51:25 |
+| 26 | [J'emménage avec Monsieur de Brauer](https://open.spotify.com/episode/7qGa1yqTIp02WqL8E7MTO8) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 27:11 |
+| 27 | [Pierre Delahousse \- "Je mangeais la fourchette en bois"](https://open.spotify.com/episode/1XQxu8J4s6svFGWilzPPNH) | [Tchatcheuse](https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ) | [Tchatcheuse](https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ) | 59:21 |
 
-Snapshot ID: `Z3utsQAAAACU6n9xgz7HR2PDbOankIy6`
+Snapshot ID: `Z5kHzgAAAABzZ2Bwnu473KwBpNN4h9Ah`

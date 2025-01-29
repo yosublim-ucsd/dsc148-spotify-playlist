@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Morgan Wallen",
-  "num_followers": 581723,
+  "num_followers": 581819,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-01-24 05:00:26",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "I'm Not Pretty",
-      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
-    },
-    {
-      "added_at": "2025-01-24 05:00:26",
-      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+    },
+    {
+      "added_at": "2025-01-24 05:00:26",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "I'm Not Pretty",
+      "url": "https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU"
     },
     {
       "added_at": "2025-01-24 05:00:26",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-01-24 05:00:26",
       "album": {
+        "name": "Outskirts",
+        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Outskirts",
+      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
+    },
+    {
+      "added_at": "2025-01-24 05:00:26",
+      "album": {
         "name": "Wild Ones (feat. Jelly Roll)",
         "url": "https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 141367,
       "name": "Wild Ones (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
-    },
-    {
-      "added_at": "2025-01-24 05:00:26",
-      "album": {
-        "name": "Outskirts",
-        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Outskirts",
-      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
     },
     {
       "added_at": "2025-01-24 05:00:26",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-01-24 05:00:26",
       "album": {
-        "name": "Wind Up Missin\u2019 You",
-        "url": "https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj"
-      },
-      "artists": [
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "Wind Up Missin\u2019 You",
-      "url": "https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k"
-    },
-    {
-      "added_at": "2025-01-24 05:00:26",
-      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2025-01-24 05:00:26",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Wind Up Missin\u2019 You",
+        "url": "https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Halfway To Hell",
-      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+      "duration_ms": 166040,
+      "name": "Wind Up Missin\u2019 You",
+      "url": "https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k"
     },
     {
       "added_at": "2025-01-24 05:00:26",
@@ -1331,6 +1315,22 @@
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+    },
+    {
+      "added_at": "2025-01-24 05:00:26",
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
     },
     {
       "added_at": "2025-01-24 05:00:26",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2025-01-24 05:00:26",
       "album": {
+        "name": "This Is the Heavy",
+        "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "We Got History",
+      "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+      "added_at": "2025-01-24 05:00:26",
+      "album": {
         "name": "Boys Back Home",
         "url": "https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 165835,
       "name": "Boys Back Home",
       "url": "https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2"
-    },
-    {
-      "added_at": "2025-01-24 05:00:26",
-      "album": {
-        "name": "This Is the Heavy",
-        "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "We Got History",
-      "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
     }
   ],
   "unique_name": "Big Country",

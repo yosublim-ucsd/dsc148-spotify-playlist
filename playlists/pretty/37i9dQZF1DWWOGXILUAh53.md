@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: OneRepublic & Kygo
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,609 likes - 48 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,754 likes - 48 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

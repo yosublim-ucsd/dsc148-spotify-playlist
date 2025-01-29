@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,990 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,971 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 46 | [Holiday Records](https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Holiday Records](https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx) | 3:03 |
 | 47 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 48 | [I'm Going Surfing for Xmas](https://open.spotify.com/track/4Rfapwi4NNQjw2PJO7WTmo) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [I'm Going Surfing for Xmas](https://open.spotify.com/album/1Lwokr9Nxk6cyAUGYgnePf) | 2:15 |
-| 49 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
-| 50 | [Jingle Bells \- Punk Rock Version](https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza), [Henry Rollins](https://open.spotify.com/artist/6Jm8KViMNCuYjzrO1hJkcT) | [Shatner Claus](https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd) | 3:19 |
+| 49 | [Jingle Bells \- Punk Rock Version](https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza), [Henry Rollins](https://open.spotify.com/artist/6Jm8KViMNCuYjzrO1hJkcT) | [Shatner Claus](https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd) | 3:19 |
+| 50 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
 | 51 | [Christmas Shoes](https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl) | [FM Static](https://open.spotify.com/artist/043r4OwwUAYREkBLK5jAiV) | [X Christmas](https://open.spotify.com/album/7HA4NFJAIaS5BOuaUfMAcR) | 4:15 |
 | 52 | [We Wish You a Merry Christmas / Jingle Bells \- Short Edit](https://open.spotify.com/track/1UsnscOXO3MEGrl3TBP6AS) | [Normahl](https://open.spotify.com/artist/4A3ZGNdTWn4w4Aw6VFqoJm) | [We Wish You a Merry Christmas / Jingle Bells \(Short Edit\)](https://open.spotify.com/album/0ns5OyzHII4TJ0gjtfyC4b) | 2:06 |
 | 53 | [Christmas, Baby Please Come Home](https://open.spotify.com/track/0fwADJw0ieQ6F2yKhKbogt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Happy Christmas: A Tooth And Nail Christmas](https://open.spotify.com/album/6SnL8p2tCeaosY8oEKs3An) | 2:51 |

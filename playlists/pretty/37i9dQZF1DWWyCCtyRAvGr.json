@@ -1,6 +1,6 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 196016,
+  "num_followers": 196088,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZlYiowAAAADN4oXt1kLs1JQwKIqODiyd",
   "tracks": [
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
-    },
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 285506,
       "name": "Slightly Hung Over",
       "url": "https://open.spotify.com/track/6I8EbSSjimK98wiDCMtnBQ"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 215026,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Freedom Flight",
         "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 428680,
       "name": "Purple",
       "url": "https://open.spotify.com/track/510i2lQvSKIgFXVrq2Dg5Y"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 215026,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
-      },
-      "artists": [
-        {
-          "name": "Slim Harpo",
-          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
-        }
-      ],
-      "duration_ms": 134826,
-      "name": "Buzz Me, Babe",
-      "url": "https://open.spotify.com/track/2lvBjTlia0x9GXfnZ3jbui"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 167000,
       "name": "Papa Ain't Salty",
       "url": "https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+      },
+      "artists": [
+        {
+          "name": "Slim Harpo",
+          "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
+        }
+      ],
+      "duration_ms": 134826,
+      "name": "Buzz Me, Babe",
+      "url": "https://open.spotify.com/track/2lvBjTlia0x9GXfnZ3jbui"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "His Best: The Electric B.B. King (Expanded Edition)",
         "url": "https://open.spotify.com/album/5mdl9vCNEXZl1EbRdHMRW4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 309373,
       "name": "Don't Answer The Door",
       "url": "https://open.spotify.com/track/5JIsQC6ObGhzzRHMdEPMdV"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Keep on Lovin' the Blues",
-        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
-      },
-      "artists": [
-        {
-          "name": "John Primer",
-          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Hiding Place",
         "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 443160,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Keep on Lovin' the Blues",
+        "url": "https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm"
+      },
+      "artists": [
+        {
+          "name": "John Primer",
+          "url": "https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Like a Ship",
+      "url": "https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "Jake's Blues",
-        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Red Latham",
-          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "Jake's Blues",
-      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 331600,
       "name": "Rainy Day Blues",
       "url": "https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "Jake's Blues",
+        "url": "https://open.spotify.com/album/01M40NXXc0i5mu2Ybm7T7I"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Red Latham",
+          "url": "https://open.spotify.com/artist/5kmoCRQWzALw8CyRfCfz0U"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "Jake's Blues",
+      "url": "https://open.spotify.com/track/2X2Jk7H5EG8VY91a7Jh0OI"
     },
     {
       "added_at": "2024-05-28 18:29:55",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-05-28 18:29:55",
       "album": {
-        "name": "When It Suns It Shines",
-        "url": "https://open.spotify.com/album/2iGCKYAsFhCvqd8OFEWl8p"
-      },
-      "artists": [
-        {
-          "name": "Alicia Gail",
-          "url": "https://open.spotify.com/artist/4Q9CkAPfAQBeHWs1q0h23k"
-        }
-      ],
-      "duration_ms": 270440,
-      "name": "When It Suns It Shines",
-      "url": "https://open.spotify.com/track/4gEcChNiNpMi7BV4JoUaaE"
-    },
-    {
-      "added_at": "2024-05-28 18:29:55",
-      "album": {
         "name": "Everything I Need",
         "url": "https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 420386,
       "name": "Need Her So Bad",
       "url": "https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW"
+    },
+    {
+      "added_at": "2024-05-28 18:29:55",
+      "album": {
+        "name": "When It Suns It Shines",
+        "url": "https://open.spotify.com/album/2iGCKYAsFhCvqd8OFEWl8p"
+      },
+      "artists": [
+        {
+          "name": "Alicia Gail",
+          "url": "https://open.spotify.com/artist/4Q9CkAPfAQBeHWs1q0h23k"
+        }
+      ],
+      "duration_ms": 270440,
+      "name": "When It Suns It Shines",
+      "url": "https://open.spotify.com/track/4gEcChNiNpMi7BV4JoUaaE"
     },
     {
       "added_at": "2024-05-28 18:29:55",

@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Ares.
 
-4,201 songs - 9 day 4 hr 56 min
+4,202 songs - 9 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3434,6 +3434,7 @@
 | [Sweat](https://open.spotify.com/track/2icgt5jY4q7QizU2PFQkJl) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Sweat](https://open.spotify.com/album/41TGksDNlabLcOy0UIMUPT) | 3:19 | 2024-05-23 | 2024-06-01 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-27 | 2024-07-05 |
 | [Sweet](https://open.spotify.com/track/4GPlVxGyUFfuuZExYPp4mP) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Sweet](https://open.spotify.com/album/5vaYdxmwVwmKXpXRWX3oQp) | 2:15 | 2024-12-05 | 2024-12-13 |
+| [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-23 |  |
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-17 | 2024-10-25 |
 | [Sweet Emotion](https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Sweet Emotion](https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0) | 3:08 | 2024-07-25 | 2024-08-02 |
 | [Sweet Nothing](https://open.spotify.com/track/1uAZhciIvjilQJWg4e30w4) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I'm Not Always Sad, Sometimes I'm Angry](https://open.spotify.com/album/4tFDkjZhcwOAiZAsGBcTtO) | 3:20 | 2024-10-31 | 2024-11-08 |

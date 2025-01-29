@@ -4,7 +4,7 @@
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 4 min
+104 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 | 2024-01-12 |  |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-05-26 |  |
 | [Be Something](https://open.spotify.com/track/65jw6GhwQW3Db55PxlPEpS) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 3:14 | 2024-03-07 | 2024-10-13 |
+| [By Myself \(feat\. Rod Wave & Rylo Rodriguez\)](https://open.spotify.com/track/4pnwBTwGbXdZYgPhYJPRsr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:17 | 2025-01-29 |  |
 | [By Myself \(feat\. Rod Wave & Rylo Rodriguez\)](https://open.spotify.com/track/6zrCf0MGof32vwLPZIZY2S) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:17 | 2025-01-20 | 2025-01-27 |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2024-01-12 |  |
 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 | 2024-09-22 | 2024-12-20 |
@@ -55,7 +56,7 @@
 | [How It Feels](https://open.spotify.com/track/62nb5YUYUqtYJhVPwRhCke) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:46 | 2024-05-10 | 2024-11-15 |
 | [I Am \(Lil Baby & Gunna\)](https://open.spotify.com/track/3F57PtOdqRpD6euFYqtKXX) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2024-05-10 | 2024-10-07 |
 | [I Promise](https://open.spotify.com/track/0m0NTpTPaIajAhXDPJ9wvL) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 3:03 | 2025-01-05 | 2025-01-06 |
-| [Idol](https://open.spotify.com/track/4IfxToBz2qP1XbLVODTFyK) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:48 | 2025-01-16 |  |
+| [Idol](https://open.spotify.com/track/4IfxToBz2qP1XbLVODTFyK) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 1:48 | 2025-01-16 | 2025-01-29 |
 | [In A Minute](https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:20 | 2024-01-12 |  |
 | [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-11-18 |  |
 | [Leave Em Alone \(Layton Greene, Lil Baby feat\. City Girls, PnB Rock\)](https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Layton Greene](https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:51 | 2024-01-12 |  |

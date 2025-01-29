@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,077 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,085 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 46 | [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 |
 | 47 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
 | 48 | [Håll i dig](https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd) | [Wagwan](https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Håll i dig](https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM) | 3:18 |
-| 49 | [Låt oss leva](https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:40 |
+| 49 | [Kommunikation](https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH) | [WillMan](https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu) | [Kommunikation](https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV) | 2:41 |
 | 50 | [Kär Och Galen](https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Kär Och Galen](https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN) | 3:21 |
 
 Snapshot ID: `ZnlWJQAAAAA91o11/im3EFYmVEimbkox`

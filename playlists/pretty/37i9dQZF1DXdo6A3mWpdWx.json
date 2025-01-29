@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1020365,
+  "num_followers": 1020949,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Livin' la Vida Loca",
-      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 239226,
       "name": "Remember the Time",
       "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Livin' la Vida Loca",
+      "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Cosmic Girl - Remastered 2013",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 262000,
       "name": "Let Me Entertain You",
       "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 244146,
+      "name": "Cosmic Girl - Remastered 2013",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "To The Maxximum",
-        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
-        }
-      ],
-      "duration_ms": 226734,
-      "name": "Get A Way",
-      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "To The Maxximum",
+        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
+        }
+      ],
+      "duration_ms": 226734,
+      "name": "Get A Way",
+      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1463,6 +1463,34 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "The Best Of Suzanne Vega - Tried And True",
+        "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
+        },
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        },
+        {
+          "name": "Neal Slateford",
+          "url": "https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2"
+        },
+        {
+          "name": "Nick Batt",
+          "url": "https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Tom's Diner - 7\" Version",
+      "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7hP1XPeFjOYTM2xgruJZyo"
       },
@@ -1491,34 +1519,6 @@
       "duration_ms": 227266,
       "name": "Men In Black - From \"Men In Black\" Soundtrack",
       "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "The Best Of Suzanne Vega - Tried And True",
-        "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
-      },
-      "artists": [
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
-        },
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        },
-        {
-          "name": "Neal Slateford",
-          "url": "https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2"
-        },
-        {
-          "name": "Nick Batt",
-          "url": "https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Tom's Diner - 7\" Version",
-      "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Back For Good",
         "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 230266,
       "name": "You're My Heart, You're My Soul '98",
       "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "There Is a Party",
-        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Let the Dream Come True",
-      "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1655,22 +1639,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
         }
       ],
-      "duration_ms": 285706,
-      "name": "Heartbreaker (feat. JAY-Z)",
-      "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
+      "duration_ms": 241066,
+      "name": "Let the Dream Come True",
+      "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1703,6 +1683,26 @@
       "duration_ms": 269973,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 285706,
+      "name": "Heartbreaker (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
-      },
-      "artists": [
-        {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "S Club",
         "url": "https://open.spotify.com/album/6Aw5MrjWmWcjECqpsp1Fz5"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 214400,
       "name": "Bring It All Back",
       "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+      },
+      "artists": [
+        {
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
-      },
-      "artists": [
-        {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
-        }
-      ],
-      "duration_ms": 351026,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Seven Days and One Week",
         "url": "https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 271568,
       "name": "Seven Days and One Week - Radio Edit",
       "url": "https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        }
+      ],
+      "duration_ms": 351026,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
     }
   ],
   "unique_name": "90s Party",

@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Beach Fossils
 
-470 songs - 1 day 4 hr 48 min
+471 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [del mar county fair 2008](https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [del mar county fair 2008](https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9) | 2:54 | 2023-03-17 |  |
 | [Desperado](https://open.spotify.com/track/3fR9wnaW7Cpg8DsUL1CvGS) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Desperado / Born on a Train](https://open.spotify.com/album/49GxzbR4cjgBH5JAeYF9mz) | 3:40 | 2022-02-25 | 2024-04-30 |
 | [Different Now](https://open.spotify.com/track/1J0aTXvZG634UfviOVGMi5) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y), [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Different Now](https://open.spotify.com/album/7AKbVhsHqz4enFZBTsJe4n) | 4:25 | 2023-08-08 |  |
+| [Do I Wanna Know? \- Live At the BBC](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 | 2025-01-28 |  |
 | [Don't Be Cruel](https://open.spotify.com/track/4IYTQwLYh1lVHhCC2jBi9S) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Don't Be Cruel](https://open.spotify.com/album/50mcyygO5E1QoALtPm2ZXH) | 7:06 | 2021-03-12 | 2022-04-20 |
 | [Don't Dream It's Over](https://open.spotify.com/track/3SZ5m5GQyIKIhIoizDGTQg) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Dweeb Tapes](https://open.spotify.com/album/5YIN6swBDIybgewMSEpX54) | 3:14 | 2022-08-09 | 2022-10-21 |
 | [Don't Dream It's Over](https://open.spotify.com/track/3sUV0LeCtlNr5lihUD77uZ) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Dweeb Tapes](https://open.spotify.com/album/2s7VheheoWlkR3WNtXWfZG) | 3:14 | 2023-10-13 | 2024-02-18 |
@@ -115,7 +116,7 @@
 | [Don't Speak](https://open.spotify.com/track/5GFOBEhxOYCG2yM8vBgtdD) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [A Change Is Gonna Come \(U.S\. Release\)](https://open.spotify.com/album/1PI1juIuPm3zq1nIOBJl5S) | 4:43 | 2021-03-12 | 2022-04-10 |
 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2021-03-12 | 2022-08-10 |
 | [Don't You Want Me](https://open.spotify.com/track/6gREYnl1rgTBE06YIDZheT) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3) | 3:19 | 2021-03-12 | 2022-07-23 |
-| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 |  |
+| [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 | 2021-03-19 | 2025-01-29 |
 | [Dreams](https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 2:55 | 2023-03-17 |  |
 | [Dreams](https://open.spotify.com/track/5RWbKDWHNFzmGar0rIiEev) | [JST FRNDS](https://open.spotify.com/artist/7liK6kUh6nKLH7NpvU1PLQ) | [Dreams](https://open.spotify.com/album/524NcQjDgENatNMySqXIde) | 4:21 | 2021-03-12 | 2022-06-10 |
 | [Dreams](https://open.spotify.com/track/5Ppp9IJc7xKMImEhwBTR0n) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Dreams](https://open.spotify.com/album/0SSyy4oYR6KxnQN8bPeK6r) | 4:19 | 2021-03-12 | 2022-04-21 |

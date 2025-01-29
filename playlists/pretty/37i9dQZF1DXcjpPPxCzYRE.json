@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 418752,
+  "num_followers": 418815,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 240622,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Cosmic Wacho",
-        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
       },
       "artists": [
         {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 205577,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 205577,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
       },
@@ -1359,6 +1359,26 @@
       "duration_ms": 197213,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Ojos de Miel",
+        "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
+      },
+      "artists": [
+        {
+          "name": "Valhua",
+          "url": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
+        },
+        {
+          "name": "Lou Cornago",
+          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Ojos de Miel",
+      "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1399,22 +1419,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Ojos de Miel",
-        "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
       "artists": [
         {
-          "name": "Valhua",
-          "url": "https://open.spotify.com/artist/7mkOIVa1b0BR4XAS07VEOK"
-        },
-        {
-          "name": "Lou Cornago",
-          "url": "https://open.spotify.com/artist/71QLvXvl9jdkFiGzLIwh9v"
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
         }
       ],
-      "duration_ms": 202886,
-      "name": "Ojos de Miel",
-      "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1447,22 +1463,6 @@
       "duration_ms": 146176,
       "name": "Hay algo en ti",
       "url": "https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
-      },
-      "artists": [
-        {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2025-01-03 09:30:40",

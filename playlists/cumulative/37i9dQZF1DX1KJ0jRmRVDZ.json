@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "1/2",
+        "url": "https://open.spotify.com/album/41zXfOtgblUUZhPlDzrxLd"
+      },
+      "artists": [
+        {
+          "name": "\u6893\u5ddd",
+          "url": "https://open.spotify.com/artist/2iydjGtDnXejF2L1pgsBB8"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197939,
+      "name": "1/2",
+      "url": "https://open.spotify.com/track/1x1cEFHyyEsgkq7CYBBYtX"
+    },
+    {
+      "album": {
         "name": "1\u65e5\u306f25\u6642\u9593\u3002",
         "url": "https://open.spotify.com/album/42PDpS84WQde4z0TsXcm2X"
       },
@@ -5341,6 +5359,28 @@
     },
     {
       "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/3obgXX4aSK1cckluCjtmNH"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        },
+        {
+          "name": "Moe Shop",
+          "url": "https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266185,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5yNVbUy0Wb9sI16sPqq8Sm"
+    },
+    {
+      "album": {
         "name": "Nakimushi Schrodinger",
         "url": "https://open.spotify.com/album/6fsuQLB9fxWBpGX2nlZXrg"
       },
@@ -5406,7 +5446,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 192633,
       "name": "NE-CHU-SHOW",
       "url": "https://open.spotify.com/track/312kNPD3KoZarnIgqs7H3O"
@@ -8505,6 +8545,32 @@
     },
     {
       "album": {
+        "name": "THE RAVING SIMULATOR 2",
+        "url": "https://open.spotify.com/album/2wQsEhlv9UbI5IsaApmpVm"
+      },
+      "artists": [
+        {
+          "name": "Oblongar",
+          "url": "https://open.spotify.com/artist/6iPNWiDiSp5mNhQFgtgJWz"
+        },
+        {
+          "name": "That Fancy I",
+          "url": "https://open.spotify.com/artist/15fSvdx1tBXP6uwf0vfNIj"
+        },
+        {
+          "name": "\u6c34\u69fd",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262285,
+      "name": "WAVERED (feat. \u6c34\u69fd)",
+      "url": "https://open.spotify.com/track/1067oA4D7n32z3agcL1Ern"
+    },
+    {
+      "album": {
         "name": "Whale-fall Community",
         "url": "https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr"
       },
@@ -9808,7 +9874,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 191018,
       "name": "\u305f\u3060\u3001\u541b\u306e\u307e\u307e\u3067",
       "url": "https://open.spotify.com/track/4z7Qk41xRBHV9C9pNqxZ2U"
@@ -15940,7 +16006,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 210870,
       "name": "\u30e2\u30ce\u30c8\u30fc\u30f3",
       "url": "https://open.spotify.com/track/42XeicjBjdyu7boDDtHkvu"
@@ -16428,7 +16494,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 195640,
       "name": "\u30eb\u30fc\u30c4",
       "url": "https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR"
@@ -17287,6 +17353,24 @@
     },
     {
       "album": {
+        "name": "FAKE COVER",
+        "url": "https://open.spotify.com/album/0E44L5LjFy1pr58sN9XKsj"
+      },
+      "artists": [
+        {
+          "name": "FAKE TYPE.",
+          "url": "https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189966,
+      "name": "\u4eee\u88c5\u72c2\u9a12\u66f2",
+      "url": "https://open.spotify.com/track/7jxH0awoMkE4NOUbXUurgw"
+    },
+    {
+      "album": {
         "name": "\u4f1a\u3048\u306a\u3044",
         "url": "https://open.spotify.com/album/0QkxlHYmvEsgFRsAhhP8Jz"
       },
@@ -17780,7 +17864,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 246773,
       "name": "\u5343\u5e74\u594f\u8005",
       "url": "https://open.spotify.com/track/2eZ09y1TYKOXJR14GmU3Bf"
@@ -21498,6 +21582,24 @@
       "duration_ms": 189026,
       "name": "\u72ec\u767d - \u30ab\u30f3\u30b6\u30ad\u30a4\u30aa\u30ea Remix",
       "url": "https://open.spotify.com/track/1cVRrn4pnQdg5wokWKyWu9"
+    },
+    {
+      "album": {
+        "name": "\u751f\u751f\u52d5\u52d5",
+        "url": "https://open.spotify.com/album/5oCaow3OFfF1h50scqXM3T"
+      },
+      "artists": [
+        {
+          "name": "FantasticYouth",
+          "url": "https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "\u72ec\u796d\u6c11\u8a71",
+      "url": "https://open.spotify.com/track/6oZHOGfrdj8HLXDiVqr8PX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-349 songs - 19 hr 11 min
+350 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 | 2023-12-01 | 2024-06-24 |
 | [Di Nobo](https://open.spotify.com/track/4KCs5QWk6YBcIMqSfSqAiJ) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Di Nobo / Shonuff](https://open.spotify.com/album/6wMSTM3o8peez0H1RSTfKI) | 3:15 | 2021-10-08 | 2022-07-29 |
 | [Di Nobo](https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Di Nobo / Shonuff](https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB) | 3:15 | 2021-10-08 | 2023-11-11 |
-| [Diablo \(Que Rico\)](https://open.spotify.com/track/4qbjFXrNrMU4U5fvBjMUBz) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Diablo \(Que Rico\)](https://open.spotify.com/album/60lk6qlz0jEjiXkCdUOsUl) | 2:31 | 2024-05-03 |  |
+| [Diablo \(Que Rico\)](https://open.spotify.com/track/4qbjFXrNrMU4U5fvBjMUBz) | [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Diablo \(Que Rico\)](https://open.spotify.com/album/60lk6qlz0jEjiXkCdUOsUl) | 2:31 | 2024-05-03 | 2025-01-29 |
 | [Diamonds](https://open.spotify.com/track/6kLiLGTBQ0RhPgYOHYt9gI) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/6WD7M9RxSh0SKryaGiHkXb) | 2:55 | 2021-11-26 | 2022-07-29 |
 | [Diamonds](https://open.spotify.com/track/7k7dPK1j1yRW4qW3WfwoZy) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi), [Jayson Alanzo](https://open.spotify.com/artist/6RpWxHyYKaMf59DRdgbCg5) | [Diamonds](https://open.spotify.com/album/1swFMuQMyNIKrR3ywxQYVk) | 2:55 | 2021-11-26 | 2023-11-11 |
 | [Dile](https://open.spotify.com/track/5nZ9KC7vuQe8vy7N3M5YXj) | [Juos](https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl) | [Dile](https://open.spotify.com/album/2BHqGdPeSADGVZ5P1CcxAi) | 2:30 | 2024-03-19 |  |
@@ -237,6 +237,7 @@
 | [Nicotina](https://open.spotify.com/track/6oWPpW3OWrypVoCHB2Cpw0) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [Nicotina](https://open.spotify.com/album/3RPabycr55t7BDwUOzwhE0) | 3:08 | 2024-03-22 | 2024-05-26 |
 | [No Paramos](https://open.spotify.com/track/7iVuADTdjqmJpyqIn6JehB) | [LEYVA](https://open.spotify.com/artist/075bPZuXI1J26sV7ziRhzZ), [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [No Paramos](https://open.spotify.com/album/1UGr6Elb8Yb9Hv5Nq4KbPJ) | 3:05 | 2024-08-09 | 2024-10-26 |
 | [No Pares](https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW) | [No Pares](https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z) | 3:33 | 2024-02-09 | 2024-03-25 |
+| [No Sin MÍ](https://open.spotify.com/track/3LANRm9lDEs9Aqg6UY5ePH) | [Talula Music](https://open.spotify.com/artist/6VGJn3HnOCSrlcBBtpfNQ7), [Lucas Cash](https://open.spotify.com/artist/4kBk37a53jWlSwkVin09yc) | [No Sin MÍ](https://open.spotify.com/album/1LXK8LsB8pG6rPynSdG9mg) | 4:18 | 2025-01-28 |  |
 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 | 2024-07-05 |  |
 | [OBSESION](https://open.spotify.com/track/2Xv7APjqwJ7wY5nr7DGyHH) | [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [OBSESION](https://open.spotify.com/album/6LUNRiG1rFwl45oQibVRLd) | 3:37 | 2024-11-15 |  |
 | [Olvidar](https://open.spotify.com/track/3unK4aO28ZE2NNQM9BuCmX) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [krypt\. vol2](https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq) | 5:48 | 2021-10-08 | 2023-11-11 |

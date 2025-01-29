@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 26091,
+  "num_followers": 26100,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAAFvQ9ykNMVAgkd0PCfSGeQ",
+  "snapshot_id": "Z5bMgAAAAAA2LD3i3lm3EbzDTyhUW0nj",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "duration_ms": 229807,
+      "name": "The Name (feat. Koryn Hawthorne)",
+      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -623,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Torey D'Shaun",
+          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
         },
         {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 229807,
-      "name": "The Name (feat. Koryn Hawthorne)",
-      "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+      "duration_ms": 159500,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
     },
     {
       "added_at": null,
@@ -659,26 +679,6 @@
       "duration_ms": 153469,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
-      },
-      "artists": [
-        {
-          "name": "Torey D'Shaun",
-          "url": "https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3U0Goea638QMskz9f7l53B"
     },
     {
       "added_at": null,
@@ -762,11 +762,15 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Mattie of For Today",
+          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
         }
       ],
-      "duration_ms": 38706,
-      "name": "(9 Am)",
-      "url": "https://open.spotify.com/track/7LUgv3Nyuxi2j1G7OWHElI"
+      "duration_ms": 236353,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     },
     {
       "added_at": null,
@@ -838,15 +842,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Mattie of For Today",
-          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
         }
       ],
-      "duration_ms": 236353,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
+      "duration_ms": 38706,
+      "name": "(9 Am)",
+      "url": "https://open.spotify.com/track/7LUgv3Nyuxi2j1G7OWHElI"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Divine Storm",
-        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
-      },
-      "artists": [
-        {
-          "name": "Ty Brasel",
-          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 207129,
-      "name": "The Power +",
-      "url": "https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Another Win",
         "url": "https://open.spotify.com/album/7veYjJEJdSVMaxU9NBIObU"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 225621,
       "name": "Another Win",
       "url": "https://open.spotify.com/track/7sLlmRNA9DoY4Ijrl6jbzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Divine Storm",
+        "url": "https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe"
+      },
+      "artists": [
+        {
+          "name": "Ty Brasel",
+          "url": "https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 207129,
+      "name": "The Power +",
+      "url": "https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L"
     },
     {
       "added_at": null,

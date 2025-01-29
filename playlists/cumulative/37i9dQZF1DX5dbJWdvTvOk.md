@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-760 songs - 1 day 8 hr 23 min
+762 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Dream Sweet Dreams](https://open.spotify.com/track/4NgP1eBz1VPVKWDDIgsDvW) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [Dream Sweet Dreams](https://open.spotify.com/album/4gWqNj16uzmwC4VglSdtFt) | 1:40 | 2023-04-21 | 2023-08-26 |
 | [Dreams Forever](https://open.spotify.com/track/4jC1oGON5Oei2Gm80RRej5) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Dreams Forever](https://open.spotify.com/album/5yfv3WJqhIjuYo0HxGpxVZ) | 2:18 | 2023-04-21 |  |
 | [Dreamy Meadows](https://open.spotify.com/track/1rUJumpgrhAbL0PfhbTX7z) | [Timothy Hall](https://open.spotify.com/artist/5WQIOA7Nu5yv3EVY7a6ot2) | [Dreamy Meadows](https://open.spotify.com/album/0xefdrtyuO0gIAPhzePx5c) | 2:31 | 2024-05-24 |  |
+| [Dripping Ink](https://open.spotify.com/track/7oSRJwhRI80F6aMV33dZ9t) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Dripping Ink](https://open.spotify.com/album/7rxlruoX81Q26EZoVK7sr1) | 1:42 | 2025-01-27 |  |
 | [Droplets](https://open.spotify.com/track/5dqXVZIkN8zzWQTStYGr0i) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [Droplets](https://open.spotify.com/album/3hgVEb5uOhSbwPnosbYMZt) | 2:22 | 2023-04-21 |  |
 | [Dubrovnik](https://open.spotify.com/track/6bTvNM2GfDx56jhng3K6Uj) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Dubrovnik](https://open.spotify.com/album/00ofzPCdvfpTcffTPxqoZr) | 2:05 | 2023-05-12 | 2024-10-02 |
 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 | 2023-09-29 |  |
@@ -473,7 +474,7 @@
 | [Northern Lights](https://open.spotify.com/track/2KBsor7M5dzpNzOGTGEzvf) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Northern Lights](https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L) | 2:14 | 2024-08-20 |  |
 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2023-04-21 | 2023-04-27 |
 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 | 2023-10-23 |
-| [Nostalgic Memories](https://open.spotify.com/track/1NAZJrkYw51qkxkyyE9Olc) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Nostalgic Memories](https://open.spotify.com/album/2jLfK4yOn715dvrxLVLV71) | 3:23 | 2024-11-20 |  |
+| [Nostalgic Memories](https://open.spotify.com/track/1NAZJrkYw51qkxkyyE9Olc) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Nostalgic Memories](https://open.spotify.com/album/2jLfK4yOn715dvrxLVLV71) | 3:23 | 2024-11-20 | 2025-01-29 |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
 | [Nuovi inizi](https://open.spotify.com/track/0odeeMwtvPisk7GJdTrP8m) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Nuovi inizi](https://open.spotify.com/album/5bUd4Ea2GEcJudlDfMGE94) | 2:02 | 2023-04-21 | 2024-05-08 |
 | [Oak](https://open.spotify.com/track/12fpjrMk5mK2rpr6VwVAbs) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nantucket](https://open.spotify.com/album/6nwzydXcRkEsvMIK2mGpfB) | 2:57 | 2023-04-21 | 2023-06-03 |
@@ -544,6 +545,7 @@
 | [Riso](https://open.spotify.com/track/0wijlfBBmTPzrE8DoClLKL) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Riso](https://open.spotify.com/album/2VmFSZrAeIXRHOO2oX0flG) | 3:20 | 2023-04-21 | 2023-06-09 |
 | [River crossing](https://open.spotify.com/track/1oaGPO8tK1VnTc6zBWzNkL) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [River crossing](https://open.spotify.com/album/2pj3W209MgHfvHu5bPclaQ) | 2:35 | 2024-05-24 |  |
 | [River of Regisfield](https://open.spotify.com/track/02p0tuBNxqqaiveKZOXgDn) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [River of Regisfield](https://open.spotify.com/album/4ULQ5eDNyE3acU66R9YnqP) | 1:52 | 2023-04-21 | 2023-08-26 |
+| [River's Edge](https://open.spotify.com/track/7lcpqrRdvs8komIL2UI1e6) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [River's Edge](https://open.spotify.com/album/0nqR7HIHANllfef8LZt8NZ) | 3:02 | 2025-01-27 |  |
 | [Rolling Hills](https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Rolling Hills](https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8) | 1:57 | 2023-04-21 | 2023-08-26 |
 | [Romance Castellano](https://open.spotify.com/track/3pW3bF6TRv7bmeH8vw5Lkm) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Romance Castellano](https://open.spotify.com/album/3riMPqEcEtegXn7vGQ8KEm) | 2:15 | 2022-10-07 | 2023-04-22 |
 | [Rome Tivoli](https://open.spotify.com/track/5cjoEk6N6psm1BO9Qdd4ML) | [Miguel Serugetti](https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz) | [Rome Tivoli](https://open.spotify.com/album/2PqlKRq3A5LJlV7G8NBkom) | 1:51 | 2022-09-16 | 2023-04-22 |
@@ -641,7 +643,7 @@
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2023-04-21 | 2023-08-26 |
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2023-04-21 | 2023-08-26 |
-| [Sunrise Close](https://open.spotify.com/track/1ztpA0KFZH4G5gNrLk4sTx) | [Twilight Place](https://open.spotify.com/artist/7c53nfQRh1Q743et6xkq1J) | [Sunrise Close](https://open.spotify.com/album/3GXHGgVyHKHSRervon4Rur) | 2:32 | 2023-11-24 |  |
+| [Sunrise Close](https://open.spotify.com/track/1ztpA0KFZH4G5gNrLk4sTx) | [Twilight Place](https://open.spotify.com/artist/7c53nfQRh1Q743et6xkq1J) | [Sunrise Close](https://open.spotify.com/album/3GXHGgVyHKHSRervon4Rur) | 2:32 | 2023-11-24 | 2025-01-29 |
 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 | 2023-06-02 |  |
 | [Sunshine avenue](https://open.spotify.com/track/1K53kXlMNqLpdeMh1PqOum) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Sunshine avenue](https://open.spotify.com/album/3nqZymslQr1U9HgNfiYPwL) | 2:29 | 2024-10-01 |  |
 | [Supernova](https://open.spotify.com/track/3fdOkah1IiOii4fpHg5b0C) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Supernova](https://open.spotify.com/album/2K0EhxeFypyV9DWdbDYBiW) | 2:34 | 2023-09-29 |  |

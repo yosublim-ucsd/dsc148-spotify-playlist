@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-1,276 songs - 3 day 0 hr 39 min
+1,277 songs - 3 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [EL CLúB](https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL CLúB](https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF) | 3:42 | 2024-12-07 | 2025-01-08 |
 | [El Gordo Trae El Mando](https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [El Gordo Trae El Mando](https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6) | 1:52 | 2023-05-02 | 2023-05-15 |
 | [El Hokage](https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 2:05 | 2023-03-18 | 2023-04-14 |
+| [el ingeniero](https://open.spotify.com/track/6TT5rB0Rwneb6ZaopHQir4) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:26 | 2025-01-28 |  |
 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-09-22 | 2023-10-01 |
 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 | 2021-12-26 | 2025-01-04 |
 | [El Listón De Tu Pelo](https://open.spotify.com/track/34OqC7ejSH2Xz7cmCfVRzU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Pachangón Sonidero](https://open.spotify.com/album/4IuvHsh5JjYRrkIlsUkhlK) | 3:37 | 2024-12-26 | 2024-12-28 |
@@ -967,7 +968,7 @@
 | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente: Bzrp Music Sessions, Vol\. 49](https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj) | 8:39 | 2022-03-05 | 2022-04-04 |
 | [Respira um pouco](https://open.spotify.com/track/4az8fgF18kY4hXMcuwhRZq) | [D'Santa](https://open.spotify.com/artist/3XB1zun39OI6rlfnFkNYmU), [MagicBlack Records](https://open.spotify.com/artist/29eKHWexvG18PXiPk7MQoP), [D'Walk](https://open.spotify.com/artist/5nUFLUEs5KKFTH9rXEJnB4), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Volk Beats](https://open.spotify.com/artist/1lHlSqlA6GjPIJHUgn5dYi) | [Respira um pouco](https://open.spotify.com/album/5kV03hszBAJMRKIHfbT53S) | 3:08 | 2023-11-27 | 2023-11-29 |
 | [Revolú](https://open.spotify.com/track/4lqJsJd7kqWVvamQ4aFHA8) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:35 | 2024-11-16 | 2024-12-07 |
-| [Rey Sin Reina](https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:30 | 2025-01-19 |  |
+| [Rey Sin Reina](https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:30 | 2025-01-19 | 2025-01-29 |
 | [REZAS](https://open.spotify.com/track/1Vj0a0Ox501tSjxMFq7FtO) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [REZAS](https://open.spotify.com/album/0cFHZfT43EQHck5pa9s1A1) | 3:05 | 2021-12-28 | 2022-02-21 |
 | [Rezas](https://open.spotify.com/track/7iHuzLWiHtQstKUs4FFd21) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [Rezas](https://open.spotify.com/album/0j8tsa7sDmpdMI607h09sa) | 3:05 | 2022-02-20 | 2022-04-24 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2022-11-14 |

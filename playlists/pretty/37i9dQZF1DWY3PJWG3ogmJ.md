@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,597 likes - 120 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,690 likes - 120 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 55 | [Trial by Fire](https://open.spotify.com/track/0DRhN7G5jfmZZqUyN6uy1B) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast II](https://open.spotify.com/album/0koMGPUKzfeKYT376Unywa) | 3:17 |
 | 56 | [At War with Love](https://open.spotify.com/track/5FQWkrXcQjbmTVgVWnP0Ed) | [Nasty](https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB) | [Realigion](https://open.spotify.com/album/4afXSzVyWCZMHFAuJdwG4R) | 3:33 |
 | 57 | [In Darkness](https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [In Darkness](https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD) | 2:37 |
-| 58 | [Dreh auf!](https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6) | [We Butter The Bread With Butter](https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf) | [Dreh auf!](https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD) | 3:04 |
-| 59 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
+| 58 | [Iron Strengthens Iron](https://open.spotify.com/track/3az8b1yUBQ2JJMgRP0hXwQ) | [Dyscarnate](https://open.spotify.com/artist/6SvjnoIxcyGjkhoazemIlB) | [With All Their Might](https://open.spotify.com/album/44T2XNcei3Bq04flbhwn9I) | 4:35 |
+| 59 | [Dreh auf!](https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6) | [We Butter The Bread With Butter](https://open.spotify.com/artist/1oA1SW4FRAis6e8krh5YAf) | [Dreh auf!](https://open.spotify.com/album/6wfCf6I0akMdGasL0DcywD) | 3:04 |
 | 60 | [Invidious](https://open.spotify.com/track/0FFI8kPrtI1bWTLyOsLxzi) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [The Level Above Human](https://open.spotify.com/album/2nUvjugCEOHrvjxSoJiknN) | 4:18 |
 | 61 | [Silvera](https://open.spotify.com/track/6TubvpDV05llddNR8d2JNP) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Silvera](https://open.spotify.com/album/2XNTiesU16xyjXoCEYrfzX) | 3:32 |
 | 62 | [In The Court Of The Dragon](https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P) | 5:09 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 68 | [No Way Out](https://open.spotify.com/track/6Bx2mNH8QzyBo0bFYBId5A) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [No Way Out](https://open.spotify.com/album/53pGwO9NtrSLYBYm6Cmo5r) | 3:19 |
 | 69 | [Human](https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Abyss Pt I](https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4) | 3:55 |
 | 70 | [Curse Us](https://open.spotify.com/track/7rST24w7mbPpLXbPtJHtD4) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Curse Us](https://open.spotify.com/album/5M0HrALsh99LkP1xfz39cI) | 4:42 |
-| 71 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 |
-| 72 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
+| 71 | [Playing the Victim](https://open.spotify.com/track/6RZ8XyeLf77Qiby52iXW8b) | [Blood Youth](https://open.spotify.com/artist/7f6aaGesYhnRPTcI36JGsb) | [Playing the Victim](https://open.spotify.com/album/6lpNPXtYqjMq50B8mYwqfe) | 3:46 |
+| 72 | [Vermin](https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Vermin](https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab) | 3:38 |
 | 73 | [Reflections](https://open.spotify.com/track/55phx17AxbonvXWipSlHON) | [Destinity](https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6) | [In Continuum](https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW) | 4:53 |
 | 74 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 |
 | 75 | [Protector](https://open.spotify.com/track/24lq7iazH1xoHKCXRgl3La) | [Heaven Shall Burn](https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW) | [Protector](https://open.spotify.com/album/3zp6F2teb7pJ4NrGJvzNcW) | 5:21 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 104 | [Narcissus](https://open.spotify.com/track/67TLcedNMzqt7hXF5Z4t4K) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Narcissus](https://open.spotify.com/album/3RSvBqR7JagDbfsNtJP40p) | 3:08 |
 | 105 | [So Much for Love](https://open.spotify.com/track/0DGdIxB7uUIgmyRvSmt3HO) | [Xile](https://open.spotify.com/artist/0CzR5dQOy1y5niJZXGype3) | [I Am Your God](https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw) | 2:55 |
 | 106 | [Strength to Draw the Line](https://open.spotify.com/track/5Tuyx5F52gMpUr5CdH8Awg) | [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Strength to Draw the Line](https://open.spotify.com/album/53js4P31lZMSZlINykloRH) | 2:48 |
-| 107 | [No Brother, No Friend](https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV) | [Justice For The Damned](https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8) | [No Brother, No Friend](https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI) | 3:31 |
-| 108 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
+| 107 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
+| 108 | [No Brother, No Friend](https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV) | [Justice For The Damned](https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8) | [No Brother, No Friend](https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI) | 3:31 |
 | 109 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 |
 | 110 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
 | 111 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |

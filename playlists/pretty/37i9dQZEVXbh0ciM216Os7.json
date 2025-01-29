@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABCKT1/wJCDFnuuhUBUY7w3",
+  "snapshot_id": "AAAAAAAAAADFVSfMnwKfVcKlmtTQMCR7",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:00",
@@ -67,22 +67,18 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "DIVE (deluxe)",
-        "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 182386,
-      "name": "jupiter",
-      "url": "https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4"
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -107,18 +103,22 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "Midnight Messiah",
-        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+        "name": "DIVE (deluxe)",
+        "url": "https://open.spotify.com/album/7rte7WibgnQAyx25NhYJp6"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 478186,
-      "name": "Midnight Messiah",
-      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
+      "duration_ms": 182386,
+      "name": "jupiter",
+      "url": "https://open.spotify.com/track/2R9tRDrSrKgfO3UgicExI4"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -151,6 +151,26 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
+        "name": "Thrill Seeker: 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/18i1US3ZBYi8DmEIVo3gvi"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Adam Dutkiewicz",
+          "url": "https://open.spotify.com/artist/7MQmvww3EAbsmv7p1O0ufN"
+        }
+      ],
+      "duration_ms": 243281,
+      "name": "Speech Impediment",
+      "url": "https://open.spotify.com/track/0pj8RpSy2wLaS7CToKoa10"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
         "name": "Tweaker",
         "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
       },
@@ -163,22 +183,6 @@
       "duration_ms": 189544,
       "name": "Tweaker",
       "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Balloonerism",
-        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 263941,
-      "name": "Funny Papers",
-      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -199,6 +203,22 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -211,6 +231,26 @@
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "GBP (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -239,22 +279,18 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "GBP (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 154800,
-      "name": "GBP (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -295,54 +331,6 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "Same Old Song",
-        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 174322,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
-        "name": "Blackhole",
-        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
         "name": "Dare U",
         "url": "https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V"
       },
@@ -363,18 +351,18 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+        "name": "Blackhole",
+        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -399,6 +387,22 @@
       "duration_ms": 153250,
       "name": "Alter Ego (feat. Eminem)",
       "url": "https://open.spotify.com/track/4fchxVAOV4T6fkaL8jkNou"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "Glass Shatters (New Mix)",
+        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 244397,
+      "name": "Glass Shatters - New Mix",
+      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -479,26 +483,6 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "247365",
-        "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
-      },
-      "artists": [
-        {
-          "name": "MC.SUPRA",
-          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "247365",
-      "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/7Ev7EiIqgRRFY3fKXS2uhi"
       },
@@ -527,6 +511,26 @@
       "duration_ms": 308589,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/03XeWmadwkt3osO7cozsqm"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "247365",
+        "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
+      },
+      "artists": [
+        {
+          "name": "MC.SUPRA",
+          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "247365",
+      "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
     },
     {
       "added_at": "2025-01-24 05:00:00",
@@ -591,22 +595,6 @@
     {
       "added_at": "2025-01-24 05:00:00",
       "album": {
-        "name": "American Primeval (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0N1aDLJfHd3s78yZINQAqH"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "A Melancholy",
-      "url": "https://open.spotify.com/track/5oJsQtznN1gxjv2Akf7wi9"
-    },
-    {
-      "added_at": "2025-01-24 05:00:00",
-      "album": {
         "name": "The Call That Never Ended, Pt. 1",
         "url": "https://open.spotify.com/album/01CTkUKTpiRO6XCAoJH9F4"
       },
@@ -623,6 +611,22 @@
       "duration_ms": 105048,
       "name": "Baawe She Callin",
       "url": "https://open.spotify.com/track/1cgtnrPjZpHdeRkIrSiFsc"
+    },
+    {
+      "added_at": "2025-01-24 05:00:00",
+      "album": {
+        "name": "American Primeval (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0N1aDLJfHd3s78yZINQAqH"
+      },
+      "artists": [
+        {
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "A Melancholy",
+      "url": "https://open.spotify.com/track/5oJsQtznN1gxjv2Akf7wi9"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

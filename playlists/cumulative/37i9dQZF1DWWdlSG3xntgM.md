@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-304 songs - 1 day 2 hr 17 min
+305 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Cho người vào cuộc chiến](https://open.spotify.com/track/3rOFjt9Ex6ZlUEjCTxIwVi) | [Thúy Hà](https://open.spotify.com/artist/15y6KeCjSxo6GZIjxFIg9G) | [Nhạc lính tuyển chọn\- Thúy hà](https://open.spotify.com/album/0bqpbzn6bWgIpE406KBvtd) | 6:22 | 2022-03-11 | 2022-07-12 |
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/1YKdd2qGWbHTlUPICTZ9b8) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuấn Vũ \- Tuyệt Phẩm Để Đời](https://open.spotify.com/album/7dXRbsTyd3zxiA931DSi6k) | 5:49 | 2023-10-06 | 2023-10-13 |
 | [Cho Vừa Lòng Em](https://open.spotify.com/track/6UD98g4tbiLzjas9m81jpo) | [Đàm Vĩnh Hưng](https://open.spotify.com/artist/4ht0wODL01ELRxlDYvsFad) | [Qua Cơn Mê](https://open.spotify.com/album/5e8L4OFh0PSEKzWYKY9uAK) | 5:31 | 2022-03-11 | 2022-07-28 |
-| [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 | 2024-05-27 |  |
+| [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 | 2024-05-27 | 2025-01-29 |
 | [Chuyến tàu hoàng hôn](https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Thương Về Miền Trung](https://open.spotify.com/album/3N6nwHtcPzuxlnwWFj4jYA) | 5:36 | 2022-03-11 |  |
 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 4:55 | 2022-03-11 |  |
 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/0Lk9vVQXX2lgzUHQUorp2T) | [Nghệ sĩ Thụy Mười](https://open.spotify.com/artist/3HmGUdPh4IOzv9WXoFkHgJ) | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/album/18x2bES32ZumNCvQQnssB8) | 6:17 | 2023-05-24 | 2024-02-22 |
@@ -201,6 +201,7 @@
 | [Phút cuối](https://open.spotify.com/track/2EBKtrg8Ei8jdkQEibSs8Y) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi), [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [The Best Of Chế Linh, Thanh Tuyền \(Mai Lỡ Hai Mình Xa Nhau\)](https://open.spotify.com/album/29foAhxdGSqC8UKRzWaVVz) | 5:28 | 2022-03-11 | 2022-07-25 |
 | [Phút Cuối](https://open.spotify.com/track/2BRpOQqVyiQUKQhRbI4Oqi) | [Phương Thùy](https://open.spotify.com/artist/4apZlWGGA1dF1xiOGCbFKJ) | [Tiếng Hát Phương Thủy](https://open.spotify.com/album/399efcxa6ciCAuNenqs422) | 5:27 | 2024-03-12 | 2024-04-19 |
 | [Phút Cuối](https://open.spotify.com/track/5kU2AE6ym4UvQSsNOskUBV) | [Phương Thùy](https://open.spotify.com/artist/4apZlWGGA1dF1xiOGCbFKJ) | [Tiếng Hát Phương Thủy](https://open.spotify.com/album/0uhdjL2EFw9G8konMUFsYy) | 5:27 | 2024-03-12 | 2024-05-10 |
+| [Phút giao mùa](https://open.spotify.com/track/7eCops8eHQIQJsAu58pZVV) | [Trung Chỉnh](https://open.spotify.com/artist/47IrJ9hKGyEsksm5vDvk9L), [Ngọc Minh](https://open.spotify.com/artist/1ntCsguH9wLbZZmYchWtls) | [Chuyện Tình Mộng Thường](https://open.spotify.com/album/3ZSWvIcaxQEaZVhec2QINp) | 5:45 | 2024-05-27 |  |
 | [Phận Em Một Nửa Yêu Thương](https://open.spotify.com/track/3NxjO85vlYor8PsXGXpszQ) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Phận Em Một Nửa Yêu Thương](https://open.spotify.com/album/0wBRxUTY7BoYz0MklrZyaF) | 5:20 | 2022-03-11 | 2022-07-16 |
 | [Phận tơ tằm](https://open.spotify.com/track/1dIPqgG0f9LIkhSlRSdtVi) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 7:17 | 2024-02-09 | 2024-03-12 |
 | [Phố Buồn](https://open.spotify.com/track/4u8YoKzPsETMPeF9NmWmRk) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tiếng Ca U Hoài](https://open.spotify.com/album/4JsHbGogTL0bKygS0bhRPi) | 3:27 | 2023-08-08 | 2024-04-19 |

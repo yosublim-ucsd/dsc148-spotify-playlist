@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,404 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,397 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 77 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 | 78 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 |
 | 79 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 |
-| 80 | [Smith & Wesson Freestyle \(feat\. Marracash\)](https://open.spotify.com/track/596fQREtpVHWRl3xCmVhEM) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:10 |
+| 80 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
 
 Snapshot ID: `Z1Lz3QAAAAAvvUQT5M7MMVf5/Gw3lHzT`

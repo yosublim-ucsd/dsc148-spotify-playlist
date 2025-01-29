@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,817 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,816 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 82 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/59XrtVk0rikGWU6plMniJF) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [J.S\. Bach: Goldberg Variations, BWV 988: Aria](https://open.spotify.com/album/2geJLd7c3hxTvwdlLZT79j) | 4:05 |
 | 83 | [nowhere \- 2023 Remastered](https://open.spotify.com/track/0k23cl8qC2XyZXc1HpSmBS) | [\[.que\]](https://open.spotify.com/artist/01FtA9GKCdkhtXHZrxi1v7) | [Nightfall \(2023 Remastered\)](https://open.spotify.com/album/7Dkecjt0UmfZFFSS6VGr1m) | 4:01 |
 | 84 | [泡 \(ALBUM ver.\)](https://open.spotify.com/track/1RVHkDoAuGib7L8b9c2tBz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 4:35 |
-| 85 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
-| 86 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
+| 85 | [I Can't Tell You Why](https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:40 |
+| 86 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 87 | [ブラームス : ピアノ三重奏曲 第1番 ロ長調 作品8 \(改訂版\)　I.アレグロ・コン・ブリオ](https://open.spotify.com/track/1sHttxtGdviF0KDuwARDZt) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [中村太地](https://open.spotify.com/artist/3NCVteZ4MxcZFZOHMBJIrQ), [辻󠄀本玲](https://open.spotify.com/artist/0uuUSlQkhniHDw2v3ziUHg), [佐藤卓史](https://open.spotify.com/artist/4KBVGFOgBM0fFaX5naFYr3) | [ヨハネス・ブラームス＆クララ・シューマン：ピアノ・トリオ](https://open.spotify.com/album/5dnLSF8bbmIjvLUoeFdp6z) | 14:20 |
-| 88 | [I Can't Tell You Why](https://open.spotify.com/track/5GAh0yww213mHRQGyDHwk7) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:40 |
+| 88 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
 | 89 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 |
 | 90 | [Württemberg Sonatas / Sonata No\. 4 in B\-Flat Major, H\. 32: II\. Andante](https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS) | [Carl Philipp Emanuel Bach](https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Carl Philipp Emanuel Bach](https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j) | 3:00 |
 | 91 | [City Lights](https://open.spotify.com/track/0VJAIkt9hYubij6WfLdxr0) | [katsuya mouri](https://open.spotify.com/artist/59aeG5GFkFLzdEzJEZ5yz2) | [City Lights](https://open.spotify.com/album/23ga5xwu3OEsKE6mfP66Yg) | 3:42 |

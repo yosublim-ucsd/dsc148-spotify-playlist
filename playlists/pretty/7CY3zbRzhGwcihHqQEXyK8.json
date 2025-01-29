@@ -6,7 +6,7 @@
     "name": "Rookii",
     "url": "https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb"
   },
-  "snapshot_id": "AAABhFzRaubAVtmeu/L79iB7CRwIo19g",
+  "snapshot_id": "AAABhbgqdumHzFJC6CVfP48XgS/g7VnP",
   "tracks": [
     {
       "added_at": "2024-12-15 03:47:51",
@@ -10371,6 +10371,30 @@
       "duration_ms": 410307,
       "name": "Black Mass",
       "url": "https://open.spotify.com/track/1O047NE68YUR6j26zBPz2O"
+    },
+    {
+      "added_at": "2025-01-29 00:03:04",
+      "album": {
+        "name": "Bang! (feat. Hayley Kiyoko) [AhhHaa Remix]",
+        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "AhhHaa",
+          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
+        }
+      ],
+      "duration_ms": 167649,
+      "name": "Bang! (feat. Hayley Kiyoko) - AhhHaa Remix",
+      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
     }
   ],
   "unique_name": "Rook's Collection of Withdrawn Songs",

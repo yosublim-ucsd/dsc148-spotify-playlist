@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Arsenal Efectivo, Omar Ru\u00edz en portada.",
-  "num_followers": 137030,
+  "num_followers": 137065,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nx9gAAAABLAFDxpTkYy8YBBQZiDzNl",
+  "snapshot_id": "Z5knBgAAAABbPurgjys24vH07EWrcxRH",
   "tracks": [
     {
       "added_at": "2025-01-17 06:00:22",
@@ -743,26 +743,6 @@
     {
       "added_at": "2025-01-17 06:00:22",
       "album": {
-        "name": "Lujo y Detalle",
-        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Lujo y Detalle",
-      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": "2025-01-17 06:00:22",
-      "album": {
         "name": "Tiempos de Guerra",
         "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 172248,
       "name": "Tiempos de Guerra",
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
+    },
+    {
+      "added_at": "2025-01-17 06:00:22",
+      "album": {
+        "name": "Lujo y Detalle",
+        "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 158784,
+      "name": "Lujo y Detalle",
+      "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
     },
     {
       "added_at": "2025-01-17 06:00:22",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-01-17 06:00:22",
       "album": {
-        "name": "ICE CREAM",
-        "url": "https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW"
-      },
-      "artists": [
-        {
-          "name": "Los mismos De La M",
-          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "ICE CREAM",
-      "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
-    },
-    {
-      "added_at": "2025-01-17 06:00:22",
-      "album": {
         "name": "Ondeado V2",
         "url": "https://open.spotify.com/album/3QP7QduLUEP3xkQQNZpkYl"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 355869,
       "name": "Ondeado V2",
       "url": "https://open.spotify.com/track/5X5thivWst7CHdwIO3l2qw"
+    },
+    {
+      "added_at": "2025-01-17 06:00:22",
+      "album": {
+        "name": "ICE CREAM",
+        "url": "https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW"
+      },
+      "artists": [
+        {
+          "name": "Los mismos De La M",
+          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "ICE CREAM",
+      "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
     },
     {
       "added_at": "2025-01-17 06:00:22",

@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 505915,
+  "num_followers": 506169,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,30 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 305333,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) [Remix]",
         "url": "https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 456939,
       "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) - Remix",
       "url": "https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 305333,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
     },
     {
       "added_at": "2024-03-08 16:14:30",

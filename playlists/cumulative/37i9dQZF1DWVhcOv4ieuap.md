@@ -4,7 +4,7 @@
 
 > Alegra tu día con lo más pop para la mañana.
 
-408 songs - 21 hr 42 min
+409 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2022-07-06 | 2022-12-17 |
 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 | 2022-12-01 | 2023-02-25 |
 | [Luna mar](https://open.spotify.com/track/6NQHukyi4qcPuC3ZfCVyLu) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Luna mar](https://open.spotify.com/album/3NtPpmzBw3Pfjn6ng3XuAa) | 3:15 | 2024-07-05 | 2024-08-03 |
-| [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 | 2024-05-03 |  |
+| [Luz](https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Luz](https://open.spotify.com/album/54iXGKn6LPMXZVeIs9uqQo) | 3:06 | 2024-05-03 | 2025-01-29 |
 | [Lío](https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Lío](https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8) | 2:46 | 2023-03-31 | 2023-05-26 |
 | [Mami](https://open.spotify.com/track/3bDD7GGvIzAZeHz2TOYD3A) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Mami](https://open.spotify.com/album/069LGoUMDaNgoKStPYdSi8) | 3:49 | 2022-01-01 | 2022-03-17 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-04-15 | 2024-05-04 |
@@ -324,6 +324,7 @@
 | [Ráptame](https://open.spotify.com/track/7KvrfnCkHb2qBDyVOqJ2bt) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Ahora](https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD) | 3:18 | 2022-01-01 | 2022-06-04 |
 | [Sabe](https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sabe](https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0) | 2:57 | 2022-04-15 | 2022-07-29 |
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-04-15 | 2022-12-02 |
+| [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-01-28 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2022-12-01 |  |
 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-03 |  |

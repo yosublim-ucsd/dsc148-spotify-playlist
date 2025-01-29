@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,617 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,623 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 49 | [Easy To Love](https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:29 |
 | 50 | [Tulle](https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Quiet](https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz) | 5:00 |
 | 51 | [Norwegian Wood](https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The New Standard](https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd) | 8:04 |
-| 52 | [April In Paris](https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54) | [Lionel Hampton Quintet](https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd) | [The Lionel Hampton Quintet](https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh) | 6:22 |
-| 53 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
-| 54 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 |
+| 52 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 |
+| 53 | [April In Paris](https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54) | [Lionel Hampton Quintet](https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd) | [The Lionel Hampton Quintet](https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh) | 6:22 |
+| 54 | [Moonlight \(Claro de Luna\)](https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 5:33 |
 | 55 | [Worlds Outside](https://open.spotify.com/track/5as828xQewhAy2JBXwakAj) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [The Very Best of Chris Botti](https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD) | 4:37 |
 | 56 | [Greensleeves](https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:11 |
 | 57 | [Stars Fell On Alabama](https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:23 |

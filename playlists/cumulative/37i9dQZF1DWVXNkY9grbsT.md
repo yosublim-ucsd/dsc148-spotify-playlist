@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-444 songs - 1 day 12 hr 55 min
+445 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Crypt](https://open.spotify.com/track/3aRW4dPpIzTOVoLm9aIT2A) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Keep Going..\. Under](https://open.spotify.com/album/0V6ZruB2SwjUuN2AaFJG4p) | 5:10 | 2021-12-26 | 2023-08-12 |
 | [Cult of Isis](https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 7:41 | 2023-12-01 | 2024-03-22 |
 | [Cutting Room I](https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cutting Room I \(from the Netflix Series "Top Boy"\)](https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi) | 2:18 | 2023-08-18 | 2024-09-07 |
-| [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 |  |
+| [Cycles](https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i) | [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [Information \- EP](https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw) | 5:30 | 2023-01-16 | 2025-01-29 |
 | [Cycles](https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 4:11 | 2023-05-05 | 2025-01-15 |
 | [daltabaix](https://open.spotify.com/track/4oT3HoWaRhOLkxmVFbeDbH) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/6MbMttWnGjUDCwdfjEQf31) | 4:40 | 2022-01-23 | 2023-08-12 |
 | [Decay Time \- Extended Mix](https://open.spotify.com/track/2X1mzN8hQoSRzHtVOC4Z9z) | [Maxwell Sterling](https://open.spotify.com/artist/0bXOAY3HryVuSfQLmip6VR) | [Decay Time \(Extended Mix\)](https://open.spotify.com/album/5qHAzo402psMmFfOfvLL0W) | 6:21 | 2022-04-01 | 2023-05-13 |
@@ -311,6 +311,7 @@
 | [PRIMORDIUM FINALE](https://open.spotify.com/track/1JUbpsghtrxEipWObkhQPB) | [Mario Batkovic](https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz) | [INTROSPECTIO](https://open.spotify.com/album/1emFYt0TSm5loTPAl8eQJQ) | 5:05 | 2022-12-30 | 2023-01-28 |
 | [PRIMORDIUM FINALE](https://open.spotify.com/track/1dD8yh11kmmeqEr0JYmrwo) | [Mario Batkovic](https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz) | [PRIMORDIUM FINALE](https://open.spotify.com/album/1VH4ssXDBYN7QoNuAy6nWO) | 5:05 | 2021-12-26 | 2022-07-28 |
 | [Proof of My Existence](https://open.spotify.com/track/7DOzFtfWtleNT2nXfxrkJM) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [Proof of My Existence](https://open.spotify.com/album/1yqH34M8NBfm5sDYW6Idqh) | 2:24 | 2022-10-16 | 2025-01-10 |
+| [Psychic Geography](https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 7:04 | 2025-01-24 |  |
 | [Pulse of the Underdrive](https://open.spotify.com/track/4jRV4brshwypOxfLsyJbY6) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [Underworlds](https://open.spotify.com/album/4HODRQX7N0krTEO5XHdyv6) | 4:40 | 2021-12-26 | 2022-07-27 |
 | [Purple](https://open.spotify.com/track/68XYj0LKFtVKzqsQy8CdVP) | [Sundayman](https://open.spotify.com/artist/4QBplENqCYmyjKCsVKOWRy) | [Outerland II](https://open.spotify.com/album/2iMNkkCosQP2B1caimXt9I) | 4:20 | 2022-03-25 | 2024-10-15 |
 | [Ray](https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 5:34 | 2025-01-14 |  |

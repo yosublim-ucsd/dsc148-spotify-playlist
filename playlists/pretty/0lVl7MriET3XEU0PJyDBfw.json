@@ -6,7 +6,7 @@
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "AAAa8V/XX7DES2eOQafY9tay3iRT+1J1",
+  "snapshot_id": "AAAa86dDJr1H+g4SgPnZ14y4dpPHk+O0",
   "tracks": [
     {
       "added_at": "2024-06-21 05:39:46",
@@ -23,6 +23,22 @@
       "duration_ms": 199687,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe"
+    },
+    {
+      "added_at": "2025-01-29 00:00:33",
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9"
+      },
+      "artists": [
+        {
+          "name": "Icarix",
+          "url": "https://open.spotify.com/artist/0MxIuhSYO3ek7VTPsOcbcr"
+        }
+      ],
+      "duration_ms": 161868,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB"
     },
     {
       "added_at": "2025-01-23 22:11:05",
@@ -1895,26 +1911,6 @@
       "duration_ms": 201860,
       "name": "Move (Don't)",
       "url": "https://open.spotify.com/track/6qeYhQm1jvBBToaltny4Hq"
-    },
-    {
-      "added_at": "2024-11-04 04:29:46",
-      "album": {
-        "name": "NASTY",
-        "url": "https://open.spotify.com/album/6K2vReL8woto0ZMhUF1P0B"
-      },
-      "artists": [
-        {
-          "name": "Jake Shore",
-          "url": "https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA"
-        },
-        {
-          "name": "Fya Man",
-          "url": "https://open.spotify.com/artist/644ezI82brXn85lO9kI6ab"
-        }
-      ],
-      "duration_ms": 170551,
-      "name": "NASTY",
-      "url": "https://open.spotify.com/track/09rdtmzo1R9vmlJhmD3Nbp"
     }
   ],
   "unique_name": "BASSLINE THERAPY",

@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 627246,
+  "num_followers": 627386,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACoZOy3Rzhh6dofLeBt64MX",
+  "snapshot_id": "Z5bMgAAAAAA1IbbhG5j6EEqctGYx6ed6",
   "tracks": [
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 224320,
-      "name": "What Is Right",
-      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
+      "duration_ms": 213640,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
     },
     {
       "added_at": null,
@@ -684,29 +684,25 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 213640,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+      "duration_ms": 224320,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bigbang 03",
-        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        },
-        {
-          "name": "Park Bom",
-          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 218618,
-      "name": "Forever With U (Feat. Park Bom)",
-      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+      "duration_ms": 210240,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
     },
     {
       "added_at": null,
@@ -727,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+        "name": "Bigbang 03",
+        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
         }
       ],
-      "duration_ms": 210240,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
+      "duration_ms": 218618,
+      "name": "Forever With U (Feat. Park Bom)",
+      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
     },
     {
       "added_at": null,

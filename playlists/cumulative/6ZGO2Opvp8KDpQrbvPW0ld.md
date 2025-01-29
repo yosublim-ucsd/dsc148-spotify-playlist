@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-3,093 songs - 4 day 14 hr 15 min
+3,094 songs - 4 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Back Then](https://open.spotify.com/track/4sC0hQvHR1OJ2vkIhetgGK) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4) | [Ukiyo](https://open.spotify.com/album/5DVYBPzSTHmYifC3Z8J87v) | 2:17 | 2024-07-11 | 2024-08-04 |
 | [Background](https://open.spotify.com/track/7DvXqH3OsSGqJ4wonKESwO) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Background](https://open.spotify.com/album/5aCGrcYgBfopQmxL40CWYk) | 2:15 | 2025-01-03 |  |
 | [Backstage](https://open.spotify.com/track/14fWAbmmjhKAPA7EPOvoBf) | [Weiter](https://open.spotify.com/artist/462DmE2Hco2VkFR105IWRe) | [Backstage](https://open.spotify.com/album/3HJJaCTUKoIh7heqsnMyXu) | 1:20 | 2023-12-07 | 2024-01-03 |
+| [Backyard Stories](https://open.spotify.com/track/2OX0mKkJ0dJrwhJWStjLdg) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [Backyard Stories](https://open.spotify.com/album/0CBiSh7LendqF36XX2HnnI) | 2:03 | 2025-01-29 |  |
 | [baggy fit](https://open.spotify.com/track/5T1cGOXM6d3ixJZxoHpLCf) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [cute.a](https://open.spotify.com/artist/4M2GOXttGFdgK95pZtvy5b) | [baggy fit](https://open.spotify.com/album/6SRz6VeIlxYzVzA13HGXcZ) | 1:36 | 2024-08-19 | 2024-10-26 |
 | [Bahama Breeze](https://open.spotify.com/track/7xRYxEEgFqfm1FTePz2h3o) | [Intoku](https://open.spotify.com/artist/0Eoy1XlOfZ0xiHKayBoJbi) | [Bahama Breeze](https://open.spotify.com/album/4UGssNOZeaIMc4pZr5uLFr) | 1:48 | 2023-12-07 | 2023-12-16 |
 | [Bahia Groove](https://open.spotify.com/track/04B4xYJzcNqlbKY1VNJgtg) | [koufuku bits](https://open.spotify.com/artist/1yZwqGOsV2QnZaWoscSLzq) | [Bahia Groove](https://open.spotify.com/album/4r5ip57wu6RTKTjffhY9cE) | 2:09 | 2024-07-11 | 2024-08-28 |
@@ -2461,7 +2462,7 @@
 | [Somber](https://open.spotify.com/track/3PF7wSnvLbYiWJgKbSe3rQ) | [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Presence](https://open.spotify.com/album/2TlcvR1SQtCWLPrzYQybKD) | 2:00 | 2024-01-21 | 2024-03-23 |
 | [Somber Moments](https://open.spotify.com/track/7fvvLWPTap5kPpqoUfKUNW) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Hoffmeister](https://open.spotify.com/artist/48K944nMj0000CJfDhAnkv) | [Somber Moments](https://open.spotify.com/album/1zeuxnJDshJjIhDOWdUs0Y) | 1:57 | 2024-06-28 | 2024-09-18 |
 | [sombrinha](https://open.spotify.com/track/2is9DfWXlRpIijmsK1bg5W) | [ntourage](https://open.spotify.com/artist/3VFouO8Pibb8cA4c4uF4fO) | [Beginnings II](https://open.spotify.com/album/3SfZfTM65vdMog2q5BUyKD) | 2:20 | 2024-12-29 | 2025-01-04 |
-| [Some Doubt](https://open.spotify.com/track/5GW9qVSV1NbO4asyZqRrp2) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Some Doubt](https://open.spotify.com/album/1w3pan476dCZ0apDVR1fub) | 1:45 | 2024-12-07 |  |
+| [Some Doubt](https://open.spotify.com/track/5GW9qVSV1NbO4asyZqRrp2) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Some Doubt](https://open.spotify.com/album/1w3pan476dCZ0apDVR1fub) | 1:45 | 2024-12-07 | 2025-01-29 |
 | [SOME MORE](https://open.spotify.com/track/2F3lFABruw51S1yf4w222j) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [SOME MORE](https://open.spotify.com/album/4bss6mazCqu80fevNciI5r) | 1:55 | 2024-07-29 | 2024-08-28 |
 | [Some Vibes](https://open.spotify.com/track/4w3ZCvANb12MDDagQsB0xu) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Some Vibes](https://open.spotify.com/album/47LzGxNjujw51g6oItxhlk) | 2:26 | 2024-11-13 |  |
 | [Someday](https://open.spotify.com/track/2aGuwrcUg1lB9G4OR2B1Yu) | [intime](https://open.spotify.com/artist/7qRNFExHXMXcJtmjafPasi) | [Someday](https://open.spotify.com/album/54ioEIvq2uycOyi1alBllm) | 2:17 | 2024-02-22 | 2024-04-12 |

@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 341787,
+  "num_followers": 341802,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "SexyBack",
-        "url": "https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        },
-        {
-          "name": "Fella",
-          "url": "https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "SexyBack",
-      "url": "https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/2RXRJ75O6KCXHWgIaM2kov"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 158181,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/5xjXfai7bW503D99N7ofqb"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "SexyBack",
+        "url": "https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        },
+        {
+          "name": "Fella",
+          "url": "https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "SexyBack",
+      "url": "https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "It's A Hard Knock Life (Prezioso Remix)",
-        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
-      },
-      "artists": [
-        {
-          "name": "D.T.E",
-          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 149788,
-      "name": "It's A Hard Knock Life - Prezioso Remix",
-      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 182506,
       "name": "Better Place - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "It's A Hard Knock Life (Prezioso Remix)",
+        "url": "https://open.spotify.com/album/6SNomlenerzizegZNU4yoU"
+      },
+      "artists": [
+        {
+          "name": "D.T.E",
+          "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "duration_ms": 149788,
+      "name": "It's A Hard Knock Life - Prezioso Remix",
+      "url": "https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1191,22 +1191,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Fire To Smoke",
-        "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
+        "name": "123 (Dolly Song) (feat. Karma Child)",
+        "url": "https://open.spotify.com/album/6fAlql9r2JYYa9biWm8fhi"
       },
       "artists": [
         {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
         },
         {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
         }
       ],
-      "duration_ms": 163209,
-      "name": "Fire To Smoke",
-      "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
+      "duration_ms": 141652,
+      "name": "123 (Dolly Song) (feat. Karma Child)",
+      "url": "https://open.spotify.com/track/2h4tjVVBuvdwpuNnBq9gt0"
     }
   ],
   "unique_name": "SLAP!",

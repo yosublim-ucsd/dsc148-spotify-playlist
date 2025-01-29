@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 314225,
+  "num_followers": 314302,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAAEs2Y1NPbxNR1EfRIJme8f",
+  "snapshot_id": "Z5bMgAAAAAAxc5vWm1EtA2jiBLkFJB1N",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Akon's Beautiful Day",
+        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 157278,
+      "name": "Akon's Beautiful Day",
+      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Blue Carpet Treatment",
         "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 178840,
       "name": "I Wanna Fuck You",
       "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Akon's Beautiful Day",
-        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 157278,
-      "name": "Akon's Beautiful Day",
-      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
     },
     {
       "added_at": null,

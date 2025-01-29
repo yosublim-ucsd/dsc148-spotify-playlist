@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Tate McRae
 
-822 songs - 1 day 18 hr 20 min
+823 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Non mi scorderò mai](https://open.spotify.com/track/1DYiPoPpdw05UhF1XCKg7s) | [Peter White](https://open.spotify.com/artist/3YygU1SuVx6bJVRrlE0WUL) | [Non mi scorderò mai](https://open.spotify.com/album/1yxkuzMamnrOFqDzYaF6ft) | 2:19 | 2024-10-24 | 2024-11-29 |
 | [Non è vero che sto bene](https://open.spotify.com/track/3Sr7d5L9UGjRMzgkYSEYG8) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Non è vero che sto bene](https://open.spotify.com/album/3aMmvKIfghs4i3i0uFVzYk) | 3:40 | 2024-12-19 | 2025-01-24 |
 | [Nonostante te](https://open.spotify.com/track/38ZeOiXbQJsmuTBTLyOfH6) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Nonostante te](https://open.spotify.com/album/0kB7eqpyZ95HVDghwFIVcI) | 2:48 | 2024-09-05 | 2024-09-27 |
+| [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 | 2025-01-28 |  |
 | [nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [nothing left 2 say / give u everything](https://open.spotify.com/album/3UP6UAXppXpPNzku4MrcpL) | 3:15 | 2024-12-12 | 2025-01-17 |
 | [Now I'm Alone](https://open.spotify.com/track/00006jyNU9xbe35QgJwoKS) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Robin Cause](https://open.spotify.com/artist/6cUJpnoTruVkDeTfB9EK6F) | [Now I'm Alone](https://open.spotify.com/album/24bctzmPR51yclWDF7Pl0d) | 2:05 | 2024-09-26 | 2024-10-18 |
 | [Nuda](https://open.spotify.com/track/5XWIlBkPxDb9bLK03KZk2X) | [Dea Culpa](https://open.spotify.com/artist/6X4wWxYIAoGnnNN6jh5jPI) | [Nuda](https://open.spotify.com/album/3on3PxoQTBSd9JLLVpWdQf) | 2:53 | 2024-11-14 | 2024-12-13 |

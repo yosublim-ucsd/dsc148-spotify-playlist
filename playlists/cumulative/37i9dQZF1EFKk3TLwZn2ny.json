@@ -1127,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "HOFFA",
+        "url": "https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "Who Gon Love You",
+      "url": "https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C"
+    },
+    {
+      "album": {
         "name": "Why Would I",
         "url": "https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs"
       },

@@ -4,7 +4,7 @@
 
 > 
 
-2,001 songs - 4 day 10 hr 18 min
+2,002 songs - 4 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1388,6 +1388,7 @@
 | [Please Don't Go](https://open.spotify.com/track/4HOr2xlc4Yun8M7t5LdFFc) | [Neko](https://open.spotify.com/artist/1Fx413KaORo2dLYrdZEBan), [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU) | [Please Don't Go](https://open.spotify.com/album/1uoz1qZOX7vEpT1jgjTn0y) | 4:05 | 2024-06-10 |  |
 | [Poedersneeuw 5.0](https://open.spotify.com/track/5rVzUHCSkH2LjK1ofGQfx6) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Poedersneeuw 5.0](https://open.spotify.com/album/5FRORa9GaUex3InbzgUFC3) | 3:20 | 2022-12-22 |  |
 | [Point It Up](https://open.spotify.com/track/6a10yV5KyHV5NrqAX0WTIq) | [Magistri](https://open.spotify.com/artist/1jKIo9QTqnLGMuwiZWXBKj) | [Point It Up](https://open.spotify.com/album/1zyrvMbcRKWTqZnOUxZQKP) | 2:01 | 2024-09-07 |  |
+| [poker face hardstyle](https://open.spotify.com/track/5niXKgeve5tOPK22A8jkib) | [HARDSTYLE MASTER](https://open.spotify.com/artist/3PE3BzWNqPH8eJSFMeOkfS) | [poker face hardstyle](https://open.spotify.com/album/4wbPkeB8BGI65UC98P4pxo) | 3:06 | 2025-01-28 |  |
 | [Polarized \(Back 2 The Future\)](https://open.spotify.com/track/5soMrKiCesnecKTCohSsAx) | [Code Black](https://open.spotify.com/artist/0I5is4tdxHhT3Ft2EzPjlB), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW) | [Polarized \(Back 2 The Future\)](https://open.spotify.com/album/5rcO2lgLqzB03rrKvgquI4) | 3:49 | 2024-05-10 |  |
 | [Pole Position \(Official Gearbox Pole Position 2023 Anthem\)](https://open.spotify.com/track/4QzhzKPrduGWqUU6nfXiyh) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Fraw](https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Pole Position \(Official Gearbox Pole Position 2023 Anthem\)](https://open.spotify.com/album/7dmkSNhEhI9k6h72gQ4bDa) | 4:13 | 2023-12-08 |  |
 | [Pon De Replay](https://open.spotify.com/track/7yDossRdcjgcmuSOwFa66q) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [The Herbalist](https://open.spotify.com/artist/15FJi8mBaxYory85rxoCtu) | [Pon De Replay](https://open.spotify.com/album/7sr2T1E8dZc40bN2BkbVtE) | 3:01 | 2024-08-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Asla Jo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,198 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,202 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 2 | [Fantasies](https://open.spotify.com/track/4mLr8WI3QGcHN9g4bnjgTr) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fantasies](https://open.spotify.com/album/5ZXmA40qxKsawQ36CDasQj) | 2:38 |
 | 3 | [Kuva susta](https://open.spotify.com/track/4AMBgN51V6bgcQQch1GVM3) | [Lala Salama](https://open.spotify.com/artist/1cfCkkOJXJRyw1Xt3BNCMV) | [Kuva susta](https://open.spotify.com/album/4VIbPKqFuuFsk0CIa3nIIX) | 3:52 |
 | 4 | [Wayne's World](https://open.spotify.com/track/6tMbYI2Gyu0JIZI96loy4c) | [Kissa](https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn) | [Wayne's World](https://open.spotify.com/album/46cx5Ynu8JI1V9y0cOfBYs) | 3:34 |
-| 5 | [TA\-DA!](https://open.spotify.com/track/7lbbS2wIvHez8knzGZEk53) | [Haydé](https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu) | [Picturesque](https://open.spotify.com/album/1Vligv1CNDvQxCe40lVXIO) | 3:08 |
-| 6 | [Valo Varjon](https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl) | [Reetta](https://open.spotify.com/artist/2jOcbSCMzFUAgRHHlHrlPB) | [Valo Varjon](https://open.spotify.com/album/6TliPIevIULwORE06DeonI) | 3:41 |
+| 5 | [Valo Varjon](https://open.spotify.com/track/6RrRfpFphzt5sss30sdtNl) | [Reetta](https://open.spotify.com/artist/2jOcbSCMzFUAgRHHlHrlPB) | [Valo Varjon](https://open.spotify.com/album/6TliPIevIULwORE06DeonI) | 3:41 |
+| 6 | [TA\-DA!](https://open.spotify.com/track/7lbbS2wIvHez8knzGZEk53) | [Haydé](https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu) | [Picturesque](https://open.spotify.com/album/1Vligv1CNDvQxCe40lVXIO) | 3:08 |
 | 7 | [Päiväntasaaja](https://open.spotify.com/track/5JmxXTvUXxXquGWyDGatqr) | [Tuomo Mannonen](https://open.spotify.com/artist/1pVcazwrzonZgkPQifJNRc) | [Haudatkaa perhoset](https://open.spotify.com/album/61u4ut8Kx38Glne7yLenzK) | 3:14 |
 | 8 | [I Want You I Warn You](https://open.spotify.com/track/1Y32LsmH2VTSq0Fjj9Ax3q) | [Janita](https://open.spotify.com/artist/20launVwj1rz0z4lIr8UVH) | [I Want You I Warn You](https://open.spotify.com/album/4fgVqRAy8n99jZvBuvGcR2) | 4:08 |
 | 9 | [Pass You Bye](https://open.spotify.com/track/7Il6WI9nMmJBF482BnUQaQ) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Pass You Bye](https://open.spotify.com/album/4E54WE39rUecJkIiCzZgYp) | 2:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [joka päivä jotain mun sisällä kuolee](https://open.spotify.com/track/4RLtpcQgGRyvHNIWcRFtc0) | [Ainoa](https://open.spotify.com/artist/4goWWlm3PN5QUEac5vlsrL) | [joka päivä jotain mun sisällä kuolee](https://open.spotify.com/album/4VaPlXLXzwBKm6dg5xxyIl) | 3:07 |
 | 80 | [Katulamput](https://open.spotify.com/track/2ZdibpNpzY136xCmwMzdM7) | [risto.wav](https://open.spotify.com/artist/1kWjcnkCQt6sqiOiKRlkq1) | [Katulamput](https://open.spotify.com/album/4BogYtcBypXFpywd1xaOce) | 3:05 |
 
-Snapshot ID: `Z5K8JAAAAACL6MfcXrxE9MgOYnRuoFRb`
+Snapshot ID: `Z5jlZgAAAACrMZBt9LPY0MhdKVcSE3Hh`

@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💰 Kannessa Tuure Boelius ja SMURDHY.
 
-770 songs - 1 day 14 hr 13 min
+771 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-07-02 | 2024-07-22 |
 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 | 2024-11-15 |  |
 | [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 | 2024-08-08 | 2024-11-16 |
+| [DOES GOD CRY?](https://open.spotify.com/track/265SjBtYq3TRNMZRnKQni3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DOES GOD CRY?](https://open.spotify.com/album/1Imj6FMtKCGGEZLq29CuDe) | 3:38 | 2025-01-27 |  |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-05 | 2024-11-29 |
 | [Don't you say I didn't warn you](https://open.spotify.com/track/6aKMgFfuDfGrTRZ8Mp2T2n) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Don't you say I didn't warn you](https://open.spotify.com/album/28wJZ8CEiYBeuLxXC74Hrg) | 3:12 | 2024-09-05 | 2024-09-13 |
 | [Drifting Away](https://open.spotify.com/track/2qn9okkbneoPzYsTjfpnBh) | [LAU](https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4), [AKRAS](https://open.spotify.com/artist/526l83JGpr5wgOKWHVSnWN) | [Drifting Away](https://open.spotify.com/album/4TTxQdLzxpMawNg3Z374ar) | 3:25 | 2024-07-25 | 2024-08-02 |
@@ -769,7 +770,7 @@
 | [Yliajattelen sua](https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Yliajattelen sua](https://open.spotify.com/album/5tfV5vwt0S0PMbMZAbkLVp) | 2:51 | 2024-07-04 | 2024-07-27 |
 | [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 | 2024-09-26 | 2024-10-18 |
 | [ymmällää](https://open.spotify.com/track/2Br3nupAXeAbp6E4aiw6su) | [r1](https://open.spotify.com/artist/16UN1X6J3owogXWB5Vt4i7) | [ymmällää](https://open.spotify.com/album/7L2j4GHr6vZkORAf6WkeoK) | 2:33 | 2024-07-04 | 2024-07-12 |
-| [Ympyrää](https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Ympyrää](https://open.spotify.com/album/53Z3cU90vVY3vAsH8ll3kj) | 2:25 | 2024-11-21 |  |
+| [Ympyrää](https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Ympyrää](https://open.spotify.com/album/53Z3cU90vVY3vAsH8ll3kj) | 2:25 | 2024-11-21 | 2025-01-29 |
 | [YOTD](https://open.spotify.com/track/2QNjWKQFFtSymTooVchMhO) | [Loki Wildin](https://open.spotify.com/artist/06VuScuz37y1ILce5wM4pE), [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49) | [YOTD](https://open.spotify.com/album/3ZN6COAEs5uvMpf5ucpLmH) | 2:33 | 2024-08-29 | 2024-09-06 |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-07-02 | 2024-07-12 |
 | [Young Again](https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Young Again](https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym) | 3:16 | 2024-09-05 | 2024-10-11 |

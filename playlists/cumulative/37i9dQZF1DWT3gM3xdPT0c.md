@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-394 songs - 16 hr 55 min
+396 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Dahlia](https://open.spotify.com/track/6ZUiOA4kUpxwHoqgTq502w) | [Raoul Raffino](https://open.spotify.com/artist/4OMeqxm2R62xPoMeoZ8EQB) | [Dahlia](https://open.spotify.com/album/1hez2OnBpf1Kxqr6QLthV5) | 2:20 | 2023-09-29 | 2024-06-28 |
 | [Daily Rituals](https://open.spotify.com/track/7aJyGy2IZ4CmQc41wHuNcB) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Daily Rituals](https://open.spotify.com/album/5pgq4CuRKTisd4Vx5r1UFB) | 2:22 | 2024-07-19 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-04-21 | 2023-09-01 |
+| [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-28 |  |
 | [Deeply Hidden](https://open.spotify.com/track/2MpBCkBR5ZbDwCzTJeYFbt) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Deeply Hidden](https://open.spotify.com/album/5GJu1B3anUhQ2f8o0jB1AE) | 2:44 | 2024-11-20 |  |
 | [Deliver These Words Of Mine](https://open.spotify.com/track/6BZGoIkSNK1XO87ZjGjHM2) | [Maximilian Aird](https://open.spotify.com/artist/2YEYZMKfhaoln2CS8q7Kg0) | [Deliver These Words Of Mine](https://open.spotify.com/album/2ejwvZzkzX6nc9UG2su9As) | 3:08 | 2024-02-02 |  |
 | [Delta](https://open.spotify.com/track/4yUl7OGRS5NJyfhaiSlCO3) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Delta](https://open.spotify.com/album/2FDchODE7xeDJr7LuLIh8t) | 2:47 | 2024-10-23 |  |
@@ -143,6 +144,7 @@
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-03-04 | 2024-04-06 |
 | [From Me To You](https://open.spotify.com/track/6KvEQQkHCAiIQRr75ZgiV7) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Blackbird](https://open.spotify.com/album/0W4qzJ4avPABJU3IV2jmeP) | 2:45 | 2022-12-23 | 2023-03-10 |
+| [From the quiet of morning](https://open.spotify.com/track/2d0WQKmbTMN8vmed05V9zj) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [From the quiet of morning](https://open.spotify.com/album/5DtoqlQ7kshpTlcHhwD9z3) | 2:25 | 2025-01-28 |  |
 | [From Time Before](https://open.spotify.com/track/6ZyJ4KBxjPg9bsem6xicGH) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [From Time Before](https://open.spotify.com/album/1XXbpGYdc9V9M72XNKKDXy) | 2:50 | 2024-10-09 |  |
 | [Frühlingsgefühle](https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Frühlingsgefühle](https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8) | 2:16 | 2023-09-29 |  |
 | [Full Of Life](https://open.spotify.com/track/3J27JxJCR0M6KgacpLfVAC) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Full Of Life](https://open.spotify.com/album/2TNQtjdGUSaiq5FIA2ZL1p) | 2:23 | 2024-11-06 |  |

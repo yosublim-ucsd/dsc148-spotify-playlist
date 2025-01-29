@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Immortal Technique
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,747 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,887 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 17 | [Design in Malice](https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc), [Young Zee](https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj), [Pacewon](https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt) | [Violence Begets Violence](https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5) | 3:38 |
 | 18 | [Blast](https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K) | [Reflection Eternal](https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC), [Vinia Mojica](https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC) | [Train Of Thought](https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx) | 3:07 |
 | 19 | [Above The Clouds](https://open.spotify.com/track/3ZBSXNYdTZVaBUQI3E2rF6) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 3:41 |
-| 20 | [Travellin' Man \(Remastered\)](https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:18 |
-| 21 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 |
+| 20 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 |
+| 21 | [Travellin' Man \(Remastered\)](https://open.spotify.com/track/5BAwVGuohBVscZWyoLCkkG) | [dj honda](https://open.spotify.com/artist/7mrvU3OShTgthJV80o2day), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Travellin' Man \(Remastered\)](https://open.spotify.com/album/4HSWIy1jgNMLKxZkmiAP34) | 5:18 |
 | 22 | [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 |
 | 23 | [Potholderz](https://open.spotify.com/track/1VZUXXUGqIxePaMUXkabRn) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Count Bass D](https://open.spotify.com/artist/3P1ULKxhVEpywj0hogWT44) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:20 |
 | 24 | [This Way](https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Neighborhood Watch](https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S) | 4:05 |

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 543224,
+  "num_followers": 543229,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
       },
       "artists": [
         {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO"
         }
       ],
-      "duration_ms": 301493,
-      "name": "I'll Cut You Down",
-      "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
+      "duration_ms": 72800,
+      "name": "Skweetis",
+      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
       },
       "artists": [
         {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO"
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
         }
       ],
-      "duration_ms": 72800,
-      "name": "Skweetis",
-      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
+      "duration_ms": 301493,
+      "name": "I'll Cut You Down",
+      "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435200,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Love Like Machines",
         "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 526293,
       "name": "Aquamaria",
       "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435200,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "The Great American Death Rattle",
         "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 244720,
       "name": "The Great American Death Rattle",
       "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
-      },
-      "artists": [
-        {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
-        }
-      ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "All My Friends Move Like The Night",
         "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 173808,
       "name": "All My Friends Move Like The Night",
       "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+      },
+      "artists": [
+        {
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+        }
+      ],
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2024-07-19 04:00:00",

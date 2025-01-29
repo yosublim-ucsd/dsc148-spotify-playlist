@@ -1,6 +1,6 @@
 {
   "description": "The best in new alternative pop. Cover: Charli xcx",
-  "num_followers": 47326,
+  "num_followers": 47328,
   "original_name": "alt/pop",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "I Cried, I Wept",
-        "url": "https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "I Cried, I Wept",
-      "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "Just My Luck / Tomorrow Man",
         "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 180332,
       "name": "Just My Luck",
       "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "I Cried, I Wept",
+        "url": "https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "I Cried, I Wept",
+      "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "Habits (Stay High) - Spotify Singles",
         "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 211153,
       "name": "Habits (Stay High) - Spotify Singles",
       "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "DOING IT AGAIN BABY",
-        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "dont let me go",
         "url": "https://open.spotify.com/album/2Sn6jvX2QNfeE0mW1gmhCS"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
       },
       "artists": [
         {
-          "name": "Bradley Simpson",
-          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 142906,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 239394,
       "name": "Dive",
       "url": "https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/4ue8ig83KmyEJcxR93qtNy"
+      },
+      "artists": [
+        {
+          "name": "Bradley Simpson",
+          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "BOYS",
-        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145742,
-      "name": "BOYS",
-      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "effort in",
         "url": "https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 145910,
       "name": "effort in",
       "url": "https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 145742,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
-    },
-    {
-      "added_at": "2024-10-10 23:30:00",
-      "album": {
         "name": "Shakes",
         "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 194600,
       "name": "Shakes",
       "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
+    },
+    {
+      "added_at": "2024-10-10 23:30:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "The Greatest Love (Deluxe)",
-        "url": "https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO"
+        "name": "Overglow",
+        "url": "https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
         }
       ],
-      "duration_ms": 235677,
-      "name": "Keep On Dreaming",
-      "url": "https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO"
+      "duration_ms": 158785,
+      "name": "Overglow",
+      "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
     },
     {
       "added_at": "2024-10-10 23:30:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-10-10 23:30:00",
       "album": {
-        "name": "Overglow",
-        "url": "https://open.spotify.com/album/6Q3YEMqS3cN2pX8bakdNdE"
+        "name": "The Greatest Love (Deluxe)",
+        "url": "https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO"
       },
       "artists": [
         {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 158785,
-      "name": "Overglow",
-      "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
+      "duration_ms": 235677,
+      "name": "Keep On Dreaming",
+      "url": "https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO"
     },
     {
       "added_at": "2024-10-10 23:30:00",

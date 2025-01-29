@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > 100% British \- 100% R&B\. Cover: Reuben Aziz
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,963 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,987 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 51 | [STAIN\. \(Golden Tears\)](https://open.spotify.com/track/6c5gVdxYZZFGHHxnKF44FD) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [STAIN\. \(Golden Tears\)](https://open.spotify.com/album/2DeMi7HcPgh2svwiUlMzvZ) | 4:27 |
 | 52 | [She's Gone](https://open.spotify.com/track/7J4wnrnlWavaWWihWwC9lg) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Descend](https://open.spotify.com/album/2WF4Xtbie58S3TIaqXXmKd) | 5:32 |
 | 53 | [Wish You Were Here](https://open.spotify.com/track/1Ft2AZ6MlRlhNUb0ylOCG7) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Peace in the Madness](https://open.spotify.com/album/35tJhjmneu0LOm19AD7HSw) | 3:09 |
-| 54 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 |
-| 55 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
-| 56 | [25!](https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [25!](https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A) | 2:09 |
-| 57 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
-| 58 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
-| 59 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 |
-| 60 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 |
+| 54 | [Tonight](https://open.spotify.com/track/07tj5gy6TKsQ7x0fCjrovr) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Tonight](https://open.spotify.com/album/2vidWPfA1GXSB43GhELEB5) | 2:42 |
+| 55 | [Let it Go](https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [Let it Go](https://open.spotify.com/album/670MmC6oFMJXOzKPQyWR7p) | 2:36 |
+| 56 | [Nobody Else](https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Nobody Else](https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW) | 2:11 |
+| 57 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
+| 58 | [25!](https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [25!](https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A) | 2:09 |
+| 59 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
+| 60 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 
 Snapshot ID: `Z5LYGgAAAAAI2OEhqPF2iLyVaWjet+8e`

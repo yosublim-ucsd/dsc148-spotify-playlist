@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,958 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,976 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 19 | [Scars in Heaven](https://open.spotify.com/track/2qg7U5mbHDFTXNKvPNF0IZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Scars in Heaven](https://open.spotify.com/album/6pdwWxEt670pc5jYxzbmYf) | 4:28 |
 | 20 | [If We Are The Body](https://open.spotify.com/track/0IpYDPNzFWxcLgZDkkrc5C) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 3:58 |
 | 21 | [Courageous](https://open.spotify.com/track/28Bao9cmaIMsqxragOM8ba) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:59 |
-| 22 | [Joyful, Joyful](https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Until The Whole World Hears](https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i) | 4:26 |
-| 23 | [Even When You're Running](https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 4:49 |
+| 22 | [Even When You're Running](https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 4:49 |
+| 23 | [Joyful, Joyful](https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Until The Whole World Hears](https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i) | 4:26 |
 | 24 | [Crazy People](https://open.spotify.com/track/2WCHNPQYkjeuoVzcuEBaFF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Healer](https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw) | 2:28 |
 | 25 | [Jesus, Friend Of Sinners](https://open.spotify.com/track/2ex0hGTbxQBBmKEpPwzxOt) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 5:38 |
-| 26 | [Lifesong](https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 5:16 |
-| 27 | [In the Hands of the Potter](https://open.spotify.com/track/2xMi9GG2hWkjgtgxfv1pSR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 4:08 |
+| 26 | [In the Hands of the Potter](https://open.spotify.com/track/2xMi9GG2hWkjgtgxfv1pSR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 4:08 |
+| 27 | [Lifesong](https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 5:16 |
 | 28 | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Glorious Day: Hymns of Faith](https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo) | 3:16 |
 | 29 | [Already There](https://open.spotify.com/track/1d0uIYuNGbAfgNX0Bm1wKm) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 4:31 |
 | 30 | [Broken Together](https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Thrive](https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [Song That the Angels Can't Sing](https://open.spotify.com/track/3EWv66RNUPkc1NT5lVSLqF) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:20 |
 | 50 | [Set Me Free](https://open.spotify.com/track/2zmJZypH7dZoPmKOK1xt0O) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:25 |
 
-Snapshot ID: `Z5V7AAAAAAA4tf8Fb6KPfhtQDRv28jxt`
+Snapshot ID: `Z5bMgAAAAADmrl9iI6mOy9RTsTJHlzxO`

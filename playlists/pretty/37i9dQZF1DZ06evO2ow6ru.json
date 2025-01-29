@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 174084,
+  "num_followers": 174103,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAA0X8Z+cjmT7T9NBqBQK4eu",
+  "snapshot_id": "Z5bMgAAAAADK8i2ft/NOtcCqjcrerscc",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "The Sound of Letting Go",
-      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PMA (feat. Pale Waves)",
         "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 191757,
       "name": "PMA (feat. Pale Waves)",
       "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "The Sound of Letting Go",
+      "url": "https://open.spotify.com/track/5ogBIlFs1oBHuBxOeTmnoH"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 174895,
-      "name": "Melancholy Kaleidoscope",
-      "url": "https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 174895,
+      "name": "Melancholy Kaleidoscope",
+      "url": "https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Wrong, It's Right",
         "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 199986,
       "name": "Poppin' Champagne",
       "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 182450,
-      "name": "Pretty Venom (Interlude)",
-      "url": "https://open.spotify.com/track/2nZ3LmQbY2rEd4awJVkQpd"
     },
     {
       "added_at": null,
@@ -731,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193151,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Painting Flowers",
         "url": "https://open.spotify.com/album/4CBEmsDLziXAfYtngeM8kz"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 205773,
       "name": "Painting Flowers",
       "url": "https://open.spotify.com/track/5wlgcfDW3RLyGmiUr2S4Ld"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 182450,
+      "name": "Pretty Venom (Interlude)",
+      "url": "https://open.spotify.com/track/2nZ3LmQbY2rEd4awJVkQpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193151,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
     },
     {
       "added_at": null,

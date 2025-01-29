@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Good Neighbours
 
-2,029 songs - 4 day 11 hr 21 min
+2,030 songs - 4 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [202Ø](https://open.spotify.com/track/0GvkYGfvARyRBLK0dQV2JR) | [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL) | [202Ø](https://open.spotify.com/album/2V6NsSiH2Gl307v8YhKFqZ) | 3:18 | 2020-11-13 | 2021-03-22 |
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2020-10-20 | 2022-07-29 |
 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 | 2022-06-17 | 2023-01-24 |
+| [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 | 2025-01-28 |  |
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-05-27 |
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-08 | 2022-12-22 |
 | [25/8](https://open.spotify.com/track/1rMsNUMDEp6pLOJ5BcznsF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love \(Deluxe\)](https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO) | 2:38 | 2022-02-25 | 2022-08-03 |
@@ -1371,7 +1372,7 @@
 | [Party Again](https://open.spotify.com/track/2Pj8ZzeHsiI4FEl8USfARH) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Party Again](https://open.spotify.com/album/5bAeOQJE8mkEtkYJ0Gblkx) | 2:44 | 2021-07-30 | 2021-08-07 |
 | [Party Killer](https://open.spotify.com/track/5Oz0i2ZpudFTlDO6Xym8za) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Party Killer](https://open.spotify.com/album/1IM50oY0PAFOv9BKGbqskQ) | 3:00 | 2021-03-20 | 2021-03-22 |
 | [PARTY W OUT ME](https://open.spotify.com/track/1y5pHb1686VfUAjaypoYG4) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [PARTY W OUT ME](https://open.spotify.com/album/3QjPIxdyzpOXHbuE0RE8BO) | 2:29 | 2022-07-01 | 2022-07-23 |
-| [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 | 2024-11-01 |  |
+| [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 | 2024-11-01 | 2025-01-29 |
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2021-01-23 | 2021-05-20 |
 | [Pastel Auras](https://open.spotify.com/track/5yk7ayvIsUikEiuyMONlk4) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Pastel Auras](https://open.spotify.com/album/2DaizbGwu2hiV4ZMFk48Rf) | 3:20 | 2022-07-22 | 2022-08-06 |
 | [Patience Etc...](https://open.spotify.com/track/0beASpqOl0WWQOfsYZAgGC) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr) | [Patience Etc...](https://open.spotify.com/album/682COg3eFbuAfOBQJmwnAE) | 3:30 | 2022-01-14 | 2022-04-21 |

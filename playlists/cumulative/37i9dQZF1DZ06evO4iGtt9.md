@@ -4,7 +4,7 @@
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-119 songs - 6 hr 32 min
+120 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Get the Money](https://open.spotify.com/track/27Unp5Gb6quwfE547NF5GI) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [CITIZEN OF THE WORLD](https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe) | 2:58 | 2022-12-24 |  |
 | [Girls Dem](https://open.spotify.com/track/2zXALsJFKguDSbGZK6i1mB) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:29 | 2022-01-13 | 2022-09-06 |
 | [Givin Dem](https://open.spotify.com/track/4HDdq1RWhIBgAm5xOrqN32) | [Yung Willis](https://open.spotify.com/artist/0499FesCSNLjH8MmbeXQmr), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Givin Dem](https://open.spotify.com/album/4vQbd0xwxmhE1zlIm1Gr7x) | 2:34 | 2022-06-14 | 2024-08-17 |
+| [Go Low](https://open.spotify.com/track/1g9xZjJ2oO0PZsxTt4wgbA) | [Perfecta Ekpo](https://open.spotify.com/artist/2KqUTB61bKvuqAGvzRrHoK), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [The Urban Pulse, Vol\. 22](https://open.spotify.com/album/6IWCQIYFEhc9roC6oofNYf) | 3:35 | 2025-01-29 |  |
 | [God You Are 2 Much](https://open.spotify.com/track/7o2BmnHlqzawV5z1DOyYlm) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gift And Grace](https://open.spotify.com/album/6rM9FXS15QeSFgYi6BQiCE) | 4:32 | 2022-04-09 | 2022-06-08 |
 | [Good Or Bad \(Oway\)](https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:05 | 2022-09-10 |  |
 | [Gra Gra](https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:23 | 2021-12-28 |  |
@@ -100,7 +101,7 @@
 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 | 2021-12-28 |  |
 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 | 2021-12-28 |  |
 | [Sanko](https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:07 | 2021-12-28 |  |
-| [Sexy Ladies](https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:36 | 2021-12-28 |  |
+| [Sexy Ladies](https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:36 | 2021-12-28 | 2025-01-29 |
 | [Shake Yuh Bum](https://open.spotify.com/track/5cpKuwqUdWlvu1euDQNGP2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:30 | 2021-12-28 | 2023-11-11 |
 | [Shake Yuh Bum \- Machel Montano Remix](https://open.spotify.com/track/0iwBqYjcVwtcicenrszV2X) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id) | 3:30 | 2023-11-10 |  |
 | [Sili\-Kon](https://open.spotify.com/track/4U9RIKgLeaANDbEFOZLcqT) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Sili\-Kon](https://open.spotify.com/album/7hZfm5V8n3sGnk0LS1fvFr) | 2:51 | 2022-01-04 | 2023-05-24 |

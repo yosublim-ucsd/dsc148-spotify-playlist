@@ -4,7 +4,7 @@
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 1 min
+91 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Miserable](https://open.spotify.com/track/0Odz0mm44aEHbMGHu2uZdS) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:24 | 2022-11-17 | 2023-05-15 |
 | [Monochrome](https://open.spotify.com/track/25vfrUh0jT6gPNoXwGwQwy) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Monochrome](https://open.spotify.com/album/7nAzdiAzeT0xO2g2zq0Pdx) | 3:50 | 2022-11-17 |  |
 | [More Bad News](https://open.spotify.com/track/2bYkJghT6Cz5ZMBkcBpABA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 1:24 | 2024-12-22 |  |
-| [Move On](https://open.spotify.com/track/4X2p0nmL4EAaiXIABC77gm) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 3:33 | 2024-12-22 |  |
+| [Move On](https://open.spotify.com/track/4X2p0nmL4EAaiXIABC77gm) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 3:33 | 2024-12-22 | 2025-01-29 |
+| [Move On](https://open.spotify.com/track/79h8sF4hf0LZXably5xsVV) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/5l1YqRO0Fq2WxIpX0G0lgh) | 3:33 | 2025-01-29 |  |
 | [No Nicky No](https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:17 | 2022-11-17 |  |
 | [NYC Tough Guy](https://open.spotify.com/track/12nKYUkNsMWduwCLYhotLa) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:34 | 2024-03-06 | 2024-07-10 |
 | [NYC Tough Guy](https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:34 | 2023-12-13 | 2024-12-25 |

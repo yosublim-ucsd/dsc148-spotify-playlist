@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4715,
+  "num_followers": 4716,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAADSM/fUdl4uI8hayFI17MEC",
+  "snapshot_id": "Z5bMgAAAAADSyFqUtCDTU9Hitsf6GG4f",
   "tracks": [
     {
       "added_at": null,
@@ -483,50 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOD IS GOOD (feat. Karen Clark Sheard, Hezekiah Walker & Kierra Sheard)",
-        "url": "https://open.spotify.com/album/4o7QV9Cw1YxNnnN3f70xUi"
-      },
-      "artists": [
-        {
-          "name": "Stanley Brown",
-          "url": "https://open.spotify.com/artist/2SkIiDmOxLJlgSq7oeKH2W"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        },
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 209572,
-      "name": "GOD IS GOOD (feat. Karen Clark Sheard, Hezekiah Walker & Kierra Sheard)",
-      "url": "https://open.spotify.com/track/1ratr1m5VSqRXB1zlboNzT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My City - Single",
         "url": "https://open.spotify.com/album/2nLXrmWwWYef7UOgkuUMd6"
       },
@@ -575,6 +531,50 @@
       "duration_ms": 218207,
       "name": "My City",
       "url": "https://open.spotify.com/track/4BZ0BhOjn8C6NaXnGwV1gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GOD IS GOOD (feat. Karen Clark Sheard, Hezekiah Walker & Kierra Sheard)",
+        "url": "https://open.spotify.com/album/4o7QV9Cw1YxNnnN3f70xUi"
+      },
+      "artists": [
+        {
+          "name": "Stanley Brown",
+          "url": "https://open.spotify.com/artist/2SkIiDmOxLJlgSq7oeKH2W"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 209572,
+      "name": "GOD IS GOOD (feat. Karen Clark Sheard, Hezekiah Walker & Kierra Sheard)",
+      "url": "https://open.spotify.com/track/1ratr1m5VSqRXB1zlboNzT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIERRA",
         "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 247825,
       "name": "I Choose You (Live)",
       "url": "https://open.spotify.com/track/057URVa7OFE47yCgI57mcf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bold Right Life",
-        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Love Like Crazy",
-      "url": "https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 335816,
       "name": "Making A Way (feat. Adia)",
       "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Love Like Crazy",
+      "url": "https://open.spotify.com/track/1MPT9XRJ4LaefCDGHMlpeb"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 205178,
+      "name": "Mo' Better",
+      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 282440,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 205178,
-      "name": "Mo' Better",
-      "url": "https://open.spotify.com/track/5OblpdryT79xB9YHHu9vnL"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SORRY, I CHANGED (AGAIN)",
-        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 196988,
-      "name": "Paid It All",
-      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SORRY, I CHANGED (AGAIN)",
+        "url": "https://open.spotify.com/album/0z1gNLw6wCE0azh08jDWyK"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 196988,
+      "name": "Paid It All",
+      "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heavens Are Telling",
-        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
-      },
-      "artists": [
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 403906,
-      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
-      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -991,22 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems & Glory (Live)",
-        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
+        "name": "The Heavens Are Telling",
+        "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
         },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 310644,
-      "name": "Come A Little Closer - Live",
-      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
+      "duration_ms": 403906,
+      "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
+      "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
     },
     {
       "added_at": null,
@@ -1039,6 +1019,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anthems & Glory (Live)",
+        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 310644,
+      "name": "Come A Little Closer - Live",
+      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oil + Water",
         "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bold Right Life",
-        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Praise Him Now",
-      "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Me",
         "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 289240,
       "name": "Hear This",
       "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Praise Him Now",
+      "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
     },
     {
       "added_at": null,

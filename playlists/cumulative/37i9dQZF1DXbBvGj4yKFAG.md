@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-244 songs - 12 hr 53 min
+247 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [i miss your warm hands](https://open.spotify.com/track/5Mu5BFHb4vFS5cw0hbDICV) | [i don't like mirrors](https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld) | [Not How it's Supposed to be](https://open.spotify.com/album/36tFrKEi71NmEQP8QCnZ4q) | 2:11 | 2024-01-02 |  |
 | [i saw a flying saucer](https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY) | [Bluey](https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI), [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i saw a flying saucer](https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp) | 2:49 | 2024-04-16 |  |
 | [i still think about you](https://open.spotify.com/track/1gn36xiTbvh5ZdLQblagfP) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [i still think about you](https://open.spotify.com/album/4hZmFxYP6Av5sAHrSuEwF3) | 2:45 | 2024-01-29 |  |
+| [i tore out my heart](https://open.spotify.com/track/4ZqKMjhcHl3XrfRBMjd0hP) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r) | [Lucky](https://open.spotify.com/album/1ly4D2mzZoTsac7VfjpBxe) | 2:23 | 2025-01-28 |  |
 | [i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/10WzRaNWnFUQNrW2FpqQSQ) | 2:41 | 2023-04-11 | 2024-04-19 |
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2023-02-09 |  |
 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 | 2023-07-15 |
@@ -151,6 +152,8 @@
 | [Mirrors](https://open.spotify.com/track/38PleSiXelEox4nUyO5apt) | [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [From the bathroom floor](https://open.spotify.com/album/4mrRaqeKbrKIgLGzFT8Ovy) | 3:39 | 2023-06-23 |  |
 | [miss](https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF) | [postcard nowhere](https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI) | [Juvenilia](https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk) | 2:05 | 2023-04-11 |  |
 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 | 2023-11-14 |  |
+| [my baby blue](https://open.spotify.com/track/16IvMrfVI9h3YdxYIjB22F) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv), [vhs ghost](https://open.spotify.com/artist/3Z2wi574z93hy4weTKGXzl) | [strange things keep happening](https://open.spotify.com/album/4Xerx7CpUu30LBPMLOlQcD) | 2:15 | 2025-01-28 |  |
+| [mystery](https://open.spotify.com/track/76EXWE2u0yUfGGjyb17zbL) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [mystery](https://open.spotify.com/album/7fVqe0uJJjwInvZb78pBR0) | 1:57 | 2025-01-28 |  |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-02 |  |
 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 | 2023-05-19 |  |
 | [Never Know Why](https://open.spotify.com/track/59UGpoFWoZGeuE8T74HNrS) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [Far From This World](https://open.spotify.com/album/1iifPkSZrNgcOmc8LU2Xm6) | 3:36 | 2023-04-11 | 2023-07-08 |

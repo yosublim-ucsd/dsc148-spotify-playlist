@@ -1,6 +1,6 @@
 {
   "description": "\u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af / The artisanal ambient and alternative sounds make you float in the air.",
-  "num_followers": 67477,
+  "num_followers": 67481,
   "original_name": "Sora",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
+        "name": "\u4e4b / OF",
+        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
         "name": "Penguin Caf\u00e9 Orchestra",
         "url": "https://open.spotify.com/album/2HDowU93etbL5ClDIRAyh8"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 162230,
       "name": "Strawberry Hill Ascent",
       "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
-        "name": "\u4e4b / OF",
-        "url": "https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -603,26 +603,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "cognition",
-        "url": "https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG"
-      },
-      "artists": [
-        {
-          "name": "theta.wav",
-          "url": "https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W"
-        },
-        {
-          "name": "Droner",
-          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "cognition",
-      "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN"
       },
@@ -643,38 +623,22 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "WALD (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6H45vwAFL4XobeGKIUcQrK"
+        "name": "cognition",
+        "url": "https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG"
       },
       "artists": [
         {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+          "name": "theta.wav",
+          "url": "https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W"
         },
         {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
         }
       ],
-      "duration_ms": 100172,
-      "name": "Regentag",
-      "url": "https://open.spotify.com/track/2SKuIX3Gfg4K8aKoY9Z7k0"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
-        "name": "Something Ephemeral",
-        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Something Ephemeral",
-      "url": "https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY"
+      "duration_ms": 141639,
+      "name": "cognition",
+      "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -695,6 +659,42 @@
       "duration_ms": 213000,
       "name": "Strange Clouds",
       "url": "https://open.spotify.com/track/5Eb87XzrtYu9RYMOoCaqw5"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "Something Ephemeral",
+        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Something Ephemeral",
+      "url": "https://open.spotify.com/track/4d42fVzXXDAtv3nRgjNlYY"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "WALD (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6H45vwAFL4XobeGKIUcQrK"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        },
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
+        }
+      ],
+      "duration_ms": 100172,
+      "name": "Regentag",
+      "url": "https://open.spotify.com/track/2SKuIX3Gfg4K8aKoY9Z7k0"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -831,26 +831,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "Esperance",
-        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Esperance",
-      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "Solaris (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 326693,
       "name": "Call For Winter II",
       "url": "https://open.spotify.com/track/3NkPGvXhZLgia4crLVNSuW"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "Esperance",
+        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Esperance",
+      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "Sound Sculpture 1",
-        "url": "https://open.spotify.com/album/6vMy8Gm6xVTXF26KhRXLkA"
-      },
-      "artists": [
-        {
-          "name": "Karl Schoenberg",
-          "url": "https://open.spotify.com/artist/4xGu2AhzqFk2uEwFw9Jgv1"
-        },
-        {
-          "name": "Little Symphony",
-          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Sound Sculpture 1",
-      "url": "https://open.spotify.com/track/5gA6SW1MqqvuOSwj95h6JY"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "Virga (feat. Darlingside)",
         "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 382867,
       "name": "Virga (feat. Darlingside)",
       "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "Sound Sculpture 1",
+        "url": "https://open.spotify.com/album/6vMy8Gm6xVTXF26KhRXLkA"
+      },
+      "artists": [
+        {
+          "name": "Karl Schoenberg",
+          "url": "https://open.spotify.com/artist/4xGu2AhzqFk2uEwFw9Jgv1"
+        },
+        {
+          "name": "Little Symphony",
+          "url": "https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Sound Sculpture 1",
+      "url": "https://open.spotify.com/track/5gA6SW1MqqvuOSwj95h6JY"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "Echo Sax",
-        "url": "https://open.spotify.com/album/5X7wgoXCGlW7iy2rnHjj2u"
-      },
-      "artists": [
-        {
-          "name": "Caleb Arredondo",
-          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
-        }
-      ],
-      "duration_ms": 101034,
-      "name": "Echo Sax No.4",
-      "url": "https://open.spotify.com/track/6hIN2CWE4FrVqHBa0rrrOT"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "First Light",
         "url": "https://open.spotify.com/album/1Ey5eicbpQzd3nVP8kBYzu"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
+        "name": "Echo Sax",
+        "url": "https://open.spotify.com/album/5X7wgoXCGlW7iy2rnHjj2u"
+      },
+      "artists": [
+        {
+          "name": "Caleb Arredondo",
+          "url": "https://open.spotify.com/artist/48X3AlBcfBle0OsLFRIOrl"
+        }
+      ],
+      "duration_ms": 101034,
+      "name": "Echo Sax No.4",
+      "url": "https://open.spotify.com/track/6hIN2CWE4FrVqHBa0rrrOT"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "Caso 63 (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya"
-      },
-      "artists": [
-        {
-          "name": "Mowat",
-          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
-        }
-      ],
-      "duration_ms": 151248,
-      "name": "The Theme",
-      "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "The Snow Goose",
         "url": "https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 65946,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4J9wp85UujXkSbrzb9uJ92"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "Caso 63 (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya"
+      },
+      "artists": [
+        {
+          "name": "Mowat",
+          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+        }
+      ],
+      "duration_ms": 151248,
+      "name": "The Theme",
+      "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -1139,22 +1139,6 @@
       "duration_ms": 108495,
       "name": "Mouthfeel 1",
       "url": "https://open.spotify.com/track/2hZ54Y3yFwPXtrqh0D2TOD"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
-        "name": "Night Horns (edit)",
-        "url": "https://open.spotify.com/album/1HJUMFF5Araxoy91yZkh03"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 503313,
-      "name": "Night Horns (edit)",
-      "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "Weeds",
-        "url": "https://open.spotify.com/album/693yk02Dcy8O9AYCv3B8AB"
+        "name": "Night Horns (edit)",
+        "url": "https://open.spotify.com/album/1HJUMFF5Araxoy91yZkh03"
       },
       "artists": [
         {
-          "name": "James Murray",
-          "url": "https://open.spotify.com/artist/6FtfcguhZxMy6S04I0jOhc"
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
         }
       ],
-      "duration_ms": 423000,
-      "name": "Mallow",
-      "url": "https://open.spotify.com/track/6KkVrpgLQYzC79NMRMah0I"
+      "duration_ms": 503313,
+      "name": "Night Horns (edit)",
+      "url": "https://open.spotify.com/track/3N8r3G6oEM125249xMIsPV"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -1219,6 +1203,22 @@
       "duration_ms": 254561,
       "name": "+puzzle",
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "Weeds",
+        "url": "https://open.spotify.com/album/693yk02Dcy8O9AYCv3B8AB"
+      },
+      "artists": [
+        {
+          "name": "James Murray",
+          "url": "https://open.spotify.com/artist/6FtfcguhZxMy6S04I0jOhc"
+        }
+      ],
+      "duration_ms": 423000,
+      "name": "Mallow",
+      "url": "https://open.spotify.com/track/6KkVrpgLQYzC79NMRMah0I"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "Plop",
-        "url": "https://open.spotify.com/album/1hDe8GfH4n54x7GGBHVwaE"
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
       },
       "artists": [
         {
-          "name": "\u4e9c\u9580",
-          "url": "https://open.spotify.com/artist/5REcVneZv9jSl3HBWwuScq"
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Plop",
-      "url": "https://open.spotify.com/track/0hEQzOexeeU2ckT1SL6rVk"
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "Hoshi No Koe",
-        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
-      },
-      "artists": [
-        {
-          "name": "Nobukazu Takemura",
-          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
-        }
-      ],
-      "duration_ms": 103360,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 117831,
       "name": "Modern Steps",
       "url": "https://open.spotify.com/track/1Od6aYUG6ivcq1H3myxA6G"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "Plop",
+        "url": "https://open.spotify.com/album/1hDe8GfH4n54x7GGBHVwaE"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u9580",
+          "url": "https://open.spotify.com/artist/5REcVneZv9jSl3HBWwuScq"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Plop",
+      "url": "https://open.spotify.com/track/0hEQzOexeeU2ckT1SL6rVk"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "My Hollow",
-        "url": "https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ"
-      },
-      "artists": [
-        {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
-        }
-      ],
-      "duration_ms": 248681,
-      "name": "My Hollow",
-      "url": "https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab \u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \uff5e\u306f\u308b\u304b\u306a\u5730\u3078\u30fb\u30fb\u30fb",
         "url": "https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 153666,
       "name": "\u8150\u6d77\u306b\u3066",
       "url": "https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "My Hollow",
+        "url": "https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "duration_ms": 248681,
+      "name": "My Hollow",
+      "url": "https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo"
     },
     {
       "added_at": "2025-01-24 08:58:58",
@@ -1527,6 +1527,30 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
+        "name": "Abstract Pets (Salamanda Remix)",
+        "url": "https://open.spotify.com/album/6QCdfa3s2Aseq6xYVhGdBW"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        },
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        },
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Abstract Pets - Salamanda Remix",
+      "url": "https://open.spotify.com/track/2LeeCUKxDcRSYHww0i03ao"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
         "name": "One Universal Breath",
         "url": "https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj"
       },
@@ -1619,30 +1643,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "Abstract Pets (Salamanda Remix)",
-        "url": "https://open.spotify.com/album/6QCdfa3s2Aseq6xYVhGdBW"
-      },
-      "artists": [
-        {
-          "name": "Passepartout Duo",
-          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
-        },
-        {
-          "name": "INOYAMALAND",
-          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
-        },
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Abstract Pets - Salamanda Remix",
-      "url": "https://open.spotify.com/track/2LeeCUKxDcRSYHww0i03ao"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "\u53e4\u98a8",
         "url": "https://open.spotify.com/album/6up103j3F99vuOxqx9ye83"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-01-24 08:58:58",
       "album": {
-        "name": "londonderry air",
-        "url": "https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj"
-      },
-      "artists": [
-        {
-          "name": "Shin Ichikawa",
-          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
-        }
-      ],
-      "duration_ms": 181829,
-      "name": "londonderry air",
-      "url": "https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD"
-    },
-    {
-      "added_at": "2025-01-24 08:58:58",
-      "album": {
         "name": "hope",
         "url": "https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 163612,
       "name": "hope",
       "url": "https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5"
+    },
+    {
+      "added_at": "2025-01-24 08:58:58",
+      "album": {
+        "name": "londonderry air",
+        "url": "https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj"
+      },
+      "artists": [
+        {
+          "name": "Shin Ichikawa",
+          "url": "https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk"
+        }
+      ],
+      "duration_ms": 181829,
+      "name": "londonderry air",
+      "url": "https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD"
     },
     {
       "added_at": "2025-01-24 08:58:58",

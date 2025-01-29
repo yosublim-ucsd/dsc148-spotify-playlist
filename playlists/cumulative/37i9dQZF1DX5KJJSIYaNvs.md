@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Sunidhi Chauhan
 
-429 songs - 1 day 1 hr 5 min
+430 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Ratiyaan](https://open.spotify.com/track/0uuNPxggjzumpudPx8yBLD) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Ratiyaan](https://open.spotify.com/album/2OEMbjabRjOTxkcYHgiYXU) | 3:41 | 2024-06-07 | 2024-07-23 |
 | [Rehne Dena Tha](https://open.spotify.com/track/2dZLTQPMdPVqX2DD252AND) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Rehne Dena Tha](https://open.spotify.com/album/2HkwDjkMnuVJ6SOgmj2SC0) | 3:25 | 2022-01-04 | 2022-02-02 |
 | [Rihaa Rihaa](https://open.spotify.com/track/6PiX99SqLYPd6TvYvM9PYe) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [I Love You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HFZIV8Jzpsvf63xInX6e6) | 3:45 | 2023-06-20 | 2023-09-26 |
-| [Roohdaari \- Reprise Version \- From "Fateh"](https://open.spotify.com/track/57ONTAOgxEb6907rmWdNBe) | [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Mandeep Khurana](https://open.spotify.com/artist/0y6Vd3mRsVm1UCRKX38eeZ) | [Fateh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rfqSDECAnJvFe0zGM36UW) | 3:37 | 2025-01-08 |  |
+| [Roohdaari \- Reprise Version \- From "Fateh"](https://open.spotify.com/track/57ONTAOgxEb6907rmWdNBe) | [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Mandeep Khurana](https://open.spotify.com/artist/0y6Vd3mRsVm1UCRKX38eeZ) | [Fateh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rfqSDECAnJvFe0zGM36UW) | 3:37 | 2025-01-08 | 2025-01-29 |
 | [Roothe Piya](https://open.spotify.com/track/3MJ0aHDqkZfLNKGdSglEC4) | [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT), [Aditi Raj](https://open.spotify.com/artist/2D793ikB8gkaPFFbFkMgS7) | [Roothe Piya](https://open.spotify.com/album/4TOZZUnG2OTRWhLeWHW8jh) | 2:17 | 2024-11-18 |  |
 | [Rootho Na](https://open.spotify.com/track/3iianNzrInP4BTd6NYCq3g) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Rootho Na](https://open.spotify.com/album/7hqFafe5aIpab9Tx78q5mn) | 3:50 | 2024-07-19 | 2024-08-06 |
 | [Runak Jhunak](https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0) | [Kanika Patawari](https://open.spotify.com/artist/0Og4ZxEY5A1c7WKyu1lR32) | [Runak Jhunak](https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT) | 3:10 | 2021-12-10 | 2022-02-02 |
@@ -419,6 +419,7 @@
 | [Vallo Vallo](https://open.spotify.com/track/7oa0g2fCVf39RW6EstUdiN) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Azaad Collab](https://open.spotify.com/album/1p3mGK6FO2Mcs4NSqqlPRK) | 3:53 | 2024-11-05 |  |
 | [Vaseegara / Zara Zara Mashup](https://open.spotify.com/track/3B7eDo0JA8rkMRsPa9n7rq) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Vaseegara / Zara Zara Mashup \- Single](https://open.spotify.com/album/6vDWOmsEBS7HIkmO5uagXk) | 3:04 | 2023-03-02 | 2024-02-15 |
 | [Ve Mai Kehna](https://open.spotify.com/track/54xudESkJcqv9R6wPxNUJ9) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Ve Mai Kehna](https://open.spotify.com/album/07mr9B5rufrsckncMTmLda) | 3:11 | 2023-12-08 | 2025-01-09 |
+| [Vekhan Nu](https://open.spotify.com/track/5xHj6H5slknXw3Mb5A2VUy) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Vekhan Nu](https://open.spotify.com/album/6yLUJetgjlcqhskoOUBSD9) | 3:27 | 2025-01-28 |  |
 | [Vibe](https://open.spotify.com/track/6kShRZG72aZcuj36nRDmnf) | [Savina](https://open.spotify.com/artist/4fGfsNK7RGd358RrUYivUu) | [Vibe](https://open.spotify.com/album/4n17plcKfif4stXCUFxd77) | 2:45 | 2023-07-07 | 2023-09-28 |
 | [Vidai](https://open.spotify.com/track/77Yun8NJpZjcogPS07s1ld) | [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo), [Sankalp Srivastava](https://open.spotify.com/artist/5xwqzE7HvcA0aqFKgZInSH) | [Vidai](https://open.spotify.com/album/502Nurn66BXWd2mdd3gLV2) | 8:03 | 2024-03-19 | 2024-04-27 |
 | [Video Bana De](https://open.spotify.com/track/7hXcOpRn1c1zFG6sOFcfj5) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Video Bana De](https://open.spotify.com/album/5dCxhMSOKC6RTwWcAFCtM0) | 3:07 | 2022-02-01 | 2022-03-08 |

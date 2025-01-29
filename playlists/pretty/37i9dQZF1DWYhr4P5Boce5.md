@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,440 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,459 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 67 | [i do](https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [i do](https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA) | 2:31 |
 | 68 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 |
 | 69 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 |
-| 70 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
-| 71 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
+| 70 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
+| 71 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
 | 72 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
 | 73 | [Route 777](https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Songs from the Cloud](https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu) | 3:29 |
 | 74 | [Love Like This](https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Love Like This](https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0) | 3:20 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 88 | [Wait](https://open.spotify.com/track/3TCpsf91CVlCMEHiOkYG8H) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 2:31 |
 | 89 | [Me + You = Pi](https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Me + You = Pi](https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p) | 2:49 |
 | 90 | [SURREAL](https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [SURREAL](https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf) | 2:54 |
-| 91 | [We Can Be More](https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [J.R.](https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK) | [Lions and Liars](https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX) | 3:12 |
-| 92 | [fall \(when we fell in love\)](https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [fall \(when we fell in love\)](https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm) | 2:37 |
+| 91 | [fall \(when we fell in love\)](https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [fall \(when we fell in love\)](https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm) | 2:37 |
+| 92 | [We Can Be More](https://open.spotify.com/track/6Jpcc6gwS1viCvse3M4Rji) | [Sho Baraka](https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe), [J.R.](https://open.spotify.com/artist/1gkN5N1Npacwm1QsSsVonK) | [Lions and Liars](https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX) | 3:12 |
 | 93 | [I Feel the Love Between Us](https://open.spotify.com/track/5qMT6T7uAU8KqJjPSXAEjE) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7) | [Floodplain](https://open.spotify.com/album/4xa65s9NcXYzUN72tYJnLP) | 4:21 |
 | 94 | [I Want You](https://open.spotify.com/track/4MQOs5WwP7jirNqh6WmzGp) | [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [I Want You](https://open.spotify.com/album/2TJ9sTBtFzSkMN2qSUCbDy) | 2:30 |
 | 95 | [Can we…?](https://open.spotify.com/track/3vC0yAxytKeY7cteZV63QL) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Can we…?](https://open.spotify.com/album/6xhNzjJT8YnzxQLhtspRYX) | 2:23 |

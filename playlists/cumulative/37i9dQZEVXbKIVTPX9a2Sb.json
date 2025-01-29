@@ -4920,7 +4920,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-23",
+      "date_removed": null,
       "duration_ms": 173731,
       "name": "Brick na brick",
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
@@ -8770,7 +8770,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 240000,
       "name": "Domov",
       "url": "https://open.spotify.com/track/5YGUlA6ApoJZwE024IGBrg"
@@ -9002,7 +9002,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 170823,
       "name": "Dory",
       "url": "https://open.spotify.com/track/2uLxzr65ynj83kyIsKZ3fm"
@@ -15504,7 +15504,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -18996,7 +18996,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -30060,7 +30060,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "P\u00e1tky",
       "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
@@ -35878,7 +35878,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -38132,6 +38132,28 @@
       "duration_ms": 208000,
       "name": "Trpezlivos\u0165",
       "url": "https://open.spotify.com/track/7ozuGk6Qk7f46owF8ytm8z"
+    },
+    {
+      "album": {
+        "name": "true",
+        "url": "https://open.spotify.com/album/4dpzEWWCMqJhvYdyz6Lnfq"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "Ego",
+          "url": "https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181428,
+      "name": "true",
+      "url": "https://open.spotify.com/track/3ZlKoxtkZGJmlstiGZvoeE"
     },
     {
       "album": {

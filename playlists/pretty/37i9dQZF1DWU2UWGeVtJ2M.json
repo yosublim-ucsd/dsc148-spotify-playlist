@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 162757,
+  "num_followers": 162771,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-01-27 01:00:23",
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
-    },
-    {
-      "added_at": "2025-01-27 01:00:23",
-      "album": {
         "name": "bet",
         "url": "https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 188000,
       "name": "bet",
       "url": "https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa"
+    },
+    {
+      "added_at": "2025-01-27 01:00:23",
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
     },
     {
       "added_at": "2025-01-27 01:00:23",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-01-27 01:00:23",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2025-01-27 01:00:23",
-      "album": {
         "name": "Live or Die",
         "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 194253,
       "name": "Live or Die",
       "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
+    },
+    {
+      "added_at": "2025-01-27 01:00:23",
+      "album": {
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
     },
     {
       "added_at": "2025-01-27 01:00:23",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-01-27 01:00:23",
       "album": {
-        "name": "Take A Sip",
-        "url": "https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG"
-      },
-      "artists": [
-        {
-          "name": "XIN LIU",
-          "url": "https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Take A Sip",
-      "url": "https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5"
-    },
-    {
-      "added_at": "2025-01-27 01:00:23",
-      "album": {
         "name": "So Sunshine",
         "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 136007,
       "name": "So",
       "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
+    },
+    {
+      "added_at": "2025-01-27 01:00:23",
+      "album": {
+        "name": "Take A Sip",
+        "url": "https://open.spotify.com/album/4spbnZknoM4B7n6I9MbYNG"
+      },
+      "artists": [
+        {
+          "name": "XIN LIU",
+          "url": "https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Take A Sip",
+      "url": "https://open.spotify.com/track/1Gk21dL0nKzuwjA34jOGs5"
     },
     {
       "added_at": "2025-01-27 01:00:23",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-01-27 01:00:23",
       "album": {
-        "name": "Everything I Didn\u2019t Say",
-        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
-    },
-    {
-      "added_at": "2025-01-27 01:00:23",
-      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 148855,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
+    },
+    {
+      "added_at": "2025-01-27 01:00:23",
+      "album": {
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
     },
     {
       "added_at": "2025-01-27 01:00:23",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-27 01:00:23",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "If You Think It's Love",
-      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
-    },
-    {
-      "added_at": "2025-01-27 01:00:23",
-      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2025-01-27 01:00:23",
+      "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2025-01-27 01:00:23",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-01-27 01:00:23",
       "album": {
+        "name": "Baby Cakes",
+        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
+      },
+      "artists": [
+        {
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Baby Cakes",
+      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
+    },
+    {
+      "added_at": "2025-01-27 01:00:23",
+      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2025-01-27 01:00:23",
-      "album": {
-        "name": "Baby Cakes",
-        "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
-      },
-      "artists": [
-        {
-          "name": "Whyte",
-          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Baby Cakes",
-      "url": "https://open.spotify.com/track/1rr3sGDkWeisMDPRTe081L"
     },
     {
       "added_at": "2025-01-27 01:00:23",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-01-27 01:00:23",
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 190642,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
+    },
+    {
+      "added_at": "2025-01-27 01:00:23",
+      "album": {
         "name": "Queen Space (with Summer Walker)",
         "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2025-01-27 01:00:23",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 190642,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
     },
     {
       "added_at": "2025-01-27 01:00:23",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-01-27 01:00:23",
       "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
+      },
+      "artists": [
+        {
+          "name": "liesl-mae",
+          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
+        }
+      ],
+      "duration_ms": 187131,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
+    },
+    {
+      "added_at": "2025-01-27 01:00:23",
+      "album": {
         "name": "God Must Be Doing Cocaine",
         "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 294186,
       "name": "Moments Like These",
       "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
-    },
-    {
-      "added_at": "2025-01-27 01:00:23",
-      "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
-      },
-      "artists": [
-        {
-          "name": "liesl-mae",
-          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
-        }
-      ],
-      "duration_ms": 187131,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
     },
     {
       "added_at": "2025-01-27 01:00:23",

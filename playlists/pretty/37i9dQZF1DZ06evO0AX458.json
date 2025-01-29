@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3963,
+  "num_followers": 3968,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABGT3vU5pDn3MT/Aj9i2ti2",
+  "snapshot_id": "Z5bMgAAAAADp2zC3WMIEG32oGgNk+Xf7",
   "tracks": [
     {
       "added_at": null,
@@ -114,15 +114,11 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 302514,
-      "name": "Limelight",
-      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
+      "duration_ms": 170001,
+      "name": "Come Heroine",
+      "url": "https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97"
     },
     {
       "added_at": null,
@@ -182,11 +178,15 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 170001,
-      "name": "Come Heroine",
-      "url": "https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97"
+      "duration_ms": 302514,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lament",
-        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 168225,
-      "name": "Feign",
-      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stage Four (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 131186,
       "name": "Displacement",
       "url": "https://open.spotify.com/track/1cgbkpTMiVUsmNhBfL9MJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 168225,
+      "name": "Feign",
+      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 98866,
-      "name": "Art Official",
-      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stage Four (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 92040,
       "name": "Eight Seconds",
       "url": "https://open.spotify.com/track/4zyomJpB6fgmXZ6A79721l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 98866,
+      "name": "Art Official",
+      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 110333,
-      "name": "Home Away from Here",
-      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 184920,
       "name": "Harbor",
       "url": "https://open.spotify.com/track/1eZVWlibiTTrKiZJyZGvTn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 110333,
+      "name": "Home Away from Here",
+      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parting the Sea Between Brightness and Me",
-        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 108280,
-      "name": "The Great Repetition",
-      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 137520,
       "name": "Just Exist",
       "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 108280,
+      "name": "The Great Repetition",
+      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching For A Pulse/The Worth Of The World",
-        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "I'll Deserve Just That",
-      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch\u00e9 Amor\u00e9",
-        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 75600,
-      "name": "Negotiating the Charade",
-      "url": "https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 185653,
       "name": "Non Fiction",
       "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touch\u00e9 Amor\u00e9",
+        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 75600,
+      "name": "Negotiating the Charade",
+      "url": "https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crescent-Shaped Depression",
-        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 144650,
-      "name": "Crescent-Shaped Depression",
-      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 91906,
       "name": "Blue Angels",
       "url": "https://open.spotify.com/track/1Qfhy7Ixd5boVOEsT9vSM8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crescent-Shaped Depression",
+        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "Crescent-Shaped Depression",
+      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
     }
   ],
   "unique_name": "This Is Touch\u00e9 Amor\u00e9",

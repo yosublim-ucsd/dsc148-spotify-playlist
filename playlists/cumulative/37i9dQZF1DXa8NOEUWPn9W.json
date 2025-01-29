@@ -7803,6 +7803,28 @@
     },
     {
       "album": {
+        "name": "Give Me Desire",
+        "url": "https://open.spotify.com/album/109mDhXULmc4Z0YXNX0wj9"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186141,
+      "name": "Give Me Desire",
+      "url": "https://open.spotify.com/track/5zcGSMnSo1S0IOtXRJ5PxU"
+    },
+    {
+      "album": {
         "name": "Givin' Up",
         "url": "https://open.spotify.com/album/1C1vE00EzT79uN5uMkEvSP"
       },
@@ -16770,7 +16792,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 180100,
       "name": "Run From Me",
       "url": "https://open.spotify.com/track/0jY0i6kA20ZrD4AhkcZZPG"

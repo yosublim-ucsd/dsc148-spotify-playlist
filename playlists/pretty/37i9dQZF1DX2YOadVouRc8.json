@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 32127,
+  "num_followers": 32151,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-01-16 15:42:40",
       "album": {
-        "name": "Sunday At Zuri's",
-        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
-    },
-    {
-      "added_at": "2025-01-16 15:42:40",
-      "album": {
         "name": "JABO",
         "url": "https://open.spotify.com/album/4HBc5xjhUSTusWkAqEL8iv"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 197400,
       "name": "JABO",
       "url": "https://open.spotify.com/track/4oeH9c9ca6CS2xHytLLRnP"
+    },
+    {
+      "added_at": "2025-01-16 15:42:40",
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "added_at": "2025-01-16 15:42:40",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-01-16 15:42:40",
       "album": {
-        "name": "Dis Kain Luv",
-        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 152565,
-      "name": "Dis Kain Luv",
-      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
-    },
-    {
-      "added_at": "2025-01-16 15:42:40",
-      "album": {
         "name": "Instantly",
         "url": "https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 188387,
       "name": "Instantly",
       "url": "https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm"
+    },
+    {
+      "added_at": "2025-01-16 15:42:40",
+      "album": {
+        "name": "Dis Kain Luv",
+        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 152565,
+      "name": "Dis Kain Luv",
+      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
     },
     {
       "added_at": "2025-01-16 15:42:40",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-01-16 15:42:40",
       "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2025-01-16 15:42:40",
+      "album": {
         "name": "Mentali",
         "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 150278,
       "name": "Mentali",
       "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
-    },
-    {
-      "added_at": "2025-01-16 15:42:40",
-      "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
     },
     {
       "added_at": "2025-01-16 15:42:40",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2025-01-16 15:42:40",
       "album": {
-        "name": "F\u00e9",
-        "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
+        "name": "FaceCard (Only Me)",
+        "url": "https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ"
       },
       "artists": [
         {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "\u00c9LL\u00c0H",
-          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
         }
       ],
-      "duration_ms": 152410,
-      "name": "F\u00e9",
-      "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
+      "duration_ms": 175200,
+      "name": "FaceCard (Only Me)",
+      "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
     },
     {
       "added_at": "2025-01-16 15:42:40",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2025-01-16 15:42:40",
       "album": {
-        "name": "FaceCard (Only Me)",
-        "url": "https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ"
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
       },
       "artists": [
         {
-          "name": "Noon Dave",
-          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "\u00c9LL\u00c0H",
+          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
         }
       ],
-      "duration_ms": 175200,
-      "name": "FaceCard (Only Me)",
-      "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
+      "duration_ms": 152410,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
     },
     {
       "added_at": "2025-01-16 15:42:40",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-01-16 15:42:40",
       "album": {
-        "name": "[escapism]",
-        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
-      },
-      "artists": [
-        {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        }
-      ],
-      "duration_ms": 154983,
-      "name": "[escapism]",
-      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
-    },
-    {
-      "added_at": "2025-01-16 15:42:40",
-      "album": {
         "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
         "url": "https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 243000,
       "name": "\u1ecc\u0300r\u1ecd\u0300 \u00c0\u1e63\u1eb9",
       "url": "https://open.spotify.com/track/648h77piOsFhlzniWDHqBo"
+    },
+    {
+      "added_at": "2025-01-16 15:42:40",
+      "album": {
+        "name": "[escapism]",
+        "url": "https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "[escapism]",
+      "url": "https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k"
     },
     {
       "added_at": "2025-01-16 15:42:40",

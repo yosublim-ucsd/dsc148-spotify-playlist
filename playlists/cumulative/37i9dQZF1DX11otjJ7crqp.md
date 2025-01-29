@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: SIENNA SPIRO
 
-7,189 songs - 14 day 22 hr 17 min
+7,190 songs - 14 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6053,6 +6053,7 @@
 | [Sweatshirt](https://open.spotify.com/track/55UzYuJvh5ZZsx3eKtEE0F) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Sweatshirt](https://open.spotify.com/album/4rVsJUuV2vruNHP0NjAUxj) | 2:42 | 2022-05-06 | 2022-05-20 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2024-07-13 |
 | [Sweet](https://open.spotify.com/track/4GPlVxGyUFfuuZExYPp4mP) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Sweet](https://open.spotify.com/album/5vaYdxmwVwmKXpXRWX3oQp) | 2:15 | 2024-12-06 | 2025-01-04 |
+| [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-01-24 |  |
 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-18 | 2024-10-26 |
 | [Sweet Emotion](https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Sweet Emotion](https://open.spotify.com/album/2lEKDGHS0zidrlmckGqmB0) | 3:08 | 2024-07-26 | 2024-08-03 |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-03-29 | 2024-04-13 |

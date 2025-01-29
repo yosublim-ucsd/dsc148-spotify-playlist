@@ -1,6 +1,6 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 80877,
+  "num_followers": 80894,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 498426,
-      "name": "Break Every Chain - Live",
-      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Here As In Heaven",
         "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 467053,
       "name": "Resurrecting (Live)",
       "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 498426,
+      "name": "Break Every Chain - Live",
+      "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        },
-        {
-          "name": "Fernando Ortega",
-          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
-        }
-      ],
-      "duration_ms": 157337,
-      "name": "Oh, the Deep, Deep Love of Jesus (feat. Fernando Ortega)",
-      "url": "https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "I Will Follow",
         "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 570629,
       "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
       "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        },
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "duration_ms": 157337,
+      "name": "Oh, the Deep, Deep Love of Jesus (feat. Fernando Ortega)",
+      "url": "https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -995,38 +995,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
-        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 329213,
-      "name": "O Praise The Name (An\u00e1stasis) - Live",
-      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Inheritance",
-        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 278779,
-      "name": "Even Unto Death",
-      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 286453,
       "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Inheritance",
+        "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 278779,
+      "name": "Even Unto Death",
+      "url": "https://open.spotify.com/track/4JnM7UCqVL7Un5GdSK7NpA"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "OPEN HEAVEN / River Wild (Deluxe/Live)",
+        "url": "https://open.spotify.com/album/1Rxx6OWDCfOwlyWLtNEUGw"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 329213,
+      "name": "O Praise The Name (An\u00e1stasis) - Live",
+      "url": "https://open.spotify.com/track/0FBm7M8icvVmPWDmyUNCGy"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Cornerstone (Live)",
-        "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "David Ware",
-          "url": "https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7"
-        }
-      ],
-      "duration_ms": 409146,
-      "name": "Cornerstone - Live",
-      "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Tomorrow We Live",
         "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 310293,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/06wxyCQFJOT0bjvSPMQj7x"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Cornerstone (Live)",
+        "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "David Ware",
+          "url": "https://open.spotify.com/artist/7u4dUkbQ3gqCiVNge3xUc7"
+        }
+      ],
+      "duration_ms": 409146,
+      "name": "Cornerstone - Live",
+      "url": "https://open.spotify.com/track/5KTJJnSs2H1p5SaBXsG0Hb"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 505120,
-      "name": "If God / Nothing But the Blood",
-      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Freedom.",
         "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 212533,
       "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 505120,
+      "name": "If God / Nothing But the Blood",
+      "url": "https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
+        "name": "Something Different (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "To Live Is Christ",
+      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
-        "name": "Something Different (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "To Live Is Christ",
-      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN"
-      },
-      "artists": [
-        {
-          "name": "Brian Doerksen",
-          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
-        }
-      ],
-      "duration_ms": 292546,
-      "name": "Refiner's Fire",
-      "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "How Great",
         "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 292288,
       "name": "Praise the King",
       "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN"
+      },
+      "artists": [
+        {
+          "name": "Brian Doerksen",
+          "url": "https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7"
+        }
+      ],
+      "duration_ms": 292546,
+      "name": "Refiner's Fire",
+      "url": "https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "The Hymns",
-        "url": "https://open.spotify.com/album/7i8SdLdKus9UP5WufzYwiN"
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
       },
       "artists": [
         {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
         }
       ],
-      "duration_ms": 242240,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/07N7sIm0fVSeyHA4O8Hv9u"
+      "duration_ms": 237866,
+      "name": "Untitled Hymn (Come To Jesus)",
+      "url": "https://open.spotify.com/track/7CC5wCbUKZtyfrruQgp86v"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2331,18 +2331,18 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+        "name": "The Hymns",
+        "url": "https://open.spotify.com/album/7i8SdLdKus9UP5WufzYwiN"
       },
       "artists": [
         {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Untitled Hymn (Come To Jesus)",
-      "url": "https://open.spotify.com/track/7CC5wCbUKZtyfrruQgp86v"
+      "duration_ms": 242240,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/07N7sIm0fVSeyHA4O8Hv9u"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2379,26 +2379,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "Dwell In the House",
-        "url": "https://open.spotify.com/album/1AZBhMJTspYzxEkmYhGJjN"
-      },
-      "artists": [
-        {
-          "name": "Ron Kenoly",
-          "url": "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
-        },
-        {
-          "name": "Integrity's Hosanna! Music",
-          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
-        }
-      ],
-      "duration_ms": 373906,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/38byiXCnhaV1I26NP9KZqD"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "God You Are",
         "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
       },
@@ -2415,6 +2395,26 @@
       "duration_ms": 265286,
       "name": "God You Are (feat. Josh Baldwin)",
       "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "Dwell In the House",
+        "url": "https://open.spotify.com/album/1AZBhMJTspYzxEkmYhGJjN"
+      },
+      "artists": [
+        {
+          "name": "Ron Kenoly",
+          "url": "https://open.spotify.com/artist/5UzGtBBwUB77l2ZI4fbfig"
+        },
+        {
+          "name": "Integrity's Hosanna! Music",
+          "url": "https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn"
+        }
+      ],
+      "duration_ms": 373906,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/38byiXCnhaV1I26NP9KZqD"
     },
     {
       "added_at": "2024-07-02 00:52:59",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-07-02 00:52:59",
       "album": {
-        "name": "My Chains Are Gone",
-        "url": "https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Amazing Grace / My Chains Are Gone",
-      "url": "https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr"
-    },
-    {
-      "added_at": "2024-07-02 00:52:59",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 272213,
       "name": "Splinters And Stones",
       "url": "https://open.spotify.com/track/7HplQBe0vCDriIzpEiw7wB"
+    },
+    {
+      "added_at": "2024-07-02 00:52:59",
+      "album": {
+        "name": "My Chains Are Gone",
+        "url": "https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Amazing Grace / My Chains Are Gone",
+      "url": "https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr"
     },
     {
       "added_at": "2024-07-02 00:52:59",

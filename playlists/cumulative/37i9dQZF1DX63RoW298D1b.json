@@ -1731,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Intuitive",
+        "url": "https://open.spotify.com/album/6Xa4sstww69EZKAPiwnPRs"
+      },
+      "artists": [
+        {
+          "name": "Alto Fernando",
+          "url": "https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127531,
+      "name": "Intuitive",
+      "url": "https://open.spotify.com/track/31VWZJtZ5ba8GCVhllyOiQ"
+    },
+    {
+      "album": {
         "name": "Irreversible",
         "url": "https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh"
       },

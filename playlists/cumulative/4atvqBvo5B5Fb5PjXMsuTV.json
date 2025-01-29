@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Jan 19:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Jan 23:01 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -708,6 +708,54 @@
       "duration_ms": 180408,
       "name": "3",
       "url": "https://open.spotify.com/track/14Sx9jobXCdDXBlFYERMe3"
+    },
+    {
+      "album": {
+        "name": "300 BANIEK",
+        "url": "https://open.spotify.com/album/1ScVtQJzAwrERTnE8qqeSx"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "Oki",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "300 BANIEK",
+      "url": "https://open.spotify.com/track/1mw6mdm5I8ZaPLJ1VrigQt"
+    },
+    {
+      "album": {
+        "name": "305",
+        "url": "https://open.spotify.com/album/58VRf03cLApDp60QabociL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "305",
+      "url": "https://open.spotify.com/track/7p8el00yJjCtGhMidmaVoM"
     },
     {
       "album": {
@@ -1479,6 +1527,32 @@
     },
     {
       "album": {
+        "name": "A Line in the Dust",
+        "url": "https://open.spotify.com/album/0QeSlVSiJRan9ocKl2tQWv"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        },
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        },
+        {
+          "name": "Mat Welsh",
+          "url": "https://open.spotify.com/artist/41qbLh8IPItyHRIHAQafft"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235443,
+      "name": "A Line in the Dust",
+      "url": "https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P"
+    },
+    {
+      "album": {
         "name": "A Lot",
         "url": "https://open.spotify.com/album/6tj57kLbgduFZPx1ztgmFW"
       },
@@ -2238,7 +2312,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 148724,
       "name": "After You",
       "url": "https://open.spotify.com/track/0fIvB3uEk6K6T9JACYD66O"
@@ -7404,7 +7478,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 174560,
       "name": "big change",
       "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
@@ -14078,7 +14152,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 206117,
       "name": "Confessions of a Rotten Girl",
       "url": "https://open.spotify.com/track/1YQkiuVMY3grrEXBdg2hIe"
@@ -28874,7 +28948,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 175139,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/2UecHtdzMeHhpeMdSZZfgi"
@@ -37968,6 +38042,24 @@
       "duration_ms": 126511,
       "name": "Lesbians <3",
       "url": "https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232702,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8"
     },
     {
       "album": {
@@ -47147,6 +47239,28 @@
     },
     {
       "album": {
+        "name": "Not What You Think",
+        "url": "https://open.spotify.com/album/2XBOWKsjWM9TF3d19mzGzq"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210020,
+      "name": "Not What You Think",
+      "url": "https://open.spotify.com/track/3EPWQOyuyCBi23OpIL6NDt"
+    },
+    {
+      "album": {
         "name": "Not You",
         "url": "https://open.spotify.com/album/14B3wqQbe2YsbCn43EDI44"
       },
@@ -53808,7 +53922,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/2pScZYnHVA2S3b7WpM6gJn"
@@ -55780,7 +55894,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
@@ -59366,7 +59480,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 151986,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
@@ -62180,6 +62294,24 @@
       "duration_ms": 173185,
       "name": "Stimming",
       "url": "https://open.spotify.com/track/1ohHd2PVSOUjrprn5pAibz"
+    },
+    {
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/7ItAuhwHxQfCXcvDiYPBvi"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327135,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/44ebgjxzcwNdeQ41M2KJsf"
     },
     {
       "album": {
@@ -65944,6 +66076,24 @@
       "duration_ms": 488692,
       "name": "The End",
       "url": "https://open.spotify.com/track/6FQkdsq9WhJfvZ1a9q9L1V"
+    },
+    {
+      "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/0GF6ZG9kFWdgwuionwrPEM"
+      },
+      "artists": [
+        {
+          "name": "The Murder Capital",
+          "url": "https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/5HAAsGtJS52SxqTp2upWqM"
     },
     {
       "album": {

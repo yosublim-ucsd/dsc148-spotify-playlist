@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: FouKi
 
-3,062 songs - 6 day 18 hr 45 min
+3,063 songs - 6 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2036,6 +2036,7 @@
 | [Oseille Des Francs\-Maçons](https://open.spotify.com/track/2q2LV84PZrUt7CkcmzOVeN) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [Oseille Des Francs\-Maçons](https://open.spotify.com/album/49LrhWQdrDcGQrIrFQemTw) | 3:13 | 2024-01-12 | 2024-01-20 |
 | [Osez Joséphine](https://open.spotify.com/track/7sxlv3kB4pS4ue5WIyW9yu) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Osez Joséphine](https://open.spotify.com/album/2SkqVqTsGsMRmPP16uHH88) | 3:10 | 2023-02-24 | 2023-03-11 |
 | [OT](https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Trappo officiel](https://open.spotify.com/artist/2qAQAxmoafsvNVp31ROnaE) | [OT](https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94) | 3:08 | 2024-07-12 | 2024-09-21 |
+| [OTF](https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [ORIGINAL GANGSTA](https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR) | 2:29 | 2025-01-24 |  |
 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-05-03 | 2024-06-29 |
 | [OUAIS 4X](https://open.spotify.com/track/5mtQDRes9raNSYFILcP0KM) | [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl), [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v) | [ITINÉRAIRE : Exotics & Bangers](https://open.spotify.com/album/3dubFNd8VYtAMqlvPRcXnh) | 3:27 | 2024-02-16 | 2024-02-24 |
 | [Oublier](https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Oublier](https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP) | 3:03 | 2023-09-08 | 2023-09-16 |
@@ -2957,7 +2958,7 @@
 | [Way Too Long](https://open.spotify.com/track/7Iz74b76qfdNOBOyVegHv2) | [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [Way Too Long](https://open.spotify.com/album/1mby3xq3SFGEeTSojPrsVH) | 3:03 | 2024-05-31 | 2024-06-08 |
 | [we need to leave LA](https://open.spotify.com/track/7HoUYphBTJhZkgS9TYSsqI) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [we need to leave LA](https://open.spotify.com/album/7d6d8J2yGAUplBFcA8ufe0) | 3:10 | 2024-05-03 | 2024-05-11 |
 | [Wendat Rap](https://open.spotify.com/track/0WAyCe91XVpDOuQ2oqtvD3) | [Sandrine Masse](https://open.spotify.com/artist/35fwgEtPJdcASmEbtG4MZh) | [Wendat Rap](https://open.spotify.com/album/3HRmk6CSN7zUyyjHJ7dLIz) | 3:51 | 2022-04-01 | 2022-04-09 |
-| [West Coast](https://open.spotify.com/track/3mFmzE2bIrEiLLyGwjfm11) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [West Coast](https://open.spotify.com/album/323t5RLy984NASLdtjI5yx) | 2:26 | 2024-12-20 |  |
+| [West Coast](https://open.spotify.com/track/3mFmzE2bIrEiLLyGwjfm11) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf) | [West Coast](https://open.spotify.com/album/323t5RLy984NASLdtjI5yx) | 2:26 | 2024-12-20 | 2025-01-29 |
 | [Western](https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91) | [Fleur de cactus \(Face A\)](https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R) | 3:33 | 2022-09-30 | 2022-10-15 |
 | [WHAP](https://open.spotify.com/track/7pNJNSyIM9uHW5GeJQha6F) | [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI) | [WHAP](https://open.spotify.com/album/1HpV0b6wVhRgJ0MLbBoqqE) | 2:42 | 2022-10-28 | 2022-11-12 |
 | [What We Doing!? / Qu'est\-ce qu'on fait!?](https://open.spotify.com/track/7CaX4KsgLcmhwkcwsensvn) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [What We Doing!? / Qu'est\-ce qu'on fait!?](https://open.spotify.com/album/7IWx54OEov6VaGLamUs43C) | 3:03 | 2024-02-23 | 2024-04-19 |

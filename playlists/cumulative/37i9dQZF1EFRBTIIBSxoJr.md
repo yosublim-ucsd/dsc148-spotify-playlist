@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-134 songs - 7 hr 38 min
+135 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [San Francisco](https://open.spotify.com/track/5iSkdzgBBtAAkaqULGPZUd) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:12 | 2024-03-01 |  |
 | [Searching](https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [Searching](https://open.spotify.com/album/26tGOB7aNjpOYPBvYZwCe8) | 2:48 | 2024-03-01 |  |
 | [Seeing Blind](https://open.spotify.com/track/65wnZsZLKJimfK1cTFOfa1) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:05 | 2024-03-01 |  |
+| [Seven](https://open.spotify.com/track/2oA9FIc8oL4D7niCdfm6Rb) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:50 | 2025-01-28 |  |
 | [She Do](https://open.spotify.com/track/7cJWV4gJVR78HFLvosMhcb) | [In Real Life](https://open.spotify.com/artist/09fEeGYqb3MUeV1c9BJgDI) | [She Do](https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7) | 3:20 | 2024-03-01 |  |
 | [Since We're Alone](https://open.spotify.com/track/4WZT0Mi3tD0XrYRkkDlxNN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 4:02 | 2024-03-01 |  |
 | [Sliding Doors](https://open.spotify.com/track/2tgyMQjcwVp2CjFT6gAZwh) | [Baptiste Giabiconi](https://open.spotify.com/artist/4DD9H38CXQBbIME7AGNOr9) | [Oxygen](https://open.spotify.com/album/3wJqURLm1qe9DucNTntWS3) | 3:41 | 2024-03-01 |  |

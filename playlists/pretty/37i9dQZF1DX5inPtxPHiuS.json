@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87408,
+  "num_followers": 87411,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        }
+      ],
+      "duration_ms": 258946,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/2zlHTnoNZOZohSnXXt65GR"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Texas",
-        "url": "https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 258946,
-      "name": "Texas",
-      "url": "https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Cherokee",
         "url": "https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "En Paz",
-        "url": "https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw"
-      },
-      "artists": [
-        {
-          "name": "Ciegossordomudos",
-          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "El Beat de Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "La Clase Que Trabaja",
         "url": "https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 187500,
       "name": "La Clase Que Trabaja",
       "url": "https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "En Paz",
+        "url": "https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw"
+      },
+      "artists": [
+        {
+          "name": "Ciegossordomudos",
+          "url": "https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "El Beat de Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Solo t\u00fa",
+        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
+      },
+      "artists": [
+        {
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+        }
+      ],
+      "duration_ms": 247392,
+      "name": "Solo t\u00fa",
+      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Prende",
         "url": "https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 270000,
       "name": "Estallados",
       "url": "https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Solo t\u00fa",
-        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        }
-      ],
-      "duration_ms": 247392,
-      "name": "Solo t\u00fa",
-      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Corriente",
-        "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
-      },
-      "artists": [
-        {
-          "name": "La Sociedad de La Sombrilla",
-          "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
-        },
-        {
-          "name": "Juan Amaya",
-          "url": "https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu"
-        }
-      ],
-      "duration_ms": 301863,
-      "name": "Corriente",
-      "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "INFECTOS",
         "url": "https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 174000,
       "name": "INFECTOS",
       "url": "https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Corriente",
+        "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
+      },
+      "artists": [
+        {
+          "name": "La Sociedad de La Sombrilla",
+          "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
+        },
+        {
+          "name": "Juan Amaya",
+          "url": "https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu"
+        }
+      ],
+      "duration_ms": 301863,
+      "name": "Corriente",
+      "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -1003,22 +1003,18 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Eres T\u00fa",
-        "url": "https://open.spotify.com/album/25gfU5N8KqfoN1mPUCmTxx"
+        "name": "Rocal",
+        "url": "https://open.spotify.com/album/4ihD17BMxTDcCfwcC2TlfC"
       },
       "artists": [
         {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        },
-        {
-          "name": "Marty Friedman",
-          "url": "https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p"
+          "name": "Los Ni\u00f1os Telepaticos",
+          "url": "https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU"
         }
       ],
-      "duration_ms": 207529,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/6dgsioXKgII7qWavPLU45x"
+      "duration_ms": 230237,
+      "name": "Rocal",
+      "url": "https://open.spotify.com/track/2lYG5r6ahoFOknygopkjMr"
     }
   ],
   "unique_name": "Rock Colombia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,057 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,080 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 9 | [Aicha](https://open.spotify.com/track/21wo3e3K1h5zy03Q3Nkk4E) | [Ahmed Alshaiba](https://open.spotify.com/artist/3draSJS8Ixp5PoZv1oWfwx) | [Aicha](https://open.spotify.com/album/3RRJUlqb8IJvxRKTyCG4h5) | 4:15 |
 | 10 | [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 |
 | 11 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 |
-| 12 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
+| 12 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
 | 13 | [Even If You Leave](https://open.spotify.com/track/3i8YW2Jy2ANDRi0f5VQhwD) | [Ara Dinkjian](https://open.spotify.com/artist/1yu2nsRarrGq79v5gNCX6X) | [An Armenian In America](https://open.spotify.com/album/3B53HQY2j0FkwfT8jeyrwW) | 4:16 |
 | 14 | [Callipyge](https://open.spotify.com/track/7y3dNztX8wlDmkbRd5QgWg) | [Toufic Farroukh](https://open.spotify.com/artist/1qEcIbzDD8hnKqIuFA0Uag) | [Drab Zeen](https://open.spotify.com/album/4ROXK7Hp0z9BJtX5j4cndo) | 2:22 |
 | 15 | [Zourouni](https://open.spotify.com/track/4J7npFq7vLfUxuWvOq4Ttx) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:38 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 17 | [Oblivion](https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Oblivion](https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf) | 3:02 |
 | 18 | [That Moment When](https://open.spotify.com/track/5D6pCmqhtc7UT470FPQbL0) | [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [Borders Behind](https://open.spotify.com/album/0F2DIyzw0isWT9wC4ldz5G) | 4:12 |
 | 19 | [Syrian Blues](https://open.spotify.com/track/4qUWmZRExYRJPI0N1Jluqk) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Laissez passer](https://open.spotify.com/album/0acmEZwZrpPj30Tpp1MyAD) | 4:54 |
-| 20 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
+| 20 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
 | 21 | [Oud](https://open.spotify.com/track/593oXWVJyDjwXp5kXDNDIV) | [Alireza Ghorbani](https://open.spotify.com/artist/5tJdqzQYWhaBSWzGVhqGUX), [Siavash Valipour](https://open.spotify.com/artist/6HSDx33y4kIdNiHYqvUuRT), [Bamdad Ensemble](https://open.spotify.com/artist/17CJ0zntg7PBWajbWGXReN) | [Singing with Swallows of Sigh](https://open.spotify.com/album/2eg7r3MdlXP54QWH9sOKzX) | 3:10 |
 | 22 | [L'obstinée I](https://open.spotify.com/track/6r31Pw3pw6N8i6kwfc2kx2) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Chkrrr](https://open.spotify.com/artist/5YiDQX5JOajMOvlQsf2PrB) | [The Last Flight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ATO4rHQtMdrZ5c7p3abPA) | 1:52 |
 | 23 | [Caravan](https://open.spotify.com/track/6pbcfkv8cVwksZWoqSbf9a) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [The Dancing Oud](https://open.spotify.com/album/2v6zc4jQl8G9WoPX9lxnuk) | 6:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 49 | [Rhythm Stories](https://open.spotify.com/track/1a1aIaiDhJgw8SztvNe1WP) | [Soni](https://open.spotify.com/artist/5PC7uk8MpcC0x1Pf0U6cJV) | [Arabic Moods](https://open.spotify.com/album/2RSs9D78seCkdjxP4v0HCq) | 3:34 |
 | 50 | [Nuo Ather](https://open.spotify.com/track/3wviuDbyvbG0Vr3sO4IfUs) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |
 
-Snapshot ID: `Z5eW3wAAAAAuZPgdFAbB5VhwPWKExtYs`
+Snapshot ID: `Z5jDegAAAABqha5dCYQRUEK79rSDUNBm`

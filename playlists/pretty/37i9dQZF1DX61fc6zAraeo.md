@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,780 likes - 90 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,790 likes - 90 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 53 | [What You Need](https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [What You Need](https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob) | 3:38 |
 | 54 | [Without Your Love](https://open.spotify.com/track/3cFdgPFBfGZuPisJhyN5az) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Catello](https://open.spotify.com/artist/4cpqUkL78IoYnEvYj440WE) | [Without Your Love](https://open.spotify.com/album/7MX0snymC4VDz5hpGojcIs) | 2:34 |
 | 55 | [Waste Your Love](https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Waste Your Love](https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd) | 2:47 |
-| 56 | [Could It Be Love](https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Could It Be Love](https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB) | 2:21 |
-| 57 | [Let Me Go](https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Let Me Go](https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee) | 3:03 |
+| 56 | [Let Me Go](https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Let Me Go](https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee) | 3:03 |
+| 57 | [Could It Be Love](https://open.spotify.com/track/7sNXZG5QOWvxh2W2mKbXNp) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Could It Be Love](https://open.spotify.com/album/7f8JjJK8NZZBi34FehzYqB) | 2:21 |
 | 58 | [I DON'T KNOW](https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [I DON'T KNOW](https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv) | 2:52 |
 | 59 | [Redemption](https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [RMB](https://open.spotify.com/artist/4YXOQZR6WVMNXaQ5e72DnG) | [Redemption](https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ) | 2:15 |
 | 60 | [Slowly Going Crazy \(feat\. EKE\)](https://open.spotify.com/track/5RCl6c5jPOklm5Nk2qVsqf) | [Galwaro](https://open.spotify.com/artist/3vDh2Mern1I2k53Oy0pDlD), [Tomhio](https://open.spotify.com/artist/1Oi8GuEGJRkBlST7gU6YL7), [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Slowly Going Crazy \(feat\. EKE\)](https://open.spotify.com/album/7BOdqbbphItSzVMdYF8Lnc) | 2:27 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 82 | [Hidden Signs](https://open.spotify.com/track/5Y8MD5KkcEd6BZUHRz7oJN) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Hidden Signs](https://open.spotify.com/album/1uG3AXNoQ9icJLnXbxxwxm) | 2:33 |
 | 83 | [Waste My Time](https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Waste My Time](https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY) | 2:33 |
 | 84 | [Fading Touch \(feat\. MarynCharlie\)](https://open.spotify.com/track/3t473R8lp2TIOabS79ycor) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Fading Touch \(feat\. MarynCharlie\)](https://open.spotify.com/album/1rL05Ac13OD7ecxgWJiswB) | 3:21 |
-| 85 | [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 |
-| 86 | [Rapture](https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq) | [Makasi](https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6), [Dannii Murphy](https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI) | [Rapture](https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg) | 3:34 |
+| 85 | [Rapture](https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq) | [Makasi](https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6), [Dannii Murphy](https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI) | [Rapture](https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg) | 3:34 |
+| 86 | [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 |
 | 87 | [Ripped](https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM) | [Ripped](https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6) | 3:04 |
-| 88 | [Don’t Lead Anywhere](https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [Don’t Lead Anywhere](https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9) | 2:07 |
+| 88 | [A2](https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [A2](https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP) | 2:27 |
 | 89 | [Heart](https://open.spotify.com/track/1kG7q5rv5O4LDeM4PBhsl6) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [Heart](https://open.spotify.com/album/2LPFDyTQCeesUKrI4BH4WW) | 2:53 |
-| 90 | [A2](https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [A2](https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP) | 2:27 |
+| 90 | [Don’t Lead Anywhere](https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [Don’t Lead Anywhere](https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9) | 2:07 |
 
 Snapshot ID: `Z5dLLgAAAABnq2DAa3//FDQ0csWtLgdQ`

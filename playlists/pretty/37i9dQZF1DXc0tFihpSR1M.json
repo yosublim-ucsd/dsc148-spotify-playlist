@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 85286,
+  "num_followers": 85284,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "Timeless (Deluxe)",
-        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 154504,
-      "name": "Criminals",
-      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
-    },
-    {
-      "added_at": "2025-01-23 23:00:17",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 189806,
       "name": "With You",
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "Timeless (Deluxe)",
+        "url": "https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 154504,
+      "name": "Criminals",
+      "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
       "added_at": "2025-01-23 23:00:17",
@@ -859,8 +859,8 @@
     {
       "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "For Life (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
       },
       "artists": [
         {
@@ -868,17 +868,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 175803,
-      "name": "For Life (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+      "duration_ms": 180091,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
     {
       "added_at": "2025-01-23 23:00:17",
@@ -967,26 +963,6 @@
     {
       "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "Piece of My Heart (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 259354,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
-    },
-    {
-      "added_at": "2025-01-23 23:00:17",
-      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -1007,8 +983,28 @@
     {
       "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "Chasing Paradise",
-        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "For Life (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
       "artists": [
         {
@@ -1016,13 +1012,17 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
         }
       ],
-      "duration_ms": 180091,
-      "name": "Chasing Paradise",
-      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+      "duration_ms": 175803,
+      "name": "For Life (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
     },
     {
       "added_at": "2025-01-23 23:00:17",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "Look Who's Laughing Now",
-        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Look Who's Laughing Now",
-      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
-    },
-    {
-      "added_at": "2025-01-23 23:00:17",
-      "album": {
         "name": "last night's mascara",
         "url": "https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 177350,
       "name": "last night's mascara",
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "Look Who's Laughing Now",
+        "url": "https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 174660,
+      "name": "Look Who's Laughing Now",
+      "url": "https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7"
     },
     {
       "added_at": "2025-01-23 23:00:17",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "S\u00e5 l\u00e6nge jeg er sexy.",
-        "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 150190,
-      "name": "S\u00e5 l\u00e6nge jeg er sexy.",
-      "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
-    },
-    {
-      "added_at": "2025-01-23 23:00:17",
-      "album": {
         "name": "Det regner i Oslo",
         "url": "https://open.spotify.com/album/74qzyTE1SzN1qZ9vY1n3ao"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 156461,
       "name": "Det regner i Oslo",
       "url": "https://open.spotify.com/track/2miHLrDMptHROYGC3sVXnV"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "S\u00e5 l\u00e6nge jeg er sexy.",
+        "url": "https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 150190,
+      "name": "S\u00e5 l\u00e6nge jeg er sexy.",
+      "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
     },
     {
       "added_at": "2025-01-23 23:00:17",

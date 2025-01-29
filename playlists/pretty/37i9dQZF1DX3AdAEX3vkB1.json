@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 280284,
+  "num_followers": 280377,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
         "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 166666,
       "name": "Come A Little Bit Closer",
       "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Dance Party",
         "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 181640,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Bo Diddley",
@@ -1087,6 +1071,22 @@
       "duration_ms": 164546,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Up-Tight Everything's Alright",
         "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
       },
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "#1 Hits of the 60's",
-        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
       "artists": [
         {
-          "name": "Del Shannon",
-          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 147080,
-      "name": "Runaway (Rerecorded)",
-      "url": "https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk"
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1863,6 +1847,22 @@
       "duration_ms": 163293,
       "name": "Friday on My Mind",
       "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "#1 Hits of the 60's",
+        "url": "https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY"
+      },
+      "artists": [
+        {
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Runaway (Rerecorded)",
+      "url": "https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 All-Time Greatest Hits!",
-        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 125706,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 175893,
       "name": "Carrie Anne",
       "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 125706,
+      "name": "Papa's Got A Brand New Bag",
+      "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
     },
     {
       "added_at": "2022-06-16 22:02:00",

@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: Trey Campbell \(Songwriter\)
+> Songs from LGBTQIA+ artists\.  Cover: Rejsel
 
-1,400 songs - 3 day 4 hr 4 min
+1,402 songs - 3 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Catharsis](https://open.spotify.com/track/0v6u44B4dh88lsKxXsYCP9) | [Saint Precious](https://open.spotify.com/artist/7EtHe2rjA7F4wVXM1rxsy6) | [Catharsis](https://open.spotify.com/album/42OqIS8XpjJlq9Lw2OuVQZ) | 4:14 | 2024-02-13 | 2024-03-13 |
 | [Catwalk \(feat\. Skeltal Ki\)](https://open.spotify.com/track/2193DrgHsldAvZjmCVasNX) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Skeltal Ki](https://open.spotify.com/artist/268zD1VyjYhNVujGhzbw4y) | [Catwalk \(feat\. Skeltal Ki\)](https://open.spotify.com/album/3ltm9PlrjFQiTIsDHedtUO) | 2:55 | 2021-12-24 | 2022-01-07 |
 | [cayó la noche \(madrid minecraft\)](https://open.spotify.com/track/6tuT64s0ZkQAkc5KTH9tWt) | [Cutter Cute](https://open.spotify.com/artist/72z72JMenShm382u8BgMLt) | [cayó la noche \(madrid minecraft\)](https://open.spotify.com/album/6BHvlgg6rHQVeFV86NpjC0) | 2:38 | 2024-01-10 | 2024-03-13 |
+| [Chama](https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Chama](https://open.spotify.com/album/43c9YAds3Zha8eldLhHK2A) | 3:16 | 2025-01-28 |  |
 | [chance](https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:19 | 2022-09-16 | 2022-10-15 |
 | [Chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:20 | 2021-12-17 | 2022-01-29 |
 | [Change the Locks](https://open.spotify.com/track/1fgMGkGIzpjpwsqp85FDJP) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 4:29 | 2022-11-30 | 2023-01-25 |
@@ -629,7 +630,7 @@
 | [ifyoulikeitlikethat](https://open.spotify.com/track/1DpM2IaLWHOCFinmyqhxpF) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ifyoulikeitlikethat](https://open.spotify.com/album/5gIagpf6GQbM6IenHhXwt5) | 3:11 | 2024-01-10 | 2024-02-14 |
 | [IKONA](https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0) | [IKONA](https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg) | 3:00 | 2024-05-06 | 2024-06-06 |
 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 | 2021-12-17 | 2022-01-29 |
-| [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-12-04 |  |
+| [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-12-04 | 2025-01-29 |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2023-03-31 | 2023-04-14 |
 | [Imposter Syndrome](https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Imposter Syndrome](https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1) | 2:38 | 2023-03-07 | 2023-04-01 |
 | [In My Drinks](https://open.spotify.com/track/1GQhJMCZ4oN5lJ2H8HPouL) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [In My Drinks](https://open.spotify.com/album/6dX7u9yE0pG75ufDtb2B4u) | 3:23 | 2022-07-15 | 2022-11-13 |
@@ -1060,7 +1061,7 @@
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-12 | 2023-10-11 |
 | [Saturday Night's Alright \(For Fighting\)](https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 4:11 | 2024-05-28 | 2024-06-06 |
 | [Saviour](https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [Saviour](https://open.spotify.com/album/5w4EHVmC2kq9dhG8xBgxZE) | 3:17 | 2021-12-17 | 2022-03-26 |
-| [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2025-01-21 |  |
+| [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2025-01-21 | 2025-01-29 |
 | [Sconosciuti](https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:46 | 2024-11-12 | 2024-12-05 |
 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 | 2023-11-14 | 2023-11-30 |
 | [second](https://open.spotify.com/track/29Br7mFmSGM3W9ptFNg4Qc) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [second](https://open.spotify.com/album/4aU3izZF1sUiVQ2bN5UCec) | 3:29 | 2021-12-17 | 2022-01-29 |
@@ -1261,6 +1262,7 @@
 | [True Blue](https://open.spotify.com/track/2NS5hylxl4QNQcD6Vjmtpj) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/6NXpVVeILNHgAdJ3jdwsWg) | 4:56 | 2023-01-24 | 2023-03-03 |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2023-11-29 | 2024-01-11 |
 | [True Colors](https://open.spotify.com/track/2EjCLEpEzUkt6yh3uM3Qt6) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [MET](https://open.spotify.com/artist/4QzScFRs2N6EdhJfX74b1O) | [True Colors](https://open.spotify.com/album/2R72ja4Moh2PmLuEx1xb3F) | 3:09 | 2024-07-09 | 2024-08-21 |
+| [True Religion](https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [True Religion](https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat) | 2:50 | 2025-01-28 |  |
 | [Try](https://open.spotify.com/track/7uuomiEzgF5w4TPJDUvAEQ) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Try](https://open.spotify.com/album/1rvh7AKmoPg6RMMT9gDO5z) | 3:23 | 2023-03-31 | 2023-04-14 |
 | [TUDO](https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:34 | 2024-08-27 | 2024-09-10 |
 | [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 | 2024-08-13 | 2024-08-28 |

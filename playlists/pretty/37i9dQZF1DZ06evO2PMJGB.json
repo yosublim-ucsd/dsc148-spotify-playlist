@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 255669,
+  "num_followers": 255719,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABvSwbYB6/omazxsnl6YABs",
+  "snapshot_id": "Z5bMgAAAAABZSG3U6LfW0Pte+tzvCsSD",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheia de Manias",
-        "url": "https://open.spotify.com/album/59QSFHOxbFIFyg6MOeCZh0"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/4Hoopjd7q1Xwk3JWKpozr0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheia de Manias",
+        "url": "https://open.spotify.com/album/59QSFHOxbFIFyg6MOeCZh0"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/4Hoopjd7q1Xwk3JWKpozr0"
     },
     {
       "added_at": null,

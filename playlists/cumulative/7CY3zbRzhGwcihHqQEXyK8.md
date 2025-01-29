@@ -4,7 +4,7 @@
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-643 songs - 1 day 9 hr 27 min
+644 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [bad girl \#imdyingwhenicu](https://open.spotify.com/track/4JO75A8y8muhRTryx0Qnl8) | [Yoru Tsuki](https://open.spotify.com/artist/5DhMsbwQiYHYSXIMLNC7yq) | [top secret mixtape](https://open.spotify.com/album/1lvJ0gDR2bpcZ6B8To1SYU) | 2:07 | 2024-12-16 |  |
 | [Bad People](https://open.spotify.com/track/71Q16re7s5AN4wdAYvcBQh) | [Corey Feldman](https://open.spotify.com/artist/1hzKfT0k54Cn1HgxoOTZP9) | [Angelic 2 the Core : Angelic Funkadelic / Angelic Rockadelic](https://open.spotify.com/album/1HulL4NikuGieoJQUBJJL9) | 4:29 | 2024-12-15 |  |
 | [BANANA](https://open.spotify.com/track/7tWtVqEBywdJ4nTmgxozfa) | [Breaded Beans](https://open.spotify.com/artist/5pQVwAPuspOhZ4SMJDgctF) | [CALL ME IF YOU GET LOST: LOST TRACKS](https://open.spotify.com/album/18RDbFA8eFqrjM5XZsboxm) | 0:21 | 2024-12-15 |  |
+| [Bang! \(feat\. Hayley Kiyoko\) \- AhhHaa Remix](https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [AhhHaa](https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m) | [Bang! \(feat\. Hayley Kiyoko\) \[AhhHaa Remix\]](https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04) | 2:47 | 2025-01-29 |  |
 | [Bang! \- Acoustic](https://open.spotify.com/track/3GgOfbqyLG6TsT2a9FfbRU) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang! \(Remixes\)](https://open.spotify.com/album/0LzG2yUFam5JA6eVHJ8Mlq) | 2:43 | 2024-12-15 |  |
 | [Bang! \- Nathan Dawe Remix](https://open.spotify.com/track/3NVDeAITKiWEDDI5mfwjhI) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Bang! \(Remixes\)](https://open.spotify.com/album/0LzG2yUFam5JA6eVHJ8Mlq) | 2:54 | 2024-12-15 |  |
 | [Bang! \- Nathan Dawe Remix](https://open.spotify.com/track/4IqLk3K6pMRU0NgXISwgqD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Bang! \(Nathan Dawe Remix\)](https://open.spotify.com/album/24FHm86jBBuKWeOedUTzk7) | 2:54 | 2024-12-15 |  |

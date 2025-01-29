@@ -4477,6 +4477,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179340,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/4JIuMgm9VaZ7RjdINnb0qW"
+    },
+    {
+      "album": {
         "name": "Lift You Up",
         "url": "https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX"
       },
@@ -6650,7 +6668,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 185666,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6idYm6kt2C1ZuW9ZL53o4g"

@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-102 songs - 6 hr 10 min
+103 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Pack Up Your Sorrows](https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 2:53 | 2022-10-30 |  |
 | [Plaisir D' Amour](https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:10 | 2022-09-27 |  |
 | [Plaisir d'amour](https://open.spotify.com/track/5eRrNnH2Q3eF5VI3xWG6fB) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Music Legends Joan Baez : The Queen of Folk Music](https://open.spotify.com/album/6mu8PdnxaUQm7Li0wymAtD) | 3:05 | 2024-08-18 | 2024-09-02 |
-| [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 | 2022-09-22 |  |
+| [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 | 2022-09-22 | 2025-01-29 |
 | [Rake And Rambling Boy](https://open.spotify.com/track/2VyKXzrtialaXBc4uIA58Z) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 1:59 | 2023-12-13 | 2023-12-15 |
 | [Sad\-Eyed Lady Of The Low Lands](https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 11:17 | 2022-09-22 | 2024-06-09 |
 | [Sagt Mir Wo Die Blumen Sind](https://open.spotify.com/track/7azEbwOXh4ylBBLjYnEwRZ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 4:04 | 2022-09-22 | 2024-07-23 |
@@ -107,6 +107,7 @@
 | [To Bobby](https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:01 | 2025-01-18 |  |
 | [We Shall Overcome \- Live](https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:32 | 2022-09-22 | 2024-07-24 |
 | [Where Have All The Flower](https://open.spotify.com/track/1cvf2int8YVa9KN5VQFgTL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Very Early Joan](https://open.spotify.com/album/3Zainu7Tr9VtrW0m1oFQ9r) | 4:31 | 2022-09-25 | 2022-10-13 |
+| [Where Have All The Flower](https://open.spotify.com/track/61DQO2hadGv2arlhbvhyAp) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 4:31 | 2025-01-29 |  |
 | [Wildwood Flower](https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:37 | 2022-09-25 |  |
 | [Winds Of The Old Days](https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 3:55 | 2022-09-25 |  |
 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 3:01 | 2022-09-22 |  |

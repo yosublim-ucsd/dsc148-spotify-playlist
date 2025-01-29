@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 182730,
       "name": "10:30 A.M.",
       "url": "https://open.spotify.com/track/0QU49H3DgYzSGrooRat697"
@@ -11159,6 +11159,24 @@
     },
     {
       "album": {
+        "name": "FUORI CONTROLLO",
+        "url": "https://open.spotify.com/album/7yvU00Gr156QMndM2IpkfG"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135168,
+      "name": "FUORI CONTROLLO",
+      "url": "https://open.spotify.com/track/2ZlQtpy3kq2oEzerBx4xj2"
+    },
+    {
+      "album": {
         "name": "Fuori di casa",
         "url": "https://open.spotify.com/album/4wY4c7gRlQaGV4buPGm1Dn"
       },
@@ -18302,7 +18320,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 133894,
       "name": "mille domande #126 (feat. Suspect CB)",
       "url": "https://open.spotify.com/track/4aLBB9wpmWvbXX0y8kCy3I"

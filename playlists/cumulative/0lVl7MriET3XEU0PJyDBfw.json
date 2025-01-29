@@ -6002,7 +6002,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 170551,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/09rdtmzo1R9vmlJhmD3Nbp"
@@ -7954,6 +7954,24 @@
       "duration_ms": 175730,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5DqY3RLK5Vl6zvTc1vv06A"
+    },
+    {
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/2JPj1NO7EsNb1TeHYOMbs9"
+      },
+      "artists": [
+        {
+          "name": "Icarix",
+          "url": "https://open.spotify.com/artist/0MxIuhSYO3ek7VTPsOcbcr"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161868,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/6aocwgz3VqX859yR3JpJHB"
     },
     {
       "album": {

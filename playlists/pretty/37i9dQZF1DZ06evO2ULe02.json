@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 1363,
+  "num_followers": 1364,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAADH8YNKyc/OZF3dr5U3STqP",
+  "snapshot_id": "Z5bMgAAAAADJIf9D9CNwkReHqWz8tNRt",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Alright If You're Ok",
-        "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 171938,
-      "name": "I Can't Be Your Friend",
-      "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/2gMqEdAujugcErSftyzTki"
       },
@@ -239,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Communication",
-        "url": "https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb"
+        "name": "I'm Alright If You're Ok",
+        "url": "https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen"
       },
       "artists": [
         {
@@ -248,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 187263,
-      "name": "Communication",
-      "url": "https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA"
+      "duration_ms": 171938,
+      "name": "I Can't Be Your Friend",
+      "url": "https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph"
     },
     {
       "added_at": null,
@@ -267,6 +251,22 @@
       "duration_ms": 163983,
       "name": "Grocery Store Girl",
       "url": "https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Communication",
+        "url": "https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "Communication",
+      "url": "https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA"
     },
     {
       "added_at": null,

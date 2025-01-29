@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-247 songs - 15 hr 59 min
+248 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Bruciasse Il Cielo](https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Bruciasse Il Cielo](https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk) | 3:57 | 2024-01-17 | 2024-06-26 |
 | [Casa](https://open.spotify.com/track/65sEIdBT16fziZvjhckFpq) | [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [Casa](https://open.spotify.com/album/0FO2xwcfokmFAuEUuMCEel) | 2:45 | 2021-09-26 | 2022-06-22 |
 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 | 2021-09-26 |  |
-| [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 | 2021-09-26 | 2022-07-29 |
+| [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 | 2021-09-26 |  |
 | [Chiaro Di Luna](https://open.spotify.com/track/6t4XT3FQGdB7EjqvfAahNx) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Oh, Vita!](https://open.spotify.com/album/3Rmh8a4XhtaVz2J3sLNkTK) | 3:59 | 2021-09-26 |  |
 | [Chissà se lo sai](https://open.spotify.com/track/3zfu6purzESVP3pVQ7RyRP) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Bugie](https://open.spotify.com/album/3ntCfoW9VBhGf9Gm3aCCsl) | 4:02 | 2021-09-26 | 2022-07-29 |
 | [Ci Sarai](https://open.spotify.com/track/6iLvjH0HEU71q31DAfKt10) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [Fermoimmagine](https://open.spotify.com/album/3usPcrTGNDxXe3ciW0hfnA) | 4:14 | 2021-09-26 | 2022-07-29 |
@@ -71,6 +71,7 @@
 | [Faccio un casino](https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:13 | 2021-09-26 | 2025-01-24 |
 | [Fai rumore](https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS) | [Diodato](https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi) | [Fai rumore](https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ) | 3:36 | 2021-09-26 | 2024-03-26 |
 | [Fiore Di Maggio](https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX) | [Fabio Concato](https://open.spotify.com/artist/71tUraH5ODniYOmjxfc1za) | [Fabio Concato](https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra) | 3:53 | 2021-09-26 |  |
+| [Fotografia \(feat\. Francesca Michielin & Fabri Fibra\)](https://open.spotify.com/track/3fw3W15QK6a9UxJGgndtYu) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Notti Brave](https://open.spotify.com/album/1BayCxyyUYlm3x0Ys1z4Fl) | 3:41 | 2025-01-28 |  |
 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 | 2021-09-26 |  |
 | [Fuoco nel fuoco](https://open.spotify.com/track/5U61t7csH5tQmOEp74AkoM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:00 | 2024-01-17 |  |
 | [Giudizi universali](https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Samuele Bersani](https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR) | 3:55 | 2021-09-26 | 2024-04-03 |
@@ -119,7 +120,7 @@
 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 | 2021-09-26 |  |
 | [La Fine](https://open.spotify.com/track/7eEthuNKSBZ6ipfmG5mjuJ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [L'amore è una cosa semplice \(Special Edition\)](https://open.spotify.com/album/4VqOwLPLbdl3GTNoygOLW1) | 3:46 | 2021-09-26 | 2022-07-28 |
 | [LA MIA ULTIMA STORIA](https://open.spotify.com/track/5JYMRX7TnPrEYkmwKOMmVD) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [EX VOTO](https://open.spotify.com/album/4n4BEIXre48tozRUR354jP) | 3:18 | 2021-09-26 | 2022-07-28 |
-| [La musica non c'è](https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:42 | 2021-09-26 |  |
+| [La musica non c'è](https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 3:42 | 2021-09-26 | 2025-01-29 |
 | [La nostra relazione](https://open.spotify.com/track/3aG9QxO3O3w1qYVJAxdw5R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Ma Cosa Vuoi Che Sia Una Canzone](https://open.spotify.com/album/3qlZxpHULNTMuNtSgSMYiK) | 3:02 | 2021-09-26 | 2022-07-27 |
 | [La notte](https://open.spotify.com/track/2QVIMIcEt0t72cqbafrvxI) | [Arisa](https://open.spotify.com/artist/25x6MD0spNNS7z93Sat30K) | [Amami](https://open.spotify.com/album/7pH86nj2gFvJjw0u86zXOQ) | 3:55 | 2025-01-23 |  |
 | [La prima cosa bella](https://open.spotify.com/track/4VbK4kLSKzJ5sgsdZWmAJ9) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Grovigli](https://open.spotify.com/album/2n64YwFYEsVx4cmKmFFDZW) | 3:37 | 2021-09-26 | 2022-07-29 |
@@ -129,7 +130,7 @@
 | [La stessa](https://open.spotify.com/track/0x7pHyBX8Ph2j4knBp1he9) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [La stessa](https://open.spotify.com/album/6CSM8IX1E61Sfh9uX6J5iU) | 3:45 | 2021-09-26 | 2022-06-29 |
 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 | 2021-09-26 |  |
 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2021-09-26 |  |
-| [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 | 2021-09-26 |  |
+| [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 | 2021-09-26 | 2025-01-29 |
 | [Le Sei E Ventisei](https://open.spotify.com/track/2dT5WyNVkCfBMvvffAiwoG) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Il Primo Bacio Sulla Luna](https://open.spotify.com/album/1Xv9aoCKbnUD3S2OYAjbo8) | 4:44 | 2021-09-26 | 2022-07-24 |
 | [Le tasche piene di sassi](https://open.spotify.com/track/7FJ2MZUK52QYeARaSird6m) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Le tasche piene di sassi](https://open.spotify.com/album/0995VBTDyPAQLGY7ru2jXK) | 3:45 | 2021-09-26 | 2022-07-28 |
 | [Luce \(Tramonti a Nord Est\)](https://open.spotify.com/track/09g4hFrDdBK3J52I3InPgl) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Asile's World](https://open.spotify.com/album/4NAldsRyud3P1gM53MpSEs) | 4:24 | 2021-09-26 | 2022-07-28 |

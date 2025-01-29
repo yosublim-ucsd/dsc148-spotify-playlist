@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Alison Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,122 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,171 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 54 | [Wine On A Bumsee](https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 7:03 |
 | 55 | [Doye, Doye](https://open.spotify.com/track/6zwbz3ETvzebg6hY0Sngke) | [Wayne T & Silky Slim](https://open.spotify.com/artist/7jT3JImjyBR1L228runIMH) | [Soca Anthems Collection](https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC) | 6:36 |
 | 56 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 |
-| 57 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |
-| 58 | [Hard Wine](https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:44 |
-| 59 | [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 |
+| 57 | [Famalay](https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6) | 3:19 |
+| 58 | [Hookin' Meh](https://open.spotify.com/track/7a3UBZZ4md9nJUDQbxqk7W) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [Hooked on Soca](https://open.spotify.com/album/4O3wKLSGhkJojPEesmcoGu) | 3:03 |
+| 59 | [Hard Wine](https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:44 |
 | 60 | [Ragga Poom Poom](https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770) | [Anslem Douglas](https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:52 |
 | 61 | [This Is How](https://open.spotify.com/track/3QNeQhmzrpna9BBu8niDLi) | [CRAZY](https://open.spotify.com/artist/2gFPGGvyxyAZwwSeUeKBXZ) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 6:04 |
 | 62 | [Rev the Engine](https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q) | [General Grant](https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 3:54 |

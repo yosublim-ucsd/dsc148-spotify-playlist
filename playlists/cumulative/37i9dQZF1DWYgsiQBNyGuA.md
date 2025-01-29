@@ -4,7 +4,7 @@
 
 > Soul to brighten up your day.
 
-185 songs - 11 hr 59 min
+186 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [100 Days, 100 Nights](https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V) | 3:45 | 2023-02-21 | 2024-04-19 |
 | [100 Days, 100 Nights](https://open.spotify.com/track/69YW4FrGpsjzt9lr517bUz) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD) | 3:45 | 2022-01-05 | 2024-08-31 |
 | [123 Days](https://open.spotify.com/track/3lmiIyoFomOOVErnkYVKEW) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Rough & Ready](https://open.spotify.com/album/1pdIfSSFtnNo7elEZudCGH) | 4:27 | 2024-10-25 | 2025-01-25 |
+| [Ain't Easy](https://open.spotify.com/track/7oRtVcdlys2I6s8fGhC6u0) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Ain't Easy](https://open.spotify.com/album/1TD7QHy48RPhLcBTfjNwth) | 4:28 | 2025-01-24 |  |
 | [Ain't No Use](https://open.spotify.com/track/0tjjWJfZyceooAGlRfZTh1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq) | 4:40 | 2022-01-05 | 2024-08-22 |
 | [Ain't No Use](https://open.spotify.com/track/1k8AAfl7Eylt2alxE2qWAN) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv) | 4:40 | 2022-01-05 | 2024-04-19 |
 | [All For Love](https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp) | [Adriana Evans](https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv) | [El Camino](https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G) | 4:25 | 2022-01-05 |  |
@@ -185,7 +186,7 @@
 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 | 2022-01-05 | 2023-07-11 |
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-13 |  |
 | [Walk With the Father](https://open.spotify.com/track/7a5VJhBN7zAe8Lv9Y0e84E) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Walk With the Father](https://open.spotify.com/album/32BXW0dPL9GASWB4IswRU7) | 3:46 | 2024-08-30 |  |
-| [Whatcha Done Now \(feat\. Kenyon Dixon\)](https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Whatcha Done Now \(feat\. Kenyon Dixon\)](https://open.spotify.com/album/1IWE4RBWTV3bV9WKgVPrWn) | 3:48 | 2024-08-30 |  |
+| [Whatcha Done Now \(feat\. Kenyon Dixon\)](https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Whatcha Done Now \(feat\. Kenyon Dixon\)](https://open.spotify.com/album/1IWE4RBWTV3bV9WKgVPrWn) | 3:48 | 2024-08-30 | 2025-01-29 |
 | [Who Do You Think You Are](https://open.spotify.com/track/06PqCTjgqD5SLemzSmg5OT) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Land of Possibilities](https://open.spotify.com/album/4w8jFeXUxgHokYQKZwJGsc) | 3:44 | 2022-01-05 | 2024-04-19 |
 | [Who Do You Think You Are](https://open.spotify.com/track/3ttq2C915PZLL1WDBQcOUe) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Land of Possibilities](https://open.spotify.com/album/1ulfpc8a885mfPyqIPJdWn) | 3:44 | 2022-01-05 | 2024-06-06 |
 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 | 2022-01-05 |  |

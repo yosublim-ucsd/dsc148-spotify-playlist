@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 107771,
+  "num_followers": 107774,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABBRJKgstEaUr9gmLcMJKyB",
+  "snapshot_id": "Z5bMgAAAAAAVrqPwT+CV5wD/hXg7LvGF",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Across the Mountains",
-      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In the magic of Cosmos",
         "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 127106,
       "name": "In the magic of Cosmos",
       "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Across the Mountains",
+      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chariots Of Fire - The Play",
-        "url": "https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 246306,
-      "name": "Eric's Theme",
-      "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
+      "duration_ms": 326653,
+      "name": "Main Theme - From \"Chariots of Fire\"",
+      "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+        "name": "Chariots Of Fire - The Play",
+        "url": "https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 326653,
-      "name": "Main Theme - From \"Chariots of Fire\"",
-      "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
+      "duration_ms": 246306,
+      "name": "Eric's Theme",
+      "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
     },
     {
       "added_at": null,

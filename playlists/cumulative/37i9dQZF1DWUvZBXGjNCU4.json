@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Walk Through the Pines",
+        "url": "https://open.spotify.com/album/3xkaHH97ylAcyWBujPkTnl"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156750,
+      "name": "A Walk Through the Pines",
+      "url": "https://open.spotify.com/track/0Av3JVea99vkKxRqI3VyDG"
+    },
+    {
+      "album": {
         "name": "A While Ago",
         "url": "https://open.spotify.com/album/14ZJ6P0xP8RQYZS48y3qyj"
       },

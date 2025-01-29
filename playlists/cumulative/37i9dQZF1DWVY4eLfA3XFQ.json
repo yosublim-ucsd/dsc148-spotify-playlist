@@ -14049,6 +14049,24 @@
     },
     {
       "album": {
+        "name": "Groove With It EP",
+        "url": "https://open.spotify.com/album/7xWO2C0KsqXey1ShtdzuNp"
+      },
+      "artists": [
+        {
+          "name": "Deltech",
+          "url": "https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Groove With It",
+      "url": "https://open.spotify.com/track/2uoDMLZryLTwwD5Zpvn5MU"
+    },
+    {
+      "album": {
         "name": "Groovemasta / Beat It Up",
         "url": "https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J"
       },
@@ -34462,7 +34480,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 153281,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"

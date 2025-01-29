@@ -1,6 +1,6 @@
 {
   "description": "El mejor Dance.",
-  "num_followers": 423471,
+  "num_followers": 423501,
   "original_name": "Dance 2025",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Connie Constance",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Heaven Takes You Home (feat. Connie Constance)",
-      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
     },
     {
       "added_at": "2025-01-14 10:38:24",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
-        "name": "If U Need It",
-        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "If U Need It",
-      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 210013,
       "name": "Heroes (we could be)",
       "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
+        "name": "If U Need It",
+        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "If U Need It",
+      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
     },
     {
       "added_at": "2025-01-14 10:38:24",
@@ -871,6 +871,26 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2025-01-14 10:38:24",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 176491,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
         "name": "Whistle (feat. Calum Scott)",
         "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 181957,
       "name": "Whistle (feat. Calum Scott)",
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 176491,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
     },
     {
       "added_at": "2025-01-14 10:38:24",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 181477,
       "name": "Substitution (feat. Julian Perretta)",
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
       "added_at": "2025-01-14 10:38:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
-        "name": "Una Velita",
-        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Una Velita",
-      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
         "name": "Marea (we\u2019ve lost dancing)",
         "url": "https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
     },
     {
       "added_at": "2025-01-14 10:38:24",
@@ -1607,30 +1607,6 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
-        "name": "Fine Day Anthem",
-        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Opus III",
-          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
-        }
-      ],
-      "duration_ms": 193690,
-      "name": "Fine Day Anthem",
-      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
         "name": "Don't Say Goodbye (feat. Tove Lo)",
         "url": "https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX"
       },
@@ -1651,6 +1627,30 @@
       "duration_ms": 186700,
       "name": "Don't Say Goodbye (feat. Tove Lo)",
       "url": "https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
+        "name": "Fine Day Anthem",
+        "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Opus III",
+          "url": "https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z"
+        }
+      ],
+      "duration_ms": 193690,
+      "name": "Fine Day Anthem",
+      "url": "https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G"
     },
     {
       "added_at": "2025-01-14 10:38:24",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 178935,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero]",
-        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
-      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
     },
     {
       "added_at": "2025-01-14 10:38:24",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2025-01-14 10:38:24",
       "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/3syh4e0H2YnXmzGzP5Rd3G"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 215064,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/7EI6Iki24tBHAMxtb4xQN2"
+    },
+    {
+      "added_at": "2025-01-14 10:38:24",
+      "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
@@ -2043,26 +2059,6 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
-    },
-    {
-      "added_at": "2025-01-14 10:38:24",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
     }
   ],
   "unique_name": "Dance 2025",

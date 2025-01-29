@@ -224,7 +224,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 149034,
       "name": "ALL MFS",
       "url": "https://open.spotify.com/track/5mixDqBHkUKreGTaX1K3YK"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 179142,
       "name": "Dead To Me",
       "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
@@ -3894,6 +3894,28 @@
       "duration_ms": 249600,
       "name": "Flying Spaghetti Monster",
       "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2nddSx3jiONF70tHFlYfN2"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        },
+        {
+          "name": "Rickyxsan",
+          "url": "https://open.spotify.com/artist/0lqxqV3IhQXO5czq1d0ZfJ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/2ZJn2mR3K3vgxEpuXN3V9G"
     },
     {
       "album": {
@@ -12344,7 +12366,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 206925,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/47pIAb5BLYGWDEr9YjShED"

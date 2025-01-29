@@ -2059,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Have Fun",
+        "url": "https://open.spotify.com/album/550zId70EEaGEsnQirUO11"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161233,
+      "name": "Have Fun",
+      "url": "https://open.spotify.com/track/0TMRAlLGfejAdDUZKtA3n6"
+    },
+    {
+      "album": {
         "name": "Hee Joh Jip",
         "url": "https://open.spotify.com/album/2h9lK42gs4W4NM9EgLUbxI"
       },
@@ -3482,7 +3500,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 162694,
       "name": "Mijn Haren Ruiken Naar Vuur",
       "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"

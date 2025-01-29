@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 214373,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/12kYjSO1K9XXM8z3w9KesN"
@@ -3609,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "Vanellope's Sweet Pop World",
+        "url": "https://open.spotify.com/album/2x1DBnehQCP4zTIagOQjP1"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Disneyland",
+          "url": "https://open.spotify.com/artist/5EPQb0h5U2AWk8OxzEWxx2"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Sweets Paradise Resort - from \"It's a Sweetsful Time!\"",
+      "url": "https://open.spotify.com/track/2F4NbqZQzpSs6KLvOEZYcC"
+    },
+    {
+      "album": {
         "name": "Mufasa: The Lion King (Japanese Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1GfQs8dWxfnYdJ7bCD90pU"
       },
@@ -4282,7 +4300,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 265946,
       "name": "Welcome to Christmas - 2024",
       "url": "https://open.spotify.com/track/4efuWaI8TXsKdDDEN85iwc"
@@ -4622,7 +4640,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 264280,
       "name": "You Can Fly! You Can Fly! You Can Fly!",
       "url": "https://open.spotify.com/track/1HTqoEMp8bRSfPDM7c5xIm"
@@ -4674,7 +4692,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 170173,
       "name": "You Can Fly! You Can Fly! You Can Fly!",
       "url": "https://open.spotify.com/track/7mbwN5OHDcxhgpmQeLGYh4"

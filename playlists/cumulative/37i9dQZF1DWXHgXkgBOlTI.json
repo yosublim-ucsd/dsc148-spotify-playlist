@@ -131,6 +131,28 @@
     },
     {
       "album": {
+        "name": "Balloon Pop",
+        "url": "https://open.spotify.com/album/4FzFNTd84JsiPzggATL5Kn"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Sonicwonder",
+          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377533,
+      "name": "Balloon Pop",
+      "url": "https://open.spotify.com/track/2mv2NSOOvCWnWw1THcueTu"
+    },
+    {
+      "album": {
         "name": "Bed of the Moon",
         "url": "https://open.spotify.com/album/0pN2yqDsIUuEzYk7fAV2wa"
       },
@@ -492,7 +514,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 390680,
       "name": "Down In The Village",
       "url": "https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N"
@@ -568,6 +590,24 @@
       "duration_ms": 257859,
       "name": "Fanfare",
       "url": "https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp"
+    },
+    {
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
     },
     {
       "album": {
@@ -730,7 +770,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 219200,
       "name": "Hale no sola sita -LA YELLOW SAMBA-",
       "url": "https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z"
@@ -792,6 +832,24 @@
       "duration_ms": 279013,
       "name": "Infinite Mirror",
       "url": "https://open.spotify.com/track/6Ud16saJTj7RYZolKEENE3"
+    },
+    {
+      "album": {
+        "name": "The Creation of ADAM",
+        "url": "https://open.spotify.com/album/15yXyGAjrQJj2wdKrzUqvc"
+      },
+      "artists": [
+        {
+          "name": "ADAM at",
+          "url": "https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219040,
+      "name": "Install",
+      "url": "https://open.spotify.com/track/0XHXSRiodyRHikC7Rah4L5"
     },
     {
       "album": {
@@ -1312,7 +1370,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 249833,
       "name": "Sakura Flutter",
       "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"

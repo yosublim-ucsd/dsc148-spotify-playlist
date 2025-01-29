@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: HNTR",
-  "num_followers": 252498,
+  "num_followers": 252565,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,22 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Push To Start (feat. No/Me)",
-        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
+        "name": "Raving In The Studio",
+        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
       },
       "artists": [
         {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
         },
         {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
         }
       ],
-      "duration_ms": 181875,
-      "name": "Push To Start (feat. No/Me)",
-      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+      "duration_ms": 183771,
+      "name": "Raving In The Studio",
+      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -883,22 +879,26 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Raving In The Studio",
-        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
+        "name": "Push To Start (feat. No/Me)",
+        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
       "artists": [
         {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         },
         {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
         }
       ],
-      "duration_ms": 183771,
-      "name": "Raving In The Studio",
-      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
+      "duration_ms": 181875,
+      "name": "Push To Start (feat. No/Me)",
+      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -935,6 +935,30 @@
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Night In Detroit (feat. Fedde Le Grand)",
+        "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Night In Detroit (feat. Fedde Le Grand)",
+      "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -1007,30 +1031,6 @@
       "duration_ms": 191250,
       "name": "VHS RAVE",
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
-        "name": "Night In Detroit (feat. Fedde Le Grand)",
-        "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "Night In Detroit (feat. Fedde Le Grand)",
-      "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Black Ice",
-        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 260001,
-      "name": "Black Ice",
-      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
         "name": "Counting (Sammy Virji Remix)",
         "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Black Ice",
+        "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 260001,
+      "name": "Black Ice",
+      "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
     },
     {
       "added_at": "2025-01-24 05:00:47",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2025-01-24 05:00:47",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
-    },
-    {
-      "added_at": "2025-01-24 05:00:47",
-      "album": {
         "name": "Bogeyman",
         "url": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 285882,
       "name": "Bogeyman",
       "url": "https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm"
+    },
+    {
+      "added_at": "2025-01-24 05:00:47",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 218437,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
       "added_at": "2025-01-24 05:00:47",

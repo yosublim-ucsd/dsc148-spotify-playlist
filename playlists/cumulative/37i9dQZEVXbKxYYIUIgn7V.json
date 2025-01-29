@@ -483,6 +483,24 @@
     },
     {
       "album": {
+        "name": "A Gira",
+        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152325,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
+    },
+    {
+      "album": {
         "name": "A Little Closer",
         "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
       },
@@ -1725,6 +1743,28 @@
     },
     {
       "album": {
+        "name": "atzen & barbies (feat. ski aggu)",
+        "url": "https://open.spotify.com/album/2e4PVzy8g83UnDEDxL6woe"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146307,
+      "name": "atzen & barbies (feat. ski aggu)",
+      "url": "https://open.spotify.com/track/4iD4W5c2bpkLRoFbzUIuR2"
+    },
+    {
+      "album": {
         "name": "Auf zum Apr\u00e8s Ski",
         "url": "https://open.spotify.com/album/477vKzPQAO1fCKl7k1TPto"
       },
@@ -1856,7 +1896,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 178000,
       "name": "August 10",
       "url": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj"
@@ -2190,7 +2230,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -2208,7 +2248,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -4560,6 +4600,24 @@
     {
       "album": {
         "name": "Chess Type Beat",
+        "url": "https://open.spotify.com/album/2l66xOiOxQsIO0wCFtddJI"
+      },
+      "artists": [
+        {
+          "name": "H11T",
+          "url": "https://open.spotify.com/artist/541sdtj5gLuRAfuICS8kIW"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120004,
+      "name": "Chess Type Beat",
+      "url": "https://open.spotify.com/track/7mwXFKWXsbxSanaFQ2JS53"
+    },
+    {
+      "album": {
+        "name": "Chess Type Beat",
         "url": "https://open.spotify.com/album/50Y5Qs42xHpfFHu0wDLhel"
       },
       "artists": [
@@ -4588,7 +4646,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 120057,
       "name": "Chess Type Beat",
       "url": "https://open.spotify.com/track/6wHQ7P26DfKDrYnuRczUTT"
@@ -6424,6 +6482,28 @@
       "duration_ms": 208487,
       "name": "Drugs You Should Try It",
       "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
+    },
+    {
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "Drums of Death",
+      "url": "https://open.spotify.com/track/13QINbzgh3yta5OGvB77Pl"
     },
     {
       "album": {
@@ -11494,7 +11574,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 214506,
       "name": "Ich wollte immer einen Bruder",
       "url": "https://open.spotify.com/track/2x1dkjz30TxRRKb5wYbDZx"
@@ -12768,7 +12848,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 236000,
       "name": "Klaus und Ferdl Potpourri",
       "url": "https://open.spotify.com/track/33uSznQvxl4I4Qjy8EYAw5"
@@ -12900,7 +12980,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 181924,
       "name": "Komm Her",
       "url": "https://open.spotify.com/track/0tbfSUqwNKrBaAbYReR5r8"
@@ -14188,7 +14268,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 186521,
       "name": "Loco",
       "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
@@ -14398,6 +14478,28 @@
     {
       "album": {
         "name": "The Gifted",
+        "url": "https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "LoveHate Thing (feat. Sam Dew)",
+      "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
+    },
+    {
+      "album": {
+        "name": "The Gifted",
         "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
       },
       "artists": [
@@ -14412,7 +14514,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
@@ -14630,6 +14732,24 @@
       "duration_ms": 223672,
       "name": "L\u00e4chel doch mal",
       "url": "https://open.spotify.com/track/1zSuRjiKyvZdLe23QsHcUP"
+    },
+    {
+      "album": {
+        "name": "L\u00f6sch Mei Nummer",
+        "url": "https://open.spotify.com/album/2UVj82hXR1qc7j3Xd1bYKO"
+      },
+      "artists": [
+        {
+          "name": "Kid R\u00e4p",
+          "url": "https://open.spotify.com/artist/1VNj7JRNAFRBosFPlJnKoB"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129332,
+      "name": "L\u00f6sch Mei Nummer",
+      "url": "https://open.spotify.com/track/5OgJE6aUOQK1Plo9PcMwB7"
     },
     {
       "album": {
@@ -17920,7 +18040,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 149440,
       "name": "P*RNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
@@ -20153,6 +20273,24 @@
     },
     {
       "album": {
+        "name": "SAB\u00cdA QUE NO",
+        "url": "https://open.spotify.com/album/4WszholwoxRZHWYkRgsXKs"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182797,
+      "name": "SAB\u00cdA QUE NO",
+      "url": "https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt"
+    },
+    {
+      "album": {
         "name": "sad girl summer",
         "url": "https://open.spotify.com/album/2ZmXJSHjGlDKrQLoio24kk"
       },
@@ -20626,6 +20764,24 @@
       "duration_ms": 105000,
       "name": "SCHNAPS.",
       "url": "https://open.spotify.com/track/5aFkOC50QF48cZSOZECpqH"
+    },
+    {
+      "album": {
+        "name": "Schnee von morgen",
+        "url": "https://open.spotify.com/album/3ywFR8ZscNRvrtCQjnjX8m"
+      },
+      "artists": [
+        {
+          "name": "jaschu",
+          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Schnee von morgen",
+      "url": "https://open.spotify.com/track/1s6cXY4Fx1GcAMEDHuU0cJ"
     },
     {
       "album": {
@@ -21134,7 +21290,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 144081,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd"
@@ -21200,6 +21356,24 @@
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
+    },
+    {
+      "album": {
+        "name": "SHE WILL (Instrumental)",
+        "url": "https://open.spotify.com/album/4L6d8ekPRYdrJsYbymSBi8"
+      },
+      "artists": [
+        {
+          "name": "XXKATUSJINSUX",
+          "url": "https://open.spotify.com/artist/0Zkkh7YLEO75PmH7vwgO7X"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63182,
+      "name": "SHE WILL - Instrumental",
+      "url": "https://open.spotify.com/track/2XB7Ji5QUdaJ2XnJ0akqtY"
     },
     {
       "album": {
@@ -22338,7 +22512,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 180666,
       "name": "Stuff (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/6JvIjI8H3yxpigROd3Cv9N"
@@ -22566,7 +22740,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 182400,
       "name": "Sun",
       "url": "https://open.spotify.com/track/4iyCORYRUEVoGZ8aU0DN7F"
@@ -23018,7 +23192,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 284586,
       "name": "Tapout",
       "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
@@ -25024,7 +25198,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"
@@ -25216,6 +25390,28 @@
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "album": {
+        "name": "Wacuka",
+        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Wacuka",
+      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
     },
     {
       "album": {
@@ -25816,7 +26012,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 244026,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5wBTPxJisiSQz9vkneZSlr"

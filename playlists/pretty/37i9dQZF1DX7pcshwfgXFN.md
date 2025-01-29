@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,748 likes - 35 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,746 likes - 35 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 24 | [Duaa 03](https://open.spotify.com/track/1kvFQLIRqdjC7mLlGeSxTL) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 03](https://open.spotify.com/album/5opMjcbsUJaBWcfplJt7pt) | 2:33 |
 | 25 | [Duaa 13](https://open.spotify.com/track/5bCvtfbE6Rbz92WqqS5c2s) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 13](https://open.spotify.com/album/4gbUx4AiwZOzGu5M0dlX4J) | 3:03 |
 | 26 | [يا ذا العزة والجبروت](https://open.spotify.com/track/7tRYG3bVGBOWjxBOEXl7tS) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [يا ذا العزة والجبروت](https://open.spotify.com/album/4hrSh96yW1b065Cwssg8og) | 1:51 |
-| 27 | [\( Live \) اللهم أعنا على ذكرك وشكرك](https://open.spotify.com/track/45E5YuOCi5euPZKrnDmH1w) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
+| 27 | [\( Live \) اللهم إنا نسألك خير ما نأتي](https://open.spotify.com/track/0rWxaewxRQ2NXCJbiv8I49) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
 | 28 | [الحمد لله الذي هدانا لهذا](https://open.spotify.com/track/5Dzjoi4D3XphLfyXmMGVQF) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:17 |
 | 29 | [الحمد لله الذي فضلنا على كثير من عباده](https://open.spotify.com/track/6UGM6qnYm0z3AI61YFPNT9) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:24 |
 | 30 | [الحمد لله رب العالمين ..\. اللهم انت ربي](https://open.spotify.com/track/7iji8hIa2jkYy0UxbSZP2N) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:37 |
-| 31 | [\( Live \) اللهم صلي على جميع الملائكة والمرسلين](https://open.spotify.com/track/36LZfcKCa9dIatXNNrP7ck) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
+| 31 | [\( Live \) اللهم أعنا على ذكرك وشكرك](https://open.spotify.com/track/45E5YuOCi5euPZKrnDmH1w) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
 | 32 | [دعاء لأموات المسلمين](https://open.spotify.com/track/1kdnIvqcahooMtVpVuFKP4) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء لأموات المسلمين](https://open.spotify.com/album/4ki0bEvYcj30ky4CytwUNw) | 16:26 |
 | 33 | [دعاء للأولاد](https://open.spotify.com/track/3zlIIcO3cpKbIpep2NCbK9) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء للأولاد](https://open.spotify.com/album/2gqn81d31PSMM2gxDnpJmZ) | 2:00 |
-| 34 | [\( Live \) اللهم إنا نسألك خير ما نأتي](https://open.spotify.com/track/0rWxaewxRQ2NXCJbiv8I49) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
+| 34 | [\( Live \) اللهم صلي على جميع الملائكة والمرسلين](https://open.spotify.com/track/36LZfcKCa9dIatXNNrP7ck) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
 | 35 | [\( Live \) ربنا تقبل منا](https://open.spotify.com/track/6mTU4E7wnvMH2q7dEc9NvN) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 0:56 |
 
-Snapshot ID: `Z5dftgAAAABMhTFIAL46c3dD2wyPpPwb`
+Snapshot ID: `Z5i4iAAAAACvIChKf+TOOvGxtabbJv7N`

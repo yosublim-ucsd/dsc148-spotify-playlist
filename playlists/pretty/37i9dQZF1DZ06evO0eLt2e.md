@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,835 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,836 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 50 | [Once More With Feeling](https://open.spotify.com/track/609YKrV5yz6V9e876motcJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 2:50 |
 | 51 | [Please Don't Tell Me How the Story Ends](https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 2:37 |
 
-Snapshot ID: `Z5V7AAAAAABSNnnaJUUMBUZ3ublhsu5W`
+Snapshot ID: `Z5bMgAAAAAANDEoo4fTBpJoU/+/d2fv3`

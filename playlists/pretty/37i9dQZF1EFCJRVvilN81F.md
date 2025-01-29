@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,042 likes - 144 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,041 likes - 144 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 61 | [Have You Seen That Girl?](https://open.spotify.com/track/0H57lJQoHSzP4nE7EvTJPP) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [At What Cost](https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX) | 2:42 |
 | 62 | [Sober Thoughts](https://open.spotify.com/track/2eMB5uoWzRml3ofK9ZYlWR) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Sober Thoughts](https://open.spotify.com/album/4nAAga3XPvVDvmhUZL4E0r) | 3:19 |
 | 63 | [Master P](https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:32 |
-| 64 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 |
-| 65 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
+| 64 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
+| 65 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 |
 | 66 | [Blakkst Skn](https://open.spotify.com/track/7JCly2B16uFNXruzsSYmqr) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Blakkst Skn](https://open.spotify.com/album/056FmmhZZZeEs8dcjzcziI) | 3:30 |
 | 67 | [THE MOVE \- prod\. KAYTRANADA](https://open.spotify.com/track/5ZnZelwYbsrBsi2QmBcTXC) | [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [THE MOVE \(prod\. KAYTRANADA\)](https://open.spotify.com/album/0d9pwcDuixiZHEcxwnvFNU) | 3:14 |
 | 68 | [Taco](https://open.spotify.com/track/0bwwbQKdfObbgY434nSSlv) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:24 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 143 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 144 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AboBDAAAAAC1U2TYzVa+Gv4m4IKNTQOk`
+Snapshot ID: `AboGygAAAAA7XR+987PEbL8AU87kKPEO`

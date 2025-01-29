@@ -10047,6 +10047,24 @@
     },
     {
       "album": {
+        "name": "To The Shore",
+        "url": "https://open.spotify.com/album/6He8b2xrFacLbfk0xkIz44"
+      },
+      "artists": [
+        {
+          "name": "Mac Paleblom",
+          "url": "https://open.spotify.com/artist/6SlV6zCpTuBMGfNtN5bzWp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149705,
+      "name": "To The Shore",
+      "url": "https://open.spotify.com/track/1C6agiPtzxgsPH2tKtMg4s"
+    },
+    {
+      "album": {
         "name": "To You Again",
         "url": "https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm"
       },

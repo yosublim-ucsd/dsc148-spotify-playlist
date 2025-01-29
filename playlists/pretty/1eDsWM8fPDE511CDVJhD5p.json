@@ -1,13 +1,117 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u30af\u30e9\u30d6\u3067\u8074\u304d\u305f\u3044\u30af\u30fc\u30eb\u306a\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 134,
+  "num_followers": 135,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEfVAZaAylltLX9LiuIDFh74aH05jX",
+  "snapshot_id": "AAAEjETg2Po34RJFEypvnnQlkiXJr96k",
   "tracks": [
+    {
+      "added_at": "2025-01-28 08:43:21",
+      "album": {
+        "name": "T. M. Levorotation",
+        "url": "https://open.spotify.com/album/68vIcEod1F6e7uG8YYtfMu"
+      },
+      "artists": [
+        {
+          "name": "CielP",
+          "url": "https://open.spotify.com/artist/3RoTy575y9jJA8dI7kX2KL"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 246856,
+      "name": "T. M. Levorotation (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/3aXEfGJJkV7VSuNTYwWN6K"
+    },
+    {
+      "added_at": "2025-01-28 08:42:57",
+      "album": {
+        "name": "SUPER POPBEAT",
+        "url": "https://open.spotify.com/album/6BsiDWcVjuSf2UyeDjDCZO"
+      },
+      "artists": [
+        {
+          "name": "Capchii",
+          "url": "https://open.spotify.com/artist/6UA1sjVZZizfk3vb4TJqLQ"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 242966,
+      "name": "Stardiver!! (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/215m5hmgANdwQeXDx2wCTH"
+    },
+    {
+      "added_at": "2025-01-28 08:43:10",
+      "album": {
+        "name": "SOS / \u30c0\u30f3\u30b7\u30f3\u30b0\u30fb\u30ad\u30de\u30a4\u30e9 feat. \u5de1\u97f3\u30eb\u30ab",
+        "url": "https://open.spotify.com/album/3yqhGzmGOClcGHiBF6toQq"
+      },
+      "artists": [
+        {
+          "name": "SOSOSO (Tsukui Kazuhito)",
+          "url": "https://open.spotify.com/artist/5cOQtzqJfpY7sOqj8eBtQv"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 259997,
+      "name": "SOS (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/2rzJSyU1qyCynw2Q3oyIpv"
+    },
+    {
+      "added_at": "2025-01-28 08:43:32",
+      "album": {
+        "name": "\u9685\u7530\u5ddd\u884c\u5217",
+        "url": "https://open.spotify.com/album/5UcEuh85oY7APCIQPqRkxB"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 134166,
+      "name": "\u9685\u7530\u5ddd\u884c\u5217 (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/5fuTIXWhsgXw6yctAiWxL0"
+    },
+    {
+      "added_at": "2025-01-28 08:43:44",
+      "album": {
+        "name": "Ember Within",
+        "url": "https://open.spotify.com/album/0DaSbPjL8rHCH2Jl4BG53U"
+      },
+      "artists": [
+        {
+          "name": "\u3046\u3089\u307f\u7b2c\u4e8c\u5f62\u614b",
+          "url": "https://open.spotify.com/artist/3mbiub5aHkMuzIZDIQX3IZ"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Ember Within (feat. \u5de1\u97f3\u30eb\u30ab&\u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2JmN8H15gsHVwBKZoahCl4"
+    },
     {
       "added_at": "2025-01-21 08:46:03",
       "album": {
@@ -723,110 +827,6 @@
       "duration_ms": 253226,
       "name": "\u30e9\u30c3\u30ad\u30fc\u2606\u30aa\u30fc\u30d6 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6eHBG3FNB4jrX8Z7zkOYxJ"
-    },
-    {
-      "added_at": "2024-10-29 08:16:55",
-      "album": {
-        "name": "\u5973\u795e\u306f\u4e16\u754c\u3092\u30c0\u30f3\u30b9\u30db\u30fc\u30eb\u306b\u5909\u3048\u3084\u304c\u308b",
-        "url": "https://open.spotify.com/album/26V76IyOmovi2ejPWrnOs8"
-      },
-      "artists": [
-        {
-          "name": "SLAVE.V-V-R",
-          "url": "https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR"
-        },
-        {
-          "name": "\u5922\u30ce\u7d50\u5531 POPY",
-          "url": "https://open.spotify.com/artist/2vjP6SAC2Urw3pl7s1aTOJ"
-        },
-        {
-          "name": "\u5922\u30ce\u7d50\u5531 ROSE",
-          "url": "https://open.spotify.com/artist/1fkyVWtgEKb9epNQUD6UQ9"
-        }
-      ],
-      "duration_ms": 195784,
-      "name": "\u5973\u795e\u306f\u4e16\u754c\u3092\u30c0\u30f3\u30b9\u30db\u30fc\u30eb\u306b\u5909\u3048\u3084\u304c\u308b (feat. \u5922\u30ce\u7d50\u5531 POPY&\u5922\u30ce\u7d50\u5531 ROSE)",
-      "url": "https://open.spotify.com/track/0PupkIoXkoSLGBmKYf7H6c"
-    },
-    {
-      "added_at": "2024-10-29 08:17:18",
-      "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/15Cr4FuxG6Urru9A0V7WVG"
-      },
-      "artists": [
-        {
-          "name": "\u3081\u308d\u304f\u308b",
-          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "777 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/1JxzBR1zJ5ICHG9EkFvrLu"
-    },
-    {
-      "added_at": "2024-10-29 08:17:42",
-      "album": {
-        "name": "\u30b9\u30b3\u30fc\u30d4\u30aa\u30f3\u30ac\u30fc\u30eb\u306e\u8cb4\u91cd\u306a\u6355\u98df\u30b7\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/4udRr7dFywD3efzTVY3J23"
-      },
-      "artists": [
-        {
-          "name": "STEAKA",
-          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "\u30b9\u30b3\u30fc\u30d4\u30aa\u30f3\u30ac\u30fc\u30eb\u306e\u8cb4\u91cd\u306a\u6355\u98df\u30b7\u30fc\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/5iRpKbGpOoLgNdSZREnBv0"
-    },
-    {
-      "added_at": "2024-10-29 08:17:52",
-      "album": {
-        "name": "PoppinGROOVE",
-        "url": "https://open.spotify.com/album/6ctIizi987u2laaopG37qQ"
-      },
-      "artists": [
-        {
-          "name": "Alpaca",
-          "url": "https://open.spotify.com/artist/4qAKnharbd1nlHAR0xDHSU"
-        }
-      ],
-      "duration_ms": 309090,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/7Ash1LDWApYL28oLledZoi"
-    },
-    {
-      "added_at": "2024-10-29 08:18:09",
-      "album": {
-        "name": "\u9752\u6625\u30d1\u30f3\u30af\u30ed\u30c3\u30af\u30c6\u30af\u30ce",
-        "url": "https://open.spotify.com/album/3nPVPY71KyzycBXsk5pjjs"
-      },
-      "artists": [
-        {
-          "name": "LovelyP",
-          "url": "https://open.spotify.com/artist/2CWJoeLp1dc6Si1XuBdNZS"
-        }
-      ],
-      "duration_ms": 279782,
-      "name": "\u9752\u6625\u30d1\u30f3\u30af\u30ed\u30c3\u30af\u30c6\u30af\u30ce",
-      "url": "https://open.spotify.com/track/4wz8FDl4AFXjHfsJ8xmZ03"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

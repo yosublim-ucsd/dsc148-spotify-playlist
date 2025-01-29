@@ -2,7 +2,7 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Ely Oaks, LAVINIA
+> The biggest Dance hits and the ones to come\. Cover: Jaden Bojsen
 
 724 songs - 1 day 9 hr 5 min
 

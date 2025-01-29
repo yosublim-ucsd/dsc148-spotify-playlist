@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover \- 'Sajna' by Darshan Raval, Aditya Gadhvi and Hansika Pareek.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,806 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,864 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 3 | [Taaza Taaza Khabrein](https://open.spotify.com/track/7Eax6Xa15qbpS3NddGdad0) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Taaza Taaza Khabrein](https://open.spotify.com/album/0YEFabWcq5HDt6aHPXI59k) | 3:59 |
 | 4 | [Huzoor Mera](https://open.spotify.com/track/23c8foS1eMnqdfTlIiz1h2) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Huzoor Mera](https://open.spotify.com/album/0M3lL4ubd1jYI9fiAF7B3X) | 2:13 |
 | 5 | [Room Khali Hai](https://open.spotify.com/track/6JD6V3WNiTnqqoAE9scHAF) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Room Khali Hai](https://open.spotify.com/album/5EtvcoCNHkxm40s5YyQ5cU) | 4:44 |
-| 6 | [Naina Barse Re](https://open.spotify.com/track/5uaydRyrlBpumHGnz8g7PK) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Rajesh Atibal](https://open.spotify.com/artist/3kgZm8p36IixoE8bJmlvWM), [Shahabuddin Alvi](https://open.spotify.com/artist/0HegJOr1rDXeBs8GDBnTZd), [Reshmi Kumar](https://open.spotify.com/artist/3BfT28YmxmPg54VuhcCecJ) | [Naina Barse Re](https://open.spotify.com/album/0L1ihfUyo6yUqknBoSwueq) | 4:22 |
+| 6 | [Naina Barse Re](https://open.spotify.com/track/5uaydRyrlBpumHGnz8g7PK) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Reshmi Kumar](https://open.spotify.com/artist/3BfT28YmxmPg54VuhcCecJ), [Rajesh Atibal](https://open.spotify.com/artist/3kgZm8p36IixoE8bJmlvWM), [Shahabuddin Alvi](https://open.spotify.com/artist/0HegJOr1rDXeBs8GDBnTZd) | [Naina Barse Re](https://open.spotify.com/album/0L1ihfUyo6yUqknBoSwueq) | 4:22 |
 | 7 | [Behja](https://open.spotify.com/track/6SbFFW9Z4MYBFOoCJCHxoz) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [Behja](https://open.spotify.com/album/52uvhpbf20DhYlKYPJB9vB) | 2:01 |
 | 8 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 |
 | 9 | [Saare Tumhare Hogaye](https://open.spotify.com/track/0nry9suP9jWEu2OxZsQfrn) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg), [Ishaan Arora](https://open.spotify.com/artist/58VXRRTZbBkLuUWjSX6FNb) | [Saare Tumhare Hogaye](https://open.spotify.com/album/2r1UdNJMVO8CWCZaQtzaWr) | 3:57 |

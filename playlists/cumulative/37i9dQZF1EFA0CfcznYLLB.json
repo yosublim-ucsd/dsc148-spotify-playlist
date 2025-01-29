@@ -6497,6 +6497,24 @@
     },
     {
       "album": {
+        "name": "Richey Rich",
+        "url": "https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187357,
+      "name": "Still Pray",
+      "url": "https://open.spotify.com/track/5220yevLmUeAqrXZ4PX618"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },

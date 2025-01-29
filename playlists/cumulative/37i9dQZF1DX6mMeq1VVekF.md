@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Jeshi
 
-452 songs - 23 hr 15 min
+453 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2022-07-17 | 2024-10-04 |
 | [fake smiles](https://open.spotify.com/track/4rdhaITfxf71ke7kKfrQuC) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:37 | 2023-05-15 | 2023-06-17 |
 | [Falling](https://open.spotify.com/track/6ZBBtds5w5YXSpB5F4Jemv) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i), [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk) | [Gino's LP](https://open.spotify.com/album/1jbFxzuOgzD6W5zYJiPGG6) | 3:01 | 2023-08-18 | 2023-11-25 |
+| [FALSE IDOLS](https://open.spotify.com/track/6WP8XHSpo7d6ZobCSCFJaU) | [KarimThaPeasant](https://open.spotify.com/artist/1tDOv0KCi6XAF3aXsn559F) | [FALSE IDOLS](https://open.spotify.com/album/2V5SBT3L5gcROuUGIBSjni) | 2:50 | 2025-01-24 |  |
 | [FENTY BEAUTY](https://open.spotify.com/track/6PtTA5brWv0ITzpMuW30s1) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [NEMZZZ TYPE BEAT](https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR) | 2:41 | 2023-05-19 | 2023-08-09 |
 | [Filth](https://open.spotify.com/track/1U2WGdxYan1IYc70bY4jXJ) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Filth](https://open.spotify.com/album/66qcdkRaTQ7gcIEcABTM4Q) | 2:50 | 2023-06-16 | 2023-08-19 |
 | [FINALLY](https://open.spotify.com/track/1qPRRErp0RlPJ74tWj2QJr) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [THE INSPECTION](https://open.spotify.com/album/7r0skq33hRLV2Sr4xYGp9B) | 2:12 | 2022-07-17 | 2022-08-30 |
@@ -234,7 +235,7 @@
 | [luvu222](https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [luvu222](https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5) | 1:50 | 2023-11-24 | 2024-10-28 |
 | [Lyrics Galore](https://open.spotify.com/track/2AhMDVUcUv2cNBEe5XuBkF) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Lyrics Galore](https://open.spotify.com/album/1boqk2nCWCW02CPOY3uejT) | 3:35 | 2024-10-03 | 2024-10-11 |
 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 | 2022-10-23 | 2024-10-04 |
-| [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 | 2024-11-22 |  |
+| [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 | 2024-11-22 | 2025-01-29 |
 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 | 2024-06-27 | 2025-01-18 |
 | [Make U Go](https://open.spotify.com/track/5V6TcpbAtz5Q0HC0G6XJhF) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Make U Go](https://open.spotify.com/album/4lppAXoOGn4goUQZXs4xPn) | 3:34 | 2022-06-24 | 2022-07-27 |
 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 | 2024-04-26 | 2025-01-18 |

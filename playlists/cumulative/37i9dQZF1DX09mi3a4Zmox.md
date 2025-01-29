@@ -4,7 +4,7 @@
 
 > Música para enamorarse.
 
-234 songs - 14 hr 56 min
+235 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [La Posibilidad](https://open.spotify.com/track/5TxW75fQon0q3059YW4tFn) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Centro, Sur Y Al Otro Lado](https://open.spotify.com/album/7CHqMkB9aYw8oM0FSkf2pX) | 3:52 | 2021-12-06 | 2023-02-20 |
 | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Vida Entera \(feat\. Marco Antonio Solís\)](https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA) | 3:47 | 2021-12-06 | 2024-04-17 |
 | [La última granada](https://open.spotify.com/track/4wCFO12O6g2yY2xiC3EBA8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [La última granada](https://open.spotify.com/album/4z0I4WdWd8NWEKfHj8WkIH) | 2:39 | 2024-03-15 | 2024-04-17 |
+| [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 | 2025-01-28 |  |
 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 | 2021-12-06 |  |
 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 | 2022-02-01 | 2024-04-19 |
 | [Llegaste Tú](https://open.spotify.com/track/7cvw9YXDn35Ra6xCrIqVNZ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8 \(Deluxe\)](https://open.spotify.com/album/0dvRfMmbJAqW7D3AhbvbCM) | 3:41 | 2021-12-06 | 2022-07-29 |
@@ -128,7 +129,7 @@
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2022-02-01 | 2024-04-19 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [FAVORITAS CON AMOR Vol\. 2](https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ) | 3:48 | 2023-01-13 | 2024-02-25 |
 | [Mi Media Sandía](https://open.spotify.com/track/4U5ErjIid4ufCRIr7jc1HC) | [Raúl Ornelas](https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845) | [Mi Lado Izquierdo](https://open.spotify.com/album/7efi4zlyUuKO7x0FpnJ3Ey) | 4:08 | 2021-12-06 | 2022-07-15 |
-| [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 | 2021-12-06 |  |
+| [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 | 2021-12-06 | 2025-01-29 |
 | [Mi Razon De Ser](https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP) | 2:52 | 2022-02-01 | 2024-04-19 |
 | [Mi Razón De Ser](https://open.spotify.com/track/2QqIr7VTHwSMW1JMtx6IiN) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Mis Canciones De La Web](https://open.spotify.com/album/6SRsRrJOUjYYqJC1NfPPev) | 2:52 | 2021-12-06 | 2022-07-29 |
 | [Mi Sueño](https://open.spotify.com/track/7r6N3v65Oq4lkViGiCWcB7) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila Y Más](https://open.spotify.com/album/6zDg1q7wTpzkufi2JjFpjd) | 3:39 | 2021-12-06 | 2022-06-24 |

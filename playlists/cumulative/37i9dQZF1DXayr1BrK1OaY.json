@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 187145,
       "name": "CAN WE DO BETTER?",
       "url": "https://open.spotify.com/track/7rk4EiOqYMntjUVqQv7yoy"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 249225,
       "name": "Faded",
       "url": "https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM"
@@ -3144,6 +3144,24 @@
       "duration_ms": 195853,
       "name": "Heartbreak On The Dancefloor (feat. Frances)",
       "url": "https://open.spotify.com/track/7LgOkzv8NTDeInrCLJnNru"
+    },
+    {
+      "album": {
+        "name": "HEARTPIECE",
+        "url": "https://open.spotify.com/album/0vdqNRrtw4J3QSWHsljwNC"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120620,
+      "name": "HEARTPIECE",
+      "url": "https://open.spotify.com/track/4Fd6Tuj0ZeRshcftzX4AAF"
     },
     {
       "album": {
@@ -5628,7 +5646,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 200294,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/6nJ01PcbcBRG3exsMB7Myd"
@@ -7503,6 +7521,24 @@
     },
     {
       "album": {
+        "name": "stuck",
+        "url": "https://open.spotify.com/album/3vQK7b3iENRy4ZXDuaH0r1"
+      },
+      "artists": [
+        {
+          "name": "cutback!",
+          "url": "https://open.spotify.com/artist/3K9E1NNVSshkvpK6Fhjwsg"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "stuck",
+      "url": "https://open.spotify.com/track/3HHtiOrUIt5S7vFeIMP5WS"
+    },
+    {
+      "album": {
         "name": "Stuck In The Middle",
         "url": "https://open.spotify.com/album/3T6IEMgVsALaosMwK4V7bc"
       },
@@ -7628,6 +7664,28 @@
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "album": {
+        "name": "Tear Drops",
+        "url": "https://open.spotify.com/album/6s3yibzHMpjWKIzsEWgpi4"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Minds",
+          "url": "https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR"
+        },
+        {
+          "name": "LYVIA",
+          "url": "https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "Tear Drops",
+      "url": "https://open.spotify.com/track/2KVJEq0uhuKTqxpkb9srV6"
     },
     {
       "album": {

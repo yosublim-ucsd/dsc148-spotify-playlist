@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > Celebremos la magia de estar juntxs, ¡Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href="https://bahidora.com//"> Compra tus entradas aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,326 likes - 76 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,328 likes - 76 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 44 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
 | 45 | [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 |
 | 46 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 |
-| 47 | [Cartagena](https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:32 |
-| 48 | [culo && teta](https://open.spotify.com/track/765QWTHAHRodgT40xmEGI0) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA) | [SEXOLANDIA](https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy) | 2:32 |
+| 47 | [culo && teta](https://open.spotify.com/track/765QWTHAHRodgT40xmEGI0) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA) | [SEXOLANDIA](https://open.spotify.com/album/34q8BcQiDWmbD2MFFy4nPy) | 2:32 |
+| 48 | [Cartagena](https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:32 |
 | 49 | [Del Oro](https://open.spotify.com/track/3YGFZ8rIsAA5zQvvoeCaW0) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 6:14 |
 | 50 | [Promises](https://open.spotify.com/track/6Q6Pl11H9bV9f8bRld32DD) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Mother](https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I) | 3:28 |
 | 51 | [Honest](https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Honest](https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle) | 3:27 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 | 55 | [ENTE VIRTUAL](https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [ENTE VIRTUAL](https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I) | 2:09 |
 | 56 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
 | 57 | [La Vida De Alguien Más](https://open.spotify.com/track/1OUP1Sidd9QesUNr5x6s6O) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:02 |
-| 58 | [Juanita](https://open.spotify.com/track/17j3whgzlB8jJPwQZDqiSc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:46 |
-| 59 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 |
+| 58 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 |
+| 59 | [Juanita](https://open.spotify.com/track/17j3whgzlB8jJPwQZDqiSc) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:46 |
 | 60 | [Kiero K Me Kieras](https://open.spotify.com/track/1ahEs6Mn7tP8SGN1WXuvbF) | [SoFTT](https://open.spotify.com/artist/2gpYstJ2WNS3mNwzuyPOB2) | [Kiero K Me Kieras](https://open.spotify.com/album/7a94blel8vrcVTyeWH77Dy) | 3:43 |
 | 61 | [Pardon](https://open.spotify.com/track/1nBA4QinIbQyRzVgG0UJGy) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 3:48 |
 | 62 | [Can You See Me?](https://open.spotify.com/track/4jbxZxReqWBaiTbQOXNVW6) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Resonant Body](https://open.spotify.com/album/6KvNf7qKt0wgLEz56NQyXP) | 8:22 |

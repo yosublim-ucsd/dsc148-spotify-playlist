@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Crossing More Than City Lines",
+        "url": "https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199336,
+      "name": "London Too",
+      "url": "https://open.spotify.com/track/5VEEDisGMhuae3Ck8vpYHX"
+    },
+    {
+      "album": {
         "name": "It's Your Bed Babe, It's Your Funeral",
         "url": "https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH"
       },

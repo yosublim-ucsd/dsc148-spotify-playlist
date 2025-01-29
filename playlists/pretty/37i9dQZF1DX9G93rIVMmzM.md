@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > for the baddies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,370 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,397 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 15 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
 | 16 | [Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:34 |
 | 17 | [Spiders](https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 3:35 |
-| 18 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
-| 19 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
+| 18 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
+| 19 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
 | 20 | [Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8) | [Trxy!](https://open.spotify.com/artist/0kNnAYnBKQRs6boBVMRwaD) | [Realize](https://open.spotify.com/album/16bTrqxqk90XigZsz6L8Qb) | 1:55 |
 | 21 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 |
 | 22 | [Make Me Bad](https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:55 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 39 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
 | 40 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
 | 41 | [Die On The Cross Of The Martyr](https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Scott LePage](https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0) | [...And Everything In Between](https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8) | 4:30 |
-| 42 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 |
-| 43 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
+| 42 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
+| 43 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 |
 | 44 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
 | 45 | [Fuse](https://open.spotify.com/track/0UYOncanPfTJVemojPksIP) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [GALORE](https://open.spotify.com/album/2JCUzY4IcU31n6ro3rSicP) | 3:11 |
 | 46 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 66 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 |
 | 67 | [Bishop](https://open.spotify.com/track/6iScOeNCXNDviwf8wGVBMA) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Bishop](https://open.spotify.com/album/6EiCp9jppjy93zMv96CDYG) | 3:37 |
 | 68 | [Lovely \(Forget Me Not\)](https://open.spotify.com/track/3zyL8LRNulKlAHTtAB8Wh5) | [Iress](https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc) | [Sleep Now, In Reverse](https://open.spotify.com/album/7FO5FYSOvklvOHwnHqQW4F) | 5:25 |
-| 69 | [I Loathe You](https://open.spotify.com/track/0iRuCaKWwSfbTF3OzI7q4t) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Romance & Pandemonium](https://open.spotify.com/album/02DSsQxdITiLHR6CFxmaUm) | 2:51 |
-| 70 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
+| 69 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
+| 70 | [I Loathe You](https://open.spotify.com/track/0iRuCaKWwSfbTF3OzI7q4t) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Romance & Pandemonium](https://open.spotify.com/album/02DSsQxdITiLHR6CFxmaUm) | 2:51 |
 | 71 | [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 |
 | 72 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 |
-| 73 | [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 |
-| 74 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 |
+| 73 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 |
+| 74 | [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 |
 | 75 | [Obsession](https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Obsession](https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY) | 3:17 |
 
 Snapshot ID: `Z5gWtgAAAACh2k5niy+cEPuF4cYA5QcI`

@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Nolan Taylor",
+        "url": "https://open.spotify.com/album/1q0SJmCvJjp3rGPJHtuwCD"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Carry It All",
+      "url": "https://open.spotify.com/track/04Tsc0341Dca5YJCa61H6G"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope Eyes",
         "url": "https://open.spotify.com/album/06n6A4hjeslmQ60FEHUFiZ"
       },

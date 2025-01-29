@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,834 likes - 38 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,849 likes - 38 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,6 +45,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 35 | [Flow Criminal](https://open.spotify.com/track/6xpHwnPBjrYACg3PRn5ltL) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:16 |
 | 36 | [Ya No Siento Nada](https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Ya No Siento Nada](https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8) | 2:26 |
 | 37 | [Pisto En Mano Y Humo Al Viento](https://open.spotify.com/track/0V7SFLu8aL8JPVJagw0D0x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:29 |
-| 38 | [A Nadie Mas](https://open.spotify.com/track/5BPJCeEDMCaJ0q3VrAgnFc) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:29 |
+| 38 | [Mala Mia](https://open.spotify.com/track/1iZDRcrhvmsbYjDUORnVC4) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/1EwUWq8uTZHRoAfnmo51W7) | 2:32 |
 
-Snapshot ID: `Z5V7AAAAAABrELPu0WQUfKRQi2N9IcKV`
+Snapshot ID: `Z5bMgAAAAAA7MeLDMq+4nbLxxQdqKi5f`

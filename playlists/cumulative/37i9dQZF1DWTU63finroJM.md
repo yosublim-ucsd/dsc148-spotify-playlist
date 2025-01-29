@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Yoa.
 
-1,827 songs - 4 day 2 hr 59 min
+1,828 songs - 4 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-03-24 | 2022-06-27 |
 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 | 2023-09-15 | 2024-03-30 |
 | [A Good Life](https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [A Good Life](https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ) | 4:00 | 2024-03-15 | 2024-04-06 |
-| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 |  |
+| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 | 2025-01-29 |
 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 | 2022-03-24 | 2022-04-14 |
 | [a quien culpar](https://open.spotify.com/track/4nSXOnB7mY9gw8Rtd8v1SN) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [husa.](https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa) | [a quien culpar](https://open.spotify.com/album/3V14MXZOAbr2QGXFyEgtp8) | 4:10 | 2022-06-29 | 2023-05-09 |
 | [a Testa in giù](https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [a Testa in giù](https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J) | 2:46 | 2023-04-12 | 2023-10-21 |
@@ -246,6 +246,7 @@
 | [Buenos Días](https://open.spotify.com/track/56h6nyrgG2guJPgdTRdju1) | [ROCKET](https://open.spotify.com/artist/1WAB4gjjNfQpAgT5SoAbRE) | [Ego Trippin'](https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG) | 2:12 | 2022-03-24 | 2022-04-15 |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2024-04-19 | 2024-08-24 |
 | [Bunny Girl](https://open.spotify.com/track/3CeUMk1K4RPOpyzxn7JKZV) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [AKASAKI \- 2024](https://open.spotify.com/album/72Y5bHjwM0AJQG2zfkhaLX) | 3:37 | 2025-01-17 |  |
+| [Burn](https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Burn](https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld) | 2:49 | 2025-01-24 |  |
 | [BURNA FONE](https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [BURNA FONE](https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg) | 2:39 | 2023-06-29 | 2023-09-23 |
 | [Busted](https://open.spotify.com/track/1Kc00Xx45rcJVdpFhHaxMc) | [Soulstice](https://open.spotify.com/artist/2EGJbNf0Hva2C2N6hvhMXD) | [Busted](https://open.spotify.com/album/1FiYlmq6TULRuhcZSlf59V) | 3:50 | 2022-02-10 | 2022-02-19 |
 | [busy feat\. Katannah](https://open.spotify.com/track/6b5Dc785SNrn9DCsrj7yWP) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU), [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j) | [I LOVE THE INTERNET \- DELUXE](https://open.spotify.com/album/6FTME3xp0SfeYX2nz7R1gS) | 2:44 | 2024-06-28 | 2024-10-07 |

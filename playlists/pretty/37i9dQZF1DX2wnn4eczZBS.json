@@ -1,12 +1,12 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: ISA\u00cf",
-  "num_followers": 9834,
+  "num_followers": 9836,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LKCAAAAABJD5xLrRIpJSThSiBoIR7k",
+  "snapshot_id": "Z5impAAAAABwF+I79CJqCHYlYBzPIZ/F",
   "tracks": [
     {
       "added_at": "2025-01-23 23:00:24",
@@ -27,18 +27,18 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "Mijn Haren Ruiken Naar Vuur",
-        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
+        "name": "TWIJFELS",
+        "url": "https://open.spotify.com/album/4suRDB1oIRcvMAzPiqVB1d"
       },
       "artists": [
         {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+          "name": "GIB",
+          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
         }
       ],
-      "duration_ms": 162694,
-      "name": "Mijn Haren Ruiken Naar Vuur",
-      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
+      "duration_ms": 121293,
+      "name": "TWIJFELS",
+      "url": "https://open.spotify.com/track/64b003qjzmQcod0AKscKVw"
     },
     {
       "added_at": "2025-01-23 23:00:24",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "TWIJFELS",
-        "url": "https://open.spotify.com/album/4suRDB1oIRcvMAzPiqVB1d"
-      },
-      "artists": [
-        {
-          "name": "GIB",
-          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
-        }
-      ],
-      "duration_ms": 121293,
-      "name": "TWIJFELS",
-      "url": "https://open.spotify.com/track/64b003qjzmQcod0AKscKVw"
-    },
-    {
-      "added_at": "2025-01-23 23:00:24",
-      "album": {
         "name": "Heimwee",
         "url": "https://open.spotify.com/album/6IgSZ5VJ7m1dP5zeaWBUWh"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 233579,
       "name": "Het Is Genoeg",
       "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
+    },
+    {
+      "added_at": "2025-01-23 23:00:24",
+      "album": {
+        "name": "Mijn Haren Ruiken Naar Vuur",
+        "url": "https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq"
+      },
+      "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 162694,
+      "name": "Mijn Haren Ruiken Naar Vuur",
+      "url": "https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f"
     },
     {
       "added_at": "2025-01-23 23:00:24",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "Vlinder",
-        "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 169604,
-      "name": "Vlinder",
-      "url": "https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8"
-    },
-    {
-      "added_at": "2025-01-23 23:00:24",
-      "album": {
         "name": "drift",
         "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 202866,
       "name": "Ik heb je zo gemist",
       "url": "https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS"
+    },
+    {
+      "added_at": "2025-01-23 23:00:24",
+      "album": {
+        "name": "Vlinder",
+        "url": "https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 169604,
+      "name": "Vlinder",
+      "url": "https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8"
     },
     {
       "added_at": "2025-01-23 23:00:24",
@@ -459,18 +459,22 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "David Bowie/Beckham",
-        "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
+        "name": "Shirt Uit (feat. Sef)",
+        "url": "https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf"
       },
       "artists": [
         {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+          "name": "Jungle by Night",
+          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
         }
       ],
-      "duration_ms": 156112,
-      "name": "David Bowie/Beckham",
-      "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
+      "duration_ms": 207813,
+      "name": "Shirt Uit (feat. Sef)",
+      "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
     },
     {
       "added_at": "2025-01-23 23:00:24",
@@ -491,22 +495,18 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "Shirt Uit (feat. Sef)",
-        "url": "https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf"
+        "name": "David Bowie/Beckham",
+        "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
       },
       "artists": [
         {
-          "name": "Jungle by Night",
-          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Shirt Uit (feat. Sef)",
-      "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
+      "duration_ms": 156112,
+      "name": "David Bowie/Beckham",
+      "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
     },
     {
       "added_at": "2025-01-23 23:00:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "Je Geeft Me Niets",
-        "url": "https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 153831,
-      "name": "Je Geeft Me Niets",
-      "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
-    },
-    {
-      "added_at": "2025-01-23 23:00:24",
-      "album": {
         "name": "BOM",
         "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 161428,
       "name": "Zo Licht Als Een Veertje",
       "url": "https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW"
+    },
+    {
+      "added_at": "2025-01-23 23:00:24",
+      "album": {
+        "name": "Je Geeft Me Niets",
+        "url": "https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "duration_ms": 153831,
+      "name": "Je Geeft Me Niets",
+      "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
     },
     {
       "added_at": "2025-01-23 23:00:24",

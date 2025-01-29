@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,290 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,305 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 22 | [Symbol IV : Earth](https://open.spotify.com/track/6kbss4tmwNu4bYrAfpR51J) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Symbol IV : Earth](https://open.spotify.com/album/5nw2QyglfMgxWyVD6AS2aw) | 3:59 |
 | 23 | [VIOLET LINE](https://open.spotify.com/track/2HUCfy80ikYHcShBSaXEaW) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [VIOLET LINE](https://open.spotify.com/album/65qsdLloeZcbawKPvA1jNR) | 4:50 |
 | 24 | [両翼のBrilliance](https://open.spotify.com/track/7IV0vuX4nTrPxH08lNrZ0Q) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [両翼のBrilliance](https://open.spotify.com/album/5AtHehANdflNwC5rcEyfsW) | 3:59 |
-| 25 | [Life on the Lotus](https://open.spotify.com/track/097HmQLvdW3Qe15LDrV4ue) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [SAVAGE](https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT) | 4:03 |
-| 26 | [Butter\-Fly \- Cover](https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:10 |
+| 25 | [Butter\-Fly \- Cover](https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:10 |
+| 26 | [Life on the Lotus](https://open.spotify.com/track/097HmQLvdW3Qe15LDrV4ue) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [SAVAGE](https://open.spotify.com/album/4or1XUBWoANxo0vINF2LIT) | 4:03 |
 | 27 | [DISCOTHEQUE \- Cover](https://open.spotify.com/track/5FFBLmADzoKasxORMErCd4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 |
 | 28 | [一逢のFull Glory](https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [THRONE OF ROSE](https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S) | 3:52 |
 | 29 | [夏に閉じこめて](https://open.spotify.com/track/61Y9W12NmToaKokLMtJ6Y0) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [夏に閉じこめて](https://open.spotify.com/album/42rOQUNEaZ2pjNlT6N0x67) | 4:21 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 68 | [夏空 SUN! SUN! SEVEN! \- Acoustic Ver.](https://open.spotify.com/track/7wWMCByLoIOpRtxAAOQ0gb) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG) | 4:55 |
 | 69 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
 | 70 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 |
-| 71 | [端程山](https://open.spotify.com/track/2nnjzOHmlZnQ7RW8ZcjiuJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 4:20 |
-| 72 | [Ether](https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:45 |
+| 71 | [Ether](https://open.spotify.com/track/4oqU858FytlLNXhlHq6O3v) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:45 |
+| 72 | [端程山](https://open.spotify.com/track/2nnjzOHmlZnQ7RW8ZcjiuJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 4:20 |
 | 73 | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/track/5b4HxoXRgfmmS6ePsJGDG1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [素晴らしき世界 でも どこにもない場所](https://open.spotify.com/album/3L3axasHR5ytIza8pyrfiG) | 4:28 |
 | 74 | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/track/4tj5fNbEfMjDRodJwRGEOG) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ふたつの月 \~Deep Into The Forest\~](https://open.spotify.com/album/0NeJSlobmsgcpuV34ZogUl) | 4:55 |
 | 75 | [処救生](https://open.spotify.com/track/32du1HvRcEpxxPTfQAIRbV) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [処救生](https://open.spotify.com/album/26422BImshzrMxsplIrkEF) | 3:37 |

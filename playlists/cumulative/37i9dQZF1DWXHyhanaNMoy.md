@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion en good vibes\. Cover: Noano & Emms
+> Motion en good vibes\. Cover: Dior
 
-1,227 songs - 2 day 6 hr 59 min
+1,228 songs - 2 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,6 +816,7 @@
 | [On You](https://open.spotify.com/track/2PqkhlBreytuG6r6si0QG3) | [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti) | [On You](https://open.spotify.com/album/5bp391B0HgGAQkJPkeMPD5) | 2:36 | 2023-07-13 | 2023-11-03 |
 | [Onbereikbaar](https://open.spotify.com/track/1FhmU2a3UGUfnEzooWfwe1) | [Deeno Deshh](https://open.spotify.com/artist/2rtZrTzDp2lvaraXfbron0), [TEAM PEACH](https://open.spotify.com/artist/3Ea9Rva7WpmSyRdxS8tsFC), [Ella Banks](https://open.spotify.com/artist/5hQfwoHdd8NBpDKXWHORIM) | [Onbereikbaar](https://open.spotify.com/album/0WJqQm2n9x0l3XfaSyryAZ) | 2:30 | 2024-02-22 | 2024-03-08 |
 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2024-07-19 | 2024-09-13 |
+| [One In A Million](https://open.spotify.com/track/1U2jqtkHfXeKM6SBPypv8z) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [One In A Million](https://open.spotify.com/album/5PUHUYJbIjMw9YrHFNd2zE) | 1:50 | 2025-01-28 |  |
 | [One More Time](https://open.spotify.com/track/6uztVgJQWX7C3iMAIx9ShI) | [TAVV](https://open.spotify.com/artist/4YddQ3n18iC5QPZQBJMmAM), [Ds19](https://open.spotify.com/artist/5xxoHs0vedMntAhEaMLt4e) | [One More Time](https://open.spotify.com/album/7g8qvxARGvvLQp4TxPyvx2) | 2:26 | 2024-05-16 | 2024-06-07 |
 | [Only Lover](https://open.spotify.com/track/2rFfVt1pS7hmew01Q2uL2b) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Only Lover](https://open.spotify.com/album/2PrWENAZz992vvC92B129d) | 3:03 | 2023-08-10 | 2023-11-10 |
 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 | 2024-01-11 | 2024-01-19 |

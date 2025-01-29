@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,254 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,249 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 19 | [Palmera](https://open.spotify.com/track/1thsP19THIiLrpxIPqEteA) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [RCA 100 Años De Musica](https://open.spotify.com/album/0vJ6OuVc98sUYHf8kan8qh) | 1:42 |
 | 20 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
 | 21 | [La Bruja](https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE) | [Conjunto Jardin](https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0) | [Nuevo Son Jarocho](https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr) | 4:22 |
-| 22 | [El Estuche](https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Dirty Dancing: Havana Nights](https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm) | 3:23 |
-| 23 | [Café Café](https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf) | [Radio Jarocho](https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx) | [Café Café](https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S) | 3:58 |
+| 22 | [Café Café](https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf) | [Radio Jarocho](https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx) | [Café Café](https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S) | 3:58 |
+| 23 | [El Estuche](https://open.spotify.com/track/3eioYw722P5w5b6ad80mdh) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Dirty Dancing: Havana Nights](https://open.spotify.com/album/3DLGOkKxYXAdIJ8d0YSOfm) | 3:23 |
 | 24 | [El Tilingo Lingo](https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW) | [Grupo Chalchihuecan De Los Hermanos Ochoa](https://open.spotify.com/artist/5RFvZYPAx7hxnO37mR6e2G) | [Veracruz Y Su Música \- 14 Sones Jarochos](https://open.spotify.com/album/5CsXZNeVHigNfNKuUUeoMo) | 2:46 |
 | 25 | [Agüita de Manantial](https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 4:06 |
 | 26 | [Corazón De Melón](https://open.spotify.com/track/4lwhl74qt01u3U9ZOiQh3s) | [Hermanas Benítez](https://open.spotify.com/artist/67P9zHn7NV6r6bADkkr1TG) | [Corazón De Melón](https://open.spotify.com/album/7vN2pXl35jihF5vLGrK0JB) | 2:10 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 51 | [Apocalypso](https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 4:27 |
 | 52 | [Mujer Soy](https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:00 |
 | 53 | [Pulque](https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:43 |
-| 54 | [La Sitiera](https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK) | [Lobo](https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y) | [15 Super Exitos De Lobo Y Melon \- Versiones Originales](https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO) | 2:56 |
-| 55 | [La Xochipitzahuatl](https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu) | [Lone Piñon](https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR) | [Trio Nuevomexicano](https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b) | 3:59 |
+| 54 | [La Xochipitzahuatl](https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu) | [Lone Piñon](https://open.spotify.com/artist/4UBJuZ2FKZ6owInHfbzJIR) | [Trio Nuevomexicano](https://open.spotify.com/album/2BhVhNFrWNjkcYGSstwY5b) | 3:59 |
+| 55 | [La Sitiera](https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK) | [Lobo](https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y) | [15 Super Exitos De Lobo Y Melon \- Versiones Originales](https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO) | 2:56 |
 | 56 | [Moliendo Café \- Ritmo Orquidea](https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP) | [Hernán Gamboa](https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL) | [La Fiesta](https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM) | 3:07 |
 | 57 | [Fina Estampa](https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H) | [Eva Ayllón](https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2) | [Mujeres con Cajones](https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz) | 2:51 |
 | 58 | [El Pájaro Cú \- Live](https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Concierto en Vivo \(Vienna, Austria\)](https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll) | 5:05 |

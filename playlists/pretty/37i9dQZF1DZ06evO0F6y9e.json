@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1017717,
+  "num_followers": 1017847,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABMcu14T4EizVSvhwEfLzdh",
+  "snapshot_id": "Z5bMgAAAAADiP7TTwcaeB7p5++uJPxe0",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/230KSxk14541umr44W2vCM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hubi\u00e9ramos",
         "url": "https://open.spotify.com/album/1xwButzEr6n5GRwaxIe7yv"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 229400,
       "name": "Hubi\u00e9ramos",
       "url": "https://open.spotify.com/track/0sbinHSb4nznpK1uTB9bgb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/5r9uHTRrLBLtLNTL6AH669"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/230KSxk14541umr44W2vCM"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suspiros (En Vivo)",
-        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 185642,
-      "name": "Suspiros (En Vivo)",
-      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suspiros (En Vivo)",
+        "url": "https://open.spotify.com/album/6D0BGICGkjsWX53GRSXivj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Suspiros (En Vivo)",
+      "url": "https://open.spotify.com/track/4btL6eSm9fV8a6Ox4NrVNr"
     },
     {
       "added_at": null,

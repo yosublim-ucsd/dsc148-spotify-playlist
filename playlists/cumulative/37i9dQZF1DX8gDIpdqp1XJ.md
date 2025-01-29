@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock, neo\-psychedelic, and psychedelic indie.
 
-986 songs - 2 day 16 hr 17 min
+988 songs - 2 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-07-11 | 2022-07-30 |
 | [Everyday](https://open.spotify.com/track/1FirdTbOZjrLwvKGUocmsx) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Weather Report](https://open.spotify.com/album/4EeNAmLMJpwE1IoZJjbQGn) | 3:19 | 2022-04-15 | 2022-07-29 |
 | [Everyone Acts Crazy Nowadays](https://open.spotify.com/track/6VPvz8SZWRFEoawyUTvQTt) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 4:14 | 2021-04-02 | 2022-04-17 |
-| [Everything Unspoken](https://open.spotify.com/track/2pTGZ8uKH5xwwsUYVGZVbH) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Everything Unspoken](https://open.spotify.com/album/4zMnF8DIMnTyvrSdH24q8w) | 3:49 | 2023-06-09 |  |
+| [Everything Unspoken](https://open.spotify.com/track/2pTGZ8uKH5xwwsUYVGZVbH) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [Everything Unspoken](https://open.spotify.com/album/4zMnF8DIMnTyvrSdH24q8w) | 3:49 | 2023-06-09 | 2025-01-29 |
 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 | 2021-06-04 | 2023-03-07 |
 | [Exploding Rainbows](https://open.spotify.com/track/0UJhYAUW9v4GU7BEOqydra) | [Branland](https://open.spotify.com/artist/3MzHEjlbXOGx9BHbxyejt2) | [Exploding Rainbows](https://open.spotify.com/album/6woRtzpy6rjbrj6hQtqRNM) | 2:31 | 2024-07-05 |  |
 | [Eye 2 Eye](https://open.spotify.com/track/4qu0t0ALzfAHmzuFliman4) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are The Light](https://open.spotify.com/album/3J3wekJNr78DPFd865z9PP) | 4:21 | 2021-04-02 | 2022-04-21 |
@@ -623,6 +623,7 @@
 | [On Sight](https://open.spotify.com/track/5WiShbQYrJnoG7mD961IKY) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF), [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 4:09 | 2022-07-22 | 2022-11-11 |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-07-01 | 2022-07-09 |
 | [One More Time](https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [One More Time](https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen) | 3:19 | 2021-04-02 | 2023-03-07 |
+| [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 | 2025-01-28 |  |
 | [One Night](https://open.spotify.com/track/4R1jaW2mVVct5MU29o6Ysr) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/2CKqapMPL6O0T8cqvFmyVz) | 3:49 | 2022-10-07 | 2022-10-13 |
 | [One Night](https://open.spotify.com/track/5ZxhHEdMDGitVjy53Cm3Pp) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 3:49 | 2022-10-07 | 2022-11-17 |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2022-02-18 | 2022-09-03 |
@@ -637,7 +638,7 @@
 | [Out in the Country](https://open.spotify.com/track/7FWhvGFDMGo3BkuSI00rOi) | [Natural Child](https://open.spotify.com/artist/7epIIT85VR8OEggqKO3RSt) | [Dancin' with Wolves](https://open.spotify.com/album/6ckLqYa0vRJF9QUkEiv59p) | 2:54 | 2021-04-02 | 2022-07-15 |
 | [Out In The World](https://open.spotify.com/track/7vLd1IEZLDZ8RYj21ID8k6) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/5xSRTWBpIFJZZGGRjxNP4F) | 3:56 | 2022-04-20 | 2022-07-29 |
 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 | 2023-04-14 | 2024-04-19 |
-| [Oval Stones](https://open.spotify.com/track/7JSsitRmA1k7vJv6kbdHRg) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1) | 3:33 | 2023-10-10 |  |
+| [Oval Stones](https://open.spotify.com/track/7JSsitRmA1k7vJv6kbdHRg) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/1EIxpqw8tWE001EuJn6cy1) | 3:33 | 2023-10-10 | 2025-01-29 |
 | [Over Now](https://open.spotify.com/track/0gxevxD9QkHzK9WFZ6asBP) | [SAVI MINDS](https://open.spotify.com/artist/2PPIKWhRLKnWL4HTip0Osd) | [Over Now](https://open.spotify.com/album/5LTta2Z5mdVl1RgVdcQJ83) | 3:53 | 2021-08-20 | 2022-04-25 |
 | [Overseas/BACK 2 U](https://open.spotify.com/track/7txOLgzWoVyvOq3NzyLO3o) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [Blueprint](https://open.spotify.com/album/3r9BiB9RQwDlJR6owjqg5f) | 4:39 | 2023-01-27 | 2023-03-07 |
 | [Oysters in My Pocket \- The Lazy Eyes Remix](https://open.spotify.com/track/5znuBJGHg78oNbYtj2KeQk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH), [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Oysters in My Pocket \(The Lazy Eyes Remix\)](https://open.spotify.com/album/3oFz5X3towJCAvnb9EnH1C) | 3:34 | 2022-05-20 | 2022-07-08 |
@@ -993,6 +994,7 @@
 | [Your Love](https://open.spotify.com/track/1FHeegARABz3cgW3qgrtbz) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/68d5CK8mp4yqcc7TfS8uM7) | 3:13 | 2023-04-07 | 2023-04-19 |
 | [Your Love](https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd) | 3:13 | 2023-04-07 | 2023-08-05 |
 | [Yüce Dağ Başında](https://open.spotify.com/track/6UOoLY8PSg1RiNCXi1EO5w) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yüce Dağ Başında](https://open.spotify.com/album/4erI1hl9uBkYuiBTvunXOY) | 4:18 | 2021-04-02 | 2022-04-20 |
+| [Zero Sun](https://open.spotify.com/track/0g2RvPCmGHX8PeET2bEr0N) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/3dClk1vDnyMOSLxtDWqMxo) | [Zero Sun](https://open.spotify.com/album/457fHRbTBJDRv1hzSPY1we) | 3:27 | 2025-01-28 |  |
 | [ZEZE](https://open.spotify.com/track/0yN5Z0MmCwMa0ccOAvB5wR) | [WEMA](https://open.spotify.com/artist/5aPv7qXVKLZfs9p4d8fnAE) | [WEMA](https://open.spotify.com/album/7wopc0xgBoZnqA0nIYfHnS) | 4:15 | 2022-05-06 | 2022-07-29 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

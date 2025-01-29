@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 420 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 428 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 33 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Jesse Kendal](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 |
 | 34 | [Go On](https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj) | [Go On](https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1) | 2:52 |
 | 35 | [Floating](https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP) | [Floating](https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8) | 5:49 |
-| 36 | [CIRCLES](https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [CIRCLES](https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD) | 4:34 |
-| 37 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
+| 36 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 |
+| 37 | [CIRCLES](https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [CIRCLES](https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD) | 4:34 |
 | 38 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
 | 39 | [Wall of Sleep](https://open.spotify.com/track/1KaS7bkSH7jPsz2tch2ZQ7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Wall Of Sleep](https://open.spotify.com/album/72YJcxGTWSbRYRqRzCYdVV) | 4:47 |
 | 40 | [Absent](https://open.spotify.com/track/5gdNah69fvQqI9SuESeqT5) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Absent](https://open.spotify.com/album/5dR04HbCNgPfhPCBuL2gnn) | 3:09 |

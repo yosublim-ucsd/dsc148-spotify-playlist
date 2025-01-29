@@ -1,6 +1,6 @@
 {
   "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: Central Cee ",
-  "num_followers": 208699,
+  "num_followers": 208690,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
-      },
-      "artists": [
-        {
-          "name": "G3 GELO",
-          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
-    },
-    {
-      "added_at": "2025-01-24 09:03:07",
-      "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 172500,
       "name": "If We Being R\u00ebal",
       "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
+    },
+    {
+      "added_at": "2025-01-24 09:03:07",
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
+      },
+      "artists": [
+        {
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -783,18 +783,22 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+        "name": "Fat Juicy & Wet",
+        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "duration_ms": 141057,
+      "name": "Fat Juicy & Wet",
+      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -819,6 +823,22 @@
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+    },
+    {
+      "added_at": "2025-01-24 09:03:07",
+      "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -855,26 +875,6 @@
       "duration_ms": 127154,
       "name": "Insecurities",
       "url": "https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej"
-    },
-    {
-      "added_at": "2025-01-24 09:03:07",
-      "album": {
-        "name": "Fat Juicy & Wet",
-        "url": "https://open.spotify.com/album/1y2OfMwyaRDmtbQNl0DnQa"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 141057,
-      "name": "Fat Juicy & Wet",
-      "url": "https://open.spotify.com/track/5M2lX0ZAYSAzCs1xPPi9BX"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -1019,26 +1019,22 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
-        "name": "WE STILL DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 252920,
-      "name": "We Still Don't Trust You",
-      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -1067,22 +1063,26 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+      "duration_ms": 252920,
+      "name": "We Still Don't Trust You",
+      "url": "https://open.spotify.com/track/7sVbKoBdhXtYCEOO6qC1SN"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
-        "name": "Gen Z Luv",
-        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 153266,
-      "name": "Gen Z Luv",
-      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
+        "name": "Gen Z Luv",
+        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Gen Z Luv",
+      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
+    },
+    {
+      "added_at": "2025-01-24 09:03:07",
+      "album": {
         "name": "act ii: date @ 8 (feat. Drake) [remix]",
         "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
-    },
-    {
-      "added_at": "2025-01-24 09:03:07",
-      "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
+    },
+    {
+      "added_at": "2025-01-24 09:03:07",
+      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "UK Rap",
-      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
-    },
-    {
-      "added_at": "2025-01-24 09:03:07",
-      "album": {
         "name": "All My Life (feat. J. Cole)",
         "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
@@ -1455,6 +1455,30 @@
       "duration_ms": 160893,
       "name": "La bandite",
       "url": "https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f"
+    },
+    {
+      "added_at": "2025-01-24 09:03:07",
+      "album": {
+        "name": "Coraz\u00f3n Puro",
+        "url": "https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Coraz\u00f3n Puro",
+      "url": "https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -1539,22 +1563,6 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
-        "name": "Noid",
-        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 284363,
-      "name": "Noid",
-      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
-    },
-    {
-      "added_at": "2025-01-24 09:03:07",
-      "album": {
         "name": "HIGHJACK",
         "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
       },
@@ -1595,6 +1603,22 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
+        "name": "Noid",
+        "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 284363,
+      "name": "Noid",
+      "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
+    },
+    {
+      "added_at": "2025-01-24 09:03:07",
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -1615,30 +1639,6 @@
       "duration_ms": 158980,
       "name": "PROMOTION",
       "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
-    },
-    {
-      "added_at": "2025-01-24 09:03:07",
-      "album": {
-        "name": "Coraz\u00f3n Puro",
-        "url": "https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Coraz\u00f3n Puro",
-      "url": "https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ"
     },
     {
       "added_at": "2025-01-24 09:03:07",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2025-01-24 09:03:07",
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
-    },
-    {
-      "added_at": "2025-01-24 09:03:07",
-      "album": {
         "name": "Gas Me Up (Diligent)",
         "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 171000,
       "name": "Gas Me Up (Diligent)",
       "url": "https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc"
+    },
+    {
+      "added_at": "2025-01-24 09:03:07",
+      "album": {
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     }
   ],
   "unique_name": "Rap Internazionale",

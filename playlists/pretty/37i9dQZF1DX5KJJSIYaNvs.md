@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Sunidhi Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,102 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,124 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 2 | [Taras \- From "Munjya"](https://open.spotify.com/track/6t9KM2EQD4H2KbrTgHGYf3) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Taras \(From "Munjya"\)](https://open.spotify.com/album/0sEowDRNDEVD8T31onRthr) | 3:08 |
 | 3 | [Uyi Amma \- From "Azaad"](https://open.spotify.com/track/2nP1wLRh85mo5Wdj4RQldp) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Uyi Amma \(From "Azaad"\)](https://open.spotify.com/album/1UgFWElh16PWYpFN5vdCTF) | 4:13 |
 | 4 | [Aa Zara](https://open.spotify.com/track/0MoRzKAl00iGQVOfUhmAUJ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Aa Zara](https://open.spotify.com/album/5gw0j8n8j2h7kLmQ8XqzcL) | 2:35 |
-| 5 | [Roohdaari \- Reprise Version \- From "Fateh"](https://open.spotify.com/track/57ONTAOgxEb6907rmWdNBe) | [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih), [Vivek Hariharan](https://open.spotify.com/artist/5KOvzkFqFQBE4r34ebiDXh), [Mandeep Khurana](https://open.spotify.com/artist/0y6Vd3mRsVm1UCRKX38eeZ) | [Fateh \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rfqSDECAnJvFe0zGM36UW) | 3:37 |
+| 5 | [Vekhan Nu](https://open.spotify.com/track/5xHj6H5slknXw3Mb5A2VUy) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Vekhan Nu](https://open.spotify.com/album/6yLUJetgjlcqhskoOUBSD9) | 3:27 |
 | 6 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 |
 | 7 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 |
 | 8 | [Khaamakha](https://open.spotify.com/track/0GPCJqtDyJPVpdVLgp9lfx) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Ranjhana \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0RAQ4y6mgiDgbBnGeABGWX) | [Dhrruv Dhalla](https://open.spotify.com/artist/7GfQHvzxguqb8I3FeEoYRt), [Devendra Kafir](https://open.spotify.com/artist/6WSOUBgfwvshacSgDxplvg), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 3:51 |
 | 50 | [Phir Aur Kya Chahiye \- Asees Version](https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Phir Aur Kya Chahiye \- Asees Version](https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG) | 3:58 |
 
-Snapshot ID: `Z5NKowAAAACNwsffew/J4Y/7c1oWGYTi`
+Snapshot ID: `Z5iKDAAAAABC7Lpy4Ep2cXRFo4Cqimhv`

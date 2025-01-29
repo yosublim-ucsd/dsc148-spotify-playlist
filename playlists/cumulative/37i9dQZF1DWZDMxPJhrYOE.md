@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-378 songs - 19 hr 21 min
+379 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [The End](https://open.spotify.com/track/1KNI1JuCWWGet03MmoRp4R) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The End](https://open.spotify.com/album/5O2KoaZbV8Op3Tsl0Fq7lI) | 3:17 | 2024-07-31 | 2024-08-11 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-31 | 2024-08-23 |
 | [The Karate Kid](https://open.spotify.com/track/0cZEkGxb0V9MbpzHzpKp9F) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music \(Full Moon Edition\)](https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI) | 2:55 | 2024-10-10 | 2025-01-19 |
-| [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN) | 3:12 | 2024-11-21 |  |
+| [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN) | 3:12 | 2024-11-21 | 2025-01-29 |
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-15 |  |
 | [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 | 2024-08-01 | 2024-08-23 |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-07-01 | 2024-08-01 |
@@ -376,6 +376,7 @@
 | [What This Could Be](https://open.spotify.com/track/3NaOEouWqMCBwR0vQcVFt7) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [What This Could Be / Work It Out](https://open.spotify.com/album/534YIkJVj0Hlpuw0jMpf1h) | 3:18 | 2024-10-03 | 2025-01-25 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-07-01 | 2024-08-01 |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-03 | 2025-01-25 |
+| [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-28 |  |
 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-10-17 | 2024-10-25 |
 | [Whoops](https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:28 | 2024-07-01 | 2024-09-11 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2025-01-10 |

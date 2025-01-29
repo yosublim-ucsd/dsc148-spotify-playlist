@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,932 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,928 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 18 | [Identidade](https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Identidade](https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb) | 4:27 |
 | 19 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 |
 | 20 | [Como Águia](https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:34 |
-| 21 | [Sou Humano](https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Sou Humano](https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ) | 4:30 |
-| 22 | [Pai Eu Confiarei](https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 5:31 |
+| 21 | [Pai Eu Confiarei](https://open.spotify.com/track/1C1cSdN9oPaKINILtzgqao) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 5:31 |
+| 22 | [Sou Humano](https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Sou Humano](https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ) | 4:30 |
 | 23 | [Aceito o Teu Chamado](https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:25 |
 | 24 | [Lugar Santo](https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 4:13 |
 | 25 | [Vento do Espírito](https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 46 | [Recompensa \(Ao Vivo\)](https://open.spotify.com/track/73DqTcyWoULHoOjmsjYFhd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Recompensa \(Ao Vivo\)](https://open.spotify.com/album/0vQ7L4VXrnkUnQ7B8nmEdx) | 3:51 |
 | 47 | [Se Deus É Por Mim \- Ao Vivo](https://open.spotify.com/track/221g3SdkkMYmXpP0L2eqyY) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Se Deus É Por Mim \(Ao Vivo\)](https://open.spotify.com/album/5axelF9ejzkR8Ju6eDHo5f) | 7:47 |
 | 48 | [Pensou em Mim](https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Pensou em Mim](https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu) | 7:09 |
-| 49 | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx) | 4:15 |
-| 50 | [Cante Aleluia](https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 3:34 |
+| 49 | [Cante Aleluia](https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Siga em Frente](https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit) | 3:34 |
+| 50 | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx) | 4:15 |
 
-Snapshot ID: `Z5V7AAAAAAAJLFubNaFVRUt/1lXpy9lX`
+Snapshot ID: `Z5bMgAAAAADLPX7x74wsRq9/1E85z2Nc`

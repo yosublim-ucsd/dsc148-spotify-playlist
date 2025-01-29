@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 147382,
+  "num_followers": 147408,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABJj/zMnYkAdhKXqhkyBYQn",
+  "snapshot_id": "Z5bMgAAAAADMTk0BG3uwyj7B/U71ICof",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 287506,
-      "name": "Because He Lives",
-      "url": "https://open.spotify.com/track/0IssjoPK88JuZug9zYkwcC"
+      "duration_ms": 206266,
+      "name": "O How I Love Jesus",
+      "url": "https://open.spotify.com/track/7fo5JZzwLYgVo5HnEGltj6"
     },
     {
       "added_at": null,
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
       "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 228853,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
+      "duration_ms": 195720,
+      "name": "Look at Me",
+      "url": "https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

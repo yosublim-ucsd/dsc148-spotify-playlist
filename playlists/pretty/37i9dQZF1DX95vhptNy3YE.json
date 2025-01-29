@@ -1,6 +1,6 @@
 {
   "description": "Gamadinho e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 373080,
+  "num_followers": 373052,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
         "name": "Sorriso no Rosto",
         "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 148000,
       "name": "Sorriso no Rosto",
       "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -291,26 +291,6 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
         "name": "Filha do Deputado",
         "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 371852,
       "name": "Filha do Deputado",
       "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -747,6 +747,34 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
+        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
+        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 199081,
+      "name": "calor do momento",
+      "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
         "name": "A Cara do Crime 4 (Acendo a Flor)",
         "url": "https://open.spotify.com/album/1wfZi9HzzLz2IoXjt7UVC6"
       },
@@ -779,34 +807,6 @@
       "duration_ms": 308243,
       "name": "A Cara do Crime 4 (Acendo a Flor)",
       "url": "https://open.spotify.com/track/77VEEXFqs8GlKhT1lWHcsE"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
-        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
-        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 199081,
-      "name": "calor do momento",
-      "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
     },
     {
       "added_at": "2025-01-17 03:01:15",

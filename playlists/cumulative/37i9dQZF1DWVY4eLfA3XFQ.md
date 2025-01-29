@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Andruss ⛽⛽  50% techno, 50% house
 
-1,927 songs - 4 day 10 hr 54 min
+1,928 songs - 4 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -686,6 +686,7 @@
 | [Gozar](https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Gozar](https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW) | 3:24 | 2023-04-21 | 2023-08-14 |
 | [Grindhouse](https://open.spotify.com/track/7ewecejRd83t9kq8gJEuPS) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Grindhouse](https://open.spotify.com/album/2hmpO5xhgvo9EXM7JEUm5s) | 2:49 | 2024-11-15 | 2024-11-23 |
 | [Groove La Afrika](https://open.spotify.com/track/18XaSQTiVylPUq0uSyWZAh) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Soul on Ice EP PT1](https://open.spotify.com/album/0EyIginK61lxZJEkODvC9w) | 2:49 | 2021-11-26 | 2022-04-23 |
+| [Groove With It](https://open.spotify.com/track/2uoDMLZryLTwwD5Zpvn5MU) | [Deltech](https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y) | [Groove With It EP](https://open.spotify.com/album/7xWO2C0KsqXey1ShtdzuNp) | 3:52 | 2025-01-28 |  |
 | [Groovemasta](https://open.spotify.com/track/26wsiUVYF5M42ikSihxWBl) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Groovemasta / Beat It Up](https://open.spotify.com/album/6KhQTzoIA3aOtNZuydQ80J) | 4:12 | 2023-08-18 | 2023-11-11 |
 | [GRUUV](https://open.spotify.com/track/6iwUBX2iTWRjHtBAGdqS0M) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq) | [GRUUV](https://open.spotify.com/album/2e859r4BJfvAO68g5iX38N) | 3:50 | 2022-03-11 | 2022-06-11 |
 | [Guest List](https://open.spotify.com/track/7zXBzvwVLh5Oaonc9FzUBI) | [David Novacek](https://open.spotify.com/artist/1dPeIuXnrMKNy6xbUzWYBo), [Keytone](https://open.spotify.com/artist/69jihY9DKSUgHqqoNcIq1n) | [Guest List](https://open.spotify.com/album/2vz19SRbwBtNOnA3DzWZz9) | 2:35 | 2022-09-16 | 2022-10-08 |
@@ -1665,7 +1666,7 @@
 | [The Chillin](https://open.spotify.com/track/6Qq5N8hCU5uyXfZzAUfW04) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [The Chillin](https://open.spotify.com/album/3EBd2NbygikDDzcv1dZoYX) | 2:20 | 2023-02-10 | 2023-04-09 |
 | [The Climb](https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [The Climb](https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP) | 3:21 | 2024-04-05 | 2024-05-25 |
 | [The Dance](https://open.spotify.com/track/4BktrFFvfODYFvNWUvJhBC) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN), [SGT\. Pokes](https://open.spotify.com/artist/2mdpTpHF9cGaSSrtoLwIZr) | [The Dance](https://open.spotify.com/album/5ug5gS7iYFoEMTvdcu3tAr) | 2:55 | 2024-01-12 | 2024-03-16 |
-| [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 | 2023-10-27 |  |
+| [The Edge](https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [The Edge](https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP) | 2:33 | 2023-10-27 | 2025-01-29 |
 | [The Empty Spaces](https://open.spotify.com/track/7DYuawZFCKbnEwU79ALZRu) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [The Empty Spaces](https://open.spotify.com/album/7he0W4vF0v0ozEIg2tXfLk) | 2:57 | 2024-08-30 | 2024-09-07 |
 | [The End](https://open.spotify.com/track/2jitSZjngFT7T6jiJFYVJ3) | [Jesse Jonez](https://open.spotify.com/artist/4uRQ0KBoYFYkziR9SIZW3i), [Elternhouse](https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj) | [The End](https://open.spotify.com/album/0T8OYex7RRUmsUXg8VnBsY) | 2:42 | 2022-01-21 | 2022-06-04 |
 | [The End \- PAX Remix](https://open.spotify.com/track/7KCLc0uAZ6h1cMq4SboDkc) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [The End \(PAX Remix\)](https://open.spotify.com/album/44WgXFQCQpAXFsHGEh9qBM) | 3:23 | 2022-08-05 | 2022-09-24 |

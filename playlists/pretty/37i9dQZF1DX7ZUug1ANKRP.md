@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Ely Oaks, LAVINIA
+> The biggest Dance hits and the ones to come\. Cover: Jaden Bojsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,850,014 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,850,083 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [C'est La Vie](https://open.spotify.com/track/1yBG3LKcRlGSut0ETNKclC) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [C'est La Vie](https://open.spotify.com/album/4hETHdhakAcmwVbqg8n64W) | 2:03 |
 | 50 | [Late Checkout](https://open.spotify.com/track/4zDetWCxKm1LU4IcXNVvns) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Late Checkout](https://open.spotify.com/album/7Gfq0uM4szOZyLqVjiBiKR) | 2:35 |
 
-Snapshot ID: `Z5eM7QAAAADIR9eA8RauqvSPUitDestz`
+Snapshot ID: `Z5isNgAAAADvYjHFG1A+qZaCpJ7BeGI6`

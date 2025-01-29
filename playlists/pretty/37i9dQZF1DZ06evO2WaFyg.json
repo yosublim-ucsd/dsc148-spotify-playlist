@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 248441,
+  "num_followers": 248511,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACt7NZuH7FFCVCkrhxvowXx",
+  "snapshot_id": "Z5bMgAAAAABe/M3g+qrue79JyVGzl+y2",
   "tracks": [
     {
       "added_at": null,
@@ -79,26 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 174853,
-      "name": "Goodbyes (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Goodbyes (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0t3ZvGKlmYmVsDzBJAXK8C"
     },
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA",
-        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -395,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -415,6 +415,30 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE'S A TRIP",
+        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Reese LAFLARE",
+          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 237983,
+      "name": "Forever Ever (feat. Young Thug & Reese LAFLARE)",
+      "url": "https://open.spotify.com/track/4bnq2OQUwACkp2vCEbY52g"
     },
     {
       "added_at": null,
@@ -459,30 +483,6 @@
       "duration_ms": 269693,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIFE'S A TRIP",
-        "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Reese LAFLARE",
-          "url": "https://open.spotify.com/artist/07V3atNq2TyPNDYmzp6Dyy"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 237983,
-      "name": "Forever Ever (feat. Young Thug & Reese LAFLARE)",
-      "url": "https://open.spotify.com/track/4bnq2OQUwACkp2vCEbY52g"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My wrist (with Young Thug)",
+        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "My wrist (with Young Thug)",
+      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My wrist (with Young Thug)",
-        "url": "https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "My wrist (with Young Thug)",
-      "url": "https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w"
     },
     {
       "added_at": null,
@@ -743,6 +743,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 272772,
+      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
+      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 272772,
-      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
-      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Mannequin Challenge (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 220888,
       "name": "Just Like Me (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Mannequin Challenge (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
     },
     {
       "added_at": null,

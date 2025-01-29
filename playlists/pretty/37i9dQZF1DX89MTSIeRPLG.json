@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 20490,
+  "num_followers": 20498,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Easter In Miami",
+        "url": "https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Easter In Miami",
+      "url": "https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Beyond Bulletproof",
         "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 212323,
       "name": "I Ain't Perfect (feat. Blxst)",
       "url": "https://open.spotify.com/track/5Ak6oUUC0r1KfU2sPXkSa5"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Easter In Miami",
-        "url": "https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 187096,
-      "name": "Easter In Miami",
-      "url": "https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -391,6 +391,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": "2022-10-01 20:31:11",

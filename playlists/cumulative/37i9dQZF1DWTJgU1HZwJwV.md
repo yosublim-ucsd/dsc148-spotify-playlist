@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-536 songs - 22 hr 42 min
+538 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Dans tes mains](https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Toucher mon coeur](https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl) | 2:29 | 2023-02-24 | 2023-04-29 |
 | [Dari Kejauhan](https://open.spotify.com/track/4K78IXVq7EvW98OrJ54sy1) | [Made Dien](https://open.spotify.com/artist/2FA2axlDjD33BuE58c0AqW) | [Grateful](https://open.spotify.com/album/5RTEWuj9SuqPgqErUGKHUM) | 2:28 | 2022-06-17 | 2022-12-24 |
 | [Dawn in the Alps](https://open.spotify.com/track/3juEXNwsK231EL3cmEIYyh) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Dawn in the Alps](https://open.spotify.com/album/5ZBiuIE9R6XgDWRKMI7q4F) | 3:58 | 2022-06-17 | 2023-06-03 |
+| [DayBreak](https://open.spotify.com/track/36808teFyYEdLykzyq3MMx) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [DayBreak](https://open.spotify.com/album/38CNDhV5vmuWR8OYEkXngo) | 2:35 | 2025-01-28 |  |
 | [Days Like These](https://open.spotify.com/track/6yHEpp2Npgz3DGeUGjexgO) | [Peter Lainson](https://open.spotify.com/artist/3wk9WtW2Txz1ssUoAZuE1a), [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt) | [Days Like These](https://open.spotify.com/album/54wydD6HnHaWq8AxbWk9vA) | 2:13 | 2022-06-17 | 2023-01-20 |
 | [Days of Rain](https://open.spotify.com/track/2jsQWRYISLjXA2x3LQMzH6) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Days of Rain](https://open.spotify.com/album/4BytJNCzENodkN9futggYe) | 2:48 | 2022-06-17 | 2023-10-27 |
 | [Dearest muse](https://open.spotify.com/track/6i59wmK54zfKwjZ3pxT8rr) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Dearest muse](https://open.spotify.com/album/2dPCMORcxiGIFcIBwdeBEd) | 2:03 | 2023-04-28 | 2023-06-23 |
@@ -226,6 +227,7 @@
 | [In weiter Ferne](https://open.spotify.com/track/5NQ39FelcVKRWkGZHKUWVe) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 3:28 | 2022-06-17 | 2022-09-09 |
 | [Indubio](https://open.spotify.com/track/0IBin9RIKBxMxDHf9lGtbx) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Indubio](https://open.spotify.com/album/4OAZ28Z4FK3C50twZJEc0O) | 2:46 | 2022-06-17 | 2023-12-15 |
 | [Infatuated](https://open.spotify.com/track/4snLhsoeQDkuYpjSmnGlUV) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Infatuated](https://open.spotify.com/album/2kIwwzu3FAJcZRxA5P0eFH) | 2:45 | 2023-02-24 | 2023-06-23 |
+| [Infinite Moments](https://open.spotify.com/track/2Q2WepkVrsou9GwxAfvLyV) | [Remi Kerrington](https://open.spotify.com/artist/7pYVuISYaXRKJRx0ye2fPx) | [Infinite Moments](https://open.spotify.com/album/4s7VoogAhgQ6f2sNEsEait) | 2:43 | 2025-01-28 |  |
 | [Infinity Mirror](https://open.spotify.com/track/4hv4itYuXgeWeFVQEhC15E) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Infinity Mirror](https://open.spotify.com/album/7EP9s8EJkQLAyW11jQonam) | 2:37 | 2024-01-12 |  |
 | [Inland dunes](https://open.spotify.com/track/0p5dJ3qKx5iIBtWXZAVNpa) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Inland dunes](https://open.spotify.com/album/0FYLwRW3I9CeWBkYrlF8iV) | 2:11 | 2022-06-17 | 2022-09-09 |
 | [Inside the stone](https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Inside the stone](https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi) | 2:04 | 2023-03-24 | 2023-06-23 |

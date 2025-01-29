@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 440083,
+  "num_followers": 440104,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAAgSkWDTc3IPQogaN36EA8a",
+  "snapshot_id": "Z5bMgAAAAAC1JvCZOMPop3Uf+JFmbibz",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 183057,
+      "name": "De Mi Viejo",
+      "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coronas Doradas",
         "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 167470,
       "name": "Los Cuervos",
       "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 183057,
-      "name": "De Mi Viejo",
-      "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 141409,
-      "name": "Soy de Durango",
-      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
+      "duration_ms": 155416,
+      "name": "Hombre de Rancho",
+      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 155416,
-      "name": "Hombre de Rancho",
-      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
+      "duration_ms": 141409,
+      "name": "Soy de Durango",
+      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,379 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,435 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,17 +82,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 72 | [Ghetto](https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Ghetto EP](https://open.spotify.com/album/0Yk2UyQvhV8Jx2AvvFYtev) | 3:34 |
 | 73 | [Me, Myself & That Dancefloor](https://open.spotify.com/track/3zGcP713ZPe6OYGlOWYpKu) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Me, Myself & That Dancefloor EP](https://open.spotify.com/album/6hkRPAZb0cjySkQeSPoNPa) | 3:26 |
 | 74 | [Move](https://open.spotify.com/track/0yqsV9NZytn8U6HmwrVVBH) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [Move](https://open.spotify.com/album/3NYXKYSAO7WwAv2gnIlm7H) | 3:11 |
-| 75 | [The Rider](https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [The Rider](https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM) | 5:42 |
-| 76 | [She Wants Bass](https://open.spotify.com/track/539nhBaI2YCKDG3qPCs5vu) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Red Alert](https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN) | 3:31 |
+| 75 | [She Wants Bass](https://open.spotify.com/track/539nhBaI2YCKDG3qPCs5vu) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Red Alert](https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN) | 3:31 |
+| 76 | [The Rider](https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [The Rider](https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM) | 5:42 |
 | 77 | [Handle This](https://open.spotify.com/track/5sn1pUKCFpRotDHZJotzvW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Handle This](https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N) | 6:30 |
 | 78 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 |
 | 79 | [Work It](https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Work It EP](https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT) | 3:14 |
 | 80 | [Im so Wavy \- Original Mix](https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa) | [Jay de Lys](https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M) | [Im so Wavy](https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18) | 3:28 |
 | 81 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
 | 82 | [Nothing Hurts](https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56) | [Tre Reynolds](https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2) | [Nothing Hurts](https://open.spotify.com/album/7vh6lptAxjH1KQMlVAr7MH) | 3:09 |
-| 83 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
-| 84 | [Red Alert](https://open.spotify.com/track/7F5cUAijc9EjGxjcgMfXph) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Red Alert](https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN) | 3:23 |
-| 85 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
+| 83 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
+| 84 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
+| 85 | [Red Alert](https://open.spotify.com/track/7F5cUAijc9EjGxjcgMfXph) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Red Alert](https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN) | 3:23 |
 | 86 | [Bad City](https://open.spotify.com/track/4mNCeMeeYSSlHgMmab2PyM) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Bad City](https://open.spotify.com/album/7veg6nivlCOvav8hC99ky0) | 6:21 |
 | 87 | [Go Deeper](https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Go Deeper EP](https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo) | 3:22 |
 | 88 | [Don't Wanna Go](https://open.spotify.com/track/7Egwrj96WlechP11rChGK9) | [Stephen Kirkwood](https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Don't Wanna Go](https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp) | 3:00 |

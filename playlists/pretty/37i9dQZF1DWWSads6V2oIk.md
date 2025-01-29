@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 
 > Tropical nature sounds for bedtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,847 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,913 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 39 | [Rain Forest Birds](https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Autumn Rain](https://open.spotify.com/album/7tjr0VEI6SgRVK8VB1UmhI) | 3:12 |
 | 40 | [Seal Cove Pond 10/30 8am](https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F) | [Aaron Lewis](https://open.spotify.com/artist/2xmSfP65WLEwRyrQlpODuR) | [Sounds of Mount Desert Island](https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB) | 3:24 |
 | 41 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 |
-| 42 | [Insects in Rain](https://open.spotify.com/track/3Vh7Iwv7haRwZ967WwPk4C) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 2:32 |
+| 42 | [Many Jungle Birds](https://open.spotify.com/track/0H35gcoQAOvPoFpSbO8Ylp) | [Dr\. Meditation](https://open.spotify.com/artist/3oZYKXyDVvu1P0wVIrCquY) | [200 Nature Sounds](https://open.spotify.com/album/5JojOrCQpS1pYJXAgOQkSV) | 3:12 |
 | 43 | [Dreamy Rainforest](https://open.spotify.com/track/69bd86Umw7LLAkKIxxiQGQ) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Walk in the Wild](https://open.spotify.com/album/2HqQGJKCRxwLEKsTtUUDxq) | 3:04 |
-| 44 | [Many Jungle Birds](https://open.spotify.com/track/0H35gcoQAOvPoFpSbO8Ylp) | [Dr\. Meditation](https://open.spotify.com/artist/3oZYKXyDVvu1P0wVIrCquY) | [200 Nature Sounds](https://open.spotify.com/album/5JojOrCQpS1pYJXAgOQkSV) | 3:12 |
+| 44 | [Insects in Rain](https://open.spotify.com/track/3Vh7Iwv7haRwZ967WwPk4C) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Kindred Forest](https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY) | 2:32 |
 | 45 | [Sierra Nevada Dawn after Rain](https://open.spotify.com/track/53rnuqvDjs2SfnL94Barm1) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Sierra Nevada Dawn after Rain](https://open.spotify.com/album/7tpj7GkDDjYietM3PHPM4c) | 2:03 |
 | 46 | [Nap In The Rainforest](https://open.spotify.com/track/3FIWPMCPiAri83CyY4KbXx) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Let the forest talk](https://open.spotify.com/album/5vemnKTIVMtdfZGDo1mcvk) | 3:32 |
 | 47 | [Gentle Waters \(Rain\)](https://open.spotify.com/track/5DKlfLW5p13tBiuetBLWNX) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSads6V2oIk.md) - [plain]
 | 70 | [Jungle Rain](https://open.spotify.com/track/225puEONdqqHyOfVXyLQO9) | [Earth's Rain](https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il) | [Jungle Rain](https://open.spotify.com/album/15Tks2gP5mcSbcSRcAb10x) | 2:24 |
 | 71 | [Forest Rain With Peaceful Insects](https://open.spotify.com/track/049WKlz7iZ8zfEoFverXS5) | [Cloudburst Forest](https://open.spotify.com/artist/0h9lHXI4UngNxtjICMRXmq) | [Cloudburst Forest Rain](https://open.spotify.com/album/45GkTb5MDmeNQfKS5g6RuZ) | 3:12 |
 | 72 | [Forest River](https://open.spotify.com/track/31aIT2C2m1JOA11bc2UR7G) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 3:03 |
-| 73 | [Rainy Forest](https://open.spotify.com/track/5DYpluaA9XthyaTyR1TwwN) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Thunder In Madeira](https://open.spotify.com/album/3nQCfcDXLZn3S2y8SFX52f) | 3:07 |
-| 74 | [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 |
+| 73 | [El Sonido De La Jungla](https://open.spotify.com/track/3X9fYeMzViZNTg3FptCZZq) | [Nerea Llopis](https://open.spotify.com/artist/45DFCRFgVJdYToAWjPau6O) | [El Sonido De La Jungla](https://open.spotify.com/album/4UpQkIb1B3HDThLzEKI0DT) | 2:02 |
+| 74 | [Rainy Forest](https://open.spotify.com/track/5DYpluaA9XthyaTyR1TwwN) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Thunder In Madeira](https://open.spotify.com/album/3nQCfcDXLZn3S2y8SFX52f) | 3:07 |
 | 75 | [Deep Forest Soft Rain Birds Chirp Away](https://open.spotify.com/track/0KJdVfQkMHZn9rJB8PlBnH) | [Nature Noise](https://open.spotify.com/artist/6DRwKWnvWIApUcEUqbyM5Z) | [Rain Sounds & White Noise](https://open.spotify.com/album/1Jxxz6IARapq4T2QDZrLsI) | 4:00 |
 | 76 | [Meet Me In The Woods](https://open.spotify.com/track/7wYt8tyEAcA9UFsM0vx8Pi) | [Mandalay Hill](https://open.spotify.com/artist/5RIo6BjGDrEu3OVt0INvtP) | [Out in Myeik](https://open.spotify.com/album/0DUnBjceNZZisaUMFxQz39) | 3:32 |
 | 77 | [Nights In The Forest](https://open.spotify.com/track/6s0YtX2hSVOoHJfgwnWhW9) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Deep in the Rainforest](https://open.spotify.com/album/26DdElvaLPpa91ymGXlSeV) | 3:32 |

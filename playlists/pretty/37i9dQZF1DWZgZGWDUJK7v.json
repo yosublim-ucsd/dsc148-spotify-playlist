@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: Solo Leveling(LiSA, Felix of Stray Kids)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: \ub098 \ud63c\uc790\ub9cc \ub808\ubca8\uc5c5(LiSA, Felix of Stray Kids))",
-  "num_followers": 97315,
+  "num_followers": 97307,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
-        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
-      },
-      "artists": [
-        {
-          "name": "LEESEO",
-          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "MAY LILY",
-      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7DbEJaAcgnbnYEEbX4A9OO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 257519,
       "name": "LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",
       "url": "https://open.spotify.com/track/382vwoXF6ksNuaPbMYiQy6"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "I'm the Queen in This Life (Original Soundtrack) Part.1",
+        "url": "https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl"
+      },
+      "artists": [
+        {
+          "name": "LEESEO",
+          "url": "https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "MAY LILY",
+      "url": "https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (From \"\uc5f0\uc560\ud601\uba85\") [Soundtrack]",
-        "url": "https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc"
-      },
-      "artists": [
-        {
-          "name": "Minhyun",
-          "url": "https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c",
-      "url": "https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c (From \"\uc5f0\uc560\ud601\uba85\") [Soundtrack]",
+        "url": "https://open.spotify.com/album/1aD4BlwDYYewxfnP48ZDqc"
+      },
+      "artists": [
+        {
+          "name": "Minhyun",
+          "url": "https://open.spotify.com/artist/0mvcvl5dQ8Gi11mCXMSHIs"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "\ubaa8\ub4e0 \ubc24 \ub108\uc5d0\uac8c",
+      "url": "https://open.spotify.com/track/4zawz6cAvDwqbCbjUlStfP"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "After (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
-        "url": "https://open.spotify.com/album/2yqqSjGCHVJrYmG3ZtY27I"
-      },
-      "artists": [
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "After",
-      "url": "https://open.spotify.com/track/4mpL2RaLqcAuxQCJ3K0VMM"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
         "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "After (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
+        "url": "https://open.spotify.com/album/2yqqSjGCHVJrYmG3ZtY27I"
+      },
+      "artists": [
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "After",
+      "url": "https://open.spotify.com/track/4mpL2RaLqcAuxQCJ3K0VMM"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Lee Doona Project Part 2",
-        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
-      },
-      "artists": [
-        {
-          "name": "Lee Doona",
-          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Something I want to tell you only.",
-      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/5RJcvnMMnWZxX33PBhITV9"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 183874,
       "name": "Broken",
       "url": "https://open.spotify.com/track/33vo9lazjgmoemUhQ7cwk1"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Lee Doona Project Part 2",
+        "url": "https://open.spotify.com/album/3SbEpnysVLtpggH0EhIbw6"
+      },
+      "artists": [
+        {
+          "name": "Lee Doona",
+          "url": "https://open.spotify.com/artist/4Fe7UZzZH1SDtWLRYSAQ3n"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Something I want to tell you only.",
+      "url": "https://open.spotify.com/track/3BUSJoHhZDqu4AynpNQ7Mx"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "How about you?",
-      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "The Extra (One of a Kind Romance)",
         "url": "https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Better for Me (Nth Romance X MeloMance)",
-        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
+        "name": "How about you? (No Office Romance! X THE BOYZ) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/1xXbRj29uRvRA7iT7aKT3N"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
         }
       ],
-      "duration_ms": 239853,
-      "name": "Better for Me (Nth Romance X MeloMance)",
-      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
+      "duration_ms": 207333,
+      "name": "How about you?",
+      "url": "https://open.spotify.com/track/6bOuFd9CLbQA8IKRWwVVBP"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -967,6 +951,22 @@
       "duration_ms": 244986,
       "name": "I'm into you, I mean Love you",
       "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Better for Me (Nth Romance X MeloMance)",
+        "url": "https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 239853,
+      "name": "Better for Me (Nth Romance X MeloMance)",
+      "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
-        "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Choi from Yanbian",
-          "url": "https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Like the Wind Didn\u2019t Blow",
-      "url": "https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/4QHbIQlUQAOKKiTZnY7Y3H"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 201645,
       "name": "The Memory (\ubbfc\uc9c0\uc640 \uc790\ub9bc)",
       "url": "https://open.spotify.com/track/5Y4PlwrK1UlBBrm08SRnyp"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Like the Wind Didn't Blow (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
+        "url": "https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Choi from Yanbian",
+          "url": "https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Like the Wind Didn\u2019t Blow",
+      "url": "https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
+        "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
+        "url": "https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 207560,
+      "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
+      "url": "https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/4aiCefbVcnbq90DAWD1O3W"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 256314,
       "name": "I Like You, But Got Tired of Liking You",
       "url": "https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
-        "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
-        "url": "https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Colored With You (Romance 101 X SHIN YOUG JAE)",
-      "url": "https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB"
-      },
-      "artists": [
-        {
-          "name": "LIZRO",
-          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
-        }
-      ],
-      "duration_ms": 186862,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "First Love Story (Original Soundtrack from the Webtoon Fight For My Way)",
         "url": "https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 207773,
       "name": "First Love Story",
       "url": "https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB"
+      },
+      "artists": [
+        {
+          "name": "LIZRO",
+          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
+        }
+      ],
+      "duration_ms": 186862,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t"
     },
     {
       "added_at": "2025-01-09 01:41:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-01-09 01:41:37",
       "album": {
-        "name": "The One And Only You (The Moon during the Day X SANDEUL)",
-        "url": "https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "The One And Only You (The Moon during the Day X SANDEUL)",
-      "url": "https://open.spotify.com/track/1AmPwrfNriJEukByD7Qpg5"
-    },
-    {
-      "added_at": "2025-01-09 01:41:37",
-      "album": {
         "name": "My 20th Twenty (Original Webdrama Sountrack, Pt. 1)",
         "url": "https://open.spotify.com/album/71EhGfqFpVNw0fsLfgyyfx"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 222252,
       "name": "My 20th Twenty",
       "url": "https://open.spotify.com/track/6EbXl39EhKldo6XU4q9MCe"
+    },
+    {
+      "added_at": "2025-01-09 01:41:37",
+      "album": {
+        "name": "The One And Only You (The Moon during the Day X SANDEUL)",
+        "url": "https://open.spotify.com/album/1f0Oe09V16PPgKaOksD2zb"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "The One And Only You (The Moon during the Day X SANDEUL)",
+      "url": "https://open.spotify.com/track/1AmPwrfNriJEukByD7Qpg5"
     },
     {
       "added_at": "2025-01-09 01:41:37",

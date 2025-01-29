@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-314 songs - 18 hr 39 min
+316 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Take Me Down \- Nourished by Time Version](https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Take Me Down \(Nourished by Time Version\)](https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr) | 4:03 | 2023-10-20 | 2024-01-11 |
 | [tanenbaum](https://open.spotify.com/track/72MV4bQVogXSY4nFRgJUY0) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [a benevolent being has agreed to strike me down, thank god](https://open.spotify.com/album/6O4uyLJh9Ozi0WaiO5cyvl) | 1:31 | 2024-12-20 |  |
 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 | 2022-09-02 | 2023-05-25 |
+| [Telepolartears](https://open.spotify.com/track/60Bkoafr2N367Dwff2QjW5) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Telepolartears](https://open.spotify.com/album/0btFNaPvgLP3Gzh2xL1j4u) | 2:29 | 2025-01-28 |  |
 | [The American Experiment](https://open.spotify.com/track/0Zo5E6jjqPZgIvzZdWHxuc) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [New Jersey](https://open.spotify.com/album/3ryHJlyWJf8CjR7jrgIYqB) | 3:00 | 2022-12-12 | 2023-05-25 |
 | [The Clouds Will Drop Ladders](https://open.spotify.com/track/6Ky0MGU5rsXTUCXf7wrLcW) | [Valium Aggelein](https://open.spotify.com/artist/6SDzqJ9bJXWCYlgBl6zXWw) | [Black Moon](https://open.spotify.com/album/13wXdYJA77QJCbsSZeRpEm) | 5:57 | 2023-10-31 |  |
 | [theres this girl](https://open.spotify.com/track/6whOApl6TgeCGRwMM52tkl) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 4:57 | 2023-12-01 |  |
@@ -302,6 +303,7 @@
 | [Violent Youth](https://open.spotify.com/track/67cdrrKC32SfLTcYMPDfcK) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 4:21 | 2022-09-30 | 2022-11-11 |
 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 | 2023-11-21 | 2023-12-30 |
 | [VIOLET NOISE](https://open.spotify.com/track/62zciqjLHP51CxpJGPGDGM) | [DUSTY](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [NOISE T.V](https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS) | 2:58 | 2023-10-20 |  |
+| [Vows](https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Vows](https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa) | 2:42 | 2025-01-28 |  |
 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 | 2024-03-01 |  |
 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2022-10-28 | 2022-12-13 |
 | [what's true?](https://open.spotify.com/track/2Sa5OLOogz1ypyE8kXZXFd) | [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [what's true?](https://open.spotify.com/album/3fydnNsm5IL1LEVZ4rGBaP) | 3:45 | 2024-10-04 |  |

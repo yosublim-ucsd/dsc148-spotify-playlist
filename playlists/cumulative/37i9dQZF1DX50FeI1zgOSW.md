@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Supaveen
 
-439 songs - 1 day 1 hr 5 min
+440 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [KANAVINIL KANDEN](https://open.spotify.com/track/775KkS3dsQanEqCXG7CHc7) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po), [Jessica](https://open.spotify.com/artist/36gWgA59mpRifFhGKRLzye) | [KANAVINIL KANDEN](https://open.spotify.com/album/0sF6LR0lxJp7WPu3zSshas) | 3:47 | 2024-04-04 | 2024-11-07 |
 | [Kanavondru Kanmunne](https://open.spotify.com/track/40UdAtoDxy5pr8T3WxgJzk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Rithvi Ramesh](https://open.spotify.com/artist/4lah4fQGDTcyB6C9sAEQSq), [Suraj Vishnu](https://open.spotify.com/artist/2XmHvywesi5fnKBdo0IRW5) | [Kanavondru Kanmunne](https://open.spotify.com/album/1Znw9BvpfIXyn7OTZdzGiG) | 3:15 | 2024-04-30 | 2024-11-21 |
 | [Kanavu Poandra Kaatchi](https://open.spotify.com/track/0pWkbQWebsaSd0WfeM4sCz) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Ailaah](https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 4:01 | 2024-07-27 | 2024-08-24 |
+| [kangalai kattinal](https://open.spotify.com/track/3gEa0uDEFWfggAZixWvX3Y) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [Ashish](https://open.spotify.com/artist/4vHInZhjbKoGbquZk2MQ6Q) | [kangalai kattinal](https://open.spotify.com/album/1pllolFny3ChtXtoPNJAe3) | 3:54 | 2025-01-28 |  |
 | [Kanmani Unnal](https://open.spotify.com/track/5JtYr05Ba4xdeXZl9DJVS2) | [K.B.Unnikrishnan](https://open.spotify.com/artist/6ZLP7uzqBuqHabxmL7vU6M) | [Kanmani Unnal](https://open.spotify.com/album/2oTtWk00SueRwfXCQnehkz) | 3:00 | 2024-02-12 | 2024-08-24 |
 | [Kanmaniye](https://open.spotify.com/track/5NWb5AM9bLVl16uvti29M1) | [A.R Sai Shravanya](https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Kanmaniye](https://open.spotify.com/album/2OApM7LsS0c25pXRFhfCSp) | 1:56 | 2024-04-18 | 2024-05-14 |
 | [Kanmoodiye](https://open.spotify.com/track/2IkUztqsbiqVPZutx7SPqX) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Sheyel Rajahselvam](https://open.spotify.com/artist/0tuS7DqEUTKWxChYOAn4ix) | [Kanmoodiye](https://open.spotify.com/album/5ME9QeRHBoS38pspVVNsVb) | 2:40 | 2023-05-08 | 2023-07-25 |

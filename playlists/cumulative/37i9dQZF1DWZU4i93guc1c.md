@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Лівінстон
 
-260 songs - 13 hr 37 min
+261 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [дім](https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [дім](https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2) | 3:25 | 2024-06-27 |  |
 | [жовта маршрутка](https://open.spotify.com/track/7CmYEWtL4Z0P390rwVAaJe) | [Sad Novelist](https://open.spotify.com/artist/4rOBmdIdNqYrYSRea6iYrh), [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [жовта маршрутка](https://open.spotify.com/album/5cdjf5b9V562DbZ0UDAfz7) | 3:39 | 2024-07-12 | 2024-08-24 |
 | [за кордоном](https://open.spotify.com/track/2jr5gE5SOP2EKBGZWxtimw) | [alekkksa](https://open.spotify.com/artist/3KiFi7CRRoB44ztX3jRyk0) | [за кордоном](https://open.spotify.com/album/1VR6uKHyaF3AmmzqqMJe7q) | 2:00 | 2024-06-27 |  |
-| [Завтра](https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Ти лиш людина](https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql) | 2:42 | 2024-06-27 |  |
+| [Завтра](https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Ти лиш людина](https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql) | 2:42 | 2024-06-27 | 2025-01-29 |
 | [Залишився лиш час](https://open.spotify.com/track/7wNXXcMRYL6zicbpBTWn3K) | [Загреб](https://open.spotify.com/artist/40ueLYPFI0jZYk5IwFKc9m) | [Чотири](https://open.spotify.com/album/7t0QsZ0hzqpHeErtk9FyIl) | 4:01 | 2024-11-07 | 2024-12-07 |
 | [зараза](https://open.spotify.com/track/3ekw5hzooduEyOMT1KuhCv) | [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB) | [la princesse lointaine](https://open.spotify.com/album/4u2v95ipAG1S6RlmiYqaC5) | 4:27 | 2024-12-06 |  |
 | [Засинаю перша](https://open.spotify.com/track/5Vuo5Irn3JzftTZkADcOCI) | [bulovinova](https://open.spotify.com/artist/3hGfs6Hess99rJjiCjpd3P) | [Засинаю перша](https://open.spotify.com/album/4BumJN5T1QfIxuSjhQBpg1) | 3:00 | 2024-07-26 | 2024-08-24 |
@@ -120,6 +120,7 @@
 | [ЛЮ](https://open.spotify.com/track/1NiqYMudAIfNAd7plZuAF2) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [ЛЮ](https://open.spotify.com/album/4TLaoBBeCAWxtsde3fy9ZI) | 4:37 | 2024-08-23 | 2024-09-14 |
 | [любити тебе](https://open.spotify.com/track/4hE2CMLBColBSmXJ3ursdM) | [sadagain](https://open.spotify.com/artist/7zuQRIjvU5KfSLLsx7ZdUE) | [любити тебе](https://open.spotify.com/album/4vrR8WywuYIuDjY42SEe7G) | 3:06 | 2024-09-13 | 2024-10-05 |
 | [Любов](https://open.spotify.com/track/7tuGvhNiWhhfvzePO3A6Q9) | [19.99](https://open.spotify.com/artist/5ePkQVN5GwTkqemJx7Sf6J) | [Мине](https://open.spotify.com/album/12ZLZyMvPCmsL509w2YVDf) | 4:11 | 2024-10-18 | 2024-11-08 |
+| [Любов і cтрах](https://open.spotify.com/track/2AkbnoKlA9oCeSjFx3JW4s) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Любов і cтрах](https://open.spotify.com/album/1631pNLFhHVOFBCN6fcLgM) | 2:39 | 2025-01-24 |  |
 | [Літаки](https://open.spotify.com/track/5z24bFb6wVGEBcUyFxhI71) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Літаки](https://open.spotify.com/album/6WIUzRFfs0JQNkkZuQ5Sde) | 3:25 | 2025-01-24 |  |
 | [Літали](https://open.spotify.com/track/7fhvzRmnvP9mW5nizR72VT) | [oneWITCH](https://open.spotify.com/artist/6XT4wI1kBZXB8T6jqiGt1x), [Romario Punch](https://open.spotify.com/artist/7B3vqR7S1Hpvv36njQADVp) | [Літали](https://open.spotify.com/album/0AOtKE2TagI9hrwZrSDPlM) | 3:00 | 2024-09-13 | 2024-10-05 |
 | [Літо](https://open.spotify.com/track/6rEc1q1piCjkv5nQoUkPHJ) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Літо](https://open.spotify.com/album/019UYD8c4sKIZD35H36nlc) | 3:05 | 2024-07-26 | 2024-12-07 |

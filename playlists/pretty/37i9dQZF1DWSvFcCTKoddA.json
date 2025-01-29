@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3utsQAAAACU6n9xgz7HR2PDbOankIy6",
+  "snapshot_id": "Z5kHzgAAAABzZ2Bwnu473KwBpNN4h9Ah",
   "tracks": [
     {
       "added_at": "2025-01-06 10:14:58",
@@ -247,6 +247,198 @@
       "duration_ms": 3142243,
       "name": "\u00abTerminator 2\u00bb: \u00abHasta la vista\u00bb, les 90's",
       "url": "https://open.spotify.com/episode/0cZeMyZj8hCcsdfLrzKO0C"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "4 quarts d'heure",
+        "url": "https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt"
+      },
+      "artists": [
+        {
+          "name": "4 quarts d'heure",
+          "url": "https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt"
+        }
+      ],
+      "duration_ms": 3609338,
+      "name": "Avant le gouda ti\u00e8de",
+      "url": "https://open.spotify.com/episode/4TJ8JgYMJr2ExTFYJNLBTE"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "4 quarts d'heure",
+        "url": "https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt"
+      },
+      "artists": [
+        {
+          "name": "4 quarts d'heure",
+          "url": "https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt"
+        }
+      ],
+      "duration_ms": 4360594,
+      "name": "Avant les conversations de fluncheuses",
+      "url": "https://open.spotify.com/episode/4IqA4R188ehtNmeXnx5nc8"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "4 quarts d'heure",
+        "url": "https://open.spotify.com/album/0OQRKVaTHSbzXD9fwwO8bt"
+      },
+      "artists": [
+        {
+          "name": "4 quarts d'heure",
+          "url": "https://open.spotify.com/show/0OQRKVaTHSbzXD9fwwO8bt"
+        }
+      ],
+      "duration_ms": 4469812,
+      "name": "Avant de respirer le paillasson",
+      "url": "https://open.spotify.com/episode/39rHDa32wV8ymvjXMyXnpb"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "SUR PAROLE !",
+        "url": "https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV"
+      },
+      "artists": [
+        {
+          "name": "SUR PAROLE !",
+          "url": "https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV"
+        }
+      ],
+      "duration_ms": 6404545,
+      "name": "\"Voici les clefs\" avec Florent Bernard",
+      "url": "https://open.spotify.com/episode/6YU2ZEu7S8dZknun1UYIX7"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "SUR PAROLE !",
+        "url": "https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV"
+      },
+      "artists": [
+        {
+          "name": "SUR PAROLE !",
+          "url": "https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV"
+        }
+      ],
+      "duration_ms": 4553534,
+      "name": "\"Les Marquises\" avec Herv\u00e9",
+      "url": "https://open.spotify.com/episode/09EgTzGLrNEIsxErcxissl"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "SUR PAROLE !",
+        "url": "https://open.spotify.com/album/7gTm3tG09OCQrxhJHIuhIV"
+      },
+      "artists": [
+        {
+          "name": "SUR PAROLE !",
+          "url": "https://open.spotify.com/show/7gTm3tG09OCQrxhJHIuhIV"
+        }
+      ],
+      "duration_ms": 4199418,
+      "name": "\"Le chat\" avec J\u00e9rome Niel",
+      "url": "https://open.spotify.com/episode/0BYFLbAq1GE0WKNtgKFwmk"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "Garce Therapy",
+        "url": "https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y"
+      },
+      "artists": [
+        {
+          "name": "Garce Therapy",
+          "url": "https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y"
+        }
+      ],
+      "duration_ms": 2258902,
+      "name": "Se faire boloss en amour",
+      "url": "https://open.spotify.com/episode/1kDp07WITosfn1lBzZt1Kd"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "Garce Therapy",
+        "url": "https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y"
+      },
+      "artists": [
+        {
+          "name": "Garce Therapy",
+          "url": "https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y"
+        }
+      ],
+      "duration_ms": 2474573,
+      "name": "Cher journal (update life omg)",
+      "url": "https://open.spotify.com/episode/6bQIlujl7Aaf4JGSU1YDWM"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "Garce Therapy",
+        "url": "https://open.spotify.com/album/1YQ5Yuzt8nuPY1s76T261Y"
+      },
+      "artists": [
+        {
+          "name": "Garce Therapy",
+          "url": "https://open.spotify.com/show/1YQ5Yuzt8nuPY1s76T261Y"
+        }
+      ],
+      "duration_ms": 2048222,
+      "name": "Simple connexion ou relation amoureuse? (ou tu te cr\u00e9e une connexion solo?)",
+      "url": "https://open.spotify.com/episode/3WUiEOOIT1SKZZar0pVQp4"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "Tchatcheuse",
+        "url": "https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ"
+      },
+      "artists": [
+        {
+          "name": "Tchatcheuse",
+          "url": "https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ"
+        }
+      ],
+      "duration_ms": 3085087,
+      "name": "Juliette Katz - \"J\u2019ai jamais bu de margarita de ma vie\"",
+      "url": "https://open.spotify.com/episode/4pARlnLT2XTiq9bbEHCoSe"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "Tchatcheuse",
+        "url": "https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ"
+      },
+      "artists": [
+        {
+          "name": "Tchatcheuse",
+          "url": "https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ"
+        }
+      ],
+      "duration_ms": 1631425,
+      "name": "J'emm\u00e9nage avec Monsieur de Brauer",
+      "url": "https://open.spotify.com/episode/7qGa1yqTIp02WqL8E7MTO8"
+    },
+    {
+      "added_at": "2025-01-28 16:37:34",
+      "album": {
+        "name": "Tchatcheuse",
+        "url": "https://open.spotify.com/album/3p4s3zc4zbJVBhlVS8yZbJ"
+      },
+      "artists": [
+        {
+          "name": "Tchatcheuse",
+          "url": "https://open.spotify.com/show/3p4s3zc4zbJVBhlVS8yZbJ"
+        }
+      ],
+      "duration_ms": 3561639,
+      "name": "Pierre Delahousse - \"Je mangeais la fourchette en bois\"",
+      "url": "https://open.spotify.com/episode/1XQxu8J4s6svFGWilzPPNH"
     }
   ],
   "unique_name": "RADAR Creators France",

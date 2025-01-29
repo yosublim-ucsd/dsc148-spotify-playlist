@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Saanvarey",
+        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170226,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/2oA9FIc8oL4D7niCdfm6Rb"
+    },
+    {
+      "album": {
         "name": "She Do",
         "url": "https://open.spotify.com/album/7KnSdU7mu0fvU1M4gl8Ct7"
       },

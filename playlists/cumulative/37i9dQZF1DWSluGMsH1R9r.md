@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-718 songs - 1 day 6 hr 44 min
+719 songs - 1 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Affection](https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Affection](https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR) | 3:27 | 2023-12-12 |  |
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-07 | 2023-08-06 |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 |  |
-| [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 |  |
+| [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 | 2025-01-29 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2021-12-07 | 2023-01-27 |
 | [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 |  |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 | 2023-07-25 |
@@ -279,7 +279,7 @@
 | [In Qualsiasi Momento](https://open.spotify.com/track/19UBwInMQqv987LmQdvu6I) | [Gionata Accursio](https://open.spotify.com/artist/5xz3FUiqpxBD1z2u6SPx09) | [In Qualsiasi Momento](https://open.spotify.com/album/2eOVzvYDY3OHTeta59uCMQ) | 2:44 | 2021-12-07 | 2023-01-27 |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2021-12-07 | 2023-01-27 |
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2021-12-07 |  |
-| [In the clouds](https://open.spotify.com/track/3hnm4zvIqFhz6FsWK2O6HM) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [In the clouds](https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD) | 2:03 | 2023-10-04 |  |
+| [In the clouds](https://open.spotify.com/track/3hnm4zvIqFhz6FsWK2O6HM) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [In the clouds](https://open.spotify.com/album/5LXcMPLisz4OwQgaAkuwSD) | 2:03 | 2023-10-04 | 2025-01-29 |
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2021-12-07 |  |
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-12-07 | 2022-09-15 |
 | [Indivision](https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Indivision](https://open.spotify.com/album/7ANmCCI9lzaAsthwF8QcHd) | 2:48 | 2021-12-07 | 2022-07-16 |
@@ -399,6 +399,7 @@
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-01-04 |  |
 | [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2021-12-07 | 2023-12-15 |
 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 | 2022-02-15 |  |
+| [Morning Light](https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Morning Light](https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg) | 2:26 | 2025-01-28 |  |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-03-01 | 2024-02-06 |
 | [Mornings With You](https://open.spotify.com/track/1eJ4ZttuJo0O4hFTVUbT1t) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Mornings With You](https://open.spotify.com/album/0XxTFCTiJE90ttX2klGpMf) | 2:19 | 2024-03-19 |  |
 | [Mother May I](https://open.spotify.com/track/46yWOqnL99hM5O7OD0Y8Tf) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Mother May I](https://open.spotify.com/album/5nJnrCHJTzd429URLTrfch) | 2:34 | 2021-12-07 | 2022-12-24 |
@@ -460,7 +461,7 @@
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-01-18 |  |
 | [Passage sombre](https://open.spotify.com/track/4w4Q3SAYzhKrHgfht808pu) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:14 | 2023-10-17 | 2023-11-20 |
 | [Passage sombre](https://open.spotify.com/track/5smttO5h6jZ8dQor21hMkE) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Obscur Chemin](https://open.spotify.com/album/055lgvZKUwKdN8LHpXBZJo) | 2:14 | 2023-11-08 | 2024-04-19 |
-| [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-17 |  |
+| [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-17 | 2025-01-29 |
 | [patience and fortitude](https://open.spotify.com/track/3EVyJJ54XT7cCJOdAoO5MC) | [lady piano](https://open.spotify.com/artist/1PSFYJJ2psCIar4J01bpy0) | [big sky](https://open.spotify.com/album/4Fsxc3VBsEYAUAuig3h4fU) | 2:26 | 2021-12-07 | 2023-05-20 |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-03-01 |  |
 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 | 2023-09-05 |  |
@@ -520,7 +521,7 @@
 | [Reunion](https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Reunion](https://open.spotify.com/album/0hAXloydsGGgAFO1hjgGhl) | 2:27 | 2021-12-07 | 2024-05-04 |
 | [Revenons à nos moutons](https://open.spotify.com/track/6M97uxgvb8dEPDIetC7OgD) | [Dagmar Collier](https://open.spotify.com/artist/7GMPam14aifoeTdBmapBTj) | [Revenons à nos moutons](https://open.spotify.com/album/3XHKfh5KIesbw1eps3fLmt) | 2:35 | 2021-12-07 | 2024-04-04 |
 | [Reverence](https://open.spotify.com/track/5q2VSybNASfP0KNdAQRDY8) | [Fouad Elalamy](https://open.spotify.com/artist/6Or9xpEuw1FBRFX6BrVmqQ) | [Reverence](https://open.spotify.com/album/2TjufIYzYzKd17aScCxQMc) | 1:59 | 2021-12-07 | 2022-07-16 |
-| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2021-12-07 |  |
+| [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 | 2021-12-07 | 2025-01-29 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2021-12-07 | 2024-04-04 |
 | [Rites of Passage](https://open.spotify.com/track/3m9k6Jc0EvtZEQLUfYd0e9) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Rites of Passage](https://open.spotify.com/album/7AJ5Hb0pp2go5xuGBenQ8h) | 3:11 | 2021-12-07 | 2022-07-16 |
 | [River Running Free](https://open.spotify.com/track/2qCzkyUdNWxGY0lQh0jp8F) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [River Running Free](https://open.spotify.com/album/0BQOiGn059PbJJtbi6VwGU) | 2:16 | 2021-12-07 |  |

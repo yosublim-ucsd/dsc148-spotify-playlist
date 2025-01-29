@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 143581,
+  "num_followers": 143723,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 250813,
       "name": "Don't You Know I Care",
       "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "First Place Again",
-        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 331666,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Candy (Remastered)",
         "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 447173,
       "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
       "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "First Place Again",
+        "url": "https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 331666,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Jazz 'N' Samba",
         "url": "https://open.spotify.com/album/75ZXFJKRQvlXnHxF8fgRHG"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 277013,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Try Your Wings",
+      "url": "https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
         "name": "Amoureusement V\u00f4tre",
         "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 186506,
       "name": "Misty",
       "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
-        "name": "Loads Of Love",
-        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 231826,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+        "name": "Loads Of Love",
+        "url": "https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
         }
       ],
-      "duration_ms": 203733,
-      "name": "Try Your Wings",
-      "url": "https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW"
+      "duration_ms": 231826,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -795,6 +795,22 @@
       "duration_ms": 168866,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Lover Man (Oh Where Can You Be)",
+      "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -863,22 +879,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Lover Man (Oh Where Can You Be)",
-      "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Stairway To The Stars",
-      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
       "artists": [
         {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 165400,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+      "duration_ms": 185786,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -991,6 +975,22 @@
       "duration_ms": 210973,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+        "name": "I Remember Miles",
+        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
       },
       "artists": [
         {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
         }
       ],
-      "duration_ms": 413080,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
+      "duration_ms": 334626,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "I Remember Miles",
-        "url": "https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd"
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
       },
       "artists": [
         {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 334626,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm"
+      "duration_ms": 413080,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/3nVZEmGoRp4uId0LRTdcfm"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Blue Hour",
-        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine & The Three Sounds",
-          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
-        }
-      ],
-      "duration_ms": 323333,
-      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
-      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Verve Jazz Masters 43: Ben Webster",
         "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 436573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine & The Three Sounds",
+          "url": "https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F"
+        }
+      ],
+      "duration_ms": 323333,
+      "name": "Gee Baby, Ain't I Good To You - Remastered/2000",
+      "url": "https://open.spotify.com/track/5mumAplqD8ecZ5zPuLj02B"
     },
     {
       "added_at": "2025-01-20 15:39:56",

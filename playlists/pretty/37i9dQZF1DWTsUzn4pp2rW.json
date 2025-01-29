@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 168722,
+  "num_followers": 168815,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "I Never Can Say Goodbye",
-        "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
-      },
-      "artists": [
-        {
-          "name": "Tiny Little Bigband",
-          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
-        }
-      ],
-      "duration_ms": 253816,
-      "name": "I Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "That's What Friends Are For",
         "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 223986,
       "name": "That's What Friends Are For",
       "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "I Never Can Say Goodbye",
+        "url": "https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU"
+      },
+      "artists": [
+        {
+          "name": "Tiny Little Bigband",
+          "url": "https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ"
+        }
+      ],
+      "duration_ms": 253816,
+      "name": "I Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "A Voice",
-        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "A Voice",
-      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Sunshine & Lullaby",
         "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 247986,
       "name": "Sunshine & Lullaby",
       "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "A Voice",
+        "url": "https://open.spotify.com/album/0gWAFxYHIKQRi9fpNqEo3M"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "A Voice",
+      "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "All For One",
-        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Softer Than You Know",
         "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 208013,
       "name": "Softer Than You Know",
       "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+        "name": "River",
+        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
       },
       "artists": [
         {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+          "name": "Lyambiko",
+          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
         }
       ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+      "duration_ms": 177680,
+      "name": "River",
+      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq"
+        "name": "Melodic Canvas",
+        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
       },
       "artists": [
         {
-          "name": "Lyambiko",
-          "url": "https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK"
+          "name": "Robin Mckelle",
+          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
         }
       ],
-      "duration_ms": 177680,
-      "name": "River",
-      "url": "https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj"
+      "duration_ms": 207396,
+      "name": "Do You Believe",
+      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
     },
     {
       "added_at": "2024-09-18 05:02:09",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-09-18 05:02:09",
       "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
-      },
-      "artists": [
-        {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
-        }
-      ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
-    },
-    {
-      "added_at": "2024-09-18 05:02:09",
-      "album": {
         "name": "Love Rushes Past",
         "url": "https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 160629,
       "name": "The Light",
       "url": "https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N"
+    },
+    {
+      "added_at": "2024-09-18 05:02:09",
+      "album": {
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
+      },
+      "artists": [
+        {
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
+        }
+      ],
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2024-09-18 05:02:09",

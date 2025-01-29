@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: NXNNI",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Ang\u00e9lica Gallegos ",
   "name": "Women of M\u00fasica Mexicana",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 167710,
       "name": "8-MER",
       "url": "https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda"
@@ -666,6 +666,24 @@
       "duration_ms": 196960,
       "name": "A\u00fan As\u00ed Te Vas",
       "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
+    },
+    {
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/4mWjo0GCQ0LaFZOrZppIEI"
+      },
+      "artists": [
+        {
+          "name": "Domenica",
+          "url": "https://open.spotify.com/artist/2Sx37QWa4qXUVVDI67pTvX"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177150,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/2yTBoj98BbfJx72n3Npbt2"
     },
     {
       "album": {
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 274920,
       "name": "Cuando Te Acuerdes de M\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/78sgRUUe099BRWVyAWYseP"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 198000,
       "name": "Cu\u00e9ntenle Mentiras",
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
@@ -1739,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "Do\u00f1a Soledad",
+        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140997,
+      "name": "Do\u00f1a Soledad",
+      "url": "https://open.spotify.com/track/4QhqXxZK9nm914O4N8URAf"
+    },
+    {
+      "album": {
         "name": "D\u00edmelo",
         "url": "https://open.spotify.com/album/72CYmTcycgqYeuobtAIp2C"
       },
@@ -1790,6 +1826,24 @@
       "duration_ms": 145518,
       "name": "El Bato Gacho",
       "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
+    },
+    {
+      "album": {
+        "name": "El Beso",
+        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155645,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
     },
     {
       "album": {
@@ -2515,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/1WQjrvnjK6hrI1qJMLTWzE"
+      },
+      "artists": [
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173613,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/1sjqFkrXXF8FrmMr19HXUo"
+    },
+    {
+      "album": {
         "name": "Fayer",
         "url": "https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB"
       },
@@ -3181,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "La Cuadrada",
+        "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160557,
+      "name": "La Cuadrada",
+      "url": "https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk"
+    },
+    {
+      "album": {
         "name": "La Fama de una Dama",
         "url": "https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d"
       },
@@ -3710,7 +3804,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 180000,
       "name": "Lento",
       "url": "https://open.spotify.com/track/24ntAnWA1WbHGsGvKmHho8"
@@ -4097,6 +4191,28 @@
     },
     {
       "album": {
+        "name": "Me Quedar\u00e9 Por Siempre",
+        "url": "https://open.spotify.com/album/7qJYXzIyDwpYbW1AQqJ03z"
+      },
+      "artists": [
+        {
+          "name": "Patricia Manterola",
+          "url": "https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf"
+        },
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Me Quedar\u00e9 Por Siempre",
+      "url": "https://open.spotify.com/track/6aekf4PNWIbreHKb1j4fL1"
+    },
+    {
+      "album": {
         "name": "Me Siento Libre",
         "url": "https://open.spotify.com/album/0FhCXa7BsBO0118NhJkzoU"
       },
@@ -4180,7 +4296,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 191040,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
@@ -4288,7 +4404,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 188087,
       "name": "Mentirme",
       "url": "https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY"
@@ -6926,7 +7042,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 206960,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
@@ -8310,6 +8426,24 @@
       "duration_ms": 181510,
       "name": "Ya No Recuerdo",
       "url": "https://open.spotify.com/track/2UEXaEG7eV345Pi91OcWOu"
+    },
+    {
+      "album": {
+        "name": "Ya No Te Pienso",
+        "url": "https://open.spotify.com/album/1Q1lcynXqfrHqOqc4LyEAS"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252002,
+      "name": "Ya No Te Pienso",
+      "url": "https://open.spotify.com/track/3OCA4OmfJEzdQHCHzkh3TN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,598 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,612 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 43 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
 | 44 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
 | 45 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
-| 46 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
+| 46 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 |
 | 47 | [Andrea](https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros:Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 4:09 |
-| 48 | [Para la Gilada](https://open.spotify.com/track/0C2m7ZH8czZ1nnaVJlZtrt) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 3:42 |
+| 48 | [Los Dueños del Pabellon](https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 4:36 |
 | 49 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 |
 | 50 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
 | 51 | [Le Hace Falta un Beso](https://open.spotify.com/track/0I8QHW2T9Eqj4QWRIiKwRK) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Le Hace Falta un Beso](https://open.spotify.com/album/6qLZAeyYDTZ4MdFGBipbgP) | 3:19 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 59 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 |
 | 60 | [Otra Como Tú](https://open.spotify.com/track/67ghG6n5zTVWoL77V37lCf) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 4:18 |
 | 61 | [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 |
-| 62 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
+| 62 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 |
 | 63 | [Mix El Polaco \- Fer Palacio](https://open.spotify.com/track/1CXg6010Ab3qHAXIhdcZ3e) | [Fer Palacio Records](https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Mix El Polaco \- Fer Palacio](https://open.spotify.com/album/3HGJm8M1Qk1svADoSqS4rV) | 6:06 |
 | 64 | [Su Florcita / Me Enamore / Mamá Soltera](https://open.spotify.com/track/2VSr8RL982OWsEBY5u2CRC) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Su Florcita / Me Enamore / Mamá Soltera](https://open.spotify.com/album/3hJl2Ml4WZsRbcHF4OWERf) | 5:36 |
 | 65 | [Eres Mi Amor](https://open.spotify.com/track/6EYjGhtDE4kuCg8aVsl1wE) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Eres Mi Amor](https://open.spotify.com/album/5b3RpCBKpJae2pzAhGDwnm) | 3:00 |
 | 66 | [La pollera amarilla](https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE), [Gladys La Bomba Tucumana](https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ) | [Un sueño hecho realidad](https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj) | 3:06 |
-| 67 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 |
+| 67 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
 | 68 | [Por Lo Que Yo Te Quiero](https://open.spotify.com/track/5fI4LBI23D3JkgRCePYvPV) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [Pasión Cuartetera](https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs) | 4:02 |
 | 69 | [Mujer Que Mal Me Pagas](https://open.spotify.com/track/76nWePJSD6vm3jWimfTDSf) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Bombón Asesino 2x1](https://open.spotify.com/album/0AXRHei4oJG0laULFbGAMe) | 3:38 |
 | 70 | [Dime si eres feliz](https://open.spotify.com/track/5VNipMioOFUAdeUEfC5hkb) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 2:09 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 75 | [No Puedo Olvidarla](https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Tropicalisima 2015](https://open.spotify.com/album/1uu0RbV3je5BzBA3sp45Al) | 3:23 |
 | 76 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 |
 | 77 | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Session \#2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar](https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7) | 8:14 |
-| 78 | [Que Ves](https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Que Ves](https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg) | 4:03 |
-| 79 | [Como Olvidarme](https://open.spotify.com/track/1l44SjqWN8MpmaOHjAFUvj) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Como Olvidarme](https://open.spotify.com/album/2Q4QQNuTsCdwPnhiGbYdvf) | 3:37 |
+| 78 | [Como Olvidarme](https://open.spotify.com/track/1l44SjqWN8MpmaOHjAFUvj) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Como Olvidarme](https://open.spotify.com/album/2Q4QQNuTsCdwPnhiGbYdvf) | 3:37 |
+| 79 | [Que Ves](https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Que Ves](https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg) | 4:03 |
 | 80 | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/track/1lWow3lJ1a1IsYVxwrpgfB) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI) | [Manos de Tijera / Si Decides Regresar](https://open.spotify.com/album/2hnn4f8Y85b6dEJVSU681U) | 3:18 |
 
 Snapshot ID: `Z5eihgAAAADYs+ClJqZPoxAJxKeO+ChP`

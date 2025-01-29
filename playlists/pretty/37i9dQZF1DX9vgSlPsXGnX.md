@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento antigüito de los boleros te envuelva con amor y nostalgia 💖🎵🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,058 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,074 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 24 | [Todo Me Gusta de Ti](https://open.spotify.com/track/6xy2QxEdp2gopEFHfPMXof) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Aunque Me Cueste la Vida](https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2) | 2:41 |
 | 25 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
 | 26 | [Contigo Aprendí](https://open.spotify.com/track/7IcqJ3eMGs7pJ1BOCgPSFu) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 1:58 |
-| 27 | [Entre Tu Amor Y Mi Amor](https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 3:09 |
-| 28 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
+| 27 | [Cha Cha Linda](https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [RCA 100 Años de Música](https://open.spotify.com/album/4mNUyuDnmgm2GGe9qnW7Y1) | 3:00 |
+| 28 | [Entre Tu Amor Y Mi Amor](https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 3:09 |
 | 29 | [Novia Mía](https://open.spotify.com/track/5IJ691iklYJBremu40wZLI) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [The Golden Record, Vol\. 1](https://open.spotify.com/album/60IfvvlBBoGXZpCFVS6KSF) | 2:31 |
 | 30 | [Regálame Esta Noche](https://open.spotify.com/track/0fkRaCCLExhD6SisSRntlw) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Frente a Frente de Tríos](https://open.spotify.com/album/0TibhurVSsO5rf4tq4hEy9) | 3:18 |
 | 31 | [Cariñito Azucarado](https://open.spotify.com/track/4nDsWyejqWUNnz0j48scEr) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Inspiraciones de Siempre](https://open.spotify.com/album/5WqiZbb9eQc94BodQYVaLI) | 2:47 |

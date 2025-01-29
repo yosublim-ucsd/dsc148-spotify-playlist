@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,046 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,019 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 17 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
 | 18 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 19 | [The Spark](https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH) | [Kabin Crew](https://open.spotify.com/artist/6BHou7i94KE1FpHgDVWZEK), [Lisdoonvarna Crew](https://open.spotify.com/artist/7BUWoquo4gsA4kREUujbSi) | [The Spark](https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW) | 2:26 |
-| 20 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
-| 21 | [Monster](https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig) | 2:24 |
+| 20 | [Monster](https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig) | 2:24 |
+| 21 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
 | 22 | [Feeling Good](https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Feeling Good](https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk) | 3:23 |
 | 23 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 |
 | 24 | [Rockafeller Skank](https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Rockafeller Skank](https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD) | 2:25 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 55 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 |
 | 56 | [Sommarnätter](https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Sommarnätter](https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu) | 2:24 |
 | 57 | [ALLA FÅR KOMMA](https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [ALLA FÅR KOMMA](https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8) | 2:24 |
-| 58 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
-| 59 | [Vad bänkar du?](https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [Vad bänkar du?](https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv) | 2:47 |
+| 58 | [Vad bänkar du?](https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [Vad bänkar du?](https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv) | 2:47 |
+| 59 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
 | 60 | [MEDVETSLÖS](https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [MEDVETSLÖS](https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH) | 3:04 |
 | 61 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
 | 62 | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Skurk3n](https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW) | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3) | 2:12 |

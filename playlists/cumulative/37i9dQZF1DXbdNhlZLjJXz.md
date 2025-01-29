@@ -2,7 +2,7 @@
 
 ### [hot girl walk](https://open.spotify.com/playlist/37i9dQZF1DXbdNhlZLjJXz)
 
-> Why y'all gagging? It's Lexi Love
+> We love an Alter Ego\. Cover: Crystal Envy
 
 295 songs - 16 hr 15 min
 

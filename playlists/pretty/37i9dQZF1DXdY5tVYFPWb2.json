@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 169744,
+  "num_followers": 169774,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
       },
@@ -515,26 +531,6 @@
       "duration_ms": 248098,
       "name": "TOMODACHI",
       "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "Drink!",
-        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "Drink!",
-      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -639,18 +635,22 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
       "artists": [
         {
           "name": "DURDN",
           "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
         }
       ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 325898,
+      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
+      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 325898,
-      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
-      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "Kiss Me, Winter",
         "url": "https://open.spotify.com/album/1ZldWWMOJLK3tQYTFmGBPU"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+        "name": "RIDE ON TIME",
+        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
       },
       "artists": [
         {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+          "name": "BENI",
+          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
         }
       ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+      "duration_ms": 244752,
+      "name": "RIDE ON TIME",
+      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "RIDE ON TIME",
-        "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
-      },
-      "artists": [
-        {
-          "name": "BENI",
-          "url": "https://open.spotify.com/artist/0b2fntUmu7kE2EYjX31tZI"
-        }
-      ],
-      "duration_ms": 244752,
-      "name": "RIDE ON TIME",
-      "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -1319,6 +1319,26 @@
       "duration_ms": 223808,
       "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Hikari",
+          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
+        }
+      ],
+      "duration_ms": 275912,
+      "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1355,26 +1375,6 @@
       "duration_ms": 252706,
       "name": "\u6563\u308b\u6563\u308b\u6e80\u3061\u308b",
       "url": "https://open.spotify.com/track/5N8xU3TeSLHgS0Xxb4a8zA"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Hikari",
-          "url": "https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw"
-        }
-      ],
-      "duration_ms": 275912,
-      "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "noidleap",
+        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 203863,
+      "name": "Noidleap",
+      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "\u604b\u6a19",
         "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "noidleap",
-        "url": "https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 203863,
-      "name": "Noidleap",
-      "url": "https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1511,6 +1511,30 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a) [Jafunk Remix]",
+        "url": "https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "duration_ms": 217625,
+      "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
+      "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "FEEL GOOD",
         "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
       },
@@ -1539,30 +1563,6 @@
       "duration_ms": 240164,
       "name": "Night Cruising",
       "url": "https://open.spotify.com/track/6cXKmE0S0dlEjevSaQoRgU"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "Sweet Escape (feat. \u3072\u304b\u308a) [Jafunk Remix]",
-        "url": "https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
-        }
-      ],
-      "duration_ms": 217625,
-      "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
-      "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
     },
     {
       "added_at": "2024-09-25 04:21:27",

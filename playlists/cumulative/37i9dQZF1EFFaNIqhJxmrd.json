@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "the wind is picking up",
+        "url": "https://open.spotify.com/album/0zo7swJcqnoxLTWvBAtl19"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "end of the world",
+      "url": "https://open.spotify.com/track/1ZoCqQEuhoOEW4PQhVDovL"
+    },
+    {
+      "album": {
         "name": "Ensam",
         "url": "https://open.spotify.com/album/4XswCp5Y7hqGCLeyAVCa8n"
       },
@@ -1134,6 +1152,24 @@
       "duration_ms": 206000,
       "name": "Ingenting har gjort s\u00e5 ont",
       "url": "https://open.spotify.com/track/4aNxEqnVKKjbkwx3TdvJX7"
+    },
+    {
+      "album": {
+        "name": "Inget som g\u00f6r ont, g\u00f6r ont 4ever",
+        "url": "https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148697,
+      "name": "Inget som g\u00f6r ont, g\u00f6r ont 4ever",
+      "url": "https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR"
     },
     {
       "album": {

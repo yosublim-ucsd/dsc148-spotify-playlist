@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-529 songs - 1 day 6 hr 14 min
+531 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Run](https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:48 | 2024-01-29 |  |
 | [Run \(with Mariah Angeliq\) \- Latin Version](https://open.spotify.com/track/0RpCZ17BXI0x8b14UFrgDQ) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Run \(with Mariah Angeliq\) \[Latin Version\]](https://open.spotify.com/album/7tXGtR2l4iE3kvuCzFqLxL) | 2:16 | 2024-01-29 |  |
 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 | 2024-01-29 |  |
+| [Run It](https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Run It](https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym) | 2:39 | 2025-01-28 |  |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2024-01-31 | 2024-07-15 |
 | [RUNAWAY](https://open.spotify.com/track/2LsFnG9KYkWSk8dVopmHw2) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:25 | 2024-07-14 |  |
 | [RUNAWAY](https://open.spotify.com/track/3C5AsFcPYH5XbcssxenJkS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/4Lz2PWcpIOgjHv9Ckyfdex) | 3:28 | 2024-01-29 | 2024-02-01 |
@@ -537,5 +538,6 @@
 | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/5gzZnru34wdecgMUQR2UO0) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:42 | 2024-01-29 |  |
 | [Young \- From "Songland"](https://open.spotify.com/track/7nzxQacflIozCTLTiBl4JB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Young \(From "Songland"\)](https://open.spotify.com/album/5gUfxcxbwFbKjXuz0Trknk) | 3:05 | 2024-01-29 |  |
 | [Your Touch](https://open.spotify.com/track/5ZYzaROQcMP8xRqS1IFbvg) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Portrait of a Chameleon](https://open.spotify.com/album/3zDwRMZFU40RY48WK85PtX) | 3:53 | 2024-01-29 |  |
+| [You’ll Be There \(with Justin Timberlake\)](https://open.spotify.com/track/2GwlfJ7w8UeicKIxTClmyW) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 3:21 | 2025-01-28 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

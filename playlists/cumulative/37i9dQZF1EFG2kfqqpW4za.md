@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 4 hr 51 min
+71 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 | 2025-01-28 |  |
 | [Ame Sua Missão](https://open.spotify.com/track/0jERDLXffwCjTU5Td5zIXK) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:23 | 2022-06-04 |  |
 | [Amizade Pura](https://open.spotify.com/track/6PBAUqWSj0HQFOU715kCLj) | [José Punho Forte Rodrigues](https://open.spotify.com/artist/2oHZ01dSsEw7B9bmyySKGo), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Amizade Pura](https://open.spotify.com/album/3zi8PK2lpLMQbyxTwlQwSy) | 3:40 | 2022-06-04 |  |
 | [Aonde Vai Chegar \(Coisa Feia\)](https://open.spotify.com/track/6v9305hQPLCujklnSmHmrH) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 4:08 | 2022-06-04 |  |

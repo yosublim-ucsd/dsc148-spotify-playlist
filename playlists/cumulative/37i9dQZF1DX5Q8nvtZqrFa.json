@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "\u65b0\u661f\u76ee\u9332",
+        "url": "https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179744,
+      "name": "Caramel Pain",
+      "url": "https://open.spotify.com/track/2XhNjx6wj3jRHbFWK2XrTl"
+    },
+    {
+      "album": {
         "name": "Dame Sengen",
         "url": "https://open.spotify.com/album/364xT6oAdsUCr5KXOg2ZYI"
       },
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 181226,
       "name": "\u3089\u3001\u306e\u306f\u306a\u3057",
       "url": "https://open.spotify.com/track/2tgWF9EZzqiq4Qzdzeow1A"
@@ -2079,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
+    },
+    {
+      "album": {
         "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
         "url": "https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr"
       },
@@ -2169,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "\u30c0\u30fc\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280666,
+      "name": "\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp"
+    },
+    {
+      "album": {
         "name": "\u5e7b\u71c8",
         "url": "https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms"
       },
@@ -2184,6 +2238,28 @@
       "duration_ms": 247666,
       "name": "\u30c1\u30ce\u30ab\u30c6",
       "url": "https://open.spotify.com/track/7HIfg6iQgXkVEUMHAAXW2d"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/2D3D5GaaGnwsmOOxt2VO1x"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        },
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "\u30c8\u30e9\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/3S1yxFHXYxMA7oVNJhJast"
     },
     {
       "album": {
@@ -2252,7 +2328,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 237400,
       "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
       "url": "https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG"
@@ -2378,7 +2454,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 225781,
       "name": "\u30e1\u30ea\u30d0",
       "url": "https://open.spotify.com/track/3UjEmhRZ0fGOrEFYQAQXsd"
@@ -2630,7 +2706,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 258207,
       "name": "\u512a\u3057\u3055\u306b\u6ea2\u308c\u305f\u4e16\u754c\u3067",
       "url": "https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE"
@@ -3447,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "\u97f3\u306e\u96e8\u3001\u8a00\u8449\u306f\u5098\u3001\u4eca\u304b\u3089\u541b\u3068\u4f1a\u3046\u3002",
+        "url": "https://open.spotify.com/album/2DUCu6cZa6rtLvigSD6ouy"
+      },
+      "artists": [
+        {
+          "name": "\u6620\u79c0\u3002",
+          "url": "https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223360,
+      "name": "\u77b3\u306b\u5438\u3044\u8fbc\u307e\u308c\u3066",
+      "url": "https://open.spotify.com/track/0Bmr9iqfrDHkSPxjBFcSC8"
+    },
+    {
+      "album": {
         "name": "ROUNDABOUT",
         "url": "https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay"
       },
@@ -3494,7 +3588,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 231133,
       "name": "\u7d21\u3050",
       "url": "https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: DJ Sliink
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,203 likes - 75 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,211 likes - 75 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 72 | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE) | [Ayo \(Jersey Club\) \[feat\. DJ Bake\]](https://open.spotify.com/album/6Cx4qSERqSayTwLFNjknbU) | 2:03 |
 | 73 | [70s](https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [POPULAR LONER](https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx) | 1:40 |
 | 74 | [Birthday](https://open.spotify.com/track/5sRBO1ghaklkYi0oZPe4yW) | [Fergie Baby](https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Kajun Waters](https://open.spotify.com/artist/3cIhFOWgz2wPhOchE2gUCY) | [Birthday](https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs) | 2:20 |
-| 75 | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/track/1dZfpzXVhQetMDqEavVvoA) | [DJ Bake](https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE), [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2) | [Boo'd Up \(Jersey Club\)](https://open.spotify.com/album/2bLhwd0GP1ok9qIrBlT6CV) | 2:24 |
+| 75 | [Buckle Up \- Remix](https://open.spotify.com/track/2yUBT6kMna2MHM7GSgtYJU) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U), [PGS Spence](https://open.spotify.com/artist/6hj6U8Z1Akxw93EKtbALqx), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Buckle Up](https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO) | 2:15 |
 
 Snapshot ID: `Z5eh7AAAAABnVuvZ08iDg8/Yllx0MBle`

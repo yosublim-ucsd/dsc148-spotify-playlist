@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-200 songs - 15 hr 24 min
+202 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bess, Oh Where's My Bess](https://open.spotify.com/track/2hpolv9C81h76XptArOZp6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Golden Star Collection Vol\. 1](https://open.spotify.com/album/7iMlhQfk9HhYdOqHu0tPDq) | 2:37 | 2024-07-24 |  |
 | [Blue Monday \- Live](https://open.spotify.com/track/0S4jFZ3gM4PthATf9Mb4Yl) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Blue Monday \- George Gershwin](https://open.spotify.com/album/2a8wLsJgQvPXgu8sy1Iubu) | 23:01 | 2024-07-24 |  |
 | [Blues](https://open.spotify.com/track/6CwgBJws07z2kMxAEUgnm0) | [George Gershwin & Harry James & His Orchestra](https://open.spotify.com/artist/1WzMQP8rALMVbSblBCFqvr) | [100% Classical Classics](https://open.spotify.com/album/6SMnljDHqrDhcpV3lVVV1R) | 4:12 | 2024-07-24 |  |
+| [Bricks & Bags](https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:42 | 2025-01-28 |  |
 | [Buzzard Song](https://open.spotify.com/track/1tKBKvIp0Nf9kMcFA8geFj) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 2:57 | 2024-07-24 |  |
 | [By Strauss](https://open.spotify.com/track/2ciXabBYqwolDxCVl3I0cn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 2:32 | 2024-07-24 |  |
 | [Carnival of the Animals: XIV\. Finale](https://open.spotify.com/track/34o2Cs7e6bhDyLIDo9NHKc) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Saint\-Saëns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose](https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R) | 2:07 | 2024-07-24 |  |
@@ -136,6 +137,7 @@
 | [On The Double](https://open.spotify.com/track/5DgvQdgGwYLqG4yK8owSRr) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [H.F.M\. 2 \(Hunger For More 2\)](https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS) | 2:49 | 2024-07-24 |  |
 | [Once](https://open.spotify.com/track/2jCjGgisq1fAGPhLXqCm5U) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Verve Jazz Masters 22: Billy Eckstine](https://open.spotify.com/album/4HU6gci1rDGzzra6JGTi5y) | 2:51 | 2025-01-09 |  |
 | [One Man](https://open.spotify.com/track/0geL00mBChQvKJlGoYWvFl) | [Martin Martini](https://open.spotify.com/artist/2mH3j2sF6WavBC62cQKfkX) | [Vienna 1913](https://open.spotify.com/album/0Vt2ZoSK5RGvKb8YGsxurA) | 1:19 | 2025-01-09 |  |
+| [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 | 2025-01-28 |  |
 | [Our Little Kitchenette](https://open.spotify.com/track/0AQlJlTXS8S812djx0LRJt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:22 | 2024-07-24 |  |
 | [Overflow](https://open.spotify.com/track/2DKtHTCrrdjIfISJe9uDLK) | [Bernt Rosengren Octet](https://open.spotify.com/artist/00YyCPR9UjuVm4UCypwhhR) | [Plays Porgy & Bess](https://open.spotify.com/album/1rfBJOOVXK7EENlH8M0UT7) | 3:21 | 2024-07-24 |  |
 | [Pay Some Attention to Me](https://open.spotify.com/track/6GnjjWJKJtSM5RSGaCF0WD) | [Lena Jansson](https://open.spotify.com/artist/4m4gSGFjX9mrzRrQUdnxVo), [Nils Lindberg Combo](https://open.spotify.com/artist/2jUufg1a3S5np12pTCdNqk) | [Jansson, Lena: That Certain Feeling](https://open.spotify.com/album/2bXBKhTIcmH4YI7kBEolIW) | 5:27 | 2024-07-24 |  |

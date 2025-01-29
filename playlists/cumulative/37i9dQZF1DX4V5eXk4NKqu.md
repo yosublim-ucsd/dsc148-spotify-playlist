@@ -4,7 +4,7 @@
 
 > The best of Latin Indie today, featuring Judeline.
 
-362 songs - 20 hr 33 min
+363 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 | 2022-12-02 | 2023-11-11 |
 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 | 2023-03-03 | 2024-03-31 |
 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 | 2022-03-10 | 2023-01-28 |
+| [Lejos de Ti](https://open.spotify.com/track/0phzfJn8NeT1LkbqfV2peI) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:59 | 2025-01-28 |  |
 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 | 2024-03-29 | 2024-12-08 |
 | [Live For Me](https://open.spotify.com/track/3wEa4oO2y9kuaPAbh4pzQb) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/6zGhZBWh0K0PolEhjLv1Km) | 3:31 | 2023-10-13 | 2024-12-07 |
 | [Llevo](https://open.spotify.com/track/02gaYAEdeR6poHcBH1KUQF) | [Luke Martinez](https://open.spotify.com/artist/6DJuKgrzKuEw211ZIRxxzz) | [Saccharine](https://open.spotify.com/album/30I9MlPFuQjg71yzt19XcB) | 3:03 | 2022-03-10 | 2022-09-07 |
@@ -315,7 +316,7 @@
 | [Te Quiero](https://open.spotify.com/track/2iAXpWs8ZoP3VOS94pb5lH) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [Te Quiero](https://open.spotify.com/album/0KuyusuKSGW5LkTfiTznNG) | 3:16 | 2022-03-10 | 2023-01-14 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 | 2022-12-14 | 2023-11-11 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2022-03-10 | 2022-09-07 |
-| [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 | 2023-11-10 |  |
+| [Tengo Que Hacer Esto Por Mi](https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Tengo Que Hacer Esto Por Mí](https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg) | 2:30 | 2023-11-10 | 2025-01-29 |
 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 | 2023-11-10 | 2024-03-26 |
 | [Terapia \- Remix](https://open.spotify.com/track/4IrbX1iwsvOHAstlaZT3XX) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Terapia \(Remix\)](https://open.spotify.com/album/3uNseXKMzM3Cl9GisbcUXz) | 3:18 | 2024-05-03 |  |
 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 | 2022-03-10 | 2022-09-07 |

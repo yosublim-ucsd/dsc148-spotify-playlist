@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 57526,
+  "num_followers": 57552,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -661,6 +661,22 @@
       "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
     },
     {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "Up + Up",
+        "url": "https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 163169,
+      "name": "Up + Up",
+      "url": "https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv"
+    },
+    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "THIS YEAR (Blessings) [Remix]",
@@ -683,22 +699,6 @@
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "Up + Up",
-        "url": "https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 163169,
-      "name": "Up + Up",
-      "url": "https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-05-31 23:59:00",
       "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 312254,
+      "name": "The Blood (Live)",
+      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
+    },
+    {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
         "name": "Somebody to You",
         "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 657912,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 312254,
-      "name": "The Blood (Live)",
-      "url": "https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt"
     },
     {
       "added_at": "2024-05-31 23:59:00",

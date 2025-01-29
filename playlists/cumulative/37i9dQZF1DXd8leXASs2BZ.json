@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AZU",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Tokyo Young Vision",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 167000,
       "name": "BANDS! (feat. ShowyVICTOR & Nyture)",
       "url": "https://open.spotify.com/track/2130kEjZH8rs1gGGO2maev"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 237223,
       "name": "Block Party (feat. BARCO, Flight-A, Swag-A, Crazy-K & ACHA)",
       "url": "https://open.spotify.com/track/1V1yAscHoAwHL5ZbKIR1RS"
@@ -2691,6 +2691,36 @@
     },
     {
       "album": {
+        "name": "Tokyo Young Vision",
+        "url": "https://open.spotify.com/album/2au1F39Khj54T7HJqd1Aal"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Young Vision",
+          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+        },
+        {
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
+        },
+        {
+          "name": "DALU",
+          "url": "https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm"
+        },
+        {
+          "name": "OSAMI",
+          "url": "https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Chandelier (feat. Hideyoshi, DALU & OSAMI)",
+      "url": "https://open.spotify.com/track/4JzNVvkFyZ9WFAoZOqy4jO"
+    },
+    {
+      "album": {
         "name": "Chaser",
         "url": "https://open.spotify.com/album/1TyVJTPEQg20npnRUoCATp"
       },
@@ -2706,7 +2736,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 237355,
       "name": "Chaser",
       "url": "https://open.spotify.com/track/4oQp8MxdvejP3PUazYjzsu"
@@ -4498,10 +4528,36 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 131517,
       "name": "Espolada",
       "url": "https://open.spotify.com/track/7HA2ljiW2XQR7BJAmsl9pO"
+    },
+    {
+      "album": {
+        "name": "ESSENCE",
+        "url": "https://open.spotify.com/album/4ftSQLJRRmYlQZTgoCD14H"
+      },
+      "artists": [
+        {
+          "name": "BIG FAF",
+          "url": "https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I"
+        },
+        {
+          "name": "ILLJUNK",
+          "url": "https://open.spotify.com/artist/7IV6cDdnJGSd0kgaGNckHo"
+        },
+        {
+          "name": "Joe Cupertino",
+          "url": "https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167884,
+      "name": "ESSENCE",
+      "url": "https://open.spotify.com/track/3qI6HnTfnfpZngUH3HOS3J"
     },
     {
       "album": {
@@ -4660,7 +4716,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 176842,
       "name": "FAFJUNK",
       "url": "https://open.spotify.com/track/3yH1cPk86ZJXyIptRBNgIr"
@@ -5108,7 +5164,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 192000,
       "name": "Floor 2 stage",
       "url": "https://open.spotify.com/track/2AMGt0vjQWqe3P1190xcxY"
@@ -6416,6 +6472,28 @@
       "duration_ms": 142464,
       "name": "HEARTLESS",
       "url": "https://open.spotify.com/track/3Huapz5ar9lXjqweSxi1lb"
+    },
+    {
+      "album": {
+        "name": "Heaven feat. TOKYO\u4e16\u754c",
+        "url": "https://open.spotify.com/album/20XFSWJH99rIikN2G3KcpR"
+      },
+      "artists": [
+        {
+          "name": "Whoopee Bomb",
+          "url": "https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3"
+        },
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220738,
+      "name": "Heaven feat. TOKYO\u4e16\u754c",
+      "url": "https://open.spotify.com/track/1pjvGe4XVZLuR9gMuMwq6n"
     },
     {
       "album": {
@@ -7867,6 +7945,28 @@
     },
     {
       "album": {
+        "name": "Key (feat. GOLD DIGGA)",
+        "url": "https://open.spotify.com/album/0Y9e4HWUxkUDtfmyksWoMk"
+      },
+      "artists": [
+        {
+          "name": "RICO",
+          "url": "https://open.spotify.com/artist/3EfKHcPeCxq3EIcDoufJA3"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157209,
+      "name": "Key (feat. GOLD DIGGA)",
+      "url": "https://open.spotify.com/track/2SN09lQLL6lhW5h8VXNgyQ"
+    },
+    {
+      "album": {
         "name": "Kick Back",
         "url": "https://open.spotify.com/album/3YHQqscL7SIyD8N6NiPtTR"
       },
@@ -8335,6 +8435,24 @@
     },
     {
       "album": {
+        "name": "LIFESTYLE",
+        "url": "https://open.spotify.com/album/3HypirJpxL5zEI4tCdC8N3"
+      },
+      "artists": [
+        {
+          "name": "EASTA",
+          "url": "https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154592,
+      "name": "LIFESTYLE",
+      "url": "https://open.spotify.com/track/57bU8myNELXiONkdskMLXo"
+    },
+    {
+      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5OsGUY6X5Yb3pN8cKjwSnA"
       },
@@ -8643,6 +8761,28 @@
     },
     {
       "album": {
+        "name": "Love Cluster",
+        "url": "https://open.spotify.com/album/5Vt8hjlmhAqKPT7Z5y0zWL"
+      },
+      "artists": [
+        {
+          "name": "Takaryu",
+          "url": "https://open.spotify.com/artist/44i9XtGojb2slieugKdG4F"
+        },
+        {
+          "name": "e5",
+          "url": "https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183863,
+      "name": "Love Cluster",
+      "url": "https://open.spotify.com/track/1TdgszJSAgaDGV6OyA53Mc"
+    },
+    {
+      "album": {
         "name": "LOVE MY LIFE",
         "url": "https://open.spotify.com/album/6RGW6gjwtL6wSwQ4BN88RB"
       },
@@ -8832,7 +8972,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 114214,
       "name": "Mandarin",
       "url": "https://open.spotify.com/track/2umjAVzYvJT6OfVaZRBjlj"
@@ -8920,6 +9060,28 @@
       "duration_ms": 182680,
       "name": "Me>Enemy",
       "url": "https://open.spotify.com/track/1NKcyIqpr8wScUPYA5qFC3"
+    },
+    {
+      "album": {
+        "name": "medicine (feat. Cuegee)",
+        "url": "https://open.spotify.com/album/48R0d1TBWOjWvr8R2Rs1SQ"
+      },
+      "artists": [
+        {
+          "name": "LIL'BCCNo",
+          "url": "https://open.spotify.com/artist/73b0xlAIJRU68GZ2qCnOAq"
+        },
+        {
+          "name": "Cuegee",
+          "url": "https://open.spotify.com/artist/1aquTqscrUeZrug116Rxy5"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200226,
+      "name": "medicine (feat. Cuegee)",
+      "url": "https://open.spotify.com/track/7LbvX0X80DJpf9pJo93ohL"
     },
     {
       "album": {
@@ -11333,6 +11495,28 @@
     },
     {
       "album": {
+        "name": "BADNEWS",
+        "url": "https://open.spotify.com/album/6DB6WFESvo7LWtH9SfBxve"
+      },
+      "artists": [
+        {
+          "name": "KID PENSEUR",
+          "url": "https://open.spotify.com/artist/68ea2WqkkypaKoakuoNbbl"
+        },
+        {
+          "name": "STICKY BUDS",
+          "url": "https://open.spotify.com/artist/606E8dfYTpa1QY1MLJxN8J"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "PUSH (feat. STICKY BUDS)",
+      "url": "https://open.spotify.com/track/0yzZKYDQkbK6zO1rcCpopy"
+    },
+    {
+      "album": {
         "name": "Question",
         "url": "https://open.spotify.com/album/0AK2yDyALNXxjPAdmJaark"
       },
@@ -12175,6 +12359,24 @@
     },
     {
       "album": {
+        "name": "SALVIA",
+        "url": "https://open.spotify.com/album/2hwOnbxNyj3aZ1nCqjUW3R"
+      },
+      "artists": [
+        {
+          "name": "Yella Flat Boys",
+          "url": "https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197234,
+      "name": "SALVIA",
+      "url": "https://open.spotify.com/track/6cWIYRwFu021B44nmu4KJZ"
+    },
+    {
+      "album": {
         "name": "DuskAlwaysWithU",
         "url": "https://open.spotify.com/album/6ViwVwDlteRNlk7tnkz3QV"
       },
@@ -12350,6 +12552,24 @@
       "duration_ms": 70429,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD"
+    },
+    {
+      "album": {
+        "name": "641-0001-5",
+        "url": "https://open.spotify.com/album/1EkwUfyX7IfE7uecCc8fuF"
+      },
+      "artists": [
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143478,
+      "name": "Self marionette",
+      "url": "https://open.spotify.com/track/3pp0j9KsiVaNiMoupgdDR5"
     },
     {
       "album": {
@@ -12978,7 +13198,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 174000,
       "name": "South Side",
       "url": "https://open.spotify.com/track/7Dk1RiieRhKJIm8phSm09g"
@@ -13576,7 +13796,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 185896,
       "name": "SwAy",
       "url": "https://open.spotify.com/track/7feL3g06uJEhS5myP9YYTi"
@@ -13818,6 +14038,24 @@
       "duration_ms": 318680,
       "name": "The dreamer's reward",
       "url": "https://open.spotify.com/track/0D8roiP0829CL2ZOVuklmy"
+    },
+    {
+      "album": {
+        "name": "The End of the F***ing World",
+        "url": "https://open.spotify.com/album/6iL6XohwNVwl1vGcPU0UuT"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u8c37\u62f3\u56db\u90ce",
+          "url": "https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120800,
+      "name": "The End of the F***ing World",
+      "url": "https://open.spotify.com/track/3XBOj9bYUMuQH7WFty0x6d"
     },
     {
       "album": {
@@ -14370,7 +14608,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 222685,
       "name": "untake",
       "url": "https://open.spotify.com/track/7D54uqlN3bGvDnUNQcj2uq"
@@ -14986,6 +15224,24 @@
       "duration_ms": 150813,
       "name": "Why'd i?",
       "url": "https://open.spotify.com/track/4iV2tFzO92Kp1s3p468ic2"
+    },
+    {
+      "album": {
+        "name": "Wong Kar-Wai",
+        "url": "https://open.spotify.com/album/4wmoj29MEnMC2GHHzYzR1Y"
+      },
+      "artists": [
+        {
+          "name": "CHOBO CURRY",
+          "url": "https://open.spotify.com/artist/1CeirgCLe1fLAjlZ6Zuoxp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147436,
+      "name": "Wong Kar-Wai",
+      "url": "https://open.spotify.com/track/1OKaqwrmKx1cs5DxgrUtmf"
     },
     {
       "album": {
@@ -15906,7 +16162,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 165495,
       "name": "\u30ca\u30c4\u30ce\u30aa\u30ef\u30ea (feat. CraNe)",
       "url": "https://open.spotify.com/track/6jIVnafdOZxwHeKcQsYDDi"

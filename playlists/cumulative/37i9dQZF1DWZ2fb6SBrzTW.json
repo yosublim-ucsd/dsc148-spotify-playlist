@@ -1783,6 +1783,28 @@
     },
     {
       "album": {
+        "name": "CHISOM (We Dem Boyz)",
+        "url": "https://open.spotify.com/album/7554y1U2CikUTRafTXj29N"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181565,
+      "name": "CHISOM (We Dem Boyz)",
+      "url": "https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a"
+    },
+    {
+      "album": {
         "name": "Cho Cho Cho",
         "url": "https://open.spotify.com/album/7GKtlpyVsjosh6w6FQlyWu"
       },
@@ -8286,7 +8308,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 163361,
       "name": "Sharpally",
       "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"

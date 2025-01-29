@@ -8739,6 +8739,24 @@
     },
     {
       "album": {
+        "name": "Fiore",
+        "url": "https://open.spotify.com/album/3uNpgppb88r1tYCOUyIQ2h"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144045,
+      "name": "Fiore",
+      "url": "https://open.spotify.com/track/0WawGuRGr9dUuAL2ifURnx"
+    },
+    {
+      "album": {
         "name": "Ariosa",
         "url": "https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded"
       },
@@ -10890,6 +10908,24 @@
       "duration_ms": 148906,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV"
+    },
+    {
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/4s98ZZEUEgQ2xOK4O63kHH"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156349,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/1FuXj0Pb8eOW7PQTzzsJ3z"
     },
     {
       "album": {

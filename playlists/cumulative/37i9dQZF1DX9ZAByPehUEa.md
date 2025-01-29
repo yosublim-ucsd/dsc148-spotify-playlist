@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-498 songs - 1 day 6 hr 26 min
+499 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 | 2024-05-03 |  |
 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 | 2022-01-14 | 2023-11-04 |
 | [Seventies](https://open.spotify.com/track/4k0vs6zgt0NYq6tmDum4nP) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/5X6J5NTJIWPCJzcRwIKXmb) | 3:16 | 2023-10-02 | 2024-04-19 |
-| [Sex on Fire \(Disco Mix\)](https://open.spotify.com/track/7pn1zBl8bSOzvhleJrFgwY) | [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG) | [Sex on Fire](https://open.spotify.com/album/0jNAFmoykutJmxjxzZuwm0) | 3:11 | 2024-05-17 |  |
+| [Sex on Fire \(Disco Mix\)](https://open.spotify.com/track/7pn1zBl8bSOzvhleJrFgwY) | [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG) | [Sex on Fire](https://open.spotify.com/album/0jNAFmoykutJmxjxzZuwm0) | 3:11 | 2024-05-17 | 2025-01-29 |
 | [Shake It](https://open.spotify.com/track/5gATjfPkp8eYQ9FQm2vTG0) | [HP Vince](https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW) | [Shake It](https://open.spotify.com/album/6b7QdhT9QW1ZkmFZDGYgnv) | 6:58 | 2024-08-16 | 2024-08-31 |
 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/45eQUenvHhoTUVgRvt7Fai) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/7IO47OClgjkDi6qbDUxmjs) | 3:22 | 2024-02-02 | 2024-02-10 |
 | [She's a Lady \(Disco Mix\)](https://open.spotify.com/track/4PkyBwZolHSrkPiBB7418h) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [She's a Lady \(Disco Mix\)](https://open.spotify.com/album/0Hpu0hHFUjcGijSVZTR6Qw) | 3:22 | 2024-02-02 | 2024-02-08 |
@@ -465,6 +465,7 @@
 | [The Chant](https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [The Chant](https://open.spotify.com/album/1GpeWllT96Qv0UHDSz8tRb) | 3:06 | 2022-01-14 | 2024-07-27 |
 | [The Heart of Dark Matter](https://open.spotify.com/track/6dm0o8uQ4EwPIygA659zOz) | [Factory Sequences](https://open.spotify.com/artist/1aigkZ2WgcVhRgKa5wgJDz) | [The Heart of Dark Matter](https://open.spotify.com/album/2Iz1rmBDz0Yl741eqM3VlO) | 6:36 | 2022-01-14 | 2022-07-11 |
 | [The Ride](https://open.spotify.com/track/4zS12BcY2vYLU0Id2Dcma0) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [The Ride](https://open.spotify.com/album/44lQstyn7FxoPpi7C47GBW) | 3:09 | 2024-04-26 | 2024-05-18 |
+| [The Sit Down](https://open.spotify.com/track/3UpfKPp1JRAcKxqJTTB76s) | [Monty Kiddo](https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy) | [The Sit Down](https://open.spotify.com/album/33thvSTsHv4yTq1oyWfuNq) | 3:48 | 2025-01-28 |  |
 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 | 2022-01-14 | 2024-07-13 |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-15 |  |
 | [Ti Sento](https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5), [Antonella Ruggiero](https://open.spotify.com/artist/7xELwlmfwkTUMKJNSxN5To) | [Ti Sento](https://open.spotify.com/album/7Cm248Tj1NigR5Jujq0IJq) | 3:00 | 2023-12-22 |  |

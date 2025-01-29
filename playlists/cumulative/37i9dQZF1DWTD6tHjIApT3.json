@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: aiko",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: \u51a8\u5ca1 \u611b",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 163793,
       "name": "22",
       "url": "https://open.spotify.com/track/3CV7ldwEV40B3H3aPNago4"
@@ -6934,7 +6934,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 249475,
       "name": "Dong, Nan, Xi, Bei",
       "url": "https://open.spotify.com/track/3YdY8kv4ShsMrDfYKXE8v7"
@@ -8438,7 +8438,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 204160,
       "name": "Finale",
       "url": "https://open.spotify.com/track/704QZV9v3WC37bKxODN1mL"
@@ -14843,6 +14843,24 @@
     },
     {
       "album": {
+        "name": "Life is vintage",
+        "url": "https://open.spotify.com/album/7HLImucxoQYU2aXZ6dKB1O"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Life is vintage",
+      "url": "https://open.spotify.com/track/1td9uiDBqy7iagOsom2zTV"
+    },
+    {
+      "album": {
         "name": "Life Road",
         "url": "https://open.spotify.com/album/4F5sszXsMnqUUYGwpfcOj9"
       },
@@ -16792,7 +16810,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 265208,
       "name": "MICHIKUSA",
       "url": "https://open.spotify.com/track/0eThexhpQdncZ1zH7GUkrF"
@@ -17800,7 +17818,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 341626,
       "name": "NADA SOUSOU",
       "url": "https://open.spotify.com/track/3wEgNvDzjBu1RklUmycLMT"
@@ -19672,6 +19690,24 @@
       "duration_ms": 269127,
       "name": "Othello",
       "url": "https://open.spotify.com/track/4UMBl42DkSDoiTDHbhAxjS"
+    },
+    {
+      "album": {
+        "name": "Otori",
+        "url": "https://open.spotify.com/album/1TJBWBQNX5pSmA8FO6PK7f"
+      },
+      "artists": [
+        {
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191900,
+      "name": "Otori",
+      "url": "https://open.spotify.com/track/06stAMD9nS88jkODxUeuDY"
     },
     {
       "album": {
@@ -28425,6 +28461,24 @@
     },
     {
       "album": {
+        "name": "Valentine and Youth",
+        "url": "https://open.spotify.com/album/6dJ7LpA1XYbHxVDKPFRCXl"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191531,
+      "name": "Valentine and Youth",
+      "url": "https://open.spotify.com/track/0X3gRxgqfvts6uMVvvBbYI"
+    },
+    {
+      "album": {
         "name": "Salyu 20th Anniversary Tribute Album \u201cgrafting\u201d",
         "url": "https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4"
       },
@@ -28538,6 +28592,24 @@
       "duration_ms": 225967,
       "name": "Venus Flytrap feat. \u4f50\u85e4\u5343\u4e9c\u5983",
       "url": "https://open.spotify.com/track/7KRfQEpO97OMMD4Edc1YTw"
+    },
+    {
+      "album": {
+        "name": "Versailles - \u30d9\u30eb\u30b5\u30a4\u30e6 -",
+        "url": "https://open.spotify.com/album/7FnCOyGrE9Oe8hfWuRPi2U"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245927,
+      "name": "Versailles - \u30d9\u30eb\u30b5\u30a4\u30e6 -",
+      "url": "https://open.spotify.com/track/4AiuIRUfYBZNc1TBMsZ6pz"
     },
     {
       "album": {
@@ -31780,7 +31852,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 269840,
       "name": "\u3044\u306e\u3061\u306e\u540d\u524d",
       "url": "https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz"
@@ -40438,7 +40510,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 249440,
       "name": "\u30ea\u30a2\u30eb",
       "url": "https://open.spotify.com/track/67qYdZvZwrQ3qTjExRXcaf"
@@ -41822,7 +41894,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 246858,
       "name": "\u4f59\u97fb",
       "url": "https://open.spotify.com/track/6IXpfkYDZG9HduKQ4PEI7c"
@@ -44363,6 +44435,24 @@
     },
     {
       "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/4eBYJ8QITLHFJVVjgvDIeN"
+      },
+      "artists": [
+        {
+          "name": "HY",
+          "url": "https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181586,
+      "name": "\u5927\u5927\u5927\u597d\u304d",
+      "url": "https://open.spotify.com/track/2eq0kwPODclmLGD1T5bFXm"
+    },
+    {
+      "album": {
         "name": "\u5927\u822a\u6d77",
         "url": "https://open.spotify.com/album/4oN4vrtvrzf5C1kQYqa1gb"
       },
@@ -45032,6 +45122,24 @@
       "duration_ms": 264053,
       "name": "\u5cf6\u3088\u308a",
       "url": "https://open.spotify.com/track/1rFBg0RaUGcJ4YWoYfpoeZ"
+    },
+    {
+      "album": {
+        "name": "\u5ddd\u8fba\u306b\u3066",
+        "url": "https://open.spotify.com/album/3ZANrsv1pgubA0o9Hg4hV8"
+      },
+      "artists": [
+        {
+          "name": "\u5bfa\u5c3e\u7d17\u7a42",
+          "url": "https://open.spotify.com/artist/3ihcOcGDvlaqKoEjcrE1ZG"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u5ddd\u8fba\u306b\u3066",
+      "url": "https://open.spotify.com/track/5WT1dxftFPo36rEVjyoBDR"
     },
     {
       "album": {
@@ -46994,7 +47102,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 190066,
       "name": "\u661f\u5bc2\u591c",
       "url": "https://open.spotify.com/track/15WaDRa6mXiEUb3WjSVBl0"
@@ -47420,7 +47528,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 271300,
       "name": "\u666e\u901a\u306e\u604b",
       "url": "https://open.spotify.com/track/4ifIdsBxOyDUfrH5ot40Bp"

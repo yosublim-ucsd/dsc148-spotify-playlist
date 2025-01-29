@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-697 songs - 1 day 5 hr 32 min
+698 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Mon Soleil](https://open.spotify.com/track/66QPTjE4c7QhJf8moxu0UE) | [Soraya Blix](https://open.spotify.com/artist/745G3QJNAiGbS5g8h9MTWQ) | [Mon Soleil](https://open.spotify.com/album/6TjZEUu50N5pKYKNXGGHAe) | 2:23 | 2022-06-07 | 2022-11-11 |
 | [mondaufgang](https://open.spotify.com/track/6iqbDeuRi4WJ3fYJc9WWGg) | [Albert Puck](https://open.spotify.com/artist/5hjnkdeCMBf3w7lMyHSDQd) | [silhouette](https://open.spotify.com/album/1aVDfgfybCKvosSxwokRlh) | 2:49 | 2022-06-07 | 2023-08-20 |
 | [Mondegreen](https://open.spotify.com/track/6BKGokQ3PKLFqBlCBjCy8J) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Mondegreen](https://open.spotify.com/album/1TWsYhkMKywsJN0fNA08Yt) | 2:24 | 2022-06-07 | 2024-12-12 |
+| [Morning Light](https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7) | [Kyo Himura](https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1) | [Morning Light](https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg) | 2:26 | 2025-01-28 |  |
 | [Morning Skyline](https://open.spotify.com/track/0W9zDuwcQaRyxk7Z4peRmM) | [Dale Brenan](https://open.spotify.com/artist/3SZHAoiLC6bI4R1Ih2iD5W) | [Morning Skyline](https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs) | 2:29 | 2022-06-07 | 2022-07-20 |
 | [Morning\-Star](https://open.spotify.com/track/7x29ikGEInCzC5IrN3zMhI) | [Avi Mehta](https://open.spotify.com/artist/6IVlVzl5f2aKF9GORwMkoi) | [Morning\-Star](https://open.spotify.com/album/1Rl1DJxb2b5XCWOVD1xrBo) | 3:00 | 2022-06-07 | 2022-12-24 |
 | [Mornings With You](https://open.spotify.com/track/1eJ4ZttuJo0O4hFTVUbT1t) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Mornings With You](https://open.spotify.com/album/0XxTFCTiJE90ttX2klGpMf) | 2:19 | 2024-03-19 |  |

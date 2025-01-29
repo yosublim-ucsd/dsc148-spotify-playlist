@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Andruss \u26fd\u26fd  50% techno, 50% house",
-  "num_followers": 643481,
+  "num_followers": 643550,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5ecaQAAAABGUy13sB9t79bSBv+yiCFg",
+  "snapshot_id": "Z5kM0QAAAAD7YOHQHGRnf5tKDZ8YNWK5",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:51",
@@ -319,18 +319,18 @@
     {
       "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "Don't Touch That Dial EP",
-        "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
+        "name": "Whispers EP",
+        "url": "https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8"
       },
       "artists": [
         {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Don't Touch That Dial",
-      "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
+      "duration_ms": 155076,
+      "name": "Whispers",
+      "url": "https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"
     },
     {
       "added_at": "2025-01-17 05:00:56",
@@ -439,18 +439,18 @@
     {
       "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "Whispers EP",
-        "url": "https://open.spotify.com/album/5tDHs46TtbZ6VxyaVswGf8"
+        "name": "Don't Touch That Dial EP",
+        "url": "https://open.spotify.com/album/3Oj9Lwh8T2UoU1CQlaBHFl"
       },
       "artists": [
         {
-          "name": "GREG (BR)",
-          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Whispers",
-      "url": "https://open.spotify.com/track/3shstEV0fzPeSvby1ENMUs"
+      "duration_ms": 194000,
+      "name": "Don't Touch That Dial",
+      "url": "https://open.spotify.com/track/0YWLB75tVT4fbX0K0kPdH8"
     },
     {
       "added_at": "2025-01-03 16:25:26",
@@ -553,20 +553,28 @@
       "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
     },
     {
-      "added_at": "2025-01-24 05:00:51",
+      "added_at": "2024-11-01 05:19:33",
       "album": {
-        "name": "Chin Chin",
-        "url": "https://open.spotify.com/album/0YzrxGavVwViOwzYKgyYTr"
+        "name": "It Feels So Good",
+        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
       },
       "artists": [
         {
-          "name": "Angelo Morello",
-          "url": "https://open.spotify.com/artist/7kP0ofp2uwyxcf70L4tJmy"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Sonique",
+          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
         }
       ],
-      "duration_ms": 185807,
-      "name": "Chin Chin",
-      "url": "https://open.spotify.com/track/0fWF2UJdFdTb8nVqJZ6H9U"
+      "duration_ms": 160973,
+      "name": "It Feels So Good",
+      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
     },
     {
       "added_at": "2024-12-20 05:00:33",
@@ -745,28 +753,20 @@
       "url": "https://open.spotify.com/track/3LI3bvwQwIaGzoIErvFLax"
     },
     {
-      "added_at": "2024-11-01 05:19:33",
+      "added_at": "2025-01-24 05:00:51",
       "album": {
-        "name": "It Feels So Good",
-        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
+        "name": "Chin Chin",
+        "url": "https://open.spotify.com/album/0YzrxGavVwViOwzYKgyYTr"
       },
       "artists": [
         {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Sonique",
-          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
+          "name": "Angelo Morello",
+          "url": "https://open.spotify.com/artist/7kP0ofp2uwyxcf70L4tJmy"
         }
       ],
-      "duration_ms": 160973,
-      "name": "It Feels So Good",
-      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+      "duration_ms": 185807,
+      "name": "Chin Chin",
+      "url": "https://open.spotify.com/track/0fWF2UJdFdTb8nVqJZ6H9U"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
+      "added_at": "2025-01-28 16:58:57",
+      "album": {
+        "name": "Groove With It EP",
+        "url": "https://open.spotify.com/album/7xWO2C0KsqXey1ShtdzuNp"
+      },
+      "artists": [
+        {
+          "name": "Deltech",
+          "url": "https://open.spotify.com/artist/7zEG9zFPbxYG9rNhj3SJ5Y"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Groove With It",
+      "url": "https://open.spotify.com/track/2uoDMLZryLTwwD5Zpvn5MU"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "RIZZ",
@@ -981,22 +997,6 @@
       "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     },
     {
-      "added_at": "2024-01-12 20:08:53",
-      "album": {
-        "name": "Last Night",
-        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
-      },
-      "artists": [
-        {
-          "name": "Loofy",
-          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "PICK UP THE PHONE (feat. Nate Dogg)",
@@ -1015,6 +1015,22 @@
       "duration_ms": 224124,
       "name": "PICK UP THE PHONE (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
+    },
+    {
+      "added_at": "2024-01-12 20:08:53",
+      "album": {
+        "name": "Last Night",
+        "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
+      },
+      "artists": [
+        {
+          "name": "Loofy",
+          "url": "https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1141,6 +1157,22 @@
       "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
     },
     {
+      "added_at": "2024-10-04 16:20:25",
+      "album": {
+        "name": "COLLECT THE COMMAS",
+        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 221339,
+      "name": "COLLECT THE COMMAS",
+      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Kill The Vibe",
@@ -1165,42 +1197,6 @@
       "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
     },
     {
-      "added_at": "2024-10-04 16:20:25",
-      "album": {
-        "name": "COLLECT THE COMMAS",
-        "url": "https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 221339,
-      "name": "COLLECT THE COMMAS",
-      "url": "https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Lonely Heart",
-        "url": "https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "John Alto",
-          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Lonely Heart",
-      "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
-    },
-    {
       "added_at": "2024-11-29 05:26:04",
       "album": {
         "name": "Heavy Heart",
@@ -1223,6 +1219,26 @@
       "duration_ms": 328760,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/0tI2NvbF31oQNop2UeIvsC"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1493,26 +1509,6 @@
       "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "See You Sweat",
-        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "See You Sweat",
-      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "I Like Dancing",
@@ -1531,6 +1527,26 @@
       "duration_ms": 202972,
       "name": "I Like Dancing",
       "url": "https://open.spotify.com/track/21RqIEkcOMcrVGeOPE7IP9"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "See You Sweat",
+        "url": "https://open.spotify.com/album/4AUlxBbuEVzK645RFnaD4i"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "See You Sweat",
+      "url": "https://open.spotify.com/track/0sC4CNFI8FdKJUDuYPdDiw"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1605,6 +1621,22 @@
       "url": "https://open.spotify.com/track/3wdOS1vNOk05bJyV83etSd"
     },
     {
+      "added_at": "2024-11-01 05:19:33",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 187086,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
+    },
+    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "Saving Up (Odd Mob Remix)",
@@ -1623,22 +1655,6 @@
       "duration_ms": 193432,
       "name": "Saving Up - Odd Mob Remix",
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
-    },
-    {
-      "added_at": "2024-11-01 05:19:33",
-      "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/3aKLcv8wpARI12rmt5ZJVC"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6tgBOj1W50ssmhorIQOFKX"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1793,22 +1809,6 @@
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Time To Go",
-        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 202380,
-      "name": "Time To Go",
-      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "All My Friends Are Hot",
@@ -1823,6 +1823,22 @@
       "duration_ms": 179076,
       "name": "All My Friends Are Hot",
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Time To Go",
+        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 202380,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
     },
     {
       "added_at": "2024-11-29 05:26:04",
@@ -1973,6 +1989,22 @@
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Heard About Me",
+        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 183711,
+      "name": "Heard About Me",
+      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "GETAWAY",
@@ -1991,22 +2023,6 @@
       "duration_ms": 163871,
       "name": "GETAWAY",
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Heard About Me",
-        "url": "https://open.spotify.com/album/6GNkxyXSRpfzRzOCN27Gi5"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 183711,
-      "name": "Heard About Me",
-      "url": "https://open.spotify.com/track/03o5rOWq2f6gFWjKGH6yFZ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2069,6 +2085,22 @@
       "url": "https://open.spotify.com/track/5lwxdOLjLqdnRie4QinJke"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
+    },
+    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Break The House Down",
@@ -2087,22 +2119,6 @@
       "duration_ms": 208730,
       "name": "Break The House Down",
       "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -2201,26 +2217,6 @@
       "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Tarantula (Max Styler Remix)",
-        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 201243,
-      "name": "Tarantula - Max Styler Remix",
-      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "To The Club",
@@ -2239,6 +2235,26 @@
       "duration_ms": 180937,
       "name": "To The Club",
       "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Tarantula (Max Styler Remix)",
+        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 201243,
+      "name": "Tarantula - Max Styler Remix",
+      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -2317,20 +2333,20 @@
       "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/7BFsmBOCDUPZTzxXiVihLP"
+        "name": "Wrong Feels Right",
+        "url": "https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5"
       },
       "artists": [
         {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+          "name": "Format:B",
+          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
         }
       ],
-      "duration_ms": 153281,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
+      "duration_ms": 155000,
+      "name": "Wrong Feels Right",
+      "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -2351,22 +2367,6 @@
       "duration_ms": 153750,
       "name": "Criminals Move In Silence",
       "url": "https://open.spotify.com/track/72q6wnkLkp7lwn4LKJ0NUV"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Wrong Feels Right",
-        "url": "https://open.spotify.com/album/4JStjZisUl2g35HszGXxt5"
-      },
-      "artists": [
-        {
-          "name": "Format:B",
-          "url": "https://open.spotify.com/artist/5Am25tT39BPzreHngMkuux"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Wrong Feels Right",
-      "url": "https://open.spotify.com/track/6CVr6Fv98XSdryPTRNxvDy"
     }
   ],
   "unique_name": "Tech House Operator",

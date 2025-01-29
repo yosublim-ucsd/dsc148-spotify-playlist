@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4336,
+  "num_followers": 4339,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAALW+OrXdT6LkcY+Zp0YwLS",
+  "snapshot_id": "Z5bMgAAAAABW2ofK1bte5k1kppAiBNOo",
   "tracks": [
     {
       "added_at": null,
@@ -727,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabras del Alma",
-        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Nunca Es Tarde Pa' Empezar",
-      "url": "https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevivente",
-        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Agradezco",
         "url": "https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp"
       },
@@ -783,6 +751,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sobrevivente",
+        "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabras del Alma",
+        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Nunca Es Tarde Pa' Empezar",
+      "url": "https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Sad",
         "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
       },
@@ -795,30 +795,6 @@
       "duration_ms": 217511,
       "name": "So Sad",
       "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Quise",
-        "url": "https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Elias Wallace",
-          "url": "https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
-        }
-      ],
-      "duration_ms": 212980,
-      "name": "Yo Quise",
-      "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
     },
     {
       "added_at": null,
@@ -855,6 +831,30 @@
       "duration_ms": 200582,
       "name": "Emily",
       "url": "https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Quise",
+        "url": "https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Elias Wallace",
+          "url": "https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Yo Quise",
+      "url": "https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras",
-        "url": "https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
-        }
-      ],
-      "duration_ms": 190540,
-      "name": "Mientras",
-      "url": "https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 224071,
       "name": "Colombianos World Wide",
       "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras",
+        "url": "https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        }
+      ],
+      "duration_ms": 190540,
+      "name": "Mientras",
+      "url": "https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Las Cinco Rosas",
-      "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevivente",
         "url": "https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 183809,
       "name": "Hijos de los D\u00edas",
       "url": "https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "ALI Prod.",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Las Cinco Rosas",
+      "url": "https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 21581,
+  "num_followers": 21611,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 388226,
       "name": "Last Night (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/5gfPJ45gpn3ThswDyeW0Qc"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH"
     },
     {
       "added_at": "2022-10-01 20:09:45",

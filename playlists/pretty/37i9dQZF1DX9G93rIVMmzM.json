@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 324370,
+  "num_followers": 324397,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-01-27 23:28:54",
       "album": {
-        "name": "That's The Spirit",
-        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
-    },
-    {
-      "added_at": "2025-01-27 23:28:54",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
+    },
+    {
+      "added_at": "2025-01-27 23:28:54",
+      "album": {
+        "name": "That's The Spirit",
+        "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
     },
     {
       "added_at": "2025-01-27 23:28:54",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-01-27 23:28:54",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
-      },
-      "artists": [
-        {
-          "name": "Whirr",
-          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Mumble",
-      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
-    },
-    {
-      "added_at": "2025-01-27 23:28:54",
-      "album": {
         "name": "Antimatter",
         "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 221340,
       "name": "Antimatter",
       "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "added_at": "2025-01-27 23:28:54",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF"
+      },
+      "artists": [
+        {
+          "name": "Whirr",
+          "url": "https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Mumble",
+      "url": "https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4"
     },
     {
       "added_at": "2025-01-27 23:28:54",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-27 23:28:54",
       "album": {
-        "name": "Romance & Pandemonium",
-        "url": "https://open.spotify.com/album/02DSsQxdITiLHR6CFxmaUm"
-      },
-      "artists": [
-        {
-          "name": "Tom The Mail Man",
-          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
-        }
-      ],
-      "duration_ms": 171812,
-      "name": "I Loathe You",
-      "url": "https://open.spotify.com/track/0iRuCaKWwSfbTF3OzI7q4t"
-    },
-    {
-      "added_at": "2025-01-27 23:28:54",
-      "album": {
         "name": "I Shift",
         "url": "https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 190428,
       "name": "I Shift",
       "url": "https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo"
+    },
+    {
+      "added_at": "2025-01-27 23:28:54",
+      "album": {
+        "name": "Romance & Pandemonium",
+        "url": "https://open.spotify.com/album/02DSsQxdITiLHR6CFxmaUm"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 171812,
+      "name": "I Loathe You",
+      "url": "https://open.spotify.com/track/0iRuCaKWwSfbTF3OzI7q4t"
     },
     {
       "added_at": "2025-01-27 23:28:54",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-01-27 23:28:54",
       "album": {
-        "name": "Give Blood",
-        "url": "https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv"
-      },
-      "artists": [
-        {
-          "name": "SOM",
-          "url": "https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Give Blood",
-      "url": "https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV"
-    },
-    {
-      "added_at": "2025-01-27 23:28:54",
-      "album": {
         "name": "Gorgeous",
         "url": "https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 331957,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h"
+    },
+    {
+      "added_at": "2025-01-27 23:28:54",
+      "album": {
+        "name": "Give Blood",
+        "url": "https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv"
+      },
+      "artists": [
+        {
+          "name": "SOM",
+          "url": "https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Give Blood",
+      "url": "https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV"
     },
     {
       "added_at": "2025-01-27 23:28:54",

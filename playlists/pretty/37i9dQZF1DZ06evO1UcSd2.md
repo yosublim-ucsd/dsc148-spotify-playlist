@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,269 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,270 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 29 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
 | 30 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
 | 31 | [Polvo Rosita](https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Polvo Rosita](https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz) | 2:39 |
-| 32 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
-| 33 | [Estas Ganas de Tomar](https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:35 |
+| 32 | [Estas Ganas de Tomar](https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Seguimos Adelante](https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt) | 2:35 |
+| 33 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
 | 34 | [La Belikiza](https://open.spotify.com/track/76WcyhTktK0eLW8m1wehRc) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:09 |
 | 35 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 |
 | 36 | [Mientras Que Te Olvido](https://open.spotify.com/track/3IJT8oAeZgx3tFQvFuSEd3) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mientras Que Te Olvido](https://open.spotify.com/album/2sLXTaLKmqIt5YB9WBz1aO) | 2:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 46 | [DEL Rojo](https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG) | [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [Gente del Este](https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B) | 3:06 |
 | 47 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
 | 48 | [A Lo Que Sigue](https://open.spotify.com/track/0Ndnbc16qPg2CO34a8Z65Q) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [A Lo Que Sigue](https://open.spotify.com/album/6yntzdnPB5ZYQQUp8OJnoE) | 3:22 |
-| 49 | [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 |
-| 50 | [El Corrido De Manuel](https://open.spotify.com/track/7CfvkrTF0ceWUw83Oabp8D) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Samuel Sarmiento](https://open.spotify.com/artist/07vA9azUbh60JWoiJsWAnR) | [El Corrido De Manuel](https://open.spotify.com/album/174HyCRunSgjTEeA10jMlQ) | 2:13 |
+| 49 | [El Corrido De Manuel](https://open.spotify.com/track/7CfvkrTF0ceWUw83Oabp8D) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Samuel Sarmiento](https://open.spotify.com/artist/07vA9azUbh60JWoiJsWAnR) | [El Corrido De Manuel](https://open.spotify.com/album/174HyCRunSgjTEeA10jMlQ) | 2:13 |
+| 50 | [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 |
 
-Snapshot ID: `Z5V7AAAAAADFqgKuQGg34N4wU6WeTZ4h`
+Snapshot ID: `Z5bMgAAAAADNeTYt5xUpDjlgsfer5vo2`

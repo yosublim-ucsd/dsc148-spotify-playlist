@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,201 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,240 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 49 | [El Diecinueve](https://open.spotify.com/track/6nEvcWB5luWoVSmClxP6WW) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Diecinueve](https://open.spotify.com/album/2KgGpp3o7lwCNGemdnGcEB) | 2:51 |
 | 50 | [El Sapo \(En Vivo\)](https://open.spotify.com/track/2zW9p9utfRxWoT4usDt8jq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes \(En Vivo\)](https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r) | 3:10 |
 
-Snapshot ID: `Z5V7AAAAAACI4RHU1BaQsMmmBoMAu5gH`
+Snapshot ID: `Z5bMgAAAAABDYQSkKGhwymNurP+swCWV`

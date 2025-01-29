@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 182000,
       "name": "A LITTLE LIFE",
       "url": "https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV"
@@ -4482,6 +4482,24 @@
       "duration_ms": 217492,
       "name": "Bunny Girl",
       "url": "https://open.spotify.com/track/3CeUMk1K4RPOpyzxn7JKZV"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169208,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
     },
     {
       "album": {

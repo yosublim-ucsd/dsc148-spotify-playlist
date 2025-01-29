@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Abomination",
+        "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168017,
+      "name": "Abomination",
+      "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
+    },
+    {
+      "album": {
         "name": "Escapism III",
         "url": "https://open.spotify.com/album/2hnFVR7bX3TSkih1SLCVfG"
       },
@@ -16846,7 +16864,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 247022,
       "name": "The Last Goodbye - Koven Remix",
       "url": "https://open.spotify.com/track/0PzfQHQEYVjhxsZZPtjScw"

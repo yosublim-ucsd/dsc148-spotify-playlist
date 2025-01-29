@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,920 likes - 12 songs - 44 min 9 sec
+[Spotify](https://open.spotify.com/user/spotify) - 36,931 likes - 12 songs - 44 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

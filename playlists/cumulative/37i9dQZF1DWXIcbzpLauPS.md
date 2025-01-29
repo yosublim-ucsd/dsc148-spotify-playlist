@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: Silent Planet
 
-1,110 songs - 2 day 20 hr 22 min
+1,111 songs - 2 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Better Before](https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Better Before](https://open.spotify.com/album/7zIzmDLpew0751nFNaJnEV) | 3:39 | 2024-02-09 | 2024-05-11 |
 | [Better Before](https://open.spotify.com/track/7DtJZBUJCK8uJwNMVJ5ER9) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [TROPO](https://open.spotify.com/album/72l55VPnCBNhCMw0HGWlCO) | 3:39 | 2024-03-08 | 2024-04-19 |
 | [Better Off](https://open.spotify.com/track/1BgqoOYdf6eQfznp9o4tmE) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Better Off](https://open.spotify.com/album/2xNcN7hzWIHZliCDIa4lHx) | 3:42 | 2024-10-18 | 2024-12-23 |
-| [Better Off Alone](https://open.spotify.com/track/5VoE2F0vCeXVmEo4soLavh) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Better Off Alone](https://open.spotify.com/album/7FQIV0DoXL986gmwU1gXYI) | 3:10 | 2024-10-18 |  |
+| [Better Off Alone](https://open.spotify.com/track/5VoE2F0vCeXVmEo4soLavh) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Better Off Alone](https://open.spotify.com/album/7FQIV0DoXL986gmwU1gXYI) | 3:10 | 2024-10-18 | 2025-01-29 |
 | [Better Off Dead](https://open.spotify.com/track/3NsHDwkHdOZhhxNNBospuX) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Better Off Dead](https://open.spotify.com/album/1fGacap0mcrhWlaUG75GMe) | 3:35 | 2022-04-22 | 2022-06-24 |
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-04-22 | 2022-07-23 |
 | [Better Written Villain](https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [Better Written Villain](https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6) | 3:43 | 2024-07-12 | 2024-09-21 |
@@ -571,6 +571,7 @@
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-12 | 2024-11-23 |
 | [Lamb to the Slaughter](https://open.spotify.com/track/2PmKN9dJVJEwDuO9LI7AOs) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Lamb to the Slaughter](https://open.spotify.com/album/7G7lc2qjk47fMXGAYiec2n) | 3:50 | 2022-07-13 | 2022-07-22 |
 | [Lately](https://open.spotify.com/track/0AC1yTsq1EwkiGTr7x1c1W) | [SETYØURSAILS](https://open.spotify.com/artist/01AynfThIqLCNevTuPSoYk) | [Lately](https://open.spotify.com/album/2Z7ndhDfv24Ia5kszmZjSa) | 2:57 | 2024-03-08 | 2024-06-05 |
+| [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 | 2025-01-17 |  |
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-02-10 | 2023-09-16 |
 | [Left For Dead](https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Left For Dead](https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf) | 3:05 | 2021-12-17 | 2022-04-02 |
 | [Legends Never Die](https://open.spotify.com/track/7pvj0VmFmVN7vHA1b0Zc1V) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Legends Never Die](https://open.spotify.com/album/0MA84UyLUN8K07GhqAh0G0) | 4:29 | 2022-07-13 | 2022-07-21 |

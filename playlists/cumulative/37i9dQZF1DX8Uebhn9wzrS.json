@@ -5337,6 +5337,24 @@
     },
     {
       "album": {
+        "name": "Calm Waves",
+        "url": "https://open.spotify.com/album/78etVzSg6bO2zO0KvfA06r"
+      },
+      "artists": [
+        {
+          "name": "skyshapes",
+          "url": "https://open.spotify.com/artist/6MMiMw3WzWnkSwK9KcvcD2"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130800,
+      "name": "Calm Waves",
+      "url": "https://open.spotify.com/track/70MS8aRuXywcmkyCCnCPCB"
+    },
+    {
+      "album": {
         "name": "Camden",
         "url": "https://open.spotify.com/album/3VzmyFeQ23wtK1hSM3Fdlq"
       },
@@ -6284,7 +6302,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 103808,
       "name": "Cherries and Blossoms",
       "url": "https://open.spotify.com/track/56cMel1zfzxtK41JFABVKV"
@@ -11011,6 +11029,24 @@
     },
     {
       "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/34BOK5sRNg2bhvka350wCY"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119220,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/1sEmxwmZVUo6xedokWhkVx"
+    },
+    {
+      "album": {
         "name": "but a beach ain't one",
         "url": "https://open.spotify.com/album/2zWrtFSI7QMd9KIrsFh5hL"
       },
@@ -13036,7 +13072,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 160109,
       "name": "Follow the maze",
       "url": "https://open.spotify.com/track/2cqoll9mqMTlaJRIgoK3ko"
@@ -14940,7 +14976,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 154736,
       "name": "Green Gardens",
       "url": "https://open.spotify.com/track/2kBigv5mWWcIAAPIi5lUaZ"
@@ -18249,6 +18285,24 @@
     },
     {
       "album": {
+        "name": "just believe",
+        "url": "https://open.spotify.com/album/6lIzQjdc8esn43uIVaJq5u"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134829,
+      "name": "just believe",
+      "url": "https://open.spotify.com/track/6vieRGrosaRAIcv1upwRPg"
+    },
+    {
+      "album": {
         "name": "ready set go",
         "url": "https://open.spotify.com/album/7L4A0d2BV3EE2YL95AiDze"
       },
@@ -21038,6 +21092,24 @@
       "duration_ms": 148492,
       "name": "louis",
       "url": "https://open.spotify.com/track/1DAAws1qqg7mn6mrlxQFuB"
+    },
+    {
+      "album": {
+        "name": "Louisiana Belle",
+        "url": "https://open.spotify.com/album/7FD4XoWfiFWOUZH7luCmJQ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121500,
+      "name": "Louisiana Belle",
+      "url": "https://open.spotify.com/track/4aqsBKBI9PAozNPLka2bxA"
     },
     {
       "album": {
@@ -33670,7 +33742,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 111546,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/7lAMobRN7Q1Gj00qA0TyNM"
@@ -34896,7 +34968,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 144093,
       "name": "Sunday (Nichiyoubi)",
       "url": "https://open.spotify.com/track/5LUlMNS5g88rz2SfAvG4ht"
@@ -35642,7 +35714,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 141300,
       "name": "surf & turf",
       "url": "https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK"
@@ -36902,7 +36974,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 137143,
       "name": "The Night Cruise",
       "url": "https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7"
@@ -40160,7 +40232,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 151620,
       "name": "We Go Right Slow",
       "url": "https://open.spotify.com/track/0NQJZm1zltok1SzR23FQ8a"

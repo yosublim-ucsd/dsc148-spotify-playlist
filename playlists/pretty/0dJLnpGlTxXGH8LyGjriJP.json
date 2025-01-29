@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "AAAD7FuIK7eMoiq7TgGhmV7VXcSPeh9g",
+  "snapshot_id": "AAAD7hu1M7iDatwGhFFZ2vAhkSNDRfYm",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -15635,6 +15635,42 @@
       "duration_ms": 136866,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
+    },
+    {
+      "added_at": "2025-01-28 21:51:54",
+      "album": {
+        "name": "Pop It Off",
+        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Pop It Off",
+      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
+    },
+    {
+      "added_at": "2025-01-29 01:21:18",
+      "album": {
+        "name": "MONEY AND VIBES",
+        "url": "https://open.spotify.com/album/7s4VOuuo8CvJ5VLCmpBU8P"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "MONEY AND VIBES",
+      "url": "https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

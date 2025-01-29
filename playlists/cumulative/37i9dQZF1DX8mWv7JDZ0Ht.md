@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve / Foto: Mariana Nolasco, Lourena
 
-775 songs - 1 day 14 hr 43 min
+776 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Olhos Caramelos](https://open.spotify.com/track/1RXevytE5CpdBZYvkQkQJa) | [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Olhos Caramelos](https://open.spotify.com/album/50M4O5lbjQaKI8lk3xeR3N) | 3:12 | 2022-06-24 | 2022-08-02 |
 | [Olhos Cor de Mel](https://open.spotify.com/track/1yEyhET3yLUypqqD3Juvqw) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Olhos Cor de Mel](https://open.spotify.com/album/7y4uE2werAmyajYm5PMU7M) | 2:21 | 2022-05-13 | 2022-07-29 |
 | [Olhos Cor de Mel](https://open.spotify.com/track/3E1DgO8G9ej5gMAMuxv0a4) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Olhos Cor de Mel](https://open.spotify.com/album/5NULIbgpUQM0oVmBen5rBM) | 2:21 | 2022-07-01 | 2022-10-11 |
+| [olhos mar](https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Pedro Aranha](https://open.spotify.com/artist/4SAKW6KWTozVGBVw0PIzNS) | [olhos mar](https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1) | 1:23 | 2025-01-24 |  |
 | [Olimpo ou Razão](https://open.spotify.com/track/2rXdrKghnoYK6NJVqE5y6I) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Olimpo ou Razão](https://open.spotify.com/album/50vx9RdFlaRbd4xbEMMPaI) | 3:41 | 2023-04-07 | 2023-07-01 |
 | [Onda Forte](https://open.spotify.com/track/6tLsgc4dTkdEja9eZhaHEt) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Onda Forte](https://open.spotify.com/album/3TvpZ96xrxz1u5qHNs76Um) | 1:44 | 2022-10-10 | 2023-01-28 |
 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 | 2022-05-13 | 2022-12-10 |

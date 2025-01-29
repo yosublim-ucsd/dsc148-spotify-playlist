@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,279 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,301 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 39 | [El Mencho \- En Vivo](https://open.spotify.com/track/2Za9V65HXmc5QD3IVhe0lR) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s) | 2:49 |
 | 40 | [Hablemos \- En Vivo](https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Una Más Desde el Llano 1ra\. Función \(En Vivo\)](https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8) | 3:03 |
 | 41 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
-| 42 | [Yo Ya Sabia Pa' Donde Iba \- En Vivo](https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:29 |
-| 43 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
+| 42 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
+| 43 | [Yo Ya Sabia Pa' Donde Iba \- En Vivo](https://open.spotify.com/track/7fbN1oIzqmdNmotd0GhpPv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:29 |
 | 44 | [Alguien Como Tú](https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus) | 3:21 |
 | 45 | [Amor Pasajero](https://open.spotify.com/track/4G4SU5CjZZuzneQlkpb8zJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/2u7lP3WGZ7QusWcvPaqzXo) | 3:30 |
 | 46 | [Díganle A Mi Ex](https://open.spotify.com/track/3wAB6BoHzcy4OQg040Jydm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/0t0rQcO5MICiLAjTwVZZbn) | 3:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 50 | [Oscar Olivas \- Live](https://open.spotify.com/track/2KqfhnWTABwhaYNSca5aYW) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Oscar Olivas \(Live\)](https://open.spotify.com/album/3fM7r0c4dWEaki7Vbxry96) | 4:11 |
 | 51 | [Luces, Cámara y Acción](https://open.spotify.com/track/3mdFsWlgPsY9SH9281Tk2f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/7apdNS89KMDFKuU7ztnaQ3) | 2:59 |
 
-Snapshot ID: `Z5V7AAAAAADnPSVwEYMiEgq1nWdtfXZ6`
+Snapshot ID: `Z5bMgAAAAAC5ZOXn2p1WAehx8iahHUqu`

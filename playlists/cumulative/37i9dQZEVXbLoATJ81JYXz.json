@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 305765,
       "name": "Babblarnas vaggvisa",
       "url": "https://open.spotify.com/track/4lQfnSLKKSKlep9ASNoTbo"
@@ -10068,7 +10068,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 133670,
       "name": "Egotrip",
       "url": "https://open.spotify.com/track/6C3zo1ZwpVX8J5WTRr3j9l"
@@ -12516,6 +12516,24 @@
       "duration_ms": 195141,
       "name": "Fl\u00e4ta/Inte mitt krig",
       "url": "https://open.spotify.com/track/0QovRRlEC2IiM8UXlBKhIS"
+    },
+    {
+      "album": {
+        "name": "V\u00e4gen in",
+        "url": "https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh"
+      },
+      "artists": [
+        {
+          "name": "LaStreet",
+          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166611,
+      "name": "Foden",
+      "url": "https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv"
     },
     {
       "album": {
@@ -15780,7 +15798,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 202954,
       "name": "Har Dig",
       "url": "https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9"
@@ -16696,7 +16714,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 165283,
       "name": "Hiphop N RnB",
       "url": "https://open.spotify.com/track/5bx4stZRInFwFz40fHDa7h"
@@ -17428,7 +17446,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 114124,
       "name": "Humlehum",
       "url": "https://open.spotify.com/track/6F0EAXG5D1iFZU57wfa0Ys"
@@ -17968,7 +17986,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
@@ -30568,7 +30586,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 123329,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/0BaiqHgXbozPmF7ivYfgYb"
@@ -38270,7 +38288,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -39118,7 +39136,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 193853,
       "name": "tystnar i luren",
       "url": "https://open.spotify.com/track/5IZGN81VVgBv1lPrjXzOD6"

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 9287,
+  "num_followers": 9293,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAA3Ark4TYO42OR1dUk5wFuh",
+  "snapshot_id": "Z5bMgAAAAABwyzvw/UAV/vrknkaBtxxF",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
-        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
       "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 270426,
-      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
-      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+      "duration_ms": 229426,
+      "name": "breathe again",
+      "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
     },
     {
       "added_at": null,
@@ -327,18 +319,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
       "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 229426,
-      "name": "breathe again",
-      "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
+      "duration_ms": 270426,
+      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
     },
     {
       "added_at": null,

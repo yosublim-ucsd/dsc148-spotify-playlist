@@ -550,7 +550,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253986,
       "name": "Chiamami Ancora Amore",
       "url": "https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5"
@@ -1156,6 +1156,32 @@
       "duration_ms": 233666,
       "name": "Fiore Di Maggio",
       "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
+    },
+    {
+      "album": {
+        "name": "Notti Brave",
+        "url": "https://open.spotify.com/album/1BayCxyyUYlm3x0Ys1z4Fl"
+      },
+      "artists": [
+        {
+          "name": "Carl Brave",
+          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
+        },
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        },
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221413,
+      "name": "Fotografia (feat. Francesca Michielin & Fabri Fibra)",
+      "url": "https://open.spotify.com/track/3fw3W15QK6a9UxJGgndtYu"
     },
     {
       "album": {
@@ -2082,7 +2108,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 222786,
       "name": "La musica non c'\u00e8",
       "url": "https://open.spotify.com/track/7MMJa7cjMadOSR6CFWvB1x"
@@ -2262,7 +2288,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 177266,
       "name": "Le luci della citt\u00e0",
       "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"

@@ -4,7 +4,7 @@
 
 > roots run deep
 
-355 songs - 21 hr 16 min
+356 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 | 2023-09-29 |  |
 | [Mr\. Meyers](https://open.spotify.com/track/02H4xB4mpWx5mwc2z4BKIt) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Mr\. Meyers](https://open.spotify.com/album/5walGfxzAQLaLzaO0YaaZf) | 3:37 | 2023-08-25 | 2023-12-09 |
 | [Never Really Know](https://open.spotify.com/track/0dOxMm35ORIZt7rZIzQbQ1) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Keepin' The Lights On](https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf) | 4:22 | 2024-07-26 |  |
+| [Never Tried Cocaine](https://open.spotify.com/track/3loX3gXExSXzZJWWP6lhLw) | [Travis Bolt](https://open.spotify.com/artist/7w3bNGVaI2zJ4J6cCnATLu) | [Don't care no more](https://open.spotify.com/album/3dWbfEXVaIYEFnqRlvqEMj) | 4:12 | 2025-01-28 |  |
 | [Never Turn Around](https://open.spotify.com/track/6G8rG1KuzcVXYsApWH0ree) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Men & Coyotes](https://open.spotify.com/album/2N7pHyHhmfU1AMkCJZi8bQ) | 2:51 | 2023-02-24 | 2023-12-09 |
 | [Next to You](https://open.spotify.com/track/31xbWaLjwvMVMXHTyz8opW) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Next to You](https://open.spotify.com/album/5wi2gkVC0O5njU43csLHec) | 4:01 | 2024-04-26 |  |
 | [No Caller ID](https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [No Caller ID](https://open.spotify.com/album/5plO8l5Kz0QC3fOGdHDzrW) | 3:28 | 2024-01-31 |  |

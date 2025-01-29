@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Kayzo \\m/",
-  "num_followers": 338122,
+  "num_followers": 338128,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -807,8 +807,8 @@
     {
       "added_at": "2025-01-24 15:42:52",
       "album": {
-        "name": "Napalm",
-        "url": "https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
       },
       "artists": [
         {
@@ -816,13 +816,13 @@
           "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
         },
         {
-          "name": "Joey Valence & Brae",
-          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 204757,
-      "name": "Napalm",
-      "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
+      "duration_ms": 167993,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
     },
     {
       "added_at": "2025-01-24 15:42:52",
@@ -943,8 +943,8 @@
     {
       "added_at": "2025-01-24 15:42:52",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
+        "name": "Napalm",
+        "url": "https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc"
       },
       "artists": [
         {
@@ -952,13 +952,13 @@
           "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
         },
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
         }
       ],
-      "duration_ms": 167993,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
+      "duration_ms": 204757,
+      "name": "Napalm",
+      "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
     },
     {
       "added_at": "2025-01-24 15:42:52",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2025-01-24 15:42:52",
       "album": {
-        "name": "Echo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 185039,
-      "name": "Obsolete - Sullivan King Remix",
-      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
-    },
-    {
-      "added_at": "2025-01-24 15:42:52",
-      "album": {
         "name": "Core (That's Who We Are)",
         "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 178909,
       "name": "Core (That's Who We Are)",
       "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
+    },
+    {
+      "added_at": "2025-01-24 15:42:52",
+      "album": {
+        "name": "Echo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 185039,
+      "name": "Obsolete - Sullivan King Remix",
+      "url": "https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD"
     },
     {
       "added_at": "2025-01-24 15:42:52",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2025-01-24 15:42:52",
       "album": {
-        "name": "Just A Kid",
-        "url": "https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Just A Kid",
-      "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
-    },
-    {
-      "added_at": "2025-01-24 15:42:52",
-      "album": {
         "name": "Light Up The Sky (feat. Scott Stapp)",
         "url": "https://open.spotify.com/album/7IbNjX1uq9D7up01LHX0mw"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 284425,
       "name": "Light Up The Sky (feat. Scott Stapp)",
       "url": "https://open.spotify.com/track/5ROUkE55LI83kG3ZRmAnum"
+    },
+    {
+      "added_at": "2025-01-24 15:42:52",
+      "album": {
+        "name": "Just A Kid",
+        "url": "https://open.spotify.com/album/71hoJtICb8oJUOclgYjRWh"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Just A Kid",
+      "url": "https://open.spotify.com/track/43qTGBfICY2nCeC7iEatjH"
     },
     {
       "added_at": "2025-01-24 15:42:52",
@@ -2331,58 +2331,18 @@
     {
       "added_at": "2025-01-24 15:42:52",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
         }
       ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
-      "added_at": "2025-01-24 15:42:52",
-      "album": {
-        "name": "Beautiful Nothing",
-        "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
-      },
-      "artists": [
-        {
-          "name": "William Black",
-          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
-        },
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "gavn!",
-          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Beautiful Nothing",
-      "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
-    },
-    {
-      "added_at": "2025-01-24 15:42:52",
-      "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2025-01-24 15:42:52",
@@ -2411,18 +2371,58 @@
     {
       "added_at": "2025-01-24 15:42:52",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
       "artists": [
         {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2025-01-24 15:42:52",
+      "album": {
+        "name": "Beautiful Nothing",
+        "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Beautiful Nothing",
+      "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
+    },
+    {
+      "added_at": "2025-01-24 15:42:52",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2025-01-24 15:42:52",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2025-01-24 15:42:52",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8"
-    },
-    {
-      "added_at": "2025-01-24 15:42:52",
-      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2499,6 +2483,22 @@
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
+    },
+    {
+      "added_at": "2025-01-24 15:42:52",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8"
     }
   ],
   "unique_name": "Rocktronic",

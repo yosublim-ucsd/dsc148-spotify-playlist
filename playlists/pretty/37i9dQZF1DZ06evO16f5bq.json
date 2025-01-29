@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 149872,
+  "num_followers": 149907,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAABCXladJr7rGp4g5PpZwagP",
+  "snapshot_id": "Z5bMgAAAAADWsRcwztF0eywIwFE9g47f",
   "tracks": [
     {
       "added_at": null,
@@ -55,30 +55,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
       "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Cyclope Beatz",
-          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
         },
         {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S"
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
         },
         {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
         }
       ],
-      "duration_ms": 181767,
-      "name": "FOGO E GASOLINA",
-      "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
+      "duration_ms": 179945,
+      "name": "Loucura",
+      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
     },
     {
       "added_at": null,
@@ -131,38 +139,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
       "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
         },
         {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/4h7R7VHRgyc9Y9fApmbq9S"
         },
         {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 179945,
-      "name": "Loucura",
-      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+      "duration_ms": 181767,
+      "name": "FOGO E GASOLINA",
+      "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
     },
     {
       "added_at": null,
@@ -215,30 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 202955,
-      "name": "NOSSA M\u00daSICA",
-      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Hair",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -267,6 +243,30 @@
       "duration_ms": 192194,
       "name": "Ess\u00eancia De Cria",
       "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 202955,
+      "name": "NOSSA M\u00daSICA",
+      "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
     },
     {
       "added_at": null,
@@ -315,38 +315,6 @@
       "duration_ms": 169411,
       "name": "De Marola",
       "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Dj Juninho da Espanha",
-          "url": "https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4"
-        },
-        {
-          "name": "Ariel Donato",
-          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
-        }
-      ],
-      "duration_ms": 226784,
-      "name": "INTEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN"
     },
     {
       "added_at": null,
@@ -407,6 +375,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Dj Juninho da Espanha",
+          "url": "https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "duration_ms": 226784,
+      "name": "INTEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
         "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
       },
@@ -455,30 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 154694,
-      "name": "MINHA CURA",
-      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 190000,
       "name": "7 Meiota",
       "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 154694,
+      "name": "MINHA CURA",
+      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
     },
     {
       "added_at": null,
@@ -755,6 +755,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUITA ONDA",
+        "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "NA ONDA",
+      "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM"
       },
@@ -787,34 +815,6 @@
       "duration_ms": 188021,
       "name": "REBELDE",
       "url": "https://open.spotify.com/track/7shYAA767wK9QjXOkHNVoc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUITA ONDA",
-        "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 150508,
-      "name": "NA ONDA",
-      "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
     },
     {
       "added_at": null,
@@ -1343,42 +1343,6 @@
       "duration_ms": 192021,
       "name": "UMA WAVE",
       "url": "https://open.spotify.com/track/0z16szxzLfeR5Ic8PN8Qkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Menino Virou Little Hair",
-        "url": "https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART"
-      },
-      "artists": [
-        {
-          "name": "DJ Meek",
-          "url": "https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK"
-        },
-        {
-          "name": "MC HULK",
-          "url": "https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q"
-        },
-        {
-          "name": "DINDO OG",
-          "url": "https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne"
-        },
-        {
-          "name": "DJDAVIDOB13",
-          "url": "https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL"
-        },
-        {
-          "name": "DJ Geh da LGD",
-          "url": "https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "De Menino Virou Little Hair",
-      "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
     },
     {
       "added_at": null,

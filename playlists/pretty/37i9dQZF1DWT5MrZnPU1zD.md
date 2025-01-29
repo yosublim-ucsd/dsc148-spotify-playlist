@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683,866 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,683,843 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 80 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 |
 | 81 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 |
 | 82 | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL) | 3:13 |
-| 83 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 |
-| 84 | [Act A Donkey](https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Act A Donkey](https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg) | 3:23 |
+| 83 | [Act A Donkey](https://open.spotify.com/track/25BaRS4eM52MTpYrrtROCz) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Act A Donkey](https://open.spotify.com/album/4LX6VTXQ2g8zGB230yAnPg) | 3:23 |
+| 84 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 |
 | 85 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 |
 | 86 | [Hellcat Kenny \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5nYygW7bTgPOhckh3uDR9L) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:34 |
 | 87 | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/track/2C2BJ5xjUD3AvVR6BtqiFu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Come Here \(feat\. Sexyy Red\)](https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF) | 3:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 96 | [Deep End](https://open.spotify.com/track/4VX9BbRWlXlaB0J6DRpzOo) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/26XfVMxBavGaeQXzEA6Xu9) | 2:26 |
 | 97 | [Dead or Alive](https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Dead or Alive](https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF) | 2:02 |
 | 98 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
-| 99 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
-| 100 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 |
+| 99 | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Gun Class II \(feat\. Nardo Wick & G Herbo\)](https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y) | 3:49 |
+| 100 | [F\*ck U Thought](https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*ck U Thought](https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI) | 3:18 |
 
 Snapshot ID: `Z5ejqwAAAAB4ztbbKQrfNM9M4EASa9oO`

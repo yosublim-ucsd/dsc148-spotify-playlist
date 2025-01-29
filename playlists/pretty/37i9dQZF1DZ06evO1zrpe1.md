@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 
 > This is Adriana Ríos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 396 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zrpe1.md) - [plain]
 | 32 | [Chapulín \- En Vivo](https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:27 |
 | 33 | [El que Quiero que Me Quiera](https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Asi Suena con Tequila](https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW) | 2:44 |
 | 34 | [Ojalá que Quererte Bastara](https://open.spotify.com/track/76VcLV0jBskhnoxWmbz7yI) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:11 |
-| 35 | [Lo Que No Me Gusta](https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 4:14 |
-| 36 | [Ahí Va la Loca](https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ahí Va la Loca](https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs) | 3:23 |
-| 37 | [Nada Nuevo](https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Nada Nuevo](https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl) | 2:59 |
-| 38 | [Vuelve](https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Vuelve](https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa) | 3:34 |
+| 35 | [Ahí Va la Loca](https://open.spotify.com/track/6VCladFiLiyBBYeCRRZ4bD) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Ahí Va la Loca](https://open.spotify.com/album/55RhyDsAQgggQohtZ8YLDs) | 3:23 |
+| 36 | [Lo Que No Me Gusta](https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 4:14 |
+| 37 | [Vuelve](https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Vuelve](https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa) | 3:34 |
+| 38 | [Nada Nuevo](https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Nada Nuevo](https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl) | 2:59 |
 | 39 | [Qué Me Vas A Dar Si Vuelvo](https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Vivo Desde Tijuana](https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8) | 3:50 |
-| 40 | [Dónde Están?](https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Dónde Están?](https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW) | 4:13 |
-| 41 | [Hubiera Querido](https://open.spotify.com/track/0Ww4kKGo0oejyFLahq3WAp) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:27 |
+| 40 | [Hubiera Querido](https://open.spotify.com/track/0Ww4kKGo0oejyFLahq3WAp) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:27 |
+| 41 | [Dónde Están?](https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Dónde Están?](https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW) | 4:13 |
 | 42 | [Así No Te Amará Jamás \- En Vivo](https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:21 |
 | 43 | [En Donde Esta Tu Amor](https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [En Donde Esta Tu Amor](https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY) | 2:49 |
-| 44 | [Fuiste Tú \- En Vivo](https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 4:07 |
+| 44 | [Leña de Pirul \- En Vivo](https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 3:34 |
 | 45 | [Está en Ti \- Versión Acústica](https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Está en Ti \(Versión Acústica\)](https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH) | 4:11 |
 | 46 | [Donde Pongo el Ojo \- En Vivo](https://open.spotify.com/track/3BGMZc1MSVQ43rob1JooW7) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 2:52 |
 | 47 | [El Carlitos](https://open.spotify.com/track/6u8BKNLNsVUIG4LQQVwiv6) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [El Carlitos](https://open.spotify.com/album/42shtjuBd6DhoXfjABcJRw) | 2:19 |
-| 48 | [Leña de Pirul \- En Vivo](https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 3:34 |
+| 48 | [Fuiste Tú \- En Vivo](https://open.spotify.com/track/5LbFRwae0FGQG8uQ8OcYA5) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP) | [La Bohemia \(En Vivo\)](https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH) | 4:07 |
 | 49 | [Empiezo a Recordarte \- En Vivo](https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:51 |
 | 50 | [Sigo Siendo Yo \- En Vivo](https://open.spotify.com/track/35SYuaFLd7Vr1dDcHs2Y1L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Azules Reflejos \(En Vivo\)](https://open.spotify.com/album/650mFzQHW866meTGyp3ToF) | 3:22 |
 
-Snapshot ID: `Z5V7AAAAAAC2pcgTvvoR+yp8j+ESlZfO`
+Snapshot ID: `Z5bMgAAAAAANYGJo3BM+8n52PPfXYIQ5`

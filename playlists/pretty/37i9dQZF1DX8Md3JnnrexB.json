@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 211970,
+  "num_followers": 211975,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy3QMwAAAAC9VSVxmvFr7QDbZQngbMJk",
+  "snapshot_id": "Z5kmsAAAAAAe6QILnHnbg4RS30cJpfDY",
   "tracks": [
     {
       "added_at": "2024-07-03 15:11:44",
@@ -59,26 +59,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 205906,
-      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -91,22 +71,6 @@
       "duration_ms": 273333,
       "name": "Just Once",
       "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 345240,
-      "name": "Reunited",
-      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -143,38 +107,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+        "name": "Being With You",
+        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
       },
       "artists": [
         {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
         }
       ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Blue Lights in the Basement",
-        "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 280800,
-      "name": "The Closer I Get to You",
-      "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
+      "duration_ms": 246960,
+      "name": "Being With You",
+      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -211,18 +155,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Being With You",
-        "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
       },
       "artists": [
         {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
         }
       ],
-      "duration_ms": 246960,
-      "name": "Being With You",
-      "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -239,26 +183,6 @@
       "duration_ms": 352586,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "One Hundred Ways",
-      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -295,18 +219,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
       "artists": [
         {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
         }
       ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
+      "duration_ms": 259040,
+      "name": "One Hundred Ways",
+      "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -375,22 +303,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 292733,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Jarreau",
         "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
       },
@@ -403,6 +315,22 @@
       "duration_ms": 258399,
       "name": "Mornin'",
       "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 292733,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -439,22 +367,6 @@
       "duration_ms": 166400,
       "name": "Where Is the Love",
       "url": "https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Caught Up in the Rapture",
-      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -527,6 +439,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Soul Organic (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
       },
@@ -555,22 +483,6 @@
       "duration_ms": 170878,
       "name": "I'M A MAN - MIDNIGHT VERSION",
       "url": "https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -847,26 +759,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "The Essentials: Ambrosia",
-        "url": "https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        },
-        {
-          "name": "Soul Hooligan",
-          "url": "https://open.spotify.com/artist/6RnKffhIqgv8JC9Q1gNfRV"
-        }
-      ],
-      "duration_ms": 326800,
-      "name": "Biggest Part of Me - Remastered Version",
-      "url": "https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Beautiful Ballads",
         "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
       },
@@ -879,6 +771,26 @@
       "duration_ms": 300226,
       "name": "Love, Need and Want You",
       "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Givin' It Up",
+        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        },
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -955,26 +867,6 @@
       "duration_ms": 200174,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Givin' It Up",
-        "url": "https://open.spotify.com/album/5T2Nw2EsHUp27w6IOuBt3T"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        },
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/1BDohKyV2EJ6iOmvx1K2FW"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1063,6 +955,22 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "Moody's Mood",
+      "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
         "name": "Gravy",
         "url": "https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP"
       },
@@ -1103,38 +1011,6 @@
       "duration_ms": 235733,
       "name": "Between the Sheets [Edit] (feat. Chaka Khan and Nathan East)",
       "url": "https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "Moody's Mood",
-      "url": "https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "I Can't See Myself Leaving You",
-      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1187,18 +1063,18 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Classic Love Songs",
-        "url": "https://open.spotify.com/album/4IjcmdZGlWtNP83pts9Ktg"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 284533,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
+      "duration_ms": 181466,
+      "name": "I Can't See Myself Leaving You",
+      "url": "https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1215,6 +1091,22 @@
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Classic Love Songs",
+        "url": "https://open.spotify.com/album/4IjcmdZGlWtNP83pts9Ktg"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 284533,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/3unVxPRMPloyBO70zQTksn"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1631,22 +1523,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Al Wilson",
-        "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
-      },
-      "artists": [
-        {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Show and Tell - Rerecorded",
-      "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
       },
@@ -1659,6 +1535,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Al Wilson",
+        "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Show and Tell - Rerecorded",
+      "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1699,6 +1591,106 @@
       "duration_ms": 211306,
       "name": "This Close To You",
       "url": "https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Tell Me Something",
+        "url": "https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 257726,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/5DNuGx7kB0GRgT8TOeppeC"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/5tIbsf9661vfjKOJD9IsCb"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Soul Survivor",
+        "url": "https://open.spotify.com/album/4b48wowrVEK5Wav4xqYUGm"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 290306,
+      "name": "Don't Ask My Neighbor",
+      "url": "https://open.spotify.com/track/55HnSyUENRJAnAGEFjwYb0"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Songs That Made Me Feel",
+        "url": "https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb"
+      },
+      "artists": [
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Come To Me (with Musiq Soulchild)",
+      "url": "https://open.spotify.com/track/1AlkJA8QIBrlpiZtZirkIB"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Life Is A Song Worth Singing",
+        "url": "https://open.spotify.com/album/0x8q0crYQI3FagJi0UG5nY"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 325720,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/18QoUfcjQavkS6t7QT04aK"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "The Best Of Gladys Knight & The Pips",
+        "url": "https://open.spotify.com/album/0OV8RlPlzYfP75m1pgh0GD"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
+      "url": "https://open.spotify.com/track/76Gcy0ltMutGaK8oizgdrF"
     }
   ],
   "unique_name": "Soulful Blend",

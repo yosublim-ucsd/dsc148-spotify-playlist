@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,641,800 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,641,842 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 18 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 |
 | 19 | [Unity](https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Unity](https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh) | 3:24 |
 | 20 | [Avalon](https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Avalon](https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE) | 2:16 |
-| 21 | [PS5](https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:32 |
-| 22 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
+| 21 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
+| 22 | [PS5](https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:32 |
 | 23 | [End of Time](https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [End of Time](https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl) | 3:07 |
 | 24 | [All Falls Down \(feat\. Juliander\)](https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:18 |
 | 25 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 50 | [Heading Home](https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Heading Home](https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD) | 3:04 |
 | 51 | [Incommunicado](https://open.spotify.com/track/3N0b9Mqeq2pCLLaeiVBM6q) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:58 |
 
-Snapshot ID: `Z5V7AAAAAABvWhmX4NiA9W8RuXJR1uz2`
+Snapshot ID: `Z5bMgAAAAACkXLIp8Tl3rfOtB+lyD9d4`

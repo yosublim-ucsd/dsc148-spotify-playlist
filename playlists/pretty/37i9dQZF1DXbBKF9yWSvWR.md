@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > All new music with an Indie twist\. Cover: Lucy Dacus
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,679 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,658 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 5 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 |
 | 6 | [Trouble](https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Trouble](https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD) | 5:00 |
 | 7 | [Wet Faced & Ugly](https://open.spotify.com/track/3yAVjo24bbVBElLDlIO4fv) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wet Faced & Ugly](https://open.spotify.com/album/5HpdJPwD8dGiUDE9s9HD5P) | 2:51 |
-| 8 | [Comet](https://open.spotify.com/track/55PRSh89wEGEg28BtkeEnh) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Comet](https://open.spotify.com/album/5uDionvu3zPHU1zrNhXLXx) | 3:50 |
-| 9 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 |
-| 10 | [Dragon's Eyes](https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dragon's Eyes](https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs) | 3:48 |
-| 11 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 |
-| 12 | [Merry Go Round](https://open.spotify.com/track/1IxHzaNiBD9imh5AWu22SN) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [Merry Go Round](https://open.spotify.com/album/3KKGjLZLkQL32xpBCLqrYJ) | 3:08 |
-| 13 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 |
-| 14 | [Gimme](https://open.spotify.com/track/1SYgkmQWmQu6EeUb8SojiX) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gimme](https://open.spotify.com/album/4wVn8yXzw2zHTcf2kVfuZr) | 2:47 |
-| 15 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
-| 16 | [Hell or High Water](https://open.spotify.com/track/3uB5VuRR6J6nKbpBYmPCj8) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Benjamin Longman](https://open.spotify.com/artist/4mXA7wTTHSpP0T2cgHmlVE) | [A Mirror Sometimes](https://open.spotify.com/album/7M64ZCQVyWoEaFRhkdhV1x) | 3:51 |
-| 17 | [heartbreak hotel](https://open.spotify.com/track/1VvYJUC8XGh1U1vJo8y63H) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [heartbreak hotel](https://open.spotify.com/album/1kIBEr0xRymkmsXeRc2kPS) | 2:56 |
+| 8 | [heartbreak hotel](https://open.spotify.com/track/1VvYJUC8XGh1U1vJo8y63H) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [heartbreak hotel](https://open.spotify.com/album/1kIBEr0xRymkmsXeRc2kPS) | 2:56 |
+| 9 | [Comet](https://open.spotify.com/track/55PRSh89wEGEg28BtkeEnh) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Comet](https://open.spotify.com/album/5uDionvu3zPHU1zrNhXLXx) | 3:50 |
+| 10 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 |
+| 11 | [Dragon's Eyes](https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dragon's Eyes](https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs) | 3:48 |
+| 12 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 |
+| 13 | [Merry Go Round](https://open.spotify.com/track/1IxHzaNiBD9imh5AWu22SN) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [Merry Go Round](https://open.spotify.com/album/3KKGjLZLkQL32xpBCLqrYJ) | 3:08 |
+| 14 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 |
+| 15 | [Gimme](https://open.spotify.com/track/1SYgkmQWmQu6EeUb8SojiX) | [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [Gimme](https://open.spotify.com/album/4wVn8yXzw2zHTcf2kVfuZr) | 2:47 |
+| 16 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
+| 17 | [Hell or High Water](https://open.spotify.com/track/3uB5VuRR6J6nKbpBYmPCj8) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [Benjamin Longman](https://open.spotify.com/artist/4mXA7wTTHSpP0T2cgHmlVE) | [A Mirror Sometimes](https://open.spotify.com/album/7M64ZCQVyWoEaFRhkdhV1x) | 3:51 |
 | 18 | [Dear Ghosters](https://open.spotify.com/track/1B7mvtD6Ud9RKAMD7kD5xp) | [Gisèle](https://open.spotify.com/artist/2Yons0qNQ13nhY4ynofhna) | [Dear Ghosters](https://open.spotify.com/album/7LU2KR3ZCGIx9M68m3rWkf) | 2:35 |
 | 19 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 |
 | 20 | [Pavement](https://open.spotify.com/track/3SLpYifPLNbact2miciz7A) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Pavement](https://open.spotify.com/album/2MWSw8tBvNWIXURHKT6ai0) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 79 | [Dollhouse](https://open.spotify.com/track/72Bzv39mrLOf0VMNoOX62S) | [KIND HUMAN](https://open.spotify.com/artist/5LiAxF7Px6i7yypahrFrZV) | [Dollhouse](https://open.spotify.com/album/5g9RW87l5rtU3qYgoU9vLE) | 3:08 |
 | 80 | [Broken Bottles](https://open.spotify.com/track/2ankNd24u6zEyE0EhN32cS) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Broken Bottles](https://open.spotify.com/album/5mWU14MdyONaYi7wW8nGQe) | 3:35 |
 
-Snapshot ID: `Z5LJ+AAAAACE+OEVGWC16XkbadfDNMKJ`
+Snapshot ID: `Z5im8QAAAADv5O/8GWr/uUNt105Eap/C`

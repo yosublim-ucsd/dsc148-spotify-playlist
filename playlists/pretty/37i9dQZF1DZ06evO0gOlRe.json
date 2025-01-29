@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 33655,
+  "num_followers": 33663,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAADms0S89p7ODxuJFQQzV/ZT",
+  "snapshot_id": "Z5bMgAAAAAAHtlhKnMMawTC+8YricG7L",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Problem Instead",
-        "url": "https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "His Problem Instead",
-      "url": "https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if you only knew",
         "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 162146,
       "name": "if you only knew",
       "url": "https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Problem Instead",
+        "url": "https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 163989,
+      "name": "His Problem Instead",
+      "url": "https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "he never will",
-        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "he never will",
-      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 161430,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "he never will",
+        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "he never will",
+      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compare Myself",
-        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 211948,
-      "name": "Compare Myself",
-      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different People",
         "url": "https://open.spotify.com/album/5NdXSw01Lt8ha2QaaEQPZE"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 174071,
       "name": "Different People",
       "url": "https://open.spotify.com/track/12PFQS7zeWYMJoN9DT2ceE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compare Myself",
+        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 211948,
+      "name": "Compare Myself",
+      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
     },
     {
       "added_at": null,

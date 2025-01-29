@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,984 likes - 278 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,985 likes - 278 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 131 | [Show Me Girl \- 2008 Remaster](https://open.spotify.com/track/59Q9ivKKAZwbAETukwviEA) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Into Something Good \(The Mickie Most Years 1964\-1972\)](https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV) | 2:37 |
 | 132 | [There Is A Tavern In The Town](https://open.spotify.com/track/4DJLYAE0mMknhKTwRdmt1v) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Those Lazy Hazy Crazy Days Of Summer](https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC) | 1:36 |
 | 133 | [Change In Mind, Change Of Heart](https://open.spotify.com/track/4TE2oo9qvqIk6WOpptxMz8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 4:39 |
-| 134 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 |
-| 135 | [You Gentle Me](https://open.spotify.com/track/0lFkZ2hBMSguq0EgM2y9Ia) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:46 |
+| 134 | [You Gentle Me](https://open.spotify.com/track/0lFkZ2hBMSguq0EgM2y9Ia) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:46 |
+| 135 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 |
 | 136 | [I Don't Think You Know Me \- Second Recorded Version; 2006 Remaster](https://open.spotify.com/track/7yUemsSDDVpsm1ismCVPTl) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:20 |
 | 137 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 |
 | 138 | [Lady](https://open.spotify.com/track/7qdtc71bUp1oyxaO4IzQae) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Rake It In: The Greatestest Hits](https://open.spotify.com/album/1vUPHNLRsdPmhuyqHmmX1M) | 2:22 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 152 | [I've Known You All My Life](https://open.spotify.com/track/2x3CU4zpyGG5F8QFaUAKlR) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 1:58 |
 | 153 | [Where Do I Go](https://open.spotify.com/track/3nMQI2dUZKh7VtBZZTeGLv) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Llllloco\-Motion](https://open.spotify.com/album/1e6fzvmRJi8r6TInJhimdj) | 2:12 |
 | 154 | [Best of Friends](https://open.spotify.com/track/2zBD9cBfG7ZgEQ90B837Ps) | [Twennynine](https://open.spotify.com/artist/4lrBQQ6NR1pj1nSzsPs7sI), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Best Of Friends](https://open.spotify.com/album/53fNq8N0v5K2E7S789DqWi) | 3:52 |
-| 155 | [Wrap Around Joy](https://open.spotify.com/track/3L3ZUhdMlW2qWVZEJRW7Ri) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:56 |
-| 156 | [My Simple Humble Neighborhood](https://open.spotify.com/track/0SS3LPU1vNojzOOaeVCI49) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 3:07 |
+| 155 | [My Simple Humble Neighborhood](https://open.spotify.com/track/0SS3LPU1vNojzOOaeVCI49) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 3:07 |
+| 156 | [Wrap Around Joy](https://open.spotify.com/track/3L3ZUhdMlW2qWVZEJRW7Ri) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:56 |
 | 157 | [A Man Without a Dream](https://open.spotify.com/track/15HiMB4XHgr2UiuAtNHlhC) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Instant Replay](https://open.spotify.com/album/4UZe5Oq0ZIA4AD9NlApFF6) | 3:03 |
 | 158 | [It's Gonna Be Alright](https://open.spotify.com/track/6IyIz92JZRTmBunEPLwPoZ) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [The EP Collection..\. Plus](https://open.spotify.com/album/1TbczNPbmppYmcTqfJu92o) | 2:34 |
 | 159 | [Satisfied](https://open.spotify.com/track/4aAqN4Xzxd7UqG9KpTeVVI) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [Something To Shout About](https://open.spotify.com/album/6d1nUCOvcCLhMGzpTjLbQY) | 2:54 |
@@ -267,8 +267,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 257 | [They're Jealous Of Me](https://open.spotify.com/track/2QGrKWSgmY1ENXWdIB0V91) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:54 |
 | 258 | [The Reunion \- Instrumental Interlude, Pt\. 1](https://open.spotify.com/track/03ZLYdHAN1IF9cFTwHrtZR) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Rare, Rarer & Rarest](https://open.spotify.com/album/4jCUaQ3CEu82w3w0EYrELn) | 1:56 |
 | 259 | [The Sheik](https://open.spotify.com/track/13RS52E25mjvFudrAA9zKR) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 2:29 |
-| 260 | [The Slide](https://open.spotify.com/track/67Ae2TYDdJ3uymxLFynJmQ) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Hey Girl](https://open.spotify.com/album/1NfKXGEGEAHmYSyAfVjdK9) | 2:04 |
-| 261 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
+| 260 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
+| 261 | [The Slide](https://open.spotify.com/track/67Ae2TYDdJ3uymxLFynJmQ) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Hey Girl](https://open.spotify.com/album/1NfKXGEGEAHmYSyAfVjdK9) | 2:04 |
 | 262 | [Happy Being Fat](https://open.spotify.com/track/5pD3ZBr7iPrSxwHyPm9MsP) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:33 |
 | 263 | [Randy](https://open.spotify.com/track/4SA9V9mLo4atqeNEf3x9f7) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [In Paradise](https://open.spotify.com/album/5MXjKQROTgTK2vUCACD8ZQ) | 2:13 |
 | 264 | [Love Eyes \- Remastered](https://open.spotify.com/track/5qJeIzaoIodrrKSOeugESh) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3), [Bertell Dache](https://open.spotify.com/artist/7sB4wR6iuxLodTRyIo7xeD) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/29vKALglR7SVF9gVuF4ktW) | 1:58 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 277 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 278 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AboBFgAAAADkrP1qQUeqU3gvqf0wZztB`
+Snapshot ID: `AboGygAAAADnoGLzwkkGKAQDluUNGf/s`

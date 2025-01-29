@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-282 songs - 12 hr 1 min
+283 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2024-01-12 |
 | [Star Light, Star Bright](https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Star Light, Star Bright](https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes) | 1:57 | 2023-06-02 | 2023-08-26 |
 | [Star light, Star Bright](https://open.spotify.com/track/3KNTLFza8pBNlWGrJ8UhrW) | [Rebecca Scott](https://open.spotify.com/artist/1Krmj9Gm4xch0pzQOUvgQ2) | [Star light, Star Bright](https://open.spotify.com/album/6HKVpUdjXbjEA86lsiYHgG) | 1:38 | 2022-10-07 | 2023-08-26 |
+| [Stillness](https://open.spotify.com/track/6LjrczTRiY4ZWG85vdD3W5) | [Mattias Blom](https://open.spotify.com/artist/1BaxgJpBm81CBBpUhRnVO9) | [Stillness](https://open.spotify.com/album/7g1FCiurDarlhgX1EhSnMx) | 2:40 | 2025-01-28 |  |
 | [Strawberry Dreams](https://open.spotify.com/track/6VmmaKQk2QRX4Fz3k7RQIy) | [Rua Do Sol](https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4) | [Strawberry Dreams](https://open.spotify.com/album/6halbltGTQuauVqk6ZVxr8) | 2:59 | 2024-05-03 | 2024-11-27 |
 | [Struck By Clouds](https://open.spotify.com/track/5UkCU9C0YGZHNwPIcGD3Up) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Struck By Clouds](https://open.spotify.com/album/1Soyj2nHKvnAHaOvauNtVm) | 1:57 | 2021-12-09 | 2023-04-29 |
 | [Suaves voces](https://open.spotify.com/track/4cBUGJbBfC8PN8Bbv1aE8P) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Suaves voces](https://open.spotify.com/album/5UpeiNsZzH4sAkoYjwTan0) | 3:12 | 2021-12-09 |  |

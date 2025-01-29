@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,505 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,506 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 71 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 |
 | 72 | [Own Worst Enemy](https://open.spotify.com/track/6hOHtSDgThl9APiEWnaPI6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Own Worst Enemy](https://open.spotify.com/album/10yQR0XNy1taL1jRqoNvfN) | 3:00 |
 | 73 | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/track/7ywySoHRFB5U0FbJXYLdiF) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [THANK YOU FOR RUINING MY LIFE](https://open.spotify.com/album/1cREwIhq0OuhuSY7W7o5Di) | 2:51 |
-| 74 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
-| 75 | [People disappear here](https://open.spotify.com/track/76gkzHEZKCrHwXqv4JsE1o) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/1p2rkkve941Ic11dfzfrJD) | 4:07 |
+| 74 | [People disappear here](https://open.spotify.com/track/76gkzHEZKCrHwXqv4JsE1o) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power \(Extended\)](https://open.spotify.com/album/1p2rkkve941Ic11dfzfrJD) | 4:07 |
+| 75 | [Brad Pitt](https://open.spotify.com/track/603NmSpDReeERhC8heOeVB) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Brad Pitt / Goosebumps](https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR) | 3:01 |
 | 76 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 |
 | 77 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 |
 | 78 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 79 | [Not ur fkn fan](https://open.spotify.com/track/4rgCx716P6hrEL4w6KWMJe) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Not ur fkn fan](https://open.spotify.com/album/78gtm9P5nt1Nw0kOpEfvZd) | 3:17 |
+| 79 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 |
 | 80 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
 
 Snapshot ID: `ZuwuYAAAAAAJOnHiDQ0FiR5clq+scASy`

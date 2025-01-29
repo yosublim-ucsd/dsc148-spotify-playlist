@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,713 songs - 3 day 7 hr 36 min
+1,714 songs - 3 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -821,8 +821,8 @@
 | [supernxva](https://open.spotify.com/track/1ERXtrPsABpmkCchv9GO0O) | [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs) | [supernxva](https://open.spotify.com/album/6B31odQv5BWrPmDfBzjsjl) | 1:38 | 2023-08-12 | 2023-08-18 |
 | [Supersonic](https://open.spotify.com/track/4o9kHw0XBJfGazV6bgttU4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:44 | 2024-06-29 | 2024-09-15 |
 | [Supersonic](https://open.spotify.com/track/5gSzWAAZIZBhSDSufE7nHv) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/786SDwa0FZXk7Wzeq6pqhQ) | 2:44 | 2024-09-14 | 2024-11-06 |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-04-26 |  |
-| [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2024-09-17 | 2025-01-23 |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-04-26 | 2025-01-29 |
+| [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2024-09-17 |  |
 | [SWEET THIEVES](https://open.spotify.com/track/5fMUxzTNvh2dt46h0R1byU) | [Lorean](https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB), [Mor3a](https://open.spotify.com/artist/24cwZcUJ6D1FZBjjhoHJzV) | [SWEET THIEVES](https://open.spotify.com/album/34NIi7mFSqk0Fj0ZVbfTf9) | 2:52 | 2023-12-18 | 2023-12-20 |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2025-01-03 |  |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-01 |  |
@@ -1432,7 +1432,8 @@
 | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/track/0OO0cxW5gSaL1EggeW1Bj0) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [ПОДОЛЯНОЧКА \(GET UP\)](https://open.spotify.com/album/0ZAHrT36fotzrEuhClUXhG) | 2:58 | 2024-05-17 | 2024-06-18 |
 | [ПОЙДЕТ](https://open.spotify.com/track/3mUDlIALLosWgmHtWjDBmK) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ПОЙДЕТ](https://open.spotify.com/album/2sks2dJhh2YVT1LZ1sUss1) | 2:00 | 2023-05-20 | 2023-05-30 |
 | [Пока\-пора](https://open.spotify.com/track/2rao5sMWohJhJlXAYb4g7h) | [Bahroma](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Ипи](https://open.spotify.com/album/7C2K4H2SgmeX7jLMPevDpo) | 5:50 | 2022-06-28 | 2022-07-07 |
-| [Покохай мене](https://open.spotify.com/track/1YeQGpxrQvp6Yg3K6SIgho) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Покохай мене](https://open.spotify.com/album/7iT1upSPSL2UpnEO2rQ3rX) | 2:56 | 2023-11-13 |  |
+| [Поклич мене на танці](https://open.spotify.com/track/0Obbm6u7fCtroYVl2BAGB5) | [Пан Парасоля](https://open.spotify.com/artist/5bWCxW18dUL0ll835T2sQq) | [Поклич мене на танці](https://open.spotify.com/album/15tNBE7EsXqJZCSIMd01kJ) | 3:07 | 2025-01-28 |  |
+| [Покохай мене](https://open.spotify.com/track/1YeQGpxrQvp6Yg3K6SIgho) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [100лиця](https://open.spotify.com/artist/5YgAXaiDXfn1JotXCdJg8W) | [Покохай мене](https://open.spotify.com/album/7iT1upSPSL2UpnEO2rQ3rX) | 2:56 | 2023-11-13 | 2025-01-29 |
 | [Положение](https://open.spotify.com/track/1hfISzdAwnywAKxaSpfloo) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Уроборос: Улица 36](https://open.spotify.com/album/4AazRccPqHpoIxedRFfurN) | 4:42 | 2021-03-27\* | 2021-10-31 |
 | [Пополам](https://open.spotify.com/track/0nqWnlvSpyqbk2Xp9mncVL) | [BRANYA](https://open.spotify.com/artist/0Bs5ttRLguNx77bWNy6og4), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [Пополам](https://open.spotify.com/album/2TQvPwtjrMEcyCPEcvPCAg) | 2:21 | 2021-06-16 | 2021-10-16 |
 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2023-03-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,029 likes - 34 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,035 likes - 34 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 9 | [Collapse](https://open.spotify.com/track/4iLRzDTNc3NbTyQ0w5cAOd) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:15 |
 | 10 | [Translating the Name](https://open.spotify.com/track/2fsYDaUa76sRjlHxqh1sdx) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:26 |
 | 11 | [Count Back from TEN](https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 3:06 |
-| 12 | [Nothing Is What It Seems](https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 4:25 |
+| 12 | [Why Can't You See](https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 2:39 |
 | 13 | [Sleepers](https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 2:51 |
 | 14 | [They Perched on Their Stilts, Pointing and Daring Me to Break Custom](https://open.spotify.com/track/1H3cv1QRzBChdsOnPdyrfD) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:51 |
 | 15 | [Ideology Is Theft](https://open.spotify.com/track/2JpvJGyaOpH1YPjBGZf1qr) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 3:33 |
-| 16 | [Why Can't You See](https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 2:39 |
+| 16 | [Nothing Is What It Seems](https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 4:25 |
 | 17 | [It's Far Better To Learn](https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:54 |
 | 18 | [Lost Symphonies](https://open.spotify.com/track/7EzL0vW3YlaAH0EiUe5MKk) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:55 |
 | 19 | [Racing Toward a Red Light](https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 2:54 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 33 | [Hometown Feeling \- Live](https://open.spotify.com/track/7v9xCQpvXLvwPGBMwwxEFB) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 0:38 |
 | 34 | [This Changed My Life \- Live](https://open.spotify.com/track/1JwkY0S2mpbWgpaYrFvJBh) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 1:08 |
 
-Snapshot ID: `Z5V7AAAAAADByfL3C87E8F/M14B7MSYS`
+Snapshot ID: `Z5bMgAAAAAC4tdmXNHXcnPxCZY0RQj1U`

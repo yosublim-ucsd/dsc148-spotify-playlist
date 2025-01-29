@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 261638,
       "name": "Origami Song",
       "url": "https://open.spotify.com/track/20jLunM1GMasrScNWN45mP"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 240132,
       "name": "Window",
       "url": "https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o"
@@ -2887,6 +2887,24 @@
     },
     {
       "album": {
+        "name": "\u706b\u661f\u306e\u51ac",
+        "url": "https://open.spotify.com/album/1iuQx4uh0usnKThiGhSSOb"
+      },
+      "artists": [
+        {
+          "name": "baboon",
+          "url": "https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334285,
+      "name": "\u706b\u661f\u306e\u51ac",
+      "url": "https://open.spotify.com/track/4UHzBwKTPCCB6OkpNgDM7Q"
+    },
+    {
+      "album": {
         "name": "\u706b\u9b45\u87f2",
         "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
       },
@@ -2902,6 +2920,24 @@
       "duration_ms": 190553,
       "name": "\u706b\u9b45\u87f2",
       "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
+    },
+    {
+      "album": {
+        "name": "\u72ec\u767d",
+        "url": "https://open.spotify.com/album/3bohD8rUa1U2O5zMVAfLHf"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232344,
+      "name": "\u72ec\u767d",
+      "url": "https://open.spotify.com/track/6KGVTqKatNlWRNBvkJl0px"
     },
     {
       "album": {

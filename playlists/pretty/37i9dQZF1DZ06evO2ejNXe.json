@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1516,
+  "num_followers": 1518,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAAZbKvyT/LPlIsMKy5XXT3+",
+  "snapshot_id": "Z5bMgAAAAABIpZAikVNbblK59amevr3x",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 184293,
-      "name": "Mambo, Mambo",
-      "url": "https://open.spotify.com/track/1lfsFtXEM1TSYTja0WCo7C"
+      "duration_ms": 200240,
+      "name": "Hey Hey Tu",
+      "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200240,
-      "name": "Hey Hey Tu",
-      "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
+      "duration_ms": 184293,
+      "name": "Mambo, Mambo",
+      "url": "https://open.spotify.com/track/1lfsFtXEM1TSYTja0WCo7C"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Pachanga",
-        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 149493,
-      "name": "El Loco Bailar\u00edn",
-      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
+      "duration_ms": 206933,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Pachanga",
+        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 149493,
+      "name": "El Loco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/2v9gcw6iubxpwv1lWw2r3O"
+      "duration_ms": 186026,
+      "name": "Sombrero, Zarape Y Guitarra",
+      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
     },
     {
       "added_at": null,
@@ -456,9 +472,25 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 186026,
-      "name": "Sombrero, Zarape Y Guitarra",
-      "url": "https://open.spotify.com/track/0edkBaaZC5FYtLiPP0Oh4X"
+      "duration_ms": 200373,
+      "name": "Mil cartas.",
+      "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
     },
     {
       "added_at": null,
@@ -483,22 +515,6 @@
       "duration_ms": 645067,
       "name": "Popurr\u00ed",
       "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
     },
     {
       "added_at": null,
@@ -528,25 +544,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200373,
-      "name": "Mil cartas.",
-      "url": "https://open.spotify.com/track/3DCS7PRExYp8s1xPD2GdwD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 163706,
-      "name": "Creiste",
-      "url": "https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ"
+      "duration_ms": 169520,
+      "name": "El Sancudito",
+      "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
       "duration_ms": 181293,
       "name": "Muevelo Bien",
       "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 163706,
+      "name": "Creiste",
+      "url": "https://open.spotify.com/track/3nWtfZgikwANXfkNFjH4hJ"
     },
     {
       "added_at": null,
@@ -592,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 169520,
-      "name": "El Sancudito",
-      "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
+      "duration_ms": 171346,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 213093,
       "name": "Mambo Loco",
       "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 171346,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 824,
+  "num_followers": 827,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACJP0Xf8FKZMEWjiwrP8Mks",
+  "snapshot_id": "Z5bMgAAAAAATReMR5F993c1nFtLatod/",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 286032,
-      "name": "El Caballero (Live)",
-      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
+      "duration_ms": 145160,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
     },
     {
       "added_at": null,
@@ -399,38 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CELOSO",
-        "url": "https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "CELOSO",
-      "url": "https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -440,25 +408,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 226943,
-      "name": "Anillo Grabado (Live)",
-      "url": "https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CON LA COCHI [VOL II (EN VIVO)]",
-        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 220747,
-      "name": "Cuando Te Acuerdes De Mi - En Vivo",
-      "url": "https://open.spotify.com/track/1jB5ud2IaMBnUGuOzqpOH9"
+      "duration_ms": 286032,
+      "name": "El Caballero (Live)",
+      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
     },
     {
       "added_at": null,
@@ -479,6 +431,54 @@
       "duration_ms": 165640,
       "name": "De Negra a Negra",
       "url": "https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CELOSO",
+        "url": "https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "CELOSO",
+      "url": "https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CON LA COCHI [VOL II (EN VIVO)]",
+        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 220747,
+      "name": "Cuando Te Acuerdes De Mi - En Vivo",
+      "url": "https://open.spotify.com/track/1jB5ud2IaMBnUGuOzqpOH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 226943,
+      "name": "Anillo Grabado (Live)",
+      "url": "https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
       "duration_ms": 224757,
       "name": "Falsas Amistades",
       "url": "https://open.spotify.com/track/4181MRYP7YRi0xeTLSqmnl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 258340,
-      "name": "Mujer Mujer (Live)",
-      "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 258340,
+      "name": "Mujer Mujer (Live)",
+      "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TUMBADO STYLE",
         "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 97760,
       "name": "INTRO TUMBADO",
       "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 232350,
-      "name": "Cajita De Oro (Live)",
-      "url": "https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM"
     },
     {
       "added_at": null,
@@ -639,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 232350,
+      "name": "Cajita De Oro (Live)",
+      "url": "https://open.spotify.com/track/4sLDHPWudebdkvgfRZcugM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Andares De Alfredo",
         "url": "https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 181040,
       "name": "Los Andares De Alfredo",
       "url": "https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "Me Gusta Tener De a Dos (Live)",
-      "url": "https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx"
     },
     {
       "added_at": null,
@@ -715,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Los Grandes",
-        "url": "https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Jes\u00fas Ojeda y Sus Parientes",
-          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
-        }
-      ],
-      "duration_ms": 181386,
-      "name": "El Operativo",
-      "url": "https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -744,9 +708,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 294742,
-      "name": "El Lunar (Live)",
-      "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
+      "duration_ms": 277773,
+      "name": "Me Gusta Tener De a Dos (Live)",
+      "url": "https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx"
     },
     {
       "added_at": null,
@@ -771,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Los Grandes",
+        "url": "https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Jes\u00fas Ojeda y Sus Parientes",
+          "url": "https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk"
+        }
+      ],
+      "duration_ms": 181386,
+      "name": "El Operativo",
+      "url": "https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nivel Dios",
         "url": "https://open.spotify.com/album/7CundRMbGZHSxzu6xjbRe0"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 147389,
       "name": "Brillando Bengalas",
       "url": "https://open.spotify.com/track/2mYry3CA7QdxQcbXXSkt81"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 294742,
+      "name": "El Lunar (Live)",
+      "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
     },
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trato De Muerte (En Vivo)",
+        "url": "https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Trato De Muerte - En Vivo",
+      "url": "https://open.spotify.com/track/22QCnHj9YU33d0IfjhQadE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Tumbado",
         "url": "https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7"
       },
@@ -847,22 +867,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trato De Muerte (En Vivo)",
-        "url": "https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu"
+        "name": "Grupo T\u00e1ctico",
+        "url": "https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0"
       },
       "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Trato De Muerte - En Vivo",
-      "url": "https://open.spotify.com/track/22QCnHj9YU33d0IfjhQadE"
+      "duration_ms": 180600,
+      "name": "GRUPO T\u00c1CTICO",
+      "url": "https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Siempre Pendientes - En Vivo",
+      "url": "https://open.spotify.com/track/2MO2sTiLH06FAcbUp9hlBg"
     },
     {
       "added_at": null,
@@ -887,38 +919,6 @@
       "duration_ms": 281840,
       "name": "Mi Ranchito (En Vivo)",
       "url": "https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Siempre Pendientes - En Vivo",
-      "url": "https://open.spotify.com/track/2MO2sTiLH06FAcbUp9hlBg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grupo T\u00e1ctico",
-        "url": "https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "GRUPO T\u00c1CTICO",
-      "url": "https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb"
     },
     {
       "added_at": null,
@@ -959,8 +959,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2"
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
       "artists": [
         {
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 189400,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/40n0B9pwCkW8QeD7RflSjL"
+      "duration_ms": 249346,
+      "name": "La Canelera - En Vivo",
+      "url": "https://open.spotify.com/track/08dFJtcFBMVs8EAyoIcSyR"
     },
     {
       "added_at": null,

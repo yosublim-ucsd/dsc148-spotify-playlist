@@ -6944,7 +6944,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
@@ -9648,7 +9648,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -11698,7 +11698,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 190714,
       "name": "The Trouble is..\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e02\u0e2d\u0e07\u0e09\u0e31\u0e19 - From \"\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e43\u0e19\u0e23\u0e49\u0e2d\u0e22\"",
       "url": "https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC"
@@ -12668,7 +12668,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -16678,7 +16678,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 251538,
       "name": "\u0e27\u0e34\u0e07\u0e27\u0e2d\u0e19 (ex-change)",
       "url": "https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH"
@@ -16855,6 +16855,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e43\u0e08\u0e08\u0e30\u0e44\u0e02\u0e27\u0e48\u0e04\u0e27\u0e49\u0e32",
+        "url": "https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn"
+      },
+      "artists": [
+        {
+          "name": "Little John",
+          "url": "https://open.spotify.com/artist/5bNXBeR6aWZC2SrZL0oNFh"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314117,
+      "name": "\u0e2a\u0e38\u0e14\u0e41\u0e15\u0e48\u0e43\u0e08\u0e08\u0e30\u0e44\u0e02\u0e27\u0e48\u0e04\u0e27\u0e49\u0e32",
+      "url": "https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e48\u0e32\u0e07 (do it without me)",
         "url": "https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f"
       },
@@ -16884,7 +16902,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 197746,
       "name": "\u0e2a\u0e48\u0e27\u0e19\u0e15\u0e48\u0e32\u0e07 (do it without me)",
       "url": "https://open.spotify.com/track/3DhUCW79UtTVIAeZJQxlge"
@@ -18260,7 +18278,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 238392,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"

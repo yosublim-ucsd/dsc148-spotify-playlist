@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 23904,
+  "num_followers": 23905,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACit4BKew4Xe/xIQep7ursQ",
+  "snapshot_id": "Z5bMgAAAAACT6u7SN+vcqlHArtDi5S1L",
   "tracks": [
     {
       "added_at": null,
@@ -335,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+        "name": "Where Country Is",
+        "url": "https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 174333,
-      "name": "Give Me Room",
-      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
+      "duration_ms": 232746,
+      "name": "Where Country Is",
+      "url": "https://open.spotify.com/track/0OUJQOvbcQx82CQk27Koly"
     },
     {
       "added_at": null,
@@ -383,28 +387,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Country Is",
-        "url": "https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR"
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "The Travelling Country Band",
-          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 232746,
-      "name": "Where Country Is",
-      "url": "https://open.spotify.com/track/0OUJQOvbcQx82CQk27Koly"
+      "duration_ms": 174333,
+      "name": "Give Me Room",
+      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+        "name": "Songs For Rolling Stones",
+        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 131093,
-      "name": "Cunnamulla Feller - Remaster 1995",
-      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
+      "duration_ms": 114266,
+      "name": "The Road To Gundagai - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Rolling Stones",
-        "url": "https://open.spotify.com/album/7cZ7GoAcotwhowCmZnBbvZ"
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 114266,
-      "name": "The Road To Gundagai - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4pTr8PAfKTGz6Qr2hari9D"
+      "duration_ms": 131093,
+      "name": "Cunnamulla Feller - Remaster 1995",
+      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Plains Of Peppimenarti - 1998 Remaster",
+      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -571,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Slim Dusty (Remastered)",
-        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
       },
       "artists": [
         {
@@ -580,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Plains Of Peppimenarti - 1998 Remaster",
-      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+      "duration_ms": 191693,
+      "name": "Gotta Keep Moving",
+      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 162026,
       "name": "Haulin' For The Double 'T'",
       "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Truck Songs",
-        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Gotta Keep Moving",
-      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slim Dusty Sings Stan Coster",
         "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 178760,
       "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
       "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
     },
     {
       "added_at": null,

@@ -576,7 +576,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 221719,
       "name": "Corrido de Macario Leyva",
       "url": "https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3"
@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "Me Traes de un Ala",
+        "url": "https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "El Rengo del Gallo Giro",
+      "url": "https://open.spotify.com/track/4N6aI6IzDodEJscIaI6nfo"
+    },
+    {
+      "album": {
         "name": "Jefe De Jefes",
         "url": "https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH"
       },
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 186986,
       "name": "El Rengo Del Gallo Giro",
       "url": "https://open.spotify.com/track/1OyprjzxOmzRQ7YbsCOgPJ"
@@ -2021,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "30 Primeros Exitos",
+        "url": "https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf"
+      },
+      "artists": [
+        {
+          "name": "Los Dinamicos Del Norte",
+          "url": "https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "La Rubia Y La Morena",
+      "url": "https://open.spotify.com/track/2aqsQyxUdXNQPvgWe6gqON"
+    },
+    {
+      "album": {
         "name": "10 Corridos Pesados",
         "url": "https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf"
       },
@@ -2036,6 +2072,24 @@
       "duration_ms": 195000,
       "name": "La Suburban Dorada",
       "url": "https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora",
+        "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182868,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/5WQrCDled0Pl5dH70VfaZR"
     },
     {
       "album": {
@@ -2764,7 +2818,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 187907,
       "name": "Que Me Entierren Con La Banda",
       "url": "https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl"

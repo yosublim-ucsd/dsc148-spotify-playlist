@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 79833,
+  "num_followers": 79950,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-01-21 11:30:40",
       "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "YAYO",
+      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
+    },
+    {
+      "added_at": "2025-01-21 11:30:40",
+      "album": {
         "name": "FIND MONEY (feat. Zerrydl)",
         "url": "https://open.spotify.com/album/0wAmdWotmWdjoU0NQ6F2RQ"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 149896,
       "name": "FIND MONEY (feat. Zerrydl)",
       "url": "https://open.spotify.com/track/19FyHGQSvrg8H88eaKvUQI"
-    },
-    {
-      "added_at": "2025-01-21 11:30:40",
-      "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "YAYO",
-      "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
     },
     {
       "added_at": "2025-01-21 11:30:40",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2025-01-21 11:30:40",
       "album": {
-        "name": "Stubborn (with Asake)",
-        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Stubborn (with Asake)",
-      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
-    },
-    {
-      "added_at": "2025-01-21 11:30:40",
-      "album": {
         "name": "Devil Wears White",
         "url": "https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 190488,
       "name": "Devil Wears White",
       "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
+    },
+    {
+      "added_at": "2025-01-21 11:30:40",
+      "album": {
+        "name": "Stubborn (with Asake)",
+        "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Stubborn (with Asake)",
+      "url": "https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk"
     },
     {
       "added_at": "2025-01-21 11:30:40",

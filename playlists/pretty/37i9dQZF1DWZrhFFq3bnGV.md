@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: tjdika, Tommy Pratomo
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,212 likes - 101 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,235 likes - 101 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,718 likes - 50 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,829 likes - 50 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 14 | [Eyesolation](https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI) | [4 The Wolves](https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR) | 8:41 |
 | 15 | [How ?](https://open.spotify.com/track/3uafTF3JxwQOJVQAg4FJw0) | [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi), [Sabrina Chyld](https://open.spotify.com/artist/1n8Uva7Ya0TGB7hJoAOopU) | [Bruno & The Birds](https://open.spotify.com/album/5ssOVy0sVJdr9CZGYFJFQD) | 6:37 |
 | 16 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
-| 17 | [Can't Give Up Now \(feat\. EarfulSoul\)](https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Can't Give Up Now \(EarfulSoul\)](https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO) | 7:26 |
-| 18 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 |
+| 17 | [Another Day \(feat\. Ziyon\)](https://open.spotify.com/track/1rfwR3rYMkzOdZVKVSBiDZ) | [Sculptured Music](https://open.spotify.com/artist/4YPDYlOGASYfWCFzUBUBKN), [Ziyon](https://open.spotify.com/artist/01mTTTNz6NssRDxgyJhJwy) | [Reputation](https://open.spotify.com/album/6Y9ZGpkBpSQwYj44xjTItS) | 5:30 |
+| 18 | [Can't Give Up Now \(feat\. EarfulSoul\)](https://open.spotify.com/track/37cOwwinIiuZBzpLdjxstR) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Poizen](https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC), [Earful Soul](https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2) | [Can't Give Up Now \(EarfulSoul\)](https://open.spotify.com/album/6olF6HEAM2ivZ6FWT8mqoO) | 7:26 |
 | 19 | [So Long](https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Aquatone](https://open.spotify.com/artist/657ZCz2bARTZsq9YXVjh3R) | [So Long](https://open.spotify.com/album/62iaygApaNNVrYyU7Xck2R) | 6:24 |
 | 20 | [Dlali Namba \- Original Mix](https://open.spotify.com/track/4CWPWBHhPDngbM0s6mdX5W) | [BusyExplore](https://open.spotify.com/artist/5YF1n53vCofdEurhpfZN99), [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Dlali Number](https://open.spotify.com/album/4ClL8HVQfaH9hgqq0lansR) | 4:41 |
 | 21 | [Truth \- Nostalgic Mix](https://open.spotify.com/track/1TNs2tJtHYShkH5OYYYLEK) | [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Trace EP](https://open.spotify.com/album/2k6OcQTdxtE89UQzh7nek3) | 7:08 |

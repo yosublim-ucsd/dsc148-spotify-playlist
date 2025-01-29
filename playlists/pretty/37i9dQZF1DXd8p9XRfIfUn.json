@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 78212,
+  "num_followers": 78221,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Wasa Wasa",
-        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "Wasa Wasa",
-      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "NO PIENSO LLAMAR",
         "url": "https://open.spotify.com/album/03VZEfV1aKrAFDWgzbx915"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 198352,
       "name": "NO PIENSO LLAMAR",
       "url": "https://open.spotify.com/track/3xE3TyeIxL24IstPdy5IBv"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Wasa Wasa",
+        "url": "https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "Wasa Wasa",
+      "url": "https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Enredao",
-        "url": "https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Enredao",
-      "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "La del Tik Tok",
         "url": "https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 257592,
       "name": "La del Tik Tok",
       "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Enredao",
+        "url": "https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Enredao",
+      "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        }
+      ],
+      "duration_ms": 174892,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
         "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
         "url": "https://open.spotify.com/album/5ehSSGh8rREKoGtS4jURZc"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 217263,
       "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
       "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn"
-      },
-      "artists": [
-        {
-          "name": "La Ross Maria",
-          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
-        }
-      ],
-      "duration_ms": 174892,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -1099,22 +1099,6 @@
       "duration_ms": 181894,
       "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
       "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
-        "name": "Qu\u00e9 Rico Repetirlo",
-        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Qu\u00e9 Rico Repetirlo",
-      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -1171,6 +1155,22 @@
       "duration_ms": 176629,
       "name": "Que Loco Mami",
       "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Qu\u00e9 Rico Repetirlo",
+        "url": "https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Qu\u00e9 Rico Repetirlo",
+      "url": "https://open.spotify.com/track/63tc67n05008BFsuVhGgNb"
     },
     {
       "added_at": "2024-12-17 19:27:27",

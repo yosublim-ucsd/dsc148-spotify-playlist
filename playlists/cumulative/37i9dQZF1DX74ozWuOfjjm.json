@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "92 Purebred",
+        "url": "https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3"
+      },
+      "artists": [
+        {
+          "name": "Ruby Fields",
+          "url": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "92 Purebred",
+      "url": "https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka"
+    },
+    {
+      "album": {
         "name": "The Second Act",
         "url": "https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr"
       },
@@ -554,6 +572,24 @@
       "duration_ms": 191952,
       "name": "Alone on the Moon",
       "url": "https://open.spotify.com/track/4bnJC64uvoZ598bqwZ6L9L"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/6wWJpVkHxBcK2bagL8q2po"
+      },
+      "artists": [
+        {
+          "name": "Evie Irie",
+          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/43nOsmlhrByj1QtPYjFtN2"
     },
     {
       "album": {
@@ -1314,7 +1350,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 268653,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/6fGbtfReK8VgAsXrrUHJxg"
@@ -3628,7 +3664,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
@@ -3650,6 +3686,28 @@
       "duration_ms": 167020,
       "name": "Easy To Forgive",
       "url": "https://open.spotify.com/track/0b493x6UWJyxZjIOyG4NQ6"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/7GQkvh0JeLxE9ohhqtpjKa"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170689,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0wuwvWJ29u9UZAWZAS4zKe"
     },
     {
       "album": {
@@ -5564,7 +5622,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 248275,
       "name": "Headspins",
       "url": "https://open.spotify.com/track/5BEUsvw2Kb7V2oMXEnAi9Y"
@@ -5954,6 +6012,24 @@
       "duration_ms": 193555,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn"
+    },
+    {
+      "album": {
+        "name": "Hold It Up",
+        "url": "https://open.spotify.com/album/7lQE1NYJEBJSA3taeHaNcK"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247893,
+      "name": "Hold It Up",
+      "url": "https://open.spotify.com/track/1koUO8JFx9gR2GC3fxRb5Y"
     },
     {
       "album": {
@@ -6524,6 +6600,24 @@
       "duration_ms": 226394,
       "name": "I Wanna Be Alive",
       "url": "https://open.spotify.com/track/05dEnmjEuVBe9sTvv2bIVn"
+    },
+    {
+      "album": {
+        "name": "i wanna hate you",
+        "url": "https://open.spotify.com/album/3sEslWSnkrpLL6ek9iX9tF"
+      },
+      "artists": [
+        {
+          "name": "Yorke",
+          "url": "https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172470,
+      "name": "i wanna hate you",
+      "url": "https://open.spotify.com/track/6BC6tfQkRk1GeRkvwr9m9L"
     },
     {
       "album": {
@@ -8408,7 +8502,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 223071,
       "name": "Madeline",
       "url": "https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9"
@@ -8426,7 +8520,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 257142,
       "name": "Mailly",
       "url": "https://open.spotify.com/track/74WFvGuPTMONmrGGa3Ab04"
@@ -8822,7 +8916,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 150650,
       "name": "money!",
       "url": "https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn"
@@ -13982,6 +14076,32 @@
       "duration_ms": 125906,
       "name": "Want U Here",
       "url": "https://open.spotify.com/track/6MEBRR6soqnEWUGlJuPXqm"
+    },
+    {
+      "album": {
+        "name": "WASSA",
+        "url": "https://open.spotify.com/album/5GB53dYIw2kYHKuDGvMV0W"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Formation Boyz",
+          "url": "https://open.spotify.com/artist/4mjpwaac5pDtDick78NNpm"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202522,
+      "name": "WASSA",
+      "url": "https://open.spotify.com/track/4hrqUMXWFIvyUbvckqk974"
     },
     {
       "album": {

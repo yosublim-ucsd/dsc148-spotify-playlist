@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > canzoni tristi per chi ha un cuore così 💔  \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,046 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,048 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 24 | [L'ultima mezz'ora](https://open.spotify.com/track/6ATipis5X5ZhJtQFtA5Moe) | [ANSIAH](https://open.spotify.com/artist/0TxLShiUYY5YzcUI6t5QdB) | [L'ultima mezz'ora](https://open.spotify.com/album/37H1a1CLMD2QSnj5L4A9sb) | 2:56 |
 | 25 | [Per sentirmi vivo](https://open.spotify.com/track/2SHoMMiuqPBOa9AaBHWmqv) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Per sentirmi vivo](https://open.spotify.com/album/5B9tnrmp4eTBwkHZIVQisO) | 2:46 |
 | 26 | [Come noi](https://open.spotify.com/track/7zmqrn1vES0c7sTKXEl3P0) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Come noi](https://open.spotify.com/album/0SB9emzbP6YHcagKLZbabG) | 2:09 |
-| 27 | [Hurt So Bad](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [Hurt So Bad](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 |
+| 27 | [FINISCIMI](https://open.spotify.com/track/5ZGteB4F2eZfemc9PHOPS4) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 |
 | 28 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 |
 | 29 | [Indelebile](https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Indelebile](https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9) | 2:48 |
 | 30 | [pochi colori per rappresentarmi.](https://open.spotify.com/track/7boSLIOLKEDWb2eX9oKhDZ) | [NEVERMIND E ATMO](https://open.spotify.com/artist/5QUtV3KeHsXa6oAJXxHUjH) | [pochi colori per rappresentarmi.](https://open.spotify.com/album/5FslhF5Y1thJWVSz6uiNTv) | 1:30 |
-| 31 | [FINISCIMI](https://open.spotify.com/track/5ZGteB4F2eZfemc9PHOPS4) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:51 |
+| 31 | [Hurt So Bad](https://open.spotify.com/track/61UW1ahvPB6hxLPxjM2VoK) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [Hurt So Bad](https://open.spotify.com/album/7lJSH2Ex6k51cNarafJkBQ) | 2:34 |
 | 32 | [Giovane e triste](https://open.spotify.com/track/7lsnastHievyKnf1cz3FB2) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:06 |
 | 33 | [Neve](https://open.spotify.com/track/6cBH5hLQFzmsuyU2iOdVA2) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [neezyboy](https://open.spotify.com/artist/15vmwcb1NmeosE2GIZMEPv) | [No Hooks](https://open.spotify.com/album/2GSiRMtkr6poH4Dvcj9tv2) | 3:12 |
 | 34 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 65 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
 | 66 | [FOTORICORDO](https://open.spotify.com/track/4CJ53jdJwJLZFHB3LfZpDm) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [FOTORICORDO](https://open.spotify.com/album/2PlhbNve1RMlT0QDJgmixE) | 2:29 |
 | 67 | [La stella più bella di sempre](https://open.spotify.com/track/4mj7XoeqS9ByeTRonA8xu3) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [La stella più bella di sempre](https://open.spotify.com/album/5A6Odn8c9fwlwiwuqEZkZW) | 2:06 |
-| 68 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
-| 69 | [Ti maledirò](https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [MALA VITA](https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI) | 2:59 |
+| 68 | [Ti maledirò](https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [MALA VITA](https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI) | 2:59 |
+| 69 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
 | 70 | [ALESSIA](https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:24 |
 | 71 | [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 |
 | 72 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 |

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,769 songs - 3 day 6 hr 32 min
+1,771 songs - 3 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Finding Hope](https://open.spotify.com/track/1ZxqvIpfcqYDcV4nP6jxms) | [Haakon Stange](https://open.spotify.com/artist/0W5e9m7EXTbYg8XZSrQIfx) | [Finding Hope](https://open.spotify.com/album/25X6lJ7r1b4jQ3S5o8RtJs) | 2:27 | 2020-04-28 | 2022-05-21 |
 | [Fino Mornasco](https://open.spotify.com/track/32pMHDcSZA6xD4cp9lk1aF) | [Fabrizio Gallo](https://open.spotify.com/artist/1ovHYNNkFg5hndltHBhMCd) | [Fino Mornasco](https://open.spotify.com/album/2D7NIYeCrKz1yvvJFZj2Kv) | 2:13 | 2024-04-15 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2021-10-13 | 2022-09-24 |
+| [Fiore](https://open.spotify.com/track/0WawGuRGr9dUuAL2ifURnx) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Fiore](https://open.spotify.com/album/3uNpgppb88r1tYCOUyIQ2h) | 2:24 | 2025-01-28 |  |
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2021-03-24 | 2022-06-04 |
 | [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2021-06-18 | 2022-06-04 |
 | [First Sunrise](https://open.spotify.com/track/6gDt7eZjJNIkzLj9jVEBZo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [First Sunrise](https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect) | 3:32 | 2020-02-26 | 2021-08-05 |
@@ -610,6 +611,7 @@
 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 | 2021-06-03 | 2022-10-04 |
 | [Hideaway](https://open.spotify.com/track/3poVmAGCtZCM3Y0iRO1zWA) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Deep Blue Sea](https://open.spotify.com/album/0i5XbMBrhhikBCn2ExEWSt) | 2:56 | 2021-10-27 | 2022-04-29 |
 | [Hideaway](https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV) | [Igulfrid](https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ) | [Hideaway](https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy) | 2:28 | 2022-04-22 | 2024-09-10 |
+| [Hiding Place](https://open.spotify.com/track/1FuXj0Pb8eOW7PQTzzsJ3z) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Hiding Place](https://open.spotify.com/album/4s98ZZEUEgQ2xOK4O63kHH) | 2:36 | 2025-01-28 |  |
 | [Hiemal](https://open.spotify.com/track/72mTEG6Cw5amIPeNtOTzGV) | [Maria Marble](https://open.spotify.com/artist/3LmBcqcFv3Nvzs5gJMw8O4) | [Hiemal](https://open.spotify.com/album/1pOD79OCztUlCRtDdPiD00) | 2:44 | 2019-11-19 | 2020-11-17 |
 | [high above the trees](https://open.spotify.com/track/2BKvoqmJKFjMD87p7o2eRp) | [Maggie Fletcher](https://open.spotify.com/artist/4BAzGcIrYWKK95fYvVaDjI) | [high above the trees](https://open.spotify.com/album/64eS8Jz1rSRTwmHxPufz8P) | 2:06 | 2021-06-24 | 2022-12-06 |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-05-22 | 2021-08-05 |

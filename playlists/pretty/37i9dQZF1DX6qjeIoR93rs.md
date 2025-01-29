@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,515 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,544 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 60 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |
 | 61 | [Galbi Dari](https://open.spotify.com/track/3EleTttGO2qnHqWboexTzE) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X) | [Galbi Dari](https://open.spotify.com/album/2g1mdqMEqCxm31F5iuFsGS) | 2:34 |
 | 62 | [Dammi Falastini](https://open.spotify.com/track/5Pn31ZVgrp95UDTEYcKR6K) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 4:00 |
-| 63 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
-| 64 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
-| 65 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 |
-| 66 | [Nada](https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Nada](https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5) | 2:16 |
-| 67 | [Telephone](https://open.spotify.com/track/5IawIr3eOioOqURiHFMNNY) | [EL X الإكس](https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP) | [Telephone](https://open.spotify.com/album/06yTr9V77gQArdYMsmzX2i) | 3:21 |
-| 68 | [ميدلي فلسطيني](https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt) | [فرقة زمن](https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn) | [بطلتي الي](https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b) | 3:48 |
-| 69 | [دبرها](https://open.spotify.com/track/4kAxcZDaVmVNgEAsTRfL8l) | [Walla'at](https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe) | [دبرها](https://open.spotify.com/album/3xNm30FkT7VJxtAgqtMUfs) | 4:49 |
+| 63 | [Bala Reash](https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Bala Reash](https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI) | 3:46 |
+| 64 | [Ll Abad](https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq) | [Lina Makoul](https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7) | [Ll Abad](https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr) | 3:32 |
+| 65 | [Ya Samti](https://open.spotify.com/track/2RCq9cXZOb9CCO016lHuem) | [Zuhair Francis](https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [Ya Samti](https://open.spotify.com/album/0I1DrBlH1G7tg0tbU7ux99) | 3:52 |
+| 66 | [Al Rozana](https://open.spotify.com/track/1fRjUEHNqMTt2zhgbvQGno) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Na'na' Ya Na'na'](https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI) | 4:15 |
+| 67 | [Nada](https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Nada](https://open.spotify.com/album/4MawudiDs0KZZtr9xeUGN5) | 2:16 |
+| 68 | [Telephone](https://open.spotify.com/track/5IawIr3eOioOqURiHFMNNY) | [EL X الإكس](https://open.spotify.com/artist/3NQkbYL1pocXcIMyQkRTNP) | [Telephone](https://open.spotify.com/album/06yTr9V77gQArdYMsmzX2i) | 3:21 |
+| 69 | [ميدلي فلسطيني](https://open.spotify.com/track/0Xbrn4PNQUaCLwUmshygdt) | [فرقة زمن](https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn) | [بطلتي الي](https://open.spotify.com/album/6tQvEO9Vn7YVqrL4F8IS8b) | 3:48 |
 | 70 | [Erfaa Rasak](https://open.spotify.com/track/5tAwQ2wGF88d8zuliokaxo) | [Mohammad Assaf](https://open.spotify.com/artist/0IjIdnhlsKfAfOl5ph5TsE) | [Muntasib Alqamah Amshi](https://open.spotify.com/album/4n4atfTSCn0gmSS9qHltsU) | 6:03 |
 
 Snapshot ID: `Z1GITAAAAAChDjdvajI5Eb/RpddqzgIE`

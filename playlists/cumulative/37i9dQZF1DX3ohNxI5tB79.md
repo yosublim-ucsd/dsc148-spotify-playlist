@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-269 songs - 17 hr 20 min
+270 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Love Falls Down](https://open.spotify.com/track/4K9i7f2Wi3Fx0N5DhMxbIH) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/3FQbYHvVYJg6zX76gvUwDG) | 5:15 | 2022-07-05 | 2022-10-31 |
 | [Love Falls Down](https://open.spotify.com/track/5X5XhvErlZwcy9Mj0O2aVV) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Love Falls Down](https://open.spotify.com/album/08WEyVCx9yGsm8as4jbyOZ) | 5:15 | 2021-12-13 | 2022-07-29 |
 | [Love Is Alive](https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Love Is Alive](https://open.spotify.com/album/04IS7MIusxRYUsuecyTqVR) | 3:27 | 2024-10-14 |  |
-| [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 | 2022-04-28 |  |
+| [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 | 2022-04-28 | 2025-01-29 |
 | [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 | 2024-04-11 |  |
 | [Mad Summer](https://open.spotify.com/track/3Hw79poBqN5zpzKLXGUPvq) | [RADIOHOP](https://open.spotify.com/artist/3fYO0rcTXXlIrXUwNmbslE) | [All We Do](https://open.spotify.com/album/37HdFg0cSWgRgsctFHkzuh) | 2:42 | 2024-06-28 |  |
 | [Make a Change](https://open.spotify.com/track/1EKAEKLKc9hi6x8bjgTT9T) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:29 | 2021-12-13 | 2022-07-29 |
@@ -228,6 +228,7 @@
 | [The Loneliest Thing](https://open.spotify.com/track/4k5TtH1KiIh13ElOttHWg7) | [Cosma Joy](https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ) | [The Loneliest Thing](https://open.spotify.com/album/3ks4LGMZiJQJlU0my9bFfl) | 2:59 | 2022-01-13 | 2024-11-15 |
 | [The Optimist](https://open.spotify.com/track/6yefcxg5NPvCNPavfcq1VY) | [Toine Thys Trio](https://open.spotify.com/artist/5gfeHeriNmVvlaEPTJLcqp) | [The Optimist](https://open.spotify.com/album/2ElHab0qhKWa2W2l601M3u) | 6:26 | 2021-12-13 | 2023-10-04 |
 | [The Plant](https://open.spotify.com/track/2TEgeBERMNn3fD5QVyzojj) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [The Plant](https://open.spotify.com/album/6zXXdOyUUhMN1IASWjW4q6) | 4:08 | 2024-06-28 |  |
+| [This body](https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Do you feel the same?](https://open.spotify.com/album/5yWWc7zmTtLFxB9aqFWA0N) | 4:20 | 2025-01-28 |  |
 | [This Could Be \(For The Travelling Soul\)](https://open.spotify.com/track/0uTdYqGBYFbtqVW5Bh5MH1) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Escape Velocity](https://open.spotify.com/album/3VlHCSdtb0nKYFXMJmABEA) | 4:46 | 2021-12-13 | 2022-07-29 |
 | [This Could Be \(For The Travelling Soul\)](https://open.spotify.com/track/2gJAV3lXjwnf2sl3o7CWlQ) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Escape Velocity](https://open.spotify.com/album/45mH7pfxcuLpeWn5ncweBG) | 4:46 | 2022-07-05 | 2022-10-01 |
 | [TIBBE](https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [TTWL / TIBBE](https://open.spotify.com/album/4PCiw9zO0xQbymk38A1Giq) | 2:25 | 2021-12-13 | 2024-06-29 |

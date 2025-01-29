@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,023 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,000 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 21 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
 | 22 | [INOCENTE](https://open.spotify.com/track/0oIl9QzWrp7ccEhcyRGArw) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [INOCENTE](https://open.spotify.com/album/7jTFuAWHhPQqRXIZdljYEn) | 2:19 |
 | 23 | [Grupo bom](https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Grupo bom](https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD) | 3:00 |
-| 24 | [Saudade daquilo](https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 2:58 |
+| 24 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
 | 25 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
-| 26 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
+| 26 | [Saudade daquilo](https://open.spotify.com/track/0A3aV8YiLBoHkxyHgkCVBl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Dona de mim](https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C) | 2:58 |
 | 27 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
 | 28 | [São Paulo](https://open.spotify.com/track/0UVNwFoQioR960YIHd5f2D) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [São Paulo](https://open.spotify.com/album/1zfb69TVle95DrRItAr9vq) | 3:52 |
 | 29 | [Ser](https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [S](https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8) | 3:31 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 56 | [Fala](https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Contato](https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL) | 3:13 |
 | 57 | [Só um Cadin](https://open.spotify.com/track/1hFyY7ny82inFdS1EkZ0Yj) | [Cadiin](https://open.spotify.com/artist/1PM5aGRr6Nz8iQFTD0vd4L) | [Só um Cadin](https://open.spotify.com/album/6UvJEkU94BUZU4DqVNrNOl) | 2:55 |
 | 58 | [Cupido](https://open.spotify.com/track/5bfimwK5FYHMlaa93448w5) | [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Cupido](https://open.spotify.com/album/4ikm2H16e81LGmGL1VykAw) | 2:45 |
-| 59 | [DESASTRE NATURAL](https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp) | [VERSOS](https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X) | 2:20 |
-| 60 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 |
+| 59 | [Toque Na Pele](https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Toque Na Pele](https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H) | 2:41 |
+| 60 | [DESASTRE NATURAL](https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf) | [BELLI](https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp) | [VERSOS](https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X) | 2:20 |
 
 Snapshot ID: `Z4+m8wAAAADLbzslOOQShcC54R/DWl6E`

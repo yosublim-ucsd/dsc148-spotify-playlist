@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,223 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,245 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 23 | [Arca de Noé](https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 3:21 |
 | 24 | [Deus Grandão](https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Grandão](https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn) | 4:11 |
 | 25 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 |
-| 26 | [Cristo Fez os Peixes](https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Cristo Fez os Peixes](https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv) | 1:52 |
-| 27 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
+| 26 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
+| 27 | [Cristo Fez os Peixes](https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Cristo Fez os Peixes](https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv) | 1:52 |
 | 28 | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Smilingüido](https://open.spotify.com/artist/3gXyPd0CCJNIlkRptryM5U) | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI) | 2:51 |
 | 29 | [O Sabão \- Deluxe](https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [O Sabão \(Deluxe\)](https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG) | 2:22 |
 | 30 | [Medley das Crianças](https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl), [Galo Jacó](https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L) | [Medley das Crianças](https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH) | 4:12 |

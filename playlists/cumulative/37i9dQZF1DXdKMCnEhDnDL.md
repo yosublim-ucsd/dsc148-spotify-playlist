@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Claude & Zoë Tauran
 
-320 songs - 16 hr 35 min
+321 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 | 2023-06-14 | 2024-04-19 |
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2023-11-10 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-01-23 |  |
+| [Have Fun](https://open.spotify.com/track/0TMRAlLGfejAdDUZKtA3n6) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Have Fun](https://open.spotify.com/album/550zId70EEaGEsnQirUO11) | 2:41 | 2025-01-28 |  |
 | [Hee Joh Jip](https://open.spotify.com/track/5c5cD2VQJcc7VScwW6Ra4k) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Hee Joh Jip](https://open.spotify.com/album/2h9lK42gs4W4NM9EgLUbxI) | 3:00 | 2023-02-24 | 2024-02-14 |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-24 | 2023-06-15 |
 | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE) | 3:42 | 2023-09-01 |  |
@@ -185,7 +186,7 @@
 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2024-02-13 | 2024-04-17 |
 | [Meisjes lopen sneller](https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Meisjes lopen sneller](https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx) | 3:36 | 2024-01-11 | 2024-09-27 |
 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 | 2024-10-16 | 2025-01-24 |
-| [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 | 2024-11-21 |  |
+| [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/track/4RM0MtCdgCQfypBVBGxX4f) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mijn Haren Ruiken Naar Vuur](https://open.spotify.com/album/2Ew3FsEM2r6TrGiKeXQUaq) | 2:42 | 2024-11-21 | 2025-01-29 |
 | [Mijn Kleine Presidentje](https://open.spotify.com/track/5Vrrxddu2CDh1wfysRPZJZ) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Mijn Kleine Presidentje](https://open.spotify.com/album/5lwBvsRmcXhtIVVWQFqDJh) | 3:22 | 2023-02-24 | 2023-09-02 |
 | [Miracles](https://open.spotify.com/track/0kVdeFsVblCJp4zDyf57EG) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2HNZaVBtwAnZvKPWbl7fDQ) | 3:22 | 2024-04-16 | 2025-01-24 |
 | [Miracles](https://open.spotify.com/track/17z2zDW0VTRHODWT1kteTI) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:22 | 2024-04-03 | 2024-04-19 |

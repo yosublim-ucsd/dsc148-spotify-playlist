@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now.  Cover: \u7c73\u6d25\u7384\u5e2b",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now.  Cover: \u5e7e\u7530\u308a\u3089",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -968,7 +968,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 196241,
       "name": "AWAKE",
       "url": "https://open.spotify.com/track/7LSOTAk2XedRDne9QvIV38"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 245300,
       "name": "DALMATIAN",
       "url": "https://open.spotify.com/track/7qDHY3ZDeKvgPMVZX1whLK"
@@ -3093,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "doppelg\u00e4nger",
+        "url": "https://open.spotify.com/album/7CMTY6yUZDGVoc4GIi7qRZ"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167038,
+      "name": "doppelg\u00e4nger",
+      "url": "https://open.spotify.com/track/7FgkqIH50E6masvuz4EOPy"
+    },
+    {
+      "album": {
         "name": "REVERSi",
         "url": "https://open.spotify.com/album/66z5ACFBH2aUery9SBVLAp"
       },
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 189897,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
@@ -3545,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "Eureka",
+        "url": "https://open.spotify.com/album/7kheNS3de32R6pnEW3VOdL"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Eureka",
+      "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
+    },
+    {
+      "album": {
         "name": "Even if the world hates me (2023 ver.)",
         "url": "https://open.spotify.com/album/3Mw3CdZ9Zt838W2gQ8yhqz"
       },
@@ -3690,7 +3726,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 157660,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/50serZyxwPIVyE9GIXFTnV"
@@ -3864,7 +3900,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 222714,
       "name": "familie",
       "url": "https://open.spotify.com/track/4PCQHOJFMV9BWq46UMVf2l"
@@ -9986,7 +10022,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 220900,
       "name": "One",
       "url": "https://open.spotify.com/track/4oaQZLunFjVPbN830b0yfg"
@@ -10896,6 +10932,24 @@
       "duration_ms": 199960,
       "name": "PUPPET SHOW",
       "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
+    },
+    {
+      "album": {
+        "name": "Puppets Can't Control You",
+        "url": "https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194493,
+      "name": "Puppets Can\u2019t Control You",
+      "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
     },
     {
       "album": {
@@ -13836,7 +13890,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 226026,
       "name": "TAIDADA",
       "url": "https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC"
@@ -17254,7 +17308,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 161632,
       "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
       "url": "https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3"
@@ -18795,6 +18849,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+        "url": "https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "\u30b7\u30a7\u30fc\u30c9\u306e\u57c3\u306f\u5ef6\u9577",
+      "url": "https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e3\u30c3\u30bf\u30fc\u30c1\u30e3\u30f3\u30b9",
         "url": "https://open.spotify.com/album/3yQhrWT5kVTg1ME4oI043b"
       },
@@ -19304,6 +19376,24 @@
       "duration_ms": 175627,
       "name": "\u30c0\u30fc\u30af\u30eb\u30fc\u30e0",
       "url": "https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30fc\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280666,
+      "name": "\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp"
     },
     {
       "album": {
@@ -20029,6 +20119,24 @@
     },
     {
       "album": {
+        "name": "\u65b0\u661f\u76ee\u9332",
+        "url": "https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169886,
+      "name": "\u30d3\u30fc\u30ca\u30b9\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/3f8zEj3BQlGAVtJtErWLqF"
+    },
+    {
+      "album": {
         "name": "\u30d4\u30a2\u30b9",
         "url": "https://open.spotify.com/album/29VASKJxI1IvAieKz3hqrU"
       },
@@ -20716,6 +20824,24 @@
       "duration_ms": 202373,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0cRbR2QO4bmzaEGTP9lUaL"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30fb\u30ea\u30d5\u30ec\u30af\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi"
     },
     {
       "album": {
@@ -21660,7 +21786,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 190061,
       "name": "\u4eba\u3068\u4eba\u3068\u4eba\u3068\u4eba",
       "url": "https://open.spotify.com/track/2vw78LB4r9DMmJ4SIOOi6R"
@@ -22664,6 +22790,24 @@
       "duration_ms": 172948,
       "name": "\u5815\u5929",
       "url": "https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq"
+    },
+    {
+      "album": {
+        "name": "\u58f0",
+        "url": "https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263983,
+      "name": "\u58f0",
+      "url": "https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv"
     },
     {
       "album": {
@@ -25040,6 +25184,24 @@
       "duration_ms": 257799,
       "name": "\u6d88\u3048\u3066\u3057\u307e\u3044\u305d\u3046\u3067\u3059",
       "url": "https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR"
+    },
+    {
+      "album": {
+        "name": "\u6d99\u306e\u6b63\u4f53",
+        "url": "https://open.spotify.com/album/5qT4PfsqQOTE7vhSursTqL"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244320,
+      "name": "\u6d99\u306e\u6b63\u4f53",
+      "url": "https://open.spotify.com/track/3AfPOViUt21wiNRz3AZq2b"
     },
     {
       "album": {

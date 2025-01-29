@@ -4,7 +4,7 @@
 
 > De mooiste liedjes van het moment\. Cover: Teddy Swims
 
-564 songs - 1 day 8 hr 45 min
+568 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-02-23 | 2023-03-31 |
 | [Aphrodite](https://open.spotify.com/track/6noeTONJnM5NukhaQYsqDQ) | [Donna Blue](https://open.spotify.com/artist/2p3WhDRwfMseVi8f04ODpd) | [Aphrodite](https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ) | 3:18 | 2024-02-05 | 2024-05-25 |
 | [Are You Done Running](https://open.spotify.com/track/0EFoiBHj3kP9WoVhojklW6) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Deena & Jim](https://open.spotify.com/album/6f40F9LdGKDXjVl3mJkXun) | 3:37 | 2023-11-02 | 2024-04-26 |
+| [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 | 2025-01-28 |  |
 | [As It Is Right Now](https://open.spotify.com/track/5Rec1FjFqeRw1oSRFTidMf) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR) | [As It Is Right Now](https://open.spotify.com/album/5sgwzIrkao1f4GzGricPkQ) | 2:52 | 2023-10-27 | 2024-03-15 |
 | [At Your Feet](https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [At Your Feet](https://open.spotify.com/album/7HN3dt0fbRyXWI1wFPqv7J) | 3:25 | 2024-07-22 | 2025-01-07 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-10-05 | 2024-03-15 |
@@ -169,6 +170,7 @@
 | [Fruits Of My Labor](https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Fruits Of My Labor](https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO) | 3:36 | 2023-11-02 | 2024-04-05 |
 | [Fuck You Want](https://open.spotify.com/track/7ziRXgzWzuMMkHTuiGtWq2) | [Niko](https://open.spotify.com/artist/6GMXTHNc34bj2rFo35e2T2) | [Fuck You Want](https://open.spotify.com/album/0AxrF6bZ2RN3AJftT8cFNS) | 3:05 | 2024-04-04 | 2024-06-07 |
 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 | 2024-07-14 | 2024-10-23 |
+| [FYI](https://open.spotify.com/track/5Px94nagQ9C6WrklMCxVk1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [FYI](https://open.spotify.com/album/5UCXFRJjjySyFCXa76gFVC) | 3:22 | 2025-01-28 |  |
 | [Giants](https://open.spotify.com/track/0QnmwnIMV8cFpOg51yxagF) | [Slow Pilot](https://open.spotify.com/artist/4MPMLOWHQQwcfg3CNE4fya) | [Giants](https://open.spotify.com/album/1Zf6FuiWwnpPz1qZvulsmF) | 3:41 | 2024-10-21 |  |
 | [Girl](https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Girl](https://open.spotify.com/album/6YwzYbCe05hqVAI6KrX1c1) | 3:12 | 2024-06-20 | 2024-09-20 |
 | [Girl & A Gun](https://open.spotify.com/track/4jZ1LJqcXbtNO5EZZVAkzC) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Girl & A Gun](https://open.spotify.com/album/0KoTtRAsQvauiehrOzaKh6) | 3:42 | 2023-04-28 | 2023-09-22 |
@@ -193,6 +195,7 @@
 | [Hang On](https://open.spotify.com/track/28PvEJuegs01Cs1zElNScW) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Castle St](https://open.spotify.com/album/4xsF8vbA01OKUvapkElizI) | 2:42 | 2023-02-23 | 2023-03-03 |
 | [Happier](https://open.spotify.com/track/0lMItH5HpATvitHJztrY00) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Happier](https://open.spotify.com/album/0x4VuEWDa0rZL5dPB479IY) | 3:23 | 2024-09-19 | 2024-12-06 |
 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 | 2023-02-23 | 2023-07-15 |
+| [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 | 2025-01-28 |  |
 | [Have A Little Faith](https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Have A Little Faith](https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF) | 2:58 | 2025-01-06 |  |
 | [Have This Dance](https://open.spotify.com/track/4csq4gihsVZNrpGmIpaIsF) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Have This Dance](https://open.spotify.com/album/4zKvZUoXI2dWuHsUdpk3z5) | 3:34 | 2024-02-01 | 2024-06-28 |
 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-05-18 | 2023-12-01 |
@@ -282,7 +285,7 @@
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-23 | 2023-06-23 |
 | [Let Me Go Home](https://open.spotify.com/track/2ys5m1ZI9QkhFJlTjMc9Nw) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Let Me Go Home](https://open.spotify.com/album/5f9iou0KDX2cX3CzLzBwbl) | 2:56 | 2023-02-23 | 2023-04-14 |
 | [Let U Go](https://open.spotify.com/track/0wbmr3CTPwoh8LPm9c7lhM) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Let U Go](https://open.spotify.com/album/6IG6Mr0iTUnnYxnQx3PALc) | 2:55 | 2023-05-25 | 2023-09-22 |
-| [Let's Take A Shower](https://open.spotify.com/track/6H6XCGMF9e4IDOfG582u4f) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:50 | 2024-10-22 |  |
+| [Let's Take A Shower](https://open.spotify.com/track/6H6XCGMF9e4IDOfG582u4f) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:50 | 2024-10-22 | 2025-01-29 |
 | [Levenslang](https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Levenslang](https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s) | 3:44 | 2024-09-19 | 2024-11-05 |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-11 | 2024-10-04 |
 | [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 | 2023-12-08 | 2024-05-03 |
@@ -307,7 +310,7 @@
 | [Lucky](https://open.spotify.com/track/1izC6AsOwb84CYQ7OA3ko7) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Lucky](https://open.spotify.com/album/3omkrvNwtwGdbSYiAwlsxL) | 5:38 | 2024-02-15 | 2024-05-17 |
 | [Lucky](https://open.spotify.com/track/4FCv48nw6gPPa5SkQ9gbga) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 5:38 | 2024-04-04 | 2024-04-19 |
 | [Lucky Bean](https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [From Nothing To A Little Bit More](https://open.spotify.com/album/285M729So9YyJW5aqmiV3y) | 2:51 | 2023-03-02 | 2023-07-07 |
-| [Mansa Musa](https://open.spotify.com/track/5IyyWOaxJq7QgsW0lW9TBC) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Mansa Musa](https://open.spotify.com/album/3eQjhWwVHyyWPjACbIc2Tt) | 4:30 | 2024-10-14 |  |
+| [Mansa Musa](https://open.spotify.com/track/5IyyWOaxJq7QgsW0lW9TBC) | [Komodo](https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU) | [Mansa Musa](https://open.spotify.com/album/3eQjhWwVHyyWPjACbIc2Tt) | 4:30 | 2024-10-14 | 2025-01-29 |
 | [Mansion on the Moon](https://open.spotify.com/track/3LNTiQaq5FRbXFQZfKTXK9) | [Meeka Kates](https://open.spotify.com/artist/24XZ9joYiC4hzMYXihqgc1) | [Mansion on the Moon](https://open.spotify.com/album/2qHgrXAiDwa7pkjwXYNvHT) | 3:23 | 2023-04-28 | 2023-09-22 |
 | [Mathematics](https://open.spotify.com/track/7qyDTnHLhucrlpblFvhjuP) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Leveller](https://open.spotify.com/album/6SfToUjflJFZiHB0gGNOZe) | 4:01 | 2023-09-21 | 2024-02-03 |
 | [matter](https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the side\-effects of living in a fantasy](https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh) | 3:05 | 2024-11-21 |  |
@@ -478,6 +481,7 @@
 | [The Ballet Girl](https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:21 | 2023-09-29 | 2023-12-08 |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-06-06 | 2024-10-23 |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-05-30 | 2024-07-15 |
+| [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/track/1vE88eOSWUb2hjljglRfc1) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [The Crown \(feat\. Marcel Veenendaal\)](https://open.spotify.com/album/2RcjbKoEHJVmhX5DYD3PMu) | 5:39 | 2025-01-28 |  |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2023-12-14 | 2024-06-21 |
 | [The Last Bit Of Us](https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Last Bit Of Us](https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3) | 3:22 | 2024-04-04 | 2024-06-21 |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2023-02-23 | 2023-03-31 |

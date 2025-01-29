@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACuZwIXMLMuGTOtCwXvIZPz",
+  "snapshot_id": "Z5bMgAAAAAB+6o0wWxRrbEqdv5yEf8Ae",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed",
-        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 247170,
-      "name": "Mirror Talk",
-      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
+      "duration_ms": 226088,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226088,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
     },
     {
       "added_at": null,
@@ -266,11 +266,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,
@@ -330,15 +334,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,

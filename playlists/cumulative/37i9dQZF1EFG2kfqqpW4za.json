@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Abra\u00e7os de Resist\u00eancia",
+        "url": "https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS"
+      },
+      "artists": [
+        {
+          "name": "Laysa",
+          "url": "https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6"
+        },
+        {
+          "name": "Helio Bentes",
+          "url": "https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257910,
+      "name": "Abra\u00e7os de Resist\u00eancia",
+      "url": "https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4"
+    },
+    {
+      "album": {
         "name": "Reggae a Vida Com Amor",
         "url": "https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA"
       },

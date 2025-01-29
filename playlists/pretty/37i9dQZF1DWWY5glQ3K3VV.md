@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > 🔊canzoni rap da pomparti fino all'alba! 🔊Cover: Capo Plaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,047 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,077 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 45 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 |
 | 46 | [FASHION \(feat\. ANNA, Lazza, Tony Effe & Benny Benassi\)](https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [10](https://open.spotify.com/album/0wseGI0Yw53Ys8W7QGX36a) | 3:02 |
 | 47 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
-| 48 | [Fino All'Alba](https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [FERITE](https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl) | 2:37 |
-| 49 | [Gol](https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:37 |
+| 48 | [Gol](https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:37 |
+| 49 | [Fino All'Alba](https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [FERITE](https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl) | 2:37 |
 | 50 | [ADVICE](https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [LISTA 47](https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4) | 3:03 |
 | 51 | [Gigolò \(feat\. Sfera Ebbasta & Capo Plaza\)](https://open.spotify.com/track/4KilYheWwxakB1L43ECTeP) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Re Mida \(Aurum\)](https://open.spotify.com/album/18oJqI5kIQ5lwDvpdlny99) | 2:44 |
 | 52 | [SBLAO DANCE](https://open.spotify.com/track/5cAXDW7cWjwHxzViEoKajH) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 1:50 |

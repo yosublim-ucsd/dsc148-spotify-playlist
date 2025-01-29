@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Upptäck låtar från 2024 som du kanske har missat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,310 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 58 | [Last Time](https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Last Time](https://open.spotify.com/album/3vO08GPmv2KGP66nUmW0IC) | 2:56 |
 | 59 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 |
 | 60 | [Way Too Good](https://open.spotify.com/track/7v7yldcasSvbwu8tE9VV84) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Way Too Good](https://open.spotify.com/album/13lH2NV2SYOH2HGgiBO66A) | 2:23 |
-| 61 | [Kvar här](https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54) | [Den stora fula kavajen](https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9) | 3:30 |
-| 62 | [Jump In The Ride](https://open.spotify.com/track/2aU3whKD3n6H9XBuVQUmFM) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Club Stranger](https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI) | 3:50 |
+| 61 | [Jump In The Ride](https://open.spotify.com/track/2aU3whKD3n6H9XBuVQUmFM) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Club Stranger](https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI) | 3:50 |
+| 62 | [Kvar här](https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54) | [Den stora fula kavajen](https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9) | 3:30 |
 | 63 | [Borderline Iconic](https://open.spotify.com/track/67Po00mBd0gRq7Z4lZ30CG) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Borderline Iconic](https://open.spotify.com/album/6csDiDKWnoejngfWD7gvhK) | 3:06 |
 | 64 | [Belong To The Wind](https://open.spotify.com/track/40NJkwGpFLfbBx2OSyk9Lw) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:21 |
 | 65 | [Fiend](https://open.spotify.com/track/3FD3wtFJt1BWkWMdv8CCky) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Fiend](https://open.spotify.com/album/1cPJEqvAueKOOVHnVg5MrV) | 3:07 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 71 | [Tu Mirada](https://open.spotify.com/track/0x4VrxnvvbSGjA3FlsofXt) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Silk City](https://open.spotify.com/album/3iL9ksv1iHHHROAIZrP8AV) | 3:15 |
 | 72 | [MESSY](https://open.spotify.com/track/7heAzsWByeir4YAtakFiul) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [Nothing's TMI](https://open.spotify.com/album/6enIJfJkP7dJTBVkulFuG6) | 2:57 |
 | 73 | [North Sea Siren \(p.78\)](https://open.spotify.com/track/3OJqEZEbWwK12woWBoN0FX) | [Salty Licorice](https://open.spotify.com/artist/6ipya2KPF19iwpylWPCHZs) | [North Sea Siren \(p.78\)](https://open.spotify.com/album/4mIxJcAMQKkxIdTZj3rAA3) | 2:15 |
-| 74 | [20 BPM](https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [20 BPM](https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w) | 3:03 |
-| 75 | [Something Strange](https://open.spotify.com/track/18lBjomcRXjwf7ATIyA7Bh) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi), [Free Camille](https://open.spotify.com/artist/22gFHGOHeu0XJXKZpgxOt3) | [Something Strange](https://open.spotify.com/album/2nNVrwuBjXpifNe6weG12w) | 4:01 |
+| 74 | [Something Strange](https://open.spotify.com/track/18lBjomcRXjwf7ATIyA7Bh) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi), [Free Camille](https://open.spotify.com/artist/22gFHGOHeu0XJXKZpgxOt3) | [Something Strange](https://open.spotify.com/album/2nNVrwuBjXpifNe6weG12w) | 4:01 |
+| 75 | [20 BPM](https://open.spotify.com/track/2vC3G5OVfO8BGSbMkVYcV7) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [20 BPM](https://open.spotify.com/album/7BTUJzOaV7h3GCltS4CW1w) | 3:03 |
 
 Snapshot ID: `Z1BHxAAAAAChxz+aUahPxjeZM7eI6FiR`

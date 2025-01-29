@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,057 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,228 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 39 | [Main Jis Din Bhulaa Du](https://open.spotify.com/track/6X3FjTFOKsj7FQk2rd0gPv) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [M\. Ashraf](https://open.spotify.com/artist/0RdFLtxyUpC7CXCRTc57PZ) | [Main Jis Din Bhulaa Du](https://open.spotify.com/album/16AQy6HuGxznQphzEGlAPd) | 5:00 |
 | 40 | [Dhokebaaz](https://open.spotify.com/track/2QASXYEGqKhN7jnr07c9hP) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Dhokebaaz](https://open.spotify.com/album/4rcQ3AXRzfNkH8tUOz6DeF) | 4:25 |
 | 41 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 |
-| 42 | [Noorie \(Two Sides\)](https://open.spotify.com/track/7risGuzd163RL7b7lqZCrz) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Noorie \(Two Sides\)](https://open.spotify.com/album/4aRgIuT1Ic1qP9z5Ol0JdF) | 3:32 |
-| 43 | [Jeene De Na](https://open.spotify.com/track/6cXDuCHAC7NASzRQcCdJb0) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx), [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jeene De Na](https://open.spotify.com/album/705AQTppp5TzoozTbC5btL) | 4:46 |
+| 42 | [Jeene De Na](https://open.spotify.com/track/6cXDuCHAC7NASzRQcCdJb0) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx), [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jeene De Na](https://open.spotify.com/album/705AQTppp5TzoozTbC5btL) | 4:46 |
+| 43 | [Noorie \(Two Sides\)](https://open.spotify.com/track/7risGuzd163RL7b7lqZCrz) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Noorie \(Two Sides\)](https://open.spotify.com/album/4aRgIuT1Ic1qP9z5Ol0JdF) | 3:32 |
 | 44 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 |
 | 45 | [PYAAR HUMARA](https://open.spotify.com/track/7y3qyt5vR7QBU51BFnfQ2q) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [PYAAR HUMARA](https://open.spotify.com/album/7syNlcl1mcB70xo3Y2sYyz) | 2:47 |
 | 46 | [Mirza](https://open.spotify.com/track/4YQW2LiQxh3efV2En95t6U) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP) | [Mirza](https://open.spotify.com/album/1ncdWtw7rFMrDYSI49bMWd) | 1:00 |
-| 47 | [Jaane Kyun](https://open.spotify.com/track/6x8KyRuAHT7WziteO7PsrC) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Jaane Kyun](https://open.spotify.com/album/1yJSe5pmHtugpItcdGuB7L) | 3:10 |
+| 47 | [Haaye Dard](https://open.spotify.com/track/5Guwp446UExa6M5SIibjfC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:56 |
 | 48 | [Wafa Na Raas Aayee](https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Wafa Na Raas Aayee](https://open.spotify.com/album/4SJ1Bg3UAbnkLiaqkHcwaz) | 4:48 |
-| 49 | [Haaye Dard](https://open.spotify.com/track/5Guwp446UExa6M5SIibjfC) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:56 |
+| 49 | [Jaane Kyun](https://open.spotify.com/track/6x8KyRuAHT7WziteO7PsrC) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Jaane Kyun](https://open.spotify.com/album/1yJSe5pmHtugpItcdGuB7L) | 3:10 |
 | 50 | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/album/2W6ZCzLC2pezmRYJQKbr2C) | 4:35 |
 
 Snapshot ID: `Z492XwAAAABrKGvFkAWUhRZcBr/7r1GA`

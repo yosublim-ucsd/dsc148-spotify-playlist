@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,278 likes - 335 songs - 18 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277 likes - 335 songs - 18 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 129 | [Nice To Meet Ya \- Diplo Remix](https://open.spotify.com/track/2r4mpuIYFgKsjeykJTQMqX) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nice To Meet Ya \(Diplo Remix\)](https://open.spotify.com/album/3UuXPv0M71CU6m3On0wIwb) | 3:35 |
 | 130 | [Gone Country](https://open.spotify.com/track/6kyqwakHtizDlP63Zc0WwG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:43 |
 | 131 | [Foreign Things](https://open.spotify.com/track/1tyGqOo8VRLDVQETLtMyDS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:00 |
-| 132 | [NOW That's What I Call Polka!](https://open.spotify.com/track/5mN0UUIKMVtnfsW8lhwzqY) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Mandatory Fun](https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV) | 4:06 |
-| 133 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 |
+| 132 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 |
+| 133 | [NOW That's What I Call Polka!](https://open.spotify.com/track/5mN0UUIKMVtnfsW8lhwzqY) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Mandatory Fun](https://open.spotify.com/album/36jlZKG1sNZQA2HbWdYveV) | 4:06 |
 | 134 | [Don't Wanna Dance Alone](https://open.spotify.com/track/0PqzweEfZz6CFduasBimQQ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:50 |
 | 135 | [Brand New Moves](https://open.spotify.com/track/1Yoo9sSZno94wpIuiknvoE) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:47 |
 | 136 | [Killing Me](https://open.spotify.com/track/4gvBtmPJqTLW1s3RjI9K7Q) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:45 |
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 185 | [Me & My Girls](https://open.spotify.com/track/40GotDfqzq78JwvxGGQOPe) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:24 |
 | 186 | [Generous](https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Generous](https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4) | 2:44 |
 | 187 | [Competition \- Single Edit](https://open.spotify.com/track/5l5TamK1eGSUAzBhsutyyk) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Competition](https://open.spotify.com/album/0HNBUptk47vF5IiBBAnmyV) | 3:08 |
-| 188 | [Friends Don't Let Friends](https://open.spotify.com/track/1CCg5eneaazLRigi19sHe3) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [What A Song Can Do](https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd) | 3:32 |
-| 189 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
+| 188 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
+| 189 | [Friends Don't Let Friends](https://open.spotify.com/track/1CCg5eneaazLRigi19sHe3) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [What A Song Can Do](https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd) | 3:32 |
 | 190 | [Make a Toast \- Main](https://open.spotify.com/track/6vzrZFMVEcW27wMHVG41CI) | [Dolla](https://open.spotify.com/artist/5Gc3IYdgY3PVcuf8FPMxDI) | [Make a Toast](https://open.spotify.com/album/6UolNzjrZoRxz5MalSjAj1) | 3:53 |
 | 191 | [I CAN'T HELP MYSELF](https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:21 |
 | 192 | [Jump On It](https://open.spotify.com/track/66iI77cgWBEdGichkndWJe) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 |
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 334 | [Walk with Me](https://open.spotify.com/track/4hJwxO5eaINWALI4GLywXp) | [N.I.T.Z.](https://open.spotify.com/artist/5ij9fGCGIkU1LLKgdJH3Qb) | [Pit Stop](https://open.spotify.com/album/7cIDzeXmvSlr7ftCLb5JuM) | 2:47 |
 | 335 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AboBFwAAAAC9l99ulwjZv43V1r9eOmx+`
+Snapshot ID: `AboGtgAAAAD0VXWopY/ScJhUaEhVWO5Q`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Leatherette in cover",
+  "description": "Rock, punk e indie dall'Italia \ud83c\udfb8 Leatherette in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 335346,
       "name": "A Dead Tree Gives No Shelter",
       "url": "https://open.spotify.com/track/6IPHX6g0FcBp2FvJQHLYd1"
@@ -4446,7 +4446,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 142093,
       "name": "Come sbagliare di meno",
       "url": "https://open.spotify.com/track/42lOfUFZyMM2tOknHWnR5B"
@@ -4670,7 +4670,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 178909,
       "name": "Contro Saturno",
       "url": "https://open.spotify.com/track/4XQiHvu0vtucLjbR3eEZq6"
@@ -7470,7 +7470,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 223879,
       "name": "First Swim, A Water Chant",
       "url": "https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM"
@@ -9178,7 +9178,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 198241,
       "name": "Ho paura di tutto",
       "url": "https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo"
@@ -11428,7 +11428,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 233233,
       "name": "La nuova canzone per me",
       "url": "https://open.spotify.com/track/44Gq4xUpibuO7S0DLfpGOh"
@@ -11558,7 +11558,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 242807,
       "name": "La Stessa Cosa Insieme (feat. Nice Elevator)",
       "url": "https://open.spotify.com/track/1hV9lc1LPREmNAcEogEtAR"
@@ -12902,7 +12902,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 186773,
       "name": "Mani d\u2019ortica",
       "url": "https://open.spotify.com/track/6iu6Zq1uaI01PuSKo3VXka"
@@ -14952,7 +14952,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 266830,
       "name": "Not a Song for U",
       "url": "https://open.spotify.com/track/0DdthnQVldWOcOkrwcvRXL"
@@ -22178,7 +22178,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 185804,
       "name": "Tutto bene",
       "url": "https://open.spotify.com/track/0mNUcgDDuNjdbyxGJ8Do6W"
@@ -22914,6 +22914,24 @@
       "duration_ms": 166276,
       "name": "Vento Triste",
       "url": "https://open.spotify.com/track/2jJEohR7Rxov9pb0qaLEe1"
+    },
+    {
+      "album": {
+        "name": "Finch\u00e9 rimaniamo",
+        "url": "https://open.spotify.com/album/216MbDKSX71280mIAWKd12"
+      },
+      "artists": [
+        {
+          "name": "Vremja",
+          "url": "https://open.spotify.com/artist/2rfNGSm2o6P1v5rW34NNlB"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262765,
+      "name": "Vento/Forma",
+      "url": "https://open.spotify.com/track/5YapGjUyf8QvOypuyNYXAA"
     },
     {
       "album": {
@@ -23718,7 +23736,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 155540,
       "name": "Wrong Guest",
       "url": "https://open.spotify.com/track/56RfyMFOvlQRW2IIhsGaPJ"

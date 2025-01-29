@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Miranda Lambert",
-  "num_followers": 410755,
+  "num_followers": 410740,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
+        "name": "It Won't Be Long",
+        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "duration_ms": 197794,
+      "name": "It Won't Be Long",
+      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
+    },
+    {
+      "added_at": "2025-01-24 05:00:57",
+      "album": {
         "name": "Something's Gonna Kill Me",
         "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 184746,
       "name": "Long Live Cowgirls (with Cody Johnson)",
       "url": "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
-    },
-    {
-      "added_at": "2025-01-24 05:00:57",
-      "album": {
-        "name": "It Won't Be Long",
-        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
-      },
-      "artists": [
-        {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
-        }
-      ],
-      "duration_ms": 197794,
-      "name": "It Won't Be Long",
-      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -479,18 +479,18 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Missin' Tonight",
-        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
       },
       "artists": [
         {
-          "name": "George Birge",
-          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
         }
       ],
-      "duration_ms": 170154,
-      "name": "Missin' Tonight",
-      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
+      "duration_ms": 201211,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3iMXgxRFXEz8UfIFBYxGJ2"
+        "name": "Missin' Tonight",
+        "url": "https://open.spotify.com/album/6Bmh5lJ0QdmVLIK1yTdVEP"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
         }
       ],
-      "duration_ms": 201211,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/0lgfKhIc7WUSdFrI2eGHSI"
+      "duration_ms": 170154,
+      "name": "Missin' Tonight",
+      "url": "https://open.spotify.com/track/2SSwe13vyoPbUcqg1duRZG"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
+        "name": "Two Way Drive",
+        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 222275,
+      "name": "Two Way Drive",
+      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
+    },
+    {
+      "added_at": "2025-01-24 05:00:57",
+      "album": {
         "name": "That's Texas",
         "url": "https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8"
       },
@@ -587,26 +603,6 @@
       "duration_ms": 163133,
       "name": "That's Texas",
       "url": "https://open.spotify.com/track/1sjHM1Gw4lAxmoCSK9M3l8"
-    },
-    {
-      "added_at": "2025-01-24 05:00:57",
-      "album": {
-        "name": "Hello Shitty Day",
-        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
-      },
-      "artists": [
-        {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 264456,
-      "name": "Hello Shitty Day",
-      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -631,18 +627,22 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Two Way Drive",
-        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
+        "name": "Hello Shitty Day",
+        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
       },
       "artists": [
         {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 222275,
-      "name": "Two Way Drive",
-      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
+      "duration_ms": 264456,
+      "name": "Hello Shitty Day",
+      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
         }
       ],
-      "duration_ms": 200930,
-      "name": "Chipping Mill",
-      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
       },
       "artists": [
         {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
+      "duration_ms": 200930,
+      "name": "Chipping Mill",
+      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Same Ol\u2019 Cowboy, Different Rodeo",
-        "url": "https://open.spotify.com/album/19bpZ99ZJi62HxPyzzin11"
+        "name": "Hearts Don't",
+        "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
         }
       ],
-      "duration_ms": 161133,
-      "name": "There's A Drink For That",
-      "url": "https://open.spotify.com/track/7IZ1fSsXwBv8JSrCVN9FpW"
+      "duration_ms": 218000,
+      "name": "Hearts Don't",
+      "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1107,6 +1107,22 @@
       "duration_ms": 219026,
       "name": "Three Drinks Behind",
       "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
+    },
+    {
+      "added_at": "2025-01-24 05:00:57",
+      "album": {
+        "name": "Same Ol\u2019 Cowboy, Different Rodeo",
+        "url": "https://open.spotify.com/album/19bpZ99ZJi62HxPyzzin11"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "There's A Drink For That",
+      "url": "https://open.spotify.com/track/7IZ1fSsXwBv8JSrCVN9FpW"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
-      },
-      "artists": [
-        {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
-        }
-      ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
-    },
-    {
-      "added_at": "2025-01-24 05:00:57",
-      "album": {
         "name": "Map Dot Missing You",
         "url": "https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT"
       },
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
+    },
+    {
+      "added_at": "2025-01-24 05:00:57",
+      "album": {
         "name": "Outlaws and Mustangs",
         "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
-    },
-    {
-      "added_at": "2025-01-24 05:00:57",
-      "album": {
         "name": "Lonestar Lonely",
         "url": "https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 215322,
       "name": "Lonestar Lonely",
       "url": "https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj"
+    },
+    {
+      "added_at": "2025-01-24 05:00:57",
+      "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "That's What You Get",
-        "url": "https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT"
-      },
-      "artists": [
-        {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
-        }
-      ],
-      "duration_ms": 159841,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU"
-    },
-    {
-      "added_at": "2025-01-24 05:00:57",
-      "album": {
         "name": "Crossing Lines",
         "url": "https://open.spotify.com/album/2i37SSqkyaIafbqGWHYyqw"
       },
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Horseback",
-        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+        "name": "That's What You Get",
+        "url": "https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT"
       },
       "artists": [
         {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
         }
       ],
-      "duration_ms": 212720,
-      "name": "Horseback",
-      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
+      "duration_ms": 159841,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Horseback",
+      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
+    },
+    {
+      "added_at": "2025-01-24 05:00:57",
+      "album": {
         "name": "When My Baby\u2019s In Boots",
         "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 183613,
       "name": "When My Baby\u2019s In Boots",
       "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
-    },
-    {
-      "added_at": "2025-01-24 05:00:57",
-      "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Hearts Don't",
-        "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
       },
       "artists": [
         {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Hearts Don't",
-      "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2025-01-24 05:00:57",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-01-24 05:00:57",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
-      },
-      "artists": [
-        {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
-        }
-      ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
-    },
-    {
-      "added_at": "2025-01-24 05:00:57",
-      "album": {
         "name": "Never Not Love You",
         "url": "https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 204933,
       "name": "Whiskey to Work",
       "url": "https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j"
+    },
+    {
+      "added_at": "2025-01-24 05:00:57",
+      "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
     },
     {
       "added_at": "2025-01-24 05:00:57",

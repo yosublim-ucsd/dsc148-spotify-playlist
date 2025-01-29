@@ -2241,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Fury Betho",
+        "url": "https://open.spotify.com/album/21Ubm4HmhKeMFtXCe44XBh"
+      },
+      "artists": [
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185710,
+      "name": "Amoriste",
+      "url": "https://open.spotify.com/track/0D7lUguDKJE82pTKLmsJZH"
+    },
+    {
+      "album": {
         "name": "Amoriste II",
         "url": "https://open.spotify.com/album/4rrtVOC0QWxgMxBt34Q3KY"
       },
@@ -12380,7 +12398,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 223278,
       "name": "HWASI",
       "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
@@ -22896,7 +22914,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -30728,7 +30746,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 200909,
       "name": "We9tna",
       "url": "https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua"

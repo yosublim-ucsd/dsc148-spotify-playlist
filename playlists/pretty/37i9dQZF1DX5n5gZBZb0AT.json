@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 901906,
+  "num_followers": 902068,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -711,18 +711,30 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "Fluxxwave",
-        "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
+        "name": "Ele Te Bota Soca Soca",
+        "url": "https://open.spotify.com/album/5mDHRtjBsiDsPvg05LQcx5"
       },
       "artists": [
         {
-          "name": "Clovis Reyes",
-          "url": "https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6"
+          "name": "MC Mazzie",
+          "url": "https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        },
+        {
+          "name": "DJ NpcSize",
+          "url": "https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b"
+        },
+        {
+          "name": "DJ Wizard",
+          "url": "https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P"
         }
       ],
-      "duration_ms": 150441,
-      "name": "Fluxxwave",
-      "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
+      "duration_ms": 180927,
+      "name": "Ele Te Bota Soca Soca",
+      "url": "https://open.spotify.com/track/30096a5EMOSaF9c2aSa4TH"
     }
   ],
   "unique_name": "gymcore",

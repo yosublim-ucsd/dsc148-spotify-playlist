@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Elaine Martins
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,238 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,285 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 29 | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo) | 4:18 |
 | 30 | [Maravilhado \- Ao Vivo](https://open.spotify.com/track/7nE1e60VdkncBBxQkqGxRY) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Maravilhado \(Ao Vivo\)](https://open.spotify.com/album/6GUZILTmS0r3OpUavt7qam) | 7:34 |
 | 31 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
-| 32 | [Acalma o Meu Coração](https://open.spotify.com/track/2PFA4UqjvZSowY1LrcxfIg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Sessão Livre \(Vol.3\)](https://open.spotify.com/album/1V3TKVDKXKcVLrOwHwUfHx) | 7:33 |
-| 33 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 |
+| 32 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 |
+| 33 | [Acalma o Meu Coração](https://open.spotify.com/track/2PFA4UqjvZSowY1LrcxfIg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Sessão Livre \(Vol.3\)](https://open.spotify.com/album/1V3TKVDKXKcVLrOwHwUfHx) | 7:33 |
 | 34 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
 | 35 | [Meu Deus É Grande](https://open.spotify.com/track/7mWGh9B9WzhhP0Xbaoukav) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt), [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz), [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9), [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [Meu Deus É Grande](https://open.spotify.com/album/0MPV6iVIQRJwlXjCwi9UaK) | 5:38 |
 | 36 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |

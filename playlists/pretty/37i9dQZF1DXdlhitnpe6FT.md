@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,486 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,603 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 31 | [Caballo Negro](https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2) | [Manolo Sanlucar](https://open.spotify.com/artist/64CGnwp39uOxZSq2BfqWsi) | [Manolo Sanlucar](https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn) | 3:25 |
 | 32 | [Love In Every Room](https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:25 |
 | 33 | [Lily Was Here \(feat\. Candy Dulfer\)](https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 4:20 |
-| 34 | [Limelight](https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT) | [Charlie Chaplin](https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 2:46 |
-| 35 | [Somewhere In Time \- Main Theme](https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Somewhere In Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j) | 3:24 |
-| 36 | [The Girl from Ipanema](https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:33 |
+| 34 | [The Girl from Ipanema](https://open.spotify.com/track/5Xk2ZsXAP4sQZsdxBWZ7NA) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:33 |
+| 35 | [Limelight](https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT) | [Charlie Chaplin](https://open.spotify.com/artist/1qqZKSFPWKwT4Rtcu5zc8h), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 2:46 |
+| 36 | [Somewhere In Time \- Main Theme](https://open.spotify.com/track/68L5TNgWMtHcH8Ut5QZk60) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Somewhere In Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/51Jc2jeLXHZR1EempMR59j) | 3:24 |
 | 37 | [Midnight Cowboy](https://open.spotify.com/track/1s7bFZQnyj588iokpvRt0q) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [The Ultimate John Barry](https://open.spotify.com/album/04ZuIHUjEiAnAoODb9UQ6j) | 2:47 |
 | 38 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
 | 39 | [Last Waltz](https://open.spotify.com/track/0oQmDTHQUWzM64mdOONw6T) | [Anthony Ventura](https://open.spotify.com/artist/02UJNg1LEJ1vQSNm3Mo0R9) | [Die Schönsten Melodien Der Welt](https://open.spotify.com/album/69DoD3L4E7mQgM3EBReDgb) | 2:04 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 44 | [Perfidia](https://open.spotify.com/track/31mH7bCljOtHTFK1taKZzg) | [Pablo Beltran Ruiz Y Su Orquesta](https://open.spotify.com/artist/4x4Ag14j5bxZcoEhE7H6yq) | [Pablo Beltrán Ruíz y Su Orquesta](https://open.spotify.com/album/1zG5cHwkL5T8gFbZiJ7g2F) | 2:15 |
 | 45 | [Guns of Navarone](https://open.spotify.com/track/0AlMluXtq8LyWmLKxq9kOs) | [Al Caiola](https://open.spotify.com/artist/1kiuYnpzdoWeSpdHObdhQ6) | [Bonanza \- 50 Fabulous Guitar Favourites](https://open.spotify.com/album/4yzCxCEXI3sJzFb6xpybx9) | 2:40 |
 | 46 | [Amapola](https://open.spotify.com/track/64S1kBJCGH7KCDqJTBrIvC) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [40 Hits Latinos](https://open.spotify.com/album/4IQki6Ugj67CC8K8ouOFRC) | 2:52 |
-| 47 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
-| 48 | [Adam's Hotel](https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:32 |
+| 47 | [Adam's Hotel](https://open.spotify.com/track/0GrK0zmk5ZEANi9HOl07y4) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:32 |
+| 48 | [Frenesí](https://open.spotify.com/track/5zjvGVW2c8RFklSHCYMN1e) | [Orquesta Romántica de La Habana](https://open.spotify.com/artist/3cigoBpGBW3dKn2GSH6CjV) | [Boleros Bonitos](https://open.spotify.com/album/3oNeFcF6XfTajPE2GAEbEg) | 2:49 |
 | 49 | [Billy Jack's Theme](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
 | 50 | [Lady Milady](https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41) | [Pop Concerto Orchestra](https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30) | [Best of Pop Concerto Orchestra](https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ) | 2:36 |
 | 51 | [El Návajo Azul](https://open.spotify.com/track/4ZintGm70QaQWUx3AwRcQc) | [Mila Khodorkovsky](https://open.spotify.com/artist/5Zy8TV6z4GDzhbSC2cTsXO) | [Violín Mágico 3 Alegria](https://open.spotify.com/album/7LWwMcPCac2Bj55ZLK8yNV) | 3:41 |

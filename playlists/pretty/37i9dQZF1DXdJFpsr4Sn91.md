@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa ROSÉ ja Bruno Mars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,118 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,130 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [bändipaita](https://open.spotify.com/track/6OKQ4Zca1qPutoAP70WDJY) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [bändipaita](https://open.spotify.com/album/59qcRtqY5mkcUdlPqqGBAC) | 2:46 |
-| 2 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 |
-| 3 | [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 |
-| 4 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
-| 5 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
+| 2 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
+| 3 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 |
+| 4 | [Nightmares](https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Nightmares](https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF) | 2:58 |
+| 5 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 6 | [Dancing in love](https://open.spotify.com/track/5PS02EErgHhWcaMma9LUcU) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Dancing in love](https://open.spotify.com/album/4ad1hV83liZ8gtPHXcOIMx) | 2:36 |
 | 7 | [4X4](https://open.spotify.com/track/4y1kHTpSNXM4VeCUtEFA1m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/3bTbGN3QwizcRPt5SBHKT6) | 3:10 |
 | 8 | [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 89 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
 | 90 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 
-Snapshot ID: `Z5dmcgAAAACmpCkMaPTpm2cWmaMszdX7`
+Snapshot ID: `Z5jisQAAAAAq2SVj1ccyIT5Y0nbtPRs5`

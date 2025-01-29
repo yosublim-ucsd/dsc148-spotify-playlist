@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: ROBI & Sebastian Yatra
 
-837 songs - 1 day 17 hr 56 min
+838 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,7 +635,7 @@
 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 | 2024-11-22 |  |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-03-31 | 2023-09-02 |
 | [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 | 2022-10-28 | 2023-02-05 |
-| [QUEBRANTO](https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [QUEBRANTO](https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG) | 3:00 | 2024-11-22 |  |
+| [QUEBRANTO](https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [QUEBRANTO](https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG) | 3:00 | 2024-11-22 | 2025-01-29 |
 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 | 2022-07-25 | 2022-10-08 |
 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 | 2025-01-17 |  |
 | [Quieres](https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Quieres](https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc) | 3:33 | 2022-07-28 | 2022-10-29 |
@@ -647,6 +647,7 @@
 | [Quién Me Diría](https://open.spotify.com/track/6350jXu89L6Ul7OyuGkOnY) | [Polo Nandez](https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM), [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Quién Me Diría](https://open.spotify.com/album/277vgCWZiW0ZdWkGX7dH9Y) | 3:12 | 2023-09-01 | 2023-11-11 |
 | [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-04-21 | 2023-09-16 |
 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 | 2023-08-04 | 2024-01-13 |
+| [Quédate Otra Vez \(Amei Te Ver\)](https://open.spotify.com/track/1QHFcjPVJlJRleRC1s9Ckr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Quédate Otra Vez \(Amei Te Ver\)](https://open.spotify.com/album/1X2qjFnb9MF8vnbt7DBWeT) | 3:13 | 2025-01-28 |  |
 | [quítenme el cel](https://open.spotify.com/track/1TaGR2Jq33ojvjNEwgoy7v) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [quítenme el cel](https://open.spotify.com/album/6uRrO107nKeY8taVGjDiGI) | 2:32 | 2024-11-22 |  |
 | [Ramona Flowers](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Ramona Flowers](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 | 2022-08-11 | 2022-10-29 |
 | [Real G](https://open.spotify.com/track/6WU2eYUtOL91iROonROPyh) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Real G](https://open.spotify.com/album/4zQmGdxbD2EOKItaKLMnrC) | 3:11 | 2022-12-02 | 2023-01-06 |

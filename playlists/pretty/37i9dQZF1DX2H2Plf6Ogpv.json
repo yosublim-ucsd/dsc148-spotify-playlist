@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 27545,
+  "num_followers": 27576,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "life till bones",
-        "url": "https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS"
-      },
-      "artists": [
-        {
-          "name": "Oso Oso",
-          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "that's what time does",
-      "url": "https://open.spotify.com/track/6CpaWnrVt7lyGALNFUNgdt"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Start A Comeback",
         "url": "https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 181521,
       "name": "Start A Comeback",
       "url": "https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "life till bones",
+        "url": "https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS"
+      },
+      "artists": [
+        {
+          "name": "Oso Oso",
+          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "that's what time does",
+      "url": "https://open.spotify.com/track/6CpaWnrVt7lyGALNFUNgdt"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/60blq04fivxFDr2whVvM5r"
+        "name": "Under The Table",
+        "url": "https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW"
       },
       "artists": [
         {
-          "name": "Telescreens",
-          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
+          "name": "Balancing Act",
+          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
         }
       ],
-      "duration_ms": 243792,
-      "name": "Floods",
-      "url": "https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0"
+      "duration_ms": 179733,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1075,34 +1075,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Under The Table",
-        "url": "https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW"
+        "name": "7",
+        "url": "https://open.spotify.com/album/60blq04fivxFDr2whVvM5r"
       },
       "artists": [
         {
-          "name": "Balancing Act",
-          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+          "name": "Telescreens",
+          "url": "https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz"
         }
       ],
-      "duration_ms": 179733,
-      "name": "Under The Table",
-      "url": "https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Brighter Lights",
-        "url": "https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx"
-      },
-      "artists": [
-        {
-          "name": "The Backfires",
-          "url": "https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Brighter Lights",
-      "url": "https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe"
+      "duration_ms": 243792,
+      "name": "Floods",
+      "url": "https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Brighter Lights",
+        "url": "https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx"
+      },
+      "artists": [
+        {
+          "name": "The Backfires",
+          "url": "https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Brighter Lights",
+      "url": "https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Unbelonging",
         "url": "https://open.spotify.com/album/2BFkJStiIJzPeDGLpQ5CYU"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 210711,
       "name": "Unbelonging",
       "url": "https://open.spotify.com/track/39Lwc0RPO0H9Mx5gAQAsD3"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Dirty Girls",
+        "url": "https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Dirty Girls",
+      "url": "https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 221258,
       "name": "Hurts Like Hell",
       "url": "https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Dirty Girls",
-        "url": "https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP"
-      },
-      "artists": [
-        {
-          "name": "Beaks",
-          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Dirty Girls",
-      "url": "https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP"
     },
     {
       "added_at": "2024-12-04 12:15:00",

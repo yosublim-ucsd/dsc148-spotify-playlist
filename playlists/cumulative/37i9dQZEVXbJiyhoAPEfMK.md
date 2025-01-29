@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-2,902 songs - 6 day 6 hr 55 min
+2,903 songs - 6 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1990,7 +1990,7 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-31 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-10 | 2024-08-14 |
 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 | 2024-11-24 | 2024-11-26 |
-| [PELIGROSA](https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:14 | 2024-10-06 |  |
+| [PELIGROSA](https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:14 | 2024-10-06 | 2025-01-29 |
 | [Penelope](https://open.spotify.com/track/4qXCzGbyq8OlFIGfcQF17O) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Penelope](https://open.spotify.com/album/050HmQfqXtCNROZE6lgOCb) | 2:45 | 2023-09-23 | 2023-09-28 |
 | [PENNY](https://open.spotify.com/track/1VKMKD8wUSJMljezV7NjsO) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [PENNY](https://open.spotify.com/album/2dCWaZMqXEfYxhTPakyJxb) | 3:28 | 2024-03-09 | 2024-03-18 |
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2022-02-12 | 2022-02-14 |
@@ -2717,6 +2717,7 @@
 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 | 2021-12-05 | 2022-01-15 |
 | [Vérité](https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:19 | 2021-12-05 | 2021-12-19 |
 | [wacced out murals](https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 5:17 | 2024-11-24 | 2024-11-30 |
+| [Wackelkontakt](https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB) | 2:48 | 2025-01-28 |  |
 | [Wahnsinn](https://open.spotify.com/track/2pnZ17l3SWlz1StKUDIqSZ) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Wahnsinn](https://open.spotify.com/album/2AusTFYEhtdgeHvzwZ04DF) | 2:28 | 2023-10-07 | 2023-10-09 |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-30 | 2022-05-15 |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2025-01-03 | 2025-01-17 |

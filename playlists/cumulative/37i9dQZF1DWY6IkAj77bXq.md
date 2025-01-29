@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-238 songs - 11 hr 46 min
+239 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,13 +128,14 @@
 | [Love](https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Love](https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv) | 2:06 | 2022-07-05 | 2024-06-11 |
 | [Loveliness](https://open.spotify.com/track/2743TnEHSd1VI9Dwrzut7k) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/3IZIg6JCUU2i9KTiRE5CYy) | 2:40 | 2022-07-19 | 2022-07-25 |
 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 | 2022-11-11 | 2024-04-19 |
+| [Lysekil](https://open.spotify.com/track/3ebnip37XXVpR1nGsG9in8) | [Liva](https://open.spotify.com/artist/3OUnfI9kqulSplNuBsIf1p) | [Lysekil](https://open.spotify.com/album/3dydgFWdBBzacCf4OoNr9T) | 2:42 | 2025-01-14 |  |
 | [Mare Silentis](https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC) | [Cassio Bera](https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506) | [Mare Silentis](https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR) | 2:48 | 2024-03-14 |  |
 | [Meditatio Lux](https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Meditatio Lux](https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO) | 3:45 | 2024-07-19 |  |
 | [Mesmerize](https://open.spotify.com/track/2E1ZqBkFXyp7ZND2e5RGAq) | [Cloud Babies](https://open.spotify.com/artist/4ePAQ72METcmQnMZVg26Pw) | [Mesmerize](https://open.spotify.com/album/0d7WNCggIX0H9oX8jGrNaL) | 2:43 | 2023-10-04 | 2024-04-19 |
 | [Midnight Thoughts](https://open.spotify.com/track/6mZcumftxgJUpgELkIbvuu) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Wondrous](https://open.spotify.com/album/1owUoihrufwKkR6biwsfGJ) | 2:20 | 2023-08-25 |  |
 | [Mind Balance](https://open.spotify.com/track/58GOOCrLHfoFByHo69g43w) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Mind Balance](https://open.spotify.com/album/3qZiW4HnOyk7hKLOSRaWdj) | 2:58 | 2022-12-30 |  |
 | [Moments Paisibles](https://open.spotify.com/track/42sns5w7tsWuupnjuCBfre) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Moments Paisibles](https://open.spotify.com/album/5b2MLIV4hkMQkFlvfWFxtV) | 2:44 | 2024-06-10 | 2024-08-29 |
-| [Monument](https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Cosmos](https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6) | 3:58 | 2023-08-25 |  |
+| [Monument](https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Cosmos](https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6) | 3:58 | 2023-08-25 | 2025-01-29 |
 | [Moonchild's First Flight](https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011) | [Amos Stremann](https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV) | [Moonchild's First Flight](https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc) | 2:52 | 2022-07-05 |  |
 | [Moonlit](https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3) | 2:38 | 2022-11-11 | 2024-04-19 |
 | [Moonlit](https://open.spotify.com/track/67cHf1VdUczVmY1nD8gdos) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/1tbaoKLRFMdl6vhDO63LN9) | 2:38 | 2022-07-19 | 2022-07-29 |

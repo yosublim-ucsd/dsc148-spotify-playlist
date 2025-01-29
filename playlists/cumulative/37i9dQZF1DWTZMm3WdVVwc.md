@@ -4,7 +4,7 @@
 
 > 肌寒い日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-167 songs - 11 hr 18 min
+169 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Nittonoboushi](https://open.spotify.com/track/04LjXU0Otb4CvwU4vwJ2nB) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [What's Going On?](https://open.spotify.com/album/14g7DTj50Vr316564kkhuK) | 4:24 | 2023-12-12 | 2024-04-19 |
 | [O Holy Night](https://open.spotify.com/track/5vV032EIPCaNXpq1AhfjDj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [O Holy Night](https://open.spotify.com/album/0jFqVbw8OyszgD0UKMAJW9) | 3:25 | 2024-12-10 |  |
 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-19 | 2024-01-17 |
-| [Origami Song](https://open.spotify.com/track/20jLunM1GMasrScNWN45mP) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 4:21 | 2023-12-12 |  |
+| [Origami Song](https://open.spotify.com/track/20jLunM1GMasrScNWN45mP) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 4:21 | 2023-12-12 | 2025-01-29 |
 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 | 2023-12-12 | 2024-02-07 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-12-12 | 2023-12-20 |
 | [Present](https://open.spotify.com/track/6haW837EW4wauotPmhUVAM) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Present](https://open.spotify.com/album/3SgSlkZv8rds5bMmD24AqD) | 2:58 | 2024-12-10 |  |
@@ -102,7 +102,7 @@
 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-17 |  |
 | [White Snow](https://open.spotify.com/track/3VrvJqL0g4B2gfAvvzwJ2p) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/3NZc71lQ5slVbiwfLmsd8N) | 3:35 | 2023-12-12 | 2024-04-19 |
 | [White Snow](https://open.spotify.com/track/4IcWXM0Nk9DyuLvWnYUje5) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [White Snow](https://open.spotify.com/album/16J3o3firFKfgfBWZbWEh8) | 3:35 | 2024-02-20 | 2025-01-03 |
-| [Window](https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Window](https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy) | 4:00 | 2024-02-20 |  |
+| [Window](https://open.spotify.com/track/66l07rLvSUUabP5LSftS4o) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Window](https://open.spotify.com/album/17405CDEzV3dZGTucZeVxy) | 4:00 | 2024-02-20 | 2025-01-29 |
 | [winter again](https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [winter again](https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa) | 4:34 | 2023-12-14 | 2025-01-16 |
 | [Winter Beat](https://open.spotify.com/track/7mjamiJ2zplbZQ2ymbn5T7) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [BEST ALBUM SUPERVILLAIN](https://open.spotify.com/album/6q1FkwyDJcYQImWnK6UMCF) | 4:11 | 2023-12-12 | 2024-01-31 |
 | [Winter Candle](https://open.spotify.com/track/4msb9K8jtCWI8MJgnyt3ro) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Winter Candle](https://open.spotify.com/album/3Ll0Gxx43IIuBwhJuAH5Du) | 4:04 | 2023-12-12 | 2024-01-24 |
@@ -161,7 +161,9 @@
 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 | 2024-02-20 |  |
 | [歩み](https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [歩み](https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU) | 3:50 | 2024-12-17 |  |
 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 | 2023-12-19 |  |
+| [火星の冬](https://open.spotify.com/track/4UHzBwKTPCCB6OkpNgDM7Q) | [baboon](https://open.spotify.com/artist/7sBrAW25n2EA3ZVcYZ3TwL) | [火星の冬](https://open.spotify.com/album/1iuQx4uh0usnKThiGhSSOb) | 5:34 | 2025-01-29 |  |
 | [火魅蟲](https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [火魅蟲](https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG) | 3:10 | 2024-12-17 |  |
+| [独白](https://open.spotify.com/track/6KGVTqKatNlWRNBvkJl0px) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [独白](https://open.spotify.com/album/3bohD8rUa1U2O5zMVAfLHf) | 3:52 | 2025-01-29 |  |
 | [白とエスケープ](https://open.spotify.com/track/72kVH3tMjQ5kNthRgOm9tR) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [白とエスケープ](https://open.spotify.com/album/5wV6KIb85mMyFtjJsBMObZ) | 4:15 | 2024-12-03 | 2024-12-23 |
 | [白雪の王子様](https://open.spotify.com/track/072CGgPBvuShcATDbQRMuW) | [はせとも。](https://open.spotify.com/artist/78GY7TOWZWZcA660hCkVPb) | [白雪の王子様](https://open.spotify.com/album/4FlwnZjrssEiIG1uaf4GQe) | 4:37 | 2024-02-06 |  |
 | [空、冬の曙 \- feat\. B.I.G.JOE](https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG) | [SHO HENDRIX](https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh), [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH) | [DOZEN ROSES](https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs) | 3:47 | 2023-12-12 | 2023-12-20 |

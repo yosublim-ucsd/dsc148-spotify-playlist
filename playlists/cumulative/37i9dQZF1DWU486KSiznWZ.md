@@ -4,7 +4,7 @@
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: أحلام
 
-213 songs - 15 hr 17 min
+214 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abader](https://open.spotify.com/track/7clpLRhperdFynKEaIsG7I) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG) | [Abader](https://open.spotify.com/album/749eE00Y5A8hauiQJi2V2S) | 3:24 | 2024-06-27 |  |
 | [Adeel El Rooh](https://open.spotify.com/track/1BVO4w4limnbFYynPV1sOG) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Hayen](https://open.spotify.com/album/28ms6jlPHDk4zbSLKUqnnO) | 3:31 | 2024-12-26 |  |
 | [Admentik](https://open.spotify.com/track/7mY9OBHRc2m2eViCN4dTR1) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Admentik](https://open.spotify.com/album/0paz1ms5cAX0ZqOim3tJKi) | 4:18 | 2024-09-03 | 2024-11-19 |
+| [Ah Men Qalbi](https://open.spotify.com/track/4IKkoJtURxPMEgWtT6Prtv) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 4:17 | 2025-01-28 |  |
 | [Ahl Aleshg](https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ahl Aleshg](https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2) | 5:48 | 2022-07-15 | 2023-03-15 |
 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 | 2022-06-08 | 2023-01-19 |
 | [Akhaf Admank](https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Akhaf Admank](https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH) | 3:32 | 2024-08-19 | 2024-09-06 |

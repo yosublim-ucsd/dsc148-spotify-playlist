@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Bubble Baby
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 04 Limited Sazabys
 
-809 songs - 1 day 18 hr 59 min
+811 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 |  |
 | [Happy Nante](https://open.spotify.com/track/5V4jRwekmH66FW2iO08LEN) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Happy Nante](https://open.spotify.com/album/2B2IgbFuBorxh70ZQzM7nk) | 3:22 | 2025-01-07 |  |
-| [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 |  |
+| [Hate](https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [Seeding](https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns) | 3:11 | 2022-05-12 | 2025-01-29 |
 | [HATE](https://open.spotify.com/track/4oe6XEilgvCRpRr2WZfhcN) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [HATE](https://open.spotify.com/album/2dP1zFAbDbCOCdGt2e8KEU) | 3:10 | 2022-09-08 | 2022-10-05 |
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-08-23 |
 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-05 | 2023-05-18 |
@@ -287,6 +287,7 @@
 | [Magic of night](https://open.spotify.com/track/6vJM7dciZujpaK5KlTuuEw) | [MISTY](https://open.spotify.com/artist/3rqWhJ8OtjUXUYdaEuks6F) | [With Your Buddies](https://open.spotify.com/album/14DEkd0Fea0bcDVhp4eeLI) | 3:58 | 2022-05-12 | 2022-07-25 |
 | [MAGIC TIME](https://open.spotify.com/track/3qyH4YUfaRDoMvjB4b4TiC) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [MAGIC TIME / CREEPSHOW](https://open.spotify.com/album/1LdYc6r9E8RKlTShRs0myy) | 2:36 | 2023-08-15 | 2023-08-17 |
 | [MAGIC TIME](https://open.spotify.com/track/5bNd9b7Uo65IBAf51un2QJ) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [MAGIC TIME / CREEPSHOW](https://open.spotify.com/album/3G6Zoq3MHR6dlBCyxitVjI) | 2:36 | 2023-08-15 | 2023-12-20 |
+| [magnet](https://open.spotify.com/track/2HwweciLv84LZCPguyDpi4) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [MOON](https://open.spotify.com/album/5cUf1ovfEUKU3ZwcwXHzLB) | 2:46 | 2025-01-28 |  |
 | [MajiでKoiする5秒前](https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [GOD SAVE THE わーるど](https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3) | 4:50 | 2022-05-12 |  |
 | [MAKE IT MAKE IT](https://open.spotify.com/track/0rRJ4TxbrA2i5H37FusoOL) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [MAKE IT MAKE IT](https://open.spotify.com/album/2s0jRWixAc2voraktUZGkR) | 3:39 | 2022-05-17 | 2022-07-15 |
 | [Make You Sad](https://open.spotify.com/track/0HrpPDyA76lZpTsI1rx1rt) | [Black Leech](https://open.spotify.com/artist/5QrORVPMK6ZFRUfbvrOtLZ) | [Make You Sad](https://open.spotify.com/album/2EezPqiOjDDL1uGcDxKVzT) | 2:24 | 2023-12-12 | 2023-12-20 |
@@ -445,7 +446,7 @@
 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 | 2022-07-21 | 2024-04-19 |
 | [Simp](https://open.spotify.com/track/31vkkcXzYE3A7bSKfxemS6) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [Simp](https://open.spotify.com/album/31hzFNxPq3yCYKhIZTa4Pd) | 2:02 | 2022-05-17 | 2022-07-05 |
 | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/track/713QsTBsZ0YQbWrAbZ31Pq) | [For A Reason](https://open.spotify.com/artist/7xKhPv4ap1useGKUaLLh7q) | [SINCE YOU'VE BEEN GONE](https://open.spotify.com/album/3GgSgMFsq1TUV0zYT9tcqo) | 2:50 | 2022-05-12 | 2022-07-23 |
-| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 |  |
+| [Sink Like a Stone \- feat.Hiro\(from MY FIRST STORY\)](https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt), [Hiro](https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5) | [Life is Full of Choices\-Greatest Songs\-](https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT) | 4:28 | 2022-05-12 | 2025-01-29 |
 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2022-12-13 |  |
 | [Sleep](https://open.spotify.com/track/6QeU2s3F49pefIGevH0Xcv) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 3:34 | 2022-06-07 | 2022-07-20 |
 | [sleeps](https://open.spotify.com/track/13xF5hSOJOBbv2jNNEwY7F) | [RAINCOVER](https://open.spotify.com/artist/2sOzogZ56UHGK5MxDIniyW) | [sleeps](https://open.spotify.com/album/2isLTYuqfrBPQXwXuIgSe7) | 4:22 | 2024-04-16 | 2024-09-18 |
@@ -806,6 +807,7 @@
 | [虹](https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [RIOT ON THE GRILL](https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD) | 3:26 | 2022-05-12 |  |
 | [表参道](https://open.spotify.com/track/3ulW6i37o4FpqJSlebZflY) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/1COk9YWIlyNkyerTI4OOnB) | 2:04 | 2022-11-16 | 2022-11-17 |
 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 | 2024-05-14 |  |
+| [親切](https://open.spotify.com/track/2RnXVeReXWimlSHYS2jb6n) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [親切](https://open.spotify.com/album/5ORTHZhl6yeS8Wa6GCBi02) | 2:30 | 2025-01-28 |  |
 | [証](https://open.spotify.com/track/2NqEXbLw9l78MsFCuxhlHJ) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [証](https://open.spotify.com/album/5ytodu6cQWyhNzotNTWuzo) | 3:46 | 2022-05-24 | 2022-07-29 |
 | [賽を振る](https://open.spotify.com/track/51Kx7vgqkbr68b4yAIBW1t) | [Rudo](https://open.spotify.com/artist/5Q58P9YrOKt4SoUyV9w7Jc) | [賽を振る](https://open.spotify.com/album/3p6DYCR7z0hk6OFqprYmMn) | 4:53 | 2022-05-12 | 2022-07-29 |
 | [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 | 2022-07-21 | 2023-12-22 |

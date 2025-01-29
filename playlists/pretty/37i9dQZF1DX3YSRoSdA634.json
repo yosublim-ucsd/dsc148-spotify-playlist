@@ -1,6 +1,6 @@
 {
   "description": "Having a bad day? We know how it feels!",
-  "num_followers": 4009998,
+  "num_followers": 4009765,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190898,
-      "name": "illicit affairs",
-      "url": "https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 223346,
       "name": "I Fall Apart",
       "url": "https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190898,
+      "name": "illicit affairs",
+      "url": "https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 193546,
       "name": "Unsteady",
       "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 191001,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/4w177LbRYa3z07NifGptFp"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 230880,
       "name": "Control",
       "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 191001,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Leave a Light On",
-        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 185863,
-      "name": "Leave a Light On",
-      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Leave a Light On",
+        "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 185863,
+      "name": "Leave a Light On",
+      "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Stop All The World Now",
+        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
+      },
+      "artists": [
+        {
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 163905,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Stop All The World Now",
-        "url": "https://open.spotify.com/album/0bQBS1GmZ2sqbHcqiQnldn"
-      },
-      "artists": [
-        {
-          "name": "Howie Day",
-          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Collide",
-      "url": "https://open.spotify.com/track/6dwkFmLUz6hx2CZG2EqLol"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 202193,
-      "name": "Part Of Me",
-      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 245746,
       "name": "Dreaming with a Broken Heart",
       "url": "https://open.spotify.com/track/7keXdrB4mz57u4b8YkCwag"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Mercury - Acts 1 & 2",
-        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 185495,
-      "name": "I Don't Like Myself",
-      "url": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Chapter One (Deluxe Version)",
         "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 168586,
       "name": "Yours",
       "url": "https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 185495,
+      "name": "I Don't Like Myself",
+      "url": "https://open.spotify.com/track/3soSAbnGLuJeARGmegvMFJ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "If I Stay (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2cpfXsbsHVNweQ4USbO6wu"
-      },
-      "artists": [
-        {
-          "name": "Willamette Stone",
-          "url": "https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Heart Like Yours",
-      "url": "https://open.spotify.com/track/3JOF9NzQVkUXtCcJbEQuAb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN"
       },
@@ -3167,6 +3151,22 @@
       "duration_ms": 211413,
       "name": "Why Don't You Love Me (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/0cEBv7oJxFp3bfTFqWFI0R"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "If I Stay (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2cpfXsbsHVNweQ4USbO6wu"
+      },
+      "artists": [
+        {
+          "name": "Willamette Stone",
+          "url": "https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Heart Like Yours",
+      "url": "https://open.spotify.com/track/3JOF9NzQVkUXtCcJbEQuAb"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -3235,22 +3235,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "Give Me Something",
-      "url": "https://open.spotify.com/track/1au9q3wiWxIwXTazIjHdfF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Breakups",
         "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
       },
@@ -3263,6 +3247,22 @@
       "duration_ms": 223129,
       "name": "Breakups",
       "url": "https://open.spotify.com/track/77Bt2DXJE1R1qsnm4D10Ox"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Give Me Something",
+      "url": "https://open.spotify.com/track/1au9q3wiWxIwXTazIjHdfF"
     },
     {
       "added_at": "2024-05-22 11:00:00",

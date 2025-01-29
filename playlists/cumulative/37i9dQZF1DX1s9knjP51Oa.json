@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "At Sundown",
+        "url": "https://open.spotify.com/album/4a959CZK3XoUMEOASsiL8N"
+      },
+      "artists": [
+        {
+          "name": "Silent Turner",
+          "url": "https://open.spotify.com/artist/5b44meO3ARfkAgSSrMNZHl"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "At Sundown",
+      "url": "https://open.spotify.com/track/5duh4g8aryQeHKd1GMvu2H"
+    },
+    {
+      "album": {
         "name": "Augury",
         "url": "https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu"
       },
@@ -13142,6 +13160,24 @@
       "duration_ms": 137749,
       "name": "To Bring Rest",
       "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+    },
+    {
+      "album": {
+        "name": "To The Shore",
+        "url": "https://open.spotify.com/album/6He8b2xrFacLbfk0xkIz44"
+      },
+      "artists": [
+        {
+          "name": "Mac Paleblom",
+          "url": "https://open.spotify.com/artist/6SlV6zCpTuBMGfNtN5bzWp"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149705,
+      "name": "To The Shore",
+      "url": "https://open.spotify.com/track/1C6agiPtzxgsPH2tKtMg4s"
     },
     {
       "album": {

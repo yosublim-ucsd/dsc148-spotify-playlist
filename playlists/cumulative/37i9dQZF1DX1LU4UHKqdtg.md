@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: KickFlip
 
-1,334 songs - 2 day 23 hr 21 min
+1,336 songs - 2 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Classic](https://open.spotify.com/track/6jSnUhuqsXWsmlTxvRDzl3) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [WAVE](https://open.spotify.com/album/5GsSoccwm4oOWG2l50yM8B) | 3:32 | 2023-05-30 | 2023-08-11 |
 | [Classified](https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dreamy Resonance](https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m) | 3:14 | 2024-08-27 | 2024-11-30 |
 | [Click](https://open.spotify.com/track/2kFUlPHiyXAYMfE0fhoRS4) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Click](https://open.spotify.com/album/1kzTxZPwbdRGZFP0Nt7p0f) | 2:45 | 2024-04-18 | 2024-08-28 |
+| [Close to You](https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [When the Stars Gossip OST Part.3](https://open.spotify.com/album/5dQAvvKAG5diJ5DLEHCGcc) | 3:48 | 2025-01-28 |  |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-21 | 2024-06-01 |
 | [Color of Love](https://open.spotify.com/track/7fTTAOlLFkIjnWUtpYhx1W) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:07 | 2022-04-05 | 2022-06-24 |
 | [Colors](https://open.spotify.com/track/1e2XrDoGVuYjqKS4DJaLeE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Colors](https://open.spotify.com/album/0FJRcswbQpaN4jHqqF44dF) | 3:13 | 2024-05-23 | 2024-07-10 |
@@ -472,6 +473,7 @@
 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 | 2022-03-18 | 2022-05-27 |
 | [Hair Cut](https://open.spotify.com/track/4ZYSJfjSuR1XqcUPaTxjuG) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Overload](https://open.spotify.com/album/76XckkqatimbtN2NspL4N5) | 3:25 | 2022-11-10 | 2023-01-18 |
 | [HALAZIA](https://open.spotify.com/track/5cTnKClHyczcUhFT8MKBZe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [SPIN OFF : FROM THE WITNESS](https://open.spotify.com/album/0NQQk6vo9LOOwKjZc2iUwm) | 3:17 | 2022-12-29 | 2023-03-29 |
+| [HANA](https://open.spotify.com/track/0UXWF5PYBunoB1iQjQ5moz) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [PREZENT](https://open.spotify.com/album/2W4coh0YmTpCovcdoyxmGd) | 3:11 | 2025-01-28 |  |
 | [HANA MICHI](https://open.spotify.com/track/6Ype063HsGKF7AholzHRFh) | [Kim Hyun Joong](https://open.spotify.com/artist/0rB9P2J3OkobNezpTBcXqE) | [HANA MICHI](https://open.spotify.com/album/4rHAamZcFkv1pnv2FHKua4) | 3:44 | 2023-03-14 | 2023-03-22 |
 | [Hands Up](https://open.spotify.com/track/0Wp5yopFqgKyklOReg9S8a) | [NCT NEW TEAM](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Hands Up](https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR) | 3:14 | 2023-10-10 | 2023-11-23 |
 | [Happy Death Day](https://open.spotify.com/track/6IU2u7AKUffdmcbYPK9YR1) | [Xdinary Heroes](https://open.spotify.com/artist/5FgP85u2BR2WFWhMz959es) | [Happy Death Day](https://open.spotify.com/album/3sQhbas4eoH7l38Uy0ZJ3z) | 3:40 | 2021-12-23 | 2022-02-16 |
@@ -761,7 +763,7 @@
 | [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 | 2023-04-27 | 2023-06-16 |
 | [Nothing But You \(Korean Ver.\)](https://open.spotify.com/track/0f0hE8jWYBpJC2JEZEc2MV) | [LEE JUNHO](https://open.spotify.com/artist/1nEFr6pWrot80eRuOkZQxg) | [Nothing But You \(Korean Ver.\)](https://open.spotify.com/album/0p2FzdABxb9ptQE69TFevx) | 4:04 | 2023-12-07 | 2024-01-10 |
 | [Now or Never](https://open.spotify.com/track/1pzZk1vD3qmxr9jAfLmlre) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [FIND THE ORBIT](https://open.spotify.com/album/1nejkxPmooWxu91sIMEbkO) | 2:52 | 2024-12-05 |  |
-| [NOW OR NEVER](https://open.spotify.com/track/2xRSV9JyN6xJe0Puyitnzj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NOW OR NEVER](https://open.spotify.com/album/2X6c4OK7DZVbEAOHTfaIfi) | 3:22 | 2025-01-17 |  |
+| [NOW OR NEVER](https://open.spotify.com/track/2xRSV9JyN6xJe0Puyitnzj) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NOW OR NEVER](https://open.spotify.com/album/2X6c4OK7DZVbEAOHTfaIfi) | 3:22 | 2025-01-17 | 2025-01-29 |
 | [Nu Boo \(feat\. SOMIN of KARD\)](https://open.spotify.com/track/52MTEiHk6zIzA4vz9fje3P) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9), [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ), [SOMIN](https://open.spotify.com/artist/6awncfLx4nMbIIlud7mLrZ) | [Nu Boo \(feat\. SOMIN of KARD\)](https://open.spotify.com/album/317dY0NQqcIYgQT9ySk3gD) | 3:11 | 2024-05-23 | 2024-06-01 |
 | [NVKED](https://open.spotify.com/track/0ajEGDVNascvRTIF00SC4I) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [BORN LIKE THIS](https://open.spotify.com/album/4aJ7v5848ubd4iQF3lONqk) | 2:41 | 2024-10-11 | 2024-12-25 |
 | [Nxde](https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I love](https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH) | 2:58 | 2022-10-18 | 2023-02-15 |
@@ -955,7 +957,7 @@
 | [SHE'S THE BOSS](https://open.spotify.com/track/1C2P1QRhkrAQHTq3j1YfM1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [SHE'S THE BOSS](https://open.spotify.com/album/6kPf5szTsKC6OMX3YPuxcS) | 3:47 | 2022-05-13 | 2022-07-27 |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-04-01 | 2024-09-11 |
 | [Shh](https://open.spotify.com/track/0qu6gCG90KB4vp6H7JpAZy) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Shh](https://open.spotify.com/album/2IFIiCZ8FgprUn7yhqYG49) | 3:13 | 2023-05-09 | 2023-07-08 |
-| [Shhh!](https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 5th Mini Album 'VOYAGE'](https://open.spotify.com/album/7xqdkXDwZiVOkdZZlKxjEL) | 3:14 | 2024-11-07 |  |
+| [Shhh!](https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 5th Mini Album 'VOYAGE'](https://open.spotify.com/album/7xqdkXDwZiVOkdZZlKxjEL) | 3:14 | 2024-11-07 | 2025-01-29 |
 | [Shock](https://open.spotify.com/track/6844s8dJ9F3CibZCuDV2FX) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [Shock](https://open.spotify.com/album/0W7ItdW3WDC6bFpM1MigWa) | 3:46 | 2023-08-29 | 2023-09-15 |
 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 | 2023-04-25 | 2024-02-02 |
 | [Shooting Star](https://open.spotify.com/track/6iINhMZAsZltmpyVWDanfk) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going On](https://open.spotify.com/album/0hiqhyNqW4ZtH8qUZIAewI) | 3:03 | 2024-06-04 | 2024-09-11 |

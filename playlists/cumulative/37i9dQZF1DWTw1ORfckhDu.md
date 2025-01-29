@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa DAVI.
 
-781 songs - 1 day 13 hr 3 min
+782 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [LEVEL UP](https://open.spotify.com/track/2dzcXO9LkmDLhZehtRuHjd) | [Chrizay](https://open.spotify.com/artist/1fY5gUe3QdjIvsuAQuQm0r) | [LEVEL UP](https://open.spotify.com/album/4qH1mdfPfKj3LRKZ4bUuzF) | 2:10 | 2024-03-07 | 2024-03-22 |
 | [Lickini Bäk](https://open.spotify.com/track/68nEpYbIC6xYkkT96b2WzW) | [Opaali](https://open.spotify.com/artist/1dk4PjZTvrWlSPhBFXy7VM), [Lik4\-Ak1](https://open.spotify.com/artist/3I8D7WaZgKVvwEmE0Ncekg), [Pyhimy$](https://open.spotify.com/artist/2VrdhQoPzqb64vmyDjBbCv) | [Lickini Bäk](https://open.spotify.com/album/23iFYkj9wSelW1BrBccBj3) | 3:44 | 2024-08-15 | 2024-08-23 |
 | [Lifestyle](https://open.spotify.com/track/02TeEMxBwp0IrnA6Za7JNV) | [EKI JA RAY](https://open.spotify.com/artist/5kFA7hu270oNJDL55BDEEp) | [Lifestyle/Ei Oo Nuukaa](https://open.spotify.com/album/7ywSBvNaJGucn2FxCbcZFt) | 2:38 | 2023-09-21 | 2023-10-06 |
+| [Lifestyle Freestyle \(feat\. Kube\)](https://open.spotify.com/track/7Ke33LNLFnGr7WT5LJzhvl) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Lifestyle Freestyle \(feat\. Kube\)](https://open.spotify.com/album/4sndaK3h4FTPwQyOVy0gHJ) | 3:21 | 2025-01-28 |  |
 | [Lights \(feat\. Mirella Roininen\)](https://open.spotify.com/track/15UP0gCmYnjT62DRndraCP) | [Don Johnson Big Band](https://open.spotify.com/artist/3IyO9AT4qU8VLyOUcZfgMg), [Mirella Roininen](https://open.spotify.com/artist/7iS78xeafTbkrBdWdJTWRw) | [Midnight Movement](https://open.spotify.com/album/7sZpm6oxNUoh8JktJfTijk) | 3:23 | 2024-04-04 | 2024-04-12 |
 | [Lightskinboy \(feat\. Sexmane\)](https://open.spotify.com/track/1PUwncTlHx89aP8nIfObSO) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Lightskinboy \(feat\. Sexmane\)](https://open.spotify.com/album/3ZtPi15BOXrYLDSrRH1eIv) | 2:26 | 2024-05-23 | 2024-09-20 |
 | [Liian kivaa](https://open.spotify.com/track/7JhpyMSlc7HyTABLEhPdH8) | [Olli Antonio](https://open.spotify.com/artist/5UzvBU2UU03rt1kSLGGZa9) | [Liian kivaa](https://open.spotify.com/album/2mv2vedGRIrzZ8ZbF0sEbw) | 3:12 | 2024-03-07 | 2024-03-22 |
@@ -397,7 +398,7 @@
 | [Massii vaan \(feat\. Nikke Ankara\)](https://open.spotify.com/track/5ZOa6UrIaRvuDWIjinDShQ) | [Leo Luthando](https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6), [Nikke Ankara](https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn) | [Massii vaan \(feat\. Nikke Ankara\)](https://open.spotify.com/album/5UbRXspX6uFcp0zIZ2xnRq) | 3:35 | 2023-11-23 | 2023-12-08 |
 | [Matrix](https://open.spotify.com/track/3qgL0KYd3rUPuXTjfMSOKA) | [OT](https://open.spotify.com/artist/3HyIXyyBsBcY3GuX6SIbz3) | [Matrix](https://open.spotify.com/album/1DyKDvkvcu967IF9Wfn7x6) | 2:27 | 2023-12-21 | 2024-01-05 |
 | [Maybach](https://open.spotify.com/track/6c17ZK90EPhBS0z31TzYmt) | [Nasri](https://open.spotify.com/artist/7acOpaL3oIdFw8NugTqMJm), [Nupe](https://open.spotify.com/artist/5u0QamnXCuX8MNukIIkkee) | [Maybach](https://open.spotify.com/album/5NHYJvUxG9dzch8DW7Fk47) | 2:38 | 2024-07-18 | 2024-08-02 |
-| [Maybe We Could Be Friends](https://open.spotify.com/track/6izGVTyhBLQ2nInn0cc1vz) | [Redrama](https://open.spotify.com/artist/3qy9C549vuJzgevoM0ZiRA) | [Maybe We Could Be Friends](https://open.spotify.com/album/1bXnpRTUHhZqVzMhFY8VgA) | 3:07 | 2025-01-16 |  |
+| [Maybe We Could Be Friends](https://open.spotify.com/track/6izGVTyhBLQ2nInn0cc1vz) | [Redrama](https://open.spotify.com/artist/3qy9C549vuJzgevoM0ZiRA) | [Maybe We Could Be Friends](https://open.spotify.com/album/1bXnpRTUHhZqVzMhFY8VgA) | 3:07 | 2025-01-16 | 2025-01-29 |
 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 | 2024-07-25 |  |
 | [MEDUSA](https://open.spotify.com/track/6iq1pCbLqDAjkqRrP5Xs7o) | [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta) | [MEDUSA](https://open.spotify.com/album/4hFCZZaqoJzT0nCNapwibT) | 2:47 | 2024-01-11 | 2024-01-26 |
 | [Mee töihin](https://open.spotify.com/track/2GCqs8ZceltyuQGsfgTpeh) | [Stepa](https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu), [Pehmee Goo](https://open.spotify.com/artist/2MTW458Op0hSNePNW9XhEz), [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Mee töihin / Sijaisena koulussa](https://open.spotify.com/album/1PKlz0i9LDqlCp8iiMh3tS) | 2:59 | 2024-02-29 | 2024-03-08 |

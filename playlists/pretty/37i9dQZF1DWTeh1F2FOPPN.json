@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 75507,
+  "num_followers": 75568,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Jealous Guy - Live",
-      "url": "https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 215466,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Jealous Guy - Live",
+      "url": "https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "I Care 4 U",
-        "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Are You That Somebody",
-      "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
-    },
-    {
-      "added_at": "2022-10-01 16:54:27",
-      "album": {
         "name": "Naked & Warm",
         "url": "https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 292226,
       "name": "My Imagination",
       "url": "https://open.spotify.com/track/5FMfb6fRfQaXTIjdrcBOkE"
+    },
+    {
+      "added_at": "2022-10-01 16:54:27",
+      "album": {
+        "name": "I Care 4 U",
+        "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "Are You That Somebody",
+      "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
     },
     {
       "added_at": "2022-10-01 16:54:27",

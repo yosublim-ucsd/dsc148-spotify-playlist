@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Apache 207, Luciano",
+  "description": "50 Hits in einer Playlist! Cover: Oimara",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 181820,
       "name": "2 hands",
       "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
+    },
+    {
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
     },
     {
       "album": {
@@ -480,7 +498,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 175134,
       "name": "DAS GEHT VORBEi",
       "url": "https://open.spotify.com/track/1e321Mp5Ybqoh9ts2erLFi"
@@ -586,7 +604,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 135082,
       "name": "eehhhyyy",
       "url": "https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq"
@@ -772,7 +790,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 165850,
       "name": "Geschlossene Augen",
       "url": "https://open.spotify.com/track/4qdGZUy2bzM8GB2qBaMWpR"
@@ -1621,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Von hier an blind",
+        "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
+      },
+      "artists": [
+        {
+          "name": "Wir sind Helden",
+          "url": "https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Nur ein Wort",
+      "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
+    },
+    {
+      "album": {
         "name": "N\u00dcCHTERN",
         "url": "https://open.spotify.com/album/7xKFVx6gSDKbJSfR9bPe3X"
       },
@@ -1672,7 +1708,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 157135,
       "name": "Panama",
       "url": "https://open.spotify.com/track/3qcreqi8RaGqahtJSQDxNI"
@@ -1952,6 +1988,24 @@
       "duration_ms": 134400,
       "name": "Sigma Boy - \u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
+    },
+    {
+      "album": {
+        "name": "Sports car",
+        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
     },
     {
       "album": {
@@ -2284,6 +2338,24 @@
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
+    },
+    {
+      "album": {
+        "name": "WENN DU DUMM BiST",
+        "url": "https://open.spotify.com/album/2vh0CBECdbufukqBXpT9fP"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163402,
+      "name": "WENN DU DUMM BiST",
+      "url": "https://open.spotify.com/track/6IFqLvemScAOurr8RxZ50B"
     },
     {
       "album": {

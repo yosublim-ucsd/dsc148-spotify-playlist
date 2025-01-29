@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 40418,
+  "num_followers": 40429,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAAAsZcpiG4ZUT+TtEXraVPdp",
+  "snapshot_id": "Z5bMgAAAAAAXLB7GwdPq3c4ubvxuWfRB",
   "tracks": [
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous For (I Believe) - Collection",
-        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242427,
-      "name": "Tu Poder (Creo en Ti)",
-      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solo En Jes\u00fas",
         "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 271426,
       "name": "Solo En Jes\u00fas",
       "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242427,
+      "name": "Tu Poder (Creo en Ti)",
+      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
     },
     {
       "added_at": null,

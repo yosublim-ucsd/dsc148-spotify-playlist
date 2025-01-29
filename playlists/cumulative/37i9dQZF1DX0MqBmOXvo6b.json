@@ -6281,6 +6281,24 @@
     },
     {
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
+      },
+      "artists": [
+        {
+          "name": "Kyo Himura",
+          "url": "https://open.spotify.com/artist/3zJyClRhsSeHXs3PAHMRC1"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146073,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/7yTxnKpCWKf4aquBYtkFJ7"
+    },
+    {
+      "album": {
         "name": "Morning Skyline",
         "url": "https://open.spotify.com/album/3a54uonmLjDZ9vH1TnXNvs"
       },

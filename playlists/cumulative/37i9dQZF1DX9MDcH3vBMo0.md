@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-793 songs - 1 day 10 hr 30 min
+794 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Amžinai](https://open.spotify.com/track/2GhP0T49fLFO6FfGLl7TC2) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Amžinai](https://open.spotify.com/album/5iobYRYPuGTOSQMgzXaqpc) | 2:04 | 2022-04-21 | 2022-08-10 |
 | [An Ocean Of Memories](https://open.spotify.com/track/1AlgXoj042cGzdQ2SybcSk) | [Maddison Howells](https://open.spotify.com/artist/2IC6rSlT5Gmdqf3yiMIzzl) | [An Ocean Of Memories](https://open.spotify.com/album/0d07WU02I7aOlBnviJkeFe) | 2:53 | 2022-04-21 | 2022-09-24 |
 | [And Flies Away](https://open.spotify.com/track/1uHXO9BZxxT0HHBwCwWRQ2) | [Luna](https://open.spotify.com/artist/5Lq80tyGV6FmKgN34FKN30) | [And Flies Away](https://open.spotify.com/album/00JtUOjMhbV7Ya6tufF7kI) | 3:09 | 2024-01-05 |  |
+| [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 | 2025-01-28 |  |
 | [Anemones](https://open.spotify.com/track/70ehsbwZet95hweCr8tSNi) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Anemones](https://open.spotify.com/album/0Xclqh5l3EVDBtugh8ze5D) | 4:00 | 2022-04-21 | 2023-05-04 |
 | [Anima I](https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Anima I](https://open.spotify.com/album/3hPZk1DkbSCpAU1NPqs4QG) | 3:01 | 2023-07-03 |  |
 | [Anyone Who Has a Heart](https://open.spotify.com/track/1U4lyaeTIHhecWMyry66xk) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Anyone Who Has a Heart](https://open.spotify.com/album/4KCGwoguck5YjGbbt2LbX8) | 2:38 | 2022-04-21 | 2022-09-24 |

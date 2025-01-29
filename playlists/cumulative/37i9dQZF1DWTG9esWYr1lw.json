@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "7Alo Ya 7Alo",
+        "url": "https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo"
+      },
+      "artists": [
+        {
+          "name": "Ahlam",
+          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269947,
+      "name": "7Alo Ya 7Alo",
+      "url": "https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az"
+    },
+    {
+      "album": {
         "name": "A3zam Ayam",
         "url": "https://open.spotify.com/album/2m9kuiPhaFlzZ8WF5bT07V"
       },
@@ -118,7 +136,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 211232,
       "name": "Ahlan Ya Ramadan",
       "url": "https://open.spotify.com/track/7zjP56QAqew2Vq1KUlGKiN"
@@ -298,7 +316,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 75520,
       "name": "Lak Shoe Ya Ramadan",
       "url": "https://open.spotify.com/track/41dQhPE2feBfpOI6wOzymF"
@@ -446,7 +464,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 207906,
       "name": "Ramadan",
       "url": "https://open.spotify.com/track/5wxOXYEcn0AZVvsHNH1OhM"
@@ -562,7 +580,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 207312,
       "name": "Ramadan Haretna",
       "url": "https://open.spotify.com/track/1A3Ky3wvcDlBMsVymuPCaq"
@@ -598,7 +616,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 222040,
       "name": "Ramadan Karim",
       "url": "https://open.spotify.com/track/6kC8PTMYaP5X3e5Zu0QyM0"
@@ -731,6 +749,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0647\u0644\u064b\u0627 \u0631\u0645\u0636\u0627\u0646",
+        "url": "https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u062d\u0645\u062f \u062d\u0633\u0646 \u0627\u0644\u0627\u0642\u0635\u0631\u064a",
+          "url": "https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280727,
+      "name": "\u0623\u0647\u0644\u064b\u0627 \u0631\u0645\u0636\u0627\u0646",
+      "url": "https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF"
+    },
+    {
+      "album": {
         "name": "\u0627\u0647\u0644\u0627 \u0631\u0645\u0636\u0627\u0646",
         "url": "https://open.spotify.com/album/6umXFIQM8J0bTOqTlgPFUI"
       },
@@ -746,7 +782,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-15",
+      "date_removed": null,
       "duration_ms": 154064,
       "name": "\u0627\u0647\u0644\u0627 \u0631\u0645\u0636\u0627\u0646",
       "url": "https://open.spotify.com/track/43Zt5DfrGBYtBBknYPh6WW"

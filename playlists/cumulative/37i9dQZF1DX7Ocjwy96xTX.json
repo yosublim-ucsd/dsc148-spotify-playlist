@@ -5093,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Telepolartears",
+        "url": "https://open.spotify.com/album/0btFNaPvgLP3Gzh2xL1j4u"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149306,
+      "name": "Telepolartears",
+      "url": "https://open.spotify.com/track/60Bkoafr2N367Dwff2QjW5"
+    },
+    {
+      "album": {
         "name": "New Jersey",
         "url": "https://open.spotify.com/album/3ryHJlyWJf8CjR7jrgIYqB"
       },
@@ -5418,6 +5436,24 @@
       "duration_ms": 178749,
       "name": "VIOLET NOISE",
       "url": "https://open.spotify.com/track/62zciqjLHP51CxpJGPGDGM"
+    },
+    {
+      "album": {
+        "name": "Vows",
+        "url": "https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162143,
+      "name": "Vows",
+      "url": "https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK"
     },
     {
       "album": {

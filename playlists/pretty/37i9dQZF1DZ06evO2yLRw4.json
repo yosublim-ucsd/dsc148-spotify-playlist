@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 36898,
+  "num_followers": 36903,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5V7AAAAAACiRa+7Sat4/tGW7vyc8fvN",
+  "snapshot_id": "Z5bMgAAAAACzdELeIp+mReQrFDKNwG4C",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        },
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 249240,
-      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
-      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+        "url": "https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Material Girl (feat. Taylor Hanson of Hanson)",
+      "url": "https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36"
     },
     {
       "added_at": null,

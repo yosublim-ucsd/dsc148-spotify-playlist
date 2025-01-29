@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 141288,
+  "num_followers": 141289,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Feel Like Makin' Love",
-      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
-    },
-    {
-      "added_at": "2024-12-18 08:23:29",
-      "album": {
         "name": "Take from Me",
         "url": "https://open.spotify.com/album/20e8oP5W0209A6D87lTzB3"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 213933,
       "name": "Easy to Come Home",
       "url": "https://open.spotify.com/track/3UZ8WlceXd5kDmnpNvA8Dd"
+    },
+    {
+      "added_at": "2024-12-18 08:23:29",
+      "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Feel Like Makin' Love",
+      "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
     },
     {
       "added_at": "2024-12-18 08:23:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "Rhythm Of Life",
-      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
-    },
-    {
-      "added_at": "2024-12-18 08:23:29",
-      "album": {
         "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
         "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
-        "name": "Express Yourself (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
       },
       "artists": [
         {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Express Yourself - Remastered Version",
-      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
+      "duration_ms": 259666,
+      "name": "Rhythm Of Life",
+      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
     },
     {
       "added_at": "2024-12-18 08:23:29",
@@ -979,6 +963,22 @@
       "duration_ms": 249745,
       "name": "Tell Me A Tale",
       "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q"
+    },
+    {
+      "added_at": "2024-12-18 08:23:29",
+      "album": {
+        "name": "Express Yourself (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Express Yourself - Remastered Version",
+      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
     },
     {
       "added_at": "2024-12-18 08:23:29",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
-        "name": "Inspiration Information/ Wings Of Love",
-        "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
-      },
-      "artists": [
-        {
-          "name": "Shuggie Otis",
-          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Inspiration Information",
-      "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
-    },
-    {
-      "added_at": "2024-12-18 08:23:29",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+    },
+    {
+      "added_at": "2024-12-18 08:23:29",
+      "album": {
+        "name": "Inspiration Information/ Wings Of Love",
+        "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
+      },
+      "artists": [
+        {
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Inspiration Information",
+      "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
     },
     {
       "added_at": "2024-12-18 08:23:29",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
-        "name": "Fancy",
-        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Gentry",
-          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
-        }
-      ],
-      "duration_ms": 258912,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
-    },
-    {
-      "added_at": "2024-12-18 08:23:29",
-      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 318800,
       "name": "People Say",
       "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
+    },
+    {
+      "added_at": "2024-12-18 08:23:29",
+      "album": {
+        "name": "Fancy",
+        "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Gentry",
+          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+        }
+      ],
+      "duration_ms": 258912,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
     },
     {
       "added_at": "2024-12-18 08:23:29",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
-        "name": "The Essential Bill Withers",
-        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
-    },
-    {
-      "added_at": "2024-12-18 08:23:29",
-      "album": {
         "name": "Definitive Soul: Spinners",
         "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 191786,
       "name": "I'll Be Around - 2003 Remaster",
       "url": "https://open.spotify.com/track/3HFdPsHeAtmIrCz5fOYnp4"
+    },
+    {
+      "added_at": "2024-12-18 08:23:29",
+      "album": {
+        "name": "The Essential Bill Withers",
+        "url": "https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/1k2ybm1oz7rVPchTKCgMMz"
     },
     {
       "added_at": "2024-12-18 08:23:29",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
-        "name": "Loving on the Flipside",
-        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
-      },
-      "artists": [
-        {
-          "name": "Eunice Collins",
-          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "At the Hotel",
-      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
-    },
-    {
-      "added_at": "2024-12-18 08:23:29",
-      "album": {
         "name": "Definitive Soul: Spinners",
         "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 249480,
       "name": "Could It Be I'm Falling in Love - 2003 Remaster",
       "url": "https://open.spotify.com/track/0aQQWzYCSXu92bloNvQCrn"
+    },
+    {
+      "added_at": "2024-12-18 08:23:29",
+      "album": {
+        "name": "Loving on the Flipside",
+        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
+      },
+      "artists": [
+        {
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "At the Hotel",
+      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
     },
     {
       "added_at": "2024-12-18 08:23:29",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
-        "name": "This is Niecy",
-        "url": "https://open.spotify.com/album/4ylsWjgJzzwNM5UYOeTK4D"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 358213,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3kJwr9OzovziPtwAnYTHeM"
-    },
-    {
-      "added_at": "2024-12-18 08:23:29",
-      "album": {
         "name": "I'm Back! Family & Friends",
         "url": "https://open.spotify.com/album/52C9QFWsfF3Kzb8riRPJzj"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 199426,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/1XvCs8az0V297Ex0I9VAPu"
+    },
+    {
+      "added_at": "2024-12-18 08:23:29",
+      "album": {
+        "name": "This is Niecy",
+        "url": "https://open.spotify.com/album/4ylsWjgJzzwNM5UYOeTK4D"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 358213,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3kJwr9OzovziPtwAnYTHeM"
     },
     {
       "added_at": "2024-12-18 08:23:29",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2024-12-18 08:23:29",
       "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
+    },
+    {
+      "added_at": "2024-12-18 08:23:29",
+      "album": {
         "name": "Better Be Home Soon",
         "url": "https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ"
       },
@@ -2159,22 +2175,6 @@
       "duration_ms": 180750,
       "name": "Better Be Home Soon",
       "url": "https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ"
-    },
-    {
-      "added_at": "2024-12-18 08:23:29",
-      "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/5JycxUvp3crGxKV3i3Vjl3"
-      },
-      "artists": [
-        {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/1QXhI3IfDBZiPtPID25FE1"
     },
     {
       "added_at": "2024-12-18 08:23:29",

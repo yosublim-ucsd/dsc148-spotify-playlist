@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 113,497 likes - 169 songs - 7 hr 7 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 113,468 likes - 169 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 6 | [Remember](https://open.spotify.com/track/5xZVhbNMHFXXuDAKEJ3bUS) | [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Amaranth Skies](https://open.spotify.com/artist/6v1yanGkwUBUbk6G3dgNOq), [esiole](https://open.spotify.com/artist/20834GegbqTl8KA5p6PQZN) | [Remember](https://open.spotify.com/album/6ly5EsmhWmqqwFDpPHpwRK) | 2:42 |
 | 7 | [Nevermind](https://open.spotify.com/track/04uBbx5F711bR1BLdesgbj) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Nevermind](https://open.spotify.com/album/3jTPC9ORBZ7FfvD04FERAm) | 2:35 |
 | 8 | [Find You](https://open.spotify.com/track/4pupB5o3t5oFMqPpZxhh5f) | [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Find You](https://open.spotify.com/album/67Rpd9k40WvlveiUOG3Yjp) | 2:23 |
-| 9 | [It's Always Been You](https://open.spotify.com/track/3yoW8wPamQuyuHUO3PHo1V) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [It's Always Been You](https://open.spotify.com/album/0KJDuAph0KkN8Q9KexMr8M) | 2:00 |
-| 10 | [Ocean Pass](https://open.spotify.com/track/4KX4lgScLric00Mn6iulvf) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Ocean Pass](https://open.spotify.com/album/5Ti2TwKsfQRaId5nhQx3c9) | 2:53 |
-| 11 | [Should Have Said](https://open.spotify.com/track/0Ukxvaj9T20dXSBSbiqVGH) | [MISERO](https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX), [Lazy Daze](https://open.spotify.com/artist/6bMxxRfNZzYjtbP8RiWPcq) | [Should Have Said](https://open.spotify.com/album/0jvcPC7qwqIgYKEDA9IDBm) | 2:19 |
-| 12 | [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 |
-| 13 | [My Sunshine](https://open.spotify.com/track/3ZNZqvp0s1oc7ZtnrDLpsx) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [My Sunshine](https://open.spotify.com/album/7vEZorTefJ4Qem2QFHnuyc) | 2:20 |
+| 9 | [My Sunshine](https://open.spotify.com/track/3ZNZqvp0s1oc7ZtnrDLpsx) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [My Sunshine](https://open.spotify.com/album/7vEZorTefJ4Qem2QFHnuyc) | 2:20 |
+| 10 | [It's Always Been You](https://open.spotify.com/track/3yoW8wPamQuyuHUO3PHo1V) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [It's Always Been You](https://open.spotify.com/album/0KJDuAph0KkN8Q9KexMr8M) | 2:00 |
+| 11 | [Ocean Pass](https://open.spotify.com/track/4KX4lgScLric00Mn6iulvf) | [just here.](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Ocean Pass](https://open.spotify.com/album/5Ti2TwKsfQRaId5nhQx3c9) | 2:53 |
+| 12 | [Should Have Said](https://open.spotify.com/track/0Ukxvaj9T20dXSBSbiqVGH) | [MISERO](https://open.spotify.com/artist/7lBddBaWxQCYyPUeIB47ZX), [Lazy Daze](https://open.spotify.com/artist/6bMxxRfNZzYjtbP8RiWPcq) | [Should Have Said](https://open.spotify.com/album/0jvcPC7qwqIgYKEDA9IDBm) | 2:19 |
+| 13 | [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 |
 | 14 | [Holding On](https://open.spotify.com/track/1CE2YZbgQSnCaOaGO45Hn0) | [TIANBO](https://open.spotify.com/artist/3pnulfzomHoIuDdauRBnzv) | [Holding On](https://open.spotify.com/album/57zspTAwayJRH2JkhaZWAX) | 3:12 |
 | 15 | [Last Friday Night](https://open.spotify.com/track/0szoIhMUlayzGxC6ZeRf3b) | [EMOCA](https://open.spotify.com/artist/5rk2n2NIB3kKhIl880B08S), [DVRKNOISE](https://open.spotify.com/artist/5w0v9Pduozj7iwmLNNN7t2) | [Last Friday Night](https://open.spotify.com/album/1KI6jL0okZXGYmULwpc2vl) | 2:02 |
 | 16 | [Hold My Hand](https://open.spotify.com/track/4bgpbZY9iAK7Qwfsf9BmW7) | [Cloudy Bubbles](https://open.spotify.com/artist/48q8LIxu2krOGgb9RwA8GW) | [Hold My Hand](https://open.spotify.com/album/65o1R5jqsZwZFVj0lr5Z4b) | 2:15 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 168 | [Wherever You Go](https://open.spotify.com/track/1a9Wg1Rtoj6flD9fMkIkVp) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [SAMI](https://open.spotify.com/artist/59mFA9CYroDi9rpAkEEara) | [Wherever You Go](https://open.spotify.com/album/6xi5iggYYxT2HALbv5FfQE) | 2:29 |
 | 169 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 |
 
-Snapshot ID: `AAAclbwJT+dSrwxVOzHk8ajAMvHnko21`
+Snapshot ID: `AAAclgox0WVDSbQruIGJcgPK+Bhb6VqE`

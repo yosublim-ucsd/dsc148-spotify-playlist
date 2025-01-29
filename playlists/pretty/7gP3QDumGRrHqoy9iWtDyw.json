@@ -1,33 +1,13 @@
 {
   "description": "",
-  "num_followers": 22543,
+  "num_followers": 22544,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAJWu4tZdbiGywtUMmd9ZWL5mm1bEd/",
+  "snapshot_id": "AAAJXTFWnqZjLk2lacL+0GehVZUCAzen",
   "tracks": [
-    {
-      "added_at": "2024-12-07 21:58:08",
-      "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/3AnYJKMJMuR7GVwhnpj3ot"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 177297,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/2yFtR7uZWXcPEK1vrWtm3e"
-    },
     {
       "added_at": "2024-11-18 14:07:05",
       "album": {
@@ -4173,22 +4153,6 @@
       "url": "https://open.spotify.com/track/6BJq2hkx8OjyuKkXSJpwsE"
     },
     {
-      "added_at": "2025-01-14 14:59:45",
-      "album": {
-        "name": "Do You Believe",
-        "url": "https://open.spotify.com/album/1p8aa46KbCBGNQxFbKUwln"
-      },
-      "artists": [
-        {
-          "name": "Ejeca",
-          "url": "https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX"
-        }
-      ],
-      "duration_ms": 147229,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/6fjIdGWx8vrUbo1T92fP7V"
-    },
-    {
       "added_at": "2025-01-14 15:03:01",
       "album": {
         "name": "All In",
@@ -4259,6 +4223,22 @@
       "duration_ms": 400000,
       "name": "Start The Party",
       "url": "https://open.spotify.com/track/3JTs35pIOfY4SFW37OSCuP"
+    },
+    {
+      "added_at": "2025-01-28 17:06:24",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/2my3scIg8dImUFBYcn3DEG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2fxHu4Nfnt1Htt3Epsd5DY"
     }
   ],
   "unique_name": "Malaa Selection ",

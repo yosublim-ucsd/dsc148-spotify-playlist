@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Forrest Frank
 
-8,056 songs - 22 day 4 hr 19 min
+8,057 songs - 22 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1006,6 +1006,7 @@
 | [Can't Find the Words](https://open.spotify.com/track/6ZvhlLyHXAsebYixAOvRqs) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [Can't Find the Words](https://open.spotify.com/album/68Kwk8ZD58HoApaNaQatWu) | 3:19 | 2025-01-24 |  |
 | [Can't Get Enough](https://open.spotify.com/track/15KqesHCCZXcIXOCdCLbFt) | [Good Weather Forecast](https://open.spotify.com/artist/4HkAv0IL2kiVIC4CylhUer), [Elijah Thomas](https://open.spotify.com/artist/5BqcwDlPPGX7XmIOcUgFfU) | [Can't Get Enough](https://open.spotify.com/album/7xW5tHVs9If6b4hFKG9o3Y) | 2:47 | 2024-09-20 | 2024-10-05 |
 | [Can't Go So Wrong](https://open.spotify.com/track/2aaksCF6urZEIuMdwZ6FCj) | [Zane & Donna King](https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer) | [Can't Go So Wrong](https://open.spotify.com/album/18MkTryujvbS702fRGqjoe) | 3:07 | 2023-05-19 | 2023-06-03 |
+| [Can't Help But Praise \(Live\)](https://open.spotify.com/track/0fjwtWPuU8mlvuizYQDH0p) | [Jordan Colle](https://open.spotify.com/artist/5ZWnENjJ3uHA9fyKeUBvH1) | [Can't Help But Praise \(Live\)](https://open.spotify.com/album/5ee1yzrCU71q3nzkGgxhqk) | 4:26 | 2025-01-28 |  |
 | [Can't Hold Me Down](https://open.spotify.com/track/4Vm5woLEbpLYZD2eJ6YE1a) | [Deraj](https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD) | [Can't Hold Me Down](https://open.spotify.com/album/1vCAYHSFLNJNb9A0Yu8Pgi) | 4:10 | 2023-05-19 | 2023-06-03 |
 | [Can't Keep Your Praises Down \- Live](https://open.spotify.com/track/6cNt611JvNQY98GBp0p6f1) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Can't Keep Your Praises Down \(Live\)](https://open.spotify.com/album/3MHkVSLpHesxqQhU3i54lJ) | 2:47 | 2024-11-29 | 2025-01-11 |
 | [Can't Lose](https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE) | 3:22 | 2024-10-04 | 2024-10-19 |
@@ -3351,7 +3352,7 @@
 | [I Wonder If I'd Say No](https://open.spotify.com/track/6sdAogPlQylJjeg3JwrqkD) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [I Wonder If I'd Say No](https://open.spotify.com/album/0GGJLvazYqZ9tAhLwt7F9k) | 3:22 | 2023-10-06 | 2023-10-21 |
 | [i WoRsHiP \- Live](https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [i WoRsHiP \- Live](https://open.spotify.com/album/25cB3qZIRT5KtC9Uu7xGDV) | 7:08 | 2024-08-30 | 2024-09-14 |
 | [I Worship You](https://open.spotify.com/track/1znonHcYT7PQZLtpaiV1YQ) | [Geneen White](https://open.spotify.com/artist/6iQtvLPeWaYya7OM5AlCPB) | [I Worship You](https://open.spotify.com/album/2CewIfDtnSZj6yeqsV2V25) | 6:13 | 2024-08-30 | 2024-09-14 |
-| [I Would Rather Have Jesus](https://open.spotify.com/track/4VFvAGwd6mV0kH3DtYj9RB) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [I Would Rather Have Jesus](https://open.spotify.com/album/5kvHxvs3BQcnKc5oerJgxG) | 3:25 | 2025-01-17 |  |
+| [I Would Rather Have Jesus](https://open.spotify.com/track/4VFvAGwd6mV0kH3DtYj9RB) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [I Would Rather Have Jesus](https://open.spotify.com/album/5kvHxvs3BQcnKc5oerJgxG) | 3:25 | 2025-01-17 | 2025-01-29 |
 | [I Wouldn't Mind Dying](https://open.spotify.com/track/7qTu4zKETT1E9mYnDoenGb) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [I Wouldn't Mind Dying](https://open.spotify.com/album/5tPslLVYpdk86KRi0n8u8i) | 2:29 | 2022-10-28 | 2022-11-12 |
 | [I'd Be Lying](https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I'd Be Lying](https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ) | 2:34 | 2023-09-15 | 2023-09-30 |
 | [I'd Rather Have Jesus \(Nothing But Jesus\) \- Live](https://open.spotify.com/track/6phwKNgCTa6WcSgjD7R6zo) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL) | [I'd Rather Have Jesus \(Nothing But Jesus\) \[Live\]](https://open.spotify.com/album/0ypOEzo7bHZWKUUY0gWoyX) | 5:06 | 2022-07-29 | 2022-08-13 |

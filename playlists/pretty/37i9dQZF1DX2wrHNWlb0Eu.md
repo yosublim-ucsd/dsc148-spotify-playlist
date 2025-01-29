@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,456 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,519 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,17 +79,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 69 | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [ข้อยกเว้น \(Exceptional\)](https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv) | 3:03 |
 | 70 | [เพลงส่วนบุคคล](https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [nerd eye view](https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN) | 3:27 |
 | 71 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 |
-| 72 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \- Single](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 |
-| 73 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 |
+| 72 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 |
+| 73 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \- Single](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 |
 | 74 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 |
 | 75 | [ข้าน้อยสมควรตาย](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 3:51 |
 | 76 | [ดวงใจ](https://open.spotify.com/track/6N6gsaHf5GYJAvEKfg6iEv) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [ดวงใจ \- Single](https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ) | 3:27 |
 | 77 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 |
 | 78 | [ลั่นทม \(เพลงประกอบละคร หอมกลิ่นความรัก\)](https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ลั่นทม \- Single](https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs) | 4:37 |
 | 79 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
-| 80 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม \- Single](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 |
-| 81 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 |
-| 82 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
+| 80 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 |
+| 81 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
+| 82 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม \- Single](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 |
 | 83 | [รักแฟน](https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z) | [BENT](https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki) | [รักแฟน](https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7) | 2:34 |
 | 84 | [เธอไม่ต้องน่ารักทุกวันก็ได้นะ](https://open.spotify.com/track/0WF0gPr8uLyWwPhmOiNYm4) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC) | [เธอไม่ต้องน่ารักทุกวันก็ได้นะ](https://open.spotify.com/album/62ZE1G620BMjMxBoI3jBRw) | 3:13 |
 | 85 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 |

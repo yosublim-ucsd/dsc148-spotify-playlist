@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 like - 613 songs - 1 day 7 hr 24 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 like - 614 songs - 1 day 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -621,5 +621,6 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 611 | [little spoon anthem](https://open.spotify.com/track/0NcAkc4ruSbLh6QKh9m8N9) | [MouSa](https://open.spotify.com/artist/7HS7UAenyadIf7FTYqSNgn), [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw) | [little spoon anthem](https://open.spotify.com/album/6NUPw3K9mFmGPG1nlPAaas) | 2:31 |
 | 612 | [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/track/2dBV1RnDWmwnWMvSxSN2wJ) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Moonrocks \(Offering for Stolas\)](https://open.spotify.com/album/2UMjkN7VWK0MZTnDmAx2O6) | 8:33 |
 | 613 | [Black Mass](https://open.spotify.com/track/1O047NE68YUR6j26zBPz2O) | [Vincent & The Black Rabbit](https://open.spotify.com/artist/1L8i0OGcP78idTEtpFBZ3e) | [Black Mass](https://open.spotify.com/album/23aOWuA3ezrcNekrUG9miW) | 6:50 |
+| 614 | [Bang! \(feat\. Hayley Kiyoko\) \- AhhHaa Remix](https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [AhhHaa](https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m) | [Bang! \(feat\. Hayley Kiyoko\) \[AhhHaa Remix\]](https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04) | 2:47 |
 
-Snapshot ID: `AAABhFzRaubAVtmeu/L79iB7CRwIo19g`
+Snapshot ID: `AAABhbgqdumHzFJC6CVfP48XgS/g7VnP`

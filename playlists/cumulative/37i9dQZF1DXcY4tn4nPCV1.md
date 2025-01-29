@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-465 songs - 19 hr 47 min
+467 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Délise](https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK) | [Raffaello Sorrento](https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl) | [Délise](https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ) | 2:05 | 2024-05-07 |  |
 | [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-09-18 |  |
 | [Easy Mind](https://open.spotify.com/track/5yWqERL6uxGk8aM0kwTLLK) | [Melos Mind](https://open.spotify.com/artist/3rxp5aGDhyK8G8vYShjKG2) | [Emotional Echoes](https://open.spotify.com/album/4gnAnMDZEHLbJ2EXUT6Lof) | 1:50 | 2023-09-05 | 2023-11-23 |
+| [El gran día](https://open.spotify.com/track/4rXPoBRArkNhJCwvVClS5G) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [El gran día](https://open.spotify.com/album/5hNqLZYrCxLazU9wYpKrcS) | 2:26 | 2025-01-28 |  |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-04 | 2024-09-03 |
 | [Ellipses](https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Ellipses](https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM) | 2:31 | 2022-04-04 |  |
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-04-04 |  |
@@ -365,6 +366,7 @@
 | [Sometimes](https://open.spotify.com/track/0dymukJKDPEJiX7KkRnMVM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Recollection](https://open.spotify.com/album/33xkBxyjcytIaKn3Xfq06Q) | 2:59 | 2022-04-04 | 2022-04-29 |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-03 |  |
 | [Song of the Sea](https://open.spotify.com/track/63ot2ojzQVR1q2ZURw9mgA) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Song of the Sea](https://open.spotify.com/album/5WK931zHbiNbLF9nPi20fv) | 2:43 | 2024-09-02 |  |
+| [Sounding Voices](https://open.spotify.com/track/3jFhsPP7zQRNLosDG3nodt) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [Sounding Voices](https://open.spotify.com/album/1iPItFVLSCmWEr5GKuERmL) | 2:51 | 2025-01-28 |  |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-28 | 2024-04-19 |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-04 |  |
 | [Spring Around the Corner](https://open.spotify.com/track/5iQj8xPir1hT976PWF5Bea) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Spring Around the Corner](https://open.spotify.com/album/0Ry7qze8hAUuCLyT2aMqD1) | 2:10 | 2024-04-03 |  |

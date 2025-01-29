@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Abomination",
+        "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168017,
+      "name": "Abomination",
+      "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
+    },
+    {
+      "album": {
         "name": "Abysmal",
         "url": "https://open.spotify.com/album/3Fdm4krmXr4KklpHxCl4F6"
       },
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 178285,
       "name": "Blackout Dub",
       "url": "https://open.spotify.com/track/6piyspfi1JquDVq35aGdsM"
@@ -2121,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/1w9PeuQ7Nar0LaSM6cWZXw"
+      },
+      "artists": [
+        {
+          "name": "VANDA",
+          "url": "https://open.spotify.com/artist/7ouNrGgk9tJR0pVolgQRWx"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207042,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/0tJRGWMmStr2wX4YTHYvZc"
+    },
+    {
+      "album": {
         "name": "Voices EP (Remixes)",
         "url": "https://open.spotify.com/album/2tRjQqTw3G4GuvMn7knVTb"
       },
@@ -2874,7 +2910,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-06",
+      "date_removed": null,
       "duration_ms": 165339,
       "name": "Dead Meat",
       "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
@@ -3536,7 +3572,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 209464,
       "name": "EGO! (TAKE IT BACK)",
       "url": "https://open.spotify.com/track/0f2BL1gqLqHg3SGkBf7VoY"
@@ -4546,7 +4582,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 178500,
       "name": "Gassed Up - IMANU Remix",
       "url": "https://open.spotify.com/track/4ewD29TNuL4ph7gCp2xdKP"
@@ -4844,7 +4880,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 221496,
       "name": "GLADIUS",
       "url": "https://open.spotify.com/track/2S6UdljYBjV6MRDRclz49N"
@@ -6028,7 +6064,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 177103,
       "name": "Internet G",
       "url": "https://open.spotify.com/track/0WfQUDK0wxEjecrAzQL84y"
@@ -6402,7 +6438,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "K.O - Lokal Remix",
       "url": "https://open.spotify.com/track/1QRcLo8rZVZnfVJYNLDXyc"
@@ -6574,7 +6610,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 179200,
       "name": "King - A Hundred Drums Remix",
       "url": "https://open.spotify.com/track/2aVIdrIhjtwQPg7ZKKIs0r"
@@ -6956,7 +6992,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 192214,
       "name": "Lies",
       "url": "https://open.spotify.com/track/3XxpibWu8B2ZIRD3HFksZC"
@@ -9058,7 +9094,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 218823,
       "name": "Plastic Holdup",
       "url": "https://open.spotify.com/track/0DGTX6UoYS37TyvFATAlsr"
@@ -9290,7 +9326,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-24",
+      "date_removed": null,
       "duration_ms": 210826,
       "name": "Probes",
       "url": "https://open.spotify.com/track/2Vqo5y7SvufrlLKcsNkYH8"
@@ -9398,7 +9434,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 226285,
       "name": "Psychotherapy",
       "url": "https://open.spotify.com/track/32RVEL94lelYvfcLOKl1Gh"
@@ -10064,7 +10100,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 290000,
       "name": "Revival",
       "url": "https://open.spotify.com/track/0B71eleP2fI8erz2AccjRx"
@@ -11442,7 +11478,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 209655,
       "name": "Spark The Room",
       "url": "https://open.spotify.com/track/4itmrvpqrXT3LvhbG1RxEU"

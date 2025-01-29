@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,629 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,649 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 17 | [Bola Rebola](https://open.spotify.com/track/1OUPXna2MCgAt3VNmXJBtg) | [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Bola Rebola](https://open.spotify.com/album/3p5oLCW4wY9u1TBRiLT1HD) | 3:13 |
 | 18 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 |
 | 19 | [Fuleragem](https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay) | [MC WM](https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh) | [Fuleragem](https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT) | 2:21 |
-| 20 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
-| 21 | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t) | 3:33 |
-| 22 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
+| 20 | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Indomável \(Participação especial de Belo\)](https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t) | 3:33 |
+| 21 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
+| 22 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 23 | [Apaixonadinha \- Ao Vivo](https://open.spotify.com/track/0rUL7vUZmCKxB0gS83W3aM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Didá Banda Feminina](https://open.spotify.com/artist/1XggRlhdW70SWvKflaZUEI) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 3:00 |
 | 24 | [Raspão \(feat\. Simone & Simaria\) \- Ao Vivo](https://open.spotify.com/track/6gquljDBW7rE6mCBzmTRxo) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [De Braços Abertos \(Ao Vivo\)](https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC) | 3:12 |
 | 25 | [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 |

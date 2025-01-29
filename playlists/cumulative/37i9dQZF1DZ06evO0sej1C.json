@@ -996,7 +996,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-29",
       "duration_ms": 213968,
       "name": "Ladr\u00f3n",
       "url": "https://open.spotify.com/track/275p97u74jV8pl7yODx3z0"
@@ -1040,6 +1040,48 @@
       "duration_ms": 207464,
       "name": "Lo Que Qued\u00f3",
       "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
+    },
+    {
+      "album": {
+        "name": "Los de la A",
+        "url": "https://open.spotify.com/album/75nAlGbzK3WWByNiKqkrK0"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Los de la A",
+      "url": "https://open.spotify.com/track/1ihehm2g1nnca5wn5eZsaf"
     },
     {
       "album": {
