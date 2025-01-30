@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Shreya Karmakar, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Zanai Bhosle, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -4100,7 +4100,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 158315,
       "name": "Chaahat Ka Maara",
       "url": "https://open.spotify.com/track/3sS0DwsB8Vc58KOmGuzGM3"
@@ -6276,6 +6276,24 @@
       "duration_ms": 239495,
       "name": "Do Waqt Ka Pyaar",
       "url": "https://open.spotify.com/track/5JdQtageQw09ijhWLgR3m9"
+    },
+    {
+      "album": {
+        "name": "Dobara",
+        "url": "https://open.spotify.com/album/0RoKFZNbiOrmYZEQxURNSl"
+      },
+      "artists": [
+        {
+          "name": "TARANA",
+          "url": "https://open.spotify.com/artist/3TNWRW2f57edikHd7TY4QK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Dobara",
+      "url": "https://open.spotify.com/track/2NIl0uU91mUcB2XN8Zahyp"
     },
     {
       "album": {
@@ -13325,6 +13343,28 @@
     },
     {
       "album": {
+        "name": "Kehndi Hai",
+        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149927,
+      "name": "Kehndi Hai",
+      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
+    },
+    {
+      "album": {
         "name": "Kehne Do",
         "url": "https://open.spotify.com/album/5BeVeaLPq6ZKyvIWSCcq61"
       },
@@ -16662,7 +16702,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 291234,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F"
@@ -17986,7 +18026,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 170318,
       "name": "Muskurao Na",
       "url": "https://open.spotify.com/track/4D3dR1Je9GdipOfrUzBNxn"
@@ -18536,6 +18576,28 @@
       "duration_ms": 213152,
       "name": "Nazaare",
       "url": "https://open.spotify.com/track/4AmdHeE9Bz9IfeZLHrbKmZ"
+    },
+    {
+      "album": {
+        "name": "Nazar (Baby, Chill!)",
+        "url": "https://open.spotify.com/album/0Cn5SDJN0qSlbPVGv4yEHu"
+      },
+      "artists": [
+        {
+          "name": "Shrae",
+          "url": "https://open.spotify.com/artist/6aUOGZNUnePZrpIyam8Gs1"
+        },
+        {
+          "name": "Donanki",
+          "url": "https://open.spotify.com/artist/4FQT2vnihyc2EHEKWSKvjI"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231023,
+      "name": "Nazar (Baby, Chill!)",
+      "url": "https://open.spotify.com/track/08ABPoLf8BcsiOFF3VbkTp"
     },
     {
       "album": {
@@ -20174,7 +20236,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 304299,
       "name": "Pinjara",
       "url": "https://open.spotify.com/track/7nNgNRf7vQZXZ4knH5PNVV"
@@ -21984,7 +22046,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 244628,
       "name": "Saawariya",
       "url": "https://open.spotify.com/track/4PhcjljfQG1Qfp33gQW7Mp"
@@ -22639,6 +22701,24 @@
     },
     {
       "album": {
+        "name": "Sapne Sajaake",
+        "url": "https://open.spotify.com/album/3xFwosyuyhQf2wTaabhaZE"
+      },
+      "artists": [
+        {
+          "name": "Madhav Mahajan",
+          "url": "https://open.spotify.com/artist/2o3BjrezOtEh2AfODNjLXX"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238068,
+      "name": "Sapne Sajaake",
+      "url": "https://open.spotify.com/track/7sbHX6NJAhvKUqYG2eIaGZ"
+    },
+    {
+      "album": {
         "name": "Sapnon Ke Dhun Mein",
         "url": "https://open.spotify.com/album/4oHsaGOwLi1sZTqxuAtAXW"
       },
@@ -22658,7 +22738,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 267236,
       "name": "Sapnon Ke Dhun Mein",
       "url": "https://open.spotify.com/track/77yjsULWuD5A0Ckguydz8q"
@@ -23270,6 +23350,32 @@
       "duration_ms": 331300,
       "name": "Shayad Mai Hun",
       "url": "https://open.spotify.com/track/4n9jiuV58tlUrZ8hmtxwU9"
+    },
+    {
+      "album": {
+        "name": "Shayad Wo Ab Gair Nahin",
+        "url": "https://open.spotify.com/album/2kDoLAOGnw5If0B0dn0a3o"
+      },
+      "artists": [
+        {
+          "name": "Lopamudra Bandyopadhyay",
+          "url": "https://open.spotify.com/artist/6Wr5reUqHQhpBTLgn82r88"
+        },
+        {
+          "name": "Neil-Niraj",
+          "url": "https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259342,
+      "name": "Shayad Wo Ab Gair Nahin",
+      "url": "https://open.spotify.com/track/1QvKy3PdzML9ChlHG9kMmw"
     },
     {
       "album": {
@@ -26368,6 +26474,28 @@
       "duration_ms": 147000,
       "name": "Tu Jaavi Na",
       "url": "https://open.spotify.com/track/5Y1BwVhDDC2cTiAcMozPNj"
+    },
+    {
+      "album": {
+        "name": "Tu Jaise Dariya",
+        "url": "https://open.spotify.com/album/2Q7Jd69YDCL2l0rAHLZjfa"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        },
+        {
+          "name": "Armaan Sharma",
+          "url": "https://open.spotify.com/artist/5nn7leCI4A1Kfp5Q0un5Pi"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227177,
+      "name": "Tu Jaise Dariya",
+      "url": "https://open.spotify.com/track/75983zLFgUzgjJM45aY0Mn"
     },
     {
       "album": {

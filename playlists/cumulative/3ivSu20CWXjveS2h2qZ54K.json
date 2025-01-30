@@ -20895,6 +20895,28 @@
     },
     {
       "album": {
+        "name": "High Voltaje",
+        "url": "https://open.spotify.com/album/7yDTDzTMwkF0dm36eO2Gsg"
+      },
+      "artists": [
+        {
+          "name": "Femme Fatene",
+          "url": "https://open.spotify.com/artist/0cdJn4T7hk8gGhlZYxk3uL"
+        },
+        {
+          "name": "Rubio Druida",
+          "url": "https://open.spotify.com/artist/62LX9fIc9C2O67XdBfwOV6"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "High Voltaje",
+      "url": "https://open.spotify.com/track/2lojFqPGxdDLo1c0SMuOiP"
+    },
+    {
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/1TGiQpFGwQtuDcxNcKeFRb"
       },
@@ -33581,7 +33603,7 @@
     },
     {
       "album": {
-        "name": "Nonadas",
+        "name": "NONADAS",
         "url": "https://open.spotify.com/album/4irMgUKQm2Wb7VhwqPuBl4"
       },
       "artists": [

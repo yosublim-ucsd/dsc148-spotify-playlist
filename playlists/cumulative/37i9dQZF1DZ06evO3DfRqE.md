@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 28 min
+86 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,10 @@
 | [I'll Be There](https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 4:37 | 2024-01-29 |  |
 | [IN MY LIFE](https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 5:29 | 2024-12-17 |  |
 | [Interlude 2](https://open.spotify.com/track/5a2FWAjpOeBMdholsOEFmK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 1:19 | 2024-01-29 | 2024-04-22 |
+| [Journey](https://open.spotify.com/track/5ikcfDMIpQjZkZ0ibshGJD) | [MiChi](https://open.spotify.com/artist/2PwbdO4IYOHuofSb9Ruay8), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [EYES WIDE OPEN](https://open.spotify.com/album/7yUc9MINjGoby2HsyFg2tx) | 4:21 | 2025-01-30 |  |
 | [Kalenaku](https://open.spotify.com/track/3bCI14cCJKYenNUCKGqGZU) | [Kapena](https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Kalenaku](https://open.spotify.com/album/3q2F10mMSTV9eZvXEMEqJT) | 4:18 | 2025-01-06 |  |
 | [Kawaikini](https://open.spotify.com/track/1a2UimgBeSAHzTECBo2iya) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kimie Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Kawaikini](https://open.spotify.com/album/1KBUkJGGdMwPRrRcO2FWs9) | 4:30 | 2024-01-29 | 2024-07-21 |
-| [Kawika](https://open.spotify.com/track/0A9oggTB2cWvVqZXsILrdn) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 5:43 | 2025-01-23 |  |
+| [Kawika](https://open.spotify.com/track/0A9oggTB2cWvVqZXsILrdn) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 5:43 | 2025-01-23 | 2025-01-30 |
 | [Kiss the Girl](https://open.spotify.com/track/7yzU7C9CO3g3AfsSzU4Zfg) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:47 | 2024-02-05 |  |
 | [Kula Blues](https://open.spotify.com/track/2FOCUiF0bSZdj1iH7GWqsx) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:35 | 2024-10-28 | 2024-12-17 |
 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7HqVjdEyCn4QUyumS7Pf6f) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Walk This Road \(feat\. Mavis Staples\)](https://open.spotify.com/album/17rXAvVnX0Anzzm1iFX3d3) | 4:17 | 2025-01-25 |  |

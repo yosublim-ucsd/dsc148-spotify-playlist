@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Kay in cover della playlist dell'R&B italiano 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,048 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,051 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 2 | [Sei Dappertutto](https://open.spotify.com/track/4waNYcV1T5frotIzzwC1TQ) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Tony](https://open.spotify.com/album/0tNEWTO3iIH0o3N5I8jiQb) | 2:32 |
 | 3 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 |
 | 4 | [Vedi Me](https://open.spotify.com/track/4Zm2e7UNkTwG4ZqrxsXWJ0) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Vedi Me](https://open.spotify.com/album/0AR0J6bOBqvXdPixwvkBTN) | 2:33 |
-| 5 | [C'è Silenzio](https://open.spotify.com/track/599dEwtqHsZEQX8uSjbjJR) | [Benedetta Scandale](https://open.spotify.com/artist/4vsyJNcjfl5HPKbQziOBTh) | [Resta](https://open.spotify.com/album/3mesPGOUO7DZfhpWeuadbD) | 3:10 |
+| 5 | [C'è Silenzio](https://open.spotify.com/track/599dEwtqHsZEQX8uSjbjJR) | [Benedetta Scandale](https://open.spotify.com/artist/4vsyJNcjfl5HPKbQziOBTh), [Maenellavita](https://open.spotify.com/artist/3hsH2bGuVxFwFwHRm2EtjH) | [Resta](https://open.spotify.com/album/3mesPGOUO7DZfhpWeuadbD) | 3:10 |
 | 6 | [Cura di me](https://open.spotify.com/track/0ZEK7yTlXj9SVvYZgDcEXe) | [sils](https://open.spotify.com/artist/4K0j9fash3WpgUw7uhZKo8) | [Non mi troverai](https://open.spotify.com/album/4vC9iPeuqUECyBysBIIXpf) | 3:31 |
 | 7 | [Mountain Mama](https://open.spotify.com/track/58Rr9zyZETlh66EvM6OxMk) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [Mountain Mama](https://open.spotify.com/album/0CxhWLSLnzl9RnZ6tnjl0y) | 2:02 |
 | 8 | [Favole](https://open.spotify.com/track/4KaxkCtwTHBfdrZRzrIYft) | [Primo Amore](https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo) | [Favole](https://open.spotify.com/album/7Knoi90E5t5d8vvOEpt8Gp) | 2:48 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 22 | [NISIDA](https://open.spotify.com/track/6KvqcqhEHKqj7htrAWGOAt) | [DINìCHE](https://open.spotify.com/artist/4DRvk320Z8VrBjCnDRDwEM) | [IN TIEMP' \(ON TIME\)](https://open.spotify.com/album/2edAhJxVXRiGzkcoaIVal6) | 2:58 |
 | 23 | [Fiamma](https://open.spotify.com/track/7pxXh1807WG1q0I2F2zuEs) | [SYNERGY](https://open.spotify.com/artist/2KefMFDFdJGjVLv5ZK1rAe) | [Fiamma](https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI) | 2:49 |
 | 24 | [Lupo Volkswagen](https://open.spotify.com/track/2KKBe1n19PkNbfhGg4DYIA) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 3:05 |
-| 25 | [Non è fortuna](https://open.spotify.com/track/4anVhqcUQ6meMRdz8PYFUy) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:57 |
+| 25 | [Non è fortuna](https://open.spotify.com/track/4anVhqcUQ6meMRdz8PYFUy) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:57 |
 | 26 | [tu](https://open.spotify.com/track/4W378vnF1YelCSjEPowHLM) | [Lil Markiese](https://open.spotify.com/artist/3raaszvUEmOauJOMrrhg4I) | [tu](https://open.spotify.com/album/4VqvAhbryAfHW3laBMUlfM) | 2:04 |
 | 27 | [Tutte Le Volte](https://open.spotify.com/track/1yYvcF24kA14z1j5DMooNL) | [Sidy](https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT) | [Tutte Le Volte](https://open.spotify.com/album/70SXgzbQ4tSpTlCg39wpaQ) | 3:00 |
 | 28 | [Romanzo Rosa](https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [Romanzo Rosa](https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6) | 3:01 |

@@ -4,7 +4,7 @@
 
 > 大丈夫、努力はきっと報われる。
 
-69 songs - 4 hr 32 min
+73 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Kimishidai Ressha](https://open.spotify.com/track/4PnlFpHAblOq5bnojjsyhZ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Zankyō Reference](https://open.spotify.com/album/0cb55nHUbG3tLjVVQYPdRj) | 4:14 | 2023-12-10 | 2024-04-19 |
 | [Kite](https://open.spotify.com/track/1BGxzKEro4oYDkERGF9tbz) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [This is ARASHI](https://open.spotify.com/album/1THNZ00qG1n9QbnJDLOLeb) | 4:43 | 2023-12-10 | 2024-04-19 |
 | [Live Fast Die Young](https://open.spotify.com/track/7B9EU2DBecC0eR60QfQ5Nk) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [アップデート](https://open.spotify.com/album/2YmVtVogdZl4RFLF183v6o) | 3:53 | 2023-12-10 |  |
-| [medicine](https://open.spotify.com/track/3GHtEaicELsTViK08EXEQQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:47 | 2023-12-10 |  |
+| [medicine](https://open.spotify.com/track/3GHtEaicELsTViK08EXEQQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:47 | 2023-12-10 | 2025-01-30 |
 | [My HERO](https://open.spotify.com/track/0wm2DJR8GHRYYl7mAcenAw) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [My HERO / 夕凪](https://open.spotify.com/album/0nLq5hQw2WPRIi7dGVSoSP) | 2:33 | 2023-12-10 |  |
 | [Nothing.](https://open.spotify.com/track/3wkruI7a25St8amf1SP7AO) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [GiANT KiLLERS](https://open.spotify.com/album/0x8WHtYyPwLrqdiwWKxBXM) | 4:43 | 2023-12-10 |  |
 | [ONE](https://open.spotify.com/track/01jAlHee4psROggfWjk8hp) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 5:28 | 2023-12-10 |  |
@@ -47,11 +47,12 @@
 | [Yell](https://open.spotify.com/track/6jbW0l3nlZ3uh26p8vsC1K) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Yell](https://open.spotify.com/album/60y9C21RHhHnMMdWXunkav) | 3:23 | 2024-02-06 | 2024-04-19 |
 | [お勉強しといてよ](https://open.spotify.com/track/6k90ibcH1z8Mx9684nfuLW) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [お勉強しといてよ](https://open.spotify.com/album/3cOMXsId5ORUGXt9xu90NI) | 4:40 | 2023-12-10 |  |
 | [かつて天才だった俺たちへ](https://open.spotify.com/track/4qjpey2aljl28C40NmTcgQ) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [かつて天才だった俺たちへ](https://open.spotify.com/album/4RlqowFUNcZR7UTUinXZlT) | 3:34 | 2023-12-10 |  |
-| [だいじょうぶ](https://open.spotify.com/track/5nfpxwXCGlEz4IqylQoMwg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:55 | 2023-12-10 |  |
+| [だいじょうぶ](https://open.spotify.com/track/5nfpxwXCGlEz4IqylQoMwg) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [THE END](https://open.spotify.com/album/6woCFdjeO1ayr14tKGL1vI) | 3:55 | 2023-12-10 | 2025-01-30 |
 | [できっこないを　やらなくちゃ](https://open.spotify.com/track/5abRbX9SH8nHYml4RKCE1W) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [できっこないを　やらなくちゃ](https://open.spotify.com/album/1J1Bi1SJ5w5UzRBDD1F2ic) | 3:39 | 2023-12-10 |  |
+| [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 | 2025-01-29 |  |
 | [のびしろ](https://open.spotify.com/track/4inayqSdDjRuQMIXFn1M29) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [のびしろ](https://open.spotify.com/album/4Qyzx6cYuwuRjHBoEBPPBh) | 3:56 | 2024-01-16 |  |
 | [ひたむき](https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ひたむき](https://open.spotify.com/album/6Xot0ubHeYpeNjMelRHHnq) | 4:10 | 2023-12-10 |  |
-| [エール](https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [エール](https://open.spotify.com/album/0022F7J96TQCIISAtDgdxC) | 3:23 | 2024-02-06 |  |
+| [エール](https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [エール](https://open.spotify.com/album/0022F7J96TQCIISAtDgdxC) | 3:23 | 2024-02-06 | 2025-01-30 |
 | [カイト](https://open.spotify.com/track/5lo3L98nR2VpN2dM9UFJu0) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [This is 嵐](https://open.spotify.com/album/1aGPwO93UYZ3OMtnVcekI6) | 4:43 | 2024-02-13 |  |
 | [キミシダイ列車](https://open.spotify.com/track/0a5rZP8sYdlvBRVmcNovyC) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [残響リファレンス](https://open.spotify.com/album/46tySm112BCkEkfssfPODv) | 4:14 | 2024-02-13 |  |
 | [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 | 2023-12-10 |  |
@@ -66,12 +67,15 @@
 | [会心の一撃](https://open.spotify.com/track/4vwgmckZIomF2jVK066hUy) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [×と○と罪と](https://open.spotify.com/album/5ikhX6zaLZZS3gVLTlYxED) | 4:36 | 2024-02-13 |  |
 | [六文銭](https://open.spotify.com/track/5TkxhiSfPqay25JAQ1WdCf) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [MOROHA V](https://open.spotify.com/album/1qZqRsyhgGRO8dmdrBolDC) | 6:44 | 2024-01-16 |  |
 | [大丈夫](https://open.spotify.com/track/5MYjno6goNbqgGHKEYhJ1Y) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [日常ドラマチック](https://open.spotify.com/album/12xSbnpgkagxvKJ0zvN0zP) | 4:46 | 2023-12-10 |  |
+| [大丈夫](https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [大丈夫](https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa) | 3:58 | 2025-01-29 |  |
 | [宿命](https://open.spotify.com/track/2yozZfRYHP7Elsymghu5t3) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ) | 4:40 | 2024-02-13 |  |
 | [愛は勝つ](https://open.spotify.com/track/7MqaQIHyo7Ud1QzDSmWpQ0) | [KAN](https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY) | [野球選手が夢だった](https://open.spotify.com/album/7akUfttPs5jXt8F1bI1MmT) | 4:07 | 2023-12-19 |  |
 | [栄光の架橋](https://open.spotify.com/track/0uOHiGSYDxuG5BNT9HYVGs) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Going \[2001～2005\]](https://open.spotify.com/album/0uKTcrCi6n6KBnoBvFCWj4) | 5:26 | 2024-02-13 |  |
+| [死ぬこと以外かすり傷](https://open.spotify.com/track/4D71mQVLlcmBWZBLGNbK8g) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [コレカラー](https://open.spotify.com/album/3es5sP9pdmnRvgVjzHhP7D) | 3:39 | 2025-01-29 |  |
 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 | 2023-12-10 |  |
 | [燃えよ](https://open.spotify.com/track/7nWkch2lxmVbHOgKabM8qd) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [燃えよ](https://open.spotify.com/album/1xiwypEIxYiYJZKO9ijx5P) | 4:39 | 2023-12-10 |  |
-| [破花](https://open.spotify.com/track/4taBAXO40dHA4tha6H9jOS) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [世界観](https://open.spotify.com/album/7kQp59aWcAeE6GbE1pHiEE) | 3:29 | 2023-12-10 |  |
+| [破花](https://open.spotify.com/track/4taBAXO40dHA4tha6H9jOS) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [世界観](https://open.spotify.com/album/7kQp59aWcAeE6GbE1pHiEE) | 3:29 | 2023-12-10 | 2025-01-30 |
+| [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 | 2025-01-29 |  |
 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-12-10 |  |
 | [群青讃歌](https://open.spotify.com/track/1eb9Vvbbk2OgI0CbyMmBkw) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [群青讃歌 / 遊生夢死](https://open.spotify.com/album/7gN2Dv7anp87gJ0DKhGEH6) | 4:35 | 2024-02-13 |  |
 | [裸の勇者](https://open.spotify.com/track/0KmWLURMOpAqYwetgdScXk) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/1tLmGtOgNhMFgPR5bQpigb) | 3:21 | 2023-12-10 |  |

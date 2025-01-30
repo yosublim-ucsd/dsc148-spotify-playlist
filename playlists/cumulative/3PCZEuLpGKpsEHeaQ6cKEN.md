@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Arodes, Camelphat
 
-1,272 songs - 2 day 20 hr 1 min
+1,273 songs - 2 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1219,6 +1219,7 @@
 | [We Deserve To Dream](https://open.spotify.com/track/2IsAQ0jG5kfDTNuKGhSLC6) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [We Deserve To Dream](https://open.spotify.com/album/5lhGLu6ggkllVThRXsFxMI) | 3:32 | 2022-11-17 | 2023-01-13 |
 | [We Deserve To Dream](https://open.spotify.com/track/4Jgvts0jaXRcZIT609Rugo) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Chill Executive Officer \(CEO\), Vol\. 23 \[Selected by Maykel Piron\]](https://open.spotify.com/album/5EfsdCRT2pnZxdfmAN2tP1) | 3:32 | 2023-01-12 | 2023-05-13 |
 | [We Do This](https://open.spotify.com/track/73ckVtfKPl5yQF5VCtXdrA) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [We Do This](https://open.spotify.com/album/3ed8yV3c4asmd2dTfJMADS) | 2:27 | 2024-10-17 |  |
+| [We Don't Sleep](https://open.spotify.com/track/5hMtQSwKqk8Cv3PBMFuvbP) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [We Don't Sleep](https://open.spotify.com/album/5mUGpwyB9upIt1rZOBClMW) | 2:06 | 2025-01-29 |  |
 | [We No Speak Americano \(feat\. DCUP\) \- Luca\-Dante Spadafora & Niklas Dee Remix](https://open.spotify.com/track/5yfTyl2GvU6R85QO7tEo2t) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt), [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE) | [We No Speak Americano \(feat\. DCUP\) \[Luca\-Dante Spadafora & Niklas Dee Remix\]](https://open.spotify.com/album/6LGyPkNI4VNez6GZ185M0I) | 2:28 | 2023-12-07 | 2024-05-03 |
 | [We Were Once Kings](https://open.spotify.com/track/0irvICsXrtXqoCf7y445Yb) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [We Were Once Kings](https://open.spotify.com/album/6H1yoohJ0Sn7yWGPEQkJFb) | 3:40 | 2023-01-26 | 2023-03-03 |
 | [We Were Once Kings](https://open.spotify.com/track/2N6euoPS5FbKPHcQE8nuwf) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Chill Executive Officer \(CEO\), Vol\. 24 \[Selected by Maykel Piron\]](https://open.spotify.com/album/51N2Qs0Inr0BhN9WlVpEOW) | 3:40 | 2023-03-02 | 2023-06-23 |

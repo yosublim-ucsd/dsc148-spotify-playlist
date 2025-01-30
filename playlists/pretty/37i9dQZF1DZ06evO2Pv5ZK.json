@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 107774,
+  "num_followers": 107787,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAAAVrqPwT+CV5wD/hXg7LvGF",
+  "snapshot_id": "Z5geAAAAAAA3APadynB0/Ayy74bbPvn+",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Rachel's Song",
-      "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
+      "duration_ms": 295693,
+      "name": "Love Theme",
+      "url": "https://open.spotify.com/track/2oDR7QWoLBk9VYMwsFbRGq"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 295693,
-      "name": "Love Theme",
-      "url": "https://open.spotify.com/track/2oDR7QWoLBk9VYMwsFbRGq"
+      "duration_ms": 288000,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "China",
-        "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 164066,
-      "name": "The Tao Of Love",
-      "url": "https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV"
+      "duration_ms": 372680,
+      "name": "Songs of the Seas",
+      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+        "name": "China",
+        "url": "https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 372680,
-      "name": "Songs of the Seas",
-      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
+      "duration_ms": 164066,
+      "name": "The Tao Of Love",
+      "url": "https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 126093,
-      "name": "P.S.",
-      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
+      "duration_ms": 473253,
+      "name": "Ask the Mountains",
+      "url": "https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 473253,
-      "name": "Ask the Mountains",
-      "url": "https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv"
+      "duration_ms": 126093,
+      "name": "P.S.",
+      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 445613,
-      "name": "Theme From Antarctica - Remastered",
-      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 212680,
       "name": "Early Years",
       "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 445613,
+      "name": "Theme From Antarctica - Remastered",
+      "url": "https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antarctica (Remastered)",
-        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 352386,
-      "name": "Antarctica Echoes - Remastered",
-      "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 312826,
       "name": "Through the Night Mist",
       "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antarctica (Remastered)",
+        "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 352386,
+      "name": "Antarctica Echoes - Remastered",
+      "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the magic of Cosmos",
-        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "In the magic of Cosmos",
-      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alexander (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 252293,
       "name": "Across the Mountains",
       "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the magic of Cosmos",
+        "url": "https://open.spotify.com/album/4TAdRpNFxDNE2Y36OfPXS1"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "In the magic of Cosmos",
+      "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 401933,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -639,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'apocalypse des animaux (Remastered)",
-        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "La mort du loup - Remastered",
-      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chariots Of Fire - The Play",
         "url": "https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 246306,
       "name": "Eric's Theme",
       "url": "https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 401933,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/3f3JYR4XrYRUm9JDWJO5Cy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "La mort du loup - Remastered",
+      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
       "duration_ms": 463773,
       "name": "Fields of Coral",
       "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Longing",
-      "url": "https://open.spotify.com/track/7vI1UAd3OZNdsZ7sth2CDf"
     }
   ],
   "unique_name": "This Is Vangelis",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,065 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,072 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 65 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 |
 | 66 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 | 67 | [Big Body \(feat\. Lil Yachty\)](https://open.spotify.com/track/1sl6OyOIA17y8pVwgcX4dn) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [For Us](https://open.spotify.com/album/3qQkODMSwPDWNdDr9fLTjL) | 3:04 |
-| 68 | [Whats On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 |
+| 68 | [What's On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 |
 | 69 | [305](https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 2:33 |
 | 70 | [nie genug](https://open.spotify.com/track/3WUKRy8TrmJAQQjTwuTZUR) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [nie genug](https://open.spotify.com/album/0ZtZpOrwh1PmrzjKMz0P9b) | 2:58 |
 | 71 | [Juana auf Snapchat](https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [GOVA](https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v) | 3:00 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 78 | [TP](https://open.spotify.com/track/3rDYrvKA6bLhp6llXm9vOd) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [TP](https://open.spotify.com/album/32BZEkw7xTwB8zLnsm78ph) | 2:14 |
 | 79 | [i wanna hate you](https://open.spotify.com/track/6BC6tfQkRk1GeRkvwr9m9L) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N) | [i wanna hate you](https://open.spotify.com/album/3sEslWSnkrpLL6ek9iX9tF) | 2:52 |
 | 80 | [Ballert auf Lautlos](https://open.spotify.com/track/4QveIIDRvuV7aKGOqDAbuP) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Ballert auf Lautlos](https://open.spotify.com/album/4XaE5Q81SvxX0rDbOLgjDR) | 2:01 |
-| 81 | [wo ich steck](https://open.spotify.com/track/2eMBoDQDTPAe2PNXDL4kny) | [$iempre](https://open.spotify.com/artist/2Zd9GfUp9pAnBz1CpugFOW), [dayoungest!](https://open.spotify.com/artist/6mrN58YIpWpe0zZUETdgP4) | [wo ich steck](https://open.spotify.com/album/4w4aRL6SdOdxTOPA54EgSd) | 1:45 |
+| 81 | [wo ich steck](https://open.spotify.com/track/2eMBoDQDTPAe2PNXDL4kny) | [$iempre](https://open.spotify.com/artist/2Zd9GfUp9pAnBz1CpugFOW), [dahyoungest!](https://open.spotify.com/artist/6mrN58YIpWpe0zZUETdgP4) | [wo ich steck](https://open.spotify.com/album/4w4aRL6SdOdxTOPA54EgSd) | 1:45 |
 | 82 | [Tony](https://open.spotify.com/track/2YumvJkJrcXwAiXwkU10jd) | [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT) | [Tony](https://open.spotify.com/album/2et95Lh3s7EbN3yOQFl8DY) | 2:19 |
 | 83 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
 | 84 | [Boy](https://open.spotify.com/track/0nuJQhQUQZLoJAzIGMBA1i) | [Sivilian](https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI) | [Boy](https://open.spotify.com/album/0su2w3v8dih5WJp9QRYASk) | 3:05 |

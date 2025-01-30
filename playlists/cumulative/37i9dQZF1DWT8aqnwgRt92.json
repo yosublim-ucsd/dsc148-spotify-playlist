@@ -18771,6 +18771,24 @@
     },
     {
       "album": {
+        "name": "Worlders (BLUE BACK Ver.)",
+        "url": "https://open.spotify.com/album/3mPZHMjnNVFhN26I9AKnul"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285573,
+      "name": "Worlders - BLUE BACK Ver.",
+      "url": "https://open.spotify.com/track/6FWI2fFMAInmaIYeUgMhKd"
+    },
+    {
+      "album": {
         "name": "Wrong World",
         "url": "https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX"
       },

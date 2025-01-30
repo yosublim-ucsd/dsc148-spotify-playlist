@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 派偉俊 x 周杰倫 \(Patrick Brasca x Jay Chou\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,852 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,929 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 33 | [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 |
 | 34 | [愛最深的總是我 \(feat\. PPlin\)](https://open.spotify.com/track/2DvktwQzqXZYJBGDTGoJnT) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w), [PPlin](https://open.spotify.com/artist/5WNUNiod0p0ZH7EeQtpk1b) | [愛最深的總是我 \(feat\. PPlin\)](https://open.spotify.com/album/0idVWYyIxlyKy5TkL4nkpx) | 2:37 |
 | 35 | [友谊长存](https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [友谊长存](https://open.spotify.com/album/0teughBYfffqo1RhvAX51S) | 5:19 |
-| 36 | [飛到月球（SUNKIS x LH）](https://open.spotify.com/track/3lIu2gNYWPtrJj14mFs2oD) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [飛到月球（SUNKIS x LH）](https://open.spotify.com/album/79bjLMvOfrfpdF5iWSwjYP) | 3:16 |
+| 36 | [飛到月球（SUNKIS x LH）](https://open.spotify.com/track/3lIu2gNYWPtrJj14mFs2oD) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [飛到月球（SUNKIS x LH）](https://open.spotify.com/album/79bjLMvOfrfpdF5iWSwjYP) | 3:16 |
 | 37 | [愛不愛我](https://open.spotify.com/track/5Mxrr2d5V0f5btmaxm1w3X) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [情歌手](https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5) | 4:43 |
 | 38 | [養分](https://open.spotify.com/track/1NMwyTTQyUUtGI34rmUYMU) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [養分](https://open.spotify.com/album/1nuXqhHeHODDeiuDeswRlY) | 4:10 |
 | 39 | [左邊的人](https://open.spotify.com/track/53mUs093O4TcLm7yh86NjX) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [在極度愛你的日子裡](https://open.spotify.com/album/1O4zPDiUzt2SkDCWueiiBt) | 3:36 |

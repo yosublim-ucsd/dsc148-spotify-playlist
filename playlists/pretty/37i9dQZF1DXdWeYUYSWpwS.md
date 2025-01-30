@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWeYUYSWpwS.md) - [plain]
 
 > Relaxing, comforting classical music to soothe your dog and reduce separation anxiety.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,019 likes - 111 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,051 likes - 111 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWeYUYSWpwS.md) - [plain]
 | 68 | [Intermezzo In A Major, Op\. 118, No\. 2](https://open.spotify.com/track/4lcmCY3ucLSXSvRvhRuj1v) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Brahms Intermezzi](https://open.spotify.com/album/2nogQo3tGVzllwJGsYSpSL) | 5:32 |
 | 69 | [Lyric Pieces, Book 1, Op\. 12: I\. Arietta](https://open.spotify.com/track/76wV53YHl0tGEvT3L0QzvK) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Javier Perianes](https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz) | [Grieg: Piano Concerto; Lyric Pieces](https://open.spotify.com/album/5HokgmfmgFExUbbVgkvz3n) | 1:25 |
 | 70 | [Moonlit](https://open.spotify.com/track/061ag3GRNr3d2QgvA6xRgV) | [Marta Cascales Alimbau](https://open.spotify.com/artist/5xXWh6pIT6H8NzENvUU9HN) | [Moonlit](https://open.spotify.com/album/0VbudUDZ0J4cqb8WvYZNei) | 3:29 |
-| 71 | [Trois Romances sans paroles, Op\. 17: 3\. Andante moderato](https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Fauré: Piano Music](https://open.spotify.com/album/2E2G6rlHCJrDKUU4JSp5Bp) | 2:45 |
+| 71 | [3 Romances sans paroles, Op\. 17: No\. 3 in A\-Flat Major\. Andante moderato](https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Fauré: Piano Music](https://open.spotify.com/album/2E2G6rlHCJrDKUU4JSp5Bp) | 2:45 |
 | 72 | [Opus 23](https://open.spotify.com/track/6ihsMDewYcSP2teuZKEdk5) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Summer](https://open.spotify.com/album/77cMRnjU5UscZ9siHmG55Y) | 2:43 |
 | 73 | [Cello Concerto in A Minor, Op\. 129: II\. Langsam](https://open.spotify.com/track/7MJqlLh5KXNFv5wGljbS2O) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Christian\-Pierre La Marca](https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Raphaël Merlin](https://open.spotify.com/artist/3bXdiDkHd5cWMFSzWB1Tkl) | [Schumann: Cello Concerto in A Minor, Op\. 129](https://open.spotify.com/album/4Kmt2WTkLPvpXNcHhTg58z) | 4:00 |
 | 74 | [Spartacus: Adagio of Spartacus and Phrygia](https://open.spotify.com/track/0Z973O9nqc2I6G0mGB4bM7) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ) | [Khachaturian Orchestral Music](https://open.spotify.com/album/3tFbKC6dLXQsvkls4miygC) | 9:09 |

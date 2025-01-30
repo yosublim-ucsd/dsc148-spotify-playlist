@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1086821,
+  "num_followers": 1086983,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAADwisVWD30SzwumkuMy6YjB",
+  "snapshot_id": "Z5geAAAAAABZtNnNJzsKYeSNcLcxDpQT",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot - The Original Broadway Cast Recording",
-        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 203640,
-      "name": "When It's Time",
-      "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
+      "duration_ms": 206004,
+      "name": "Give Me Novacaine",
+      "url": "https://open.spotify.com/track/1usftPV8tzkWQmjwofR2ke"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+        "name": "American Idiot - The Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/1wO2srr9om17YtEvouoBue"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 206004,
-      "name": "Give Me Novacaine",
-      "url": "https://open.spotify.com/track/1usftPV8tzkWQmjwofR2ke"
+      "duration_ms": 203640,
+      "name": "When It's Time",
+      "url": "https://open.spotify.com/track/5nGCVIpxp0u4AYpVpK0pv4"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 227680,
-      "name": "\u00bfViva La Gloria? (Little Girl)",
-      "url": "https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 120442,
       "name": "She's a Rebel",
       "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "\u00bfViva La Gloria? (Little Girl)",
+      "url": "https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 309106,
-      "name": "21st Century Breakdown",
-      "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Idiot (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 175411,
       "name": "St. Jimmy",
       "url": "https://open.spotify.com/track/09hW1hlP52DBiU3aO8jkgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 309106,
+      "name": "21st Century Breakdown",
+      "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
     },
     {
       "added_at": null,

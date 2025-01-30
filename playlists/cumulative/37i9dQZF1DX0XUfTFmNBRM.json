@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 259056,
       "name": "Aaj Bhi 2",
       "url": "https://open.spotify.com/track/5Swyv8euhHEJu57t5qbGUs"
@@ -354,6 +354,24 @@
       "duration_ms": 253223,
       "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y"
+    },
+    {
+      "album": {
+        "name": "Technograde",
+        "url": "https://open.spotify.com/album/1vOVneQW47jRfzMD5y10Pk"
+      },
+      "artists": [
+        {
+          "name": "Kazinama",
+          "url": "https://open.spotify.com/artist/0FpO7hbnI5X094KWa9uvR8"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Ahista Ahista",
+      "url": "https://open.spotify.com/track/3t7yhBYoxEyYOIN6mYI8NX"
     },
     {
       "album": {
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 227826,
       "name": "Kehna Galat Galat",
       "url": "https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL"
@@ -4196,7 +4214,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 241201,
       "name": "Kinni Soni",
       "url": "https://open.spotify.com/track/268akcwmDZGwMeI2nijVxd"
@@ -4656,6 +4674,32 @@
       "duration_ms": 194653,
       "name": "Maan Meri Jaan",
       "url": "https://open.spotify.com/track/1418IuVKQPTYqt7QNJ9RXN"
+    },
+    {
+      "album": {
+        "name": "Maaye (From \"Sky Force\")",
+        "url": "https://open.spotify.com/album/6sULEd69O1u7Jy9rydgHpQ"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290571,
+      "name": "Maaye (From \"Sky Force\")",
+      "url": "https://open.spotify.com/track/36y4YG4mYvZQcOzANthZCJ"
     },
     {
       "album": {
@@ -6134,7 +6178,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 233453,
       "name": "O Maahi (From \"Dunki\")",
       "url": "https://open.spotify.com/track/0qQ4IdhjzNr0gJhdMTf2n3"
@@ -7230,6 +7274,32 @@
       "duration_ms": 223386,
       "name": "Sajan Re Jhoot Mat Bolo",
       "url": "https://open.spotify.com/track/1YbyDO9YfIpz24xgF5DXMI"
+    },
+    {
+      "album": {
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/4TjqdNmCG0IEbNKVfbxTBV"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/3uWQkslzoaKzbtOAjQxWNr"
     },
     {
       "album": {
@@ -8592,6 +8662,36 @@
       "duration_ms": 283539,
       "name": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
+    },
+    {
+      "album": {
+        "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
+        "url": "https://open.spotify.com/album/7FiRTB1EBLdaarSWkxjvqC"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247792,
+      "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
+      "url": "https://open.spotify.com/track/4Lo6I7kkHWgAVRmdILLhig"
     },
     {
       "album": {

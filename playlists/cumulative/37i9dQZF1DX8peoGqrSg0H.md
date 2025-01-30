@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: bamm
 
-638 songs - 1 day 13 hr 48 min
+639 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [LIKELY](https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [LIKELY](https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv) | 2:46 | 2024-06-06 | 2024-06-14 |
 | [Long Run](https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H) | [Long Run](https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179) | 3:37 | 2024-04-18 | 2024-05-02 |
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
-| [LYKYOU](https://open.spotify.com/track/3ZzsRE6gMHBblLppHi0ADZ) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [LYKYOU \- Single](https://open.spotify.com/album/2xVexDB5E5bk6BJ2ZoFZMg) | 3:34 | 2024-12-05 |  |
+| [LYKYOU](https://open.spotify.com/track/3ZzsRE6gMHBblLppHi0ADZ) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [LYKYOU \- Single](https://open.spotify.com/album/2xVexDB5E5bk6BJ2ZoFZMg) | 3:34 | 2024-12-05 | 2025-01-30 |
 | [Magic Moment](https://open.spotify.com/track/2otCi4F9Xh6pAVQjnHcjeI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [Magic Moment](https://open.spotify.com/album/7nizmQvxMgpxVXnM9JabPf) | 3:58 | 2024-07-26 | 2024-08-09 |
 | [Melbourne](https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe) | [Melbourne](https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w) | 3:02 | 2022-05-26 | 2022-08-26 |
 | [Midnight Crisis](https://open.spotify.com/track/4qqs5lPdlW3hQrbvmAtvrL) | [Proo Thunwa](https://open.spotify.com/artist/1P15t4uFsvUZCgkTvQqsaj) | [TEMPO](https://open.spotify.com/album/1XAuTBouINWgSGonuCbmWg) | 3:27 | 2023-05-26 | 2023-06-02 |
@@ -191,6 +191,7 @@
 | [กอดหมอน](https://open.spotify.com/track/02HqCUXbVoIwfAHj2IsVtx) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [กอดหมอน \- Single](https://open.spotify.com/album/19LkHJ30sHvBjY99fYIsvu) | 3:20 | 2024-07-11 | 2024-08-02 |
 | [กอดได้ไหม](https://open.spotify.com/track/4hccrJgNG1BwPa3CWw4NNg) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [Selfmade](https://open.spotify.com/album/79MikoRZW28D00Cr1o3gXd) | 3:29 | 2022-05-26 | 2022-07-23 |
 | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg), [GEE](https://open.spotify.com/artist/4XvJZRnsThtRqESBoxcjjs) | [กักกั๊ก \(GUGGUG\) \[feat\. GEE\]](https://open.spotify.com/album/0RbpoYMuNgKKZDDnBJNdiE) | 3:36 | 2024-09-19 | 2024-11-01 |
+| [กั๊ก \(No\-status Status\) \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/2P2qSPBjQfeyxBRDxFivHZ) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [กั๊ก \(No\-status Status\) \[From GELBOYS สถานะกั๊กใจ\]](https://open.spotify.com/album/1bg1urEY0Qyd7MpPRY6iWL) | 3:08 | 2025-01-29 |  |
 | [การจากลาที่ไม่มีวันจากไป](https://open.spotify.com/track/0u2y71Xe1vkQ9TKZUvdyWb) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [การจากลาที่ไม่มีวันจากไป \(Still With You\)](https://open.spotify.com/album/3vBS6G22v9QwWqMkkRi6Ws) | 3:41 | 2023-11-09 | 2023-12-01 |
 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 | 2023-05-25 | 2024-06-28 |
 | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \- From กี่หมื่นฟ้า Your Sky Series](https://open.spotify.com/track/1HFeLuglS3JcHREWnEoqzj) | [MARCKRIS OF BUS](https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM) | [กี่หมื่นครั้งที่ตกหลุมรักคนเดิม \(Fall And Fall In Love\) \[From กี่หมื่นฟ้า Your Sky Series\]](https://open.spotify.com/album/1InOIV7WBx7JZM4kc97iXI) | 3:23 | 2024-12-12 |  |

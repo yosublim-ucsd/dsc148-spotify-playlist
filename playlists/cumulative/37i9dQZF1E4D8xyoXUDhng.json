@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With Jessica Reedy, Norman Hutchins, Dorothy Norwood and more",
+  "description": "With Norman Hutchins, Rev. James Moore, Wess Morgan and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 197306,
       "name": "Act Like You Know",
       "url": "https://open.spotify.com/track/42hwIg34ZMXbI5G47UY5Vu"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 153426,
       "name": "Another Day's Journey",
       "url": "https://open.spotify.com/track/0M4MNjhaNVOpk5H3UFZK1e"
@@ -3702,7 +3702,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 438960,
       "name": "Come On In the Room",
       "url": "https://open.spotify.com/track/0LfPC4pCvTJSvhgmc5lzhc"
@@ -7726,7 +7726,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 232232,
       "name": "Good & Loved (feat. DOE) - Stellars 2020",
       "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
@@ -8580,7 +8580,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 457000,
       "name": "He Lives",
       "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
@@ -9970,7 +9970,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 279040,
       "name": "Holy Is The Lamb",
       "url": "https://open.spotify.com/track/314gW9paIqnhLx9ajEGwj8"
@@ -11342,7 +11342,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 276773,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
@@ -14222,7 +14222,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 413333,
       "name": "It's Already Done",
       "url": "https://open.spotify.com/track/7vyxaGXBSCtw3W5qtwm2uQ"
@@ -15380,7 +15380,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 403426,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2hNFryDQo4b0HEmYA9HNo6"
@@ -15514,6 +15514,24 @@
       "duration_ms": 196786,
       "name": "Just a Little Bit",
       "url": "https://open.spotify.com/track/5TM09x43xAzUlPGUO61Fnw"
+    },
+    {
+      "album": {
+        "name": "Just Because God Said It",
+        "url": "https://open.spotify.com/album/2PDVQlBOu9HZGZfX8FgTSE"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325026,
+      "name": "Just Because God Said It (Part 1)",
+      "url": "https://open.spotify.com/track/3UAcLBvFKa1wXlycNVSUly"
     },
     {
       "album": {
@@ -20132,7 +20150,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 387666,
       "name": "Now Are We",
       "url": "https://open.spotify.com/track/2Raelp57GEKfCeQVr2RpP6"
@@ -22806,7 +22824,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 420346,
       "name": "Revelation 19:1",
       "url": "https://open.spotify.com/track/2ZNTu9FGzly5jafl5xM8df"
@@ -25112,7 +25130,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 300000,
       "name": "STILL GON' TRUST - Soul Gospel Remix",
       "url": "https://open.spotify.com/track/2hNELLf3bgjr2TnEcJecMn"
@@ -26224,7 +26242,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 370842,
       "name": "The Affirmation",
       "url": "https://open.spotify.com/track/1P3avN4CNrvVi9i2a9ZNFS"
@@ -27158,7 +27176,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 395613,
       "name": "The Presence of the Lord Is Here",
       "url": "https://open.spotify.com/track/0j7NzeiNUJfpqTdE2P3lcX"
@@ -31016,7 +31034,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 204960,
       "name": "You Gave Me Hope",
       "url": "https://open.spotify.com/track/4EqNAhbSJoanTrdX2GJE2C"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 155823,
       "name": "1897",
       "url": "https://open.spotify.com/track/0LWLiWgpy17VdoczXCDfmh"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 163916,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 133655,
       "name": "Les d\u00e9buts",
       "url": "https://open.spotify.com/track/4R6L0FlLprIsVMJ9bdDd1e"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 160333,
       "name": "Look Ahead",
       "url": "https://open.spotify.com/track/6YCLKWqMCgiAu7GR2eFMKL"
@@ -1176,6 +1176,24 @@
       "duration_ms": 158625,
       "name": "Looking Down",
       "url": "https://open.spotify.com/track/1whoKvX0cT6hfZf7GryEmB"
+    },
+    {
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7qh8ZeENbL9E9E0Ztsv2it"
+      },
+      "artists": [
+        {
+          "name": "Conor Flanagan",
+          "url": "https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128806,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3vVX3isRZBNkNm5MgGXlST"
     },
     {
       "album": {
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 131332,
       "name": "Nominous",
       "url": "https://open.spotify.com/track/2pi8vhUQXXwMpSuyVGdVfS"
@@ -1644,6 +1662,24 @@
       "duration_ms": 171124,
       "name": "Over skyerne",
       "url": "https://open.spotify.com/track/4FHNG73v2Ws7QQqR2kvIUp"
+    },
+    {
+      "album": {
+        "name": "Pale Aurora",
+        "url": "https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c"
+      },
+      "artists": [
+        {
+          "name": "Spring Bunny",
+          "url": "https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158446,
+      "name": "Pale Aurora",
+      "url": "https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU"
     },
     {
       "album": {
@@ -1820,7 +1856,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 142500,
       "name": "Propinquity",
       "url": "https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm"
@@ -1892,7 +1928,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 138804,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf"
@@ -2223,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/74wLBrYsjGT8XuBchhf6Rj"
+      },
+      "artists": [
+        {
+          "name": "Graciosa",
+          "url": "https://open.spotify.com/artist/1miegxCenxnaWgMYkeRIkY"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5WGiuwZ3b4GgpkJTUv0S32"
+    },
+    {
+      "album": {
         "name": "Sunset From Beyond",
         "url": "https://open.spotify.com/album/2DVpfQiCiKQpVsZWHnentg"
       },
@@ -2436,7 +2490,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 180053,
       "name": "Theta Eclipse",
       "url": "https://open.spotify.com/track/0QPw8YFWkEVau7QPMblndW"
@@ -2598,7 +2652,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 123333,
       "name": "Under The Sky",
       "url": "https://open.spotify.com/track/5u4tzKR7fFLFVcr3u6h1JF"
@@ -2760,7 +2814,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 128500,
       "name": "We Will Make It",
       "url": "https://open.spotify.com/track/7yVh5SkxIS6OpNlL8gf2Qx"

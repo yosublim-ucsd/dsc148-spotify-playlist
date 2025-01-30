@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,602 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,652 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 4 | [Nada que perder](https://open.spotify.com/track/1N3wsfRTJrzibsiMyJo4e0) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Nada que perder](https://open.spotify.com/album/4PsfkuF6YOYrwD1Zn18RRG) | 6:10 |
 | 5 | [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 |
 | 6 | [Aquellas Cosas Que Solíamos Hacer](https://open.spotify.com/track/1CrN92KYQTOePdubueHipL) | [Benito Kamelas](https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn) | [Sin Trampa Ni Cartón](https://open.spotify.com/album/26gSAMOb4jxhoDqYOYgvGR) | 4:49 |
-| 7 | [Redención](https://open.spotify.com/track/6OrbWWolcd6EoVuf6MeYgQ) | [Vértize](https://open.spotify.com/artist/6B5OYEBpxHyPNZmEx3XSJz), [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4), [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK), [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Redención](https://open.spotify.com/album/4eXzPidJ09xiwES7keNo73) | 4:12 |
+| 7 | [Redención](https://open.spotify.com/track/6OrbWWolcd6EoVuf6MeYgQ) | [Vértize](https://open.spotify.com/artist/6B5OYEBpxHyPNZmEx3XSJz), [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4), [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Redención](https://open.spotify.com/album/4eXzPidJ09xiwES7keNo73) | 4:12 |
 | 8 | [¿Volverá? \(feat\. Dani Martín, Rulo y la Contrabanda\)](https://open.spotify.com/track/56bY8QWkhq11vfMpOIhJli) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Rulo y la contrabanda](https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [¿Volverá? \(feat\. Dani Martín, Rulo y la Contrabanda\)](https://open.spotify.com/album/1WwaI7DststGINwmLG9zCP) | 4:09 |
 | 9 | [Camiseta de Rokanrol](https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Camiseta de Rokanrol](https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l) | 3:49 |
 | 10 | [Cielo hermético](https://open.spotify.com/track/5aWREznXDTWJ046mUoT162) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Cielo hermético](https://open.spotify.com/album/33KEwlFbYi94OnXeDHruHl) | 3:59 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 70 | [Extraterrestre \(feat\. Dani Fernández\)](https://open.spotify.com/track/5sH0eeQR4CY2U4oNK3HZd2) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Extraterrestre \(feat\. Dani Fernández\)](https://open.spotify.com/album/2N3lSXfdnvC10lkPre0wFS) | 3:20 |
 | 71 | [Por verte sonreír](https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Mira](https://open.spotify.com/album/7EpE7UsapcAWKmuzWVNa18) | 6:40 |
 | 72 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
-| 73 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
-| 74 | [Marisol](https://open.spotify.com/track/1yvjxjNiirpqymfSTAwIjQ) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Marisol](https://open.spotify.com/album/0jL7FguTJUNtRes3fQi7KR) | 4:11 |
+| 73 | [Marisol](https://open.spotify.com/track/1yvjxjNiirpqymfSTAwIjQ) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Marisol](https://open.spotify.com/album/0jL7FguTJUNtRes3fQi7KR) | 4:11 |
+| 74 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
 | 75 | [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 |
 | 76 | [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 |
 | 77 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |

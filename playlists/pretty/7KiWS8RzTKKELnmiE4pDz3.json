@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAd4HhBre0nYp/rise0N7puPyoJ1btB",
+  "snapshot_id": "AAAd5V1apc2EMLW+nRBIJyFUujtZ1jK9",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -3407,6 +3407,94 @@
       "duration_ms": 227666,
       "name": "Who Shot Me?",
       "url": "https://open.spotify.com/track/20F9XLcFdWcI2yS74hHQ99"
+    },
+    {
+      "added_at": "2025-01-29 22:48:19",
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn"
+    },
+    {
+      "added_at": "2025-01-29 22:57:15",
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Cut the Check (feat. Chief Keef)",
+      "url": "https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW"
+    },
+    {
+      "added_at": "2025-01-29 23:01:04",
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "When in Rome",
+      "url": "https://open.spotify.com/track/4lIVN4LUJCmweoGJmk6hK9"
+    },
+    {
+      "added_at": "2025-01-29 23:01:38",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 248730,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1GrnyQe1SFOb1T5vb5T54q"
+    },
+    {
+      "added_at": "2025-01-29 23:21:13",
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "duration_ms": 239954,
+      "name": "Insomniak (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
     }
   ],
   "unique_name": "main ",

@@ -2,7 +2,7 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=iy\_gXgKBRwuQWeAb\_7HLoQ"> كريم كرستيانو </a>
+> أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB?si=wpk2V5C7TeOmye8MjNunpg"> اسلام كابونحا </a>
 
 278 songs - 17 hr 7 min
 

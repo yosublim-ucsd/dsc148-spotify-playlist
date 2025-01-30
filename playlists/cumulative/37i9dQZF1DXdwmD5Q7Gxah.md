@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/coming\-soon?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">Newsletter coming soon...</a> Cover: Oklou
 
-3,155 songs - 7 day 3 hr 24 min
+3,156 songs - 7 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1418,6 +1418,7 @@
 | [In & Out of Time](https://open.spotify.com/track/04HUqn66kaoDpNHmgCTUEm) | [Casino Hearts](https://open.spotify.com/artist/131JU4HWYoO1AixJMbcS3z) | [In & Out of Time](https://open.spotify.com/album/6L3Gfeq2jaRbWrzjSiR2MQ) | 5:20 | 2024-08-05 | 2024-09-21 |
 | [In Between Plans](https://open.spotify.com/track/4T59PtRxilhsLFWxWabCEm) | [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [In Between Plans](https://open.spotify.com/album/0YdjMWhmusn8W2QrDYYuAz) | 3:46 | 2019-07-30\* | 2019-10-11 |
 | [IN FEAR, ETC.](https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 3:33 | 2024-11-08 |  |
+| [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-01-29 |  |
 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 | 2023-03-24 | 2023-07-12 |
 | [In My Head](https://open.spotify.com/track/1tT55K6VEyO6XFDxK4lDQe) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/1Ww9Yz5WDGdxBhS5FlVy6Y) | 3:34 | 2019-07-30\* | 2019-10-03 |
 | [In My Mind](https://open.spotify.com/track/2W779g2UrRZtVdf3FcEOO1) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [In My Mind](https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt) | 2:42 | 2021-09-25 | 2022-02-26 |
@@ -3117,7 +3118,7 @@
 | [You Lose!](https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [You Lose!](https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh) | 3:24 | 2021-09-21 | 2021-11-13 |
 | [You Made Me A Fool](https://open.spotify.com/track/2mdZX6FuB1fbfWPcTIjpcM) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [You Made Me A Fool](https://open.spotify.com/album/4BpYctlZjwlYwvaxueycFX) | 1:46 | 2023-02-24 | 2023-03-18 |
 | [You Make Me Sick! \- Dora Jar Remix](https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [You Make Me Sick! \(Dora Jar Remix\)](https://open.spotify.com/album/0ddrfdgfcwQ0EafB4o4l3y) | 3:22 | 2024-02-21 | 2024-07-27 |
-| [You Resemble Everything](https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [You Resemble Everything](https://open.spotify.com/album/7KMmDgFmwClaHFUugRQdx5) | 3:44 | 2024-11-13 |  |
+| [You Resemble Everything](https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [You Resemble Everything](https://open.spotify.com/album/7KMmDgFmwClaHFUugRQdx5) | 3:44 | 2024-11-13 | 2025-01-30 |
 | [You Sad](https://open.spotify.com/track/7yqyEsd851dkG58lBcNrUS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/3iMht1oZf6aXQhHZscLXdF) | 2:37 | 2020-09-15 | 2020-12-04 |
 | [You Seemed so Happy](https://open.spotify.com/track/0NuIfPuBhUAt4aA4HP0rUu) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 2:42 | 2021-06-05 | 2021-06-11 |
 | [You Stupid Bitch](https://open.spotify.com/track/7Jqyl2feOikHqdCOaY9uzF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [You Stupid Bitch](https://open.spotify.com/album/4oBhZqwpWAUsKobnZ9zb9W) | 3:15 | 2021-04-15 | 2021-07-31 |

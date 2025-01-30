@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Soledad & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,065 likes - 101 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,118 likes - 101 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 5 | [Te Pido Perdón](https://open.spotify.com/track/1BHrguT8AtaICBxOrXF8Zv) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Te Pido Perdón](https://open.spotify.com/album/3mlj3O44Smz42yvlGbuGpt) | 2:52 |
 | 6 | [En La Cara \- Versión Cumbia](https://open.spotify.com/track/6OkJabrgq8bKARQAE0yFY9) | [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [En La Cara \(Versión Cumbia\)](https://open.spotify.com/album/3QA5LnAvvF1meiTggtg4Xc) | 2:04 |
 | 7 | [Borracha Me Llamas](https://open.spotify.com/track/5HhmIQQ174nAJEEdrXynNz) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Borracha Me Llamas](https://open.spotify.com/album/3BZ9VZqdz6Lu6Yoi33JEeG) | 3:45 |
-| 8 | [Sin Mi Quieres Volar](https://open.spotify.com/track/6Za4aOIBNRQoxYfIO2GX4c) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Sin Mi Quieres Volar](https://open.spotify.com/album/7FrjGEAoTW6ovIdqrxgPCK) | 3:20 |
+| 8 | [Sin Mi Quieres Volar](https://open.spotify.com/track/6Za4aOIBNRQoxYfIO2GX4c) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Sin Mi Quieres Volar](https://open.spotify.com/album/7FrjGEAoTW6ovIdqrxgPCK) | 3:19 |
 | 9 | [Dejemoslo así \- Explícale \- Que será de Ti](https://open.spotify.com/track/7L0tnmipXuotDEOY5OrGTm) | [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Dejemoslo Así / Explícale / Qué Será de Ti](https://open.spotify.com/album/4FgkXaGkIm4VvCyU7qhrzO) | 6:49 |
 | 10 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 11 | [Alta Manzana](https://open.spotify.com/track/1iJATxy75wo1bfIq3e0RST) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Alta Manzana](https://open.spotify.com/album/6FHNKXMmXHPxMFzaqETVPd) | 4:04 |

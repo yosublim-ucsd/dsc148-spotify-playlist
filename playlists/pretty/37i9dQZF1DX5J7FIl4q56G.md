@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Bleed From Within
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,161 likes - 56 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,310 likes - 56 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 10 | [Midnight Messiah](https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Midnight Messiah](https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP) | 7:58 |
 | 11 | [The Prodigal Ones](https://open.spotify.com/track/4Wu5bEby9DaBGBypEfQN8g) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [The Prodigal Ones](https://open.spotify.com/album/3fTCl3lz6B08gV5WO8a2sI) | 3:44 |
 | 12 | [To Live Deliciously](https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [To Live Deliciously](https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB) | 5:32 |
-| 13 | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf) | 3:52 |
+| 13 | [Atonement \- feat\. Will Ramos](https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf) | 3:52 |
 | 14 | [Tretale](https://open.spotify.com/track/76S0VZpstXfvvgfn3bpxZd) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Birna](https://open.spotify.com/album/5clP0vXvX350quRCTw248H) | 6:57 |
 | 15 | [Too Late for Goodbyes](https://open.spotify.com/track/6D3o0hxm0tyUaIRL0vKkJy) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq), [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Scorched Earth](https://open.spotify.com/album/3bPrk5eZSMIHL5uIS2ESe6) | 7:53 |
 | 16 | [Erase](https://open.spotify.com/track/4tiR5IBGNvKknN7qaKyze6) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Genesis](https://open.spotify.com/album/18kxGirYEiVf2f60FOaqiq) | 3:07 |

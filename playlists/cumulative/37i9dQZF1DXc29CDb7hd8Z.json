@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Hankyu Denshya",
+        "url": "https://open.spotify.com/album/71K8CVaYH730CoI4CJrQLy"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226421,
+      "name": "Hankyu Denshya",
+      "url": "https://open.spotify.com/track/23dVWxBH8kGbkRCuAJPxwj"
+    },
+    {
+      "album": {
         "name": "Home (Piano Solo)",
         "url": "https://open.spotify.com/album/78tl50sAyuWpEFDYTbmkYl"
       },

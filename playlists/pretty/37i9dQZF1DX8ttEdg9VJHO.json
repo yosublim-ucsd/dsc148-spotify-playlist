@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 355588,
+  "num_followers": 355607,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Sie",
-        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Steht Mir",
-      "url": "https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Mehr davon",
         "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 173808,
       "name": "Mehr davon",
       "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Sie",
+        "url": "https://open.spotify.com/album/1cX0czWPIRtDrC5kdMiNB1"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Steht Mir",
+      "url": "https://open.spotify.com/track/28z6EGq7hL41nBLCny3U1e"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Small Steps",
-        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
-      },
-      "artists": [
-        {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
-        }
-      ],
-      "duration_ms": 166991,
-      "name": "Small Steps",
-      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
         "url": "https://open.spotify.com/album/6cJvVRDKO1eZcKomjxVQUK"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 157658,
       "name": "Dance Before We Walk (From \u201cThe Idea of You\u201d)",
       "url": "https://open.spotify.com/track/7xELUwXl4BJq1Hm3PE2v1R"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Small Steps",
+        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
+      },
+      "artists": [
+        {
+          "name": "Tom Gregory",
+          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+        }
+      ],
+      "duration_ms": 166991,
+      "name": "Small Steps",
+      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
     },
     {
       "added_at": "2024-12-11 08:10:11",

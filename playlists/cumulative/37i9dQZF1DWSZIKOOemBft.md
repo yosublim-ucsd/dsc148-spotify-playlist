@@ -4,7 +4,7 @@
 
 > Anguished with a tragic past, this character’s demeanor may intimidate some, but deep down they just need a hug.
 
-69 songs - 4 hr 30 min
+71 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,9 +39,11 @@
 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2025-01-17 |  |
 | [No pain, No game](https://open.spotify.com/track/1HUgqhTeOMW7IUm5G2a2dR) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Ｎ](https://open.spotify.com/album/0Eb9A3qhwskz4PllOhfUuj) | 3:22 | 2024-08-19 |  |
 | [PAPERMOON](https://open.spotify.com/track/44LzijoPl4qNVJV6pYmzdS) | [Tommy heavenly6](https://open.spotify.com/artist/6ClPIi6VMHv2Q3OZ4R17wV) | [PAPERMOON](https://open.spotify.com/album/3i25LyQMQ1XF9u9ehPlxVR) | 4:22 | 2024-08-19 |  |
+| [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 | 2025-01-29 |  |
 | [Sesame](https://open.spotify.com/track/0VCEf8YUCa62C06LGiq9NW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Sesame](https://open.spotify.com/album/6BnvhXQg2Lc0GOauJydlKP) | 3:32 | 2025-01-17 |  |
 | [Sesame](https://open.spotify.com/track/3qjzdbIB776yoZPsHib9BG) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Unspoiled](https://open.spotify.com/album/0mQZpVwfhsszway6XW3q6t) | 3:33 | 2024-08-19 | 2025-01-18 |
 | [sh0ut](https://open.spotify.com/track/0q02P4yUz4BAcmzbGVrCEU) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [2V\-ALK](https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc) | 4:05 | 2024-08-19 |  |
+| [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:56 | 2025-01-29 |  |
 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 | 2024-08-19 |  |
 | [Sweet sweet candy time](https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [Sweet sweet candy time](https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6) | 5:21 | 2024-08-19 |  |
 | [The Asterisk War](https://open.spotify.com/track/4Zl5KzuG05nYPIWUhA7bLl) | [西沢幸奏](https://open.spotify.com/artist/5aiaXK8lcIBT52N1WmN9BK) | [Break Your Fate](https://open.spotify.com/album/5vjvyI8ZHyEjJBlIePJSXc) | 3:33 | 2024-08-19 |  |

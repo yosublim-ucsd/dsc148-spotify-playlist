@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: FouKi
 
-3,063 songs - 6 day 18 hr 47 min
+3,064 songs - 6 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,7 +484,7 @@
 | [Choker](https://open.spotify.com/track/2n9JkcdNp7pFviL0qdmmuH) | [Thomas Gauthier](https://open.spotify.com/artist/1o1lGge9gBLbaWPQ6QncqQ) | [Choker](https://open.spotify.com/album/795cwI0M8cjrFb86T2dcqf) | 3:13 | 2022-05-27 | 2022-06-11 |
 | [Chorale](https://open.spotify.com/track/5tss9uEnYDuHGK6Dkc0HII) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [Chorale](https://open.spotify.com/album/5g10y4j8zX5zpqPapVwjzA) | 3:16 | 2022-04-29 | 2022-05-14 |
 | [Choré](https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Choré](https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20) | 3:00 | 2024-07-20 | 2024-09-21 |
-| [CHROME](https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [CHROME](https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX) | 2:35 | 2024-11-01 |  |
+| [CHROME](https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [CHROME](https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX) | 2:35 | 2024-11-01 | 2025-01-30 |
 | [Chrome](https://open.spotify.com/track/4td35NZotdGMJtFhCkZ4jh) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/4sDZK3v11y3o90np32XcJS) | 2:49 | 2023-02-24 | 2023-03-11 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2022-11-11 | 2022-12-03 |
 | [Chu faite comme ça](https://open.spotify.com/track/74ZR7MgLLDULPnB3xCbYUT) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO), [Ced Auger](https://open.spotify.com/artist/64wJH22II7dGiPX2c8ClZk) | [Chu faite comme ça](https://open.spotify.com/album/0ErQTTS9PPDy1MpYBADy1R) | 2:21 | 2022-08-26 | 2022-09-10 |
@@ -2592,6 +2592,7 @@
 | [Speak White](https://open.spotify.com/track/1tGFhpQ2UsTHlMKVTsGwMX) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Speak White](https://open.spotify.com/album/4kHRu7779hubGFySAxxrU9) | 3:45 | 2023-10-27 | 2023-11-11 |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-10 | 2024-07-06 |
 | [spooky](https://open.spotify.com/track/1wN3zTs9IxADu8KZRw7TfN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [spooky](https://open.spotify.com/album/0h9lWHQMOqDrKvh6T9MqXz) | 4:40 | 2024-07-12 | 2024-07-19 |
+| [Spécial](https://open.spotify.com/track/0s1xIkZjwBKWN8803r2Opd) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Spécial](https://open.spotify.com/album/6p7QYxRUSKtENDLrQxpTHH) | 2:27 | 2025-01-24 |  |
 | [Spéciale](https://open.spotify.com/track/6OxnhCRysP2WZwBBwaTttj) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 2:57 | 2022-10-28 | 2022-11-19 |
 | [SQ Remix](https://open.spotify.com/track/3m5QW5miEWmUOmD8yK7KdO) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6), [Q052](https://open.spotify.com/artist/2T6gwpmENgpNZTWLJ2bKVE), [Chavajay](https://open.spotify.com/artist/21fXLDPEOc0zYB8LmLFu3V) | [SQ Remix](https://open.spotify.com/album/25Jt381upTR38MOSMflTIZ) | 3:28 | 2022-10-14 | 2022-10-29 |
 | [Stack](https://open.spotify.com/track/6qWTWoKhEURkA1WD9Z8vYQ) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Stack](https://open.spotify.com/album/5q3bd7z8kuSWUDJOtgrAmP) | 5:07 | 2023-08-25 | 2023-09-02 |

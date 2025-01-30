@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks with the freshest hits! Cover: Chrystal",
-  "num_followers": 1430546,
+  "num_followers": 1430589,
   "original_name": "Hot Hits Australia",
   "owner": {
     "name": "Spotify",
@@ -286,14 +286,10 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
+      "name": "Timeless",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

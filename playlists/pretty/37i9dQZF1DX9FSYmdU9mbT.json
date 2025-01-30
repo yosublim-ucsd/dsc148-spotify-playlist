@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Maria Beth\u00e2nia, Caetano Veloso",
-  "num_followers": 1373342,
+  "num_followers": 1373601,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -759,18 +759,18 @@
     {
       "added_at": "2025-01-17 03:00:03",
       "album": {
-        "name": "Exagerado 3.0 - Single",
-        "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
+        "name": "O Que \u00c9 Que H\u00e1",
+        "url": "https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa"
       },
       "artists": [
         {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 226141,
-      "name": "Exagerado 3.0",
-      "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
+      "duration_ms": 225713,
+      "name": "O Que \u00c9 Que H\u00e1",
+      "url": "https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC"
     },
     {
       "added_at": "2025-01-17 03:00:03",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-01-17 03:00:03",
       "album": {
-        "name": "O Que \u00c9 Que H\u00e1",
-        "url": "https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa"
+        "name": "Exagerado 3.0 - Single",
+        "url": "https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
-      "duration_ms": 225713,
-      "name": "O Que \u00c9 Que H\u00e1",
-      "url": "https://open.spotify.com/track/4UPhXYKlkMcmGqoEamcABC"
+      "duration_ms": 226141,
+      "name": "Exagerado 3.0",
+      "url": "https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G"
     },
     {
       "added_at": "2025-01-17 03:00:03",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-01-17 03:00:03",
       "album": {
+        "name": "Gal A Todo Vapor (Live)",
+        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Como 2 E 2 - Ao Vivo / Introdu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
+    },
+    {
+      "added_at": "2025-01-17 03:00:03",
+      "album": {
         "name": "Li\u00e7\u00e3o de Vida",
         "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 270029,
       "name": "Carnav\u00e1lia - Ao Vivo",
       "url": "https://open.spotify.com/track/5YpDmhY73LENoh0JMEvEZV"
-    },
-    {
-      "added_at": "2025-01-17 03:00:03",
-      "album": {
-        "name": "Gal A Todo Vapor (Live)",
-        "url": "https://open.spotify.com/album/5jO7LxFHE6hQr7an8IcBCs"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Como 2 E 2 - Ao Vivo / Introdu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3gn6qmAoRRk2PxCZFSRvMT"
     },
     {
       "added_at": "2025-01-17 03:00:03",

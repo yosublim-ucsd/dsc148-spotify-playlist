@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists every Wednesday. Cover: Church Tongue | Artwork: Nejc Prah",
+  "description": "New music by the heaviest independent artists every Wednesday. Cover: Gates to Hell | Artwork: Nejc Prah",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 182099,
       "name": "(Re)-Extract",
       "url": "https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb"
@@ -262,7 +262,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 199334,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 184370,
       "name": "Blood $oda",
       "url": "https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK"
@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1CJzR5mo9qWVjXAbXvtgdr"
+      },
+      "artists": [
+        {
+          "name": "Watch Out Stampede",
+          "url": "https://open.spotify.com/artist/4l7aT8cxtdfmUoxd2s7A94"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5IhoCZoKUNBcJKKeJwHDql"
+    },
+    {
+      "album": {
         "name": "Gorgeous",
         "url": "https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2"
       },
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 223200,
       "name": "IN VAIN",
       "url": "https://open.spotify.com/track/1B78Bb64r8yaWoEv4m2AK7"
@@ -1699,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "Internal Threat",
+        "url": "https://open.spotify.com/album/108Se3SVvwNJCuA4bQftc5"
+      },
+      "artists": [
+        {
+          "name": "Open Kasket",
+          "url": "https://open.spotify.com/artist/5SMXhyH6Z377dagl3oh8cq"
+        },
+        {
+          "name": "Terminal Nation",
+          "url": "https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152888,
+      "name": "Internal Threat",
+      "url": "https://open.spotify.com/track/7uOjLOmbTFbaBb9yHJ71VU"
+    },
+    {
+      "album": {
         "name": "It's All Been Done Before",
         "url": "https://open.spotify.com/album/573XbUtpLlMcUyoVBuNSTm"
       },
@@ -1728,10 +1768,28 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 129729,
       "name": "Jawbreaker",
       "url": "https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok"
+    },
+    {
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/35PZXY2rzxP2cWUIQXe33I"
+      },
+      "artists": [
+        {
+          "name": "Loss Becomes",
+          "url": "https://open.spotify.com/artist/4unEoSS4pL1FkJaY2EyjoK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163520,
+      "name": "L.O.F.",
+      "url": "https://open.spotify.com/track/5gzbNwdVv0g0VhgmDyezEa"
     },
     {
       "album": {
@@ -1894,7 +1952,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 198796,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/0gy0iAvOA7At82UJsU6ExI"
@@ -2020,7 +2078,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 256842,
       "name": "NGC 3603",
       "url": "https://open.spotify.com/track/4ya7IuXFTYoLQ6wkuRC6fo"
@@ -2265,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Red Lights",
+        "url": "https://open.spotify.com/album/3KfXEbPWpUYU55e5K9cxI9"
+      },
+      "artists": [
+        {
+          "name": "Alchemize",
+          "url": "https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219574,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/3fUkbxFuTqBiwwhgEeMus4"
+    },
+    {
+      "album": {
         "name": "Repetition",
         "url": "https://open.spotify.com/album/4pOPejffwz2v70LuFBfRRl"
       },
@@ -2468,7 +2544,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 310470,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/0EORJ4SKeXqkFm0YygZ2mE"
@@ -2612,7 +2688,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 206877,
       "name": "Stillborn",
       "url": "https://open.spotify.com/track/30EBMmwhPG0fLU9XQbhigB"
@@ -2670,6 +2746,24 @@
       "duration_ms": 252656,
       "name": "Suffer Eternally",
       "url": "https://open.spotify.com/track/7Huaw7EZMCuHhpnx2pwehG"
+    },
+    {
+      "album": {
+        "name": "SURVIVAL AIN'T TAUGHT",
+        "url": "https://open.spotify.com/album/0B0BWGwmFIg2OUqbYLSUge"
+      },
+      "artists": [
+        {
+          "name": "JIVEBOMB",
+          "url": "https://open.spotify.com/artist/6C3q8wGXgz5KKWv5GqWkvV"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86019,
+      "name": "SURVIVAL AIN'T TAUGHT",
+      "url": "https://open.spotify.com/track/3xlNhQWwb0WS3w6P3VJpJF"
     },
     {
       "album": {
@@ -2781,6 +2875,24 @@
     },
     {
       "album": {
+        "name": "Teeth To Sky",
+        "url": "https://open.spotify.com/album/5i8eJRnoHlhEqsYKJKeM1S"
+      },
+      "artists": [
+        {
+          "name": "Guiltless",
+          "url": "https://open.spotify.com/artist/6LbnbvP0S13LSl8JsBJ9EP"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291746,
+      "name": "Teeth To Sky",
+      "url": "https://open.spotify.com/track/2sDd2N5vVDrz4QxvgsmOQn"
+    },
+    {
+      "album": {
         "name": "Tempest Horizon",
         "url": "https://open.spotify.com/album/4kcOdB8ZLECVjdU627IIMC"
       },
@@ -2814,6 +2926,28 @@
       "duration_ms": 167396,
       "name": "THE EARTH\u2019S COLD EMBRACE",
       "url": "https://open.spotify.com/track/7MuzyATTUAjByhKB3zHLTQ"
+    },
+    {
+      "album": {
+        "name": "Passages",
+        "url": "https://open.spotify.com/album/5peARHyQfrCC4wkD6MejWI"
+      },
+      "artists": [
+        {
+          "name": "Sunrot",
+          "url": "https://open.spotify.com/artist/7c0RYfybXbQZJHzVCMROQR"
+        },
+        {
+          "name": "Dylan Walker",
+          "url": "https://open.spotify.com/artist/4qkOSBrxz6jcBqcDayhmBg"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300760,
+      "name": "The First Wound",
+      "url": "https://open.spotify.com/track/6pYM2VZw7Kg2myiDqIS6iT"
     },
     {
       "album": {
@@ -3087,6 +3221,28 @@
     },
     {
       "album": {
+        "name": "Until Then...It's War",
+        "url": "https://open.spotify.com/album/0P8WL2BFJVAP8WRoeiGt0m"
+      },
+      "artists": [
+        {
+          "name": "Day By Day",
+          "url": "https://open.spotify.com/artist/4iscKytAx2iFQH7l6p1MnP"
+        },
+        {
+          "name": "Three Knee Deep",
+          "url": "https://open.spotify.com/artist/5NQpoUvfZvuipWhuFwUalc"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164155,
+      "name": "Until Then...It's War",
+      "url": "https://open.spotify.com/track/3lYLXXEtSbDZwdHMHdoKxP"
+    },
+    {
+      "album": {
         "name": "Upon Burdened Hands",
         "url": "https://open.spotify.com/album/4GeXj7U1LHfx7Xvi1bw7n0"
       },
@@ -3102,6 +3258,24 @@
       "duration_ms": 299154,
       "name": "Upon Burdened Hands",
       "url": "https://open.spotify.com/track/6HCPb0UNjcCaltfCnxxDdg"
+    },
+    {
+      "album": {
+        "name": "Vacant",
+        "url": "https://open.spotify.com/album/7oFQfr9wbYKjb96CY8V3Er"
+      },
+      "artists": [
+        {
+          "name": "OVERSIZE",
+          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189723,
+      "name": "Vacant",
+      "url": "https://open.spotify.com/track/1RSEUx1pkaiL7is1obW5v7"
     },
     {
       "album": {

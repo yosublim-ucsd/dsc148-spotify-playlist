@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-293 songs - 15 hr 27 min
+295 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [I Bite Back \(with Ck9c\)](https://open.spotify.com/track/2WVwBNtzstVflbwYQukU3A) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 3:07 | 2023-06-14 |  |
 | [I Don't Need Love](https://open.spotify.com/track/6UbEBm0sFHunsjZ7KCjTXR) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [I Don't Need Love](https://open.spotify.com/album/0eDzQHbimt2oZQVYNBa0AF) | 4:56 | 2023-06-14 |  |
 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 | 2024-11-18 |  |
+| [I DONT UNDERSTAND](https://open.spotify.com/track/74KNOo0ILoRMyD7NT5gDgy) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [I DONT UNDERSTAND](https://open.spotify.com/album/0XZN4GHwWZGy0oIz49oVu0) | 3:08 | 2025-01-30 |  |
 | [I Know, I Hear You](https://open.spotify.com/track/4uBVRH3YUy0eSMnxKFVWwZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Forgotten Arcade](https://open.spotify.com/album/6ARqHNLjBsMz438SUnLf1n) | 2:19 | 2024-11-25 |  |
 | [I LOVE BEING NORMAL](https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [I LOVE BEING NORMAL](https://open.spotify.com/album/5Us6d5XJoDoJlDN903GibE) | 2:08 | 2025-01-07 |  |
 | [I need Sombody](https://open.spotify.com/track/3vypveqsnXyoobkju425wy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I need Sombody](https://open.spotify.com/album/4uLaHsPdPdlyutC4IvQQyd) | 4:23 | 2024-10-21 |  |
@@ -262,6 +263,7 @@
 | [System Error](https://open.spotify.com/track/6Hj845K5h4w6RxXxxVlTsm) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [System Error](https://open.spotify.com/album/3dTOYU6oN5Yt6zzuWUiMJB) | 5:06 | 2023-06-14 |  |
 | [T BOY SWAG!!](https://open.spotify.com/track/1pnXju2cvAdcXwhSaIHlhO) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [pop out](https://open.spotify.com/album/3p29QY6whqGfBoWdhArXrF) | 1:13 | 2024-07-25 |  |
 | [Take Me Up](https://open.spotify.com/track/1GyuPucfVlZAHw7CUmq4eo) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Take Me Up](https://open.spotify.com/album/5krEvaWqSRz6A7J9NGtbl7) | 2:55 | 2024-10-18 |  |
+| [talk my shit](https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [h i d a m a](https://open.spotify.com/artist/4hwdD8J5z3iLG7uSg3w6sw) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 3:25 | 2025-01-30 |  |
 | [TBH](https://open.spotify.com/track/63UApHP3z3JkF5uuG3A7U4) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [TBH](https://open.spotify.com/album/1RzgX5MqrIA6IqYSkVDeWG) | 1:58 | 2024-11-03 |  |
 | [telephone](https://open.spotify.com/track/14lMI3AfvtQVvJoOvmb9tZ) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [can opener's notebook: fish whisperer](https://open.spotify.com/album/7F81VnxiHp0jDJtQLcsZWo) | 2:55 | 2024-11-29 |  |
 | [Temporary](https://open.spotify.com/track/2XEPsPmhOxYxzUgvMUxZIM) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Temporary](https://open.spotify.com/album/2gRCgkj2i609uNzHEtj5bn) | 3:00 | 2024-03-06 |  |

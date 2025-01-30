@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125496,
+  "num_followers": 125486,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATl8xTYzEIUfD7VoJZu5Ti0RrNuFxU",
+  "snapshot_id": "AAATmWchWC7dejugUtOlO6oDYS0w1YVO",
   "tracks": [
+    {
+      "added_at": "2025-01-29 15:34:51",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/7HVmjL6BNGQcasnOZxfBio"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
+        },
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 216685,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5VEFvinD436JLHYunYwv0p"
+    },
     {
       "added_at": "2025-01-28 15:59:00",
       "album": {
@@ -1139,30 +1159,6 @@
       "duration_ms": 195483,
       "name": "Use My Love",
       "url": "https://open.spotify.com/track/212tIxatoiyc4wYshhQswW"
-    },
-    {
-      "added_at": "2024-10-23 14:36:55",
-      "album": {
-        "name": "Lean Onto Me",
-        "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lean Onto Me",
-      "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

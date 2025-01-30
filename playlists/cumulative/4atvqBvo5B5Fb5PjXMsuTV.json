@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Jan 23:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Jan 23:01 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3862,6 +3862,24 @@
       "duration_ms": 205381,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6bdsftOLGFx2Rb52Iot2Ql"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/125JWbV6hgxrcKOLwqCKpD"
+      },
+      "artists": [
+        {
+          "name": "Weatherday",
+          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0TXezdBZlkwhAhmrYIBvxv"
     },
     {
       "album": {
@@ -18088,7 +18106,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 152137,
       "name": "Doctor! Doctor!",
       "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
@@ -34181,6 +34199,28 @@
     },
     {
       "album": {
+        "name": "In Love With A Memory",
+        "url": "https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "In Love With A Memory",
+      "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
+    },
+    {
+      "album": {
         "name": "IN MY BED",
         "url": "https://open.spotify.com/album/3FgnEyop6crJ7ZJ4n82txz"
       },
@@ -34784,7 +34824,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 190666,
       "name": "intro",
       "url": "https://open.spotify.com/track/3d1YtKpp27rNxBShzzKbrw"
@@ -43638,7 +43678,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 211786,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4"
@@ -51080,7 +51120,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 113777,
       "name": "PlaqueBoyMax",
       "url": "https://open.spotify.com/track/3LYXwZsL3SUwZGEvOqYCKI"
@@ -52422,7 +52462,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 169570,
       "name": "PROTECT THE CROSS",
       "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
@@ -67189,6 +67229,24 @@
     },
     {
       "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
+    },
+    {
+      "album": {
         "name": "The Silence That Remains",
         "url": "https://open.spotify.com/album/4hEx4JzgPX0DxMZ0OA5Y95"
       },
@@ -69548,6 +69606,24 @@
       "duration_ms": 115683,
       "name": "Treasure Island",
       "url": "https://open.spotify.com/track/2VJjZNIizvxz8LJGmwMeHy"
+    },
+    {
+      "album": {
+        "name": "Trembling Level",
+        "url": "https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "Trembling Level",
+      "url": "https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes"
     },
     {
       "album": {
@@ -74966,6 +75042,24 @@
       "duration_ms": 196098,
       "name": "Wonderful Nothing - Edit",
       "url": "https://open.spotify.com/track/1DWabnyWBMz27fEuTSNrlM"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240151,
+      "name": "WONDERWaLL - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "album": {

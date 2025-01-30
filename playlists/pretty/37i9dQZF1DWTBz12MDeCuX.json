@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Anna of the North",
-  "num_followers": 471104,
+  "num_followers": 471034,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
@@ -1614,14 +1614,10 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
+      "name": "Timeless",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Mackenzie Phillips | Artwork: Laina Deene",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Ben Laine | Artwork: Laina Deene",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 197647,
       "name": "Always There",
       "url": "https://open.spotify.com/track/1FzfVGmQMbsknD5v2wpAVJ"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 156800,
       "name": "AS I AM",
       "url": "https://open.spotify.com/track/3O5b3hy7WKDC9RVpBmeu2k"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 142500,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z"
@@ -1527,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/36XPlyx8PfUG5Z0VnrixCu"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        },
+        {
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/00XqexNnIOLUzYH8IJVD3N"
+    },
+    {
+      "album": {
         "name": "En La Intimidad",
         "url": "https://open.spotify.com/album/4j6eXNU9vZxAknxHbVfZ4W"
       },
@@ -1560,6 +1582,24 @@
       "duration_ms": 249834,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/0pdUi43tAKhbsASoKaaAZ6"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/6yHyf4Zzqp9YICkfay5tLZ"
+      },
+      "artists": [
+        {
+          "name": "Yung Kriss",
+          "url": "https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124158,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6hl3WmHubGcmLTXsmzob0o"
     },
     {
       "album": {
@@ -2737,6 +2777,28 @@
     },
     {
       "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/5tGtEL4znCe3EWOimM3Rzm"
+      },
+      "artists": [
+        {
+          "name": "Faith Child",
+          "url": "https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241888,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/67j3cTOjh1YglZgOFj131d"
+    },
+    {
+      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/5KGnK6K4IGRKbSHqDtoeHb"
       },
@@ -2766,7 +2828,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 194708,
       "name": "Holyyy",
       "url": "https://open.spotify.com/track/6BIqxltXDYT6O9txkfrGHe"
@@ -4090,7 +4152,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 217847,
       "name": "More Like Jesus",
       "url": "https://open.spotify.com/track/68T1LDboTCVS6F8Bc5k0L3"
@@ -4236,6 +4298,24 @@
       "duration_ms": 145034,
       "name": "NEVER GET USED TO THIS",
       "url": "https://open.spotify.com/track/1VFxnzJWG7LWYTrHNwGt9P"
+    },
+    {
+      "album": {
+        "name": "New Levels New Devils",
+        "url": "https://open.spotify.com/album/1n8Z2DK6qyoH6Fiq9lH5zQ"
+      },
+      "artists": [
+        {
+          "name": "Haynza",
+          "url": "https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "New Levels New Devils",
+      "url": "https://open.spotify.com/track/4eJ5qLQhPtun7iGxavvQI7"
     },
     {
       "album": {
@@ -4620,7 +4700,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 117929,
       "name": "Personally",
       "url": "https://open.spotify.com/track/1SOfUHoAmlbWMvJF0FqBXb"
@@ -4927,6 +5007,28 @@
     },
     {
       "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/2owhB9imA5BDhe8mKhTEWr"
+      },
+      "artists": [
+        {
+          "name": "Ben Laine",
+          "url": "https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj"
+        },
+        {
+          "name": "Rachel DeLong",
+          "url": "https://open.spotify.com/artist/7DUD02SdWCZHYKKGjnwUQK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293571,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/6cObeWxPlw9bMIeDBQFuxN"
+    },
+    {
+      "album": {
         "name": "Ready to Grow",
         "url": "https://open.spotify.com/album/3RpPPodEVjdowyI1Xleh6o"
       },
@@ -4960,7 +5062,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 217731,
       "name": "Receive",
       "url": "https://open.spotify.com/track/1aRMNC6oOhUjZROCKF0EnU"
@@ -5449,6 +5551,36 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/7I6C1jG1oC0pVHqva2U8S0"
+      },
+      "artists": [
+        {
+          "name": "Derek Ryan",
+          "url": "https://open.spotify.com/artist/73082XnqLoO2xyCv8vzEed"
+        },
+        {
+          "name": "Brianna Grace",
+          "url": "https://open.spotify.com/artist/6nrPVB5yw6xbWdI7yEjXfY"
+        },
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195154,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1nLi4DccCweTKO0eipSnL0"
+    },
+    {
+      "album": {
         "name": "Start Right Now",
         "url": "https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8"
       },
@@ -5514,7 +5646,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 145919,
       "name": "SUMMER",
       "url": "https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw"
@@ -5590,6 +5722,28 @@
       "duration_ms": 356541,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/4WYduAQZo11fd28KLhiRCc"
+    },
+    {
+      "album": {
+        "name": "Take Care of Me",
+        "url": "https://open.spotify.com/album/10NoCod7WbsamE1GkAdFk8"
+      },
+      "artists": [
+        {
+          "name": "Tondi Rams",
+          "url": "https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1"
+        },
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Take Care of Me",
+      "url": "https://open.spotify.com/track/6lrFxFgwf9ePXlQhJS7tcI"
     },
     {
       "album": {
@@ -6088,7 +6242,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 147316,
       "name": "Walk Me Down",
       "url": "https://open.spotify.com/track/6pXHSR9JQv0RlIfg2MyJJJ"
@@ -6113,6 +6267,24 @@
     },
     {
       "album": {
+        "name": "WAR IS WON",
+        "url": "https://open.spotify.com/album/17QpkVbAJx97Qtsl6gwSpN"
+      },
+      "artists": [
+        {
+          "name": "FIREROSE",
+          "url": "https://open.spotify.com/artist/2hUvYMF6MBxiZVXjiglBPX"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "WAR IS WON",
+      "url": "https://open.spotify.com/track/4pjgIveYr9h0MYKpkhJoB7"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/59IUZfwB5cpxuYHQ9bz37b"
       },
@@ -6128,6 +6300,24 @@
       "duration_ms": 230000,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3dTVCb0537sxC1g9bhoFy1"
+    },
+    {
+      "album": {
+        "name": "WasB4",
+        "url": "https://open.spotify.com/album/3gt6vi13F4awncAMYlstl1"
+      },
+      "artists": [
+        {
+          "name": "Harolddd",
+          "url": "https://open.spotify.com/artist/44av3ir0vktBzXpTjnuR7V"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149966,
+      "name": "WasB4",
+      "url": "https://open.spotify.com/track/2Vve3vLlfV2JS2HE836UjF"
     },
     {
       "album": {
@@ -6446,7 +6636,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 174480,
       "name": "With Me",
       "url": "https://open.spotify.com/track/7K4ApFh45VQuqSxBDOBBZm"
@@ -6758,6 +6948,32 @@
       "duration_ms": 175241,
       "name": "Your Love Won't Give Up",
       "url": "https://open.spotify.com/track/3B5ISJUnLCAis7MjBu22LR"
+    },
+    {
+      "album": {
+        "name": "ZION (NEVER CHANGING)",
+        "url": "https://open.spotify.com/album/3H6aUtBg9l713ff5mbu4Fj"
+      },
+      "artists": [
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ZION (NEVER CHANGING)",
+      "url": "https://open.spotify.com/track/3DMitTZDqxQhnma2n2kbBG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq"

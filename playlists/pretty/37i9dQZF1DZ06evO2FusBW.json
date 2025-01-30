@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10637,
+  "num_followers": 10674,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAABeNbs3ZlGi14T4RiSM+YU4",
+  "snapshot_id": "Z5geAAAAAAAMmXlhwiMwGqW6gHA4Q9aM",
   "tracks": [
     {
       "added_at": null,
@@ -291,24 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hintergrundmusik zum Lesen",
-        "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/5HnSkMqT880jHQL5efIx2h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/6nfzwVlb6qBc4I1XeDKNH1"
+        "name": "Sleep Meditations",
+        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
       },
       "artists": [
         {
@@ -320,9 +304,25 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/5MC9eD8alc4LwxAmhrOfF9"
+      "duration_ms": 272550,
+      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
+      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 137213,
+      "name": "Memory of Water",
+      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
     },
     {
       "added_at": null,
@@ -359,24 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 137213,
-      "name": "Memory of Water",
-      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleep Meditations",
-        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6nfzwVlb6qBc4I1XeDKNH1"
       },
       "artists": [
         {
@@ -388,9 +372,25 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 272550,
-      "name": "Sleep Meditation: Light Sleep Schumann Resonance 432 Hz",
-      "url": "https://open.spotify.com/track/3945Sap2pWM7WJsCiH3g5E"
+      "duration_ms": 145500,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5MC9eD8alc4LwxAmhrOfF9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hintergrundmusik zum Lesen",
+        "url": "https://open.spotify.com/album/2ypUyg36ZeXQlK7fjFt0Dm"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/5HnSkMqT880jHQL5efIx2h"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 114633,
-      "name": "Perfect Balance",
-      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RIOPY",
         "url": "https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 260306,
       "name": "La Vie",
       "url": "https://open.spotify.com/track/5Hn2dUqSBV79DHbMuHI11h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 114633,
+      "name": "Perfect Balance",
+      "url": "https://open.spotify.com/track/2qMvZaqqKz1u0DF2OfggDM"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 297288,
-      "name": "The Age of Pisces",
-      "url": "https://open.spotify.com/track/2g7sqs6Pl5DxKyZnL6fcXx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le R\u00eave d'une note",
         "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 1354080,
       "name": "Meditation 22",
       "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 297288,
+      "name": "The Age of Pisces",
+      "url": "https://open.spotify.com/track/2g7sqs6Pl5DxKyZnL6fcXx"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+        "name": "Meditation 432",
+        "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 230826,
-      "name": "Piano Allegretto",
-      "url": "https://open.spotify.com/track/7tDBLBdtP38f4TRZQsmhTL"
+      "duration_ms": 277208,
+      "name": "POWER OF THE SEA",
+      "url": "https://open.spotify.com/track/71zbGaP14EKdamvIz0taPB"
     }
   ],
   "unique_name": "This Is RIOPY",

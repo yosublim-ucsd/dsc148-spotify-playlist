@@ -4,7 +4,7 @@
 
 > la nuova scena pop italiana ✨ cover: anice
 
-391 songs - 18 hr 31 min
+392 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [BUM!](https://open.spotify.com/track/38Q2xq0AONmMqvlWDaB37Q) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [BUM!](https://open.spotify.com/album/4oFDMkklZca0cnkgodTTas) | 3:09 | 2024-09-12 | 2024-11-22 |
 | [Bussola](https://open.spotify.com/track/3qIopFVs9HXdr0jNzowlKV) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl) | [Bussola](https://open.spotify.com/album/2L2CobvKIAi6LVlhIiDkpw) | 3:21 | 2024-10-07 | 2024-11-22 |
 | [Cabrón](https://open.spotify.com/track/7GXBI3fG9VZChYZu3M9mWX) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Cabrón](https://open.spotify.com/album/7AdbKjutPm7zVGZwF0iUXG) | 2:26 | 2024-12-12 | 2025-01-24 |
+| [Camilla \(una canzone non d'amore\)](https://open.spotify.com/track/4fokeaDTupkU8tu8Log3H0) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Camilla \(una canzone non d'amore\)](https://open.spotify.com/album/539KQ4fJ6FOXD1Pwc2eTRb) | 2:24 | 2025-01-29 |  |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 | 2024-08-23 |
 | [CANTILENE](https://open.spotify.com/track/1KmISb2odvPrxQIoU3htOm) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR), [Jeson](https://open.spotify.com/artist/6uVlpDGzypl2DCmRpl08eg) | [CANTILENE](https://open.spotify.com/album/4zvIEieWH3VhSL9iNE2g22) | 3:01 | 2025-01-09 |  |
 | [canzone](https://open.spotify.com/track/457lwKtYBzW6SrkyGDo2Zb) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 3:37 | 2024-06-27 | 2024-07-19 |

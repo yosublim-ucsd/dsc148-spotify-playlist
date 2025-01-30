@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Il meglio dell'urban italiano nel 2024, secondo i nostri Editor! Cover: Kid Yugi
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,741 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,773 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 | 27 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 |
 | 28 | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/track/6nxQV4fJgfvyfZRPPJm1mO) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [In Italia 2024 \(feat\. Emma & Baby Gang\)](https://open.spotify.com/album/312tEWGsN8ssJGl3aHZWuU) | 4:05 |
 | 29 | [TEKKEN \(feat\. Simba La Rue\)](https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TEKKEN \(feat\. Simba La Rue\)](https://open.spotify.com/album/2Wrze5hALL55nNzoyag7EO) | 2:54 |
-| 30 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 |
+| 30 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 |
 | 31 | [First Day Out](https://open.spotify.com/track/6ipR5Hlvur9s4pXA8rJrLX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:51 |
 | 32 | [Oceano \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/6t2gXEBqVWbTQ08lC4KYEK) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Acqua](https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG) | 2:07 |
 | 33 | [Entro nel posto \(feat\. Tony Boy, Kid Yugi & Capo Plaza\)](https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:59 |

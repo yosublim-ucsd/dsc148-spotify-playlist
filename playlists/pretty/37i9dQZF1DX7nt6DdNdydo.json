@@ -1,6 +1,6 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 56515,
+  "num_followers": 56540,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
-        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
-      },
-      "artists": [
-        {
-          "name": "The Treniers",
-          "url": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Say Hey (The Willie Mays Song)",
-      "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Shorty",
         "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
       },
@@ -363,22 +347,6 @@
       "duration_ms": 159493,
       "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
       "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -399,6 +367,38 @@
       "duration_ms": 286893,
       "name": "Rhythm In The Barnyard",
       "url": "https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Baseball A Film By Ken Burns - Original Soundtrack Recording",
+        "url": "https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua"
+      },
+      "artists": [
+        {
+          "name": "The Treniers",
+          "url": "https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Say Hey (The Willie Mays Song)",
+      "url": "https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN"
     },
     {
       "added_at": "2022-03-28 19:44:25",

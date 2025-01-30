@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-80 songs - 3 hr 26 min
+81 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,5 +88,6 @@
 | [Where the Roses Never Fade](https://open.spotify.com/track/7sQ9OH1DrisPzjoTOoxIZQ) | [Billie Chandler](https://open.spotify.com/artist/2j8sEmdITbTiI0ZABw6FR1) | [Where the Roses Never Fade](https://open.spotify.com/album/1gdqSzsLn5ExDEzaophMDr) | 3:51 | 2024-03-20 | 2024-11-30 |
 | [Wheresoe'er I Roam](https://open.spotify.com/track/0AVCoUfsQKXDVA7z3FyuRY) | [Billie Chandler](https://open.spotify.com/artist/2j8sEmdITbTiI0ZABw6FR1) | [To God Be The Glory](https://open.spotify.com/album/5AzYM0u08waXbSiPSb1Zlr) | 2:51 | 2024-03-20 |  |
 | [Why Me Lord](https://open.spotify.com/track/411ZfwAK5QeHY9CZQoCmrt) | [Domino Praise](https://open.spotify.com/artist/2ndypNpmwkNBOuaFqMgt5s) | [Why Me Lord](https://open.spotify.com/album/0OjPxdEnCQusHAwbxeyUxX) | 2:33 | 2024-03-20 |  |
+| [Wings Of Hope](https://open.spotify.com/track/2G2T1pCWt2HS1gBu9deoLT) | [Atlas Orson](https://open.spotify.com/artist/359p54G5Nn0vRDnD2Wrm16) | [Wings Of Hope](https://open.spotify.com/album/62DSQujYzvEYtafUcDoG23) | 2:49 | 2025-01-29 |  |
 
 \*This playlist was first scraped on 2024-03-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > 
 
-367 songs - 1 day 0 hr 33 min
+368 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Body Ache](https://open.spotify.com/track/50K3QO1dPbxCIbTglbBtjJ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Body Ache](https://open.spotify.com/album/5FCtijJEhO888UhXnnYkgp) | 4:50 | 2024-08-27 |  |
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 | 2023-01-10 |
 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 | 2024-05-08 | 2024-07-16 |
+| [Bon Bon \- Andrew VanWyngarden Remix](https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Andrew VanWyngarden](https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bon Bon \(Andrew VanWyngarden Remix\)](https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH) | 5:35 | 2025-01-29 |  |
 | [Break Me Down](https://open.spotify.com/track/1TZTHHoSj7OcBIn23pV0SJ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Break Me Down](https://open.spotify.com/album/5GxzwB5MNabNYCjgFX8ml0) | 2:28 | 2024-10-09 |  |
 | [Bul Bul Bul](https://open.spotify.com/track/7kSRBKkO3wgFGNsRqlDkNE) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Bul Bul Bul](https://open.spotify.com/album/4JVtJnEeBkkCUUbrxs1tU8) | 3:28 | 2024-09-10 | 2024-12-13 |
 | [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 | 2023-07-11 | 2024-03-02 |
@@ -253,7 +254,7 @@
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-05-30 | 2023-07-11 |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-13 | 2023-07-19 |
 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 | 2024-10-02 |  |
-| [Otherside \- Jasper Tygner Remix](https://open.spotify.com/track/5nVMKc9crIiOReGVTVgs9e) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Otherside \(Jasper Tygner Remix\)](https://open.spotify.com/album/79B8ebZHtuxsZ4lioIF6UZ) | 4:03 | 2024-11-15 |  |
+| [Otherside \- Jasper Tygner Remix](https://open.spotify.com/track/5nVMKc9crIiOReGVTVgs9e) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Otherside \(Jasper Tygner Remix\)](https://open.spotify.com/album/79B8ebZHtuxsZ4lioIF6UZ) | 4:03 | 2024-11-15 | 2025-01-30 |
 | [Park Your Car on My Face](https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 3:36 | 2022-10-14 | 2023-05-25 |
 | [Passionfruit](https://open.spotify.com/track/5NaWrr9UO9mCRDN3bNFRmZ) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Passionfruit](https://open.spotify.com/album/4HzvdM3vEosy314rM2JtGb) | 9:22 | 2024-01-18 | 2024-06-01 |
 | [Pearl of Hail](https://open.spotify.com/track/3t2I3dV5AF2qhmbMbdeMt1) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Torch / Pearl of Hail](https://open.spotify.com/album/3HXjzaIgjZrDG7iJ35WpBL) | 1:50 | 2024-04-12 | 2024-06-26 |

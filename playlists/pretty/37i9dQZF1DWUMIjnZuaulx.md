@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Chandler Moore, Jordin Sparks, & Anthony Gargiula
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,206 likes - 99 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,231 likes - 99 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

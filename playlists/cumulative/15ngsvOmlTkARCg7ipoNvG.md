@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,884 songs - 1 day 14 hr 30 min
+1,885 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1562,6 +1562,7 @@
 | [Still Close](https://open.spotify.com/track/431Fk5tLpNaILhM62KbK63) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Daydreaming](https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8) | 1:27 | 2022-01-12 |  |
 | [Still Forever](https://open.spotify.com/track/5dhkr5MQdSMCTxDaHyKh3x) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Still Forever](https://open.spotify.com/album/1Q6bgTfR7lg8cSo3ujrot2) | 1:02 | 2022-08-15 |  |
 | [Still Hopeful](https://open.spotify.com/track/6rSwgcUBIL82Y7UPBqdpjS) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Dark Water Reflections](https://open.spotify.com/album/5ETwsA058XZZxRlmWKugi6) | 1:48 | 2022-01-20 | 2024-01-30 |
+| [Still Mind](https://open.spotify.com/track/5gBCHbiONQyrlGVKPNMek7) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Still Mind](https://open.spotify.com/album/6Bn2IzTmx2MsRI9n74snEC) | 1:00 | 2025-01-29 |  |
 | [Still Waters](https://open.spotify.com/track/5qYuEH005a4X1sF7OGFZbH) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Beautiful Dreams](https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T) | 1:47 | 2024-01-29 |  |
 | [Still, Still, Still \- Cello And Piano Version](https://open.spotify.com/track/6Esm8JPjr8W6Bg1YUvjxMr) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Still, Still, Still \(Cello And Piano Version\)](https://open.spotify.com/album/4F7Xa0xvo2OSnbwGrfKjZe) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Still, Still, Still \- Cello Version](https://open.spotify.com/track/5GtKYdQGPetiUYqEPWOzYG) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Two Versions Of Still, Still, Still](https://open.spotify.com/album/2AXok2gE8utAP0sjUKkdTw) | 1:01 | 2024-02-09 | 2024-02-13 |

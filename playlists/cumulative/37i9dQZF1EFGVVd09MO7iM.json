@@ -11674,7 +11674,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/2f2hbFjim051DVx0o8o4rU"
@@ -16750,17 +16750,13 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
+      "name": "Timeless",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

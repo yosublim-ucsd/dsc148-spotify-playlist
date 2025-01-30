@@ -4,7 +4,7 @@
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-167 songs - 9 hr 1 min
+168 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Gymnopédies: I\. Lent et Douloureux](https://open.spotify.com/track/4ZQAKQIaHNaC5wkRfqohyZ) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Aron Huxley](https://open.spotify.com/artist/6nRXav05rFHbHsnZKirS4V) | [Gymnopédie](https://open.spotify.com/album/36azCWetwctbxSzW10MPqc) | 2:53 | 2021-09-10 |  |
 | [Gyroscope](https://open.spotify.com/track/2dziNfL0S9awABp30vNN08) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Storytelling](https://open.spotify.com/album/4FYYpIBxJnSbW08oyU4xAP) | 3:07 | 2021-09-10 | 2024-04-19 |
 | [Gyroscope](https://open.spotify.com/track/54iPM8Ht4u1eoygcKf9gzM) | [Olovson](https://open.spotify.com/artist/76Jm6htPOTUvyERsqLWc9s) | [Gyroscope](https://open.spotify.com/album/1zw9I5WkLqef7toQ0o6B6U) | 3:08 | 2021-09-10 |  |
+| [Hankyu Denshya](https://open.spotify.com/track/23dVWxBH8kGbkRCuAJPxwj) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Hankyu Denshya](https://open.spotify.com/album/71K8CVaYH730CoI4CJrQLy) | 3:46 | 2025-01-29 |  |
 | [Home \- Piano Solo](https://open.spotify.com/track/3avAX0Q88utRsrqOm4xMb6) | [Unknown Neighbour](https://open.spotify.com/artist/35ZiX2rNhSUTzjwgwlSzYb) | [Home \(Piano Solo\)](https://open.spotify.com/album/78tl50sAyuWpEFDYTbmkYl) | 3:01 | 2021-09-10 |  |
 | [Home \- Piano Solo](https://open.spotify.com/track/75JVts01hVq9TzLgiuVmwC) | [Unknown Neighbour](https://open.spotify.com/artist/35ZiX2rNhSUTzjwgwlSzYb) | [Home](https://open.spotify.com/album/2BO6scTpheyzPwxbrmcLvq) | 3:01 | 2021-09-10 | 2024-04-19 |
 | [hymn for hope](https://open.spotify.com/track/6elm4qXYzTsH6w9EdAPStd) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [hymn for hope](https://open.spotify.com/album/7LypverlUKkMPGNqz6OTsf) | 2:33 | 2021-12-17 |  |

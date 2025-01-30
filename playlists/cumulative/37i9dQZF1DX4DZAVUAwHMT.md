@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Nova Twins
 
-845 songs - 1 day 22 hr 45 min
+846 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,6 +836,7 @@
 | [WISH ME LUCK](https://open.spotify.com/track/3jOguPISqOdYbXW3AEfaIi) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [WISH ME LUCK](https://open.spotify.com/album/2WQyNqZQwbO16FHAr6vVZS) | 3:23 | 2023-01-13 | 2023-01-20 |
 | [Wither](https://open.spotify.com/track/5uxQXNOEESKYas8Ln9qR6d) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Wither](https://open.spotify.com/album/6LAFrVD7Nz2LUWl6nxXEQw) | 4:11 | 2024-07-18 | 2024-08-09 |
 | [Won't Settle](https://open.spotify.com/track/56hGTwfJp5UKGxj92qSnyX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Won't Settle](https://open.spotify.com/album/6STKw95UhWbzYxTuusUzMW) | 4:06 | 2024-04-25 | 2024-06-21 |
+| [WONDERWaLL \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-29 |  |
 | [Words Lost Meaning](https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Words Lost Meaning](https://open.spotify.com/album/2erPcgak09jhbYN5UUfmbz) | 3:45 | 2024-11-22 |  |
 | [World Class Entertainment](https://open.spotify.com/track/5lpL6jOF11mnl4lNP6jJLu) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [World Class Entertainment](https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR) | 3:02 | 2024-03-09 | 2024-05-10 |
 | [Worry](https://open.spotify.com/track/4TBMUdlZiHHWRZPHMBIMq4) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Worry](https://open.spotify.com/album/1qISfk68iEjgZ4cG17YuEy) | 4:48 | 2024-06-13 | 2024-10-04 |

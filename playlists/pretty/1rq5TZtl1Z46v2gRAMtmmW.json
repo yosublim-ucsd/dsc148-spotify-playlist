@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30821,
+  "num_followers": 30822,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAP1p4c1dF+YRiGHzZ3h06VMIomgP9U",
+  "snapshot_id": "AAAP2H4l7dQQjku3i9NY4E0ho1irTJen",
   "tracks": [
     {
       "added_at": "2025-01-14 12:23:39",
@@ -163,30 +163,6 @@
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
-    },
-    {
-      "added_at": "2024-11-15 13:44:17",
-      "album": {
-        "name": "Otherside (Jasper Tygner Remix)",
-        "url": "https://open.spotify.com/album/79B8ebZHtuxsZ4lioIF6UZ"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
-        },
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 243423,
-      "name": "Otherside - Jasper Tygner Remix",
-      "url": "https://open.spotify.com/track/5nVMKc9crIiOReGVTVgs9e"
     },
     {
       "added_at": "2024-11-13 18:02:43",
@@ -771,6 +747,30 @@
       "duration_ms": 216480,
       "name": "Shaking Things Up",
       "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
+    {
+      "added_at": "2025-01-29 17:27:21",
+      "album": {
+        "name": "Bon Bon (Andrew VanWyngarden Remix)",
+        "url": "https://open.spotify.com/album/0wTIgS5XmNIbMu3FDknloH"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Andrew VanWyngarden",
+          "url": "https://open.spotify.com/artist/0SZWZaoD3G4jMjGPEB1IiG"
+        },
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 335168,
+      "name": "Bon Bon - Andrew VanWyngarden Remix",
+      "url": "https://open.spotify.com/track/4Ymu3zPYn8VNwLdGwrL598"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

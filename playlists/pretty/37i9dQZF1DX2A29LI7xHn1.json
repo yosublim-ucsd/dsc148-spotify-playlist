@@ -1,12 +1,12 @@
 {
   "description": "Crossing over like Allen I. Cover: BabyChiefDoIt",
-  "num_followers": 2120889,
+  "num_followers": 2121014,
   "original_name": "Signed XOXO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeigAAAAAVskjaKS00Bwndq1rNp8Vt",
+  "snapshot_id": "Z5pm3AAAAAD8TAtOYdq4UQMpFIAL9ABs",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:58",
@@ -287,6 +287,22 @@
     {
       "added_at": "2025-01-24 05:00:58",
       "album": {
+        "name": "GEMINI!",
+        "url": "https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 123413,
+      "name": "RIP",
+      "url": "https://open.spotify.com/track/0iBV6djrudVllSHVTSAJbB"
+    },
+    {
+      "added_at": "2025-01-24 05:00:58",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
@@ -294,14 +310,10 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
+      "name": "Timeless",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
@@ -375,6 +387,30 @@
       "duration_ms": 153333,
       "name": "305",
       "url": "https://open.spotify.com/track/494f07w2ArJNlkwnWWZViK"
+    },
+    {
+      "added_at": "2025-01-24 05:00:58",
+      "album": {
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q"
+      },
+      "artists": [
+        {
+          "name": "Sturdyyoungin",
+          "url": "https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs"
+        },
+        {
+          "name": "Ohthatsmizz",
+          "url": "https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "duration_ms": 125734,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6"
     },
     {
       "added_at": "2025-01-24 05:00:58",
@@ -679,22 +715,6 @@
     {
       "added_at": "2025-01-24 05:00:58",
       "album": {
-        "name": "GEMINI!",
-        "url": "https://open.spotify.com/album/1oocvwkq7m9gmJma0SceUi"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 123413,
-      "name": "RIP",
-      "url": "https://open.spotify.com/track/0iBV6djrudVllSHVTSAJbB"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
         "name": "Can't Hold Me Down",
         "url": "https://open.spotify.com/album/0p8DBORvuoUyEa2GrUFLff"
       },
@@ -723,30 +743,6 @@
       "duration_ms": 197626,
       "name": "Can't Hold Me Down",
       "url": "https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"
-    },
-    {
-      "added_at": "2025-01-24 05:00:58",
-      "album": {
-        "name": "TRIPPIN",
-        "url": "https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q"
-      },
-      "artists": [
-        {
-          "name": "Sturdyyoungin",
-          "url": "https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs"
-        },
-        {
-          "name": "Ohthatsmizz",
-          "url": "https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ"
-        },
-        {
-          "name": "ZEDDY WILL",
-          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
-        }
-      ],
-      "duration_ms": 125734,
-      "name": "TRIPPIN",
-      "url": "https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6"
     },
     {
       "added_at": "2025-01-24 05:00:58",
@@ -1680,7 +1676,7 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 278277,
+      "duration_ms": 278276,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },

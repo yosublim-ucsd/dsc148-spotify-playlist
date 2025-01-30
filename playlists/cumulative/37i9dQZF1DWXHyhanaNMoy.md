@@ -2,9 +2,9 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion en good vibes\. Cover: Dior
+> Twee exclusieve tracks van Dior!
 
-1,228 songs - 2 day 7 hr 1 min
+1,229 songs - 2 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Ding \(Soulely Remix\)](https://open.spotify.com/track/0ywVbVuBlATBsdEBLgWPD2) | [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Ross & Iba](https://open.spotify.com/artist/0EpHA41UBXFJIY0IOIoLPX), [Soulely](https://open.spotify.com/artist/4FMqK9VE5SrqgZDAX31OfZ), [Wolffman](https://open.spotify.com/artist/5NkN6Ri3xXy5RjWUFv2ILl) | [Ding \(Soulely Remix\)](https://open.spotify.com/album/1gseWuEddWg8dIECiyjtRv) | 2:28 | 2023-06-29 | 2023-09-01 |
 | [Dingen Die Ik Doe](https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:27 | 2023-09-14 | 2023-12-08 |
 | [Dingen Lopen](https://open.spotify.com/track/7JZlqpjLtu1xSNQ25W8XuL) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Dingen Lopen](https://open.spotify.com/album/6vr70WxnNqxoAdpKplE52V) | 2:24 | 2024-07-26 | 2024-10-04 |
+| [Distance](https://open.spotify.com/track/7A2xfq8yrRCsE6fmnpR4aZ) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Distance](https://open.spotify.com/album/6W7SJyTPVIKDxgdzePbgqX) | 3:22 | 2025-01-29 |  |
 | [DITA](https://open.spotify.com/track/74zIftyUMD0GRoZhlxrJiv) | [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [DITA](https://open.spotify.com/album/1KeIWgdiWC9CMbGGvp9Ugy) | 2:17 | 2022-09-01 | 2022-09-16 |
 | [Djo](https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 2:47 | 2023-06-01 | 2023-08-16 |
 | [DND](https://open.spotify.com/track/4E8EciYYzTKF4REO51XQiS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9) | 2:46 | 2023-11-30 | 2023-12-15 |
@@ -614,7 +615,7 @@
 | [LIEG TEGEN MIJ](https://open.spotify.com/track/58ackvPocCW9jRJIu05bj6) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Melissa Lopes](https://open.spotify.com/artist/67qIVZfLi2zNpwqyrrOMCP) | [LIEG TEGEN MIJ](https://open.spotify.com/album/0VLZxAGTufI4PpAfR48M6r) | 2:22 | 2024-11-14 |  |
 | [Liever Mezelf Niet](https://open.spotify.com/track/3j2mDTK0ypXPa24xLPHyS6) | [Machario](https://open.spotify.com/artist/3D3G9qcu6f9pBQMWa9YGXj) | [Liever Mezelf Niet](https://open.spotify.com/album/0tRorJVriSuBjHYih4ytee) | 2:43 | 2024-04-04 | 2024-04-26 |
 | [Life Is A Beach](https://open.spotify.com/track/3Z0WcZvat8eH1kn4mLer8s) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [Life Is A Beach](https://open.spotify.com/album/4TK5pOkXCTXDqgtC6E7g0H) | 2:23 | 2023-12-14 | 2024-01-26 |
-| [Lifestyle](https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Lifestyle](https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP) | 2:30 | 2024-11-21 |  |
+| [Lifestyle](https://open.spotify.com/track/2qlmUeRzIeX7w3r4DxKrV6) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx) | [Lifestyle](https://open.spotify.com/album/6ZOzClD5h6InA4zdIAWjGP) | 2:30 | 2024-11-21 |  |
 | [Likkle Riddim](https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Likkle Riddim](https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ) | 2:44 | 2022-10-06 | 2023-01-27 |
 | [Likkle Waist](https://open.spotify.com/track/14pNMaegnjYb1Kk3HKtepO) | [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Likkle Waist](https://open.spotify.com/album/4sWvbtrB7kGk3rqgFxCDIu) | 3:12 | 2023-01-19 | 2023-02-17 |
 | [Lil Mama](https://open.spotify.com/track/5YY0YoyqNTSaagwA9rmGRd) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Jordan Knows](https://open.spotify.com/artist/5PfjH7mhfa4dZf3SQhuzId), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Wat Jij Wil](https://open.spotify.com/album/47f9MXhBWPaS4H3nS7M6Fm) | 2:57 | 2023-03-02 | 2023-05-12 |

@@ -1,13 +1,61 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Saga Faye. Artwork by Paola Saliby",
-  "num_followers": 223166,
+  "description": "The best new pop music from new, independent artists.  Cover: Baby Nova. Artwork by Paola Saliby",
+  "num_followers": 223258,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5FHQAAAAACASw1W63VafaGAzSpeRhsN",
+  "snapshot_id": "Z5m15AAAAABmnjQLtNfVwCOx2gSISQgu",
   "tracks": [
+    {
+      "added_at": "2025-01-22 19:30:08",
+      "album": {
+        "name": "Killed For Sport",
+        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 254954,
+      "name": "Killed For Sport",
+      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "21st Century Cool Girl",
+        "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 197655,
+      "name": "21st Century Cool Girl",
+      "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "Live a Little Die a Lot",
+        "url": "https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l"
+      },
+      "artists": [
+        {
+          "name": "Virgin Miri",
+          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
+        }
+      ],
+      "duration_ms": 247192,
+      "name": "Back To Hell",
+      "url": "https://open.spotify.com/track/0argBvpz23uO6hbnS0Z3Rc"
+    },
     {
       "added_at": "2025-01-22 05:00:08",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 151979,
       "name": "Who are you?",
       "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "Ruin Me",
+        "url": "https://open.spotify.com/album/60yOfJpwmlp9osVmPWuhTR"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 142090,
+      "name": "Ruin Me",
+      "url": "https://open.spotify.com/track/4MP7zCh4D3eN2odDvQVxHm"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "You Really Must Hate Me!",
+        "url": "https://open.spotify.com/album/6QdILCa2oVAYhuUghAwo1m"
+      },
+      "artists": [
+        {
+          "name": "emerson",
+          "url": "https://open.spotify.com/artist/6LcSy8gx2Eb1FVRd1NoONZ"
+        }
+      ],
+      "duration_ms": 155262,
+      "name": "You Really Must Hate Me",
+      "url": "https://open.spotify.com/track/30mTMLLyO5HTsBwb404pNa"
     },
     {
       "added_at": "2025-01-22 05:00:08",
@@ -41,20 +121,100 @@
       "url": "https://open.spotify.com/track/5w3s73fS7K0Ld0FMjwWooE"
     },
     {
-      "added_at": "2025-01-22 19:30:08",
+      "added_at": "2025-01-29 05:00:20",
       "album": {
-        "name": "Killed For Sport",
-        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
+        "name": "bittersweet",
+        "url": "https://open.spotify.com/album/1V4FlWZwKV6EUuYcLFVflj"
       },
       "artists": [
         {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+          "name": "Pia Baris",
+          "url": "https://open.spotify.com/artist/2VVGojicJB7CS2lAfphtOc"
         }
       ],
-      "duration_ms": 254954,
-      "name": "Killed For Sport",
-      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
+      "duration_ms": 160695,
+      "name": "bittersweet",
+      "url": "https://open.spotify.com/track/6Uoek6k9ySYeXsugwK97Gi"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "Rebound",
+        "url": "https://open.spotify.com/album/39QZiIMZ50FLiKAtkRNbbt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Reigo",
+          "url": "https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi"
+        }
+      ],
+      "duration_ms": 158749,
+      "name": "Rebound",
+      "url": "https://open.spotify.com/track/1LVB1AVHpAPNpp1kzXJnkC"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "fake friends",
+        "url": "https://open.spotify.com/album/5x6CaYde9gncmDI5KpIKkQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Kate",
+          "url": "https://open.spotify.com/artist/1fIGYGeXGTQXAo1CuW7FaQ"
+        }
+      ],
+      "duration_ms": 178349,
+      "name": "fake friends",
+      "url": "https://open.spotify.com/track/00LyYWFek6Aunoo4ZDcIPO"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF"
+      },
+      "artists": [
+        {
+          "name": "Sara \u00c1ngel",
+          "url": "https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "ECHO",
+      "url": "https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "it's not my job to save you",
+        "url": "https://open.spotify.com/album/2IN1s06KoDDTvdIIjqxHNu"
+      },
+      "artists": [
+        {
+          "name": "GANN0N",
+          "url": "https://open.spotify.com/artist/3BHWqQ38qfUhzhHRbXCTFh"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "it's not my job to save you",
+      "url": "https://open.spotify.com/track/4DCYJmtXwK3UGRPokm2fos"
+    },
+    {
+      "added_at": "2025-01-29 05:00:20",
+      "album": {
+        "name": "again",
+        "url": "https://open.spotify.com/album/1hfy0wZ2H2YuUizte1SJt1"
+      },
+      "artists": [
+        {
+          "name": "Rifqy Pramudya",
+          "url": "https://open.spotify.com/artist/7GLqE3ylOloO3d0sRIA9MB"
+        }
+      ],
+      "duration_ms": 149879,
+      "name": "again",
+      "url": "https://open.spotify.com/track/0TIdcejZ8Pwt4b7DolfNEK"
     },
     {
       "added_at": "2025-01-22 05:00:08",
@@ -601,22 +761,6 @@
       "url": "https://open.spotify.com/track/23kB40iILpGJ03qrMTGbyj"
     },
     {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/5ovUHtnBEk8S10pKVTDDLh"
-      },
-      "artists": [
-        {
-          "name": "Virgin Miri",
-          "url": "https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/11BDQHOvdJQOtMU2gOzXX7"
-    },
-    {
       "added_at": "2025-01-09 01:56:28",
       "album": {
         "name": "ASTRO JET",
@@ -747,22 +891,6 @@
       "duration_ms": 198857,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/3hwAHQHiqMf4iXezEiLZRj"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
-        "name": "Hickey",
-        "url": "https://open.spotify.com/album/4pubbbVjGgzb3BRW3KM6G1"
-      },
-      "artists": [
-        {
-          "name": "Nik Salah",
-          "url": "https://open.spotify.com/artist/2rNH0OlbH0wKJrTFYrxlSB"
-        }
-      ],
-      "duration_ms": 227923,
-      "name": "Hickey",
-      "url": "https://open.spotify.com/track/0xTEdxlEr2p2e4XWclSmfI"
     },
     {
       "added_at": "2025-01-08 16:58:18",

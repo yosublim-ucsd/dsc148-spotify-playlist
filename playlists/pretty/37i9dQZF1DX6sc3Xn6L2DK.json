@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 38962,
+  "num_followers": 38970,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
-        "url": "https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ"
-      },
-      "artists": [
-        {
-          "name": "Ben Chapman",
-          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
-      "url": "https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
         "url": "https://open.spotify.com/album/3xXjZu3KT8TFfb9ObBmx9P"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 220699,
       "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
       "url": "https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
+        "url": "https://open.spotify.com/album/5SFyezJmbReKbEY2RHfmvZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Chapman",
+          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Is It Ever Really Gone (feat. Ashley Monroe)",
+      "url": "https://open.spotify.com/track/38mBWuyjz6bSJZeMsaanIr"
     },
     {
       "added_at": "2024-08-23 04:00:00",

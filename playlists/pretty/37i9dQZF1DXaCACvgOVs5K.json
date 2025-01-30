@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 624778,
+  "num_followers": 624933,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "Go Again",
+        "url": "https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS"
+      },
+      "artists": [
+        {
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 221190,
+      "name": "Go Again",
+      "url": "https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "World, Hold On (FISHER Rework)",
         "url": "https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 178304,
       "name": "World, Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "Go Again",
-        "url": "https://open.spotify.com/album/0AmyHld9NcSRLBm5VMXgWS"
-      },
-      "artists": [
-        {
-          "name": "Roger Sanchez",
-          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 221190,
-      "name": "Go Again",
-      "url": "https://open.spotify.com/track/1UX8fLMyjf4keyBNNg2dd7"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "If You Want My Loving",
+        "url": "https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 208814,
+      "name": "Motions",
+      "url": "https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "KILO (Beltran Remix)",
         "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 247384,
       "name": "KILO - Beltran Remix",
       "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "If You Want My Loving",
-        "url": "https://open.spotify.com/album/7DF7P83D9H9q6e6LXLr5JH"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        }
-      ],
-      "duration_ms": 208814,
-      "name": "Motions",
-      "url": "https://open.spotify.com/track/17uHvLtwD5GefKQECNBUv8"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "The Big Easy",
-        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 185519,
-      "name": "The Big Easy",
-      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
         "name": "Let It Go (with Marc E. Bassy)",
         "url": "https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt"
       },
@@ -1451,22 +1435,18 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
-        "name": "PAPI",
-        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+        "name": "The Big Easy",
+        "url": "https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Sam Collins",
-          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
         }
       ],
-      "duration_ms": 155100,
-      "name": "PAPI",
-      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+      "duration_ms": 185519,
+      "name": "The Big Easy",
+      "url": "https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1483,6 +1463,26 @@
       "duration_ms": 225488,
       "name": "Pump",
       "url": "https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
+        "name": "PAPI",
+        "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Sam Collins",
+          "url": "https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx"
+        }
+      ],
+      "duration_ms": 155100,
+      "name": "PAPI",
+      "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
     },
     {
       "added_at": "2024-09-26 23:00:00",
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2024-09-26 23:00:00",
       "album": {
+        "name": "PASSION",
+        "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        },
+        {
+          "name": "Guy Mac",
+          "url": "https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk"
+        }
+      ],
+      "duration_ms": 170019,
+      "name": "PASSION",
+      "url": "https://open.spotify.com/track/4nH6vRJssAD2IV2BmPdDqp"
+    },
+    {
+      "added_at": "2024-09-26 23:00:00",
+      "album": {
         "name": "For The Weekend",
         "url": "https://open.spotify.com/album/7pyBFzdn9AmZilactoHqeX"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 169722,
       "name": "For The Weekend",
       "url": "https://open.spotify.com/track/3TIVP3c5tT1rlDjAmzSaqF"
-    },
-    {
-      "added_at": "2024-09-26 23:00:00",
-      "album": {
-        "name": "PASSION",
-        "url": "https://open.spotify.com/album/730uPcrgLvBDD0RqtzlEPI"
-      },
-      "artists": [
-        {
-          "name": "Murphy's Law (UK)",
-          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
-        },
-        {
-          "name": "Guy Mac",
-          "url": "https://open.spotify.com/artist/7fj3pJOTCu7CxyEIJgaEKk"
-        }
-      ],
-      "duration_ms": 170019,
-      "name": "PASSION",
-      "url": "https://open.spotify.com/track/4nH6vRJssAD2IV2BmPdDqp"
     },
     {
       "added_at": "2024-09-26 23:00:00",

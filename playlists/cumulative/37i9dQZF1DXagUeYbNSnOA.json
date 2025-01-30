@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring FE7O. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Maria Nastenka. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 127469,
       "name": "21 de septiembre",
       "url": "https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz"
@@ -6139,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "Brazos Abiertos",
+        "url": "https://open.spotify.com/album/5uWyPuKhY9XYNaWUo3Zcis"
+      },
+      "artists": [
+        {
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263668,
+      "name": "Brazos Abiertos",
+      "url": "https://open.spotify.com/track/4Xtcaw6ZrpurMGXbsNVDPW"
+    },
+    {
+      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/6QsBDIZ6CRltVA7wTpjdoU"
       },
@@ -7297,6 +7315,24 @@
     },
     {
       "album": {
+        "name": "+ Rom\u00e1ntico Que B\u00e9lico",
+        "url": "https://open.spotify.com/album/6CCrAUOZXLTcEgdT8aN1kA"
+      },
+      "artists": [
+        {
+          "name": "Patrick Luna",
+          "url": "https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200448,
+      "name": "Carrusel",
+      "url": "https://open.spotify.com/track/0H3391zhWwufffjn85D9yN"
+    },
+    {
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -7334,7 +7370,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
@@ -7862,7 +7898,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 154736,
       "name": "chill like that",
       "url": "https://open.spotify.com/track/4SOATKNRpB8sInblW4G390"
@@ -9658,7 +9694,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 178736,
       "name": "Cuando Tus Ojos Me Ven",
       "url": "https://open.spotify.com/track/6IoFhWzXm4vMs7YaKrzR2Y"
@@ -14071,6 +14107,28 @@
     },
     {
       "album": {
+        "name": "El Mar (parece roto)",
+        "url": "https://open.spotify.com/album/4eoIU0UKHbJNbBbOpEp3aO"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Laguna",
+          "url": "https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362134,
+      "name": "El Mar (parece roto)",
+      "url": "https://open.spotify.com/track/0ARduJZzHGefGVwvbmaWFe"
+    },
+    {
+      "album": {
         "name": "Nuevo Mundo",
         "url": "https://open.spotify.com/album/2wZ0viSCWjtiNdfYhuSVfI"
       },
@@ -15701,6 +15759,24 @@
     },
     {
       "album": {
+        "name": "Eso no me salva de sentir tantas cosas",
+        "url": "https://open.spotify.com/album/0Rvs3OqyVun4vgPM7txlyB"
+      },
+      "artists": [
+        {
+          "name": "Maria Nastenka",
+          "url": "https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146815,
+      "name": "Eso no me salva de sentir tantas cosas",
+      "url": "https://open.spotify.com/track/2RJqV3ceer61cnAMNDprdt"
+    },
+    {
+      "album": {
         "name": "ESO VA",
         "url": "https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w"
       },
@@ -15788,7 +15864,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 141200,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
@@ -18890,7 +18966,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 177610,
       "name": "HORSES IN HEAVEN",
       "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
@@ -19983,6 +20059,28 @@
     },
     {
       "album": {
+        "name": "Irreversible",
+        "url": "https://open.spotify.com/album/1asjMbweetJ5tCtFXk88ix"
+      },
+      "artists": [
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/7eW92uO1go30tdK4XtqVPh"
+        },
+        {
+          "name": "Paul\u00e9",
+          "url": "https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193251,
+      "name": "Irreversible",
+      "url": "https://open.spotify.com/track/4UR1eSfuhyw8kPnt7n9IKU"
+    },
+    {
+      "album": {
         "name": "Isaiah",
         "url": "https://open.spotify.com/album/4ngPjAQHSNuv3rolN83Dhd"
       },
@@ -20482,6 +20580,24 @@
       "duration_ms": 178276,
       "name": "KONFESSION",
       "url": "https://open.spotify.com/track/21K0dvMfZvLzo0zwbDdm5V"
+    },
+    {
+      "album": {
+        "name": "KOTOTAMA",
+        "url": "https://open.spotify.com/album/4bA2oYmJ9lVxF08V5txCs7"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183305,
+      "name": "KOTOTAMA",
+      "url": "https://open.spotify.com/track/6RVVSN46ynII7PK3CtC8RR"
     },
     {
       "album": {
@@ -22840,7 +22956,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 103058,
       "name": "lo q necesitabas",
       "url": "https://open.spotify.com/track/3o4pKdMkldtuzgQC0axUNm"
@@ -24387,6 +24503,24 @@
     },
     {
       "album": {
+        "name": "MALDITO",
+        "url": "https://open.spotify.com/album/3LvSVqcnE2omJUEyOL7xkx"
+      },
+      "artists": [
+        {
+          "name": "Boca Paila",
+          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175581,
+      "name": "MALDITO",
+      "url": "https://open.spotify.com/track/34fhmfzIunIre0oFWA7i5M"
+    },
+    {
+      "album": {
         "name": "Male",
         "url": "https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA"
       },
@@ -24658,6 +24792,24 @@
       "duration_ms": 211169,
       "name": "Mares\u00eda",
       "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
+    },
+    {
+      "album": {
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/05jvlnycdJdCuVHjccbLcb"
+      },
+      "artists": [
+        {
+          "name": "Hammilton Bakerr",
+          "url": "https://open.spotify.com/artist/7vR9IezZzHgHZy1lvuSMBL"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/41a835ObgfBLcL7tFf22Ad"
     },
     {
       "album": {
@@ -26795,6 +26947,24 @@
     },
     {
       "album": {
+        "name": "MIRAMAR",
+        "url": "https://open.spotify.com/album/1yb3T8FSoURrTdcWh9iju6"
+      },
+      "artists": [
+        {
+          "name": "Venno",
+          "url": "https://open.spotify.com/artist/5fOKkqvcClPZKgw4zJgw7c"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "MIRAMAR",
+      "url": "https://open.spotify.com/track/3izJomVxaL37VCcmFrRY0s"
+    },
+    {
+      "album": {
         "name": "Mirarte Fue Alguna Vez Real",
         "url": "https://open.spotify.com/album/3AJvCkaXjoOPPQt1mtvtO3"
       },
@@ -27746,7 +27916,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 122000,
       "name": "M\u00e1s Na",
       "url": "https://open.spotify.com/track/7fybIO8OfDYAnIwOLzbVsL"
@@ -31952,6 +32122,24 @@
       "duration_ms": 266750,
       "name": "Palomita",
       "url": "https://open.spotify.com/track/4REEvg9YX5GW0YsmAf9ff7"
+    },
+    {
+      "album": {
+        "name": "PANORAMA!",
+        "url": "https://open.spotify.com/album/3sddDlGiHiA9TGyngkAsrj"
+      },
+      "artists": [
+        {
+          "name": "ARIEL",
+          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68382,
+      "name": "PANORAMA!",
+      "url": "https://open.spotify.com/track/1hO2Lf55jAUBrZ75toHjSX"
     },
     {
       "album": {
@@ -36378,7 +36566,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 189781,
       "name": "Sabor a Fresa",
       "url": "https://open.spotify.com/track/1m8PGcU3Wyoq53MmpRYIjX"
@@ -44838,7 +45026,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 146040,
       "name": "Vinitos",
       "url": "https://open.spotify.com/track/4DvbCo6FMTvrvw5wFcbFft"
@@ -45574,7 +45762,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 214000,
       "name": "woyo woyo",
       "url": "https://open.spotify.com/track/4pYPYPNIzIFOfBLwCMiNSv"
@@ -46118,6 +46306,24 @@
       "duration_ms": 203893,
       "name": "Yo nunca te dejo de amar",
       "url": "https://open.spotify.com/track/2vpJ7cjkfTf6hBFEZmRtr6"
+    },
+    {
+      "album": {
+        "name": "Yo Pienso Todo el Tiempo",
+        "url": "https://open.spotify.com/album/50H7MyA9yqIorR7JiwvOaM"
+      },
+      "artists": [
+        {
+          "name": "Sofia Monroy",
+          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182739,
+      "name": "Yo Pienso Todo el Tiempo",
+      "url": "https://open.spotify.com/track/6YjxQ9MVtFsLewvreZXHxq"
     },
     {
       "album": {

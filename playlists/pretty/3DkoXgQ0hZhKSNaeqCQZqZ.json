@@ -1,13 +1,105 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 470,
+  "num_followers": 472,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADJraYCY4dl8dPzcElrUq93nqUGY2s",
+  "snapshot_id": "AAADLCw+G5k8Hzt1hkDX/9eJ0epAmA/p",
   "tracks": [
+    {
+      "added_at": "2025-01-30 02:40:09",
+      "album": {
+        "name": "GLACIERS",
+        "url": "https://open.spotify.com/album/6hqZ7DTDeZRqWfUd0p7Mkg"
+      },
+      "artists": [
+        {
+          "name": "\u2665 GOJII \u2665",
+          "url": "https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY"
+        },
+        {
+          "name": "Whsprs",
+          "url": "https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h"
+        }
+      ],
+      "duration_ms": 183534,
+      "name": "GLACIERS",
+      "url": "https://open.spotify.com/track/5mGSP4oEKtNiKoBJcoBqvw"
+    },
+    {
+      "added_at": "2025-01-30 02:47:39",
+      "album": {
+        "name": "ONLY US, NEVER THEM",
+        "url": "https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY"
+      },
+      "artists": [
+        {
+          "name": "Jaylaflame",
+          "url": "https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U"
+        },
+        {
+          "name": "h i d a m a",
+          "url": "https://open.spotify.com/artist/4hwdD8J5z3iLG7uSg3w6sw"
+        }
+      ],
+      "duration_ms": 205732,
+      "name": "talk my shit",
+      "url": "https://open.spotify.com/track/1jpTjjQdD3lDxHhyd3BqXw"
+    },
+    {
+      "added_at": "2025-01-30 02:07:21",
+      "album": {
+        "name": "DIGITAL",
+        "url": "https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac"
+      },
+      "artists": [
+        {
+          "name": "BASSDOG",
+          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+        }
+      ],
+      "duration_ms": 198384,
+      "name": "DIGITAL",
+      "url": "https://open.spotify.com/track/3Ex7txNb9xZYMqPNV6i837"
+    },
+    {
+      "added_at": "2025-01-30 02:07:43",
+      "album": {
+        "name": "I DONT UNDERSTAND",
+        "url": "https://open.spotify.com/album/0XZN4GHwWZGy0oIz49oVu0"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        },
+        {
+          "name": "Mek-9",
+          "url": "https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ"
+        }
+      ],
+      "duration_ms": 188181,
+      "name": "I DONT UNDERSTAND",
+      "url": "https://open.spotify.com/track/74KNOo0ILoRMyD7NT5gDgy"
+    },
+    {
+      "added_at": "2025-01-23 07:22:11",
+      "album": {
+        "name": "you get me fucked",
+        "url": "https://open.spotify.com/album/6E0Tj9BcRkX42CXonRWktp"
+      },
+      "artists": [
+        {
+          "name": "lambcatz",
+          "url": "https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t"
+        }
+      ],
+      "duration_ms": 82758,
+      "name": "you get me fucked",
+      "url": "https://open.spotify.com/track/5TdU9RvPbL1OIOyIc1D71d"
+    },
     {
       "added_at": "2025-01-27 04:22:50",
       "album": {
@@ -119,22 +211,6 @@
       "duration_ms": 129503,
       "name": "Gorveve",
       "url": "https://open.spotify.com/track/2golnpSgmVjIgUjvlz4CWk"
-    },
-    {
-      "added_at": "2025-01-23 07:22:11",
-      "album": {
-        "name": "you get me fucked",
-        "url": "https://open.spotify.com/album/6E0Tj9BcRkX42CXonRWktp"
-      },
-      "artists": [
-        {
-          "name": "lambcatz",
-          "url": "https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t"
-        }
-      ],
-      "duration_ms": 82758,
-      "name": "you get me fucked",
-      "url": "https://open.spotify.com/track/5TdU9RvPbL1OIOyIc1D71d"
     },
     {
       "added_at": "2025-01-25 02:26:36",
@@ -395,22 +471,6 @@
       "duration_ms": 191232,
       "name": "PUNCTURE WOUND",
       "url": "https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0"
-    },
-    {
-      "added_at": "2025-01-18 02:13:48",
-      "album": {
-        "name": "DIGITAL",
-        "url": "https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac"
-      },
-      "artists": [
-        {
-          "name": "BASSDOG",
-          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
-        }
-      ],
-      "duration_ms": 198384,
-      "name": "DIGITAL",
-      "url": "https://open.spotify.com/track/3Ex7txNb9xZYMqPNV6i837"
     },
     {
       "added_at": "2025-01-17 00:02:43",

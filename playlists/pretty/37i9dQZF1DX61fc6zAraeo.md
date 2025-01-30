@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,790 likes - 90 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,800 likes - 90 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 79 | [Everytime Next To Me \(feat\. Robin Bengtsson\)](https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p) | [Lucky Rose](https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E), [Fragma](https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Everytime Next To Me \(feat\. Robin Bengtsson\)](https://open.spotify.com/album/3dYEuiemAuSbrPbAFb3XMr) | 2:40 |
 | 80 | [Nothing Left To Say](https://open.spotify.com/track/3MxZYK11pAciPApseszdNu) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Nothing Left To Say](https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP) | 2:53 |
 | 81 | [Save Me](https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY) | [LV](https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q) | [Save Me](https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS) | 2:19 |
-| 82 | [Hidden Signs](https://open.spotify.com/track/5Y8MD5KkcEd6BZUHRz7oJN) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Hidden Signs](https://open.spotify.com/album/1uG3AXNoQ9icJLnXbxxwxm) | 2:33 |
+| 82 | [A2](https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [A2](https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP) | 2:27 |
 | 83 | [Waste My Time](https://open.spotify.com/track/4KN3Ic9B9lCJ60drS78Pe8) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Waste My Time](https://open.spotify.com/album/11IxazZzeXvHoxyicCZ7JY) | 2:33 |
-| 84 | [Fading Touch \(feat\. MarynCharlie\)](https://open.spotify.com/track/3t473R8lp2TIOabS79ycor) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Fading Touch \(feat\. MarynCharlie\)](https://open.spotify.com/album/1rL05Ac13OD7ecxgWJiswB) | 3:21 |
-| 85 | [Rapture](https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq) | [Makasi](https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6), [Dannii Murphy](https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI) | [Rapture](https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg) | 3:34 |
-| 86 | [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 |
-| 87 | [Ripped](https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM) | [Ripped](https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6) | 3:04 |
-| 88 | [A2](https://open.spotify.com/track/3tEiz9H5kUnu6dNfsuZSeR) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx) | [A2](https://open.spotify.com/album/6SZRUIf1d6HUVaDWsCsWCP) | 2:27 |
-| 89 | [Heart](https://open.spotify.com/track/1kG7q5rv5O4LDeM4PBhsl6) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [Heart](https://open.spotify.com/album/2LPFDyTQCeesUKrI4BH4WW) | 2:53 |
-| 90 | [Don’t Lead Anywhere](https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [Don’t Lead Anywhere](https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9) | 2:07 |
+| 84 | [Hidden Signs](https://open.spotify.com/track/5Y8MD5KkcEd6BZUHRz7oJN) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Hidden Signs](https://open.spotify.com/album/1uG3AXNoQ9icJLnXbxxwxm) | 2:33 |
+| 85 | [Fading Touch \(feat\. MarynCharlie\)](https://open.spotify.com/track/3t473R8lp2TIOabS79ycor) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL) | [Fading Touch \(feat\. MarynCharlie\)](https://open.spotify.com/album/1rL05Ac13OD7ecxgWJiswB) | 3:21 |
+| 86 | [Rapture](https://open.spotify.com/track/4zvBl1Qn1ZeTW4jkdnrEuq) | [Makasi](https://open.spotify.com/artist/6eV9xjvttxeYB2iST5hfT6), [Dannii Murphy](https://open.spotify.com/artist/3TmtulA8Wifl6Mt8c0JwtI) | [Rapture](https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg) | 3:34 |
+| 87 | [Gibberish](https://open.spotify.com/track/7oxqFjliHMXfcGbezxQaWc) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Gibberish](https://open.spotify.com/album/1i5z3OweX0CKIJilrAw9Nq) | 2:33 |
+| 88 | [Ripped](https://open.spotify.com/track/4myFbg33jYjxnwVORNZVVK) | [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM) | [Ripped](https://open.spotify.com/album/4ja6Z1907VEhH6KqJUPxZ6) | 3:04 |
+| 89 | [Don’t Lead Anywhere](https://open.spotify.com/track/4u1sq1VQW1roBeLsQ9aUzq) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A) | [Don’t Lead Anywhere](https://open.spotify.com/album/7Cfo3SJMIztFNrnkBARuT9) | 2:07 |
+| 90 | [On Top Of Me](https://open.spotify.com/track/5dCM0c2LK8AFre0kDFnlal) | [MACKS](https://open.spotify.com/artist/3VTewdBCJtkpWW6lSFlDOy) | [On Top Of Me](https://open.spotify.com/album/58uvbiKJR7O14KuU6hTkbz) | 2:58 |
 
 Snapshot ID: `Z5dLLgAAAABnq2DAa3//FDQ0csWtLgdQ`

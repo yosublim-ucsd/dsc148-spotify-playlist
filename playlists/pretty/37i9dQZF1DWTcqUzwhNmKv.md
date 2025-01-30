@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Killswitch Engage on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532,497 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,532,578 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 29 | [Better Written Villain](https://open.spotify.com/track/6BuRHBZMDfvvp87RCvc1fA) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [People Watching](https://open.spotify.com/album/1PRvYCv9h0rlR4AP54yOnN) | 3:43 |
 | 30 | [Small Town Syndrome](https://open.spotify.com/track/1iF43TRxhGRq1ZUCnHrjXr) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Make Them Suffer](https://open.spotify.com/album/4IlFCPiC0DlO0wip7BjQwr) | 3:48 |
 | 31 | [nerv](https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [nerv](https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao) | 3:12 |
-| 32 | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf) | 3:52 |
+| 32 | [Atonement \- feat\. Will Ramos](https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf) | 3:52 |
 | 33 | [Coda](https://open.spotify.com/track/4zBtXmFDYbMUW40yF7VV3H) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Coda](https://open.spotify.com/album/5GaHWICFVGzEGg8ndmQmsP) | 4:09 |
 | 34 | [Spineless](https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Keep Planting Flowers](https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR) | 3:23 |
 | 35 | [Chains \(The Tower\)](https://open.spotify.com/track/158lKbSQmYwxDU9rQpN11R) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Death Card](https://open.spotify.com/album/2fcTgvULqmDLlE5nX0GJ5S) | 3:14 |

@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1068390,
+  "num_followers": 1068464,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Video Knights",
+        "url": "https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb"
+      },
+      "artists": [
+        {
+          "name": "spring gang",
+          "url": "https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf"
+        }
+      ],
+      "duration_ms": 252729,
+      "name": "Video Knights",
+      "url": "https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Flashing Sirens",
         "url": "https://open.spotify.com/album/4bNmE4x4vOL6oY32I33dvf"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 162666,
       "name": "Flashing Sirens",
       "url": "https://open.spotify.com/track/2Qo0EdObfe4sCsiR7grstZ"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Video Knights",
-        "url": "https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb"
-      },
-      "artists": [
-        {
-          "name": "spring gang",
-          "url": "https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf"
-        }
-      ],
-      "duration_ms": 252729,
-      "name": "Video Knights",
-      "url": "https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Synth City",
-        "url": "https://open.spotify.com/album/2bCp88gEYdTDe9fHdhvXZP"
-      },
-      "artists": [
-        {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
-        }
-      ],
-      "duration_ms": 217525,
-      "name": "Synth City",
-      "url": "https://open.spotify.com/track/4YdWRIPolAXD21GYYPndLv"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/3b7zXxAnACY66H0JnV6EBU"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 190998,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/2MCHEtkqXvG4uxuC7IOJQ8"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Synth City",
+        "url": "https://open.spotify.com/album/2bCp88gEYdTDe9fHdhvXZP"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "duration_ms": 217525,
+      "name": "Synth City",
+      "url": "https://open.spotify.com/track/4YdWRIPolAXD21GYYPndLv"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Sorcery",
+        "url": "https://open.spotify.com/album/4IYbrkAnrVG6gtK4vDJvIn"
+      },
+      "artists": [
+        {
+          "name": "The Toxic Avenger",
+          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
+        }
+      ],
+      "duration_ms": 318918,
+      "name": "Sorcery",
+      "url": "https://open.spotify.com/track/4HWC8Ymr2TlkTo97ttMiIq"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/4ZmQvbyzljKnOcfC6ZOb3j"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 223600,
       "name": "Wave",
       "url": "https://open.spotify.com/track/2Kdn0lEqOL7wG64z5AZVjy"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Sorcery",
-        "url": "https://open.spotify.com/album/4IYbrkAnrVG6gtK4vDJvIn"
-      },
-      "artists": [
-        {
-          "name": "The Toxic Avenger",
-          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
-        }
-      ],
-      "duration_ms": 318918,
-      "name": "Sorcery",
-      "url": "https://open.spotify.com/track/4HWC8Ymr2TlkTo97ttMiIq"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "hypercaste",
         "url": "https://open.spotify.com/album/6ftBu7bSdQneyhD2gujdCI"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Space Between Us",
-        "url": "https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Space Between Us",
-      "url": "https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "New & Improved",
         "url": "https://open.spotify.com/album/6APL7yTnNNrNuicsZdIMaa"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Lost in the Cloud",
-        "url": "https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx"
-      },
-      "artists": [
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Lost in the Cloud",
-      "url": "https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Lost in the Cloud",
+        "url": "https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx"
+      },
+      "artists": [
+        {
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lost in the Cloud",
+      "url": "https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "City Lights",
         "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 200019,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K"
-      },
-      "artists": [
-        {
-          "name": "The Ambientalist",
-          "url": "https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0IM9N6WkhOq0cZVvLK2dmk"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -683,18 +667,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Argon Prime (From \u201cin Search of Tomorrow\u201d)",
-        "url": "https://open.spotify.com/album/31kky74Q1UeLzsREiCVyFp"
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2GJorQf4gLBvBzSucWHs8K"
       },
       "artists": [
         {
-          "name": "Zombie Hyperdrive",
-          "url": "https://open.spotify.com/artist/72naL8vQVNsx85zPLuTSWf"
+          "name": "The Ambientalist",
+          "url": "https://open.spotify.com/artist/5xBLaP5VZsRpSXhtHE8xlj"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Argon Prime (From \u201cin Search of Tomorrow\u201d)",
-      "url": "https://open.spotify.com/track/0Ze0BHOGmP7dam4zPuTGrU"
+      "duration_ms": 204631,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0IM9N6WkhOq0cZVvLK2dmk"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -711,6 +695,22 @@
       "duration_ms": 270317,
       "name": "Tsukuyomi",
       "url": "https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Argon Prime (From \u201cin Search of Tomorrow\u201d)",
+        "url": "https://open.spotify.com/album/31kky74Q1UeLzsREiCVyFp"
+      },
+      "artists": [
+        {
+          "name": "Zombie Hyperdrive",
+          "url": "https://open.spotify.com/artist/72naL8vQVNsx85zPLuTSWf"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Argon Prime (From \u201cin Search of Tomorrow\u201d)",
+      "url": "https://open.spotify.com/track/0Ze0BHOGmP7dam4zPuTGrU"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "D.I.V.I.N.E",
+        "url": "https://open.spotify.com/album/43qAcL5ZxeONy7X5yZbDBh"
+      },
+      "artists": [
+        {
+          "name": "DEPARTURE",
+          "url": "https://open.spotify.com/artist/1hKMcEF7YVRkjXMRpl6aqN"
+        }
+      ],
+      "duration_ms": 226064,
+      "name": "D.I.V.I.N.E",
+      "url": "https://open.spotify.com/track/2h5zgTg4wfn7UR1mzFrDZK"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 180559,
       "name": "End",
       "url": "https://open.spotify.com/track/6A7iBgMQ0MEeJvn5q1mQe0"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "D.I.V.I.N.E",
-        "url": "https://open.spotify.com/album/43qAcL5ZxeONy7X5yZbDBh"
-      },
-      "artists": [
-        {
-          "name": "DEPARTURE",
-          "url": "https://open.spotify.com/artist/1hKMcEF7YVRkjXMRpl6aqN"
-        }
-      ],
-      "duration_ms": 226064,
-      "name": "D.I.V.I.N.E",
-      "url": "https://open.spotify.com/track/2h5zgTg4wfn7UR1mzFrDZK"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Remoteness",
-        "url": "https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF"
-      },
-      "artists": [
-        {
-          "name": "Donbor",
-          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
-        }
-      ],
-      "duration_ms": 344347,
-      "name": "Remoteness",
-      "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC"
+        "name": "Remoteness",
+        "url": "https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF"
       },
       "artists": [
         {
-          "name": "Mezhdunami",
-          "url": "https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw"
+          "name": "Donbor",
+          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
         }
       ],
-      "duration_ms": 169988,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C"
+      "duration_ms": 344347,
+      "name": "Remoteness",
+      "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1387,22 +1371,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "I Don't Need a Hero (Cody Crump Remix)",
-        "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/7LMWsIsL8HQ9K86boDvkyC"
       },
       "artists": [
         {
-          "name": "Danz CM",
-          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
-        },
-        {
-          "name": "Cody Crump",
-          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
+          "name": "Mezhdunami",
+          "url": "https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw"
         }
       ],
-      "duration_ms": 183841,
-      "name": "I Don't Need a Hero - Cody Crump Remix",
-      "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
+      "duration_ms": 169988,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2JcBe9Zdgsmv5lVXxCBi6C"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1427,6 +1407,26 @@
       "duration_ms": 235862,
       "name": "Fractal Forms",
       "url": "https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "I Don't Need a Hero (Cody Crump Remix)",
+        "url": "https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54"
+      },
+      "artists": [
+        {
+          "name": "Danz CM",
+          "url": "https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD"
+        },
+        {
+          "name": "Cody Crump",
+          "url": "https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7"
+        }
+      ],
+      "duration_ms": 183841,
+      "name": "I Don't Need a Hero - Cody Crump Remix",
+      "url": "https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Metaversal",
-        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
+        "name": "Shift",
+        "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
       },
       "artists": [
         {
-          "name": "BT",
-          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
         }
       ],
-      "duration_ms": 339333,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
+      "duration_ms": 218666,
+      "name": "Shift",
+      "url": "https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Shift",
-        "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
+        "name": "Metaversal",
+        "url": "https://open.spotify.com/album/1FpK976ZQI5ZyK9OG0w6VK"
       },
       "artists": [
         {
-          "name": "Voyage",
-          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Shift",
-      "url": "https://open.spotify.com/track/0aBLmDTJtueByhtIZGBQWs"
+      "duration_ms": 339333,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7cdI3jKrQpQqwb078eBQia"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Polarity",
-        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
-      },
-      "artists": [
-        {
-          "name": "Decisive Koala",
-          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Days Away",
-      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Temporarity (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 258000,
       "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
       "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Polarity",
+        "url": "https://open.spotify.com/album/2IvQe3ZipKQopJijA2zqu1"
+      },
+      "artists": [
+        {
+          "name": "Decisive Koala",
+          "url": "https://open.spotify.com/artist/4WWpuWvJQum5ylWMjvDPHT"
+        },
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Days Away",
+      "url": "https://open.spotify.com/track/5DNfjeNIHxY4WMA5yzBCFy"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Pathfinder",
+        "url": "https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy"
+      },
+      "artists": [
+        {
+          "name": "Odyssette",
+          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Pathfinder",
+      "url": "https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Why?",
         "url": "https://open.spotify.com/album/5QTDZ9YYznQVSu1RIQHnO6"
       },
@@ -1843,18 +1859,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Pathfinder",
-        "url": "https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy"
+        "name": "October",
+        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
       },
       "artists": [
         {
-          "name": "Odyssette",
-          "url": "https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ"
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
         }
       ],
-      "duration_ms": 224760,
-      "name": "Pathfinder",
-      "url": "https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf"
+      "duration_ms": 278130,
+      "name": "October",
+      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1871,22 +1887,6 @@
       "duration_ms": 278400,
       "name": "Lullabye",
       "url": "https://open.spotify.com/track/5kM9irKTHb7sYWbmxxK2Dq"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 278130,
-      "name": "October",
-      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1951,6 +1951,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Teenage Dreams",
+        "url": "https://open.spotify.com/album/5kXBWACLETvBqSSAPJk66T"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "duration_ms": 208032,
+      "name": "Teenage Dreams",
+      "url": "https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "We Find Ourselves",
         "url": "https://open.spotify.com/album/3dS5r7ExDztGYhuZMJ1SLJ"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 219609,
       "name": "We Find Ourselves - Edit",
       "url": "https://open.spotify.com/track/2AXZRDQz6fC6KthbMytyi5"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Teenage Dreams",
-        "url": "https://open.spotify.com/album/5kXBWACLETvBqSSAPJk66T"
-      },
-      "artists": [
-        {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
-        }
-      ],
-      "duration_ms": 208032,
-      "name": "Teenage Dreams",
-      "url": "https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
+        "url": "https://open.spotify.com/album/6XxTmqYYY1bLeuDWEvEF26"
+      },
+      "artists": [
+        {
+          "name": "Stilz",
+          "url": "https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ"
+        }
+      ],
+      "duration_ms": 310090,
+      "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
+      "url": "https://open.spotify.com/track/7Czxw27ltogod83b0w9lra"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Sweet Gold (Ishi Rework)",
         "url": "https://open.spotify.com/album/41ZcvkwalOB9ysrTUINMWJ"
       },
@@ -2279,22 +2295,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
-        "url": "https://open.spotify.com/album/6XxTmqYYY1bLeuDWEvEF26"
-      },
-      "artists": [
-        {
-          "name": "Stilz",
-          "url": "https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ"
-        }
-      ],
-      "duration_ms": 310090,
-      "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
-      "url": "https://open.spotify.com/track/7Czxw27ltogod83b0w9lra"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Hurts",
         "url": "https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf"
       },
@@ -2307,22 +2307,6 @@
       "duration_ms": 212000,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/6pJtuH0lfbCi98JDr166Uy"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
-      },
-      "artists": [
-        {
-          "name": "Older Future",
-          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
-        }
-      ],
-      "duration_ms": 307747,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2355,6 +2339,22 @@
       "duration_ms": 193043,
       "name": "Across Dark Sky",
       "url": "https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
+      },
+      "artists": [
+        {
+          "name": "Older Future",
+          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
+        }
+      ],
+      "duration_ms": 307747,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Turnover",
-        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
-      },
-      "artists": [
-        {
-          "name": "Envotion",
-          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
-        }
-      ],
-      "duration_ms": 185100,
-      "name": "Turnover",
-      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Redux",
         "url": "https://open.spotify.com/album/0b5r4vfvbVrlBsrNOzrw5c"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 144000,
       "name": "Redux",
       "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Turnover",
+        "url": "https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd"
+      },
+      "artists": [
+        {
+          "name": "Envotion",
+          "url": "https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS"
+        }
+      ],
+      "duration_ms": 185100,
+      "name": "Turnover",
+      "url": "https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2591,22 +2591,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
-      },
-      "artists": [
-        {
-          "name": "SHADU",
-          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "From The Bottom Of My Heart",
         "url": "https://open.spotify.com/album/6lFso6UovOAGFR1BtYXfHp"
       },
@@ -2619,6 +2603,22 @@
       "duration_ms": 350920,
       "name": "From The Bottom Of My Heart",
       "url": "https://open.spotify.com/track/57Plqw6EXfqcQ2AJrdWLOS"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/639aaBeF4sstTeoyHqnakF"
+      },
+      "artists": [
+        {
+          "name": "SHADU",
+          "url": "https://open.spotify.com/artist/6H8SLujG7SG0QxrMoi9V7C"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0tiOJtm4uLZJ6qewg7Ck70"
     },
     {
       "added_at": "2024-09-11 17:46:02",

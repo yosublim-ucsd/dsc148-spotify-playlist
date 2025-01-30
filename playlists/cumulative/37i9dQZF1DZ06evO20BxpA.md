@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-121 songs - 5 hr 24 min
+122 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,10 +53,11 @@
 | [Imagining the Future \- Instrumental](https://open.spotify.com/track/2HgYB7U7BMZwmXkMKAQ4Af) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:40 | 2023-08-04 |  |
 | [Is This Mercy?](https://open.spotify.com/track/543gCwDA6Ad6qndc6JdsmQ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 3:34 | 2025-01-27 |  |
 | [ISS](https://open.spotify.com/track/73zoZwGgo5COLshBxDQruY) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 2:53 | 2024-03-15 |  |
+| [It Is The Law](https://open.spotify.com/track/7sZsdoPTOOWMyK5huLCTWL) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [William Tell \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/42FYWCACqKLvFjFSXJXJq4) | 2:15 | 2025-01-30 |  |
 | [It's Good to Meet New People](https://open.spotify.com/track/1MIzdetw6fjVZorGWKeROJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:22 | 2023-10-04 | 2025-01-18 |
 | [Italian Marble](https://open.spotify.com/track/0dF8fMC85sOBo3uMUe6pWH) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3HLGJ4yTtnjUtVjNbg2vcl) | 1:28 | 2023-09-25 | 2024-02-29 |
 | [Jungles](https://open.spotify.com/track/1NaKI3qpnedSMNEMGRFggD) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Jungles \(Episode 3 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/6mo0cOVfG6KHW1KgGmT2es) | 1:36 | 2023-08-04 | 2023-09-13 |
-| [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 | 2023-08-09 |  |
+| [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 | 2023-08-09 | 2025-01-30 |
 | [Life's Talent For Change](https://open.spotify.com/track/27Q2SjswXjzfZVWlBR5Z4e) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 5:03 | 2024-08-10 | 2024-08-23 |
 | [Lifeless Again](https://open.spotify.com/track/7dOrs9015T264sTjQj09E8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 1:57 | 2023-08-04 | 2023-08-14 |
 | [Like the Sea Is Breathing](https://open.spotify.com/track/1RXuoOVAufKpauBFcLy8Bt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 2:25 | 2023-08-04 | 2023-09-03 |

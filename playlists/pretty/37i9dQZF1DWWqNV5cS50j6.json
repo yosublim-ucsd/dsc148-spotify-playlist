@@ -1,13 +1,29 @@
 {
   "description": "Alternative indie music etc. Cover: Roy Blair",
-  "num_followers": 746647,
+  "num_followers": 746613,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4qNBQAAAAD60GQNuxY65CzTytcN5ASy",
+  "snapshot_id": "Z5qefwAAAADX7mxCf+FxSeMRTOfO9Oh7",
   "tracks": [
+    {
+      "added_at": "2025-01-29 21:32:47",
+      "album": {
+        "name": "MISS ME?",
+        "url": "https://open.spotify.com/album/3cJ0inyTwpiEqKRxnPpeJ9"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 126680,
+      "name": "MISS ME?",
+      "url": "https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r"
+    },
     {
       "added_at": "2024-11-15 19:49:16",
       "album": {

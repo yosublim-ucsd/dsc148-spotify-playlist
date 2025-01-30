@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,178 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,204 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,19 +71,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 61 | [Edge of Surrender](https://open.spotify.com/track/6kuS8eAII4AdddzXU5irsW) | [Mi\-kaisha](https://open.spotify.com/artist/2nDEgpZ9zmM7cqkdUab6Tr) | [Edge of Surrender](https://open.spotify.com/album/12ss4gOADhZxmtPjVS0dyf) | 4:16 |
 | 62 | [Wait](https://open.spotify.com/track/6u4DSrgxLXATEgwZSaaQHI) | [Heleina Zara](https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF) | [Wait](https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O) | 3:11 |
 | 63 | [Madly In Love](https://open.spotify.com/track/0OnKmnPGGteBmZ6Z3Oxxwy) | [Tobias Floor](https://open.spotify.com/artist/28f3TK0ZklHj7JKNVB8BqB) | [Madly In Love](https://open.spotify.com/album/4JJrksSXSaD4OcZvroeTV3) | 3:43 |
-| 64 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
-| 65 | [Is It Worth Being Sad](https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/2pfUy25RS4yTTWpA4bfCge) | 4:01 |
-| 66 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 |
-| 67 | [Lullaby](https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Lullaby](https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF) | 2:28 |
-| 68 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 |
+| 64 | [Is It Worth Being Sad](https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/2pfUy25RS4yTTWpA4bfCge) | 4:01 |
+| 65 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 |
+| 66 | [Lullaby](https://open.spotify.com/track/7pkZMkcojXx5fG6DpdLhiF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Lullaby](https://open.spotify.com/album/5ci1cWpUPVQw6k5zU54eRF) | 2:28 |
+| 67 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 |
+| 68 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
 | 69 | [You'll Never Know Me Sober](https://open.spotify.com/track/3FZX4Pg6RnaBqAXgeUx5FK) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [You'll Never Know Me Sober](https://open.spotify.com/album/4VC6vdo96S3JOJmeUYW88U) | 3:13 |
 | 70 | [For Oli](https://open.spotify.com/track/7FNBpx4om1iQcUPnyGqdMG) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [For Oli](https://open.spotify.com/album/4oKKOTdzrkbucK3RwrvYXI) | 3:23 |
-| 71 | [Letter](https://open.spotify.com/track/60uatEuP0mKDRp1pZFMox7) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Letter](https://open.spotify.com/album/45KJEa5bL7lxWpVtH4Qt70) | 3:09 |
-| 72 | [Mercy](https://open.spotify.com/track/4MB87UHsD18uievFjjo737) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Mercy](https://open.spotify.com/album/6tc5626s6b7NI34UlJKH0X) | 3:54 |
-| 73 | [Do You See Me](https://open.spotify.com/track/7Mo5xjXd4dccZhmqHDD12t) | [Dan Sultan](https://open.spotify.com/artist/35l8C1gkJPCOqrVPiCiICR) | [Do You See Me](https://open.spotify.com/album/7dRTJTJmi4hxWW0ADcJc4Y) | 3:39 |
+| 71 | [Mercy](https://open.spotify.com/track/4MB87UHsD18uievFjjo737) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Mercy](https://open.spotify.com/album/6tc5626s6b7NI34UlJKH0X) | 3:54 |
+| 72 | [Do You See Me](https://open.spotify.com/track/7Mo5xjXd4dccZhmqHDD12t) | [Dan Sultan](https://open.spotify.com/artist/35l8C1gkJPCOqrVPiCiICR) | [Do You See Me](https://open.spotify.com/album/7dRTJTJmi4hxWW0ADcJc4Y) | 3:39 |
+| 73 | [Letter](https://open.spotify.com/track/60uatEuP0mKDRp1pZFMox7) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Letter](https://open.spotify.com/album/45KJEa5bL7lxWpVtH4Qt70) | 3:09 |
 | 74 | [Stay](https://open.spotify.com/track/4B3IN8Sixp7nToUW7AF3Zx) | [Eliza Hull](https://open.spotify.com/artist/1zccMq9Jsy1X4Cs6uQ1T4M) | [Here They Come](https://open.spotify.com/album/0xFyzrWzYYyRD5H8eVW8QO) | 4:12 |
-| 75 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 |
-| 76 | [Love is](https://open.spotify.com/track/6gVUVgC2NfhOucSkAEu5MC) | [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Love is](https://open.spotify.com/album/6KAjESvcnTcu2IGlfAXfj1) | 2:00 |
+| 75 | [Love is](https://open.spotify.com/track/6gVUVgC2NfhOucSkAEu5MC) | [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Love is](https://open.spotify.com/album/6KAjESvcnTcu2IGlfAXfj1) | 2:00 |
+| 76 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 |
 | 77 | [Arrived](https://open.spotify.com/track/0kT06I5dLlP64u7kloklLS) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Arrived](https://open.spotify.com/album/48MYOEQZ33MT69BNB3DuBY) | 3:42 |
 | 78 | [Bootleg Firecracker \- Nighttime Piano Version](https://open.spotify.com/track/1nh8UCTZBvmMtdPJtl2mML) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Bootleg Firecracker \(Nighttime Piano Version\)](https://open.spotify.com/album/6SlfLPcW4lmtB9PuL7BAjG) | 2:34 |
 | 79 | [Parachute](https://open.spotify.com/track/5mj1vlO55sNKmj9SqGalAI) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Parachute](https://open.spotify.com/album/5I2hhY2vmuHgafQZzSnDmv) | 3:04 |

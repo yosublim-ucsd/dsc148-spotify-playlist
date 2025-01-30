@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,813 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,874 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 49 | [How Do You Do \- Noiseflow Remix](https://open.spotify.com/track/0ClK0kraL0xQWHiCmwFD20) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [How Do You Do \(Noiseflow Remix\)](https://open.spotify.com/album/3UGfu2ehCfAY0qSBVOusfm) | 2:33 |
 | 50 | [Mysterious Times](https://open.spotify.com/track/4kScQ3eRXSt6SSfsFmsBLW) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Mysterious Times](https://open.spotify.com/album/4RhzZjK0CIQsLgWASXnodN) | 2:40 |
 | 51 | [Moonlight Shadow](https://open.spotify.com/track/57kHa2ioHmY2RXsn2AChiX) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Adalwolf](https://open.spotify.com/artist/72bVryn4K6qZ4LgDTgTWRV), [Ninkid](https://open.spotify.com/artist/1YpcWKZ6C4hf2Qzj9X3ens) | [Moonlight Shadow](https://open.spotify.com/album/03slUqauQYHUPc7bkbZzDC) | 2:04 |
-| 52 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
+| 52 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
 | 53 | [Overtime](https://open.spotify.com/track/2eGXSdvt3i4rBPznolrGkr) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Overtime](https://open.spotify.com/album/3eXImeVl10UEKh8s4uNn9o) | 2:19 |
 | 54 | [Maniac](https://open.spotify.com/track/3wkLVtVnFvpCaBYhbdjMWq) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW), [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Natalie Major](https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ) | [Maniac](https://open.spotify.com/album/3pZlHzYxi7AbbCf9uVV106) | 2:54 |
 | 55 | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm) | 2:13 |

@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 104670,
+  "num_followers": 104708,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,18 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
+        "name": "A Tune for Us",
+        "url": "https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27"
       },
       "artists": [
         {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        },
-        {
-          "name": "Dawncall",
-          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
         }
       ],
-      "duration_ms": 259310,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
+      "duration_ms": 353212,
+      "name": "A Tune for Us",
+      "url": "https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -687,18 +683,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "A Tune for Us",
-        "url": "https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27"
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
       },
       "artists": [
         {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        },
+        {
+          "name": "Dawncall",
+          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
         }
       ],
-      "duration_ms": 353212,
-      "name": "A Tune for Us",
-      "url": "https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36"
+      "duration_ms": 259310,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Hafursey (Yfir)",
-        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 299441,
-      "name": "Hafursey (Yfir)",
-      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "12\u00b0C",
         "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 273564,
       "name": "12\u00b0C",
       "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Hafursey (Yfir)",
+        "url": "https://open.spotify.com/album/1sQWuEk9UjarR7Bvipxg0J"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 299441,
+      "name": "Hafursey (Yfir)",
+      "url": "https://open.spotify.com/track/5udjrF9hYfxle7lnSiOgTC"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -951,62 +951,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Windmills (Salamanda Remix)",
-        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
-      },
-      "artists": [
-        {
-          "name": "Anchorsong",
-          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
-        },
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Windmills - Salamanda Remix",
-      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Pause (Reimagined by Hinako Omori)",
-        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
-      },
-      "artists": [
-        {
-          "name": "Poppy Ackroyd",
-          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
-        },
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "Pause - Reimagined by Hinako Omori",
-      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Worlds Collide (Hannes Kretzer Rework)",
         "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
@@ -1027,6 +971,62 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Windmills (Salamanda Remix)",
+        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
+      },
+      "artists": [
+        {
+          "name": "Anchorsong",
+          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
+        },
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Windmills - Salamanda Remix",
+      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Pause (Reimagined by Hinako Omori)",
+        "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ackroyd",
+          "url": "https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd"
+        },
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Pause - Reimagined by Hinako Omori",
+      "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/24Num3HZM1YIBWnyqU8myw"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Plants",
-      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 424170,
+      "name": "Psychic Geography",
+      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
         "name": "Connections",
         "url": "https://open.spotify.com/album/1ZrWgu2napuGWL5yiHUC1Z"
       },
@@ -1699,6 +1715,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
+        "name": "Information - EP",
+        "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
+      },
+      "artists": [
+        {
+          "name": "Synkro",
+          "url": "https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n"
+        }
+      ],
+      "duration_ms": 330673,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/5PlH4Waf6aAdTQagl2Fq7i"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
         "name": "Castle Song",
         "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
       },
@@ -1711,42 +1743,6 @@
       "duration_ms": 173311,
       "name": "Castle Song",
       "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 424170,
-      "name": "Psychic Geography",
-      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Quiet in a World Full of Noise",
-        "url": "https://open.spotify.com/album/731xzbAjZ9q07B0rEssiwu"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        },
-        {
-          "name": "Spencer Zahn",
-          "url": "https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx"
-        }
-      ],
-      "duration_ms": 151249,
-      "name": "To Remove",
-      "url": "https://open.spotify.com/track/1rEgVCkWErTR0FWjGwLGXI"
     }
   ],
   "unique_name": "Electronic X",

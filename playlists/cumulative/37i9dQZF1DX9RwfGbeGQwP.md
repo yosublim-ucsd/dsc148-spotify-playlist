@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,534 songs - 2 day 9 hr 45 min
+1,535 songs - 2 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Boardwalk](https://open.spotify.com/track/4Nbt5ee9Y8Yv6zwFZX12BD) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Boardwalk](https://open.spotify.com/album/3s61bBrT4w1ILyuKz5iLzB) | 2:12 | 2022-07-01 | 2022-11-20 |
 | [Bonham Style](https://open.spotify.com/track/4aUXLVtHvNsJKmiHSTZ01J) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 2:02 | 2022-01-27 | 2022-05-20 |
 | [bonsai](https://open.spotify.com/track/3u1ZSXyd1waiy4akEjNXLl) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [bonsai](https://open.spotify.com/album/0GdKTZx1pCIXTEFWGHYvaa) | 2:02 | 2024-11-22 |  |
+| [Botanica](https://open.spotify.com/track/5SsWXtzXi0TH2015CccwRy) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [Botanica](https://open.spotify.com/album/65jS2v1ucYq4cyWAu5jj4G) | 2:04 | 2025-01-24 |  |
 | [Boy Meets World Inst](https://open.spotify.com/track/0eXAYw2pF3hzciUH507pwa) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Boy Meets World Inst](https://open.spotify.com/album/4ckx6Sxdvk4cKax9ZBosLO) | 2:36 | 2022-09-30 | 2023-02-25 |
 | [Breakfast](https://open.spotify.com/track/2Y6fX4H6onPgZjdqS2zTrx) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Breakfast](https://open.spotify.com/album/4cItehTSGEfNRt5nt3OPJW) | 2:18 | 2022-09-23 | 2023-09-05 |
 | [Breakfast at night](https://open.spotify.com/track/4YijVpWRynGePDCwqy9avA) | [Simis Cartwright](https://open.spotify.com/artist/5CBZsBU3HohXRlymLEIubg) | [Breakfast at night](https://open.spotify.com/album/22js5LzkbvZ1dOmKZHcOgC) | 2:00 | 2022-09-30 | 2024-11-17 |
@@ -685,7 +686,7 @@
 | [Junto Ao Mar](https://open.spotify.com/track/5Mv9oFq161OFZh6BvQHnUm) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Junto Ao Mar](https://open.spotify.com/album/0YImyrOh0MK5HzWwQfRQLh) | 2:28 | 2022-05-27 | 2022-11-12 |
 | [Jupiter](https://open.spotify.com/track/3IfselKUxMOLNMBD7U3liE) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Jupiter](https://open.spotify.com/album/6vJTw0ncJ68KY0kK1k2lpi) | 1:57 | 2022-10-15 | 2022-11-06 |
 | [Jupiter](https://open.spotify.com/track/5jT5sIQECE9clU4sFN6tDo) | [Agu](https://open.spotify.com/artist/6Xf5UcRnwGjGJQMC42Bllw) | [Jupiter](https://open.spotify.com/album/3vUF1ShmQPXJ2ZnaMz59MJ) | 1:57 | 2022-10-28 | 2023-09-22 |
-| [Just Be Spontaneous](https://open.spotify.com/track/2Gs6lIWThm4b1OLWH0pBkG) | [Zebra Motion](https://open.spotify.com/artist/72rBpbxZQoKW0NdXdVsdcN) | [Just Be Spontaneous](https://open.spotify.com/album/1DEVsVTSe7RFRGcto7axDx) | 2:24 | 2025-01-17 |  |
+| [Just Be Spontaneous](https://open.spotify.com/track/2Gs6lIWThm4b1OLWH0pBkG) | [Zebra Motion](https://open.spotify.com/artist/72rBpbxZQoKW0NdXdVsdcN) | [Just Be Spontaneous](https://open.spotify.com/album/1DEVsVTSe7RFRGcto7axDx) | 2:24 | 2025-01-17 | 2025-01-30 |
 | [Just Breathe](https://open.spotify.com/track/634oZE0Q6wEddj3FjrVt5B) | [Melifluous](https://open.spotify.com/artist/4lpHKGryfY5TmM3kj2TBI7) | [Just Breathe](https://open.spotify.com/album/3GkYQqEVg1VVAfQaIcK4ij) | 2:54 | 2022-08-19 | 2023-01-13 |
 | [Just One More Thing](https://open.spotify.com/track/2x8N1BgtDg99LG7aTrpyJb) | [Palm Beats](https://open.spotify.com/artist/1c9zS9phaYUjbZnzYfGoFx) | [Just One More Thing](https://open.spotify.com/album/0OjE95D7HmdIY5VghaCRhx) | 2:02 | 2023-09-22 | 2024-10-10 |
 | [Just Us](https://open.spotify.com/track/0ykkCxE8aS7c346LGK2FnW) | [Pierson Booth](https://open.spotify.com/artist/45BqLp2kWLyeljj3x0WBER), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Just Us](https://open.spotify.com/album/4u0nXS6rwnAW5Oc2kLEiC5) | 2:15 | 2022-10-15 | 2023-09-22 |
@@ -803,7 +804,7 @@
 | [Matsuoka](https://open.spotify.com/track/4De868i8w6YZp48DsBLyCN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Matsuoka](https://open.spotify.com/album/3F43SAWw5a25Rm5P2n74yD) | 1:53 | 2024-09-27 |  |
 | [Matter Over Mind](https://open.spotify.com/track/6zGYdz1VrSjdKeKOSjAhMA) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Matter Over Mind](https://open.spotify.com/album/4uCWRaKCVEF0vsdegesZg3) | 2:18 | 2024-07-12 |  |
 | [May I Have This Dance?](https://open.spotify.com/track/5Bswc65J5MgA8EkRoKG45H) | [Luc Delvaux](https://open.spotify.com/artist/0TtVPA9JL5p8Yqr7guSEn0) | [May I Have This Dance?](https://open.spotify.com/album/5jo6OvWZiJj2sc2f2gLk6Y) | 1:54 | 2024-12-06 | 2025-01-11 |
-| [Maybe](https://open.spotify.com/track/2oU3SCdUA35sudMw5DyqMX) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Maybe](https://open.spotify.com/album/0ADb25xnbJyUYcc8DrauGS) | 2:36 | 2023-10-13 | 2024-06-20 |
+| [Maybe](https://open.spotify.com/track/2oU3SCdUA35sudMw5DyqMX) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Maybe](https://open.spotify.com/album/0ADb25xnbJyUYcc8DrauGS) | 2:36 | 2023-10-13 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi) | [downstreamdream](https://open.spotify.com/artist/3C1jiA2XGYEbXdJtAUpmVO) | [Maybe Tomorrow](https://open.spotify.com/album/18fua0f7BAgN0WbqBHAZxn) | 2:34 | 2022-01-27 | 2022-12-17 |
 | [Maybe We Won't Meet Again](https://open.spotify.com/track/5zTSqqgYh90awFDs7fWRtZ) | [Lo\-Five](https://open.spotify.com/artist/3K8s2AFPmTDnzEkSfXDoTi), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Maybe We Won't Meet Again](https://open.spotify.com/album/0VfTbywk4MC2lpQezf8Pfr) | 2:42 | 2022-09-30 | 2023-04-21 |
 | [Mayfair](https://open.spotify.com/track/51o9SkcDTXN8OoehRJdckU) | [hazze haze](https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV) | [Mayfair](https://open.spotify.com/album/7ifv0qitkljNKWZ1k8glE0) | 2:11 | 2024-07-05 |  |
@@ -1333,7 +1334,7 @@
 | [Take It Easy](https://open.spotify.com/track/2eyJQMPDcWlC5CmZsodlSD) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5), [Flacvih](https://open.spotify.com/artist/5vyWkHZrsvbjPskzIatoFg) | [Jazz Raw City](https://open.spotify.com/album/7mLcA5ad6cCyk9eXbhKYFB) | 2:52 | 2022-07-22 | 2022-12-10 |
 | [Take It Home](https://open.spotify.com/track/0x8ezdTuFi6El6BTGcQojf) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [Take It Home](https://open.spotify.com/album/4QlNhHUyV9KTQ4QC7GbwXu) | 2:12 | 2023-10-13 | 2024-05-14 |
 | [Take the Back Roads](https://open.spotify.com/track/0F0xZC5P82Ov3hdFdZwi7M) | [Sidezz](https://open.spotify.com/artist/130OLOykvWZS3fkhSq1GrR) | [Take the Back Roads](https://open.spotify.com/album/20dzRKRbeTMZ0121L6Xn50) | 2:27 | 2022-01-27 | 2022-10-15 |
-| [Take your time](https://open.spotify.com/track/05im9JXYw4AALEcOlwR8XW) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Take your time](https://open.spotify.com/album/5QJETfJVFFzNn1VcM2jkR9) | 2:34 | 2024-08-09 |  |
+| [Take your time](https://open.spotify.com/track/05im9JXYw4AALEcOlwR8XW) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Take your time](https://open.spotify.com/album/5QJETfJVFFzNn1VcM2jkR9) | 2:34 | 2024-08-09 | 2025-01-30 |
 | [Taking a Gap Year](https://open.spotify.com/track/3EaQ19sdn6IfNNwAbZlLss) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Taking a Gap Year](https://open.spotify.com/album/3gDT4tudeH7Bcg5TW4Y8aS) | 3:55 | 2022-01-27 | 2023-05-20 |
 | [Talk About It](https://open.spotify.com/track/5k4SI8RNArkDWKQwjifshx) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Talk About It](https://open.spotify.com/album/5QfbepSQCoQ4z77EO9ZrbJ) | 3:18 | 2022-10-15 | 2023-02-25 |
 | [Tapes](https://open.spotify.com/track/0QFZ1Kii6jW0svJH2fVsmv) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Tapes](https://open.spotify.com/album/7p4ihQFMD5fcFJYqhR5Ij7) | 2:05 | 2023-06-05 | 2023-09-29 |

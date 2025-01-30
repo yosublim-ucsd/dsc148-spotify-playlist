@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Children Of Tomorrow",
+        "url": "https://open.spotify.com/album/5jEBGG3MJ5gaEteo9EaqiI"
+      },
+      "artists": [
+        {
+          "name": "Frankie Smith",
+          "url": "https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF"
+        }
+      ],
+      "date_added": "2024-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320880,
+      "name": "Double Dutch Bus",
+      "url": "https://open.spotify.com/track/20RHP0KD0gDz7xzmzZCGBo"
+    },
+    {
+      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -3902,7 +3920,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 250635,
       "name": "Youre the One for Me - Radio Mix",
       "url": "https://open.spotify.com/track/3BneMfYdo9X8m90BRhMzSL"

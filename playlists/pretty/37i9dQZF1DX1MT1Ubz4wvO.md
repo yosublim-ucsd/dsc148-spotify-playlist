@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con La Vida Bohème en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,954 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,957 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [¡Al Coro De Las Masas!](https://open.spotify.com/track/2QplKbIvgdUdonosp0tMhz) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [¡Al Coro De Las Masas!](https://open.spotify.com/album/4QHxMHv9BhOGTyLSUFFeal) | 3:20 |
-| 2 | [Redención](https://open.spotify.com/track/6OrbWWolcd6EoVuf6MeYgQ) | [Vértize](https://open.spotify.com/artist/6B5OYEBpxHyPNZmEx3XSJz), [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4), [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK), [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Redención](https://open.spotify.com/album/4eXzPidJ09xiwES7keNo73) | 4:12 |
+| 2 | [Redención](https://open.spotify.com/track/6OrbWWolcd6EoVuf6MeYgQ) | [Vértize](https://open.spotify.com/artist/6B5OYEBpxHyPNZmEx3XSJz), [UOHO](https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4), [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Redención](https://open.spotify.com/album/4eXzPidJ09xiwES7keNo73) | 4:12 |
 | 3 | [Quieren Rock](https://open.spotify.com/track/72ZJmxjPVSaze6EJMJSigT) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Quieren Rock](https://open.spotify.com/album/6ac8a2d1p3ZiIuh6Zlg6Mf) | 2:26 |
 | 4 | [Sheriff \- En Vivo en Baradero Diciembre 2024](https://open.spotify.com/track/5rmCWDo89mojXnQYQXTmjW) | [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Sheriff \(En Vivo en Baradero Diciembre 2024\)](https://open.spotify.com/album/4jPHjFUhjhLpCYzyDTjtJ0) | 5:47 |
 | 5 | [¿Quién Soy?](https://open.spotify.com/track/5q39vHjUudmfLCm8UOyOjs) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [¿Quién Soy?](https://open.spotify.com/album/6yRZtfQnH6jX80wc6WLTuK) | 3:37 |

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Supaveen
 
-440 songs - 1 day 1 hr 9 min
+442 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Kanavin Azhagi](https://open.spotify.com/track/7ij3EIOUwmt8cp6O8BktQ4) | [Satwik Aradhya](https://open.spotify.com/artist/7pe68lUGRTFDmAxisdfNaE), [Sathwik Padiyar](https://open.spotify.com/artist/1b9bFx1BDk5oFuhox0BMQX) | [Kanavin Azhagi](https://open.spotify.com/album/6pF6ByVbKZqppfsGfmQAEw) | 2:59 | 2023-03-21 | 2023-09-26 |
 | [KANAVINIL KANDEN](https://open.spotify.com/track/775KkS3dsQanEqCXG7CHc7) | [Vijay Paul](https://open.spotify.com/artist/1UejoJ7qg2WChIRQ73F9Po), [Jessica](https://open.spotify.com/artist/36gWgA59mpRifFhGKRLzye) | [KANAVINIL KANDEN](https://open.spotify.com/album/0sF6LR0lxJp7WPu3zSshas) | 3:47 | 2024-04-04 | 2024-11-07 |
 | [Kanavondru Kanmunne](https://open.spotify.com/track/40UdAtoDxy5pr8T3WxgJzk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Rithvi Ramesh](https://open.spotify.com/artist/4lah4fQGDTcyB6C9sAEQSq), [Suraj Vishnu](https://open.spotify.com/artist/2XmHvywesi5fnKBdo0IRW5) | [Kanavondru Kanmunne](https://open.spotify.com/album/1Znw9BvpfIXyn7OTZdzGiG) | 3:15 | 2024-04-30 | 2024-11-21 |
+| [KANAVU](https://open.spotify.com/track/1HZDjjTY4XQ3Snemg053ic) | [Ponkundram](https://open.spotify.com/artist/1oOMV1i6RXQag9uraVqkW3) | [MOODUTHIRAI](https://open.spotify.com/album/4ikNiHenh0ViVVlDuo7slw) | 1:55 | 2025-01-29 |  |
 | [Kanavu Poandra Kaatchi](https://open.spotify.com/track/0pWkbQWebsaSd0WfeM4sCz) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Ailaah](https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 4:01 | 2024-07-27 | 2024-08-24 |
 | [kangalai kattinal](https://open.spotify.com/track/3gEa0uDEFWfggAZixWvX3Y) | [V\. Kiran Varsith](https://open.spotify.com/artist/0UOZzdUG9XB5NIhkxSzJrP), [Ashish](https://open.spotify.com/artist/4vHInZhjbKoGbquZk2MQ6Q) | [kangalai kattinal](https://open.spotify.com/album/1pllolFny3ChtXtoPNJAe3) | 3:54 | 2025-01-28 |  |
 | [Kanmani Unnal](https://open.spotify.com/track/5JtYr05Ba4xdeXZl9DJVS2) | [K.B.Unnikrishnan](https://open.spotify.com/artist/6ZLP7uzqBuqHabxmL7vU6M) | [Kanmani Unnal](https://open.spotify.com/album/2oTtWk00SueRwfXCQnehkz) | 3:00 | 2024-02-12 | 2024-08-24 |
@@ -234,6 +235,7 @@
 | [Mudhal Parvai](https://open.spotify.com/track/7M2wK4BB2Uhc74QWEV3Jjc) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC), [The Papori Harsh Project](https://open.spotify.com/artist/7GO5R5zKT9i36NqNMIQzVJ) | [Mudhal Parvai](https://open.spotify.com/album/6BQ74G8Q7f4fJFj2PPWEwd) | 3:27 | 2023-03-21 | 2023-07-25 |
 | [Mudhal Vari](https://open.spotify.com/track/4KYqh9Y7x2uyfWIISz6MH9) | [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Mudhal Vari](https://open.spotify.com/album/33WGz7RCIIyqK6hpZsJhFi) | 1:58 | 2024-05-07 | 2024-08-11 |
 | [Mudinjan](https://open.spotify.com/track/6Lnqv5lnDsk870Lo9f4zwV) | [Shakti Sivamani](https://open.spotify.com/artist/5ZVPABvdsomwTnJsZm5Bb5) | [Mudinjan](https://open.spotify.com/album/6mMeawpioVqevLo3d1jjzP) | 2:57 | 2024-11-08 | 2024-12-06 |
+| [Mudinjiriche Love\-uh](https://open.spotify.com/track/5zZm5rkuV25us8HO8IS4ef) | [Harish Ramachandran](https://open.spotify.com/artist/7ghorCKxubrTHqGVOHDSiv), [Thillai Karthik](https://open.spotify.com/artist/7itVIUaF54NxQvmA1ljGZA), [Sakthi Raj](https://open.spotify.com/artist/77BxtwX1bzRnMWxm7SS7OU) | [Mudinjiriche Love\-uh](https://open.spotify.com/album/5CfRSZGUWm1UgRt7RVfwNJ) | 3:00 | 2025-01-29 |  |
 | [My Dear Maname](https://open.spotify.com/track/48qw6aOZx9tOQbVjlyOqLo) | [Shahithya](https://open.spotify.com/artist/1duE9FA46dM4h1PflZbyYf) | [My Dear Maname](https://open.spotify.com/album/1CRFQ9is8dZEsyRW5yF5M1) | 2:44 | 2024-04-01 | 2024-11-22 |
 | [Naadu Vittu \(From "Aalan"\)](https://open.spotify.com/track/3LEq778z6w78Wn7HCqlD8b) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Naadu Vittu \(From "Aalan"\)](https://open.spotify.com/album/4HqiQWXN6etHpQoexXK7jS) | 4:38 | 2024-06-27 | 2024-08-11 |
 | [Naai La Gandam \(Original Soundtrack\)](https://open.spotify.com/track/2rmeIf9AYftwtJH3Zpglox) | [Srikanth KVB](https://open.spotify.com/artist/6W4s4ZE6Rxg7N8Tyj0vJtT) | [Naai La Gandam \(Original Soundtrack\)](https://open.spotify.com/album/174jBUDT9rsOT8OEFVAdz8) | 2:56 | 2024-11-15 | 2024-12-26 |

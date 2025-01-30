@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 191 songs - 9 hr 27 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 196 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,5 +199,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 189 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 |
 | 190 | [Bool, Balm & Bollective](https://open.spotify.com/track/0UmV17gerlXy4V3wuOUWPo) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:35 |
 | 191 | [Who Shot Me?](https://open.spotify.com/track/20F9XLcFdWcI2yS74hHQ99) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Still Brazy \(Deluxe\)](https://open.spotify.com/album/4nwd6ernojhNIIRifDJoRz) | 3:47 |
+| 192 | [Rush Hour](https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:21 |
+| 193 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 2:50 |
+| 194 | [When in Rome](https://open.spotify.com/track/4lIVN4LUJCmweoGJmk6hK9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 3:43 |
+| 195 | [Therapy](https://open.spotify.com/track/1GrnyQe1SFOb1T5vb5T54q) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 4:08 |
+| 196 | [Insomniak \(feat\. Rick Ross\)](https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:59 |
 
-Snapshot ID: `AAAd4HhBre0nYp/rise0N7puPyoJ1btB`
+Snapshot ID: `AAAd5V1apc2EMLW+nRBIJyFUujtZ1jK9`

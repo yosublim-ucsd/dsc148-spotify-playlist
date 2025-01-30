@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=DqPU7Xy6TDSGYKMTtwqUmQ"> Oscar Mbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,641 likes - 60 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,674 likes - 60 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 227265,
       "name": "medicine",
       "url": "https://open.spotify.com/track/3GHtEaicELsTViK08EXEQQ"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 235133,
       "name": "\u3060\u3044\u3058\u3087\u3046\u3076",
       "url": "https://open.spotify.com/track/5nfpxwXCGlEz4IqylQoMwg"
@@ -756,6 +756,24 @@
       "duration_ms": 219506,
       "name": "\u3067\u304d\u3063\u3053\u306a\u3044\u3092\u3000\u3084\u3089\u306a\u304f\u3061\u3083",
       "url": "https://open.spotify.com/track/5abRbX9SH8nHYml4RKCE1W"
+    },
+    {
+      "album": {
+        "name": "Everybody!!",
+        "url": "https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207368,
+      "name": "\u3068\u3082\u306b",
+      "url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3"
     },
     {
       "album": {
@@ -806,7 +824,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 203293,
       "name": "\u30a8\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1EdXeXyIU56YKBP3kfmHB9"
@@ -1065,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u4e08\u592b",
+        "url": "https://open.spotify.com/album/5bNqsQHsqnaJNxuldgPkDa"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "\u5927\u4e08\u592b",
+      "url": "https://open.spotify.com/track/4kQ3rrJ54f1Hf8nCNxCUyl"
+    },
+    {
+      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ"
       },
@@ -1119,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "\u30b3\u30ec\u30ab\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/3es5sP9pdmnRvgVjzHhP7D"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "\u6b7b\u306c\u3053\u3068\u4ee5\u5916\u304b\u3059\u308a\u50b7",
+      "url": "https://open.spotify.com/track/4D71mQVLlcmBWZBLGNbK8g"
+    },
+    {
+      "album": {
         "name": "\u6c88\u4e01\u82b1",
         "url": "https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS"
       },
@@ -1166,10 +1220,28 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 209373,
       "name": "\u7834\u82b1",
       "url": "https://open.spotify.com/track/4taBAXO40dHA4tha6H9jOS"
+    },
+    {
+      "album": {
+        "name": "\u7a81\u7834\u53e3 / \u81ea\u6162\u306b\u306a\u308a\u305f\u3044",
+        "url": "https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255080,
+      "name": "\u7a81\u7834\u53e3",
+      "url": "https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT"
     },
     {
       "album": {

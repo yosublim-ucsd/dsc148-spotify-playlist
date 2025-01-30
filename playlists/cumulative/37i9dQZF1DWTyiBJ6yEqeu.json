@@ -459,6 +459,28 @@
     },
     {
       "album": {
+        "name": "ACIDO",
+        "url": "https://open.spotify.com/album/47VSbmVnuMFiaFv3ZiK0Ee"
+      },
+      "artists": [
+        {
+          "name": "UdieNnx",
+          "url": "https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75697,
+      "name": "ACIDO",
+      "url": "https://open.spotify.com/track/1aNQ9Nz0gzJXVm6kuXcIbq"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/6kPHUS5ggDe6jq0KmFhwjy"
       },
@@ -16868,7 +16890,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 160842,
       "name": "Thick Of It (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"

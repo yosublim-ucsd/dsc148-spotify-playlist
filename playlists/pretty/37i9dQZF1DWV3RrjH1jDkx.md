@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,920 likes - 101 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,925 likes - 101 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 25 | [Limitless](https://open.spotify.com/track/25fvND4h7BT76CB77Mjsm3) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:21 |
 | 26 | [volar](https://open.spotify.com/track/3TkjaTJWWSrkMvrqVVLX0b) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [The Driving Towards The Sunset Tapes](https://open.spotify.com/album/1diK3l5nm4uSocAPQugQlL) | 3:59 |
 | 27 | [Sulale](https://open.spotify.com/track/0G23BUUXQVEpqsFiOuLY0z) | [Nora Jabri](https://open.spotify.com/artist/0JCbY3p0O1glhKRI9nGM9E) | [Sulale](https://open.spotify.com/album/4YNcxu5DjXLqAWxIlR4DZY) | 2:56 |
-| 28 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
+| 28 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
 | 29 | [Last Song](https://open.spotify.com/track/2EIXaip6c4s5AjCgkxH9pm) | [Tone Damli](https://open.spotify.com/artist/1FVIussEvC43HZnVOY7Zjs) | [Last Song](https://open.spotify.com/album/5UlZNDzRxc3I30bC9y3akx) | 3:03 |
 | 30 | [Hvis jeg ikke var meg selv](https://open.spotify.com/track/3tHXA83mhSXOHPAAIAgaMp) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N), [Me for Queen](https://open.spotify.com/artist/1H7mNprYkefKwq5C0VWS9M) | [20 Lillos uten filter](https://open.spotify.com/album/6BS9ZWKOhOfwryrPDg4lAa) | 4:12 |
 | 31 | [Gassed](https://open.spotify.com/track/4EHOlCY87X7Tak4Ql8exiS) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Gassed](https://open.spotify.com/album/55oagSxcjvJdbEOsBGHFjn) | 2:29 |

@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 178981,
+  "num_followers": 179009,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Existential Beast",
+        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lee Richards",
+          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "Golden Gate",
+      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Do What Feeds Your Soul",
         "url": "https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 155213,
       "name": "Do What Feeds Your Soul",
       "url": "https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Existential Beast",
-        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lee Richards",
-          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
-        }
-      ],
-      "duration_ms": 367480,
-      "name": "Golden Gate",
-      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Karma For Cheap",
+        "url": "https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "Heart Slows Down",
+      "url": "https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Game Show",
         "url": "https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 291664,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Liz Cooper & the Stampede | Audiotree Far Out",
-        "url": "https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 331879,
-      "name": "Motions - Far Out Version",
-      "url": "https://open.spotify.com/track/6sF7pOzhRCvuTLtVDrTg1Z"
     }
   ],
   "unique_name": "Psych & Groove",

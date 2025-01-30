@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "LOWER",
+        "url": "https://open.spotify.com/album/01UBvt33eTksshPiwljpBn"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228726,
+      "name": "BLACK OPPS",
+      "url": "https://open.spotify.com/track/3YnYMjDHxPs5WsKjGJwZEE"
+    },
+    {
+      "album": {
         "name": "Cake Pop 2",
         "url": "https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8"
       },

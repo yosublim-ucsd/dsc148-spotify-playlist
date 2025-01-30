@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Aashir Wajahat & Gini
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,416 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,512 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 99 | [Mazaak](https://open.spotify.com/track/6BvRzfqi3sMAoQYnRpMVL0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Mazaak](https://open.spotify.com/album/4Z5Z0qWzKvTgv7XRnodjNU) | 3:32 |
 | 100 | [Reborn](https://open.spotify.com/track/7nxmLcB0292ykcISnFHIVG) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb) | [Reborn](https://open.spotify.com/album/5xLCpi7Pzi0e79mdzE3nLF) | 2:22 |
 
-Snapshot ID: `Z49fRAAAAAA5q8/VKLRjRGVVHA2oZ1Hc`
+Snapshot ID: `Z5nzugAAAADr3lSBWQ8ozHvb7qP+kJGP`

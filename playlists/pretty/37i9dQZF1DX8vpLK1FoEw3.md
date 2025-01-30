@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > Deu 00h, é hora de se Reinventar!! Que 2025 seja um <a href="spotify:artist:7hLjkyL9Pz9xtQNahzJZki">Belo</a>  ano para todos!!! \#MeuSpotify feita por Belo
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,367 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,316 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

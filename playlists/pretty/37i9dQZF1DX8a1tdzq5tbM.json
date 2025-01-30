@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1649806,
+  "num_followers": 1650111,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Robyn",
-        "url": "https://open.spotify.com/album/3m28E6lKOu3QVtIuIWk6yv"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "With Every Heartbeat",
-      "url": "https://open.spotify.com/track/0NEw29HKkDkt1yDyBJOgXe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Show Me Love (feat. Robin S)",
         "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 185613,
       "name": "Show Me Love (feat. Robin S) - Radio Edit",
       "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Robyn",
+        "url": "https://open.spotify.com/album/3m28E6lKOu3QVtIuIWk6yv"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "With Every Heartbeat",
+      "url": "https://open.spotify.com/track/0NEw29HKkDkt1yDyBJOgXe"
     },
     {
       "added_at": "2024-07-12 15:40:20",

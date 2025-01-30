@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Jassa Dhaliwal ",
+  "description": "Discover the future of Punjabi Pop! Cover: Arnaaz Gill & Armaan Gill ",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 189175,
       "name": "AK Lover",
       "url": "https://open.spotify.com/track/6mHs7AjwYCdkb9xT7NcD4S"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 148050,
       "name": "Anti Anthem",
       "url": "https://open.spotify.com/track/7vErJDmZuH1HaguaU0smCw"
@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Challe",
+        "url": "https://open.spotify.com/album/7kY5rLqlFBLM42tzdFz6Tq"
+      },
+      "artists": [
+        {
+          "name": "Babla",
+          "url": "https://open.spotify.com/artist/3OQicVoAuaVDxIL1QRzxZE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131868,
+      "name": "Challe",
+      "url": "https://open.spotify.com/track/7fTp1AG48XQ2IjfIFmYzvM"
+    },
+    {
+      "album": {
         "name": "Chan Chan",
         "url": "https://open.spotify.com/album/4EyoAKM7q2hcQrhnBdXyHn"
       },
@@ -636,7 +654,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 143250,
       "name": "Chillz",
       "url": "https://open.spotify.com/track/24yiTjqlpEQ2yhjjAHP7z9"
@@ -705,6 +723,24 @@
     },
     {
       "album": {
+        "name": "CHRONOFLEX",
+        "url": "https://open.spotify.com/album/39SEFJ33Wm2dA9z3tSASfQ"
+      },
+      "artists": [
+        {
+          "name": "Abeer Arora",
+          "url": "https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135943,
+      "name": "CHRONOFLEX",
+      "url": "https://open.spotify.com/track/0Qo6uWQ43WtNe74DKoSu9X"
+    },
+    {
+      "album": {
         "name": "Hood Anthems",
         "url": "https://open.spotify.com/album/4umOpVG1o8yRpyMT8MAOGO"
       },
@@ -746,6 +782,28 @@
       "duration_ms": 186352,
       "name": "Comparison",
       "url": "https://open.spotify.com/track/1Vqdn4844998ZMgpIe2iKr"
+    },
+    {
+      "album": {
+        "name": "Culmination",
+        "url": "https://open.spotify.com/album/2Q8sm1p9BYTvsLwPmw9WH0"
+      },
+      "artists": [
+        {
+          "name": "Taabir Aulakh",
+          "url": "https://open.spotify.com/artist/1LxRy5PBBXvfn7dOPm6Sdb"
+        },
+        {
+          "name": "Trxppy",
+          "url": "https://open.spotify.com/artist/69klT1vBrFrVOy4zPBYjwJ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147019,
+      "name": "Culmination",
+      "url": "https://open.spotify.com/track/59USM0JUaAcAkBXNnpCZPt"
     },
     {
       "album": {
@@ -834,7 +892,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 196092,
       "name": "Debi Ale Geet",
       "url": "https://open.spotify.com/track/5UzfxWB9l0A4590iAmpnjm"
@@ -998,7 +1056,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 142962,
       "name": "Doremon",
       "url": "https://open.spotify.com/track/4mf1dUYVQcZ6WP9DsyzP0s"
@@ -1246,7 +1304,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 248181,
       "name": "Gairaan Nal",
       "url": "https://open.spotify.com/track/0PMsB7a6YlxOHz30j2jdmz"
@@ -1286,7 +1344,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 214597,
       "name": "Gall Kar",
       "url": "https://open.spotify.com/track/44ofc5nB37mtY85VEosVZE"
@@ -1366,7 +1424,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 199024,
       "name": "Gym",
       "url": "https://open.spotify.com/track/0ymXuNYPbXMaL4d6VytNEi"
@@ -1388,6 +1446,24 @@
       "duration_ms": 127833,
       "name": "Gym Flow",
       "url": "https://open.spotify.com/track/7qPXqScbYBBD2n64p1IkDK"
+    },
+    {
+      "album": {
+        "name": "Haal Puchda",
+        "url": "https://open.spotify.com/album/6sfc3PyvVNMi7EN4pwygeC"
+      },
+      "artists": [
+        {
+          "name": "Vicky Maan",
+          "url": "https://open.spotify.com/artist/2VC3bA2IchCVpMS1U5FRtg"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126257,
+      "name": "Haal Puchda",
+      "url": "https://open.spotify.com/track/1TDWbubahgMqLMPXfVY0Fq"
     },
     {
       "album": {
@@ -1468,10 +1544,54 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 160941,
       "name": "Haye Ni",
       "url": "https://open.spotify.com/track/2Zq74k3aYAw3UjBZOtCfTP"
+    },
+    {
+      "album": {
+        "name": "HEAR ME CALLING",
+        "url": "https://open.spotify.com/album/2A4dwF4zpmxS7mb11b3T1h"
+      },
+      "artists": [
+        {
+          "name": "Arnaaz Gill",
+          "url": "https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx"
+        },
+        {
+          "name": "Armaan Gill",
+          "url": "https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177069,
+      "name": "HEAR ME CALLING",
+      "url": "https://open.spotify.com/track/0qJODbv1nzGrCA35yV3wqI"
+    },
+    {
+      "album": {
+        "name": "HOOR",
+        "url": "https://open.spotify.com/album/4VaOi11qzokB4dqvv3Sm1H"
+      },
+      "artists": [
+        {
+          "name": "SAMA",
+          "url": "https://open.spotify.com/artist/5I99xmEQkdJ2Lh63vVq36P"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157625,
+      "name": "HOOR",
+      "url": "https://open.spotify.com/track/28YYqqdYRaul1hHY5OKDmX"
     },
     {
       "album": {
@@ -1885,6 +2005,28 @@
     },
     {
       "album": {
+        "name": "Kaifiyat",
+        "url": "https://open.spotify.com/album/5y4SrD6ZiPJtriyZTAciAQ"
+      },
+      "artists": [
+        {
+          "name": "NADAR",
+          "url": "https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr"
+        },
+        {
+          "name": "Preet Sembhi",
+          "url": "https://open.spotify.com/artist/7wPsw77xidWtgRbBaDU520"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208314,
+      "name": "Kaifiyat",
+      "url": "https://open.spotify.com/track/1vhD8YoQjdKP3Jn0nF1ozF"
+    },
+    {
+      "album": {
         "name": "Kam Kaar",
         "url": "https://open.spotify.com/album/3sZQD2rnR78PX09yMhLrzC"
       },
@@ -2060,6 +2202,24 @@
       "duration_ms": 133714,
       "name": "L.VE",
       "url": "https://open.spotify.com/track/2WtRHMfiXygJrP5rzQknXv"
+    },
+    {
+      "album": {
+        "name": "Laal Suha Rang",
+        "url": "https://open.spotify.com/album/4222Ueib10aOn12baqR1as"
+      },
+      "artists": [
+        {
+          "name": "ABRK",
+          "url": "https://open.spotify.com/artist/1M6zKQe5RxoPawhzsTznQF"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126792,
+      "name": "Laal Suha Rang",
+      "url": "https://open.spotify.com/track/7rWw4eguIc5TZGCfKZ1rFn"
     },
     {
       "album": {
@@ -2737,6 +2897,32 @@
     },
     {
       "album": {
+        "name": "Puthi Matt",
+        "url": "https://open.spotify.com/album/3Olsca2lcLNMy9EAhUAsUR"
+      },
+      "artists": [
+        {
+          "name": "Amyth",
+          "url": "https://open.spotify.com/artist/1aWXUn3eJc7eMJnnksUSqJ"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        },
+        {
+          "name": "Diljan",
+          "url": "https://open.spotify.com/artist/5wq7uAiLmjk5RdRpxw1aQF"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149347,
+      "name": "Puthi Matt",
+      "url": "https://open.spotify.com/track/0CbAqgwpq8Zyrqym6D2BE5"
+    },
+    {
+      "album": {
         "name": "Pyaar Jeha",
         "url": "https://open.spotify.com/album/0I3SOKo41LBRK0HCyUUDRB"
       },
@@ -2792,7 +2978,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 150413,
       "name": "Raia",
       "url": "https://open.spotify.com/track/52kEz25TXZ6FobnUH6kWHp"
@@ -2969,6 +3155,28 @@
     },
     {
       "album": {
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/51SYNmaGC7TUIzoPWpat3h"
+      },
+      "artists": [
+        {
+          "name": "Ajay Syal",
+          "url": "https://open.spotify.com/artist/4mrKBXK1QMf1YHNyf0xChA"
+        },
+        {
+          "name": "Akash Sidana",
+          "url": "https://open.spotify.com/artist/7BfQD5OH6P8Cjn0cFrkLRl"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148086,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/1uDnIfdR3yG8EqGOg5WmDy"
+    },
+    {
+      "album": {
         "name": "Sharafat",
         "url": "https://open.spotify.com/album/2leFIh2HSTVsHaK89lT1KL"
       },
@@ -3017,6 +3225,32 @@
     },
     {
       "album": {
+        "name": "Shonk",
+        "url": "https://open.spotify.com/album/4glE9856LIkvPAZgHGi843"
+      },
+      "artists": [
+        {
+          "name": "Jashan Mahal",
+          "url": "https://open.spotify.com/artist/4VCXzpWOdfXy37w3kBbSwd"
+        },
+        {
+          "name": "Jang Dhillon",
+          "url": "https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183498,
+      "name": "Shonk",
+      "url": "https://open.spotify.com/track/3hIlK5V8h4cy3e6rKHOjTT"
+    },
+    {
+      "album": {
         "name": "Sohneya",
         "url": "https://open.spotify.com/album/0Lkz9ZEAVf3tYwU0kBWQR1"
       },
@@ -3035,6 +3269,32 @@
     },
     {
       "album": {
+        "name": "Sone Rangi",
+        "url": "https://open.spotify.com/album/1YGzGnNR0HzHrCZeO9xKEN"
+      },
+      "artists": [
+        {
+          "name": "Seven",
+          "url": "https://open.spotify.com/artist/4cZJca4lyzdzowYIOZPT17"
+        },
+        {
+          "name": "Dilshad",
+          "url": "https://open.spotify.com/artist/0BWH0kL2q9v1oltABqb4VM"
+        },
+        {
+          "name": "Meavin",
+          "url": "https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166478,
+      "name": "Sone Rangi",
+      "url": "https://open.spotify.com/track/76USUQdoho7vc56xSwckxq"
+    },
+    {
+      "album": {
         "name": "Status",
         "url": "https://open.spotify.com/album/1jCly0du8o5nNMuOeSeePi"
       },
@@ -3050,6 +3310,24 @@
       "duration_ms": 145909,
       "name": "Status",
       "url": "https://open.spotify.com/track/1e4dXcNcsYmPDdBSUL2orQ"
+    },
+    {
+      "album": {
+        "name": "Street Code",
+        "url": "https://open.spotify.com/album/3vnp649rBhgwYc3MLr3dpS"
+      },
+      "artists": [
+        {
+          "name": "NVY",
+          "url": "https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158102,
+      "name": "Street Code",
+      "url": "https://open.spotify.com/track/4JPca6KuwKSbRLNETFwph2"
     },
     {
       "album": {
@@ -3104,7 +3382,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 158048,
       "name": "Swaad",
       "url": "https://open.spotify.com/track/01s8pvYQ6yCayelr8d4BoK"
@@ -3335,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Thug",
+        "url": "https://open.spotify.com/album/5GkPx8TuEhFXhWDDMi2ec2"
+      },
+      "artists": [
+        {
+          "name": "Gillson",
+          "url": "https://open.spotify.com/artist/4d2K2wtWJq50PecWFaJKvL"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Thug",
+      "url": "https://open.spotify.com/track/0CmT9htHmobncbzMb8jK8R"
+    },
+    {
+      "album": {
         "name": "Tiffany Stone (feat. Jashanmeet)",
         "url": "https://open.spotify.com/album/4vfSz4Bf38F1aCfRg7EScY"
       },
@@ -3408,7 +3704,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 180779,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/7zCll1uhKPmX3ldMKvPsY1"
@@ -3496,7 +3792,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 177714,
       "name": "Vair",
       "url": "https://open.spotify.com/track/6UUyNN5jq9WShRssILsZCo"
@@ -3518,7 +3814,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 147826,
       "name": "Vair",
       "url": "https://open.spotify.com/track/6eoS0Y0Ul97V63XSDAJTkX"
@@ -3800,7 +4096,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 139736,
       "name": "Yaari",
       "url": "https://open.spotify.com/track/5qMOxQs2vj9b5Vdh4pj8bi"

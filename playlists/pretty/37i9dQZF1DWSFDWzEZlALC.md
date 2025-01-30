@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: RIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,747 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,743 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 54 | [gewinner\_v2](https://open.spotify.com/track/4zECUk7oFraVwDUf3x6uR5) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [gewinner\_v2](https://open.spotify.com/album/4TiEvaUQrDTe2JYIoPhBL4) | 2:35 |
 | 55 | [auseinander](https://open.spotify.com/track/2OVOpWliEj74Zh82sfOyzB) | [GRETA](https://open.spotify.com/artist/7APFrbSD8Z4A9BWKF4NZ8c) | [auseinander](https://open.spotify.com/album/7hFmmMgBR0C01ICxlXaKwA) | 2:18 |
 | 56 | [Pazifik](https://open.spotify.com/track/2qTdn4tIHLIDpIPTs04anW) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Pazifik](https://open.spotify.com/album/4ClLMXLQ8xuiAviOLSfHHu) | 3:01 |
-| 57 | [Sag mir was ich nicht weiß](https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Sag mir was ich nicht weiß](https://open.spotify.com/album/51M0w9KedzR3r9OtdMSgg3) | 2:46 |
+| 57 | [sag mir was ich nicht weiß](https://open.spotify.com/track/2YgHhD3Tuifloa4ju1N0g2) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [sag mir was ich nicht weiß](https://open.spotify.com/album/51M0w9KedzR3r9OtdMSgg3) | 2:46 |
 | 58 | [kaputt](https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV) | 2:10 |
 | 59 | [Fata Morgana](https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fata Morgana](https://open.spotify.com/album/3Abw9UTsnzAEEf3nC87Lvx) | 2:44 |
 | 60 | [Streichholz](https://open.spotify.com/track/72dPM6lRpbsJXCqS0Y8jBA) | [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Streichhölzer & Staub](https://open.spotify.com/album/4BocGOfQNEuYcyKPDAXDkK) | 2:41 |

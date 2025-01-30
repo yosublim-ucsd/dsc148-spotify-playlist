@@ -1,12 +1,12 @@
 {
   "description": "Hold up, run that back. Cover: Lil Wayne",
-  "num_followers": 32345,
+  "num_followers": 32429,
   "original_name": "Rap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nkCwAAAAArqZ/ZF5PtYuyKCJJ1hnhZ",
+  "snapshot_id": "Z5poFAAAAACFJBMxEaZOTTfSYypDUfae",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:59",
@@ -151,6 +151,26 @@
       "duration_ms": 313546,
       "name": "Low Life (feat. The Weeknd)",
       "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
+    },
+    {
+      "added_at": "2025-01-29 17:40:35",
+      "album": {
+        "name": "SKBP, Vol. 1",
+        "url": "https://open.spotify.com/album/5VymVuq1q34HlTmpJdm4KN"
+      },
+      "artists": [
+        {
+          "name": "Supa King",
+          "url": "https://open.spotify.com/artist/1IohqbuaIRVOHIRrrqzX6Z"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "Tell On Me (feat. Kevin Gates)",
+      "url": "https://open.spotify.com/track/6J60J68wrCdQgXI4ozULTM"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -891,22 +911,6 @@
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "Trap House 3",
-        "url": "https://open.spotify.com/album/3ZTwsrlhFezLH9SkPNaBNo"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Point in My Life",
-      "url": "https://open.spotify.com/track/2xQtvPCGfZWXccWCp9LYK4"
     },
     {
       "added_at": "2025-01-17 05:00:59",

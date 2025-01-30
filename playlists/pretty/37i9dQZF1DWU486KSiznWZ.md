@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: أحلام
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,830 likes - 43 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,895 likes - 43 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

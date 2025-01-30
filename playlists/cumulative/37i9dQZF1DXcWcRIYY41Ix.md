@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Yoly Saa.
 
-739 songs - 1 day 20 hr 6 min
+740 songs - 1 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Diente de León](https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [El Perro Feroz](https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp) | 2:20 | 2023-08-18 | 2024-04-19 |
 | [Diente de León](https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [El Perro Feroz](https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0) | 2:20 | 2021-12-24 | 2023-08-23 |
 | [difícil de olvidar](https://open.spotify.com/track/7aUjQg9J1OtRbtQGufEMyS) | [Lola Vila](https://open.spotify.com/artist/1tPuSgUu01ORw58W7A49KU) | [difícil de olvidar](https://open.spotify.com/album/0FRZmrIfXUidRzVenyQ21w) | 3:05 | 2024-05-09 | 2024-07-06 |
+| [Dime que no](https://open.spotify.com/track/683QA1npfGquujYETm5ZSF) | [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [Dime que no](https://open.spotify.com/album/5TfdtFxdpyvboStwCAGJGP) | 3:42 | 2025-01-23 |  |
 | [Dividido](https://open.spotify.com/track/6EF2wGmHfnKSVjR3t6Ufwd) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Dividido](https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC) | 3:34 | 2021-12-24 | 2023-08-19 |
 | [Donde nací](https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Donde nací](https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA) | 3:51 | 2024-12-20 |  |
 | [Dos Hemisferios](https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Dos Hemisferios](https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8) | 3:35 | 2024-03-01 | 2024-07-06 |
@@ -555,7 +556,7 @@
 | [Quién da Más?](https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Quién da Más?](https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk) | 4:32 | 2023-09-15 | 2023-10-05 |
 | [Quién Lo Diría](https://open.spotify.com/track/0v6BKaRYR08RgEmyZigUKf) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Quién Lo Diría](https://open.spotify.com/album/47v626dipoxlz7BCMgum3Q) | 3:17 | 2024-04-05 | 2024-06-15 |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/03WjjqJEvGGBH13LAhf6kE) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Tempo](https://open.spotify.com/album/1CEbTLY4WgYLlJHfHNcmt6) | 2:43 | 2021-12-24 | 2023-05-30 |
-| [Qué Bonito Es Tu Mirar](https://open.spotify.com/track/78KNojt04z4EYY9n41bWyf) | [Manuel Villaescusa](https://open.spotify.com/artist/6nmnwrJlB3ODf44KSORUyA) | [Qué Bonito Es Tu Mirar](https://open.spotify.com/album/7b01cMsnic5QsuDVSuwN4E) | 4:45 | 2024-12-20 |  |
+| [Qué Bonito Es Tu Mirar](https://open.spotify.com/track/78KNojt04z4EYY9n41bWyf) | [Manuel Villaescusa](https://open.spotify.com/artist/6nmnwrJlB3ODf44KSORUyA) | [Qué Bonito Es Tu Mirar](https://open.spotify.com/album/7b01cMsnic5QsuDVSuwN4E) | 4:45 | 2024-12-20 | 2025-01-30 |
 | [Qué Bonito Lugar](https://open.spotify.com/track/0yTFUbBfdrrInuHfTmzV8d) | [El Alejandro Nano](https://open.spotify.com/artist/6FVqzsyiOZlIVeFH7p7KqC) | [Qué Bonito Lugar](https://open.spotify.com/album/2BE64Lc16hCD3MwboqHR2E) | 3:39 | 2024-06-28 | 2024-07-06 |
 | [Qué No Daría](https://open.spotify.com/track/5fm1c7CIUStSiYlvvCuShh) | [Inés Manzano](https://open.spotify.com/artist/0s8H7Mk8puRPuQ2t4nNbHZ) | [Qué No Daría](https://open.spotify.com/album/333NXErtJaPn6bfj7mVMQs) | 4:13 | 2022-04-01 | 2022-04-09 |
 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 | 2023-12-22 | 2024-02-03 |

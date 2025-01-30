@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Kadec Santa Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,397 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,451 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 34 | [Polos Opuestos](https://open.spotify.com/track/5Z4H5MVnC5SxRCLyOo69zw) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Polos Opuestos](https://open.spotify.com/album/5pQ1P9ta8EX9198vZfZhKa) | 2:05 |
 | 35 | [Shorty](https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw) | 3:03 |
 | 36 | [CASAS ROSAS](https://open.spotify.com/track/6miOyimBD4VN4xlPUlNhMs) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [CASAS ROSAS](https://open.spotify.com/album/2HQd9y8Zun9wmPh6EL2fxA) | 2:45 |
-| 37 | [Condenados al Desastre](https://open.spotify.com/track/5yBKImga5NyJYpm2L9jfXY) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [Condenados al Desastre](https://open.spotify.com/album/2K3p2NM7ywB1xXxWKB8kOH) | 3:52 |
+| 37 | [Condenados al Desastre](https://open.spotify.com/track/5yBKImga5NyJYpm2L9jfXY) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [Condenados al Desastre](https://open.spotify.com/album/2K3p2NM7ywB1xXxWKB8kOH) | 3:52 |
 | 38 | [ReLaMiDo](https://open.spotify.com/track/6drJQVd7Mn3NjnD2bGbk20) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [4NGELITO](https://open.spotify.com/album/5IOrh719ln2wBeIXdntTPS) | 1:55 |
 | 39 | [Princesa](https://open.spotify.com/track/2dabNpFyjIQTVSZ18CPoLa) | [SWIT EME](https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz) | [Princesa](https://open.spotify.com/album/4nkT1uabLIgbCaKPxoUl2D) | 2:34 |
 | 40 | [La Vida Sin Ti](https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [La Vida Sin Ti](https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP) | 2:44 |
-| 41 | [Vuelves](https://open.spotify.com/track/5gpeWZITMV7AragQLuNpyH) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [Igual Que Nadie](https://open.spotify.com/album/3S82dtiNIiGbFioYVkjzdS) | 4:10 |
+| 41 | [Vuelves](https://open.spotify.com/track/5gpeWZITMV7AragQLuNpyH) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [Igual Que Nadie](https://open.spotify.com/album/3S82dtiNIiGbFioYVkjzdS) | 4:10 |
 | 42 | [Mal de amores](https://open.spotify.com/track/0Lo7sfCdYizVfbg4vKIeYI) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B) | [Mal de amores](https://open.spotify.com/album/49kiAoJwBMwETNu6BvnBbi) | 4:15 |
 | 43 | [RUPIAS](https://open.spotify.com/track/0npNncu4hkA3aJ9L5ipZqI) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [RUPIAS](https://open.spotify.com/album/19Mi6N2VNpFsIfBRCuujGo) | 2:40 |
 | 44 | [Barquito de Vela](https://open.spotify.com/track/1OzXgYzPRco0NvqcDEnCRG) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [Barquito de Vela](https://open.spotify.com/album/5JuD1pjNSmDMyQIDktuQNL) | 3:40 |

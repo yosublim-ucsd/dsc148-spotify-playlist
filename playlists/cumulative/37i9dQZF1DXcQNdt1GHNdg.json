@@ -1247,6 +1247,32 @@
     },
     {
       "album": {
+        "name": "Galbaat",
+        "url": "https://open.spotify.com/album/09PxPENNHiUP7i6tugSqNK"
+      },
+      "artists": [
+        {
+          "name": "Harf Cheema",
+          "url": "https://open.spotify.com/artist/5LCotODBhURh2HRrDINp3A"
+        },
+        {
+          "name": "Gulab Sidhu",
+          "url": "https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW"
+        },
+        {
+          "name": "Gaiphy",
+          "url": "https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140364,
+      "name": "Galbaat",
+      "url": "https://open.spotify.com/track/0GX9G0xtAI4Kr6iLIgFZ2i"
+    },
+    {
+      "album": {
         "name": "Mankirt Aulakh - Best Hits",
         "url": "https://open.spotify.com/album/5Cjo7LqqidLgnitIbm9G3L"
       },
@@ -1298,7 +1324,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
@@ -3280,12 +3306,12 @@
       },
       "artists": [
         {
-          "name": "Deepak Dhillon",
-          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
-        },
-        {
           "name": "Navi Warring",
           "url": "https://open.spotify.com/artist/30sKPEz7rychX6f8FkA56J"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
         }
       ],
       "date_added": "2025-01-20",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,395 songs - 3 day 8 hr 37 min
+1,396 songs - 3 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [hearts <3](https://open.spotify.com/track/2o0JbmIEBEJ20f7SXpr7XH) | [Dariush](https://open.spotify.com/artist/3C4HKKPCdlK3Sn9ik1WDkP), [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [bb break fast](https://open.spotify.com/album/5xQytuElt7kUQ3Pus9fdmr) | 4:57 | 2023-05-01 | 2024-04-19 |
 | [Heartstrings](https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Heartstrings](https://open.spotify.com/album/6Zf2UCQdYaRfR5pFXQAl90) | 3:31 | 2022-09-09 | 2024-04-10 |
 | [Heatwave \(feat\. Robbie Jay\)](https://open.spotify.com/track/5mi9BFrugew7j9HzUpgPEI) | [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Robbie Jay](https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K) | [Heatwave \(feat\. Robbie Jay\)](https://open.spotify.com/album/3gzzOdF1CxP1Sa9wihhdrE) | 3:21 | 2022-02-04 | 2023-06-17 |
+| [Heaven](https://open.spotify.com/track/1Msjub09jLhkGbyThmMLsp) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [Low Mileage](https://open.spotify.com/artist/0dLhJRQpTrk32TbujPeN8u) | [Heaven](https://open.spotify.com/album/0ImZZPtmPlCcka1v9e9dFv) | 2:14 | 2025-01-24 |  |
 | [Heaven](https://open.spotify.com/track/09wrW4mdaoBrOFY6KSR94h) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Dancehall](https://open.spotify.com/album/6WbMZYQ1SAU8HrgZSuH0xJ) | 3:39 | 2019-08-09\* | 2019-08-27 |
 | [Heaven Knows](https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Heaven Knows](https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L) | 3:53 | 2025-01-17 |  |
 | [Heavenly Side](https://open.spotify.com/track/1xddmaN7Ivc2SQ940oBskZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Heavenly Side](https://open.spotify.com/album/5zboD55XbkrZ3JJkvXC2EE) | 4:00 | 2021-07-10 | 2022-12-03 |
@@ -503,7 +504,7 @@
 | [Helium](https://open.spotify.com/track/4F6l1g7UMasHnEgzrRP9e5) | [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Helium](https://open.spotify.com/album/6X5lWXIfJG8ty2jpXEFldJ) | 3:11 | 2023-06-16 | 2025-01-18 |
 | [Help Me Lose My Mind](https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Help Me Lose My Mind](https://open.spotify.com/album/5QF6Mk1pJl9H5mikpQNtpa) | 2:52 | 2024-11-29 |  |
 | [Here](https://open.spotify.com/track/1rAlHGfpnHz3kF2WwLGXw6) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Here](https://open.spotify.com/album/4hQ3OP8m5ZIV7IlqfSiwmC) | 3:14 | 2021-09-25 | 2022-05-14 |
-| [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG) | 3:31 | 2024-05-31 |  |
+| [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/6LXoxSbn5NB07w0QqvbeNJ) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Here By Now \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/3qmMgA7FVycxNIkZsn4gMG) | 3:31 | 2024-05-31 | 2025-01-30 |
 | [Here For You \(feat\. sad alex\)](https://open.spotify.com/track/3PIjrbCjKKNmR84vPf172R) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [For You](https://open.spotify.com/album/7rcgjzm6DOL7GiHws7Gmb3) | 2:47 | 2019-08-09\* | 2020-03-29 |
 | [Here With Me](https://open.spotify.com/track/5icOoE6VgqFKohjWWNp0Ac) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Here With Me](https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd) | 2:36 | 2019-08-20 | 2020-10-30 |
 | [Here With Me \(feat\. Nevve\)](https://open.spotify.com/track/14BmGOdWFMkxiyQ7f4s03L) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Here With Me \(feat\. Nevve\)](https://open.spotify.com/album/4cBVizWVamVwH4v5g6zTto) | 3:25 | 2020-02-21 | 2021-09-25 |

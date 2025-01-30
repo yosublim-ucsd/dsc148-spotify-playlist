@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 535 songs - 1 day 11 hr 58 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 536 songs - 1 day 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -543,5 +543,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 533 | [The Rolling Stones](https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
 | 534 | [Persona](https://open.spotify.com/track/6zl3FkdpbmNwsvCqWkcEze) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Persona](https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt) | 0:32 |
 | 535 | [Tambourine Dream](https://open.spotify.com/track/5eAKaGCR0QEuPOxOo0zXqs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 0:33 |
+| 536 | [BLACK OPPS](https://open.spotify.com/track/3YnYMjDHxPs5WsKjGJwZEE) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [LOWER](https://open.spotify.com/album/01UBvt33eTksshPiwljpBn) | 3:48 |
 
-Snapshot ID: `AAAG5enIIZXpanhi/NvQNRIA5wXIIBgz`
+Snapshot ID: `AAAG5m8DgVEsa2GfhClxg4o3azxylarl`

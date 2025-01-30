@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-904 songs - 2 day 3 hr 19 min
+905 songs - 2 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 | 2023-04-26 | 2023-07-22 |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-12 | 2023-07-06 |
 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 | 2024-02-09 | 2024-05-01 |
+| [IDGAF](https://open.spotify.com/track/5VEFvinD436JLHYunYwv0p) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [IDGAF](https://open.spotify.com/album/7HVmjL6BNGQcasnOZxfBio) | 3:36 | 2025-01-29 |  |
 | [If I Lost You](https://open.spotify.com/track/6h0dzH10dHzzNglwUCldO5) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [If I Lost You](https://open.spotify.com/album/4TTslMeoouMV3x6uDh0TT5) | 3:31 | 2024-10-31 |  |
 | [if you wanna](https://open.spotify.com/track/6E3rVTQWxbSBhSDqclngEy) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [if you wanna](https://open.spotify.com/album/5z7iWCWjQ118YggyhVsfSE) | 2:37 | 2024-11-06 |  |
 | [Ignite](https://open.spotify.com/track/4rV0XtqahATaPf29s1rpAd) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Ignite](https://open.spotify.com/album/2GiGo3FNrLxqTO2q6Jh4GD) | 2:53 | 2024-08-09 | 2024-11-01 |
@@ -430,7 +431,7 @@
 | [Landslide \- BOTCASH Remix](https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv) | [Landslide \(BOTCASH Remix\)](https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i) | 3:22 | 2023-12-14 | 2024-03-28 |
 | [Last Time](https://open.spotify.com/track/527oJMrzPR6PhTWNPclNah) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Divergence](https://open.spotify.com/album/2wl5XUluXxVwhBhfZEOwVL) | 3:36 | 2024-09-19 | 2024-12-13 |
 | [Lastecostra](https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Lastecostra](https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5) | 3:21 | 2023-10-03 | 2024-01-17 |
-| [Lean Onto Me](https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Lean Onto Me](https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm) | 3:12 | 2024-10-23 |  |
+| [Lean Onto Me](https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Lean Onto Me](https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm) | 3:12 | 2024-10-23 | 2025-01-30 |
 | [Leap Of Faith](https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Leap Of Faith](https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN) | 3:13 | 2023-08-22 | 2023-12-14 |
 | [Leave The World Behind](https://open.spotify.com/track/5sbsBKsvwpQdSMZzge0Fy6) | [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija), [Luna Lenta](https://open.spotify.com/artist/36un9X6TbRfeYAMadbI2SN) | [Leave The World Behind](https://open.spotify.com/album/5o3db722bxyOZJzdTxEiPL) | 3:37 | 2024-01-31 | 2024-04-20 |
 | [Let It Bloom](https://open.spotify.com/track/0c4m3t9QKH4PXXYbYX2GBu) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let It Bloom](https://open.spotify.com/album/5QItpT8Xs57eUsrDi5Spae) | 4:00 | 2023-07-27 | 2023-12-14 |

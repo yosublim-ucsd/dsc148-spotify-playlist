@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,170 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,188 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 69 | [Oración del Remanso](https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Oración del Remanso](https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr) | 5:11 |
 | 70 | [Te amare eternamente](https://open.spotify.com/track/3HMpThyVex1VpyiFU6KKEo) | [Los Hermanos Barrios](https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:12 |
 | 71 | [Un simbronazo](https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO) | [Los Cate](https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:03 |
-| 72 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 |
-| 73 | [Refugio de Soñadores](https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km) | [Rudi y Nini Flores](https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt), [Miguel Ángel Porra](https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN) | [Refugio de Soñadores](https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2) | 3:22 |
+| 72 | [Refugio de Soñadores](https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km) | [Rudi y Nini Flores](https://open.spotify.com/artist/1NUWvy634UHJCGgo0c47wt), [Miguel Ángel Porra](https://open.spotify.com/artist/5CBXXNsH8GqhdfEttuMXTN) | [Refugio de Soñadores](https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2) | 3:22 |
+| 73 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 |
 | 74 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
 | 75 | [General Madariaga](https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT) | [Litoral Tagüe](https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE) | [Andando](https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ) | 3:09 |
 | 76 | [Bien Correntino / Lágrima de Cocodrilo / Masticando / Conocerte a Ti](https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4) | [Los Criollitos del Chamamé](https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r) | [Con Estilo Mbareté](https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C) | 7:54 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 86 | [La Chamamecera](https://open.spotify.com/track/3RtLz2m3s8HgkR5pDdcP1k) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Chamamecera](https://open.spotify.com/album/2DrjbKf3LDlKVRgu1Jiftp) | 4:25 |
 | 87 | [El Petizo Maceta](https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Chamamé Con Estilo Propio](https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb) | 2:36 |
 | 88 | [Acordeona No Llores](https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t) | [La Pilarcita](https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX), [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [12 Años Con el Chamamé](https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV) | 3:11 |
-| 89 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
-| 90 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 |
+| 89 | [Flor del Litoral](https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:51 |
+| 90 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
 
 Snapshot ID: `ZzNk3AAAAADtOaeWEMx6Fpdkql+kONPR`

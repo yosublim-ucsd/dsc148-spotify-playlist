@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 120004,
       "name": "Chess Type Beat",
       "url": "https://open.spotify.com/track/7mwXFKWXsbxSanaFQ2JS53"
@@ -3968,11 +3968,33 @@
         {
           "name": "Jes\u00fas Mus1c",
           "url": "https://open.spotify.com/artist/3dJeNjOEz8d8bgWYiK8SPv"
+        },
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120053,
+      "name": "CHESS TYPE BEAT",
+      "url": "https://open.spotify.com/track/1FgcRLca2X8uhLh0fshvRW"
+    },
+    {
+      "album": {
+        "name": "CHESS TYPE BEAT",
+        "url": "https://open.spotify.com/album/28Vx2GTLcjptZLTTSrJrur"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Mus1c",
+          "url": "https://open.spotify.com/artist/3dJeNjOEz8d8bgWYiK8SPv"
         }
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 142053,
       "name": "CHESS TYPE BEAT - Slowed",
       "url": "https://open.spotify.com/track/26baAwsZBAOnhzkTHUivtP"
@@ -7539,6 +7561,28 @@
     },
     {
       "album": {
+        "name": "flashes",
+        "url": "https://open.spotify.com/album/1xtogJBn8wOmtb7uNHCl6h"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "flashes",
+      "url": "https://open.spotify.com/track/6ciaJyxPG3OueX32rd57jA"
+    },
+    {
+      "album": {
         "name": "Fleeting Dream (Was It True?)",
         "url": "https://open.spotify.com/album/3MCOiSL9qsNP3tGxvORvzE"
       },
@@ -9636,7 +9680,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -14652,7 +14696,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 166861,
       "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
       "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
@@ -21017,6 +21061,24 @@
     },
     {
       "album": {
+        "name": "Un d\u00eda a la vez",
+        "url": "https://open.spotify.com/album/3m3NIzLzVyUyriwMNN81hp"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178795,
+      "name": "Un d\u00eda a la vez",
+      "url": "https://open.spotify.com/track/2WyMUbRbYvNWXg83ugIgzi"
+    },
+    {
+      "album": {
         "name": "UN SIGLO SIN TI",
         "url": "https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz"
       },
@@ -21172,7 +21234,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 177049,
       "name": "una noche",
       "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"
@@ -22562,7 +22624,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 345812,
       "name": "Would You Fall in Love with Me Again",
       "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"

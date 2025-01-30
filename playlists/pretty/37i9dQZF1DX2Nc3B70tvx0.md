@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Lucy Dacus
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,068,109 likes - 81 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068,034 likes - 81 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

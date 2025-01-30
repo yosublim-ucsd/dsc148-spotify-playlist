@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 221035,
       "name": "Boiling Point",
       "url": "https://open.spotify.com/track/0z02GgxKHHvIGKPPOE3QDZ"
@@ -5290,6 +5290,32 @@
       "duration_ms": 187034,
       "name": "Top G",
       "url": "https://open.spotify.com/track/2Ktxau7EN5L82j2E9BnQKZ"
+    },
+    {
+      "album": {
+        "name": "Tough Times",
+        "url": "https://open.spotify.com/album/58N4lcbf1W73zLdHUk5bke"
+      },
+      "artists": [
+        {
+          "name": "D Power Diesle",
+          "url": "https://open.spotify.com/artist/2WR5eGIR0Lp7Pw1qxzUICR"
+        },
+        {
+          "name": "Kozzie",
+          "url": "https://open.spotify.com/artist/4DEP2Gftmem88C3JN8be77"
+        },
+        {
+          "name": "Adam R",
+          "url": "https://open.spotify.com/artist/3cidPvGC5K4XnnPueGAjjR"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Tough Times",
+      "url": "https://open.spotify.com/track/0NkEkI7f2ZeMbRbf56NGgm"
     },
     {
       "album": {

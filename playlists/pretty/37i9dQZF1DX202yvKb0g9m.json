@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 132215,
+  "num_followers": 132263,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "The Feast Of The Broken Heart",
+        "url": "https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th"
+      },
+      "artists": [
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        },
+        {
+          "name": "Gustaph",
+          "url": "https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7"
+        }
+      ],
+      "duration_ms": 281815,
+      "name": "Do You Feel The Same?",
+      "url": "https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 714133,
       "name": "Acid Trax",
       "url": "https://open.spotify.com/track/0zSyKNVHqvAmzTwEHItE92"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "The Feast Of The Broken Heart",
-        "url": "https://open.spotify.com/album/7nzzw3jQeC2X1k9BdDI0Th"
-      },
-      "artists": [
-        {
-          "name": "Hercules & Love Affair",
-          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
-        },
-        {
-          "name": "Gustaph",
-          "url": "https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7"
-        }
-      ],
-      "duration_ms": 281815,
-      "name": "Do You Feel The Same?",
-      "url": "https://open.spotify.com/track/2OasvzxZ0R52l0I7TG8mlI"
     },
     {
       "added_at": "2024-07-10 08:16:23",

@@ -1,6 +1,6 @@
 {
   "description": "Le rayon de soleil musical de votre matin\u00e9e \ud83e\udd94",
-  "num_followers": 187361,
+  "num_followers": 187480,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "Home Again (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 209919,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "folklore (deluxe version)",
         "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/0KRYCBwIpWYFNrXOmXbyUh"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "Home Again (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 209919,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "All in Time",
-        "url": "https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW"
-      },
-      "artists": [
-        {
-          "name": "Shake Shake Go",
-          "url": "https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk"
-        }
-      ],
-      "duration_ms": 235043,
-      "name": "England Skies",
-      "url": "https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "Going To Where The Tea Trees Are",
         "url": "https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
+        "name": "All in Time",
+        "url": "https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW"
+      },
+      "artists": [
+        {
+          "name": "Shake Shake Go",
+          "url": "https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk"
+        }
+      ],
+      "duration_ms": 235043,
+      "name": "England Skies",
+      "url": "https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 145066,
       "name": "To Know Him Is To Love Him - Live",
       "url": "https://open.spotify.com/track/1Nz1PPjU3ONNEgjg8Pkppg"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
-        "name": "My One And Only Thrill",
-        "url": "https://open.spotify.com/album/3LNuQe1oprSo8VcxgJnKAV"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "Your Heart Is As Black As Night",
-      "url": "https://open.spotify.com/track/3afTrFAg0LjBVL54PiHZSP"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -839,6 +823,22 @@
       "duration_ms": 272586,
       "name": "Fly Like an Eagle",
       "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/3LNuQe1oprSo8VcxgJnKAV"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Your Heart Is As Black As Night",
+      "url": "https://open.spotify.com/track/3afTrFAg0LjBVL54PiHZSP"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
-      },
-      "artists": [
-        {
-          "name": "Anwar",
-          "url": "https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud"
-        }
-      ],
-      "duration_ms": 295493,
-      "name": "How Can I Do",
-      "url": "https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 264006,
       "name": "Jesus Christ 2005 God Bless America",
       "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV"
+      },
+      "artists": [
+        {
+          "name": "Anwar",
+          "url": "https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud"
+        }
+      ],
+      "duration_ms": 295493,
+      "name": "How Can I Do",
+      "url": "https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx"
     },
     {
       "added_at": "2025-01-09 23:00:10",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-01-09 23:00:10",
       "album": {
-        "name": "Kind Of Man",
-        "url": "https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 255296,
-      "name": "Kind Of Man",
-      "url": "https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc"
-    },
-    {
-      "added_at": "2025-01-09 23:00:10",
-      "album": {
         "name": "Breath of Roma",
         "url": "https://open.spotify.com/album/7CweJaFaFVZLSQvCtDM05m"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 205840,
       "name": "Breath of Roma",
       "url": "https://open.spotify.com/track/7oHPHBLG6hOaGeBrkOUSS3"
+    },
+    {
+      "added_at": "2025-01-09 23:00:10",
+      "album": {
+        "name": "Kind Of Man",
+        "url": "https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 255296,
+      "name": "Kind Of Man",
+      "url": "https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc"
     },
     {
       "added_at": "2025-01-09 23:00:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: mou
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,806 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,816 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 4 | [Constant Gratification](https://open.spotify.com/track/6CMy16Q8TBdJQaizUpL6Mn) | [Kook Joey](https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8) | [Losing Limits](https://open.spotify.com/album/6maSNGCaZKGJ9RLzNMqduQ) | 3:13 |
 | 5 | [you were mine](https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [you were mine](https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX) | 3:41 |
 | 6 | [Lead You On](https://open.spotify.com/track/4WzInSOMpumG6qE9fVnF7L) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD), [Jvyden](https://open.spotify.com/artist/06KdtAL4cBJyK1dGqTwj7o) | [Lead You On](https://open.spotify.com/album/4PgB7LZa3kOoC5hPsIR7z4) | 4:13 |
-| 7 | [Pushing Away](https://open.spotify.com/track/2Pffu0RxWbNM9iPVZkbpV3) | [Bread Club](https://open.spotify.com/artist/1A6xqPnXS5aOPdUU5fdK9w) | [Greatest Hits \(fingers crossed\)](https://open.spotify.com/album/5i0qsZq36c4onghrznQAPt) | 4:23 |
-| 8 | [Crocodile Tears](https://open.spotify.com/track/3uXA1daLAq7pLyzO8OHDaL) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Better Luck](https://open.spotify.com/album/7wrJUQn6SIe4VVZXycpXa7) | 2:56 |
+| 7 | [Crocodile Tears](https://open.spotify.com/track/3uXA1daLAq7pLyzO8OHDaL) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Better Luck](https://open.spotify.com/album/7wrJUQn6SIe4VVZXycpXa7) | 2:56 |
+| 8 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 |
 | 9 | [FREEDOM WE'RE NEEDING](https://open.spotify.com/track/0njYthzChwavvcyKyD0CD4) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [FREEDOM WE'RE NEEDING](https://open.spotify.com/album/620btm2TdkMTxU6O4ZW6qp) | 3:49 |
 | 10 | [It Don't Matter](https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [It Don't Matter](https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP) | 3:25 |
 | 11 | [Atlaniz](https://open.spotify.com/track/5yptxdOYN9moHHZtMWB0by) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC), [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Atlaniz](https://open.spotify.com/album/6aAus1L5L8m71e7Y1mE0Bm) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Press Reset](https://open.spotify.com/track/7kCvYAT03RBT6CzVomDO2r) | [Shag Rock](https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm) | [Press Reset](https://open.spotify.com/album/6a6YU92dG69ceuTlZyWIaW) | 2:58 |
 | 100 | [World Wide Wave](https://open.spotify.com/track/3FOBu4kwQyrVK4dFvLMvcx) | [Selve](https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL) | [World Wide Wave](https://open.spotify.com/album/3rymn37IcWx5JbhYGyTQA6) | 3:11 |
 
-Snapshot ID: `Z5jU4gAAAAD0HZxIhewME1txeBxpY0oX`
+Snapshot ID: `Z5m9cAAAAACfEPsBt5B7kc7WM6n1n/SR`

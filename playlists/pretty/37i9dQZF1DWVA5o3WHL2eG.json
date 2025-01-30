@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Kauta",
-  "num_followers": 37067,
+  "num_followers": 37069,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -307,38 +307,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h"
-      },
-      "artists": [
-        {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        }
-      ],
-      "duration_ms": 215624,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
-        "name": "Unsichtbar",
-        "url": "https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi"
-      },
-      "artists": [
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 143725,
-      "name": "Unsichtbar",
-      "url": "https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "daf\u00fcr oder dagegen",
         "url": "https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V"
       },
@@ -359,6 +327,38 @@
       "duration_ms": 183510,
       "name": "daf\u00fcr oder dagegen",
       "url": "https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Unsichtbar",
+        "url": "https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi"
+      },
+      "artists": [
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 143725,
+      "name": "Unsichtbar",
+      "url": "https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        }
+      ],
+      "duration_ms": 215624,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -643,18 +643,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Beating",
-        "url": "https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD"
+        "name": "Wir sind echt",
+        "url": "https://open.spotify.com/album/27xDRNsdenJ6Ia7lfI6MQV"
       },
       "artists": [
         {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+          "name": "AYCA",
+          "url": "https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr"
         }
       ],
-      "duration_ms": 168786,
-      "name": "Beating",
-      "url": "https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3"
+      "duration_ms": 112626,
+      "name": "Wir sind echt",
+      "url": "https://open.spotify.com/track/1wBtQwr4yrYtjfSfAlXxNr"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Wir sind echt",
-        "url": "https://open.spotify.com/album/27xDRNsdenJ6Ia7lfI6MQV"
+        "name": "Beating",
+        "url": "https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD"
       },
       "artists": [
         {
-          "name": "AYCA",
-          "url": "https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr"
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
         }
       ],
-      "duration_ms": 112626,
-      "name": "Wir sind echt",
-      "url": "https://open.spotify.com/track/1wBtQwr4yrYtjfSfAlXxNr"
+      "duration_ms": 168786,
+      "name": "Beating",
+      "url": "https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3"
     },
     {
       "added_at": "2025-01-07 23:00:01",

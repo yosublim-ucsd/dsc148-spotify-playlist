@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Danzo",
-  "num_followers": 132631,
+  "num_followers": 132624,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -815,38 +815,6 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
-        "name": "Notas no Plastico",
-        "url": "https://open.spotify.com/album/6b47iof8rRXcmipSuBmpCc"
-      },
-      "artists": [
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Shenlong",
-          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
-        },
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Notas no Plastico",
-      "url": "https://open.spotify.com/track/4VSddCixqajam5BOKiH0rC"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 192379,
       "name": "Pr\u00f3ximo Milion\u00e1rio",
       "url": "https://open.spotify.com/track/4xGNfvU6WN7xwfT7OKRZF4"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
+        "name": "Notas no Plastico",
+        "url": "https://open.spotify.com/album/6b47iof8rRXcmipSuBmpCc"
+      },
+      "artists": [
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Shenlong",
+          "url": "https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY"
+        },
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Notas no Plastico",
+      "url": "https://open.spotify.com/track/4VSddCixqajam5BOKiH0rC"
     },
     {
       "added_at": "2025-01-24 03:01:24",

@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 110276,
+  "num_followers": 110302,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-01-20 09:26:12",
       "album": {
+        "name": "Drogadicci\u00f3n",
+        "url": "https://open.spotify.com/album/205z0xubfl0a5zdgxXpsAq"
+      },
+      "artists": [
+        {
+          "name": "Gambas kon fimosis",
+          "url": "https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d"
+        }
+      ],
+      "duration_ms": 136521,
+      "name": "Drogadicci\u00f3n",
+      "url": "https://open.spotify.com/track/6rYbAbLsga9UW0qvOwyBbF"
+    },
+    {
+      "added_at": "2025-01-20 09:26:12",
+      "album": {
         "name": "Mi Locura",
         "url": "https://open.spotify.com/album/7ME5Ud4N8o9W1hwmPMi0wm"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 235058,
       "name": "Mi Locura",
       "url": "https://open.spotify.com/track/20w5eoFbHbEpEkMn9j3uDq"
-    },
-    {
-      "added_at": "2025-01-20 09:26:12",
-      "album": {
-        "name": "Drogadicci\u00f3n",
-        "url": "https://open.spotify.com/album/205z0xubfl0a5zdgxXpsAq"
-      },
-      "artists": [
-        {
-          "name": "Gambas kon fimosis",
-          "url": "https://open.spotify.com/artist/40OKyYEkjN3NZoX7u27Z4d"
-        }
-      ],
-      "duration_ms": 136521,
-      "name": "Drogadicci\u00f3n",
-      "url": "https://open.spotify.com/track/6rYbAbLsga9UW0qvOwyBbF"
     },
     {
       "added_at": "2025-01-20 09:26:12",

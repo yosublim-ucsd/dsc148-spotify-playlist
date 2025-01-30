@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Stainless Style",
+        "url": "https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA"
+      },
+      "artists": [
+        {
+          "name": "Neon Neon",
+          "url": "https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "Dream Cars",
+      "url": "https://open.spotify.com/track/32VOU1p43IfunZDoSrxE4v"
+    },
+    {
+      "album": {
         "name": "A Grand Don't Come for Free",
         "url": "https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u"
       },

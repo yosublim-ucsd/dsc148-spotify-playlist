@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Felp 22
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,389 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,418 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 70 | [Melhor Rota \(feat\. Caslu & Mozart Mz\)](https://open.spotify.com/track/4bBkQnkKvVpsXdAoNgMhg2) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne) | [Melhor Rota \(feat\. Caslu & Mozart Mz\)](https://open.spotify.com/album/00oWNf1lbPXTfZBfhDN3Kp) | 3:15 |
 | 71 | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/track/61NuOY0AZp2cO7oOLOnEjN) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [\#SV 13 \- TOKIODK / Ciclos](https://open.spotify.com/album/3kq0VICAcxc9xnPa6Zqkkl) | 2:28 |
 | 72 | [E eu não sei se te respondo](https://open.spotify.com/track/43KdAIrNhRoZpYUGHYej7A) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E), [Ryam Beatz](https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY), [Gordon mc](https://open.spotify.com/artist/3OvZcWedVpkCwMdmIKaWh1) | [E eu não sei se te respondo](https://open.spotify.com/album/3PCDA4jxFk8FNgOwFHTjoL) | 2:10 |
-| 73 | [GRAV FM \(feat\. Lil Fuub\)](https://open.spotify.com/track/6zpNEY6PV5pZ4sx2FpnwiC) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [$nif](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw), [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [GRAV FM \(feat\. Lil Fuub\)](https://open.spotify.com/album/0qC5LXUuIzhgUmrPRgRCLd) | 3:15 |
+| 73 | [GRAV FM \(feat\. Lil Fuub\)](https://open.spotify.com/track/6zpNEY6PV5pZ4sx2FpnwiC) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2), [$nif](https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw), [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [GRAV FM \(feat\. Lil Fuub\)](https://open.spotify.com/album/0qC5LXUuIzhgUmrPRgRCLd) | 3:15 |
 | 74 | [DizQNão](https://open.spotify.com/track/446WIEpimoONd4nhSOo9SO) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [DizQNão](https://open.spotify.com/album/7kag3l18weyyYP6HlQpMnv) | 3:08 |
 | 75 | [CARA DI CRIA \#3](https://open.spotify.com/track/0JSa7bgwk3BQaa53vk24Oq) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [KENNEDYBEATZ](https://open.spotify.com/artist/6Uz43ydgngc2Qk30cQoAXC) | [CARA DI CRIA \#3](https://open.spotify.com/album/6fBC8O8X7NRy1GBAyxpdDN) | 2:26 |
 

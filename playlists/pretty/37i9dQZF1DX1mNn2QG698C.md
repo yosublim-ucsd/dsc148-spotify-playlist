@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 
 > La playlist ufficiale del nuovo rap show di Netflix! Vincitore: Kid Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,218 likes - 53 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,238 likes - 53 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 | 18 | [Pleasantville](https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Suicidol](https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6) | 5:49 |
 | 19 | [Applausi Per Fibra](https://open.spotify.com/track/7roApk4v4yAWU3AbE7hV6L) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Tradimento \(Platinum Edition\)](https://open.spotify.com/album/24dbmNvNJUPZP9VNkidxqb) | 4:54 |
 | 20 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 |
-| 21 | [Da zero](https://open.spotify.com/track/0aFUAecJBaYgJHSu0uBf7a) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [DOOM](https://open.spotify.com/album/0wqNe0EDDKNpJ9SYMEVyLr) | 2:30 |
+| 21 | [Da zero](https://open.spotify.com/track/0aFUAecJBaYgJHSu0uBf7a) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [DOOM](https://open.spotify.com/album/0wqNe0EDDKNpJ9SYMEVyLr) | 2:30 |
 | 22 | [Netflix](https://open.spotify.com/track/1XiF40UZiMZstIl37DdRaC) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 2:33 |
 | 23 | [Badabum Cha Cha](https://open.spotify.com/track/2GSfyPIIDLRDxZ4YuB9ZvN) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Marracash](https://open.spotify.com/album/43KyQewbK0qlrNwLiYy2Yf) | 3:33 |
-| 24 | [Gli occhi della tigre](https://open.spotify.com/track/5pL8J6weoydzXglhsoJ6Vw) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Raptus 3](https://open.spotify.com/album/04gdaRtg56whGgaaPnUsr4) | 2:46 |
+| 24 | [Gli occhi della tigre](https://open.spotify.com/track/5pL8J6weoydzXglhsoJ6Vw) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Raptus 3](https://open.spotify.com/album/04gdaRtg56whGgaaPnUsr4) | 2:46 |
 | 25 | [Rotten](https://open.spotify.com/track/41FusdKMoGstfNPq7TXjXX) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Suicidol](https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6) | 3:58 |
 | 26 | [PARAFULMINI \(con Bresh & Fabri Fibra\)](https://open.spotify.com/track/71FY3ENTle5U1XdO82LxOe) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [PARAFULMINI \(con Bresh & Fabri Fibra\)](https://open.spotify.com/album/3jpLucgWNCwEaAuw4oMBUq) | 3:28 |
 | 27 | [Michelle Pfeiffer \(feat\. Tony Effe\)](https://open.spotify.com/track/2i8vSdlmDhFscyM40CJUcs) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 3:00 |

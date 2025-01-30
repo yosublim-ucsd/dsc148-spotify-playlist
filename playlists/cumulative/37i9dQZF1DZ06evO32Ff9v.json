@@ -740,7 +740,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 207750,
       "name": "El Solo",
       "url": "https://open.spotify.com/track/4AgHqLbnX7ehrde8SmToql"
@@ -1024,6 +1024,24 @@
       "duration_ms": 159061,
       "name": "La Pluma De Wax",
       "url": "https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU"
+    },
+    {
+      "album": {
+        "name": "La Torre De Oro",
+        "url": "https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178374,
+      "name": "La Torre De Oro",
+      "url": "https://open.spotify.com/track/0UuHledJeNZ99QsL1C3VWo"
     },
     {
       "album": {

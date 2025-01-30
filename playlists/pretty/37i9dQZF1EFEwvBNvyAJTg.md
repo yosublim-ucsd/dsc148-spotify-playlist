@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 149 | [Sophie](https://open.spotify.com/track/49o7kcMGl6cu6vAvEf6pNt) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [B\-Sides](https://open.spotify.com/album/6nDe4ks2ZUTzufc1BvJ8hk) | 2:55 |
 | 150 | [Crazy Fool](https://open.spotify.com/track/0GcIT8YyochQj6IqDZPCCp) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:37 |
 | 151 | [Ghost](https://open.spotify.com/track/5bEaYySrMGO82K3ZHqlM8T) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 2:54 |
-| 152 | [Stressed Out](https://open.spotify.com/track/3lsDtg0uBxpnYegN6DXcrA) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:02 |
-| 153 | [Saturday](https://open.spotify.com/track/6kNERTseZtfhD6OiLiJs6D) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [MazZz](https://open.spotify.com/artist/3SiNCwhDyYfsNMw5sEQ7FZ) | [Saturday](https://open.spotify.com/album/6yJqD0yIdmihsm12DWCLYq) | 2:39 |
+| 152 | [Saturday](https://open.spotify.com/track/6kNERTseZtfhD6OiLiJs6D) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [MazZz](https://open.spotify.com/artist/3SiNCwhDyYfsNMw5sEQ7FZ) | [Saturday](https://open.spotify.com/album/6yJqD0yIdmihsm12DWCLYq) | 2:39 |
+| 153 | [Stressed Out](https://open.spotify.com/track/3lsDtg0uBxpnYegN6DXcrA) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:02 |
 | 154 | [2nd Nature](https://open.spotify.com/track/6HxJmedXOuP3jomJguAsJF) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 2:42 |
 | 155 | [WITCHCRAFT GIRLS](https://open.spotify.com/track/6ENVUi31WSw6Tqp2dvNrrl) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:46 |
 | 156 | [Bitter Sweet](https://open.spotify.com/track/6OGvp0jPvjW9mZYRHOZ1r4) | [竇靖童](https://open.spotify.com/artist/3BE5bmdNoQkPW4qTPH1npC) | [ストーン・カフェ](https://open.spotify.com/album/7pGF9X03Lu1zvYFGExgQ4W) | 4:13 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 216 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 217 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AboGygAAAACq9qUv3GYO49paI5+ye611`
+Snapshot ID: `AboMagAAAAA0cAy3mwV3/7cV6TLLVULc`

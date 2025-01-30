@@ -1,6 +1,6 @@
 {
   "description": "Kay in cover della playlist dell'R&B italiano \ud83c\udfa7",
-  "num_followers": 15048,
+  "num_followers": 15051,
   "original_name": "anima R&B",
   "owner": {
     "name": "Spotify",
@@ -82,6 +82,10 @@
         {
           "name": "Benedetta Scandale",
           "url": "https://open.spotify.com/artist/4vsyJNcjfl5HPKbQziOBTh"
+        },
+        {
+          "name": "Maenellavita",
+          "url": "https://open.spotify.com/artist/3hsH2bGuVxFwFwHRm2EtjH"
         }
       ],
       "duration_ms": 190029,
@@ -412,7 +416,7 @@
       },
       "artists": [
         {
-          "name": "Nayt",
+          "name": "nayt",
           "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
         }
       ],

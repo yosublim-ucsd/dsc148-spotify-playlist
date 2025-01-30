@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. <br/>Cover: mou
 
-3,763 songs - 8 day 14 hr 29 min
+3,764 songs - 8 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -933,6 +933,7 @@
 | [Drive Thru](https://open.spotify.com/track/4WvpnhljGX2eSEMeE3rrhz) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji), [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP) | [Drive Thru](https://open.spotify.com/album/6YXkNx8ja2YzuZAn3yeve1) | 3:13 | 2022-06-29 | 2022-07-20 |
 | [Driveway](https://open.spotify.com/track/0NDWhFxtRmakSLuxdvkIp4) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Driveway](https://open.spotify.com/album/67ruOPjGPhLFmplqqnuf1D) | 3:26 | 2024-11-19 |  |
 | [Driving Home](https://open.spotify.com/track/459i1iK7QehIvYQTMHXvIQ) | [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6) | [Driving Home](https://open.spotify.com/album/5JVpAaWPJiOteo0YH4ymsi) | 2:21 | 2022-03-30 | 2022-04-27 |
+| [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 | 2025-01-29 |  |
 | [Drug Store](https://open.spotify.com/track/4p9Crg5bBCfCTJFHKTRlRT) | [WYATT](https://open.spotify.com/artist/6mBJScOnNxP0MjgHlKi6Gw), [BENTLE](https://open.spotify.com/artist/4fM0KqoGH8b2iTi2okBzaE) | [Drug Store](https://open.spotify.com/album/2FWu0jvVRlIb2BllgX8ShV) | 3:08 | 2023-08-23 | 2023-09-14 |
 | [Drunk](https://open.spotify.com/track/2XhWcfx6ASDb0qvXbNsBsi) | [youproblem](https://open.spotify.com/artist/13Y8tKdDhnfdB8g5a9ZBs5) | [Drunk](https://open.spotify.com/album/4BXGV8ifzOD69k7hTs81Tx) | 3:14 | 2022-05-25 | 2022-06-16 |
 | [Drunk Talk](https://open.spotify.com/track/4e9tdfS0zMQggwXKTEeeue) | [Weffy](https://open.spotify.com/artist/7mOsvKBlAnnL4UECmUXRZQ), [Profa T](https://open.spotify.com/artist/6qg0G5SN3B04rDaFu2CTey) | [Drunk Talk](https://open.spotify.com/album/3XHtleFIONB9D7bcVy17qm) | 1:41 | 2023-11-15 | 2023-11-30 |
@@ -2634,7 +2635,7 @@
 | [Pure Shores](https://open.spotify.com/track/44gRWW1BODLc8vbVssq34g) | [CLYPSO](https://open.spotify.com/artist/0PLRwyoWBDRiK3QnflnDbd) | [Pure Shores](https://open.spotify.com/album/7jJYJc9SQ6oAKNPQQD48sE) | 2:45 | 2022-01-25 | 2022-02-24 |
 | [Pursuit](https://open.spotify.com/track/5ClnDTIsRgBs1E8w7ExW6c) | [Rob the Bank](https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE), [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp) | [Pursuit](https://open.spotify.com/album/00YDuoqAxSsytLVnXqVZVl) | 2:24 | 2024-06-18 | 2024-07-17 |
 | [Push Start](https://open.spotify.com/track/0AWWq2PcKq64cQCjOHpqai) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Push Start](https://open.spotify.com/album/2klbRjJcP5jnYCC9jGJzev) | 1:54 | 2023-07-06 | 2023-07-27 |
-| [Pushing Away](https://open.spotify.com/track/2Pffu0RxWbNM9iPVZkbpV3) | [Bread Club](https://open.spotify.com/artist/1A6xqPnXS5aOPdUU5fdK9w) | [Greatest Hits \(fingers crossed\)](https://open.spotify.com/album/5i0qsZq36c4onghrznQAPt) | 4:23 | 2025-01-28 |  |
+| [Pushing Away](https://open.spotify.com/track/2Pffu0RxWbNM9iPVZkbpV3) | [Bread Club](https://open.spotify.com/artist/1A6xqPnXS5aOPdUU5fdK9w) | [Greatest Hits \(fingers crossed\)](https://open.spotify.com/album/5i0qsZq36c4onghrznQAPt) | 4:23 | 2025-01-28 | 2025-01-30 |
 | [PUSSYLOVEMONEY \- Sped Up](https://open.spotify.com/track/3G2vd4MrW49kDmlRFSQ9aU) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [PUSSYLOVEMONEY \(Sped Up\)](https://open.spotify.com/album/3beBqfwJBH5HGiI0p8Ievx) | 2:14 | 2023-03-01 | 2023-03-16 |
 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-02-16 | 2022-03-02 |
 | [Put U On](https://open.spotify.com/track/2gnR4Uxo3EDApWWTyLrcYb) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Put U On](https://open.spotify.com/album/1Zx4vsHsfuLk9AFUbLMEbc) | 2:57 | 2024-10-08 | 2024-12-05 |

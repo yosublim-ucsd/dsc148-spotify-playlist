@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-221 songs - 15 hr 40 min
+222 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Carry Me Home](https://open.spotify.com/track/2mgIoFgItGxpYAQw5j1ShQ) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/18xdK3SoHfN0nHVAQfKvnQ) | 5:27 | 2021-10-20 | 2024-04-19 |
 | [Cat Nip](https://open.spotify.com/track/2nfHZUbJiAGkvNGWBoSoN6) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:27 | 2021-10-20 | 2023-10-26 |
 | [Cha Cha](https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Inspiration Information 3](https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP) | 4:35 | 2022-04-17 | 2024-04-19 |
-| [Chakana Sagrada](https://open.spotify.com/track/6YBVe0j9lzPnFWCIltIfV4) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr) | [Inti Watana \- El Retorno del Sol](https://open.spotify.com/album/0D6YYJNgMsXd1BPt0ea0lL) | 3:35 | 2024-10-04 |  |
+| [Chakana Sagrada](https://open.spotify.com/track/6YBVe0j9lzPnFWCIltIfV4) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr) | [Inti Watana \- El Retorno del Sol](https://open.spotify.com/album/0D6YYJNgMsXd1BPt0ea0lL) | 3:35 | 2024-10-04 | 2025-01-30 |
 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 | 2022-11-25 |  |
 | [Chase \- Spotify Singles](https://open.spotify.com/track/3Q4TZNei1kkNAZl6ab9hgs) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:12 | 2023-07-17 | 2023-10-20 |
 | [Chez Mounir](https://open.spotify.com/track/3AYbUnxgA6rrg6VC9rtFod) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:50 | 2023-07-24 | 2025-01-17 |
@@ -101,6 +101,7 @@
 | [Kolyskova](https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3) | [DakhaBrakha](https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5) | [Light](https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT) | 5:46 | 2021-10-20 |  |
 | [L'homme félin](https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY) | [Labelle](https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS) | [NOIR ANIMA](https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna) | 4:36 | 2023-11-23 | 2024-06-23 |
 | [La Bomba](https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [La Bomba](https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn) | 2:14 | 2024-04-30 |  |
+| [La Ruée](https://open.spotify.com/track/31WNmOPMuCiQG3dbRF1SKp) | [Tony Njoku](https://open.spotify.com/artist/1vkVP0FhEbUzaU1ztl7YmK) | [Last Bloom](https://open.spotify.com/album/02Ry9p7negWeW2eowLlnDA) | 3:03 | 2025-01-29 |  |
 | [Lam Phu Thai \# 1](https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr) | [Khun Narin](https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1) | [Khun Narin's Electric Phin Band](https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S) | 5:57 | 2023-02-10 |  |
 | [Les Assassins](https://open.spotify.com/track/1ZNqgaLZfd5AUIYad8IsYF) | [Combo Daguerre](https://open.spotify.com/artist/5o5fwodeTwd5bEzG5mOj6F) | [Les Assassins](https://open.spotify.com/album/1Zu4xqanWGagE0TbMb7k9k) | 4:09 | 2024-07-05 | 2024-10-05 |
 | [Letter to the Martyrs](https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M) | [cacique'97](https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc) | [Letter to the Martyrs](https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5) | 4:14 | 2024-07-05 |  |

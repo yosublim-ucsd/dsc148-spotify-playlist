@@ -4,7 +4,7 @@
 
 > You are the main character of your own story\. The fate of the world depends on you...and of course there are side quests.
 
-62 songs - 4 hr 10 min
+63 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [好きにしなよ](https://open.spotify.com/track/2ENEeAYzSqwXwO6GOY8cls) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [26ml](https://open.spotify.com/album/63XDY1amJ7NrXoWICnOKid) | 4:26 | 2024-08-19 | 2025-01-18 |
 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 | 2025-01-17 |  |
 | [始まりの朝](https://open.spotify.com/track/27ZIwGuQ4dapegDtkDF421) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [レポート](https://open.spotify.com/album/01XybFr7Z1pWdKNKUuLi0X) | 4:26 | 2024-08-19 |  |
+| [悪魔の子](https://open.spotify.com/track/0JsxTs1lZfKkDWxLZdJOmv) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [最悪最愛](https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv) | 3:49 | 2025-01-29 |  |
 | [旅人の唄](https://open.spotify.com/track/4PV6kMVIn85ao77AQzjcDO) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [旅人の唄](https://open.spotify.com/album/0SeB6udUOp1ZapqGeG9APT) | 4:24 | 2025-01-17 |  |
 | [旅人の唄](https://open.spotify.com/track/4qQTqlOWCftZYufh9uUzO9) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [旅人の唄](https://open.spotify.com/album/5VoeM0iCJKxcpeumUmuLmy) | 4:24 | 2024-08-19 | 2025-01-18 |
 | [旅路](https://open.spotify.com/track/7uSLJCDetmdm3tQcoYLyty) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:37 | 2024-08-19 |  |

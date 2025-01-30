@@ -4,7 +4,7 @@
 
 > Rimas argentinas\. Foto: Deyco, Faker & Lowqua.
 
-331 songs - 16 hr 43 min
+332 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [El Mal Necesario](https://open.spotify.com/track/5SLT2KCIVLw8mLJ0xAag5M) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg) | [El Mal Necesario](https://open.spotify.com/album/1eK7XuLoEbjuEpHCUafgOX) | 2:25 | 2024-09-13 |  |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 | 2021-11-26 | 2024-08-31 |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/3eDZA496pE44xkDSamlCHD) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/3fi4Kp3hlODkiyERiCPeBw) | 3:02 | 2022-06-10 | 2024-04-19 |
+| [El Palacio](https://open.spotify.com/track/3ywv8mywwD5euXOC3zHG4q) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [De Camino Al Palacio](https://open.spotify.com/album/0gKyoy5u87cJYQN7fSdPkY) | 2:46 | 2025-01-29 |  |
 | [EL PORQUE DE TU MIRAR \- Remix](https://open.spotify.com/track/7jhBUJswWbBhvGrdx0qoWU) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [EL PORQUE DE TU MIRAR \(Remix\)](https://open.spotify.com/album/2dsKum7SiaOLXGIrhS36qo) | 4:08 | 2024-08-16 |  |
 | [El Trucho](https://open.spotify.com/track/3THuuiiGWE8hze0zpI5Xly) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Trucho](https://open.spotify.com/album/7Ge06YmapWk1g3mpxEnbj7) | 3:26 | 2024-05-17 | 2024-06-29 |
 | [EN DONDE](https://open.spotify.com/track/3tK7ixpVgR9BqovHm3ggj9) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [AFTER](https://open.spotify.com/artist/6RGri3BX7P64gUBuf6uU7p) | [EN DONDE](https://open.spotify.com/album/0oJiGfWsP57NwT0Vv0ctQk) | 2:21 | 2024-10-04 | 2024-10-19 |
@@ -338,6 +339,6 @@
 | [YA NI YO ME ENTIENDO](https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [RADIO CLUB HITS](https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq) | 2:10 | 2024-04-26 |  |
 | [You Know](https://open.spotify.com/track/70VVJobHiS56Jdz9WOuGuT) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Alan Wanline](https://open.spotify.com/artist/4PrYvA92Dy7kkdWYXbrrOZ) | [You Know](https://open.spotify.com/album/4cLGzScbUTA77fi8afFt0z) | 4:26 | 2024-05-10 |  |
 | [YSH \(Yes So High\) \[feat\. Smokk Trvp\]](https://open.spotify.com/track/4O01gZtosyRrkn5ZPwyVxn) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF), [Smokk Trvp](https://open.spotify.com/artist/5JoNfRjVBSSJossGx5rmgC) | [YSH \(Yes So High\) \[feat\. Smokk Trvp\]](https://open.spotify.com/album/6qCsBeHN4K1GHL8sIFgoWi) | 3:01 | 2021-11-26 | 2022-03-12 |
-| [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/album/1gzX0POY5sQ1qYkScIaN1V) | 3:39 | 2021-11-26 |  |
+| [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff) | [Zaramay: Bzrp Music Sessions, Vol\. 31](https://open.spotify.com/album/1gzX0POY5sQ1qYkScIaN1V) | 3:39 | 2021-11-26 | 2025-01-30 |
 
 \*This playlist was first scraped on 2022-01-24. Prior content cannot be recovered.

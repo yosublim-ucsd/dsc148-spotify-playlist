@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,963 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,987 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 45 | [NO THOughTS](https://open.spotify.com/track/3vTFEyV5ZnVWaCNCo2BJBL) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl) | [NO THOughTS](https://open.spotify.com/album/1yhg4OlKtY68gZczBgOb0X) | 3:26 |
 | 46 | [Don't Wanna Go Home \(feat\. moistbreezy\)](https://open.spotify.com/track/5hJuih290VVPNvDTftVdNp) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR), [moistbreezy](https://open.spotify.com/artist/2MsEwFDbnOeYHEaIkJBBCi) | [Hardcore World](https://open.spotify.com/album/65RtwYHWkYh0IJN6x9wtSo) | 3:33 |
 | 47 | [Puta Romántica](https://open.spotify.com/track/4llkS4ssWQCnHfBjy7nCln) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [DJ Kelvin El Sacamostro](https://open.spotify.com/artist/6DJyhClLATkdn3UhSDbrtv) | [Puta Romántica](https://open.spotify.com/album/5WcuAbd6Te3ysEcOtiwKAu) | 3:04 |
-| 48 | [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/track/5vMszBHLCrF8c4cypmL5dA) | [DJ G2G](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/album/6kn4SO2tuRBY2h0VYIGMaX) | 4:20 |
+| 48 | [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/track/5vMszBHLCrF8c4cypmL5dA) | [dj g2g](https://open.spotify.com/artist/3TnlUNMMrwW2IYrlBDTygL) | [365 but now i'm feeling like a nasty partygirl day n nite <3](https://open.spotify.com/album/6kn4SO2tuRBY2h0VYIGMaX) | 4:20 |
 | 49 | [Meditations](https://open.spotify.com/track/5WCE4PyJgYWgn1Jq8JHtNs) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5) | [Meditations](https://open.spotify.com/album/3ZeOrfh7qU6PgCIg5FvYd1) | 5:57 |
 | 50 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 |
 | 51 | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR), [DJ Flapjack](https://open.spotify.com/artist/33mtMf9Cwueem8a7VpLxy6) | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX) | 3:02 |

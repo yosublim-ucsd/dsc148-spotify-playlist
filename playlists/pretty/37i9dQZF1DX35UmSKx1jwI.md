@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,610 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,659 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 53 | [You Might Be \(feat\. Lils\) \- GoldFish Remix](https://open.spotify.com/track/0JshnWfAOhnJiob29TL7XO) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Lils](https://open.spotify.com/artist/6u6vVHSI8WgGTJi3mYPOn0), [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [You Might Be \(feat\. Lils\) \[Remixes\]](https://open.spotify.com/album/3hvxQMfoWHWwUM89pCaRZ5) | 3:01 |
 | 54 | [Dangerous](https://open.spotify.com/track/0Kq38drV2CpPeaxkFqjJvg) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Phina Asa](https://open.spotify.com/artist/4PcBXZOhw0X3TQzKpKc9v8) | [Dangerous](https://open.spotify.com/album/3zr4GVQ0J0N7Ko9q6M4PKP) | 4:20 |
 | 55 | [Hey Baby \(feat\. Gia Koka\)](https://open.spotify.com/track/3bNIlJBpwgwFNnFuSjH6Uh) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Hey Baby \(feat\. Gia Koka\)](https://open.spotify.com/album/0wMS7Uv7zvR9e7xCTqo39u) | 2:57 |
-| 56 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
-| 57 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 |
+| 56 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 |
+| 57 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
 | 58 | [Good Morning](https://open.spotify.com/track/5vbFDDuHmTqHR8tGxiipf2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Good Morning](https://open.spotify.com/album/3NAnf9IjYQYxLXEPxMdnuC) | 3:01 |
 | 59 | [Until We Die](https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [Next to Neon](https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa) | [Until We Die](https://open.spotify.com/album/0ccCW17zrqSGef3aFHkH7I) | 2:57 |
 | 60 | [Believe](https://open.spotify.com/track/2iRQKePYqxqXLW01HCVZzG) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Believe](https://open.spotify.com/album/6ZWhhiys8UVoTKSVQdklan) | 2:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Ares.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,952 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,958 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 37 | [BUTTERFLY EFFECT](https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2uhbrgPqPv0FbEHydwDOit) | 2:31 |
 | 38 | [Poppin](https://open.spotify.com/track/6fPD92TEq6KsEV7L7nmhZ3) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Poppin](https://open.spotify.com/album/2vWmskQ93na9eB8RqsvvUR) | 2:46 |
 | 39 | [Yksin](https://open.spotify.com/track/2HB9PdkCht7i0fBny7nIjd) | [Leo Luthando](https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6) | [Yksin](https://open.spotify.com/album/6TH67RlvFkAEGPxVnizBNh) | 3:13 |
-| 40 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
+| 40 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
 | 41 | [Boxes](https://open.spotify.com/track/2Rt8iphdrBbcknJg1GZ8Pe) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Boxes](https://open.spotify.com/album/5UvxcC7flSaHQONo8GR3Nk) | 3:18 |
 | 42 | [Brainstorm](https://open.spotify.com/track/4e7WbwDCNmk06f8fB4IxiA) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Brainstorm](https://open.spotify.com/album/2QadK4dlAtpqIIIYQyp475) | 2:59 |
 | 43 | [Fantasies](https://open.spotify.com/track/4mLr8WI3QGcHN9g4bnjgTr) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fantasies](https://open.spotify.com/album/5ZXmA40qxKsawQ36CDasQj) | 2:38 |

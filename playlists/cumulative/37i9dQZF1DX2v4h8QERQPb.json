@@ -2309,6 +2309,28 @@
     },
     {
       "album": {
+        "name": "De Camino Al Palacio",
+        "url": "https://open.spotify.com/album/0gKyoy5u87cJYQN7fSdPkY"
+      },
+      "artists": [
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "Vinyltracker",
+          "url": "https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "El Palacio",
+      "url": "https://open.spotify.com/track/3ywv8mywwD5euXOC3zHG4q"
+    },
+    {
+      "album": {
         "name": "EL PORQUE DE TU MIRAR (Remix)",
         "url": "https://open.spotify.com/album/2dsKum7SiaOLXGIrhS36qo"
       },
@@ -7056,7 +7078,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 219545,
       "name": "Zaramay: Bzrp Music Sessions, Vol. 31",
       "url": "https://open.spotify.com/track/2PKb7tFxkwMoS7Y6muOTAR"

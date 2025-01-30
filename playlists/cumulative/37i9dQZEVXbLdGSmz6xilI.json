@@ -4470,7 +4470,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 228146,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
@@ -9516,7 +9516,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -11688,6 +11688,32 @@
       "duration_ms": 212395,
       "name": "L\u00e0 Anh",
       "url": "https://open.spotify.com/track/2LhXE2daNpLVv9LYXvYm8F"
+    },
+    {
+      "album": {
+        "name": "L\u00e0m G\u00ec Ph\u1ea3i H\u1ed1t",
+        "url": "https://open.spotify.com/album/5vzwVtcZiriAkTRlNzEE49"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Th\u00f9y Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        },
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189296,
+      "name": "L\u00e0m G\u00ec Ph\u1ea3i H\u1ed1t",
+      "url": "https://open.spotify.com/track/34zLev2Poav7NqDi6zWTtb"
     },
     {
       "album": {
@@ -14512,7 +14538,7 @@
       ],
       "date_added": "2023-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 236975,
       "name": "N\u0103m Qua \u0110\u00e3 L\u00e0m G\u00ec",
       "url": "https://open.spotify.com/track/3c8uiVApPGVchcLqP2vlwf"
@@ -17596,7 +17622,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -20082,7 +20108,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 165161,
       "name": "Track 06",
       "url": "https://open.spotify.com/track/72NMPuJCRsOUoXQJdzVfdo"
@@ -20831,6 +20857,24 @@
     },
     {
       "album": {
+        "name": "Tuy\u1ec3n T\u1eadp Nh\u1ea1c T\u1ebft B\u00f9i C\u00f4ng Nam - 2024",
+        "url": "https://open.spotify.com/album/1NcOgL91afDyHrjDPFWCz2"
+      },
+      "artists": [
+        {
+          "name": "B\u00f9i C\u00f4ng Nam",
+          "url": "https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196137,
+      "name": "T\u1ebft N\u00e0y Con S\u1ebd V\u1ec1",
+      "url": "https://open.spotify.com/track/3xRwKsEaxuxKtS3n9ZrWJ1"
+    },
+    {
+      "album": {
         "name": "T\u1ebft N\u00e0y Con S\u1ebd V\u1ec1",
         "url": "https://open.spotify.com/album/2CO2COjyYkxXBOnXUF7uN9"
       },
@@ -20860,7 +20904,7 @@
       ],
       "date_added": "2023-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-25",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "T\u1ebft \u0110ong \u0110\u1ea7y",
       "url": "https://open.spotify.com/track/7iEFuVbCdZNcnFuMyYBYXb"
@@ -21082,7 +21126,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "T\u1eebng Quen",
       "url": "https://open.spotify.com/track/4qYfRfSxsmhJ1WMaywtLyI"
@@ -22978,7 +23022,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 220839,
       "name": "\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1 - From \"\u0110i Gi\u1eefa Tr\u1eddi R\u1ef1c R\u1ee1\"",
       "url": "https://open.spotify.com/track/62bwj2FZsr0ljcap1FEf8g"

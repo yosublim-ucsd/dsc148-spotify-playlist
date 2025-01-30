@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes. Cover: Dior",
+  "description": "Twee exclusieve tracks van Dior!",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -6759,6 +6759,28 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6W7SJyTPVIKDxgdzePbgqX"
+      },
+      "artists": [
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        },
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202319,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/7A2xfq8yrRCsE6fmnpR4aZ"
+    },
+    {
+      "album": {
         "name": "DITA",
         "url": "https://open.spotify.com/album/1KeIWgdiWC9CMbGGvp9Ugy"
       },
@@ -13480,10 +13502,6 @@
         {
           "name": "Miggs De Bruijn",
           "url": "https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx"
-        },
-        {
-          "name": "KNALLER",
-          "url": "https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0"
         }
       ],
       "date_added": "2024-11-21",

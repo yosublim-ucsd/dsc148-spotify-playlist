@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 91616,
+  "num_followers": 91625,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "cielo dorado",
         "url": "https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 177386,
       "name": "cielo dorado",
       "url": "https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Compartir",
-      "url": "https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/7l2XHKAWiZMr2A7wFiZl8Z"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Compartir",
+      "url": "https://open.spotify.com/track/5E0Jl45E0UWwZ4H9VhnI9i"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-01-24 06:00:28",
       "album": {
+        "name": "Junto A Mi",
+        "url": "https://open.spotify.com/album/4hehFutvL9k78A5CgckCur"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        }
+      ],
+      "duration_ms": 203837,
+      "name": "Junto A Mi (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/4ikv5erAaVObaPRd6zDrIt"
+    },
+    {
+      "added_at": "2025-01-24 06:00:28",
+      "album": {
         "name": "Videocall (feat. Billy Miamor)",
         "url": "https://open.spotify.com/album/3tfkLTxrBSXNkI2ICrDA1I"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 168038,
       "name": "Videocall (feat. Billy Miamor)",
       "url": "https://open.spotify.com/track/7vXGund4Dd89TqBEpW15r1"
-    },
-    {
-      "added_at": "2025-01-24 06:00:28",
-      "album": {
-        "name": "Junto A Mi",
-        "url": "https://open.spotify.com/album/4hehFutvL9k78A5CgckCur"
-      },
-      "artists": [
-        {
-          "name": "ALMAS",
-          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
-        }
-      ],
-      "duration_ms": 203837,
-      "name": "Junto A Mi (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/4ikv5erAaVObaPRd6zDrIt"
     },
     {
       "added_at": "2025-01-24 06:00:28",
@@ -1236,8 +1236,8 @@
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Arroba Nat Oficial",
+          "url": "https://open.spotify.com/artist/6bHdcl21EZzwsnFP14Tm0F"
         }
       ],
       "duration_ms": 163411,

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-778 songs - 1 day 11 hr 7 min
+779 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [City Dreams](https://open.spotify.com/track/2tvPXvthQHFMHclfIGThnl) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [City Dreams](https://open.spotify.com/album/5RJFdRx8YkGGYlJ4bvI7lz) | 2:44 | 2021-12-23 |  |
 | [City of light](https://open.spotify.com/track/2pZU6TxP0plWGCgokINl0L) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/3ELd8P2DfszfoqL1H5cUTv) | 3:29 | 2021-12-23 | 2022-07-26 |
 | [City of light](https://open.spotify.com/track/4BJ5BgS91QUV094LD8B7yp) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [City of light](https://open.spotify.com/album/77fLZ8RFyF00tSuGQoectU) | 3:29 | 2022-07-28 | 2024-04-19 |
+| [Clair de lune](https://open.spotify.com/track/5R7OTQUvO9M4tAvfN3C80W) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Clair de lune](https://open.spotify.com/album/1TvDFq4IjYInEpg2b5yfrY) | 3:24 | 2025-01-24 |  |
 | [Clockwork Mural](https://open.spotify.com/track/4UcmzdeARm6JxkcIaewtA5) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Clockwork Mural](https://open.spotify.com/album/1BcfqIzdgOtWzzSL7Hrqvc) | 2:25 | 2022-05-26 | 2022-06-19 |
 | [Club Galactica](https://open.spotify.com/track/3ujzqVgfcJYifV5YsQJ6Ef) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Club Galactica](https://open.spotify.com/album/0EaQbp7V4ippcrJabW6w3g) | 2:15 | 2023-09-21 | 2023-09-23 |
 | [Club Galactica](https://open.spotify.com/track/5acrzaWCYDnt1An78q6y1N) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Club Galactica](https://open.spotify.com/album/209yTaZWkdVAaSOP9wEkXx) | 2:15 | 2023-09-21 | 2023-12-08 |
@@ -778,7 +779,7 @@
 | [オダイジン](https://open.spotify.com/track/2ivbGvD2opRsm9tGfubQ7E) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [藤沢 2021](https://open.spotify.com/album/07SvPzoAEe8PMZBMSbfhCV) | 2:30 | 2024-09-25 |  |
 | [ホリデー \- Instrumental](https://open.spotify.com/track/5hwbj7LQDhasXvoi1rQqUx) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [ホリデー \(Instrumental\)](https://open.spotify.com/album/6CJdNmuyfwwHnLy0pLdt25) | 4:00 | 2021-12-23 | 2022-07-29 |
 | [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 | 2025-01-25 |
-| [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 |  |
+| [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 | 2025-01-30 |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2022-07-29 |
 | [平和](https://open.spotify.com/track/3g3k750g1iXaaFfK6aWazL) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [平和](https://open.spotify.com/album/3S5A4RX0kQMqKKnPT5UR4w) | 3:23 | 2024-04-12 | 2024-12-05 |

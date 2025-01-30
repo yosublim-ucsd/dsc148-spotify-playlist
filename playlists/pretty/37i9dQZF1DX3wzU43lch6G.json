@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 111395,
+  "num_followers": 111390,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -186,6 +186,14 @@
         {
           "name": "K\u00d6FN",
           "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        },
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        },
+        {
+          "name": "BKE",
+          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
         }
       ],
       "duration_ms": 173986,
@@ -267,18 +275,18 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "Yaln\u0131z \u00d6lmek",
-        "url": "https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh"
+        "name": "K\u00f6t\u00fc \u015eeyler",
+        "url": "https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5"
       },
       "artists": [
         {
-          "name": "Can G\u00fcng\u00f6r",
-          "url": "https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN"
+          "name": "Son Feci Bisiklet",
+          "url": "https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc"
         }
       ],
-      "duration_ms": 227578,
-      "name": "Yaln\u0131z \u00d6lmek",
-      "url": "https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO"
+      "duration_ms": 179946,
+      "name": "Galiba Sevmiyorlar",
+      "url": "https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB"
     },
     {
       "added_at": "2024-07-08 08:26:10",
@@ -299,18 +307,18 @@
     {
       "added_at": "2024-07-08 08:26:10",
       "album": {
-        "name": "K\u00f6t\u00fc \u015eeyler",
-        "url": "https://open.spotify.com/album/6t2h7vZo0l0afyMHSALUR5"
+        "name": "Yaln\u0131z \u00d6lmek",
+        "url": "https://open.spotify.com/album/6Mt7gBiLAvEk0dzGQ6QZvh"
       },
       "artists": [
         {
-          "name": "Son Feci Bisiklet",
-          "url": "https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc"
+          "name": "Can G\u00fcng\u00f6r",
+          "url": "https://open.spotify.com/artist/1G2uUovCzQzQTxT5YM7zPN"
         }
       ],
-      "duration_ms": 179946,
-      "name": "Galiba Sevmiyorlar",
-      "url": "https://open.spotify.com/track/3AtWz3xBxCLeJlt7CXuHEB"
+      "duration_ms": 227578,
+      "name": "Yaln\u0131z \u00d6lmek",
+      "url": "https://open.spotify.com/track/1jeezFfn6ccRfWEUlDT7gO"
     },
     {
       "added_at": "2024-07-08 08:26:10",

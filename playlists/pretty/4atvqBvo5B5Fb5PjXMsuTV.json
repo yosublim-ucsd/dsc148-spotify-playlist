@@ -1,13 +1,97 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Jan 23:01 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Jan 23:01 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAO+aNCkMkCeXed6f8Cy53xcfbOH9/7",
+  "snapshot_id": "AAAPAjJx6WBbHUIa+5diKxO0YgWLrB8Y",
   "tracks": [
+    {
+      "added_at": "2025-01-29 19:01:49",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240151,
+      "name": "WONDERWaLL - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": "2025-01-29 19:01:49",
+      "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
+    },
+    {
+      "added_at": "2025-01-29 23:01:59",
+      "album": {
+        "name": "Trembling Level",
+        "url": "https://open.spotify.com/album/1JNmDMl6Ymo8sCxmtJWqg4"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "duration_ms": 157946,
+      "name": "Trembling Level",
+      "url": "https://open.spotify.com/track/6nTpkrt5jhJFJzao1Figes"
+    },
+    {
+      "added_at": "2025-01-29 09:01:44",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/125JWbV6hgxrcKOLwqCKpD"
+      },
+      "artists": [
+        {
+          "name": "Weatherday",
+          "url": "https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0TXezdBZlkwhAhmrYIBvxv"
+    },
+    {
+      "added_at": "2025-01-29 14:01:40",
+      "album": {
+        "name": "In Love With A Memory",
+        "url": "https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 243008,
+      "name": "In Love With A Memory",
+      "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
+    },
     {
       "added_at": "2025-01-27 19:01:51",
       "album": {
@@ -819,86 +903,6 @@
       "duration_ms": 156097,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/1ZfewkEU3CwEjBwVzYkNRP"
-    },
-    {
-      "added_at": "2025-01-24 04:02:35",
-      "album": {
-        "name": "intro + up! up! up!",
-        "url": "https://open.spotify.com/album/0lonx6kXB21iLRpdkgv78L"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "intro",
-      "url": "https://open.spotify.com/track/3d1YtKpp27rNxBShzzKbrw"
-    },
-    {
-      "added_at": "2025-01-20 14:03:12",
-      "album": {
-        "name": "PlaqueBoyMax",
-        "url": "https://open.spotify.com/album/5xUIDwmQwT7HChkNTr9peO"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 113777,
-      "name": "PlaqueBoyMax",
-      "url": "https://open.spotify.com/track/3LYXwZsL3SUwZGEvOqYCKI"
-    },
-    {
-      "added_at": "2025-01-20 14:03:12",
-      "album": {
-        "name": "PROTECT THE CROSS",
-        "url": "https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 169570,
-      "name": "PROTECT THE CROSS",
-      "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
-    },
-    {
-      "added_at": "2025-01-20 23:02:56",
-      "album": {
-        "name": "Doctor! Doctor!",
-        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Doctor! Doctor!",
-      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
-    },
-    {
-      "added_at": "2025-01-24 23:03:10",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4"
     }
   ],
   "unique_name": "New Singles Now",

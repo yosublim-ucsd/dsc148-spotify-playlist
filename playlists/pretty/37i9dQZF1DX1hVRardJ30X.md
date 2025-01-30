@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by iZaak & De La Rose, Danny Ocean, J Balvin and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,321 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,388 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 36 | [ECHO](https://open.spotify.com/track/2aXtezQFExcQnXIFmxUnMk) | [Sara Ángel](https://open.spotify.com/artist/40tZQwPyGofl3rJLQKMmna) | [ECHO](https://open.spotify.com/album/0FBYi7MVUOMn8pwaHGfyuF) | 3:36 |
 | 37 | [qué hubiera pasado?](https://open.spotify.com/track/1gdQmfxXiOkFNsc8dXfh63) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [qué hubiera pasado?](https://open.spotify.com/album/1vOxBrGhrDMJiljB1LpFbs) | 3:24 |
 | 38 | [Los Años](https://open.spotify.com/track/2bWiy4CRq8qhtgODoODKX6) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Los Años](https://open.spotify.com/album/2vwnIZS3UXRcIGAfGDtS94) | 3:05 |
-| 39 | [Sin Mi Quieres Volar](https://open.spotify.com/track/6Za4aOIBNRQoxYfIO2GX4c) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Sin Mi Quieres Volar](https://open.spotify.com/album/7FrjGEAoTW6ovIdqrxgPCK) | 3:20 |
+| 39 | [Sin Mi Quieres Volar](https://open.spotify.com/track/6Za4aOIBNRQoxYfIO2GX4c) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Sin Mi Quieres Volar](https://open.spotify.com/album/7FrjGEAoTW6ovIdqrxgPCK) | 3:19 |
 | 40 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 41 | [Contacto de Dios](https://open.spotify.com/track/2RLWF5BzGIXvndJzKKEfnn) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Contacto de Dios](https://open.spotify.com/album/22SzViIqz2rIacWrK4fR9r) | 2:51 |
 | 42 | [Aunque Sea](https://open.spotify.com/track/4izl8YA7HRJXEHSrQhH12u) | [Maare](https://open.spotify.com/artist/0lDDRSG5a2s7mtmVgJrHSk), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Aunque Sea](https://open.spotify.com/album/66cEw7f4FH0XBdrxkYZtfR) | 4:34 |

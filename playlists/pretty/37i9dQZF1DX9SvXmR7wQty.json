@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: FouKi",
-  "num_followers": 43416,
+  "num_followers": 43414,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
-        "name": "Hockey",
-        "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
-      },
-      "artists": [
-        {
-          "name": "Zed",
-          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
-        },
-        {
-          "name": "La Mano 1.9",
-          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Hockey",
-      "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
         "name": "SURVIVAL MODE",
         "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 161632,
       "name": "OBVIOUS",
       "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "Hockey",
+        "url": "https://open.spotify.com/album/1PrqiKF6u3ZLcpovFpM1DF"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Hockey",
+      "url": "https://open.spotify.com/track/7JhBNpwEKPNTma5zmyVL9L"
     },
     {
       "added_at": "2025-01-24 05:00:45",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
-        "name": "Inarr\u00eatable",
-        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Je suis fait pour...",
-      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
         "name": "BIG BODY",
         "url": "https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu"
       },
@@ -647,22 +631,6 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
-        "name": "TESTIMONY.",
-        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 242225,
-      "name": "Que toi",
-      "url": "https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
         "name": "2, 3 shots",
         "url": "https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh"
       },
@@ -683,6 +651,38 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Je suis fait pour...",
+      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "TESTIMONY.",
+        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 242225,
+      "name": "Que toi",
+      "url": "https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
         "name": "penelope",
         "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 194902,
       "name": "penelope",
       "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
-        "name": "Stigmates",
-        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 293746,
-      "name": "Stigmates",
-      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
     },
     {
       "added_at": "2025-01-24 05:00:45",
@@ -731,6 +715,22 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
+        "name": "Stigmates",
+        "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 293746,
+      "name": "Stigmates",
+      "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
         "name": "Essonne History X",
         "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
       },
@@ -743,6 +743,42 @@
       "duration_ms": 164533,
       "name": "Belle madame",
       "url": "https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "ORIGINAL GANGSTA",
+        "url": "https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 149920,
+      "name": "OTF",
+      "url": "https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 116786,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
     },
     {
       "added_at": "2025-01-24 05:00:45",
@@ -779,18 +815,18 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/6Fjd0hz4BsTa8YFJScb51g"
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/57GrVq3zhyHIZWOfKTh5md"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 116786,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/0dgPt1mLJJ5JL5aXH5vnlT"
+      "duration_ms": 156750,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/0LwadPsG8McSabXIITkIGF"
     },
     {
       "added_at": "2025-01-24 05:00:45",
@@ -811,42 +847,6 @@
     {
       "added_at": "2025-01-24 05:00:45",
       "album": {
-        "name": "Flex",
-        "url": "https://open.spotify.com/album/57GrVq3zhyHIZWOfKTh5md"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "Flex",
-      "url": "https://open.spotify.com/track/0LwadPsG8McSabXIITkIGF"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
-        "name": "ORIGINAL GANGSTA",
-        "url": "https://open.spotify.com/album/4Co5H8hYfGAlVhfycX5VMR"
-      },
-      "artists": [
-        {
-          "name": "DA Uzi",
-          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 149920,
-      "name": "OTF",
-      "url": "https://open.spotify.com/track/7jCrWAQs0l7pA7GiqHxBtm"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
         "name": "IMPOSTEUR",
         "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 208560,
       "name": "Les d\u00e9mons de minuit",
       "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
+    },
+    {
+      "added_at": "2025-01-24 05:00:45",
+      "album": {
+        "name": "Sp\u00e9cial",
+        "url": "https://open.spotify.com/album/6p7QYxRUSKtENDLrQxpTHH"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 147186,
+      "name": "Sp\u00e9cial",
+      "url": "https://open.spotify.com/track/0s1xIkZjwBKWN8803r2Opd"
     },
     {
       "added_at": "2025-01-24 05:00:45",
@@ -899,22 +915,6 @@
       "duration_ms": 208800,
       "name": "Bienvenue dans High & Fines Herbes",
       "url": "https://open.spotify.com/track/3wV0qYUvnJWfL9a2CQJqD1"
-    },
-    {
-      "added_at": "2025-01-24 05:00:45",
-      "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

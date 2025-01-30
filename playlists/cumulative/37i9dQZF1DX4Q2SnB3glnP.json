@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 192000,
       "name": "Close your eyes",
       "url": "https://open.spotify.com/track/53Mz4V3XL02YupbVnJKfMl"
@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Echoes",
+        "url": "https://open.spotify.com/album/0U1lYG3UMFrtPizDDyRIW2"
+      },
+      "artists": [
+        {
+          "name": "Dorian Froste",
+          "url": "https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174839,
+      "name": "Cosmic Echoes",
+      "url": "https://open.spotify.com/track/21HoNmuQv0a3aJgK0SjFuk"
+    },
+    {
+      "album": {
         "name": "Cotton Hill",
         "url": "https://open.spotify.com/album/0snGWgnXrnFz5p3FAgiBjo"
       },
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 207121,
       "name": "Decision",
       "url": "https://open.spotify.com/track/0AUsg7yWsJKPfDalSDt80e"
@@ -2977,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0S4T1LqClq25gIgArxCsAl"
+      },
+      "artists": [
+        {
+          "name": "Calma Interiore",
+          "url": "https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1urCMjG4bg6VAQD8vzJHv8"
+    },
+    {
+      "album": {
         "name": "Book Of Calmness",
         "url": "https://open.spotify.com/album/3ozKH4TXGOKdRuldtnd3B4"
       },
@@ -3193,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Low Sugar Rest",
+        "url": "https://open.spotify.com/album/1aZzJynkMDolOm3KJS1r9k"
+      },
+      "artists": [
+        {
+          "name": "Astral Lighthouse",
+          "url": "https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152438,
+      "name": "Low Sugar Rest",
+      "url": "https://open.spotify.com/track/3aMWliXgEzcHmrbNB4HnZl"
+    },
+    {
+      "album": {
         "name": "Lugnet",
         "url": "https://open.spotify.com/album/0TQ8638U9nAIBFCzoCO5nZ"
       },
@@ -3208,6 +3262,24 @@
       "duration_ms": 159500,
       "name": "Lugnet",
       "url": "https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg"
+    },
+    {
+      "album": {
+        "name": "Lull",
+        "url": "https://open.spotify.com/album/5BcI4DwruUvUp9X8qdIeOZ"
+      },
+      "artists": [
+        {
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Lull",
+      "url": "https://open.spotify.com/track/1Dfabl6cD5EzLzpKGwDXYp"
     },
     {
       "album": {
@@ -3798,10 +3870,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 123946,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/00mZmQ1kdWxmRtEA3A9olx"
+    },
+    {
+      "album": {
+        "name": "Night Signs",
+        "url": "https://open.spotify.com/album/2MsGZapHmp1infQN7XTFDZ"
+      },
+      "artists": [
+        {
+          "name": "Bon Vie",
+          "url": "https://open.spotify.com/artist/5HNWBc46bpwk0Aa5klthkQ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171698,
+      "name": "Night Signs",
+      "url": "https://open.spotify.com/track/5yr8TDS6A3FMrM36xkEYHr"
     },
     {
       "album": {
@@ -3874,6 +3964,24 @@
       "duration_ms": 182500,
       "name": "Ninki",
       "url": "https://open.spotify.com/track/0A58jKPmNtoHlpWusrWRTi"
+    },
+    {
+      "album": {
+        "name": "northern lights",
+        "url": "https://open.spotify.com/album/3qQR5EapUTTrGRupps1xKg"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "northern lights",
+      "url": "https://open.spotify.com/track/0tyzmd5KBrAsZconCuzWzw"
     },
     {
       "album": {
@@ -4014,7 +4122,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 152000,
       "name": "Olvidado",
       "url": "https://open.spotify.com/track/0p4IWEs8ZHhcFdXuy5SYL2"
@@ -4414,6 +4522,24 @@
       "duration_ms": 198000,
       "name": "Pressure Behavior",
       "url": "https://open.spotify.com/track/22aK1Gkcy25yWYHtHPB2zJ"
+    },
+    {
+      "album": {
+        "name": "Primordial",
+        "url": "https://open.spotify.com/album/2D48vddS7KcQL8E6QuhnLu"
+      },
+      "artists": [
+        {
+          "name": "Everlasting Theta",
+          "url": "https://open.spotify.com/artist/0xE2E5AhNCCeAfZj0uVKW9"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Primordial",
+      "url": "https://open.spotify.com/track/2LOzcym1nECzLWJMiKsq0Z"
     },
     {
       "album": {
@@ -4824,7 +4950,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 192000,
       "name": "Rocks for the Asterism",
       "url": "https://open.spotify.com/track/4lm4SMJ7CDTkObUswav5DR"
@@ -4878,7 +5004,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 170124,
       "name": "Salve",
       "url": "https://open.spotify.com/track/3ciGnLsselzhecVZZiHzfZ"
@@ -5512,6 +5638,24 @@
       "duration_ms": 171249,
       "name": "Strange Skies",
       "url": "https://open.spotify.com/track/2rGT0eAhB6bAjOhuvPjufN"
+    },
+    {
+      "album": {
+        "name": "Stratus",
+        "url": "https://open.spotify.com/album/722wIphNqhdb9zKi7pVeCK"
+      },
+      "artists": [
+        {
+          "name": "Lumen Sonitus",
+          "url": "https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173272,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/55fwivxJj2b0shqBsJTSQW"
     },
     {
       "album": {
@@ -6325,6 +6469,24 @@
     },
     {
       "album": {
+        "name": "Tranquil Tides",
+        "url": "https://open.spotify.com/album/6nkZLa37cOB0TTZwMqqjyz"
+      },
+      "artists": [
+        {
+          "name": "Lapeito",
+          "url": "https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Tranquil Tides",
+      "url": "https://open.spotify.com/track/4pNXwWBkwfV64DdNQngvJs"
+    },
+    {
+      "album": {
         "name": "Effortless",
         "url": "https://open.spotify.com/album/6JBZgfycZAmFDdNdjT98hT"
       },
@@ -6606,7 +6768,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 199927,
       "name": "V\u00e1 Devagar",
       "url": "https://open.spotify.com/track/34ttyToe7nrqpvxu9XMyr0"
@@ -6660,7 +6822,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 176432,
       "name": "Winds of Haryana",
       "url": "https://open.spotify.com/track/5M2vSYhLSDww1n3x2zB1qN"
@@ -6768,7 +6930,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 132306,
       "name": "Yoga Depth",
       "url": "https://open.spotify.com/track/32HG8Lvryuz8NCQQW0YO46"

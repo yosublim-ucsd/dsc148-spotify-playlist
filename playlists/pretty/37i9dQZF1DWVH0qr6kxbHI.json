@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 92207,
+  "num_followers": 92251,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Se acabo",
-        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Se acab\u00f3",
-      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Marinero De Luces",
         "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 182826,
       "name": "Marinero de Luces",
       "url": "https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Se acabo",
+        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Se acab\u00f3",
+      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Marinero De Luces",
-        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Hoy Quiero Confesarme",
-      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Oraciones de amor",
         "url": "https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 281440,
       "name": "Te amar\u00e9, te amo, y te querr\u00e9",
       "url": "https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+        "name": "Marinero De Luces",
+        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
       },
       "artists": [
         {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
+      "duration_ms": 289293,
+      "name": "Hoy Quiero Confesarme",
+      "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -563,22 +563,6 @@
       "duration_ms": 198106,
       "name": "Dama Dama (Album Version)",
       "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Desde Andalucia",
-        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 367973,
-      "name": "Hazme Tuya una Vez Mas",
-      "url": "https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -671,22 +655,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "20 A\u00f1os De Amor",
         "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
       },
@@ -703,18 +671,34 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "No te olvides de mi (edicion original)",
-        "url": "https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V"
+        "name": "Desde Andalucia",
+        "url": "https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw"
       },
       "artists": [
         {
-          "name": "Diana Navarro",
-          "url": "https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2"
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
         }
       ],
-      "duration_ms": 305106,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI"
+      "duration_ms": 367973,
+      "name": "Hazme Tuya una Vez Mas",
+      "url": "https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -739,22 +723,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Seguir viviendo",
-        "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 186040,
-      "name": "Se me olvid\u00f3 otra vez",
-      "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Una estrella en mi jard\u00edn",
         "url": "https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu"
       },
@@ -767,6 +735,38 @@
       "duration_ms": 303826,
       "name": "Una estrella en mi jard\u00edn",
       "url": "https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "No te olvides de mi (edicion original)",
+        "url": "https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V"
+      },
+      "artists": [
+        {
+          "name": "Diana Navarro",
+          "url": "https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2"
+        }
+      ],
+      "duration_ms": 305106,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Seguir viviendo",
+        "url": "https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "Se me olvid\u00f3 otra vez",
+      "url": "https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
+        "name": "Caprichos de Mujer",
+        "url": "https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "T\u00fa Me Camelas (Tangos)",
+      "url": "https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
         "name": "Mujeres de M\u00fasica",
         "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Caprichos de Mujer",
-        "url": "https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3"
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
       "artists": [
         {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
         }
       ],
-      "duration_ms": 253600,
-      "name": "T\u00fa Me Camelas (Tangos)",
-      "url": "https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi"
+      "duration_ms": 232000,
+      "name": "Que seas feliz",
+      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -887,22 +903,6 @@
       "duration_ms": 173333,
       "name": "En tierra extra\u00f1a",
       "url": "https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Que seas feliz",
-      "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -991,8 +991,8 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Pecado de Amor (Original Motion Picture)",
-        "url": "https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Los Nardos",
-      "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2024-05-02 22:01:00",
@@ -1107,8 +1107,8 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+        "name": "Pecado de Amor (Original Motion Picture)",
+        "url": "https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq"
       },
       "artists": [
         {
@@ -1116,9 +1116,9 @@
           "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
+      "duration_ms": 211746,
+      "name": "Los Nardos",
+      "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
     },
     {
       "added_at": "2024-05-02 22:01:00",

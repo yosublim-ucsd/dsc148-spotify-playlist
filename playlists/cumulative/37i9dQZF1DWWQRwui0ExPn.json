@@ -27058,7 +27058,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 189760,
       "name": "cozy cabin",
       "url": "https://open.spotify.com/track/7F70IYruoqLK4kAQhE0tp8"
@@ -27874,6 +27874,24 @@
       "duration_ms": 112124,
       "name": "crush on me",
       "url": "https://open.spotify.com/track/1NNJD3rlNeipFPSpEKXp8P"
+    },
+    {
+      "album": {
+        "name": "crush on you",
+        "url": "https://open.spotify.com/album/4ZVPjJLgRImVOQdMfTgHez"
+      },
+      "artists": [
+        {
+          "name": "ilaywho",
+          "url": "https://open.spotify.com/artist/4OiOGOoUj1rFh8WmSREZey"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "crush on you",
+      "url": "https://open.spotify.com/track/2YcVZzOHZyjNKsd6oYlwHU"
     },
     {
       "album": {
@@ -34600,7 +34618,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 152758,
       "name": "Dusk Cruise",
       "url": "https://open.spotify.com/track/05amXskabrMv7lgIMbrWNI"
@@ -47452,7 +47470,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 152030,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7JGMIK6MNkDEoCSsdABXII"
@@ -76001,6 +76019,24 @@
     },
     {
       "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/33RTfiU7uANAowi1ArstKl"
+      },
+      "artists": [
+        {
+          "name": "Peace Attack",
+          "url": "https://open.spotify.com/artist/7HE5Ri9gkbRRQtRpmySeB5"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121538,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/6azRLNgQGPWCCOkxjaAvxK"
+    },
+    {
+      "album": {
         "name": "middlefine",
         "url": "https://open.spotify.com/album/3vi2jDYJAqH2lJFye8oLsK"
       },
@@ -79418,7 +79454,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 167533,
       "name": "Moradia",
       "url": "https://open.spotify.com/track/0IaeI6ObFm0nxR0vlZ0JTd"
@@ -82274,6 +82310,24 @@
       "duration_ms": 167647,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/57MOIpaL6Bo7dTYMTAUaHT"
+    },
+    {
+      "album": {
+        "name": "nebula",
+        "url": "https://open.spotify.com/album/5bB2fo7c3BvlZMYwk31Bl1"
+      },
+      "artists": [
+        {
+          "name": "softflow",
+          "url": "https://open.spotify.com/artist/7bpXsZz8CK2r8QWptlceTP"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "nebula",
+      "url": "https://open.spotify.com/track/7k9QhBoXh28pfEiTNbF1oJ"
     },
     {
       "album": {
@@ -91356,7 +91410,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 140874,
       "name": "Parga",
       "url": "https://open.spotify.com/track/3APFh2aqeOR1XlDj6iCwl1"
@@ -113653,6 +113707,24 @@
     },
     {
       "album": {
+        "name": "State",
+        "url": "https://open.spotify.com/album/4z1JZCry5nUA7zO4xTgHGB"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136119,
+      "name": "State",
+      "url": "https://open.spotify.com/track/1rXJqgtqqZmmR71sAn6Fw3"
+    },
+    {
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/3eWjhOeg26lTnxqHBC00TH"
       },
@@ -114128,6 +114200,24 @@
       "duration_ms": 147692,
       "name": "Still",
       "url": "https://open.spotify.com/track/1yhFOiVQZF4a42UHIirKSu"
+    },
+    {
+      "album": {
+        "name": "Still Care for Me",
+        "url": "https://open.spotify.com/album/0H7nP8rBlgouWhumQ0I620"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Still Care for Me",
+      "url": "https://open.spotify.com/track/3xF7yNRyrgBmfDrf2aMvXc"
     },
     {
       "album": {

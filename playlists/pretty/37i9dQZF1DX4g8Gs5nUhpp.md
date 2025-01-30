@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: MONO
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,135 likes - 42 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,273 likes - 42 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

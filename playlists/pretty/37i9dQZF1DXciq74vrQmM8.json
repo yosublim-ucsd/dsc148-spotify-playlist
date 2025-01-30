@@ -1,13 +1,29 @@
 {
   "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. ALT BLK ERA",
-  "num_followers": 750343,
+  "num_followers": 750313,
   "original_name": "misfits 2.0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LYHAAAAAA7y4UCFdcyJ0rGoz6O3Xip",
+  "snapshot_id": "Z5oZ/wAAAAAQDkYwn17WGCaubFqOLh/Q",
   "tracks": [
+    {
+      "added_at": "2025-01-29 12:07:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 240151,
+      "name": "WONDERWaLL - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
     {
       "added_at": "2025-01-24 00:00:28",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Naezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,386 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,391 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 39 | [Nazare](https://open.spotify.com/track/0hmDNLZlEHS7GL1Es38bcE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Northern Nights](https://open.spotify.com/album/1O1QvxhWr8eDP8q5FUwbKc) | 2:21 |
 | 40 | [Soch Ko Badal](https://open.spotify.com/track/4gbRie5j40h6AyU2bIfUXQ) | [Shiva K](https://open.spotify.com/artist/4Ry0sipKW8mxTqPJtp1qhc), [Mr\. Pahadi](https://open.spotify.com/artist/1F4uifvf9lfjFZhQ3XRqZv) | [Soch Ko Badal](https://open.spotify.com/album/1LAWcOfzAtLCeU5AYDIzha) | 3:34 |
 | 41 | [Cry Babies](https://open.spotify.com/track/4bJl32kpG2ptzKWzw7bJWX) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Untitled 01](https://open.spotify.com/album/5QgfYpZAPAJZBqnAunLLSQ) | 2:06 |
-| 42 | [Gangster](https://open.spotify.com/track/1v0fMvA0ltUDPSRxT0FnIW) | [Beatz Boy](https://open.spotify.com/artist/2zVHEZCdbIR0pn1awGJP0l), [Priwat](https://open.spotify.com/artist/10BGP6A5nDJ1jyXh12yAN5), [Devil Tecion](https://open.spotify.com/artist/4uLlxJgda6nwjlrZsaZG2v) | [Gangster](https://open.spotify.com/album/1zukCLBuBjoGb7IQe7YWTE) | 2:54 |
+| 42 | [Gangster](https://open.spotify.com/track/1v0fMvA0ltUDPSRxT0FnIW) | [Beatz Boy](https://open.spotify.com/artist/2zVHEZCdbIR0pn1awGJP0l), [Priwat](https://open.spotify.com/artist/10BGP6A5nDJ1jyXh12yAN5), [Devil Tecion](https://open.spotify.com/artist/4uLlxJgda6nwjlrZsaZG2v), [rangerstxmBeats](https://open.spotify.com/artist/6GJbuPAGgW8XInAbfVdYvi) | [Gangster](https://open.spotify.com/album/1zukCLBuBjoGb7IQe7YWTE) | 2:54 |
 | 43 | [ICE](https://open.spotify.com/track/3iNGpMjhIcTqrAliwmSaaH) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 2:39 |
 | 44 | [Judaai](https://open.spotify.com/track/13ELH41klKOVwoqa8nz9ez) | [Dynaxty](https://open.spotify.com/artist/1Aum5XXhYTIfl41u7sBFco), [Prod by Momin](https://open.spotify.com/artist/2WHvBCCtxZ7HWgYXU08CGB) | [Judaai](https://open.spotify.com/album/4KYlBlhGfYbyhNJ59BQW3G) | 3:06 |
 | 45 | [Triple OG](https://open.spotify.com/track/5PvdeOHYM1Te6XB1C81zoz) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Triple OG](https://open.spotify.com/album/7Jf2RyjfocosqLFzTfVH4O) | 3:03 |

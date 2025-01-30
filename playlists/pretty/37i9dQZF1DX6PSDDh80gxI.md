@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > GINEVRA in cover della playlist con il meglio dell’indie italiano 🏹
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,444 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,426 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 20 | [TO / GA](https://open.spotify.com/track/2GHtpNPcXKSM0DOzuG2w6X) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [TO / GA](https://open.spotify.com/album/3BuUOsbmolzkhA7ZkYoM7g) | 2:39 |
 | 21 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 |
 | 22 | [Spogliami](https://open.spotify.com/track/0yDCcAlCuvKLE34cxMRVDp) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [Spogliami](https://open.spotify.com/album/2Aq48XzFY1UZA1PAAJobcS) | 3:19 |
-| 23 | [Punto di domanda \(feat\. Nayt, Mecna\)](https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:27 |
+| 23 | [Punto di domanda \(feat\. Nayt, Mecna\)](https://open.spotify.com/track/3lb2UVZySXqt9YyS5PpSUe) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:27 |
 | 24 | [A piedi il mondo \(con te\)](https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [BDSR](https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE) | 3:59 |
 | 25 | [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 |
 | 26 | [Favola](https://open.spotify.com/track/0sq1ZosH1uS0VUCwF3qwfO) | [Dente](https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt) | [Favola](https://open.spotify.com/album/0LmhzsWhGFnLfcmqqVnUuj) | 3:38 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 40 | [Abbaiare](https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Abbaiare](https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr) | 3:12 |
 | 41 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 |
 | 42 | [Chissà \(feat\. Ditonellapiaga\)](https://open.spotify.com/track/7sy957mJPAMwoAjHhLVVuS) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Chissà](https://open.spotify.com/album/1xywCoqMy6siRZbvThSeUA) | 2:59 |
-| 43 | [PURO CAOS \(feat\. Nayt\)](https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:52 |
+| 43 | [PURO CAOS \(feat\. Nayt\)](https://open.spotify.com/track/1su7irwzQqGNYv8uk8hcMV) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:52 |
 | 44 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 |
 | 45 | [La Nostra Malinconia](https://open.spotify.com/track/4JuTT1xL3ITsQfX9unDXSD) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [La Nostra Malinconia](https://open.spotify.com/album/2ztWd3Paf5kM8uKyB22evA) | 3:18 |
 | 46 | [Il contrario](https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Il contrario](https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq) | 2:54 |

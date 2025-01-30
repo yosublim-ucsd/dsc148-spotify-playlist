@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dancefloor \| SoundCloud mix series: Bassline Therapy Radio
 
-518 songs - 1 day 3 hr 9 min
+519 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Cat Walk](https://open.spotify.com/track/6XFtkaLDZ2bfM1E3ZRlXlV) | [GREEDO](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Closer](https://open.spotify.com/album/7j2qe7cR8GY1MGzJPsUo4S) | 5:30 | 2024-01-21 | 2024-02-06 |
 | [Catch The Vibe](https://open.spotify.com/track/2E9E2bq5AHMeVrGMJwR5AF) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o), [Juice! the DJ](https://open.spotify.com/artist/3TtKOTVRwvJz4l0yYSSzK2) | [STAY GOLD Vol.1](https://open.spotify.com/album/0WF9ZuauyWkOeBAn9qLMak) | 3:29 | 2024-02-05 | 2024-04-30 |
 | [CC](https://open.spotify.com/track/7H8WpimtnwN9LB0vmBt3LG) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [CC](https://open.spotify.com/album/60ocrHUXevlcHluOIwKHn2) | 3:00 | 2024-02-05 | 2024-06-24 |
+| [Celebrate](https://open.spotify.com/track/71TRHJxxUIWK0otGFSar5Y) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Celebrate](https://open.spotify.com/album/61rwhJ79PDCwzj42Xckbu5) | 3:37 | 2025-01-29 |  |
 | [Certified](https://open.spotify.com/track/0IoD88QDxy5GPip9IzlzyI) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Certified](https://open.spotify.com/album/5B20rR3NRmnSIRQm0d0zMz) | 3:36 | 2024-08-19 | 2024-09-05 |
 | [CLOSER](https://open.spotify.com/track/1FWFoynNcE5JZFptZeDn0u) | [BOMBAYS](https://open.spotify.com/artist/7A4VOBpGKQHvPpbdNqQHmC), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY) | [CLOSER](https://open.spotify.com/album/2FR08aSiSTFspktZhiv3Dh) | 2:49 | 2024-10-05 | 2024-11-19 |
 | [CMON](https://open.spotify.com/track/2CnyTL4x1DekvdJpZiOl7x) | [Joanna Magik](https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh) | [CMON](https://open.spotify.com/album/5nWCpLYRcxL33U40bb4aha) | 2:58 | 2024-09-16 | 2024-11-05 |
@@ -291,7 +292,7 @@
 | [Misfits](https://open.spotify.com/track/1nTk2VImCTpiJv98k87d0Q) | [KTNY](https://open.spotify.com/artist/3hTsSjLngaV8Mf97tqv8pf) | [Misfits](https://open.spotify.com/album/3zpfizpJREzZEjWEOgipi5) | 2:20 | 2024-01-08 | 2024-01-22 |
 | [Missing](https://open.spotify.com/track/6TH6CFgxIpPBkrjjbEXypf) | [Joanna Magik](https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh), [Victoria Rawlins](https://open.spotify.com/artist/45nmKlC41EgH6LyKCohE1u) | [Missing](https://open.spotify.com/album/3djkbJ3v4KBbmVlLCE58t4) | 2:54 | 2024-08-19 | 2024-10-14 |
 | [More Space](https://open.spotify.com/track/7srH6afc3AXhsmU4XcZrPx) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [More Space](https://open.spotify.com/album/53h1Wk7lmh8M918riZ8GHg) | 2:37 | 2024-10-28 | 2025-01-20 |
-| [Move \(Don't\)](https://open.spotify.com/track/6qeYhQm1jvBBToaltny4Hq) | [SKILAH](https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0) | [Move \(Don't\)](https://open.spotify.com/album/4Nm8GAxXR5jQWg3ERTORTt) | 3:21 | 2024-11-04 |  |
+| [Move \(Don't\)](https://open.spotify.com/track/6qeYhQm1jvBBToaltny4Hq) | [SKILAH](https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0) | [Move \(Don't\)](https://open.spotify.com/album/4Nm8GAxXR5jQWg3ERTORTt) | 3:21 | 2024-11-04 | 2025-01-30 |
 | [Movin](https://open.spotify.com/track/12X1bR0CDvBXHwZj7Ga39e) | [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Movin](https://open.spotify.com/album/5Ny5szpMdpgPDg0waz6T4v) | 3:01 | 2024-10-12 | 2024-12-29 |
 | [Moving Up](https://open.spotify.com/track/42R4QvzLx9RjoZERFzgmA1) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Moving Up](https://open.spotify.com/album/03Af0MKeD3CmqM1G00iaAl) | 3:12 | 2024-08-19 | 2024-09-05 |
 | [Muhfucka](https://open.spotify.com/track/2Sxk3eqgDvf9oOhI6PJP4b) | [JBoog](https://open.spotify.com/artist/1XWswvDLLoNYxQTreNRUUx) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:06 | 2024-12-19 | 2024-12-21 |

@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,792 songs - 4 day 15 hr 37 min
+1,793 songs - 4 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1005,6 +1005,7 @@
 | [WONDER LiGHT](https://open.spotify.com/track/3DxQteR3hlJvFGR3NrH7IL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WONDER LiGHT](https://open.spotify.com/album/2IrYnafy5p44G36o8eDvJs) | 3:27 | 2022-10-04 | 2022-11-16 |
 | [Wonderlust!!](https://open.spotify.com/track/1eFE2MInED6mRGWbdfqetL) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [Wonderlust!!](https://open.spotify.com/album/7oRJQBs0pkRE0NHwBlud2Q) | 3:34 | 2025-01-07 | 2025-01-22 |
 | [Work Out](https://open.spotify.com/track/3BIL3gxETKDeILrD6vScO3) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [Work Out](https://open.spotify.com/album/79Gx4UrnoNUVinkknsj7T8) | 2:58 | 2024-10-03 | 2025-01-08 |
+| [Worlders \- BLUE BACK Ver.](https://open.spotify.com/track/6FWI2fFMAInmaIYeUgMhKd) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [Worlders \(BLUE BACK Ver.\)](https://open.spotify.com/album/3mPZHMjnNVFhN26I9AKnul) | 4:45 | 2025-01-28 |  |
 | [Wrong World](https://open.spotify.com/track/3oydLYmU23bex9OQDwjxCz) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Wrong World](https://open.spotify.com/album/3QdDjNx9PAJ9LPSgtfUTNX) | 3:04 | 2024-04-10 | 2024-04-19 |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 | 2023-07-14 |
 | [Year N](https://open.spotify.com/track/4UMwc117Ipj55O0Y8Kfq4N) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Year N](https://open.spotify.com/album/0nxngxhjoywkXZtjyT6mia) | 3:24 | 2025-01-07 |  |

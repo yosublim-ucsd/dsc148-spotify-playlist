@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Baile bonito con Lauty Gram, DobleP, El Turko
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,393 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,413 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SI O NO](https://open.spotify.com/track/1E5LUC8mbqtPFunZmWNnzw) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z) | [SI O NO](https://open.spotify.com/album/5rjOMNOJkdHlnzLpNbdyU8) | 2:46 |
-| 2 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
+| 2 | [São Paulo](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 |
 | 3 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 |
 | 4 | [Te Sentía Mía](https://open.spotify.com/track/2PxIBcE4nkY0bO2Vl1nuVT) | [Chune](https://open.spotify.com/artist/0M8yh4QnShC2YBY1TGznCm), [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [Te Sentía Mía](https://open.spotify.com/album/6WXU3GANbrO7YIaWtRC9wv) | 2:59 |
 | 5 | [BRINCANDO](https://open.spotify.com/track/2rDr08hLBZLu4aVFKuQRuY) | [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [BRINCANDO](https://open.spotify.com/album/4BgSbrA8QJn6ygkAbWYkb5) | 1:55 |

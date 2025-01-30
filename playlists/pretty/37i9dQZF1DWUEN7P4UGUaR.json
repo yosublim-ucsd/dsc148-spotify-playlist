@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 13524,
+  "num_followers": 13532,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-01-09 09:54:54",
       "album": {
+        "name": "VICTORY",
+        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
+      },
+      "artists": [
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 236769,
+      "name": "VICTORY",
+      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
+    },
+    {
+      "added_at": "2025-01-09 09:54:54",
+      "album": {
         "name": "Chale",
         "url": "https://open.spotify.com/album/4XY20uumfyqrVMspFmBF17"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 146779,
       "name": "Chale",
       "url": "https://open.spotify.com/track/4hKnUUJ5YUz21mEKk1KyFs"
-    },
-    {
-      "added_at": "2025-01-09 09:54:54",
-      "album": {
-        "name": "VICTORY",
-        "url": "https://open.spotify.com/album/0aLj0BdIYW7zKIG2Eq1hQU"
-      },
-      "artists": [
-        {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
-        }
-      ],
-      "duration_ms": 236769,
-      "name": "VICTORY",
-      "url": "https://open.spotify.com/track/5Fv2TM7J9kzWzy17PwnQPW"
     },
     {
       "added_at": "2025-01-09 09:54:54",

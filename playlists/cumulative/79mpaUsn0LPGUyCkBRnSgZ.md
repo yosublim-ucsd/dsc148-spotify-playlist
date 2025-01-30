@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-790 songs - 2 day 4 hr 56 min
+791 songs - 2 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Bite Me](https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Over & Over](https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76) | 2:17 | 2024-06-28 |  |
 | [Black Anime](https://open.spotify.com/track/35wau9leYsDWBTW4A0ISyL) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:20 | 2023-03-09 |  |
 | [Black Dog \- Remaster](https://open.spotify.com/track/0D58ERdLBDRgT86BPnH8ps) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 4:55 | 2023-02-11 |  |
+| [BLACK OPPS](https://open.spotify.com/track/3YnYMjDHxPs5WsKjGJwZEE) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [LOWER](https://open.spotify.com/album/01UBvt33eTksshPiwljpBn) | 3:48 | 2025-01-29 |  |
 | [Black Rum](https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Cake Pop 2](https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8) | 2:26 | 2024-01-03 | 2024-02-12 |
 | [Black Sand](https://open.spotify.com/track/4kEKiGbQ0wCVhEwE3GkeRe) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Acid Tongue](https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae) | 2:53 | 2023-12-13 |  |
 | [Blackstrap](https://open.spotify.com/track/0uPk8BMGZIRNzrsFER80l8) | [The Besnard Lakes](https://open.spotify.com/artist/2hMif9QK1Knz7gD5XIUsER) | [The Besnard Lakes Are The Last Of The Great Thunderstom Warnings](https://open.spotify.com/album/5rGiRjTQSLOEpwLuvoepg7) | 6:35 | 2022-09-13 |  |

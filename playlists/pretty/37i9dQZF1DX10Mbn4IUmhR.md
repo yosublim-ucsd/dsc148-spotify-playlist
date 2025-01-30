@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0?si=y5bMnMvtQKCSIsX\_tnkL4w">Anica Kiana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,584 likes - 56 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,590 likes - 56 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

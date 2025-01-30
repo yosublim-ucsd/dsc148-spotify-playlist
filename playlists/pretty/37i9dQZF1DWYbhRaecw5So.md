@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,514 likes - 75 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,530 likes - 75 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 9 | [Turning Stones \- Mind Against Remix](https://open.spotify.com/track/1tZMhhllqKYTMku8O2FTgS) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Turning Stones \(Mind Against Remix\)](https://open.spotify.com/album/6GZ4PK7am4zhLQEsSdLuG6) | 4:11 |
 | 10 | [Chase the Sun](https://open.spotify.com/track/24Yz9uDygbyWGhnxpfvHKN) | [La Giang](https://open.spotify.com/artist/4ZtuLbaTRcktUjXtSwzqQ3) | [Chase the Sun](https://open.spotify.com/album/5VoOiqsiq1XOjzqlktGhTV) | 3:27 |
 | 11 | [Music is Better \- Maxi Meraki Remix](https://open.spotify.com/track/06iMHqpwWG1iM7TmRfyO84) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Music is Better Remixed](https://open.spotify.com/album/5PByHLgKAHvZLLOacUUZU9) | 6:55 |
-| 12 | [Playground](https://open.spotify.com/track/6AZRkRckOj62q3irZHDI30) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Last Men On Earth](https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy) | [Playground](https://open.spotify.com/album/1BqF0Lv8HRJapU58VwBwwx) | 5:00 |
+| 12 | [Playground](https://open.spotify.com/track/6AZRkRckOj62q3irZHDI30) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Last Men On Earth](https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Playground](https://open.spotify.com/album/1BqF0Lv8HRJapU58VwBwwx) | 5:00 |
 | 13 | [Xenon](https://open.spotify.com/track/2AZ6zilEtOIBedcOpJcyaf) | [Dhillon](https://open.spotify.com/artist/0uz2ob916mOA6c21tw0b28) | [Xenon](https://open.spotify.com/album/2Rj6KwcpbsOoVKXXOKXI2m) | 7:04 |
 | 14 | [Sudando](https://open.spotify.com/track/00bwY24h5wRkH4dEDvYxuv) | [96 Vibe](https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI), [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Yuliesky](https://open.spotify.com/artist/1yovZXHEExzif20uz6foeV) | [Sudando](https://open.spotify.com/album/3SS2CBEzuoHsJEyr5t6ZpX) | 3:26 |
 | 15 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |

@@ -627,6 +627,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "The Crown",
+        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "DEAD! (feat. CVLTE)",
         "url": "https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 202607,
       "name": "DEAD! (feat. CVLTE)",
       "url": "https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "The Crown",
-        "url": "https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "\u6771\u4eac\u30df\u30c3\u30c9\u30ca\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "BUG",
-        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
-      },
-      "artists": [
-        {
-          "name": "THE ORAL CIGARETTES",
-          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "BUG",
-      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "NEW DAWN",
         "url": "https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 212745,
       "name": "NEW DAWN",
       "url": "https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "BUG",
+        "url": "https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP"
+      },
+      "artists": [
+        {
+          "name": "THE ORAL CIGARETTES",
+          "url": "https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "BUG",
+      "url": "https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "BRAINWASH",
-        "url": "https://open.spotify.com/album/1W8Z3zbB0C4Fl8z0tcKOqQ"
-      },
-      "artists": [
-        {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "BRAINWASH",
-      "url": "https://open.spotify.com/track/1rBh478tPcaqibTVzzH0sI"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "DIGITAL PARANOIA 2052",
         "url": "https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "PHOENIX (Movie Ver.)",
-        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
+        "name": "BRAINWASH",
+        "url": "https://open.spotify.com/album/1W8Z3zbB0C4Fl8z0tcKOqQ"
       },
       "artists": [
         {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
         }
       ],
-      "duration_ms": 151800,
-      "name": "PHOENIX (Movie Ver.)",
-      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
+      "duration_ms": 184633,
+      "name": "BRAINWASH",
+      "url": "https://open.spotify.com/track/1rBh478tPcaqibTVzzH0sI"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1219,6 +1203,22 @@
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
+        "name": "PHOENIX (Movie Ver.)",
+        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "PHOENIX (Movie Ver.)",
+      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "Apple of my eye",
+        "url": "https://open.spotify.com/album/1IhArLW81QGbhMoutgL8iI"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "duration_ms": 335866,
+      "name": "Beautiful days",
+      "url": "https://open.spotify.com/track/0qJbn6I4UPQ0zoGX8r1CjN"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "Mountain Top",
         "url": "https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 246518,
       "name": "Mountain Top",
       "url": "https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
-      },
-      "artists": [
-        {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
-        }
-      ],
-      "duration_ms": 201105,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "duration_ms": 201105,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "nothing to be afraid of -\u6016\u308c\u308b\u3082\u306e\u306f\u4f55\u3082\u306a\u3044-",
         "url": "https://open.spotify.com/album/4jtR4NxrqxkrorYZMjNBGd"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "tx3k",
-        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
-      },
-      "artists": [
-        {
-          "name": "Texas 3000",
-          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "Connector Fuck Man",
-      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "tx3k",
+        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
+      },
+      "artists": [
+        {
+          "name": "Texas 3000",
+          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "Connector Fuck Man",
+      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "BUNBUN SUIBUN",
         "url": "https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 191242,
       "name": "BUNBUN SUIBUN",
       "url": "https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "Apple of my eye",
-        "url": "https://open.spotify.com/album/1IhArLW81QGbhMoutgL8iI"
-      },
-      "artists": [
-        {
-          "name": "NEMOPHILA",
-          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
-        }
-      ],
-      "duration_ms": 335866,
-      "name": "Beautiful days",
-      "url": "https://open.spotify.com/track/0qJbn6I4UPQ0zoGX8r1CjN"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
-      },
-      "artists": [
-        {
-          "name": "ROTTENGRAFFTY",
-          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
-        }
-      ],
-      "duration_ms": 251400,
-      "name": "\u5bc2\u5bde -sekibaku-",
-      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
         "name": "\u30e1\u30bf\u308a\uff01\uff01 (feat. Tom Morello)",
         "url": "https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg"
+      },
+      "artists": [
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        }
+      ],
+      "duration_ms": 251400,
+      "name": "\u5bc2\u5bde -sekibaku-",
+      "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "\u30e6\u30a8\u30cb",
         "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
       },
@@ -1595,22 +1595,6 @@
       "duration_ms": 240550,
       "name": "\u30e6\u30a8\u30cb",
       "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
-    },
-    {
-      "added_at": "2025-01-21 15:00:30",
-      "album": {
-        "name": "6or9",
-        "url": "https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW"
-      },
-      "artists": [
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 215220,
-      "name": "6or9",
-      "url": "https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF"
     },
     {
       "added_at": "2025-01-21 15:00:30",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
+        "name": "6or9",
+        "url": "https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 215220,
+      "name": "6or9",
+      "url": "https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF"
+    },
+    {
+      "added_at": "2025-01-21 15:00:30",
+      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2025-01-21 15:00:30",
       "album": {
-        "name": "VANDALISM",
-        "url": "https://open.spotify.com/album/5A2TMeemL5VEmN7lp8MvtX"
+        "name": "Life is Full of Choices-Greatest Songs-",
+        "url": "https://open.spotify.com/album/6cwe2mgEJimRBjJ1x165uT"
       },
       "artists": [
         {
-          "name": "ASH DA HERO",
-          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+          "name": "SWANKY DANK",
+          "url": "https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt"
+        },
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/6AvMXxk7G925pEJHF17BI5"
         }
       ],
-      "duration_ms": 173265,
-      "name": "VANDALISM",
-      "url": "https://open.spotify.com/track/6uZ8FTXfW15gerPPmaRZ9J"
+      "duration_ms": 268826,
+      "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
+      "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
     }
   ],
   "unique_name": "Loud Rock Japan",

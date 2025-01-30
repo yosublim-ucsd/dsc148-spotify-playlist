@@ -9712,7 +9712,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
@@ -13740,6 +13740,24 @@
       "duration_ms": 153569,
       "name": "Why",
       "url": "https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla"
+    },
+    {
+      "album": {
+        "name": "Why You Lying",
+        "url": "https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Why You Lying",
+      "url": "https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf"
     },
     {
       "album": {

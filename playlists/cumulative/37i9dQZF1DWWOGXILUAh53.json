@@ -24563,6 +24563,24 @@
     },
     {
       "album": {
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/6u5miPvMbyHLzqNE7YOdjR"
+      },
+      "artists": [
+        {
+          "name": "Jacob Vallen",
+          "url": "https://open.spotify.com/artist/4cpsDjOCHa98YDBMlkjaUl"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143709,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/5twVbF7fNd93mdVs2MpbKN"
+    },
+    {
+      "album": {
         "name": "Tell Me You Love Me",
         "url": "https://open.spotify.com/album/1S8jbva85gj1snQ2C40WHn"
       },

@@ -2,9 +2,9 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Brent Faiyaz, Summer Walker, Jhené Aiko and more
+> With Sonder, Frank Ocean, Miguel and more
 
-627 songs - 1 day 11 hr 38 min
+628 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [2am](https://open.spotify.com/track/2XN2zvwwACt33w7gxmthfF) | [Zu](https://open.spotify.com/artist/2h9CWr2xFLGOpxweE33PMp), [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM) | [2am](https://open.spotify.com/album/0d5KPKCI520cQay9JPE9is) | 2:58 | 2023-06-30 | 2023-08-20 |
 | [2AM In Houston](https://open.spotify.com/track/3DO8VmYTmu1HRnxqwboVOI) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Love Scars: The 5 Stages Of Emotions \(Deluxe\)](https://open.spotify.com/album/2RhpPh3aaviygDMbFUa3HG) | 3:06 | 2023-08-05 | 2023-08-06 |
 | [2hrs](https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [2hrs](https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6) | 1:04 | 2023-07-03 | 2024-02-20 |
+| [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2025-01-30 |  |
 | [3AM in Oakland](https://open.spotify.com/track/104f3GOgOZkTfHkhK21oge) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [3AM in Oakland](https://open.spotify.com/album/6fypcxh577ibSA2kOKfyl2) | 3:26 | 2023-07-26 | 2023-07-29 |
 | [4 Nothin'](https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb) | 3:29 | 2023-07-01 | 2023-09-26 |
 | [4 This Moment](https://open.spotify.com/track/1MWJbn3Yv8R1q5DaYOOzum) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Cold Toronto](https://open.spotify.com/album/6rf8l7Cz6blLk79wWPX0Uv) | 2:07 | 2023-08-26 | 2024-03-10 |
@@ -509,7 +510,7 @@
 | [Solo](https://open.spotify.com/track/4lH6nENd1y81jp7Yt9lTBX) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HNDRXX](https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X) | 4:25 | 2024-02-09 | 2024-04-19 |
 | [Some Way](https://open.spotify.com/track/7zxRMhXxJMQCeDDg0rKAVo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:59 | 2023-06-30 | 2023-12-14 |
 | [SPLIT DECISION](https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:06 | 2024-02-04 | 2024-04-27 |
-| [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 | 2024-01-11 |  |
+| [Spread Thin](https://open.spotify.com/track/4MbzauKV2ydtZZjLsPcuTF) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 3:22 | 2024-01-11 | 2025-01-30 |
 | [Stay \(feat\. Gabzy\)](https://open.spotify.com/track/3lMM7eyZ5SeYK1SoZCnmA4) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [soon.](https://open.spotify.com/album/5mjZOTY784uDQDFSXNNlTF) | 4:07 | 2023-07-02 | 2023-07-17 |
 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 | 2023-06-30 | 2025-01-29 |
 | [Still Callin' \(feat\. Teeflii\)](https://open.spotify.com/track/0sGqkDmFIr4FWEKoOalCWH) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [TeeFLii](https://open.spotify.com/artist/1pCVxwkdixCeBPTboRZIi2) | [Still Callin' \(feat\. Teeflii\)](https://open.spotify.com/album/4vmsA9MihEg6BdO4VhjaYp) | 4:26 | 2023-06-30 | 2023-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Pistol Pete & Enzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,944 likes - 71 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,948 likes - 71 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

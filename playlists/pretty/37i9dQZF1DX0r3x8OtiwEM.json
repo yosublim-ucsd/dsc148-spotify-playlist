@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 978378,
+  "num_followers": 978511,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
+        "name": "Chaos in Calm",
+        "url": "https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 284102,
+      "name": "Chaos in Calm",
+      "url": "https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg"
+    },
+    {
+      "added_at": "2025-01-24 14:51:30",
+      "album": {
         "name": "Euphoria (Jan Blomqvist Remix Edit)",
         "url": "https://open.spotify.com/album/5m5ULfpL5r7gKdey90SX3u"
       },
@@ -799,38 +815,18 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
-        "name": "Chaos in Calm",
-        "url": "https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam"
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
       "artists": [
         {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 284102,
-      "name": "Chaos in Calm",
-      "url": "https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg"
-    },
-    {
-      "added_at": "2025-01-24 14:51:30",
-      "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "See Me",
-      "url": "https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt"
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2025-01-24 14:51:30",
@@ -855,18 +851,22 @@
     {
       "added_at": "2025-01-24 14:51:30",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
         }
       ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+      "duration_ms": 220000,
+      "name": "See Me",
+      "url": "https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt"
     },
     {
       "added_at": "2025-01-24 14:51:30",

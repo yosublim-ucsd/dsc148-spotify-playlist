@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,436 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,588 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 5 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 |
 | 6 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 |
 | 7 | [CRUDELIA \- I nervi](https://open.spotify.com/track/1OeIJITrlUR4qss2kywMEn) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 3:50 |
-| 8 | [Dimenticare](https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT : tour](https://open.spotify.com/album/3hC8Ul139lIFkmtmX8B8XL) | 2:47 |
+| 8 | [Dimenticare](https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT : tour](https://open.spotify.com/album/3hC8Ul139lIFkmtmX8B8XL) | 2:47 |
 | 9 | [Cuore Dormitorio \(feat\. Tony Boy\)](https://open.spotify.com/track/21icm40PhwGXUDgetpiYmD) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Identità](https://open.spotify.com/album/5nxW9sJlywI1NGdLfaXMAN) | 2:44 |
 | 10 | [Pain Is Love](https://open.spotify.com/track/4uEhUyE9dnD1tF19YQXOsL) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:55 |
 | 11 | [Come mi guardi](https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 2](https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn) | 3:23 |

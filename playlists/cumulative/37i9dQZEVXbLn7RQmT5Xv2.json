@@ -3134,7 +3134,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 208065,
       "name": "Denamet",
       "url": "https://open.spotify.com/track/5arfoRuIEliMiCRZt7CFkA"
@@ -4208,6 +4208,28 @@
       "duration_ms": 186233,
       "name": "Etabelna",
       "url": "https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr"
+    },
+    {
+      "album": {
+        "name": "El Rwaya",
+        "url": "https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gun",
+          "url": "https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l"
+        },
+        {
+          "name": "Rally",
+          "url": "https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165642,
+      "name": "Etghayart",
+      "url": "https://open.spotify.com/track/7mfn9jHr5sUyRCMHdHy3x4"
     },
     {
       "album": {
@@ -15016,7 +15038,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 244500,
       "name": "\u0628\u062d\u0643\u064a \u0639\u0644\u064a\u0643\u064a",
       "url": "https://open.spotify.com/track/1kYgUIoRdPI36J74bzGs7y"
@@ -15500,7 +15522,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 198571,
       "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
       "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"

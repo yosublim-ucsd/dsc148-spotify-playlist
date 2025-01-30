@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: ISA\u00cf",
-  "num_followers": 9836,
+  "num_followers": 9837,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-01-23 23:00:24",
       "album": {
-        "name": "BOM",
-        "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
-      },
-      "artists": [
-        {
-          "name": "Hang Youth",
-          "url": "https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR"
-        }
-      ],
-      "duration_ms": 126902,
-      "name": "BOM",
-      "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
-    },
-    {
-      "added_at": "2025-01-23 23:00:24",
-      "album": {
         "name": "Zo Licht Als een Veertje",
         "url": "https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 161428,
       "name": "Zo Licht Als Een Veertje",
       "url": "https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW"
+    },
+    {
+      "added_at": "2025-01-23 23:00:24",
+      "album": {
+        "name": "BOM",
+        "url": "https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym"
+      },
+      "artists": [
+        {
+          "name": "Hang Youth",
+          "url": "https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR"
+        }
+      ],
+      "duration_ms": 126902,
+      "name": "BOM",
+      "url": "https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6"
     },
     {
       "added_at": "2025-01-23 23:00:24",

@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vidaamuyarchi
 
-1,640 songs - 4 day 3 hr 34 min
+1,641 songs - 4 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1431,6 +1431,7 @@
 | [Uchimalai Kaathavaraayan](https://open.spotify.com/track/6DLTeqoxqVCUfoXkmF94JF) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy) | [Uchimalai Kaathavaraayan](https://open.spotify.com/album/2kXjZMYbwh7USpoTbRqR7j) | 3:17 | 2022-11-21 | 2022-11-23 |
 | [Udaiyathe \(From "Laandhar"\)](https://open.spotify.com/track/1jj5h5kqud2HDkFmOGf5ry) | [M.S.Prraveen](https://open.spotify.com/artist/66m0abZi6PMjIE4LVzoCRP), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Udaiyathe \(From "Laandhar"\)](https://open.spotify.com/album/4Bur1ESS3rEPtJe4KcoaYP) | 4:09 | 2024-06-10 | 2024-07-12 |
 | [Ulagai Vella Pogiraal \(From "Annapoorani"\)](https://open.spotify.com/track/6ABxTTiqpUxW8icYGVTqdj) | [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Ulagai Vella Pogiraal \(From "Annapoorani"\)](https://open.spotify.com/album/0Jb8uoizdoyp5are8ZEBWT) | 3:04 | 2023-11-20 | 2023-12-14 |
+| [Ularal \- From "Kudumbasthan"](https://open.spotify.com/track/4f4HhzYl0DrPJZc9AoqNGN) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Ularal \(From "Kudumbasthan"\)](https://open.spotify.com/album/5odkum7XndXZeyX2g12W5B) | 3:01 | 2025-01-29 |  |
 | [Ulla Valikkuthu \(From "Vinveli Devathai"\)](https://open.spotify.com/track/0SlWYr72hYnXYusNDbOn9w) | [Shameshan Mani Maran](https://open.spotify.com/artist/0hKVle5ZGz8hRJ62MtV4PM), [Yuwaji](https://open.spotify.com/artist/55g4nyQPDg5JPtQWdHmxpW), [Amos Paul](https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9), [Sree Madhumitha Sandiran](https://open.spotify.com/artist/7lVNs5WkXytX3N50SXGRiG) | [Ulla Valikkuthu \(From "Vinveli Devathai"\)](https://open.spotify.com/album/5hx7vGz7HU1BgrVp2CVkNs) | 3:19 | 2023-07-14 | 2023-07-26 |
 | [Ullaasam \(From "Surya's Saturday \(Tamil\)"\)](https://open.spotify.com/track/4pzZn7lKMhhl4xmXskaVIb) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Krishna Lasya Muthyala](https://open.spotify.com/artist/6Xe2lU4AiHXTk3ehxlm7Ms) | [Ullaasam \[From "Surya's Saturday \(Tamil\)"\]](https://open.spotify.com/album/29UVyseIP3BCLqtKVmeaY0) | 4:44 | 2024-07-24 | 2024-11-05 |
 | [Ullukulla Theekaadu](https://open.spotify.com/track/3EmeTewbTQ9IRlSpBBHInm) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P) | [Adiyae \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2nS0NA74i5nkBPleJxyOh6) | 3:31 | 2023-08-10 | 2023-08-22 |

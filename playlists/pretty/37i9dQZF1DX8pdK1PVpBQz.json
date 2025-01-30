@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. \nCover: mou",
-  "num_followers": 25806,
+  "num_followers": 25816,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5jU4gAAAAD0HZxIhewME1txeBxpY0oX",
+  "snapshot_id": "Z5m9cAAAAACfEPsBt5B7kc7WM6n1n/SR",
   "tracks": [
     {
       "added_at": "2025-01-28 13:00:18",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-01-28 13:00:18",
       "album": {
-        "name": "Greatest Hits (fingers crossed)",
-        "url": "https://open.spotify.com/album/5i0qsZq36c4onghrznQAPt"
-      },
-      "artists": [
-        {
-          "name": "Bread Club",
-          "url": "https://open.spotify.com/artist/1A6xqPnXS5aOPdUU5fdK9w"
-        }
-      ],
-      "duration_ms": 263050,
-      "name": "Pushing Away",
-      "url": "https://open.spotify.com/track/2Pffu0RxWbNM9iPVZkbpV3"
-    },
-    {
-      "added_at": "2025-01-28 13:00:18",
-      "album": {
         "name": "Better Luck",
         "url": "https://open.spotify.com/album/7wrJUQn6SIe4VVZXycpXa7"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 176333,
       "name": "Crocodile Tears",
       "url": "https://open.spotify.com/track/3uXA1daLAq7pLyzO8OHDaL"
+    },
+    {
+      "added_at": "2025-01-29 05:32:32",
+      "album": {
+        "name": "DROWNING IN MY ROOM",
+        "url": "https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 149645,
+      "name": "DROWNING IN MY ROOM",
+      "url": "https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0"
     },
     {
       "added_at": "2025-01-21 13:00:19",

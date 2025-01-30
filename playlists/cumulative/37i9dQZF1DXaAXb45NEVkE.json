@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 210653,
       "name": "Point in My Life",
       "url": "https://open.spotify.com/track/2xQtvPCGfZWXccWCp9LYK4"
@@ -3864,6 +3864,28 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "album": {
+        "name": "SKBP, Vol. 1",
+        "url": "https://open.spotify.com/album/5VymVuq1q34HlTmpJdm4KN"
+      },
+      "artists": [
+        {
+          "name": "Supa King",
+          "url": "https://open.spotify.com/artist/1IohqbuaIRVOHIRrrqzX6Z"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Tell On Me (feat. Kevin Gates)",
+      "url": "https://open.spotify.com/track/6J60J68wrCdQgXI4ozULTM"
     },
     {
       "album": {

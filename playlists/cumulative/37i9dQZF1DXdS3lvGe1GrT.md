@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Renny Conti
 
-1,523 songs - 3 day 18 hr 44 min
+1,529 songs - 3 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,6 +793,7 @@
 | [lay down](https://open.spotify.com/track/7Ky8TpcVYK449vGZJY3pao) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [lay down](https://open.spotify.com/album/11udH98Q0K8dN4Z1BT1tsK) | 3:10 | 2023-06-28 | 2023-07-13 |
 | [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-05-10 | 2023-06-29 |
 | [Lay to Waste](https://open.spotify.com/track/05Sy2eK34ltyMgiTrR9Vlo) | [Bea Bitter](https://open.spotify.com/artist/6dgOnDNXvJ5ipEnbocP0Gu) | [Lay to Waste](https://open.spotify.com/album/1CYwvveNOmE1XJMpKsLhM2) | 2:46 | 2022-08-10 | 2022-11-10 |
+| [Lazy River](https://open.spotify.com/track/00mY5FTf5ocoCjtf4CBLpL) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Lazy River](https://open.spotify.com/album/5qfvbXvhXjIMrNhS38P24k) | 3:57 | 2025-01-29 |  |
 | [Lead Me Home](https://open.spotify.com/track/6nqGaeoYs2PL1O47B2K1xE) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Lead Me Home](https://open.spotify.com/album/0UqsZj10Gp3p8Z5DQmzKLY) | 2:58 | 2022-06-29 | 2022-10-13 |
 | [Learning My Ways](https://open.spotify.com/track/4qL34AlHwCFXCwLNaeyCyp) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/6SXX7ZhhMrhzGPCQM98WKu) | 4:30 | 2023-04-12 | 2023-06-01 |
 | [Learning My Ways](https://open.spotify.com/track/4tNT31r5LYaOzWlsUDlh5l) | [Nico Paulo](https://open.spotify.com/artist/5qmzeW1wvVq0c2lFK1MieD) | [Nico Paulo](https://open.spotify.com/album/5taWm9n1gekDoDjY19lCOt) | 4:30 | 2023-04-12 | 2023-04-30 |
@@ -997,6 +998,7 @@
 | [O The Sun](https://open.spotify.com/track/0edxc446WSeOD1tjkrCuKY) | [Alice Boyd](https://open.spotify.com/artist/7nwmqkSphItNiC3Pa8So7r) | [O The Sun](https://open.spotify.com/album/12fNz8WjNVfz2rmdOdshvY) | 1:58 | 2024-11-20 | 2024-12-05 |
 | [Obituary](https://open.spotify.com/track/70lWQGHi7jhS9cUsX4avYj) | [Chris Emond](https://open.spotify.com/artist/3hT9y4dPYV9Q7PUaFix4Oy) | [Obituary](https://open.spotify.com/album/5kRwwxaxKpgVKfHctwD2IU) | 2:53 | 2024-01-17 | 2024-03-07 |
 | [Occupy My Space](https://open.spotify.com/track/2eSOTT93nEtzU0qQdOrA9o) | [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Occupy My Space](https://open.spotify.com/album/5J5O43Zv76bLd4xqA0Qib7) | 4:46 | 2022-11-23 | 2023-03-02 |
+| [ocean](https://open.spotify.com/track/0438JvChCToYHZer7mdAZ9) | [Nancy Williams](https://open.spotify.com/artist/3XPQH2kwYIL317DxHeBzpu) | [you're like the ocean](https://open.spotify.com/album/4jtpzAJ5LofOxNnqvR0oob) | 3:43 | 2025-01-29 |  |
 | [October](https://open.spotify.com/track/5XE5CEIj6e5iGUZMW5Bsh6) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [HAPPY LANDING](https://open.spotify.com/album/2fTAWG3a28sHDFvPBCWGeM) | 4:32 | 2022-05-25 | 2022-09-01 |
 | [October \(October Version\)](https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [October \(October Version\)](https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse) | 4:37 | 2022-10-19 | 2022-12-01 |
 | [ode to praying to the answering machine](https://open.spotify.com/track/2jWYA3Z7rd7HvZyMeVKrll) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [ode to praying to the answering machine](https://open.spotify.com/album/4Q0junC1R59aklFFyFTTYB) | 3:11 | 2023-03-15 | 2023-04-27 |
@@ -1072,6 +1074,7 @@
 | [portland](https://open.spotify.com/track/4p8jOTg3b35ZV6bMO06f7K) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [portland](https://open.spotify.com/album/1asSQSU95xJMQ8HZmSIwF0) | 2:54 | 2023-05-10 | 2023-06-29 |
 | [Possibly Alaska](https://open.spotify.com/track/19bsT8H336P233OI5XF4Do) | [Maddison Krebs](https://open.spotify.com/artist/1c2r71uOTJ3QDVdd5oZIKF) | [Possibly Alaska](https://open.spotify.com/album/49wcI9B6Iarko0kcdyJC4B) | 4:15 | 2024-01-31 | 2024-04-04 |
 | [Pouring Water](https://open.spotify.com/track/07WKka1zyk5B1ev0e9GYO9) | [Middle Sattre](https://open.spotify.com/artist/5mk8SD4z0nsmsVeXuRfeP1) | [Pouring Water](https://open.spotify.com/album/5D4lNurdkQWpb63JXsvLkN) | 3:58 | 2023-10-11 | 2023-12-11 |
+| [Power](https://open.spotify.com/track/3DgePT17pVxi2m2Vcl9GcA) | [Neu Blume](https://open.spotify.com/artist/5or4rwSv2Ks3c3X0rPJq5Z) | [Power](https://open.spotify.com/album/2dXE8zQHRH30Dl92f0dTWZ) | 3:17 | 2025-01-29 |  |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-05-25 | 2022-10-06 |
 | [Predictable Life \- Stripped Version](https://open.spotify.com/track/3VuRBYFksQbWzBab1npyoB) | [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [I'M OK NO I'M NOT \(Deluxe Edition\)](https://open.spotify.com/album/6DirKf3fWAjsQtz4JAqybJ) | 4:27 | 2023-09-27 | 2023-12-11 |
 | [Preoccupied](https://open.spotify.com/track/0VS0WcNAoDndMBMyimJxP6) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/4BPLLOB0x9kUsNs3oPCNKU) | 3:31 | 2022-11-09 | 2022-12-01 |
@@ -1079,6 +1082,7 @@
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-05-17 | 2023-07-27 |
 | [Pretending](https://open.spotify.com/track/1SuLiXG4p5OLGJWVAYWRjF) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Psycho](https://open.spotify.com/album/2LS8scIEjFEGDJ1OeyXb4P) | 5:39 | 2023-07-19 | 2023-08-10 |
 | [Pretending](https://open.spotify.com/track/2Zt0QzgOkhyPXlhNa1k2Ib) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Pretending](https://open.spotify.com/album/0gmGD6Jh9ny9AKsFIuDrAY) | 5:39 | 2023-06-07 | 2023-08-04 |
+| [Prettiest Girl of Heaven](https://open.spotify.com/track/1JvrWviOlbTJpLUwSlgvE8) | [Caroline Strickland](https://open.spotify.com/artist/30OjWukpFMe1Ji8uzeCCe2) | [Prettiest Girl of Heaven](https://open.spotify.com/album/0iT9ednWfIf4h3xYmtOAMc) | 3:11 | 2025-01-29 |  |
 | [pretty out](https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1) | [frans asthma](https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL), [Qozy](https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh) | [pretty out](https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG) | 3:04 | 2024-07-10 | 2024-11-14 |
 | [Pretty, Pretty](https://open.spotify.com/track/0NkomCaAB2nVipVGxsTUoy) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Pretty, Pretty](https://open.spotify.com/album/2UaDtdFOC01NAP7U4H34fC) | 3:38 | 2022-08-10 | 2023-01-12 |
 | [Previous Life](https://open.spotify.com/track/4LJ5gbGKfDR8BDbpXxAklk) | [Francesca Morris](https://open.spotify.com/artist/01vOwLXaAp25VhQDCwYWcE) | [Previous Life](https://open.spotify.com/album/0pV8ZkAtBkhMaWod6qiN7v) | 3:26 | 2024-10-09 | 2024-12-05 |
@@ -1170,6 +1174,7 @@
 | [sell my soul](https://open.spotify.com/track/0R7BfRNbVcUoJsSAYfaF4J) | [b0dies](https://open.spotify.com/artist/4ZlzXxVz7C8xssfnLlLF1A) | [sell my soul](https://open.spotify.com/album/1QiPcZABvq1QuKjtgKe9Yp) | 2:39 | 2024-05-29 | 2024-08-22 |
 | [Shake Til the Fever is Gone](https://open.spotify.com/track/2O36Akvnf89fsvi5fzhOnQ) | [Bright Kelly](https://open.spotify.com/artist/0dim3eJGWaqTAtx4qgwj7U) | [Shake Til the Fever is Gone](https://open.spotify.com/album/1i53wNV08T2tEylh9jOcDV) | 3:04 | 2022-05-25 | 2022-08-11 |
 | [shaking head](https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [shaking head](https://open.spotify.com/album/5FiKwOdK0erlaCZ06n4U12) | 2:44 | 2024-03-13 | 2025-01-16 |
+| [Shape I'm In](https://open.spotify.com/track/5RCaaRwyHvHBihzI5RXZqG) | [Palmyra](https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664) | [Shape I'm In](https://open.spotify.com/album/0Cy6pdLTTZPdYVMtqBHkAG) | 4:11 | 2025-01-29 |  |
 | [She](https://open.spotify.com/track/7GEZKIuRhpIwNg3nAyg1br) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [She](https://open.spotify.com/album/6XzGoN78Dh1G5iLr4qQXOa) | 3:29 | 2022-10-26 | 2023-01-12 |
 | [She Still Sings](https://open.spotify.com/track/48osuvPh1naznY9iqrx9El) | [Lady Moon](https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc) | [She Still Sings](https://open.spotify.com/album/4ieDJd01azRVp3PHbychPJ) | 3:48 | 2023-03-15 | 2023-04-21 |
 | [Shine](https://open.spotify.com/track/6IzFGv9kIlHlOamtyDsGW4) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [Shine](https://open.spotify.com/album/0q1qEMPE8QaZZVyvslR9sc) | 4:06 | 2022-05-25 | 2022-08-11 |
@@ -1452,6 +1457,7 @@
 | [Weft](https://open.spotify.com/track/6EEDTgNUFDq1lWZG5N0LmJ) | [Blue Lake](https://open.spotify.com/artist/6I1HySHVBxauGTpv00Gohc) | [Weft](https://open.spotify.com/album/0eH8xOd7vFyNJpNmzQQUTW) | 5:40 | 2025-01-22 |  |
 | [Weight of Your Bones](https://open.spotify.com/track/6QqCaiTztIDSzjt5GypR6f) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Weight of Your Bones](https://open.spotify.com/album/2TVhA9jgIUtODgGH6ACTql) | 4:23 | 2023-01-11 | 2023-02-16 |
 | [Weightless](https://open.spotify.com/track/1RmZ9Oh6qfidVbzukot42i) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [Weightless](https://open.spotify.com/album/3nPwr6dVAbMPDkS9JvzbN2) | 3:27 | 2022-09-21 | 2023-01-12 |
+| [Well Roared Lion](https://open.spotify.com/track/77IhLXNIhNVMrIurGJ58IF) | [Red Hill](https://open.spotify.com/artist/3OqlGX7gDuFvMHDULh1siW) | [Well Roared Lion](https://open.spotify.com/album/1zOsGHC4itWLQa0jtm3B95) | 3:06 | 2025-01-29 |  |
 | [Wet T\-Shirt](https://open.spotify.com/track/6VvSSKj5v2gnrGNitsbe6G) | [Ava Beathard](https://open.spotify.com/artist/7hwnSMEIzb8Ry5i69tubcu) | [Can You Hear Me Now?](https://open.spotify.com/album/4hz9D1pMHcCGY8cWZGn8qt) | 4:25 | 2023-06-21 | 2023-08-31 |
 | [Whale Song](https://open.spotify.com/track/771nBYPfjLpCa439MiiuBy) | [Glenn Thomas](https://open.spotify.com/artist/5PDr566OoM3EayDT1HfL1U) | [Whale Song](https://open.spotify.com/album/3Xq0tSfKbBLF17taxcNOjn) | 3:37 | 2022-05-25 | 2022-08-25 |
 | [What Did I Think Would Happen](https://open.spotify.com/track/4VoefRatVX2l8jwha2eVHz) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [What Did I Think Would Happen](https://open.spotify.com/album/79mrh6USdtYLG3yUm366JS) | 3:22 | 2024-10-16 | 2025-01-16 |

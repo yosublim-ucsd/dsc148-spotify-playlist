@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,542 likes - 111 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,544 likes - 111 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 15 | [Control Of Me \(feat\. Daecolm\)](https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Control Of Me \(feat\. Daecolm\)](https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm) | 3:15 |
 | 16 | [Paraply](https://open.spotify.com/track/3jAnOgVvU8qZk6F0W8J6il) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Paraply](https://open.spotify.com/album/3pRz34qaaewLHolbPYT0FM) | 1:55 |
 | 17 | [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 |
-| 18 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
+| 18 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
 | 19 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
 | 20 | [Yayo](https://open.spotify.com/track/13PSiL6Mvu9hw7jHZH8Ars) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Yayo](https://open.spotify.com/album/1ogv4el0MvGnpf4PHHF7m9) | 2:34 |
 | 21 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 |

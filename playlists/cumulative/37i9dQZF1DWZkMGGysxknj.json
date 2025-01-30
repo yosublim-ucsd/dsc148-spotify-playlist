@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 229560,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP"
@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 187389,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
@@ -3712,6 +3712,24 @@
       "duration_ms": 198608,
       "name": "Physical - Acoustic",
       "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
+    },
+    {
+      "album": {
+        "name": "Pink Pony Club",
+        "url": "https://open.spotify.com/album/45JWFeMS8yGuWb5Us1C42G"
+      },
+      "artists": [
+        {
+          "name": "NiCKY",
+          "url": "https://open.spotify.com/artist/5Eh8xW4ddb4IwGKlRfCBy4"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280618,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/0N1xQEwViOsv84qWBlTFqV"
     },
     {
       "album": {
@@ -4718,7 +4736,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 220962,
       "name": "The Day That We First Met",
       "url": "https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk"

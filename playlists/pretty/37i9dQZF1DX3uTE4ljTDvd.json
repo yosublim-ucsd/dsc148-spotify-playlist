@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Alexsander Lucio",
-  "num_followers": 125553,
+  "num_followers": 125588,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
+        "name": "Declare O Nome Dele",
+        "url": "https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury"
+      },
+      "artists": [
+        {
+          "name": "Thuanny Carvalho",
+          "url": "https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU"
+        }
+      ],
+      "duration_ms": 240887,
+      "name": "Declare o Nome Dele",
+      "url": "https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
         "name": "Por Causa Dele / Est\u00e1 Tudo Bem (Ao Vivo)",
         "url": "https://open.spotify.com/album/7iDFYkgU28o1Ja8OebIcbi"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 444435,
       "name": "Por Causa Dele / Est\u00e1 Tudo Bem - Ao Vivo",
       "url": "https://open.spotify.com/track/5ULBbb84hWBUygbh4Yg53a"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "Declare O Nome Dele",
-        "url": "https://open.spotify.com/album/0jo6FNcSRrNvF9XVL84Ury"
-      },
-      "artists": [
-        {
-          "name": "Thuanny Carvalho",
-          "url": "https://open.spotify.com/artist/47fORQIc5irQMNZKt7xIcU"
-        }
-      ],
-      "duration_ms": 240887,
-      "name": "Declare o Nome Dele",
-      "url": "https://open.spotify.com/track/59hv6fdw1VdoKN4le00gRp"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Te Queremos Mais",
-        "url": "https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa"
-      },
-      "artists": [
-        {
-          "name": "Victoria Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d"
-        }
-      ],
-      "duration_ms": 321562,
-      "name": "Te Queremos Mais",
-      "url": "https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
         "name": "Me Mostra Tua Face",
         "url": "https://open.spotify.com/album/2J6T1h7EXJyYwMTvpgbUCx"
       },
@@ -395,22 +379,18 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Vai Adorando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
+        "name": "Te Queremos Mais",
+        "url": "https://open.spotify.com/album/4Ih5eUaGedWzx0z82x7ISa"
       },
       "artists": [
         {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        },
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+          "name": "Victoria Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/5Z9Z5mJvghIG4GAPJ5lo7d"
         }
       ],
-      "duration_ms": 330409,
-      "name": "Vai Adorando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
+      "duration_ms": 321562,
+      "name": "Te Queremos Mais",
+      "url": "https://open.spotify.com/track/2b8G9oQzA0MUQvQfhLqZCf"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -431,6 +411,26 @@
       "duration_ms": 248623,
       "name": "Esp\u00edrito, Enche a Minha Vida",
       "url": "https://open.spotify.com/track/6R1M5uAD1qsv5T8MIZVnFy"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Vai Adorando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5zfXPIB02pgp89cE0aubR2"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        },
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 330409,
+      "name": "Vai Adorando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73mYxEGk6SojNZzFZORJdH"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -559,18 +559,18 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
       },
       "artists": [
         {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+      },
+      "artists": [
+        {
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+        }
+      ],
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
         "name": "Meu Grande Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/6cljyhbv9omnGm0UhJ4OlI"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 634368,
       "name": "Meu Grande Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/5ezHz7zoux1YGn61T6E3XA"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Minha can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
       },
       "artists": [
         {
-          "name": "ThreeSis",
-          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
         }
       ],
-      "duration_ms": 273514,
-      "name": "Minha can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -747,18 +747,34 @@
     {
       "added_at": "2025-01-10 03:01:06",
       "album": {
-        "name": "Basta Uma Palavra",
-        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
+        "name": "Minha can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO"
       },
       "artists": [
         {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+          "name": "ThreeSis",
+          "url": "https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
+      "duration_ms": 273514,
+      "name": "Minha can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS"
+    },
+    {
+      "added_at": "2025-01-10 03:01:06",
+      "album": {
+        "name": "Quem Disse? (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
+      },
+      "artists": [
+        {
+          "name": "Julliana Silva",
+          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
+        }
+      ],
+      "duration_ms": 330005,
+      "name": "Quem Disse? - Ao Vivo",
+      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
     },
     {
       "added_at": "2025-01-10 03:01:06",
@@ -779,22 +795,6 @@
       "duration_ms": 305000,
       "name": "Descansa em Mim",
       "url": "https://open.spotify.com/track/33Kw7vIXjoeCvwTKeM4wR8"
-    },
-    {
-      "added_at": "2025-01-10 03:01:06",
-      "album": {
-        "name": "Quem Disse? (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO"
-      },
-      "artists": [
-        {
-          "name": "Julliana Silva",
-          "url": "https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI"
-        }
-      ],
-      "duration_ms": 330005,
-      "name": "Quem Disse? - Ao Vivo",
-      "url": "https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG"
     },
     {
       "added_at": "2025-01-10 03:01:06",

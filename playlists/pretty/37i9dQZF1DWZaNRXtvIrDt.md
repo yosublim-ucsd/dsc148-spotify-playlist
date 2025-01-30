@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. Cover: VV Pete
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,265 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,259 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 12 | [Escape](https://open.spotify.com/track/6WRKpDo9ayuRidi2Rv291e) | [AJ Christou](https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Escape](https://open.spotify.com/album/2NCtVmzU6FWVpzODrgVVDo) | 3:32 |
 | 13 | [DJibouti Blues](https://open.spotify.com/track/26Pg9HLVQfvWOf1s05PwUb) | [DJibouti](https://open.spotify.com/artist/2PyUWRpP3uy6MrZB1rPxQw) | [DJibouti Blues](https://open.spotify.com/album/13oGjcG4tpHjFdHiOmKMKk) | 4:17 |
 | 14 | [Nobody Like U](https://open.spotify.com/track/1gJgsOWfXRudTbu3AR6XmW) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Nobody Like U](https://open.spotify.com/album/1cUynB6rxcJr9c3D0inGxP) | 3:26 |
-| 15 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
+| 15 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
 | 16 | [Talk To Me](https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Talk To Me](https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7) | 3:52 |
 | 17 | [Sprite](https://open.spotify.com/track/0cI2dEe3fnHZSUpKsSAcH1) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [LEFREQ001](https://open.spotify.com/album/73wNLkkAWZxbUrz57BFwMw) | 3:19 |
 | 18 | [The Attention Deficit Track \- Edit](https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW) | [Jackmaster](https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [The Attention Deficit Track](https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc) | 3:48 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,079 songs - 4 day 15 hr 33 min
+2,083 songs - 4 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1153,6 +1153,7 @@
 | [masquerade](https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx) | 2:24 | 2021-08-05 |  |
 | [Masquerade: Waltz](https://open.spotify.com/track/3eCRPMJfd2NFeOuZQWPl9E) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Yuri Ahronovitch](https://open.spotify.com/artist/0iJNhnFm2d1z5ieFdYg3c6) | [Russian Spectacular](https://open.spotify.com/album/2Somoq77AZUOOyCaw6GQXc) | 4:32 | 2022-11-07 |  |
 | [Mastercard](https://open.spotify.com/track/4DCm1yyODwqULv5zOb1mkW) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Mastercard](https://open.spotify.com/album/6jJkHZaIS3bBXBaafuY17p) | 3:19 | 2024-09-12 |  |
+| [materiaL hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 1:34 | 2025-01-29 |  |
 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 | 2023-04-15 |  |
 | [Maxwell's Silver Hammer \- Remastered 2009](https://open.spotify.com/track/2S8xyNRJX1XQdo3qnTuovI) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:27 | 2021-08-05 |  |
 | [me](https://open.spotify.com/track/5W1xEYWSoRTjekxW3ehnX3) | [lungskull](https://open.spotify.com/artist/2wvTwsc93H5xfsHE6QK1nl) | [me](https://open.spotify.com/album/0c8pksgqCCP3wjUQc2M8ZA) | 1:26 | 2021-08-05 |  |
@@ -1229,12 +1230,14 @@
 | [Mx\. Sinister](https://open.spotify.com/track/1hYXuCb1EMgwfl3QHUeTfM) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Mx\. Sinister](https://open.spotify.com/album/3qUrbZrRvcbfMsHyE0qkeC) | 2:59 | 2022-07-10 |  |
 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 | 2022-02-04 |  |
 | [My Axe](https://open.spotify.com/track/21DhGvrfC9W2FBjW5EJmWE) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [Jugganauts \- The Best Of ICP](https://open.spotify.com/album/1SjluyIg7rIF87i76JxlhH) | 3:53 | 2021-08-05 |  |
+| [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 | 2025-01-29 |  |
 | [my boy](https://open.spotify.com/track/1RGasjWLZ4qMN7wbtkLa3u) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 2:50 | 2021-08-05 |  |
 | [My Boy \- Twin Fantasy](https://open.spotify.com/track/2fvXVJJCTc0Q9KkRM0eOpP) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Twin Fantasy \(Mirror To Mirror\)](https://open.spotify.com/album/5aqXdOgdhpSfYcCde4SHgI) | 2:49 | 2021-11-14 | 2024-05-26 |
 | [My Desperate House](https://open.spotify.com/track/1QlvnF442xOesxP8LZEyvj) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 2:59 | 2021-08-05 |  |
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2021-08-05 |  |
 | [My Head Hurts](https://open.spotify.com/track/197NViGw2gfXEKMJEQFWPE) | [strxwberrymilk](https://open.spotify.com/artist/6ZwmyApIe9gFarOGcDhnd1) | [Music for Awkward Dates](https://open.spotify.com/album/11boHgROx5LlPmMs6MymUk) | 3:06 | 2022-06-09 |  |
 | [My Heart Went Oops](https://open.spotify.com/track/2KsqycGYiANywGDOPkVmvK) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [They Call Me Tiago](https://open.spotify.com/album/3V2S3w4ktPnjci3oAxrKRS) | 2:08 | 2021-08-05 |  |
+| [My Little White Pony](https://open.spotify.com/track/46PRAC9BDGinxWR2Jw6chN) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Farm Fantasies](https://open.spotify.com/album/7kDMF5sKIkfT8MxEwahCel) | 4:59 | 2025-01-29 |  |
 | [My Meds Aren't Working](https://open.spotify.com/track/3iubkenxO8JUJNp7phyVlb) | [Dystopia](https://open.spotify.com/artist/32lwvl98Ck0aCggYSMUlaR) | [Dystopia](https://open.spotify.com/album/6JDxhxRjAntUSWJN9HfRKc) | 4:01 | 2024-07-12 |  |
 | [My Nightmare](https://open.spotify.com/track/0bCi4ZzIbVJsHxD9CSzIzB) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Everyone's Out To Get Me](https://open.spotify.com/album/5CPpHqMwhnMHHhTlf6bfiN) | 3:54 | 2022-04-26 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2021-08-05 |  |
@@ -1908,6 +1911,7 @@
 | [TWISTED](https://open.spotify.com/track/4e82R436YiTeNqMKC0smY3) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [TWISTED](https://open.spotify.com/album/7Mw6h3F6UELb4IwcMr0IvF) | 2:38 | 2021-11-14 |  |
 | [Two Time](https://open.spotify.com/track/7JTGwb6ug0z15F5roNLE0s) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Inchman / Two Time](https://open.spotify.com/album/4MRCHFNTaIipvwa7KGpaWF) | 2:19 | 2021-08-05 |  |
 | [Two\-Headed Boy](https://open.spotify.com/track/27AG99NmWMFLRoyZMMPNW2) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 4:26 | 2021-08-05 |  |
+| [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 | 2025-01-29 |  |
 | [U Can't Touch This](https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu) | [MC Hammer](https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW) | [Please Hammer Don't Hurt 'Em](https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN) | 4:17 | 2021-08-05 |  |
 | [u U U U u U did i mfken stutter?](https://open.spotify.com/track/368hMk29q0OhJuRjWL44Fm) | [swimcoach](https://open.spotify.com/artist/55kM6YHZNtzPFa6veTc2Zf) | [u U U U u U did i mfken stutter?](https://open.spotify.com/album/6qNoaIgbAqeI6ynSsJ3kej) | 1:53 | 2021-08-05 |  |
 | [U Weren't Here I Really Miss You](https://open.spotify.com/track/61iJknbAXSuBflDz3vSQ0b) | [Cult Member](https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF) | [U Weren't Here I Really Miss You](https://open.spotify.com/album/6Ky5coUkQosChvDtdzjBWE) | 2:40 | 2024-11-11 |  |

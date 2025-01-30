@@ -4,7 +4,7 @@
 
 > Underneath their cool, unbothered exterior, this character is an enigma to be unraveled.
 
-74 songs - 4 hr 8 min
+80 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,20 +53,24 @@
 | [SHAKE](https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SHAKE](https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe) | 3:59 | 2025-01-17 |  |
 | [She's My Collar \(feat\. Kali Uchis\)](https://open.spotify.com/track/3lIxtCaROdRDuTnNBDm3n2) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 3:29 | 2024-08-19 | 2024-12-21 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2024-12-20 | 2025-01-18 |
+| [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2025-01-29 |  |
 | [Telecastic fake show](https://open.spotify.com/track/3AvnUFXRRye5CSGDopsBKD) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Telecastic fake show](https://open.spotify.com/album/3nykiBvzUfbUWfV9DPOTOu) | 4:26 | 2024-08-19 | 2024-12-21 |
 | [Telecastic fake show](https://open.spotify.com/track/7nX7T2GyB5rzkSOliO2Djm) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [just A moment](https://open.spotify.com/album/4BWKCEUijxc5qlDqju6haQ) | 4:27 | 2025-01-17 |  |
+| [UN\-APEX](https://open.spotify.com/track/0jmMSb8fGqcn7gKQ7vfdNj) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [UN\-APEX](https://open.spotify.com/album/09xKEYd8CymEeCNANki8Sl) | 4:20 | 2025-01-29 |  |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2024-08-19 |  |
 | [VIVID VICE](https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [VIVID VICE](https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS) | 3:05 | 2024-08-19 |  |
 | [YELLOW](https://open.spotify.com/track/6oLejuhWNQf76ydBbtLrT9) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [SHIAWASE NA OTONA](https://open.spotify.com/album/7x6VFsg9C0oqfiv70xV3yl) | 2:58 | 2024-08-19 | 2025-01-18 |
 | [YELLOW](https://open.spotify.com/track/73wJWOtr5sh2FfJS6XoHnn) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [しあわせなおとな](https://open.spotify.com/album/3xPXepfd6b9ixdy002KQMG) | 2:58 | 2025-01-17 |  |
 | [お勉強しといてよ](https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:39 | 2024-12-20 | 2025-01-18 |
 | [オトナブルー](https://open.spotify.com/track/3iszqtuRuu5JhOG1jDqwkO) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [一時帰国](https://open.spotify.com/album/7u4bwVJmR4P4Z1vXKB3ruZ) | 3:04 | 2025-01-17 |  |
+| [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2025-01-29 |  |
 | [カオスが極まる](https://open.spotify.com/track/0lPfqcI3A8gQ9971nXxgq6) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [カオスが極まる](https://open.spotify.com/album/2Ju0DfkzxP0XsR2IthWIEI) | 3:50 | 2024-12-20 | 2025-01-18 |
 | [カカシのテーマ](https://open.spotify.com/track/72k3g6bzRrapRO8D1C2GjL) | [Toshio Masuda](https://open.spotify.com/artist/78JmbZfna6DOfhSoxccZZw) | [NARUTO \-ナルト\-　オリジナルサウンドトラック](https://open.spotify.com/album/6NrJzDuBPZvp3ZRXnIqs1P) | 1:30 | 2024-12-20 | 2025-01-18 |
 | [カタルシス](https://open.spotify.com/track/7H9i9pN3Wsr8Tl4k2zA7Xm) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [カタルシス](https://open.spotify.com/album/7gGXJjqDKdjjZWVTKNjRMI) | 4:12 | 2024-08-19 |  |
 | [ギラギラ](https://open.spotify.com/track/2mSRPQsUDIXJFfo3CpKJBA) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:36 | 2024-08-19 |  |
 | [コバルトブルー](https://open.spotify.com/track/48kgW2worhXNFJJ2KN9yEr) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [ヘッドフォンチルドレン](https://open.spotify.com/album/1LypiBHtLzLa0c9IErlDt6) | 4:25 | 2024-08-19 |  |
 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2024-12-20 | 2025-01-18 |
+| [シルエット](https://open.spotify.com/track/1GMD0Xzzawqz2GHZC8IhwL) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/4xs2LYR6cIXU47QLmXJlFU) | 4:01 | 2025-01-29 |  |
 | [ターミナル](https://open.spotify.com/track/0K5GWdH6o5PXnLlP2dAxSA) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 4:26 | 2024-12-20 | 2025-01-18 |
 | [勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:14 | 2024-08-19 | 2025-01-18 |
 | [合法的トビ方ノススメ](https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [たりないふたり](https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs) | 3:58 | 2024-12-20 | 2025-01-18 |
@@ -76,8 +80,10 @@
 | [明日もこの世は回るから](https://open.spotify.com/track/3ck36TRBcv022W4h4Cs9S1) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [CULTURE DOG](https://open.spotify.com/album/5a1bxguVm8EXhv8Mo1DePm) | 3:40 | 2024-08-19 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2024-12-20 | 2025-01-18 |
 | [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 | 2024-08-19 |  |
+| [紅蓮](https://open.spotify.com/track/0ldzDKNON23ajcssPHjTKH) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [DOES](https://open.spotify.com/album/1KnBUiw5MLYjJsSqJWLTPU) | 4:03 | 2025-01-29 |  |
 | [聖者の行進](https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [聖者の行進](https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW) | 2:57 | 2024-08-19 | 2024-12-21 |
 | [聖者の行進](https://open.spotify.com/track/7iz3zy3v6aDiB68zUiJn0U) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [BIPOLAR](https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9) | 2:57 | 2025-01-17 |  |
+| [花になって \- Be a flower](https://open.spotify.com/track/5CP06vHmpMeLot4rhIFeOR) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって](https://open.spotify.com/album/55lTYZYG9JnlBg9NSHEgma) | 3:19 | 2025-01-29 |  |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2024-12-20 | 2025-01-18 |
 | [頭ん中DEAD END（unknown Vo：10fu）](https://open.spotify.com/track/7moI0CrJbEA3uIGnfcJJAv) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [頭ん中DEAD END（unknown Vo：10fu）](https://open.spotify.com/album/1bPTyJvoZbGf5zqOGOe6lI) | 3:13 | 2025-01-17 |  |
 | [＊〜アスタリスク〜](https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [＊〜アスタリスク〜](https://open.spotify.com/album/3pkS4JGRAhXDI9kc9OouPH) | 4:15 | 2025-01-17 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Soundtrack the Super Bowl with a ready made playlist with all the hits from past and present halftime shows!",
+  "description": "Soundtrack the big game with all the hits from past and present halftime shows!",
   "name": "HALFTIME SHOW HITS",
   "tracks": [
     {
@@ -199,7 +199,7 @@
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 278277,
+      "duration_ms": 278276,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
     },
@@ -13428,17 +13428,13 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
+      "name": "Timeless",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

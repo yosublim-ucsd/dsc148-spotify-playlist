@@ -53,6 +53,28 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Piano Music",
+        "url": "https://open.spotify.com/album/2E2G6rlHCJrDKUU4JSp5Bp"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "3 Romances sans paroles, Op. 17: No. 3 in A-Flat Major. Andante moderato",
+      "url": "https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF"
+    },
+    {
+      "album": {
         "name": "Schumann: 3 Romances, Op. 94: No. 2, Einfach, innig (Musical Moments)",
         "url": "https://open.spotify.com/album/2P5WbvbtDDbxEdEj0JBPXU"
       },
@@ -2498,28 +2520,6 @@
       "duration_ms": 338840,
       "name": "There Will Come",
       "url": "https://open.spotify.com/track/4Bj0ZXwZTil8fVWVuucLKW"
-    },
-    {
-      "album": {
-        "name": "Faur\u00e9: Piano Music",
-        "url": "https://open.spotify.com/album/2E2G6rlHCJrDKUU4JSp5Bp"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
-        }
-      ],
-      "date_added": "2024-09-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165000,
-      "name": "Trois Romances sans paroles, Op. 17: 3. Andante moderato",
-      "url": "https://open.spotify.com/track/4myyfMmDd7wTkgq8Ci7VfF"
     },
     {
       "album": {

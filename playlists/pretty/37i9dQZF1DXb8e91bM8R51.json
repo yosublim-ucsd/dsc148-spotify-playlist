@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52363,
+  "num_followers": 52368,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-01-24 16:12:32",
       "album": {
+        "name": "Rice N Gravy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Rice N Gravy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
+    },
+    {
+      "added_at": "2025-01-24 16:12:32",
+      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/5H0rjI1TW8F2tORPYMJXHJ"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/0NWtAf6HtnfA5KFCaX6Wtz"
-    },
-    {
-      "added_at": "2025-01-24 16:12:32",
-      "album": {
-        "name": "Rice N Gravy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Rice N Gravy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2025-01-24 16:12:32",
@@ -1395,6 +1395,46 @@
     {
       "added_at": "2025-01-24 16:12:32",
       "album": {
+        "name": "COMMUNITY",
+        "url": "https://open.spotify.com/album/0XAZV2Q7q57anNWzQPARET"
+      },
+      "artists": [
+        {
+          "name": "NARCY",
+          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
+        },
+        {
+          "name": "Niko Is",
+          "url": "https://open.spotify.com/artist/7Ci28o541njEn2byuNfjfs"
+        },
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Dave Chappelle",
+          "url": "https://open.spotify.com/artist/504DdVupqJJUEkzmHzJEfs"
+        },
+        {
+          "name": "Mo Amer",
+          "url": "https://open.spotify.com/artist/3vpLWyYdXNnZx3eJKrwxz7"
+        },
+        {
+          "name": "Donnell Rawlings",
+          "url": "https://open.spotify.com/artist/5nvjpU3Y7L6Hpe54QuvDjy"
+        },
+        {
+          "name": "Issa Ali",
+          "url": "https://open.spotify.com/artist/6VRdQzjxhLf81RwMrEba9W"
+        }
+      ],
+      "duration_ms": 319180,
+      "name": "COMMUNITY",
+      "url": "https://open.spotify.com/track/3IDL1MuZlqnTBsfljKA0Jd"
+    },
+    {
+      "added_at": "2025-01-24 16:12:32",
+      "album": {
         "name": "Ay Caramba",
         "url": "https://open.spotify.com/album/5Cla7ofc09ZmMLLFPguYmv"
       },
@@ -1407,6 +1447,22 @@
       "duration_ms": 164436,
       "name": "Ay Caramba",
       "url": "https://open.spotify.com/track/057AXXbYFzwxq8tUdVS7Xn"
+    },
+    {
+      "added_at": "2025-01-24 16:12:32",
+      "album": {
+        "name": "Let It Breathe",
+        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
     },
     {
       "added_at": "2025-01-24 16:12:32",
@@ -1427,22 +1483,6 @@
       "duration_ms": 201356,
       "name": "REMIND 'EM (feat. Quavo)",
       "url": "https://open.spotify.com/track/12bLurKBuh3UpOuLg5ftSV"
-    },
-    {
-      "added_at": "2025-01-24 16:12:32",
-      "album": {
-        "name": "Let It Breathe",
-        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Let It Breathe",
-      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
     },
     {
       "added_at": "2025-01-24 16:12:32",
@@ -1527,46 +1567,6 @@
     {
       "added_at": "2025-01-24 16:12:32",
       "album": {
-        "name": "COMMUNITY",
-        "url": "https://open.spotify.com/album/0XAZV2Q7q57anNWzQPARET"
-      },
-      "artists": [
-        {
-          "name": "NARCY",
-          "url": "https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg"
-        },
-        {
-          "name": "Niko Is",
-          "url": "https://open.spotify.com/artist/7Ci28o541njEn2byuNfjfs"
-        },
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Dave Chappelle",
-          "url": "https://open.spotify.com/artist/504DdVupqJJUEkzmHzJEfs"
-        },
-        {
-          "name": "Mo Amer",
-          "url": "https://open.spotify.com/artist/3vpLWyYdXNnZx3eJKrwxz7"
-        },
-        {
-          "name": "Donnell Rawlings",
-          "url": "https://open.spotify.com/artist/5nvjpU3Y7L6Hpe54QuvDjy"
-        },
-        {
-          "name": "Issa Ali",
-          "url": "https://open.spotify.com/artist/6VRdQzjxhLf81RwMrEba9W"
-        }
-      ],
-      "duration_ms": 319180,
-      "name": "COMMUNITY",
-      "url": "https://open.spotify.com/track/3IDL1MuZlqnTBsfljKA0Jd"
-    },
-    {
-      "added_at": "2025-01-24 16:12:32",
-      "album": {
         "name": "Miss My Dawgs",
         "url": "https://open.spotify.com/album/3tWXlBpvbJN1F0cLtOc47a"
       },
@@ -1643,42 +1643,6 @@
     {
       "added_at": "2025-01-24 16:12:32",
       "album": {
-        "name": "Wise Up",
-        "url": "https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        }
-      ],
-      "duration_ms": 227495,
-      "name": "Wise Up",
-      "url": "https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY"
-    },
-    {
-      "added_at": "2025-01-24 16:12:32",
-      "album": {
-        "name": "Dark Hearted",
-        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205851,
-      "name": "Dark Hearted",
-      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
-    },
-    {
-      "added_at": "2025-01-24 16:12:32",
-      "album": {
         "name": "ROSE STREET",
         "url": "https://open.spotify.com/album/7CndERmuISXqBYNk7poimm"
       },
@@ -1695,22 +1659,22 @@
     {
       "added_at": "2025-01-24 16:12:32",
       "album": {
-        "name": "Flowers (feat. MAVI)",
-        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+        "name": "Wise Up",
+        "url": "https://open.spotify.com/album/1IROPd6PTUoA3o9tqTvRiL"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
         {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
         }
       ],
-      "duration_ms": 182201,
-      "name": "Flowers (feat. MAVI)",
-      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
+      "duration_ms": 227495,
+      "name": "Wise Up",
+      "url": "https://open.spotify.com/track/4QVS7dlOCQde84utqhwOyY"
     },
     {
       "added_at": "2025-01-24 16:12:32",
@@ -1735,6 +1699,22 @@
     {
       "added_at": "2025-01-24 16:12:32",
       "album": {
+        "name": "Dark Hearted",
+        "url": "https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 205851,
+      "name": "Dark Hearted",
+      "url": "https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL"
+    },
+    {
+      "added_at": "2025-01-24 16:12:32",
+      "album": {
         "name": "luvu222",
         "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 110571,
       "name": "luvu222",
       "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
+    },
+    {
+      "added_at": "2025-01-24 16:12:32",
+      "album": {
+        "name": "Flowers (feat. MAVI)",
+        "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 182201,
+      "name": "Flowers (feat. MAVI)",
+      "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
     },
     {
       "added_at": "2025-01-24 16:12:32",

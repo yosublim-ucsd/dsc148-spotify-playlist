@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 
 > Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: wiśniosz
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,572 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,571 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 | 83 | [Coś mnie goni nieustannie](https://open.spotify.com/track/1ApVpr19NSuQyxjh8ypO42) | [Mały Atlas Burz](https://open.spotify.com/artist/7eP4lYsmLi8Y70j0IUMO7V) | [Coś mnie goni nieustannie](https://open.spotify.com/album/7KbEt1OjGjV0y7GOabSdo9) | 4:11 |
 | 84 | [babcia sprzedała sie za propozycje fotowoltaiki](https://open.spotify.com/track/0BvrkxIZfPZ3JrAVH5bCFi) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [babcia sprzedała sie za propozycje fotowoltaiki](https://open.spotify.com/album/7wWJ8WQeKaxi0y2FMhJt1l) | 2:06 |
 | 85 | [Hej, Aloszka](https://open.spotify.com/track/2Kv2vgmi2rwuabEavpUWA7) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [Hej, Aloszka](https://open.spotify.com/album/2pCmMCPNkDwZijGmAcmPuk) | 3:26 |
-| 86 | [Jeszcze Lepiej](https://open.spotify.com/track/1ouZPxhMBfcVSyMmvd1SLA) | [Faraway](https://open.spotify.com/artist/646lnHmBlaaRfDtxgk2jsL) | [Faraway](https://open.spotify.com/album/4072vRC3Atk2pktiQ7xt7n) | 2:26 |
+| 86 | [Jeszcze Lepiej](https://open.spotify.com/track/1ouZPxhMBfcVSyMmvd1SLA) | [Faraway](https://open.spotify.com/artist/3teqQY8BTvMzAkV3nBRFe5) | [Faraway](https://open.spotify.com/album/4072vRC3Atk2pktiQ7xt7n) | 2:26 |
 | 87 | [kiedy już będziemy wolni](https://open.spotify.com/track/5JCZDs2X1OyFDstNQMzVMY) | [mop](https://open.spotify.com/artist/6mHsoKwXCaQ3TCWBBPu9Dy) | [kiedy już będziemy wolni](https://open.spotify.com/album/3J447K4HPJEzmZzwYLK0qx) | 4:25 |
 | 88 | [Wzięli zamknęli mi klub](https://open.spotify.com/track/6z0nX4bMtRdDJ0tw2xUoH2) | [Łydka Grubasa](https://open.spotify.com/artist/569FdhHZfMXaaCkF74Ok2x), [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Ęć](https://open.spotify.com/album/57IT3nVGRMjVpKjgN0Ibjf) | 3:54 |
 | 89 | [Ławeczka](https://open.spotify.com/track/0AyVome8l1jriwb4l9eZg0) | [Zabłocki Osobiście](https://open.spotify.com/artist/0dZDa1WM4m0jHQwP46uQq2), [Czesław Śpiewa](https://open.spotify.com/artist/5rDWHA1JYXY31soG6Os9cY) | [Ławeczka](https://open.spotify.com/album/1N9vnyYXI7I2pMp1UCnOAC) | 3:16 |

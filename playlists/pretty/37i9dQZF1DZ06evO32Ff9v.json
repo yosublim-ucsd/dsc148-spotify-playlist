@@ -1,12 +1,12 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 36227,
+  "num_followers": 36333,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAABVkJ3TD9cwc9iiq0QCkYjL",
+  "snapshot_id": "Z5geAAAAAABn9QU67bvJAtMTBwHqHQpu",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Los Espino",
+      "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A.L.V.",
         "url": "https://open.spotify.com/album/3SxCRrJRJuFwtw2x4j86bU"
       },
@@ -751,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+        "name": "El Sobrino",
+        "url": "https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk"
       },
       "artists": [
         {
@@ -760,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Los Espino",
-      "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
+      "duration_ms": 160701,
+      "name": "El Sobrino",
+      "url": "https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 253603,
       "name": "Sacandole Cuentas",
       "url": "https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sobrino",
-        "url": "https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 160701,
-      "name": "El Sobrino",
-      "url": "https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Torre De Oro",
+        "url": "https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 178374,
+      "name": "La Torre De Oro",
+      "url": "https://open.spotify.com/track/0UuHledJeNZ99QsL1C3VWo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistiando y Cantando",
         "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
@@ -895,26 +911,6 @@
       "duration_ms": 210000,
       "name": "Que Suerte La Mia",
       "url": "https://open.spotify.com/track/5dSTAjTVA3UUWoJEHC9PWa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Solo",
-        "url": "https://open.spotify.com/album/4Uq0cbdFneEV76KBoZI2vO"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "El Solo",
-      "url": "https://open.spotify.com/track/4AgHqLbnX7ehrde8SmToql"
     }
   ],
   "unique_name": "This Is Los Farmerz",

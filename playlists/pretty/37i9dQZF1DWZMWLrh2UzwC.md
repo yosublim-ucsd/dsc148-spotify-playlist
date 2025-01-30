@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Luqman Podolski
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,292 likes - 98 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,293 likes - 98 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 41 | [Berharap Pada Timur](https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:41 |
 | 42 | [Sandaran Hati](https://open.spotify.com/track/03DuQhnd8hUCKjD5zCRJVA) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Sandaran Hati](https://open.spotify.com/album/2plCx7gBci1UdwvZJLJ95I) | 3:57 |
 | 43 | [Di Bawah Hujan](https://open.spotify.com/track/5oDusjhp2lzjKsalkYH17T) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Di Bawah Hujan](https://open.spotify.com/album/6GbZiCFwMS9zDVrdhkXQsC) | 4:15 |
-| 44 | [飛到月球（SUNKIS x LH）](https://open.spotify.com/track/3lIu2gNYWPtrJj14mFs2oD) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO) | [飛到月球（SUNKIS x LH）](https://open.spotify.com/album/79bjLMvOfrfpdF5iWSwjYP) | 3:16 |
+| 44 | [飛到月球（SUNKIS x LH）](https://open.spotify.com/track/3lIu2gNYWPtrJj14mFs2oD) | [Lu Han](https://open.spotify.com/artist/3fS78kAWd9dVFyaPQ363YO), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [飛到月球（SUNKIS x LH）](https://open.spotify.com/album/79bjLMvOfrfpdF5iWSwjYP) | 3:16 |
 | 45 | [養分](https://open.spotify.com/track/1NMwyTTQyUUtGI34rmUYMU) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [養分](https://open.spotify.com/album/1nuXqhHeHODDeiuDeswRlY) | 4:10 |
 | 46 | [ONLY WITH YOU](https://open.spotify.com/track/2Eq5uUnAM2yAjzaejhNUBs) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [ONLY WITH YOU](https://open.spotify.com/album/1m5ICOkTtQhnDw2fbeYlbb) | 4:00 |
 | 47 | [你應該是這世界上最懂我的人啊?](https://open.spotify.com/track/4M1mQ522tDQr3Rl4FLtRKo) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [你應該是這世界上最懂我的人啊?](https://open.spotify.com/album/4qhQ9QkUZPIe1wBhCBlGwT) | 4:52 |

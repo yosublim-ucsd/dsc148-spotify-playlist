@@ -2,9 +2,9 @@
 
 ### [Spa Lounge](https://open.spotify.com/playlist/37i9dQZF1DX0psQULQgJwx)
 
-> Relaxing sounds for a Spa Lounge
+> Relaxing sounds for a pampering spa experience
 
-248 songs - 13 hr 27 min
+251 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Chakra Stream](https://open.spotify.com/track/1LGobixCxHXm1MGraZY4NG) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Chakra Stream](https://open.spotify.com/album/1gW5FWBaK16zV2CgtJFBjn) | 3:40 | 2024-05-10 |  |
 | [Choshi or Shirabe](https://open.spotify.com/track/0dvWqDcjdP8SIXLRuaYuA6) | [Stan Richardson](https://open.spotify.com/artist/3hCNzCde5ddHVbysLGnImt) | [Shakuhachi Meditation Music](https://open.spotify.com/album/5WQCyENQ8DSX6Eqs952moH) | 4:52 | 2022-09-02 | 2023-01-05 |
 | [Chuska](https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D) | [Morongo](https://open.spotify.com/artist/0UlTnSGW8Z8hUZq1VDVorm) | [Chuska](https://open.spotify.com/album/54PfuEGQHq6I9VWzAnzV6P) | 3:39 | 2022-09-02 | 2024-10-19 |
+| [Clear Visions](https://open.spotify.com/track/3NQL4ug9m4abWNLg627fRS) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Clear Visions](https://open.spotify.com/album/3zWXjsYTiEEjUD4yI0wDEN) | 2:49 | 2025-01-29 |  |
 | [Closeness](https://open.spotify.com/track/54fl7LXaGnQAyT0OIB8I5X) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [Closeness](https://open.spotify.com/album/6uSckUQYGKZ4LCdK9uHYZM) | 3:02 | 2023-12-04 | 2024-08-22 |
 | [Cloud Whispers](https://open.spotify.com/track/3EH4iguIiQ0YaFMxvd7VFn) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Cloud Whispers](https://open.spotify.com/album/77Bqt3owWoeUNaKI9li5no) | 2:37 | 2024-03-07 |  |
 | [Coherence](https://open.spotify.com/track/1Fr6Lk6JoxTYOiDXSAK00v) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Coherence](https://open.spotify.com/album/1cA03oHRvZOMcbzktk11Lp) | 4:20 | 2024-07-13 | 2024-12-20 |
@@ -210,6 +211,7 @@
 | [Spirit of Now](https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Spirit of Now](https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr) | 3:19 | 2023-07-14 | 2024-11-23 |
 | [Spirits](https://open.spotify.com/track/7cIah2OvEEfMk05ujFZxWI) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:13 | 2022-09-02 | 2024-11-23 |
 | [Spiritual Journey](https://open.spotify.com/track/60FBGb6CI6aLdjUcyglBgc) | [Kundalini Dreams](https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV) | [Spiritual Journey](https://open.spotify.com/album/1wuH6jrN9Eug9dfVfzDAdr) | 2:24 | 2024-04-07 |  |
+| [Starfade](https://open.spotify.com/track/0GhOInKD9F6b1nypetsuJC) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Starfade](https://open.spotify.com/album/7C0oG2QoF1rRuQm66ChVBy) | 2:41 | 2025-01-29 |  |
 | [State Of Flow](https://open.spotify.com/track/3fIDDTk8NFoWDvp5YReLGp) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [State Of Flow](https://open.spotify.com/album/6sbnUkT9PRIpG6eCtId27o) | 3:02 | 2024-06-11 |  |
 | [Stavselet](https://open.spotify.com/track/7tI2DDr0bxmGendIMcv7zk) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Gimdalen](https://open.spotify.com/album/5KiyJPS3ZdCt1yCQh80pdE) | 3:07 | 2022-09-02 |  |
 | [Still](https://open.spotify.com/track/2VGYSiY8wnT9YLR8BjcJEF) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Still](https://open.spotify.com/album/7H8cwQxzzwOFGiKWNiEo9S) | 2:42 | 2024-10-18 |  |
@@ -219,6 +221,7 @@
 | [Supporting Spirits](https://open.spotify.com/track/22UO6S0wO5aNAo2DekKDhT) | [Times That Bind](https://open.spotify.com/artist/0EVUcxKE6uB06NZe75La8X) | [Supporting Spirits & Falling Flakes](https://open.spotify.com/album/16FtCNWuQufQeJxuHgpUsX) | 3:02 | 2024-05-10 |  |
 | [Surrender](https://open.spotify.com/track/534hAujqJ3bZw692C5kmP6) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Surrender](https://open.spotify.com/album/3AqufsXBiTdFleQSYYD2J7) | 2:38 | 2024-07-13 |  |
 | [Tell Me](https://open.spotify.com/track/3H3frbeKjqFy9iFynurdjf) | [Owen Hill](https://open.spotify.com/artist/6KjVRfXkN1nXAiDJFjlW4i) | [Tell Me](https://open.spotify.com/album/0AzWcVpDtI3LNC0u3MhWPf) | 2:46 | 2024-06-10 |  |
+| [Tenderly](https://open.spotify.com/track/6MkrLAuV3ZqyAit6eeBgqA) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Tenderly](https://open.spotify.com/album/5bPLXPfFiiY6aldG8WYBh8) | 3:20 | 2025-01-29 |  |
 | [Tener](https://open.spotify.com/track/08O2XKnlAJRFe1FCYvJoq4) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Tener](https://open.spotify.com/album/4D549d8lYlZMC74wNhdckP) | 3:07 | 2024-05-10 |  |
 | [Thar Desert](https://open.spotify.com/track/6y6j2rn725fSwf7Bd1BNCo) | [Kouyou](https://open.spotify.com/artist/4fzta8hw7U88KPJ5uHKooH) | [Thar Desert](https://open.spotify.com/album/4tn26VMIpCsVf82hX2DFRp) | 2:52 | 2023-11-17 | 2024-12-20 |
 | [The Calm Within](https://open.spotify.com/track/1aEbQEQ5XcwwifB9V7nkXR) | [Leon Garver](https://open.spotify.com/artist/0KdKg4F51Gw2ILHS3yGiB4) | [The Calm Within](https://open.spotify.com/album/3DEIMHSgFqlBmse2Fe6USn) | 2:29 | 2022-09-02 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 47918,
+  "num_followers": 47948,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Culpable O No",
-        "url": "https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas"
+        "name": "Civilizado Como Los Animales",
+        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
       "artists": [
         {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
         }
       ],
-      "duration_ms": 253053,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan"
+      "duration_ms": 227099,
+      "name": "Lo Quiero Todo",
+      "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Civilizado Como Los Animales",
-        "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
+        "name": "Culpable O No",
+        "url": "https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 227099,
-      "name": "Lo Quiero Todo",
-      "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
+      "duration_ms": 253053,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 211976,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 211976,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Caribe\u00f1a",
-      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Cuanto Heredamos",
         "url": "https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 267983,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Caribe\u00f1a",
+      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Obvio S\u00ed",
+        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
+      },
+      "artists": [
+        {
+          "name": "Rastacuando",
+          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Otro Cuento",
+      "url": "https://open.spotify.com/track/0SDaLNs1YB1ocpgD2aQ3Sy"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Nonpalidece",
         "url": "https://open.spotify.com/album/1kYgzpnvsVgE3QOf1Gq1zm"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 219936,
       "name": "La Alegr\u00eda Manda",
       "url": "https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Obvio S\u00ed",
-        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
-      },
-      "artists": [
-        {
-          "name": "Rastacuando",
-          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Otro Cuento",
-      "url": "https://open.spotify.com/track/0SDaLNs1YB1ocpgD2aQ3Sy"
     }
   ],
   "unique_name": "Atardecer en la playa",

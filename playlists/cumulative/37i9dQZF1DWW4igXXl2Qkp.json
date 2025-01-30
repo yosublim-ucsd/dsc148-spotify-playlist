@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:6hpztnbgmaneFFGGnEOVjd\">Sosocamo</a> ",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:77zq5iaCosWolNf1IRdTjJ\">Othatsmizz</a> and <a href=\"spotify:artist:2DnJs9S5S7DWOyE2zK2fNs\">Sturdyyoungin</a> ",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 165000,
       "name": "4AM at Coffee Zone (Florida Avengers)",
       "url": "https://open.spotify.com/track/5LwoAa34wJN6DLVHLs5HA1"
@@ -1652,6 +1652,24 @@
       "duration_ms": 198095,
       "name": "amazing!",
       "url": "https://open.spotify.com/track/5idzBnebMgiZLgC4ZT64GJ"
+    },
+    {
+      "album": {
+        "name": "Double Up",
+        "url": "https://open.spotify.com/album/0JMl32YNtwvYVo9esVMscZ"
+      },
+      "artists": [
+        {
+          "name": "OGB",
+          "url": "https://open.spotify.com/artist/3Ieo5BgLFmKRcwRV5UZ7rK"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Ambition",
+      "url": "https://open.spotify.com/track/51iGxbHajKnBI5dTpakv8L"
     },
     {
       "album": {
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 119793,
       "name": "Be Like That",
       "url": "https://open.spotify.com/track/5FBI46djyU1a3CEn86n9i8"
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 168025,
       "name": "Bougie Hoes",
       "url": "https://open.spotify.com/track/5FyEoENGRpDl4VEurK036L"
@@ -9819,6 +9837,24 @@
     },
     {
       "album": {
+        "name": "Thank U, New York (Extended)",
+        "url": "https://open.spotify.com/album/3QkLSPUwaLHpVYVDUXhqLG"
+      },
+      "artists": [
+        {
+          "name": "27Delly",
+          "url": "https://open.spotify.com/artist/17Y9T6RYbruDp0XDIMB6xT"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121173,
+      "name": "Fresh n' Clean",
+      "url": "https://open.spotify.com/track/16KVOzwFsQ6ljDV3whqIEK"
+    },
+    {
+      "album": {
         "name": "Fresh off the UFO",
         "url": "https://open.spotify.com/album/5ohRCDMjtNZq70x9SdKAwC"
       },
@@ -12384,7 +12420,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 156734,
       "name": "How I\u2019m Feeling",
       "url": "https://open.spotify.com/track/3tv4PZDaPpV4HVqdOsjYR4"
@@ -12892,7 +12928,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 147368,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev"
@@ -16033,6 +16069,28 @@
     },
     {
       "album": {
+        "name": "22s / Magenta Skin",
+        "url": "https://open.spotify.com/album/2RNJAIxc4CSIM5ikuIB1hJ"
+      },
+      "artists": [
+        {
+          "name": "Wakai",
+          "url": "https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx"
+        },
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168662,
+      "name": "Magenta Skin",
+      "url": "https://open.spotify.com/track/1a046kVm0o7RhZkZk0fgfH"
+    },
+    {
+      "album": {
         "name": "4 1 7",
         "url": "https://open.spotify.com/album/6ygT1Wn45HiOPHa1oPa1R4"
       },
@@ -16374,6 +16432,24 @@
       "duration_ms": 127564,
       "name": "Mars",
       "url": "https://open.spotify.com/track/6Op63XpB5sQiHnr4Rt7Y7W"
+    },
+    {
+      "album": {
+        "name": "Martyr",
+        "url": "https://open.spotify.com/album/0I6vvRYYufK1gmBiAf3G9Y"
+      },
+      "artists": [
+        {
+          "name": "DDK",
+          "url": "https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160322,
+      "name": "Martyr",
+      "url": "https://open.spotify.com/track/2CDURlegHo60zais4SyNbN"
     },
     {
       "album": {
@@ -17983,6 +18059,24 @@
     },
     {
       "album": {
+        "name": "Extra Jiggy",
+        "url": "https://open.spotify.com/album/0z6TyWSUqqEs77Xk92xqy5"
+      },
+      "artists": [
+        {
+          "name": "Rfnmayne",
+          "url": "https://open.spotify.com/artist/5bYDwoRDQ3R4a76BgSY0Ri"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99241,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/2PlYV6GQYg9nkxhAvFzmNO"
+    },
+    {
+      "album": {
         "name": "Southsidestory",
         "url": "https://open.spotify.com/album/5qtzCi0cXGbrrpWoSQeUzo"
       },
@@ -18602,7 +18696,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 203999,
       "name": "No Budget",
       "url": "https://open.spotify.com/track/0nx07nrMTX6p9TIA6KnpKv"
@@ -18690,7 +18784,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 113005,
       "name": "No Extensions",
       "url": "https://open.spotify.com/track/0ehvurNppjZfd1Cy73sHIQ"
@@ -20370,7 +20464,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 181403,
       "name": "Peaches and Herb",
       "url": "https://open.spotify.com/track/3HADu1xxaiAJpUWJqrVJ7d"
@@ -20406,7 +20500,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-23",
+      "date_removed": null,
       "duration_ms": 161280,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/1SH8lZ4fP6dt7PjEhji4pD"
@@ -22444,7 +22538,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 174246,
       "name": "ROCK WITH THE MOB",
       "url": "https://open.spotify.com/track/06tPkJkv1bTGXYHY2UxzZA"
@@ -26779,6 +26873,24 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/02FwW9FlyBIdpWC1MoJmYV"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0Bkqcc5TesMaeXybJw09Bv"
+    },
+    {
+      "album": {
         "name": "Told Me",
         "url": "https://open.spotify.com/album/3dKc1A0BvMdrbKr7N21Eas"
       },
@@ -27340,6 +27452,32 @@
       "duration_ms": 119954,
       "name": "Trip Out",
       "url": "https://open.spotify.com/track/6LoUsD9kt5nnNfQc5I2Bbr"
+    },
+    {
+      "album": {
+        "name": "TRIPPIN",
+        "url": "https://open.spotify.com/album/5HcOiZtNwL6AMrMdw0qJ8Q"
+      },
+      "artists": [
+        {
+          "name": "Sturdyyoungin",
+          "url": "https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs"
+        },
+        {
+          "name": "Ohthatsmizz",
+          "url": "https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125734,
+      "name": "TRIPPIN",
+      "url": "https://open.spotify.com/track/7LRxsdzPgpbu4EYVbqo2A6"
     },
     {
       "album": {
@@ -30038,6 +30176,28 @@
       "duration_ms": 166979,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1"
+    },
+    {
+      "album": {
+        "name": "YN Flow (Remix)",
+        "url": "https://open.spotify.com/album/5XOuewjvySpl4BDfmyjVIj"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        },
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "YN Flow - Remix",
+      "url": "https://open.spotify.com/track/7KL4qXaduHm0OSV5dXwf4q"
     },
     {
       "album": {

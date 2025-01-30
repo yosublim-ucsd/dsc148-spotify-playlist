@@ -5272,7 +5272,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 113720,
       "name": "HEHEHE",
       "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
@@ -6040,6 +6040,28 @@
       "duration_ms": 155019,
       "name": "Jinja",
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
+    },
+    {
+      "album": {
+        "name": "Jo Vibe",
+        "url": "https://open.spotify.com/album/3hMl15L73JW8ozQVsQzX9j"
+      },
+      "artists": [
+        {
+          "name": "JoBlaq",
+          "url": "https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp"
+        },
+        {
+          "name": "Peller",
+          "url": "https://open.spotify.com/artist/15XozhfjHU6UR9zImk8znI"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130731,
+      "name": "Jo Vibe",
+      "url": "https://open.spotify.com/track/2n0lV8WqaH0WjIciYI2hoA"
     },
     {
       "album": {
@@ -9466,7 +9488,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 167804,
       "name": "POUNDS AND DOLLARS",
       "url": "https://open.spotify.com/track/2h1eU2bFf4bpEp8eCjYrOM"
@@ -11640,6 +11662,24 @@
       "duration_ms": 172035,
       "name": "UNAVAILABLE (feat. Musa Keys) - Latto Remix",
       "url": "https://open.spotify.com/track/29Mf5GsUgU3KLh3lAOGIU3"
+    },
+    {
+      "album": {
+        "name": "Uncle Pele / Sew-Tape",
+        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Uncle Pele",
+      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
     },
     {
       "album": {

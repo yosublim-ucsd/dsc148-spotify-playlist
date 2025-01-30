@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists and labels. Hiro Ama on cover. Artwork by Thami Nabil",
+  "description": "The best new music by Experimental independent artists and labels. Whatever The Weather on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -193,6 +193,42 @@
     },
     {
       "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+    },
+    {
+      "album": {
+        "name": "12\u00b0C",
+        "url": "https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273564,
+      "name": "12\u00b0C",
+      "url": "https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg"
+    },
+    {
+      "album": {
         "name": "Timekeeper",
         "url": "https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy"
       },
@@ -244,6 +280,24 @@
       "duration_ms": 708927,
       "name": "2033",
       "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
+    },
+    {
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447000,
+      "name": "25\u00b0C",
+      "url": "https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS"
     },
     {
       "album": {
@@ -496,6 +550,24 @@
       "duration_ms": 490752,
       "name": "5th Day",
       "url": "https://open.spotify.com/track/65tTmVZtKgJosacOPWxzqF"
+    },
+    {
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "6\u00b0C",
+      "url": "https://open.spotify.com/track/36FLUMvwp2rnUPUmznUVoi"
     },
     {
       "album": {
@@ -1044,7 +1116,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 151731,
       "name": "aaaaaaa",
       "url": "https://open.spotify.com/track/7FgCK2VgY5G2axORySMNx7"
@@ -1106,6 +1178,24 @@
       "duration_ms": 197000,
       "name": "Aberration",
       "url": "https://open.spotify.com/track/6NqYd3hVrDKqElo16HCjLN"
+    },
+    {
+      "album": {
+        "name": "Abyss Glow",
+        "url": "https://open.spotify.com/album/2fODU8uraYB5IUL5ZD5FDC"
+      },
+      "artists": [
+        {
+          "name": "Guenter R\u00e5ler",
+          "url": "https://open.spotify.com/artist/6udMDUWc1J0Kr8bZ45nk4W"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429000,
+      "name": "Abyss Glow",
+      "url": "https://open.spotify.com/track/0W6s0iYw82X92CofYQShX5"
     },
     {
       "album": {
@@ -1668,7 +1758,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 239967,
       "name": "All These Worlds, Pt. II",
       "url": "https://open.spotify.com/track/0vHmagHHveinK2wD8DVZhf"
@@ -2452,7 +2542,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 200500,
       "name": "Anthem For Those Who Know",
       "url": "https://open.spotify.com/track/71HYnMJ8rRgrEthkmam32o"
@@ -3755,6 +3845,28 @@
     },
     {
       "album": {
+        "name": "Lust 1",
+        "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
+      },
+      "artists": [
+        {
+          "name": "Voice Actor",
+          "url": "https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc"
+        },
+        {
+          "name": "Squu",
+          "url": "https://open.spotify.com/artist/0nCnrZSTvBk1PZCtGioMRq"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "Barbara",
+      "url": "https://open.spotify.com/track/2t8sijt2I0w7LLQ3lIPCSb"
+    },
+    {
+      "album": {
         "name": "Bath Philosophers",
         "url": "https://open.spotify.com/album/6gzVvFf075ooAbRh38KamU"
       },
@@ -4148,7 +4260,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 290430,
       "name": "BINARY",
       "url": "https://open.spotify.com/track/0RgdLC8jJiLywYJckMa5JP"
@@ -4954,7 +5066,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 1202372,
       "name": "Breathing Flute 88",
       "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
@@ -9806,7 +9918,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 156933,
       "name": "End Of Innocence",
       "url": "https://open.spotify.com/track/6DvZ7ovQvtMlvJ1twDF2Zr"
@@ -10264,6 +10376,28 @@
       "duration_ms": 228990,
       "name": "Everything Is Going To Make Sense In The End",
       "url": "https://open.spotify.com/track/5dqSqdrceOCtjHjx2OFOqg"
+    },
+    {
+      "album": {
+        "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
+        "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        },
+        {
+          "name": "Daniel Brandt",
+          "url": "https://open.spotify.com/artist/4OJgcDY2LiSjD0rKNygzH7"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342463,
+      "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
+      "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
     },
     {
       "album": {
@@ -10811,6 +10945,28 @@
     },
     {
       "album": {
+        "name": "Feels Like Love (Visceral)",
+        "url": "https://open.spotify.com/album/571jYs4OBy03hDwhVnHcmN"
+      },
+      "artists": [
+        {
+          "name": "Ghost Buttons",
+          "url": "https://open.spotify.com/artist/1xGkKuEwvLlaL7Tc0iphRY"
+        },
+        {
+          "name": "Dee R\u00fcsche",
+          "url": "https://open.spotify.com/artist/3NtFFDJqHCWvLFSC08oIlM"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311959,
+      "name": "Feels Like Love (Visceral)",
+      "url": "https://open.spotify.com/track/41B2Q0q5QAMreQolu2wHyd"
+    },
+    {
+      "album": {
         "name": "LEGENDO",
         "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
       },
@@ -11054,7 +11210,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 180000,
       "name": "Figura de Cristal",
       "url": "https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS"
@@ -13379,6 +13535,24 @@
     },
     {
       "album": {
+        "name": "Hankyu Denshya",
+        "url": "https://open.spotify.com/album/71K8CVaYH730CoI4CJrQLy"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226421,
+      "name": "Hankyu Denshya",
+      "url": "https://open.spotify.com/track/23dVWxBH8kGbkRCuAJPxwj"
+    },
+    {
+      "album": {
         "name": "Hansel and Gretel",
         "url": "https://open.spotify.com/album/0fQgAIvqLHiLpVIqGUl62Z"
       },
@@ -13592,7 +13766,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 227120,
       "name": "Heat!",
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
@@ -15022,7 +15196,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 188889,
       "name": "Ignore",
       "url": "https://open.spotify.com/track/2Pp3hN6Mg3Ob5ZJgCw3D6Q"
@@ -16869,6 +17043,28 @@
     },
     {
       "album": {
+        "name": "supershapes volume 1",
+        "url": "https://open.spotify.com/album/3epFHKDsBG7MvEery8bvse"
+      },
+      "artists": [
+        {
+          "name": "Mike Lindsay",
+          "url": "https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk"
+        },
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257450,
+      "name": "kachumber",
+      "url": "https://open.spotify.com/track/7vFayDfdIXKippQ4eBvvJL"
+    },
+    {
+      "album": {
         "name": "KAGIROI",
         "url": "https://open.spotify.com/album/04esOevP0QsnyAg5SdsdDq"
       },
@@ -18247,6 +18443,28 @@
     },
     {
       "album": {
+        "name": "London Tipton Remix",
+        "url": "https://open.spotify.com/album/3u8X9iNjwiDrQuoTqGho09"
+      },
+      "artists": [
+        {
+          "name": "Fetish",
+          "url": "https://open.spotify.com/artist/3g3F7yWVfcFrd0aO2VXTXW"
+        },
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164001,
+      "name": "London Tipton Remix",
+      "url": "https://open.spotify.com/track/0EPOAe0idyN6jL3a7oPt2J"
+    },
+    {
+      "album": {
         "name": "Weird backwards path",
         "url": "https://open.spotify.com/album/4huzCVylGlCi5lxI29dlp1"
       },
@@ -18522,7 +18740,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 318447,
       "name": "LOVE IS NOT THE POISON",
       "url": "https://open.spotify.com/track/1Zz6iX0GpwRlwTMiRnLn6M"
@@ -19636,7 +19854,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 146680,
       "name": "meow chat",
       "url": "https://open.spotify.com/track/0PevRoduixzOwPe3Hgsheq"
@@ -21531,6 +21749,24 @@
     },
     {
       "album": {
+        "name": "Walks",
+        "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
+      },
+      "artists": [
+        {
+          "name": "Group Listening",
+          "url": "https://open.spotify.com/artist/1dYBVjbhVOu9Y4mmxDCPoe"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204586,
+      "name": "New Brighton",
+      "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
+    },
+    {
+      "album": {
         "name": "Onwards",
         "url": "https://open.spotify.com/album/376lSzakQ49opuRjoAhLig"
       },
@@ -23377,6 +23613,24 @@
     },
     {
       "album": {
+        "name": "Parallels II",
+        "url": "https://open.spotify.com/album/2CgGBhkNOTqQ3mliQzC0Tf"
+      },
+      "artists": [
+        {
+          "name": "Minor Conflict",
+          "url": "https://open.spotify.com/artist/2DJpF2PxGMPYry3ffKmTys"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394523,
+      "name": "Parallels II",
+      "url": "https://open.spotify.com/track/31k85bFbmHYTe2rWGm7K92"
+    },
+    {
+      "album": {
         "name": "Side A: The Rude Interruption of Fear",
         "url": "https://open.spotify.com/album/3mZpSDeaxkDiaw6lOEcqGj"
       },
@@ -24476,7 +24730,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 224552,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/4Io27HxQeIRyLGDzAn228b"
@@ -26688,7 +26942,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 215712,
       "name": "Se clavan",
       "url": "https://open.spotify.com/track/2RvioZHnKUHGS3MwKUtZ4C"
@@ -28251,6 +28505,24 @@
     },
     {
       "album": {
+        "name": "Solvay Beach",
+        "url": "https://open.spotify.com/album/6g3lLi3ROpgGsXNVxUWfsl"
+      },
+      "artists": [
+        {
+          "name": "Laura Agnusdei",
+          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554026,
+      "name": "Solvay Beach",
+      "url": "https://open.spotify.com/track/3Q62MpruGadQlTmN7LHtmu"
+    },
+    {
+      "album": {
         "name": "Solved Quick",
         "url": "https://open.spotify.com/album/5WRG2CEnkAaG3O7ywrsw2Q"
       },
@@ -28526,7 +28798,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 144478,
       "name": "Soy Sauce",
       "url": "https://open.spotify.com/track/60WeDI4n7vpT9Xe3oBQuYK"
@@ -33892,7 +34164,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 196818,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/42swVwBM6DiiIJnQMj53UE"
@@ -34300,6 +34572,24 @@
       "duration_ms": 132916,
       "name": "Verlaine",
       "url": "https://open.spotify.com/track/7Bu5gRBLy1JjPdbvAfa5w6"
+    },
+    {
+      "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408678,
+      "name": "Verona Walls",
+      "url": "https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3"
     },
     {
       "album": {
@@ -35276,7 +35566,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 68110,
       "name": "wearywatergod",
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
@@ -35788,7 +36078,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 183829,
       "name": "WILLING",
       "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
@@ -36321,6 +36611,28 @@
     },
     {
       "album": {
+        "name": "Lust 1",
+        "url": "https://open.spotify.com/album/18CnHf7xCMDu6Xmk7lpu2L"
+      },
+      "artists": [
+        {
+          "name": "Voice Actor",
+          "url": "https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc"
+        },
+        {
+          "name": "Squu",
+          "url": "https://open.spotify.com/artist/0nCnrZSTvBk1PZCtGioMRq"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118309,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6gp76uTmBFc2aJ5eXft916"
+    },
+    {
+      "album": {
         "name": "You Do It",
         "url": "https://open.spotify.com/album/6zNAaDDagFo0xL1BhJFTMZ"
       },
@@ -36448,7 +36760,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 219427,
       "name": "Young Archimedes (feat. BBC National Orchestra Of Wales)",
       "url": "https://open.spotify.com/track/6xR3XJki6rAeXgtZ9SWCEJ"

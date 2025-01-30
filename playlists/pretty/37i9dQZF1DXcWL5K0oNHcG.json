@@ -1,13 +1,65 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Miki Ikhifa. Artwork: Joy Yamusangie.",
-  "num_followers": 231416,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Estratos. Artwork: Joy Yamusangie.",
+  "num_followers": 231535,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5EEywAAAAAcLvF6GghZzDxGhfyhw8Yq",
+  "snapshot_id": "Z5pGKQAAAABN76CSLOOAWfaiqLVsZPi7",
   "tracks": [
+    {
+      "added_at": "2025-01-29 15:15:53",
+      "album": {
+        "name": "VESPER",
+        "url": "https://open.spotify.com/album/6ilm0dyRzS0haXCDdoTWW6"
+      },
+      "artists": [
+        {
+          "name": "Estratos",
+          "url": "https://open.spotify.com/artist/2jY5T2Q4DlioTyq5U0EivZ"
+        },
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+        }
+      ],
+      "duration_ms": 155348,
+      "name": "VESPER",
+      "url": "https://open.spotify.com/track/14y0d4eiZ6wo3o2t6nTmd5"
+    },
+    {
+      "added_at": "2025-01-29 15:15:53",
+      "album": {
+        "name": "Nowe p\u0142uca",
+        "url": "https://open.spotify.com/album/42wmWb5Kec4MLeAfC5a1ez"
+      },
+      "artists": [
+        {
+          "name": "Niech\u0119\u0107",
+          "url": "https://open.spotify.com/artist/3GiWK5G3pfddzuxHgVn21M"
+        }
+      ],
+      "duration_ms": 457745,
+      "name": "Nowe p\u0142uca",
+      "url": "https://open.spotify.com/track/7q4dih7onI8lX8HhHY7ce8"
+    },
+    {
+      "added_at": "2025-01-29 15:15:53",
+      "album": {
+        "name": "They Call Him El Gato",
+        "url": "https://open.spotify.com/album/484hTpDGs8H73AxLGFe0i5"
+      },
+      "artists": [
+        {
+          "name": "Tremendous Aron",
+          "url": "https://open.spotify.com/artist/4jsBT3nAKLqkjrxCnPoTi5"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "They Call Him El Gato",
+      "url": "https://open.spotify.com/track/1zSlF0KD4OOrbfJEIyCHer"
+    },
     {
       "added_at": "2025-01-22 14:46:34",
       "album": {
@@ -859,22 +911,6 @@
       "duration_ms": 171243,
       "name": "Faith",
       "url": "https://open.spotify.com/track/7k2Lv6pwqiEPd2GChkwW26"
-    },
-    {
-      "added_at": "2025-01-15 05:00:02",
-      "album": {
-        "name": "We Have Been Here Before",
-        "url": "https://open.spotify.com/album/27kRcs08cwVT7xZHKCLQPE"
-      },
-      "artists": [
-        {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
-        }
-      ],
-      "duration_ms": 290846,
-      "name": "We Have Been Here Before",
-      "url": "https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r"
     },
     {
       "added_at": "2025-01-15 05:00:02",

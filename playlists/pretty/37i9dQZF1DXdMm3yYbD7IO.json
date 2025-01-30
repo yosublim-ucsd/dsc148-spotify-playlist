@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 418587,
+  "num_followers": 418890,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -551,18 +551,22 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Love Is Not Sex",
-        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
+        "name": "Music For The People",
+        "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
       "artists": [
         {
-          "name": "Captain Hollywood Project",
-          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
+          "name": "Marky Mark And The Funky Bunch",
+          "url": "https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV"
+        },
+        {
+          "name": "Loleatta Holloway",
+          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
         }
       ],
-      "duration_ms": 253573,
-      "name": "More And More - Single Version",
-      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
+      "duration_ms": 269306,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
     },
     {
       "added_at": "2024-07-12 19:59:45",
@@ -583,22 +587,18 @@
     {
       "added_at": "2024-07-12 19:59:45",
       "album": {
-        "name": "Music For The People",
-        "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
+        "name": "Love Is Not Sex",
+        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
       },
       "artists": [
         {
-          "name": "Marky Mark And The Funky Bunch",
-          "url": "https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV"
-        },
-        {
-          "name": "Loleatta Holloway",
-          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
+          "name": "Captain Hollywood Project",
+          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
         }
       ],
-      "duration_ms": 269306,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
+      "duration_ms": 253573,
+      "name": "More And More - Single Version",
+      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
     },
     {
       "added_at": "2024-07-12 19:59:45",

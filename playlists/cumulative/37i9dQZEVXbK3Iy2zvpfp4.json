@@ -382,7 +382,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 371054,
       "name": "18 rokov-Gypsi band sni\u017eany",
       "url": "https://open.spotify.com/track/4AmOsvOBy6CpfCJTaMipgg"
@@ -6546,7 +6546,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
@@ -8758,6 +8758,14 @@
         {
           "name": "H11T",
           "url": "https://open.spotify.com/artist/541sdtj5gLuRAfuICS8kIW"
+        },
+        {
+          "name": "DYNXMIC",
+          "url": "https://open.spotify.com/artist/7FlEDChgy5oVNElUrVaWfo"
+        },
+        {
+          "name": "flvmey",
+          "url": "https://open.spotify.com/artist/13dwAO1RvOUUEywGjozQSr"
         }
       ],
       "date_added": "2025-01-28",
@@ -8805,24 +8813,6 @@
     },
     {
       "album": {
-        "name": "CHESS TYPE BEAT",
-        "url": "https://open.spotify.com/album/28Vx2GTLcjptZLTTSrJrur"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Mus1c",
-          "url": "https://open.spotify.com/artist/3dJeNjOEz8d8bgWYiK8SPv"
-        }
-      ],
-      "date_added": "2025-01-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 142053,
-      "name": "CHESS TYPE BEAT - Slowed",
-      "url": "https://open.spotify.com/track/26baAwsZBAOnhzkTHUivtP"
-    },
-    {
-      "album": {
         "name": "Chess Type Beat",
         "url": "https://open.spotify.com/album/1IqUEys3Sk6JYVn37q4inx"
       },
@@ -8838,6 +8828,28 @@
       "duration_ms": 142905,
       "name": "Chess Type Beat - Slowed",
       "url": "https://open.spotify.com/track/3Pt5fDGfD4F7CGeDPQuaoM"
+    },
+    {
+      "album": {
+        "name": "CHESS TYPE BEAT",
+        "url": "https://open.spotify.com/album/28Vx2GTLcjptZLTTSrJrur"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Mus1c",
+          "url": "https://open.spotify.com/artist/3dJeNjOEz8d8bgWYiK8SPv"
+        },
+        {
+          "name": "joyful",
+          "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142053,
+      "name": "CHESS TYPE BEAT - Slowed",
+      "url": "https://open.spotify.com/track/26baAwsZBAOnhzkTHUivtP"
     },
     {
       "album": {
@@ -15266,7 +15278,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 162768,
       "name": "Feel Anything",
       "url": "https://open.spotify.com/track/3nsHAOlg5kVlbZfkwaSmfZ"
@@ -19910,7 +19922,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 178411,
       "name": "HELL ON ME",
       "url": "https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U"
@@ -31622,11 +31634,15 @@
         {
           "name": "ZXKAI",
           "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "Mc Talib\u00e3",
+          "url": "https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG"
         }
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 91906,
       "name": "MONTAGEM BRAVO - Slowed",
       "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
@@ -51082,7 +51098,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 205000,
       "name": "Trpezlivos\u0165",
       "url": "https://open.spotify.com/track/6eVMziDD8qgK02DIwK9RAD"

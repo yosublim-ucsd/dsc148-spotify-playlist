@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14953,
+  "num_followers": 14956,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAAB0c9HcXc2jDcy48RGIOiyQ",
+  "snapshot_id": "Z5geAAAAAAAnqE1W5OXk2neOVTmhSJyx",
   "tracks": [
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Audio",
-        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 235684,
-      "name": "My Audio",
-      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+      "duration_ms": 217360,
+      "name": "Police and Thieves",
+      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+        "name": "My Audio",
+        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 217360,
-      "name": "Police and Thieves",
-      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
+      "duration_ms": 235684,
+      "name": "My Audio",
+      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 163977,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Independently Bizarre",
         "url": "https://open.spotify.com/album/1LIfFWLTOutqBKQI1zEISj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 250733,
       "name": "Pina Colada",
       "url": "https://open.spotify.com/track/2xdRUkk8QpCeByPM9e7GVD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 163977,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW"
     },
     {
       "added_at": null,

@@ -4993,6 +4993,28 @@
     },
     {
       "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "album": {
         "name": "BLICKY",
         "url": "https://open.spotify.com/album/6jGZtPs9OmW7iy8fRoGjxL"
       },
@@ -11924,7 +11946,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -16670,7 +16692,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 121333,
       "name": "Infinity Pool",
       "url": "https://open.spotify.com/track/4M69BvzawxwksR79hQ4EK7"
@@ -18824,7 +18846,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 169411,
       "name": "Kaptur",
       "url": "https://open.spotify.com/track/73oA0BT2pAvcXRb3tSk0IJ"
@@ -22434,13 +22456,17 @@
         {
           "name": "Pezet",
           "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
         }
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200333,
-      "name": "Magenta (prod. Auer)",
+      "name": "Magenta",
       "url": "https://open.spotify.com/track/07Agqdd4SD83JRgN19OjdW"
     },
     {
@@ -31282,7 +31308,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 155056,
       "name": "Plaster",
       "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
@@ -35062,7 +35088,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"
@@ -37524,7 +37550,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -38106,17 +38132,13 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 301623,
-      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "name": "S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
     },
     {
@@ -39572,17 +39594,13 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
+      "name": "Timeless",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
@@ -42554,6 +42572,24 @@
       "duration_ms": 250586,
       "name": "Wieczna gra",
       "url": "https://open.spotify.com/track/7xkTinVeHSrHdHL3sNiVln"
+    },
+    {
+      "album": {
+        "name": "Zab\u00f3jstwo Liryczne 1",
+        "url": "https://open.spotify.com/album/6URZMD6QoJkPl0N5sWNl9Z"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "Wiecznie",
+      "url": "https://open.spotify.com/track/1YcEiW6wsJlxnePEkkUI2M"
     },
     {
       "album": {

@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 hours](https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [24 hours](https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2) | 3:40 | 2024-06-14 | 2024-09-21 |
-| [A\-Rated Horror Movies](https://open.spotify.com/track/0ph4jYlwATx7yqLqaMqRZ2) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [A\-Rated Horror Movies](https://open.spotify.com/album/5KEnhyozeDtN6rESMoEAmA) | 2:37 | 2025-01-24 | 2025-01-28 |
+| [A\-Rated Horror Movies](https://open.spotify.com/track/0ph4jYlwATx7yqLqaMqRZ2) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [A\-Rated Horror Movies](https://open.spotify.com/album/5KEnhyozeDtN6rESMoEAmA) | 2:37 | 2025-01-24 |  |
 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 | 2024-08-21 |  |
 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 | 2024-06-14 |  |
 | [All I Ever Dream About](https://open.spotify.com/track/3wxG6mf4sbIg5i8hnCcMnG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [All I Ever Dream About](https://open.spotify.com/album/6ChtPY348jHDmASn1U6FlZ) | 3:04 | 2024-08-21 |  |
@@ -19,7 +19,7 @@
 | [Bad Thing](https://open.spotify.com/track/0pgTEjFAxNjaDRjgC69HAH) | [Hannah Jane Lewis](https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq) | [Bad Thing](https://open.spotify.com/album/5LM8i84TMmgV0hQDz7ah10) | 3:49 | 2024-07-12 | 2024-08-22 |
 | [Basement](https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Basement](https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU) | 2:40 | 2024-06-14 |  |
 | [Bass Player's Brother](https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Bass Player's Brother](https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg) | 3:06 | 2024-07-12 |  |
-| [bbydoll](https://open.spotify.com/track/3gDDp2FATr43lX25tWVKfu) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [BAMBI](https://open.spotify.com/album/7txUHYgIN0oS325vp8WseX) | 2:14 | 2025-01-24 |  |
+| [bbydoll](https://open.spotify.com/track/3gDDp2FATr43lX25tWVKfu) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [BAMBI](https://open.spotify.com/album/7txUHYgIN0oS325vp8WseX) | 2:14 | 2025-01-24 | 2025-01-30 |
 | [Beach House](https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Beach House](https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt) | 3:17 | 2024-06-14 |  |
 | [Bedbugs](https://open.spotify.com/track/5MdHqvEJxK8RvSN5ziVKmT) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Bedbugs](https://open.spotify.com/album/5s6HqHbHK8PDnsSHtBUivO) | 2:56 | 2024-06-14 | 2024-09-21 |
 | [Before You](https://open.spotify.com/track/4V9yjHyeGpFxrvQtBxZ9Ok) | [Tuff Bear](https://open.spotify.com/artist/7AOmmzhzOjls8I7MoHOUfR) | [Before You](https://open.spotify.com/album/4UatRznOUWzdjNYFFqmc0j) | 3:32 | 2024-06-14 | 2024-08-22 |

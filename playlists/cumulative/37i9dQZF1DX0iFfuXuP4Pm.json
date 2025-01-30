@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Awatin",
+        "url": "https://open.spotify.com/album/1BM6cU2S8UkM89MSqUB0ld"
+      },
+      "artists": [
+        {
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292875,
+      "name": "Awatin",
+      "url": "https://open.spotify.com/track/5q0b9HzHrJ0COmFx7Hsulg"
+    },
+    {
+      "album": {
         "name": "Awitin Mo, Isasayaw Ko",
         "url": "https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi"
       },
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 194343,
       "name": "Kupido Natin Manhid",
       "url": "https://open.spotify.com/track/3zwYgc3IW5Zw6cfuA0QE74"
@@ -2370,6 +2388,24 @@
       "duration_ms": 135650,
       "name": "Madamot Ka",
       "url": "https://open.spotify.com/track/3sFotCpWY1e84X0YixN4jw"
+    },
+    {
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/5eZwzAz76vrv1nzD0xuLrJ"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224625,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/17k0CnwqLbTPeR8UL0rNZs"
     },
     {
       "album": {
@@ -4049,6 +4085,28 @@
     },
     {
       "album": {
+        "name": "Sampung Mga Daliri",
+        "url": "https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        },
+        {
+          "name": "justin",
+          "url": "https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219863,
+      "name": "Sampung Mga Daliri",
+      "url": "https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf"
+    },
+    {
+      "album": {
         "name": "San Ka Na",
         "url": "https://open.spotify.com/album/1LclfphmHU5JfhtFnUEUHP"
       },
@@ -4660,7 +4718,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 252580,
       "name": "Toyo",
       "url": "https://open.spotify.com/track/1PxsXBSYcsO86i3RZZEwd5"
@@ -4848,7 +4906,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 103915,
       "name": "WANHANIDBANDZ",
       "url": "https://open.spotify.com/track/5kfXBSWbG5txcZbauyf9hV"

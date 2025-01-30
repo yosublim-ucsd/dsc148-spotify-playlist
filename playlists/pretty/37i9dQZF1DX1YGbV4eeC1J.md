@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Platform
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,623 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,649 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 2 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 |
 | 3 | [Yako Wapi](https://open.spotify.com/track/3EIGn3wZiw5PZw66eHwBuq) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Yako Wapi](https://open.spotify.com/album/6RCoSr3PynLjqURiK99QRK) | 3:35 |
 | 4 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 |
-| 5 | [Nitampata Wapi \(feat\. Jay Melody\)](https://open.spotify.com/track/1adftZXbN4Z7vfmzV1z19E) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nitampata Wapi \(feat\. Jay Melody\)](https://open.spotify.com/album/2vl9B53es7gQqWQu9vYKWC) | 3:20 |
-| 6 | [Shule](https://open.spotify.com/track/71KbAFPgqkIJpzVEmoIm9L) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Shule](https://open.spotify.com/album/18jTRTLPn0jFUY3pPnbns7) | 3:30 |
-| 7 | [Wangu](https://open.spotify.com/track/5jo2MPiQgct6oCFOO5FE36) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 2:49 |
-| 8 | [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/track/6ZWjQChIMWzChj1yDsi30e) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/album/16e0cDT5TScFTG3w0OJKxL) | 3:04 |
-| 9 | [Naoa \(feat\. Alikiba\)](https://open.spotify.com/track/6ETg6zK0OdMIODhjDxvEp9) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [The Big One](https://open.spotify.com/album/6V2mC374CElofU3s0DkshR) | 3:20 |
-| 10 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 |
-| 11 | [Sugar](https://open.spotify.com/track/7geOX315j041sZXu7B1Kpf) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Sugar](https://open.spotify.com/album/0ala3wvsS9xR8wVcUyvfOh) | 3:25 |
+| 5 | [Shule](https://open.spotify.com/track/71KbAFPgqkIJpzVEmoIm9L) | [Masauti](https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Shule](https://open.spotify.com/album/18jTRTLPn0jFUY3pPnbns7) | 3:30 |
+| 6 | [Wangu](https://open.spotify.com/track/5jo2MPiQgct6oCFOO5FE36) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 2:49 |
+| 7 | [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/track/6ZWjQChIMWzChj1yDsi30e) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Bye Bye \(feat\. Harmonize\)](https://open.spotify.com/album/16e0cDT5TScFTG3w0OJKxL) | 3:04 |
+| 8 | [Naoa \(feat\. Alikiba\)](https://open.spotify.com/track/6ETg6zK0OdMIODhjDxvEp9) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [The Big One](https://open.spotify.com/album/6V2mC374CElofU3s0DkshR) | 3:20 |
+| 9 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 |
+| 10 | [Sugar](https://open.spotify.com/track/7geOX315j041sZXu7B1Kpf) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Sugar](https://open.spotify.com/album/0ala3wvsS9xR8wVcUyvfOh) | 3:25 |
+| 11 | [Nitampata Wapi \(feat\. Jay Melody\)](https://open.spotify.com/track/1adftZXbN4Z7vfmzV1z19E) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nitampata Wapi \(feat\. Jay Melody\)](https://open.spotify.com/album/2vl9B53es7gQqWQu9vYKWC) | 3:20 |
 | 12 | [Kupenda](https://open.spotify.com/track/4lzsQhqooYugTKwymQ6KHE) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kupenda](https://open.spotify.com/album/6GzRBHBJs4SG8AoaGwAaTe) | 2:55 |
 | 13 | [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 |
 | 14 | [Asali](https://open.spotify.com/track/1ESx7xzHyvDKBmUyekxPX1) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW) | [Asali](https://open.spotify.com/album/0zh3eIYe8YSRbO9vS87hfS) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Utaniua](https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Utaniua](https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo) | 3:34 |
 | 50 | [2025](https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Stans](https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR) | [2025](https://open.spotify.com/album/7J8FtcTu6PCLhlKjA9JNbi) | 3:18 |
 
-Snapshot ID: `Z5LX0wAAAAB0e0//lq0KYNU1sokpDD2H`
+Snapshot ID: `Z5pHcwAAAAA1QprVouq68gzaiA4EwQZ4`

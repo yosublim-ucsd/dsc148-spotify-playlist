@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 129433,
       "name": "Entourage",
       "url": "https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7"
@@ -5082,6 +5082,24 @@
       "duration_ms": 236352,
       "name": "Tijd Verliezen",
       "url": "https://open.spotify.com/track/6tcCTgpI1JWsgReB9ttSUD"
+    },
+    {
+      "album": {
+        "name": "5 Sterren",
+        "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135023,
+      "name": "Tijdmachine",
+      "url": "https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY"
     },
     {
       "album": {

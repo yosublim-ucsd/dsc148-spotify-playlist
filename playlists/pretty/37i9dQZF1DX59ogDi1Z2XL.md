@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: FRVRFRIDAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,331 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,370 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 30 | [LaLaLaLa](https://open.spotify.com/track/3CgCas0Wfwn4GrLRBYBcQG) | [Quinton Barnes](https://open.spotify.com/artist/4FMY6YEHOoOmGklyMNqCa0) | [CODE NOIR](https://open.spotify.com/album/2KYHjXJf7SLrjgpvb73Gao) | 4:04 |
 | 31 | [50/50](https://open.spotify.com/track/3pP8SVYVSo5cDKO338t0UC) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08) | [50/50](https://open.spotify.com/album/6kZDaQCjW1LSGPlhUPDdbW) | 2:51 |
 | 32 | [Too Bad](https://open.spotify.com/track/1WDjFpLgiMgtcPk2ObFmQf) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [She.](https://open.spotify.com/album/7fMcS6WbnDIIiuZiiUNUzF) | 2:44 |
-| 33 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
+| 33 | [Timeless](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 34 | [Outside](https://open.spotify.com/track/48XtpVof8KIkkuFDg2TUhY) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Rolling Stone](https://open.spotify.com/album/2NCjWghja3xm14FIxa5mfv) | 2:39 |
 | 35 | [One City Freestyle](https://open.spotify.com/track/7mIReojRXv9vs3ucr11NGR) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [One City Freestyle](https://open.spotify.com/album/7mIPZwyiAzhZSIncqNcaRJ) | 1:43 |
 | 36 | [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 |

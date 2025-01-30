@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-31",
-  "description": "The official playlist for MO. Watch now on Netflix!",
+  "description": "Home is where the Hustle is. Listen to the music from Mo, now streaming on Netflix. ",
   "name": "MO Official Playlist",
   "tracks": [
     {
@@ -24,7 +24,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 286760,
       "name": "25 Lighters",
       "url": "https://open.spotify.com/track/4sOQIl6EdVEBUr0UhpnGh2"
@@ -50,10 +50,46 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 287813,
       "name": "25 Lighters",
       "url": "https://open.spotify.com/track/4c6rZlc8J4P2zK4mvYrTFG"
+    },
+    {
+      "album": {
+        "name": "432hz Healing Sounds from the Middle East",
+        "url": "https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234097,
+      "name": "432hz Sea of Fog",
+      "url": "https://open.spotify.com/track/6sV4fBPsUMAiEIygFXViK1"
+    },
+    {
+      "album": {
+        "name": "Ah Ya Helu",
+        "url": "https://open.spotify.com/album/6N6oj5EU1NXBtB6C2t8J6R"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408789,
+      "name": "Ah Ya Helu",
+      "url": "https://open.spotify.com/track/0Zb0sNbOwBcYW6hhQbLYbJ"
     },
     {
       "album": {
@@ -105,6 +141,80 @@
     },
     {
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172260,
+      "name": "Ambassador Party",
+      "url": "https://open.spotify.com/track/1KH48CS1LKkxqrBmw5X0ed"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86998,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/4Z0MMzPVwU7LozIkfgKc2k"
+    },
+    {
+      "album": {
         "name": "Na'na' Ya Na'na'",
         "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
       },
@@ -116,10 +226,28 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 248760,
       "name": "Azzab Al Jammal",
       "url": "https://open.spotify.com/track/1LpEvUyy6VtqrqVLYmDnzg"
+    },
+    {
+      "album": {
+        "name": "Na'na' Ya Na'na'",
+        "url": "https://open.spotify.com/album/55SNFQ6xlLclkIoyaVKqiK"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "Azzab Al Jammal",
+      "url": "https://open.spotify.com/track/6aTVQQy4DYj7kQa7CJMe2f"
     },
     {
       "album": {
@@ -134,10 +262,80 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 124000,
       "name": "Bayara",
       "url": "https://open.spotify.com/track/3I3n1uoTzDGw2qiTR3zBhs"
+    },
+    {
+      "album": {
+        "name": "Hassan Sabi",
+        "url": "https://open.spotify.com/album/2SI7hmidxWnQkCk2hAbnqp"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Bayara",
+      "url": "https://open.spotify.com/track/5bI8P0j9xlMKTIRS0qxpCJ"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112333,
+      "name": "Border Crossing",
+      "url": "https://open.spotify.com/track/03bgcoATHgN6HaJT20xlQh"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70072,
+      "name": "Calming Down",
+      "url": "https://open.spotify.com/track/6gvn5SZlmWO2Os8LNpci5O"
     },
     {
       "album": {
@@ -160,7 +358,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 122642,
       "name": "Cash At The Border",
       "url": "https://open.spotify.com/track/1pFca8MT2ZuCs1g6MbuaMW"
@@ -181,12 +379,12 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 122642,
       "name": "Cash At The Border",
       "url": "https://open.spotify.com/track/7rmRNJPc8lYhNrRCkO434v"
@@ -226,6 +424,24 @@
       "duration_ms": 147697,
       "name": "Champion",
       "url": "https://open.spotify.com/track/39pxdsIduDagORLDxf7sUI"
+    },
+    {
+      "album": {
+        "name": "Country Round Here Tonight",
+        "url": "https://open.spotify.com/album/6jHD2EHvhYtSB0xOhw2KAz"
+      },
+      "artists": [
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216084,
+      "name": "Country Round Here Tonight",
+      "url": "https://open.spotify.com/track/4Y2PBBff0Qqi2tFUdlwWQl"
     },
     {
       "album": {
@@ -279,12 +495,12 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 108186,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/4S87bBXeAsMPuGFgPckCQP"
@@ -310,7 +526,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 108186,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/7hWSzHq7cfUMyeWhFow6sp"
@@ -358,6 +574,24 @@
       "duration_ms": 163763,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The Hamiltones)",
       "url": "https://open.spotify.com/track/3573jCFXznoZWv3BjNUEOq"
+    },
+    {
+      "album": {
+        "name": "Family Tradition",
+        "url": "https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Family Tradition",
+      "url": "https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ"
     },
     {
       "album": {
@@ -423,6 +657,32 @@
     },
     {
       "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43181,
+      "name": "Freedom Again",
+      "url": "https://open.spotify.com/track/0n1jASGFP6wgXW9koWJSGa"
+    },
+    {
+      "album": {
         "name": "Go Go",
         "url": "https://open.spotify.com/album/4FzOimSLObpwiwJudOeqQx"
       },
@@ -438,6 +698,42 @@
       "duration_ms": 193000,
       "name": "Go Go",
       "url": "https://open.spotify.com/track/1WB6QiqUfkiuGdx823C5Lu"
+    },
+    {
+      "album": {
+        "name": "Granada Calling",
+        "url": "https://open.spotify.com/album/3eHpczM2350sMvR8b0o7Z6"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74504,
+      "name": "Granada Calling",
+      "url": "https://open.spotify.com/track/5Y4pniCcIPmOppFtFFF1NS"
+    },
+    {
+      "album": {
+        "name": "Tales of the Gypsy Jazz",
+        "url": "https://open.spotify.com/album/0Mcc1mvPe9wxWZbdo1bmE6"
+      },
+      "artists": [
+        {
+          "name": "Samer Rashed",
+          "url": "https://open.spotify.com/artist/00hVm3Ngy8jWIBA0Zr1dbX"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Gypsy Twist",
+      "url": "https://open.spotify.com/track/2RdKYfsN9zXVqSG2xvpQ1m"
     },
     {
       "album": {
@@ -485,6 +781,68 @@
     },
     {
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82271,
+      "name": "Holding Cage",
+      "url": "https://open.spotify.com/track/60w4XisKINePcWXlli0aeh"
+    },
+    {
+      "album": {
+        "name": "Cape Town to Cairo",
+        "url": "https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313113,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/5E4UZGVTt25buImB0CuCpO"
+    },
+    {
+      "album": {
         "name": "Pardon My French",
         "url": "https://open.spotify.com/album/0Oei3ZeGpEyq73E5PnPmvZ"
       },
@@ -508,6 +866,24 @@
       "duration_ms": 288340,
       "name": "Hommage \u00c0 La Vielle Garde (Pour Lafarge Et Rinaldi)",
       "url": "https://open.spotify.com/track/6V107UaAxQkw6JJb7qy8n8"
+    },
+    {
+      "album": {
+        "name": "The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161066,
+      "name": "Houston",
+      "url": "https://open.spotify.com/track/4CKqqKUKsjNTTNF3veSiWi"
     },
     {
       "album": {
@@ -559,6 +935,94 @@
     },
     {
       "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "album": {
+        "name": "IMMIGRANT",
+        "url": "https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232853,
+      "name": "Immigrant",
+      "url": "https://open.spotify.com/track/7xV2KiZcW7oUCUyYWzrxnC"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39504,
+      "name": "In The Name",
+      "url": "https://open.spotify.com/track/6YBs05rT6ERszhiQlxKJ66"
+    },
+    {
+      "album": {
+        "name": "InshAllah Kheir",
+        "url": "https://open.spotify.com/album/6AyUgFdjCcaNeTYRlZFPe9"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150625,
+      "name": "InshAllah Kheir",
+      "url": "https://open.spotify.com/track/5rX5G6U6SR8459HXIFuKOS"
+    },
+    {
+      "album": {
         "name": "Shamstep",
         "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
       },
@@ -577,6 +1041,32 @@
     },
     {
       "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58346,
+      "name": "It's Called Initiative",
+      "url": "https://open.spotify.com/track/7C4mNcwk0mIJUhCsvsRXPN"
+    },
+    {
+      "album": {
         "name": "Moe Life",
         "url": "https://open.spotify.com/album/0PnUbRaZoWYVy3FYF8kSwo"
       },
@@ -588,10 +1078,28 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 253546,
       "name": "Just A Dog",
       "url": "https://open.spotify.com/track/3hUXBzW8zP2koWrxG5fNeL"
+    },
+    {
+      "album": {
+        "name": "Moe Life",
+        "url": "https://open.spotify.com/album/6JAtyIpP5zeIQlgBI9Sc9g"
+      },
+      "artists": [
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253546,
+      "name": "Just A Dog",
+      "url": "https://open.spotify.com/track/5zBudVzkE9Lz5Yoh1TuKQ7"
     },
     {
       "album": {
@@ -613,6 +1121,98 @@
     },
     {
       "album": {
+        "name": "Lazim Ahkeelak",
+        "url": "https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198827,
+      "name": "Lazim Ahkeelak",
+      "url": "https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI"
+    },
+    {
+      "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk"
+    },
+    {
+      "album": {
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253126,
+      "name": "Maktub",
+      "url": "https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73516,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0Im5lxbRmTjbTrKUPvYJBj"
+    },
+    {
+      "album": {
         "name": "Maj\u00e2z",
         "url": "https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA"
       },
@@ -631,6 +1231,128 @@
     },
     {
       "album": {
+        "name": "Brandon Banks",
+        "url": "https://open.spotify.com/album/2E5FdSQ0pyo7LHW7XxMYUi"
+      },
+      "artists": [
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320200,
+      "name": "Meet Again",
+      "url": "https://open.spotify.com/track/4tMZoPR9v4kvICAPyknxpa"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244174,
+      "name": "Meet Daddy Ron",
+      "url": "https://open.spotify.com/track/6547Nlh6mWeJJuAoGKAo9b"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61440,
+      "name": "Mo And Maria",
+      "url": "https://open.spotify.com/track/3I8lyKNZCGu3cElmwEK1Ex"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57428,
+      "name": "Mo Arrives at CBP",
+      "url": "https://open.spotify.com/track/0n97YuHNFMZtj0BtU3yvBG"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47936,
+      "name": "Mo Dreams Of The Key",
+      "url": "https://open.spotify.com/track/42x1B9pV96uUZ10KYJas35"
+    },
+    {
+      "album": {
         "name": "MO (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
       },
@@ -645,12 +1367,38 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51583,
+      "name": "Mo Drive",
+      "url": "https://open.spotify.com/track/6aUWTKnWx40YlwEijBHe3n"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 45370,
       "name": "Mo Escapes Gunfire",
       "url": "https://open.spotify.com/track/2kFzVTBAGAhHMbMTVyvOeH"
@@ -676,10 +1424,106 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 45370,
       "name": "Mo Escapes Gunfire",
       "url": "https://open.spotify.com/track/6Kv9szNT7x8QbO9owwpJwO"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70267,
+      "name": "Mo Trying To Keep It Together",
+      "url": "https://open.spotify.com/track/3Cfhnq6kvFYj99Lm4D88jS"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75830,
+      "name": "Mo's Dream",
+      "url": "https://open.spotify.com/track/4jlekkh3GLIeA1fdA4hb6p"
+    },
+    {
+      "album": {
+        "name": "TrillStatik (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Maqwoh2mr48wdCPUevRIM"
+      },
+      "artists": [
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Jovanie",
+          "url": "https://open.spotify.com/artist/63nKf171gzF5QgJopUvEJ0"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101883,
+      "name": "Moving Mountains (feat. Jovanie)",
+      "url": "https://open.spotify.com/track/1BqRSkPlIcfzamGiswjjsY"
+    },
+    {
+      "album": {
+        "name": "Mum Sing to the Wind (Reimagined 2023)",
+        "url": "https://open.spotify.com/album/40ydaEzWrgmYlVF9N7JMWt"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177383,
+      "name": "Mum Sing to the Wind (Reimagined 2023)",
+      "url": "https://open.spotify.com/track/6qdEUig3xL4mpdQEhxHNLv"
     },
     {
       "album": {
@@ -723,6 +1567,102 @@
     },
     {
       "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "No Particular Place To Go",
+      "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60904,
+      "name": "No Tengo Palabras",
+      "url": "https://open.spotify.com/track/7faA8hUv1k44KoI11pObOv"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70833,
+      "name": "Olive Truck Confession",
+      "url": "https://open.spotify.com/track/1YNeUECBGI9c0qNyJepuCG"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47388,
+      "name": "On The Plane",
+      "url": "https://open.spotify.com/track/7CoqYj6g1KR5gQAsKAaSCL"
+    },
+    {
+      "album": {
         "name": "Ben Haana Wa Maana",
         "url": "https://open.spotify.com/album/6Xjqp2NNwKN2gQM9PQBglt"
       },
@@ -763,6 +1703,46 @@
     },
     {
       "album": {
+        "name": "Afro Funk Explosion",
+        "url": "https://open.spotify.com/album/6Ldwe6NNGVtep7gIra94sY"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Afro Rock Band",
+          "url": "https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s"
+        },
+        {
+          "name": "Ice",
+          "url": "https://open.spotify.com/artist/4geDwybzFjiIR4P853bmFA"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195197,
+      "name": "Ozan Koukle - Remastered",
+      "url": "https://open.spotify.com/track/7oMHdedLWsoXHcJyKqDbiR"
+    },
+    {
+      "album": {
+        "name": "Zajel",
+        "url": "https://open.spotify.com/album/7xGzgL3s8YWHnqqIDoTpro"
+      },
+      "artists": [
+        {
+          "name": "El-Funoun Palestinian Popular Dance Troupe",
+          "url": "https://open.spotify.com/artist/6VH1HRNwtjHE2txVKksXtm"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158801,
+      "name": "Palestine the Beautiful",
+      "url": "https://open.spotify.com/track/7jBKhwugV7LueznkfDgatt"
+    },
+    {
+      "album": {
         "name": "MO (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
       },
@@ -782,7 +1762,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 61806,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/4q0dCs7oOlqiUPx8BoybhK"
@@ -803,15 +1783,59 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 61806,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/67GL6xJlgzOaD7CU6T4v5z"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54908,
+      "name": "Pillow Talk",
+      "url": "https://open.spotify.com/track/3pAlOF0W0jmagTjG1B7Bd7"
+    },
+    {
+      "album": {
+        "name": "The Pink Panther (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4d1o8H5QwEsE6vdxOlC5e3"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Pink Panther Theme",
+      "url": "https://open.spotify.com/track/1QPRmX2e3EZWskuOe5QqxM"
     },
     {
       "album": {
@@ -844,7 +1868,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 138000,
       "name": "Riding Down South",
       "url": "https://open.spotify.com/track/1dJzejhJpke1MFD5zpb1eN"
@@ -866,6 +1890,24 @@
       "duration_ms": 138000,
       "name": "Riding Down South",
       "url": "https://open.spotify.com/track/5CEUbWgQVtvAIBKjVDXQNQ"
+    },
+    {
+      "album": {
+        "name": "SOUTHERN HIP HOP",
+        "url": "https://open.spotify.com/album/7fdx1i4YgHbJJuwof89iiZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Grey",
+          "url": "https://open.spotify.com/artist/5fwIA489DdxWq5O0adIE51"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Riding Down South",
+      "url": "https://open.spotify.com/track/7bPGJHWpzZnVUX1NMkW97Z"
     },
     {
       "album": {
@@ -891,6 +1933,110 @@
     },
     {
       "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43818,
+      "name": "Schoolyard Fight",
+      "url": "https://open.spotify.com/track/0MvqZuX5ZkMstdAvmNSwCj"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32022,
+      "name": "Selling Merch Pt2",
+      "url": "https://open.spotify.com/track/7MWGTxNk8tmG2QO2p6T3be"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113551,
+      "name": "Selling Olive Oil",
+      "url": "https://open.spotify.com/track/6DTCbA32aSzLzROTHbduCB"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45865,
+      "name": "Selling The Farm",
+      "url": "https://open.spotify.com/track/3O00JYzXoAPK7AsmI7VAdR"
+    },
+    {
+      "album": {
         "name": "SHAKE",
         "url": "https://open.spotify.com/album/5hN3wqb9mYuWI31s0vggik"
       },
@@ -910,6 +2056,32 @@
       "duration_ms": 193613,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/7sU86lbmcT6ks3tw2MMwoB"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45318,
+      "name": "Singing Farewell Overlay",
+      "url": "https://open.spotify.com/track/0jvLyFcOMCBMERDM0YNaZD"
     },
     {
       "album": {
@@ -983,6 +2155,32 @@
     },
     {
       "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104575,
+      "name": "Strip Club Interview",
+      "url": "https://open.spotify.com/track/4fKmyF3DSELb3aMfCNeTka"
+    },
+    {
+      "album": {
         "name": "Shirelles (Bonus Track Version)",
         "url": "https://open.spotify.com/album/2Afzpg3NmxEWq1nNtoUWEG"
       },
@@ -998,6 +2196,50 @@
       "duration_ms": 196760,
       "name": "Sunday Dreaming",
       "url": "https://open.spotify.com/track/3TclLf5lQhBdvtZ0VMENRr"
+    },
+    {
+      "album": {
+        "name": "The Lost Boy",
+        "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198147,
+      "name": "Thanksgiving",
+      "url": "https://open.spotify.com/track/77GoToROOVIQZidN1naoOF"
+    },
+    {
+      "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44420,
+      "name": "Thanksgiving Meal",
+      "url": "https://open.spotify.com/track/4uuv2MiHpyDGBx0NTenvxL"
     },
     {
       "album": {
@@ -1027,6 +2269,50 @@
     },
     {
       "album": {
+        "name": "Mo: Season 2 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5LHaQYDNyfF7KdhFqH2om3"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43738,
+      "name": "Toast To Family",
+      "url": "https://open.spotify.com/track/63i05K537JWI37DomqHgRc"
+    },
+    {
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "album": {
         "name": "MO (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/5U9qX0uEOU1fT9eBCiexCi"
       },
@@ -1046,7 +2332,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 113420,
       "name": "What It Do",
       "url": "https://open.spotify.com/track/6OehApq6QDWGEiLJK3C2ji"
@@ -1067,12 +2353,12 @@
         },
         {
           "name": "Patrick Warren",
-          "url": "https://open.spotify.com/artist/1d3lcOIac1SGpfwl9ITtV2"
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
         }
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 113420,
       "name": "What It Do",
       "url": "https://open.spotify.com/track/6gvatEc0FeHHg7lyFQNkQk"
@@ -1090,7 +2376,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 257359,
       "name": "Work All Day",
       "url": "https://open.spotify.com/track/0slIQGY3lFc3hA8QjGD4DT"
@@ -1108,10 +2394,72 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 257359,
       "name": "Work All Day",
       "url": "https://open.spotify.com/track/6zJ8kfjXS7tQ6Cz25u4yWk"
+    },
+    {
+      "album": {
+        "name": "Elyanna",
+        "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163634,
+      "name": "Ya Waylak",
+      "url": "https://open.spotify.com/track/2DyF7vzCz2Hbbi8tdZkxf4"
+    },
+    {
+      "album": {
+        "name": "Ya Zarif Altul",
+        "url": "https://open.spotify.com/album/1l6efBcKQsaKYc2a57xLwo"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Bitar",
+          "url": "https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103750,
+      "name": "Ya Zarif Altul",
+      "url": "https://open.spotify.com/track/3etUODrPH8Y6nW3hIbkMty"
+    },
+    {
+      "album": {
+        "name": "MO (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1gFiGEz5ytsjmL3dnrThzI"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Patrick Warren",
+          "url": "https://open.spotify.com/artist/1GARM4oLhEa1XG6SHHeoRE"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48631,
+      "name": "You Never Ask",
+      "url": "https://open.spotify.com/track/6vumEAh2DOGGSrCm3Pppw5"
     },
     {
       "album": {
@@ -1130,7 +2478,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 176062,
       "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
       "url": "https://open.spotify.com/track/48VEHup4JLbx5BkuC0W9HD"
@@ -1152,7 +2500,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 176062,
       "name": "\u0632\u0641\u0629 \u0627\u0644\u0639\u0631\u0633\u0627\u0646",
       "url": "https://open.spotify.com/track/68e3yP8jRE4OVSJt5BWNs5"
@@ -1170,7 +2518,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 239253,
       "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
       "url": "https://open.spotify.com/track/2XeFCR6w0xCu2jLicUEjdk"
@@ -1188,7 +2536,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 239253,
       "name": "\u0644\u0648 \u0634\u0631\u0628\u0648\u0627 \u0627\u0644\u0628\u062d\u0631",
       "url": "https://open.spotify.com/track/4XGofstKHT8H7tmt68DnKw"

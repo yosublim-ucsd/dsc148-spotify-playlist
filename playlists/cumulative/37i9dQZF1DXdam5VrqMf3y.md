@@ -2,7 +2,7 @@
 
 ### [Spotify Singles: Holiday Collection](https://open.spotify.com/playlist/37i9dQZF1DXdam5VrqMf3y)
 
-> Your favorite holiday tunes, like you've never heard before\. Cover: Dasha
+> Your favorite holiday tunes, like you've never heard before\. Cover: Kesha
 
 121 songs - 6 hr 23 min
 

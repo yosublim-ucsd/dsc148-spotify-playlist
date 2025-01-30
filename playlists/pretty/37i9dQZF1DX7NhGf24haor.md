@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Rebelion
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,732 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,800 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 13 | [burn it to the ground](https://open.spotify.com/track/6zwbgqvtYYRCNgAcQ0O3TY) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64) | [burn it to the ground](https://open.spotify.com/album/0fDAuD8vH3c0ZvJNMgqTJk) | 3:31 |
 | 14 | [My Own Path](https://open.spotify.com/track/75zCFjRh2CQb5nAT2moiwn) | [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du) | [My Own Path](https://open.spotify.com/album/4QSywz3AiCNiwnXgelrk9x) | 3:33 |
 | 15 | [The Edge \(of the End\)](https://open.spotify.com/track/0DlHcmxGyzgXKiiLrb2Lhu) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [The Edge \(of the End\)](https://open.spotify.com/album/0IuZGAGfcajSUvyP5I9G36) | 2:55 |
-| 16 | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/track/0CUeNPfczZYcb0IdV1CeqL) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/album/6m5mmcB1gIUvS8khA3n1we) | 4:12 |
+| 16 | [Step Into The Light](https://open.spotify.com/track/0CUeNPfczZYcb0IdV1CeqL) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/album/6m5mmcB1gIUvS8khA3n1we) | 4:12 |
 | 17 | [Wild & Free](https://open.spotify.com/track/0gtIDZDm3H1bsT5K2IsUNJ) | [State of Deva](https://open.spotify.com/artist/7MyoSv4wg5VRYvoUBHdhJi) | [Wild & Free](https://open.spotify.com/album/5FBs85luOw3um1zM5A3fD8) | 2:58 |
 | 18 | [Voodoo](https://open.spotify.com/track/03IGSRIjb8Aie7MFPeKepM) | [Flux Overload](https://open.spotify.com/artist/6Y0b8U7HteRz5sDhg5SMAf) | [Voodoo](https://open.spotify.com/album/6kZe5QiPT5A5QRU84skAMR) | 3:21 |
 | 19 | [DO YOU LIKE ZAAG?](https://open.spotify.com/track/2e8egSL6DTWLAjgsdC9YHE) | [Juyen Sebulba](https://open.spotify.com/artist/5DrDb5tvBFk7sJxsMyA06r), [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [The Final Dose](https://open.spotify.com/album/54xJCXszt42VOHFmLtpgU5) | 1:57 |

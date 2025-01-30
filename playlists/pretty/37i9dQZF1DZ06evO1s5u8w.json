@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 191069,
+  "num_followers": 191091,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAAA0DCYEF6onpWN2r6HJRuMU",
+  "snapshot_id": "Z5geAAAAAAANMsxMvcPyoEN6s+Orp9v/",
   "tracks": [
     {
       "added_at": null,
@@ -220,21 +220,17 @@
       "added_at": null,
       "album": {
         "name": "True Stories",
-        "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
+        "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
       },
       "artists": [
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "Jerry Harrison",
-          "url": "https://open.spotify.com/artist/1GkiKu2FJFSBrXSL8wKFzy"
         }
       ],
-      "duration_ms": 220680,
-      "name": "Wild Wild Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4u6rcmlhDDgS0YAo8ZMI4a"
+      "duration_ms": 219826,
+      "name": "Wild Wild Life",
+      "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
     },
     {
       "added_at": null,
@@ -447,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "The Big Country - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6jvNnYLscndCf0fPJB1pms"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -459,38 +471,6 @@
       "duration_ms": 360640,
       "name": "What a Day That Was - Live; Edit",
       "url": "https://open.spotify.com/track/1qRbIDeJnmfnglzlJI8kOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 131560,
-      "name": "Thank You for Sending Me an Angel - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aotqfVLywWWF4ZqdmLmig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Creatures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Stay up Late - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
     },
     {
       "added_at": null,
@@ -511,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "Little Creatures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
       },
       "artists": [
         {
@@ -520,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 189746,
-      "name": "New Feeling - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2pmytOddxLVaASHQqTH9LO"
+      "duration_ms": 222413,
+      "name": "Stay up Late - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
     },
     {
       "added_at": null,
@@ -536,15 +516,15 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 333386,
-      "name": "The Big Country - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6jvNnYLscndCf0fPJB1pms"
+      "duration_ms": 131560,
+      "name": "Thank You for Sending Me an Angel - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aotqfVLywWWF4ZqdmLmig"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
       "artists": [
         {
@@ -552,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Cities - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+      "duration_ms": 189746,
+      "name": "New Feeling - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2pmytOddxLVaASHQqTH9LO"
     },
     {
       "added_at": null,
@@ -591,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Cities - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Creatures",
         "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
@@ -603,22 +599,6 @@
       "duration_ms": 267333,
       "name": "Perfect World - 2005 Remaster",
       "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 188973,
-      "name": "I Zimbra - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
     },
     {
       "added_at": null,
@@ -651,6 +631,22 @@
       "duration_ms": 305000,
       "name": "A Clean Break (Let's Work) - Live at WCOZ, Massachusetts; 2004 Remaster",
       "url": "https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "I Zimbra - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
     },
     {
       "added_at": null,
@@ -723,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Deluxe Edition) [Live]",
-        "url": "https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 443558,
-      "name": "Big Business / I Zimbra (Live) - 2023 Remaster",
-      "url": "https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music",
         "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
       },
@@ -751,6 +731,22 @@
       "duration_ms": 214120,
       "name": "Air",
       "url": "https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Making Sense (Deluxe Edition) [Live]",
+        "url": "https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 443558,
+      "name": "Big Business / I Zimbra (Live) - 2023 Remaster",
+      "url": "https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU"
     },
     {
       "added_at": null,
@@ -771,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "With Our Love",
-      "url": "https://open.spotify.com/track/2FiIUkT9U0JqPxnVp8ufVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -799,6 +779,22 @@
       "duration_ms": 252040,
       "name": "Mind - 2005 Remaster",
       "url": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "With Our Love",
+      "url": "https://open.spotify.com/track/2FiIUkT9U0JqPxnVp8ufVT"
     },
     {
       "added_at": null,

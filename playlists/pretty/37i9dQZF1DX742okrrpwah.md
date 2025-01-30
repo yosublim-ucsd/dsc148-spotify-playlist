@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Teddy Swims au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,373 likes - 106 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,385 likes - 106 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

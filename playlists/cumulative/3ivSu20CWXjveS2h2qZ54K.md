@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-2,803 songs - 6 day 10 hr 42 min
+2,804 songs - 6 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1095,6 +1095,7 @@
 | [HIELO](https://open.spotify.com/track/1whmEKMAlubjzy4ICY0zk0) | [Somadamantina](https://open.spotify.com/artist/6aZlwGumthiTDOQ5iaCI5x) | [Original](https://open.spotify.com/album/1IrON5L9R3RO6MghsNJvXw) | 4:43 | 2024-11-29 | 2024-12-07 |
 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 | 2024-07-26 | 2024-08-10 |
 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 | 2024-11-08 | 2024-11-16 |
+| [High Voltaje](https://open.spotify.com/track/2lojFqPGxdDLo1c0SMuOiP) | [Femme Fatene](https://open.spotify.com/artist/0cdJn4T7hk8gGhlZYxk3uL), [Rubio Druida](https://open.spotify.com/artist/62LX9fIc9C2O67XdBfwOV6) | [High Voltaje](https://open.spotify.com/album/7yDTDzTMwkF0dm36eO2Gsg) | 3:07 | 2025-01-29 |  |
 | [Higher](https://open.spotify.com/track/3xWOfgZzCg1jdEpEfM4oKi) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Higher](https://open.spotify.com/album/1TGiQpFGwQtuDcxNcKeFRb) | 2:40 | 2025-01-17 | 2025-01-25 |
 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 | 2024-06-28 | 2024-07-13 |
 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 | 2024-08-23 | 2024-08-31 |
@@ -1750,7 +1751,7 @@
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-23 | 2024-11-09 |
 | [Nom Nom Nom](https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Nom Nom Nom / Cat Burglar](https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx) | 3:30 | 2024-11-29 | 2024-12-07 |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-28 | 2024-07-13 |
-| [NONADAS](https://open.spotify.com/track/12ZIgvFPFGcOCmbmMcU8f5) | [MARIA HEIN](https://open.spotify.com/artist/3XROpF1yIcXOcMjDkswghI) | [Nonadas](https://open.spotify.com/album/4irMgUKQm2Wb7VhwqPuBl4) | 2:16 | 2025-01-24 |  |
+| [NONADAS](https://open.spotify.com/track/12ZIgvFPFGcOCmbmMcU8f5) | [MARIA HEIN](https://open.spotify.com/artist/3XROpF1yIcXOcMjDkswghI) | [NONADAS](https://open.spotify.com/album/4irMgUKQm2Wb7VhwqPuBl4) | 2:16 | 2025-01-24 |  |
 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-10-24 | 2024-11-09 |
 | [Nosoutros](https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Nosoutros](https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc) | 1:21 | 2024-09-20 | 2024-09-28 |
 | [Not A Game \- feat\. Lucy Rose](https://open.spotify.com/track/4txfgFG1DgnRWB9Q5tXOuA) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Aquarius III](https://open.spotify.com/album/2Sgg02H2euJ1x6eZAysstY) | 2:19 | 2025-01-17 | 2025-01-25 |

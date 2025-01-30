@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-441 songs - 1 day 4 hr 7 min
+442 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Elektra](https://open.spotify.com/track/01e8d1lr1fFyPuIGOCRnRG) | [Alpha Tracks](https://open.spotify.com/artist/4gpRsvUmRXVH2BhobvdJC3) | [White Keys Vol.2](https://open.spotify.com/album/73JNp7GCaS3sh9QBCY6uOY) | 7:05 | 2023-08-10 | 2023-08-19 |
 | [ELEMENTS 2](https://open.spotify.com/track/41ms08jzNzvkdFjWVyeiE7) | [EARGASM GOD](https://open.spotify.com/artist/4Fry0sEjFRKflf45xpPUMp) | [ELEMENTS 2](https://open.spotify.com/album/5rYkb1JeOzm6I1QzDV5ozq) | 3:51 | 2024-12-28 | 2025-01-07 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2023-03-10 | 2023-06-06 |
-| [Entertain Me](https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Entertain Me](https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy) | 2:50 | 2024-07-25 |  |
+| [Entertain Me](https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Entertain Me](https://open.spotify.com/album/5tszZPM7fry1xLqzJaE8uy) | 2:50 | 2024-07-25 | 2025-01-30 |
 | [Escape](https://open.spotify.com/track/4S2hhb5EKBmlBU7cFigCJS) | [Van Der Karsten](https://open.spotify.com/artist/3TiyEX77D6OFTvSfx5WDEE), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Escape](https://open.spotify.com/album/0gDQGarNIcKfzFVQITe8t2) | 2:46 | 2024-08-22 | 2024-09-17 |
 | [Escape From Planet Monday](https://open.spotify.com/track/2IqFYZ4Vocia7PmzEZh67r) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [LUSU](https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [Escape From Planet Monday](https://open.spotify.com/album/6jCSQjMDY7imZ95OUQNdeD) | 3:14 | 2024-11-11 | 2024-12-21 |
 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 | 2023-11-30 |  |
@@ -129,6 +129,7 @@
 | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/track/7v79EuvJq69p2keEsCd08A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Everybody's Free \(To Feel Good\)](https://open.spotify.com/album/4XBjD0YdqN3FjIyPT48AxD) | 2:11 | 2024-02-02 | 2024-08-13 |
 | [Eye Contact](https://open.spotify.com/track/0tTkmkQFLyLtyPZTcy0yHy) | [Upper90](https://open.spotify.com/artist/5ye3YheRaIaodo3nid7Wxz) | [Eye Contact](https://open.spotify.com/album/2jujhyMf8jsIzhgEuVBzE0) | 3:50 | 2024-07-25 | 2025-01-07 |
 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 | 2023-10-26 | 2023-11-03 |
+| [Fade Away](https://open.spotify.com/track/3gG1APb47C9I1nIgcLFMEh) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Fade Away](https://open.spotify.com/album/1gCaL4MQetFtRh6wZNH9UT) | 2:37 | 2025-01-27 |  |
 | [Fade To Black](https://open.spotify.com/track/0eVRRA5XgykBqjIwhYzxQ2) | [KARVA](https://open.spotify.com/artist/01IuZ5qGBbM7vc6IglCSLM) | [Fade To Black](https://open.spotify.com/album/6s1r8ihM8cjm5HNAZ6DNTx) | 5:01 | 2024-04-11 | 2024-04-26 |
 | [FAF](https://open.spotify.com/track/5HO6Ktb8VhUlRAz8NXsScT) | [Surf 2 Glory](https://open.spotify.com/artist/1GQzSnBwaUlIdqFDiuktN3) | [FAF](https://open.spotify.com/album/5fJBS7Ous2WYOQjrBP77qa) | 2:47 | 2024-08-22 | 2025-01-07 |
 | [Fall In My Arms](https://open.spotify.com/track/44qgj5FoNRHgfTUn6Sm4Ls) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [Fall In My Arms](https://open.spotify.com/album/7nEmMz8VCJBBGpLVq3wtqs) | 3:18 | 2023-11-24 | 2023-12-01 |

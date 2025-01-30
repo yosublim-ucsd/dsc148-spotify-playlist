@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 407 songs - 21 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 378 likes - 407 songs - 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 89 | [The Key](https://open.spotify.com/track/5Wt6nnGyzwQbQ2iHsGgM5S) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 1:24 |
 | 90 | [I've Still Got My Health](https://open.spotify.com/track/6b3FrxnjRH8v1fbsoKutaW) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 1:29 |
 | 91 | [Ladies In Waiting](https://open.spotify.com/track/78zOinQvrTKJowX5ZtZGni) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:33 |
-| 92 | [I Happen to Like New York \(From the New Yorkers\) \- Live @ the Carlyle](https://open.spotify.com/track/47xiOR9Qfjr8z4aXlCCIwL) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Live At The Café Carlyle](https://open.spotify.com/album/3BIBreZObb0c7afMRLq3Qx) | 1:52 |
+| 92 | [Ganz Paris träumt von der Liebe](https://open.spotify.com/track/5KzB6s7mGfDfIKFcTzCoYr) | [Caterina Valente](https://open.spotify.com/artist/6U43w7qaIwFTlbJWuLiBrf) | [Ein Gruß von Caterina Valente \(Expanded Edition\)](https://open.spotify.com/album/2LSfGoJ9U8f8zeYwx8AObL) | 2:53 |
 | 93 | [Ace In The Hole](https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 1:59 |
-| 94 | [Ganz Paris träumt von der Liebe](https://open.spotify.com/track/5KzB6s7mGfDfIKFcTzCoYr) | [Caterina Valente](https://open.spotify.com/artist/6U43w7qaIwFTlbJWuLiBrf) | [Ein Gruß von Caterina Valente \(Expanded Edition\)](https://open.spotify.com/album/2LSfGoJ9U8f8zeYwx8AObL) | 2:53 |
+| 94 | [I Happen to Like New York \(From the New Yorkers\) \- Live @ the Carlyle](https://open.spotify.com/track/47xiOR9Qfjr8z4aXlCCIwL) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Live At The Café Carlyle](https://open.spotify.com/album/3BIBreZObb0c7afMRLq3Qx) | 1:52 |
 | 95 | [Salt Air](https://open.spotify.com/track/6062Qvd9hWn1PJuA0Hx3lc) | [Chew Lips](https://open.spotify.com/artist/2GUPq2sUqFNcvAoFxBsUDR) | [Salt Air](https://open.spotify.com/album/7fllgbHRILXPjZ5956KgHD) | 2:53 |
 | 96 | [Lotus Bloom](https://open.spotify.com/track/1FipQSNOOFX9ozHEOhBCA0) | [Blue Stone](https://open.spotify.com/artist/5ZCcVPmY6ymLPStzhEFolI) | [Messages](https://open.spotify.com/album/5E70XG2vFTkW0Buxm39NRy) | 4:54 |
 | 97 | [True Love](https://open.spotify.com/track/1ofDB7PXhHez9ewlJdqGaF) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Hollywood Musicals](https://open.spotify.com/album/7cyUYpjcFWylXVrupufK8i) | 3:06 |
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 110 | [Kix](https://open.spotify.com/track/2fOr1nExb2DCxierltnBJy) | [The Real Tuesday Weld](https://open.spotify.com/artist/12KsgeavNVg66cW2frw3j2) | [The London Book Of The Dead](https://open.spotify.com/album/2y6JJsZJBYgtMGl7xNTCcH) | 3:00 |
 | 111 | [You Don't Know This Man](https://open.spotify.com/track/0RuWBmJgd6VXAGVx0kYIgo) | [Carolee Carmello](https://open.spotify.com/artist/05AYNNHK2QrbfVD1iawhp2) | [Parade \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2pIKRHaTrSHGh4yLBJMy9z) | 2:12 |
 | 112 | [Don't Look At Me That Way](https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:59 |
-| 113 | [Give Him The Ooh\-La\-La](https://open.spotify.com/track/0ghtS4w1pSxPrlpCoLrXhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 2:41 |
-| 114 | [FRIENDSHIP](https://open.spotify.com/track/0mNnK7dRqfHyZyoCMHGMLU) | [H Jungle With t](https://open.spotify.com/artist/5tzXe29CBmoCiUGwpfYAct) | [FRIENDSHIP](https://open.spotify.com/album/7FYhyvoCHvbGmHEk20TBJJ) | 4:47 |
+| 113 | [FRIENDSHIP](https://open.spotify.com/track/0mNnK7dRqfHyZyoCMHGMLU) | [H Jungle With t](https://open.spotify.com/artist/5tzXe29CBmoCiUGwpfYAct) | [FRIENDSHIP](https://open.spotify.com/album/7FYhyvoCHvbGmHEk20TBJJ) | 4:47 |
+| 114 | [Give Him The Ooh\-La\-La](https://open.spotify.com/track/0ghtS4w1pSxPrlpCoLrXhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Give Him The Ooh\-La\-La \(Expanded Edition\)](https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog) | 2:41 |
 | 115 | [Evidence \- Live At Carnegie Hall, New York/1957](https://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r) | [Thelonious Monk Quartet](https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [At Carnegie Hall](https://open.spotify.com/album/3x38mYlwkm6L6vYIn0Hzqk) | 4:41 |
 | 116 | [Wee\-Wee, Pee\-Pee, Tinkle!](https://open.spotify.com/track/5pJVrsl5Y7RSSDA4I1BQf8) | [Wonder Pets](https://open.spotify.com/artist/7ni4mcsUHE4P5g7Qd15DHD) | [Wonder Pets](https://open.spotify.com/album/7956RvTfKwsOZe6yljDVMa) | 1:38 |
 | 117 | [Noel C'est L'Amour](https://open.spotify.com/track/0YA39ajuqPWarCzm2F1zCL) | [Chante avec moi](https://open.spotify.com/artist/1loyZdJGUq4fABwm80n0ZR) | [Et le choeur des enfants \(Volume 16\)](https://open.spotify.com/album/4xYRC4VO5HxvCD65Jg20QE) | 2:24 |
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 406 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 407 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AboG1QAAAADTWROLPs5xUHpKZs6sU5h7`
+Snapshot ID: `AboMagAAAAAJMbHCF1P1o0F3o/XRe5MA`

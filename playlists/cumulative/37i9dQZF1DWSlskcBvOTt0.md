@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-839 songs - 3 day 1 hr 31 min
+840 songs - 3 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-04-12 |  |
 | [Amandla](https://open.spotify.com/track/16nstjbrIeh0HA4MkiOvqY) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Amandla](https://open.spotify.com/album/4KUQbiQ4UUjm5lcN0pX2Ah) | 6:10 | 2023-11-03 | 2024-05-11 |
 | [Amanecer](https://open.spotify.com/track/4dsZt7bgIe1kVltGhbXP5D) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Amanecer](https://open.spotify.com/album/2lAfbgutc69q6qlCPIppjP) | 7:36 | 2023-01-13 | 2023-03-04 |
-| [Amazonas](https://open.spotify.com/track/0vDQl4HGDvHR80wQvdUYZk) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Amazonas](https://open.spotify.com/album/0SYnNdmxl37UFoap4loEQo) | 3:32 | 2024-12-13 |  |
+| [Amazonas](https://open.spotify.com/track/0vDQl4HGDvHR80wQvdUYZk) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Amazonas](https://open.spotify.com/album/0SYnNdmxl37UFoap4loEQo) | 3:32 | 2024-12-13 | 2025-01-30 |
 | [Amida \- Satori & El Mundo Remix](https://open.spotify.com/track/0V2S8wtRZi4OAeCVq4phT8) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F), [Qualista](https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN), [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0), [El Mundo](https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej) | [Amida \(Satori & El Mundo Remix\)](https://open.spotify.com/album/196fE693PdI2q6DbNbpMHG) | 6:55 | 2022-12-09 | 2023-01-14 |
 | [Amor Cego](https://open.spotify.com/track/3Vz6j2iEsgmGyjC89bn8tz) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Margarida Encarnação](https://open.spotify.com/artist/05L0Xnr39hVRK3MW0o5rFS) | [Amor Cego](https://open.spotify.com/album/6lJ9Mi6EZmisSqHW08jjOU) | 5:32 | 2022-02-11 | 2022-07-26 |
 | [Amores](https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 5:57 | 2021-04-21 | 2022-10-06 |
@@ -654,6 +654,7 @@
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-25 |  |
 | [Sayam](https://open.spotify.com/track/4XyT6gJZJqkMEH0uaVpZ1R) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [John Cala](https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP) | [Sayam](https://open.spotify.com/album/1DWvT9uoDnVE08qwqb2DyO) | 3:27 | 2024-08-16 | 2025-01-16 |
 | [Scilla E Cariddi \- TR3NACRIA Remix](https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Scilla E Cariddi \(TR3NACRIA Remix\)](https://open.spotify.com/album/68e9h9IdfSpbhMQsdKITvR) | 3:05 | 2024-05-31 | 2024-07-13 |
+| [Searching For Myself](https://open.spotify.com/track/3pRne1ASI82w3bkFcsmBeo) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Searching For Myself](https://open.spotify.com/album/0mg6CGvY71DL7rckHvCzl5) | 6:34 | 2025-01-24 |  |
 | [Seda](https://open.spotify.com/track/31QqKRikjh4mtLFPle9ub9) | [Alex Lur](https://open.spotify.com/artist/4rwz2V4y8Uiz6QR9qSbIrf), [GROJ](https://open.spotify.com/artist/0bJiWg2SC47WIfFe96Ke6E) | [Seda](https://open.spotify.com/album/3xO9kVbXYO9SmP5eNvkwq4) | 3:47 | 2021-06-25 | 2022-07-25 |
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |
 | [Seraphina](https://open.spotify.com/track/7z34hBre7xaecEJkcoA2mE) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Seraphina EP](https://open.spotify.com/album/6AqYAOl7A25dwO4m4SHVV7) | 7:24 | 2024-06-14 | 2024-08-31 |

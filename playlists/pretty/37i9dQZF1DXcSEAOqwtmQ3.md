@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,610 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,639 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 17 | [Buga](https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0) | [Jesse King & The Queens In The Palace](https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL) | [Buga](https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13) | 6:50 |
 | 18 | [Zombie](https://open.spotify.com/track/3yoSHWIvtNQ52Jf3bCoaBa) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Anthology 2](https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd) | 12:23 |
 | 19 | [Ife Si Na Chi](https://open.spotify.com/track/6jKk72CeCmtCG1KaJyaxRB) | [Celestine Ukwu](https://open.spotify.com/artist/2XX5UnnAfyUaPTNsYZWLzB) | [Igede](https://open.spotify.com/album/7dxh76o90e3XcCbTW74WuO) | 5:10 |
-| 20 | [Lagos Party Remix \(feat\. Naeto C, D'Banj, 9ice, eLDee & Muna\)](https://open.spotify.com/track/5qoiIKpBd4MJ9kNqt9pmvv) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [The W Experience](https://open.spotify.com/album/058QZyQCYYzQgZ0fCKqgSW) | 6:06 |
-| 21 | [Why Me \[Remix\]](https://open.spotify.com/track/5DQszLTIK8USpirqOxk1n5) | [Mo' Hits All Stars](https://open.spotify.com/artist/3kTUr1CJjfkESn31Xk6tij) | [51Lex Presents Stop The Violence](https://open.spotify.com/album/0vCvdBdudeVkm1OrqE53yx) | 5:14 |
+| 20 | [Why Me \[Remix\]](https://open.spotify.com/track/5DQszLTIK8USpirqOxk1n5) | [Mo' Hits All Stars](https://open.spotify.com/artist/3kTUr1CJjfkESn31Xk6tij) | [51Lex Presents Stop The Violence](https://open.spotify.com/album/0vCvdBdudeVkm1OrqE53yx) | 5:14 |
+| 21 | [Lagos Party Remix \(feat\. Naeto C, D'Banj, 9ice, eLDee & Muna\)](https://open.spotify.com/track/5qoiIKpBd4MJ9kNqt9pmvv) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [The W Experience](https://open.spotify.com/album/058QZyQCYYzQgZ0fCKqgSW) | 6:06 |
 | 22 | [Agbalu Aka N'a Azo Ani](https://open.spotify.com/track/73dfWEkovyhhWPraPvrhMG) | [Chief Stephen Osita Osadebe](https://open.spotify.com/artist/3p5v42DQP2YtTAwWznBnpn) | [Agbalu Aka N'a Azo Ani](https://open.spotify.com/album/562j7cCufCWIFbsHB0TLST) | 15:15 |
 | 23 | [Moonlight Highlife](https://open.spotify.com/track/0VbMP1oje4fglCoKDk99GT) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [The Evil Genius Of Highlife Vol\. 2](https://open.spotify.com/album/3ODHfdhSsx7SqI1RCHFtUy) | 3:13 |
 | 24 | [Dami Duro](https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dami Duro](https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2) | 4:10 |

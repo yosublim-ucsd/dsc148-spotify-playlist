@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Gazzelle in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,735 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,743 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 92 | [Non respiro](https://open.spotify.com/track/72V4jivh9tCh6D0Q6MRl0C) | [Koja](https://open.spotify.com/artist/5pUnfJhZsHapPMB4wBfp5m), [Milano Mobster](https://open.spotify.com/artist/4WAFo0IQmpG3O999VAYtJ7) | [Fieri di noi](https://open.spotify.com/album/34GyRdwC2DAcfBYIpjEUgB) | 3:25 |
 | 93 | [SUD MOST WANTED \(feat\. Peppe Soks, Lil Parta, SKT, Enzo Benz, Welo, Kid Lost, O'Tsunami\)](https://open.spotify.com/track/6dl9FpOjDyzBrqfYzkzp47) | [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Lil Parta](https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP), [SKT](https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUD MOST WANTED \(feat\. Peppe Soks, Lil Parta, SKT, Enzo Benz, Welo, Kid Lost, O'Tsunami\)](https://open.spotify.com/album/69zf4cHClHc9wgw4AjM3Gx) | 4:00 |
 | 94 | [NON MI VA](https://open.spotify.com/track/3RD9HtzEbgmH86nIfr2SXp) | [PARIDE](https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [NON MI VA](https://open.spotify.com/album/0VNsYTn8YMlxYPbwI3iobz) | 2:07 |
-| 95 | [C'è Silenzio](https://open.spotify.com/track/599dEwtqHsZEQX8uSjbjJR) | [Benedetta Scandale](https://open.spotify.com/artist/4vsyJNcjfl5HPKbQziOBTh) | [Resta](https://open.spotify.com/album/3mesPGOUO7DZfhpWeuadbD) | 3:10 |
+| 95 | [C'è Silenzio](https://open.spotify.com/track/599dEwtqHsZEQX8uSjbjJR) | [Benedetta Scandale](https://open.spotify.com/artist/4vsyJNcjfl5HPKbQziOBTh), [Maenellavita](https://open.spotify.com/artist/3hsH2bGuVxFwFwHRm2EtjH) | [Resta](https://open.spotify.com/album/3mesPGOUO7DZfhpWeuadbD) | 3:10 |
 | 96 | [Inizio di Maggio](https://open.spotify.com/track/53FSHLlTyQr9J1b4BmlI0A) | [CIL](https://open.spotify.com/artist/6mt0m8Ugh2vjYBbMJEo5PJ) | [Inizio di Maggio](https://open.spotify.com/album/1lROzxGHbEs1J0PqhpogoB) | 2:27 |
 | 97 | [non si vive solo per non bagnarsi](https://open.spotify.com/track/3u56y6HDHYtBBvy6gbMlSu) | [alaska](https://open.spotify.com/artist/08wibq50EmhXgkKI4kgKfB) | [non si vive solo per non bagnarsi](https://open.spotify.com/album/7tFRH3V6pdVwRWq9ItpnPt) | 3:08 |
 | 98 | [Favole](https://open.spotify.com/track/4KaxkCtwTHBfdrZRzrIYft) | [Primo Amore](https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo) | [Favole](https://open.spotify.com/album/7Knoi90E5t5d8vvOEpt8Gp) | 2:48 |

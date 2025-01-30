@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-253 songs - 14 hr 11 min
+254 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 | 2022-05-10 |  |
 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:31 | 2022-05-10 |  |
 | [Tu Nombre Me Sabe A Yerba \- Remasterizado](https://open.spotify.com/track/6IzGkgxvQUxwqlNv15VOeb) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Marisol \(1976\) \[Remasterizado 2022\]](https://open.spotify.com/album/1NpMIQUpPephDPD92I77jg) | 2:11 | 2024-05-10 |  |
+| [Tu Voz](https://open.spotify.com/track/3T5SA8XE5zulRr3TVYek0L) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Un Poco Más](https://open.spotify.com/album/54eZ7WGtIsuFSiSSYWykrv) | 3:38 | 2024-07-11 |  |
 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 | 2022-12-30 |  |
 | [Un Velero Llamado Libertad](https://open.spotify.com/track/2eKBLX1uF9PgvJ6qqGwmRZ) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 3:42 | 2022-12-30 |  |
 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/3PqXGMO8t9lpGN6g8YBUuV) | [Grupo Miramar](https://open.spotify.com/artist/4QGAXPnVeZWcJ82CgUsgcK) | [Album de Platino..\. 20 Super Exitos](https://open.spotify.com/album/0ft9IayGb8o8Ix79tG6vNq) | 2:54 | 2024-05-10 |  |
@@ -254,7 +255,7 @@
 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 | 2022-05-10 |  |
 | [Yo Que No Vivo Sin Ti](https://open.spotify.com/track/6B7ohoEc96VRnmgzopDPG0) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 3:02 | 2023-06-23 |  |
 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t) | [Los Brios](https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N) | [Serie Doble: Los Brios y Los Angeles De Chile](https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6) | 3:27 | 2022-05-10 |  |
-| [Yo,Tú y las Rosas](https://open.spotify.com/track/26bc0h5bngOkWEv5944ZEA) | [Regina Alcover](https://open.spotify.com/artist/4KLsvXkmpe7TOzwush9YLh) | [Serie de Colección de la Nueva Ola en el Perú](https://open.spotify.com/album/738VKlMASfWSgL7xVgOEcB) | 2:24 | 2024-05-10 |  |
+| [Yo,Tú y las Rosas](https://open.spotify.com/track/26bc0h5bngOkWEv5944ZEA) | [Regina Alcover](https://open.spotify.com/artist/4KLsvXkmpe7TOzwush9YLh) | [Serie de Colección de la Nueva Ola en el Perú](https://open.spotify.com/album/738VKlMASfWSgL7xVgOEcB) | 2:24 | 2024-05-10 | 2025-01-30 |
 | [Yolanda](https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Yo Me Quedo](https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU) | 4:38 | 2022-12-30 |  |
 | [¡Oh! Carol](https://open.spotify.com/track/0kdio5dhabYhLtzK1H5srr) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Las 5 mejores](https://open.spotify.com/album/2EJAzMWleSFIeRfi6CuPlf) | 2:19 | 2024-05-10 |  |
 | [¿Porqué te vas?](https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [iCollection](https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW) | 3:21 | 2022-05-10 |  |

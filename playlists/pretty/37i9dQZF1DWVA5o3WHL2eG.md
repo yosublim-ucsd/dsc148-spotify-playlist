@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,067 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,069 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [Juli](https://open.spotify.com/track/0pjLRl4IKL4Yk7qsH3kiXY) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Juli](https://open.spotify.com/album/3kem28oOtlQWOshkKt4AvR) | 3:09 |
 | 17 | [Ich liebe dich evtl\. für immer \- Single Edit](https://open.spotify.com/track/1ygR7zkMJhzxedI0ZBK9W3) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Ich liebe dich evtl\. für immer](https://open.spotify.com/album/3Dt4bErKiNZjRvYexYp7z7) | 3:34 |
 | 18 | [as I left the room](https://open.spotify.com/track/6JWl20NCZ7OttfpLSK8L3h) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [as I left the room](https://open.spotify.com/album/3T44mRmcd7Hc5sOXljOcPe) | 3:56 |
-| 19 | [Heal Me](https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Heal Me](https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h) | 3:35 |
+| 19 | [dafür oder dagegen](https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [dafür oder dagegen](https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V) | 3:03 |
 | 20 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
-| 21 | [dafür oder dagegen](https://open.spotify.com/track/6yTdxNCuvaGtJU95jz5dIQ) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [dafür oder dagegen](https://open.spotify.com/album/54O5FVjvQ9a0sTaVXZi23V) | 3:03 |
+| 21 | [Heal Me](https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Heal Me](https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h) | 3:35 |
 | 22 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
 | 23 | [Jungle Of Abundance](https://open.spotify.com/track/7cDL31s4Hws6Nvp85ymghW) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Jungle Of Abundance](https://open.spotify.com/album/59XzzmYsdKl2CjZ5Usiozh) | 3:43 |
 | 24 | [irgendwer](https://open.spotify.com/track/6ytgQodHGwKDK07bJAuKil) | [LEEPA](https://open.spotify.com/artist/066IQRKXdi1o3b9yGxA2SD) | [irgendwer](https://open.spotify.com/album/6nwQZBtgTsMTBoMDxpEj2y) | 2:48 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 36 | [Hand](https://open.spotify.com/track/3oeS5ZrpHyVHICvEdj8Hnk) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [Hand](https://open.spotify.com/album/1V1lXro2147Km4bAOe8jR5) | 2:59 |
 | 37 | [ironic](https://open.spotify.com/track/2LbVpA0zY8ilB3Dje1bWtl) | [Pilar Vega](https://open.spotify.com/artist/4gwLO2CpmBhulFPo6tbnRx) | [ironic](https://open.spotify.com/album/7uUwfWXLhgAVuPCkUimu9f) | 3:01 |
 | 38 | [F.u.K.](https://open.spotify.com/track/7uFQeCq21HqvO9aZTw5Soz) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [X\-RATED feelings](https://open.spotify.com/album/6P5qJlQ5ToYafABrTVGhmt) | 2:12 |
-| 39 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 |
+| 39 | [Wir sind echt](https://open.spotify.com/track/1wBtQwr4yrYtjfSfAlXxNr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Wir sind echt](https://open.spotify.com/album/27xDRNsdenJ6Ia7lfI6MQV) | 1:52 |
 | 40 | [NaNa](https://open.spotify.com/track/4pSZYGmnsjcLEniwabBIWh) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [MAILAN](https://open.spotify.com/album/2y6FwrOK0kzJmSJCcyf6ud) | 2:21 |
-| 41 | [Wir sind echt](https://open.spotify.com/track/1wBtQwr4yrYtjfSfAlXxNr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Wir sind echt](https://open.spotify.com/album/27xDRNsdenJ6Ia7lfI6MQV) | 1:52 |
+| 41 | [Beating](https://open.spotify.com/track/36ygoVLO0jDpWuH1RiNXw3) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Beating](https://open.spotify.com/album/6jIUrI7iDm03VoCAusFqYD) | 2:48 |
 | 42 | [Toxic](https://open.spotify.com/track/3EYYbBB5CLsKKRqpXX89zI) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Lavender](https://open.spotify.com/album/2RL1a7v0ArbtsKRdwnrwKX) | 3:38 |
 | 43 | [Happier](https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Happier](https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul) | 2:58 |
 | 44 | [Silver Lining](https://open.spotify.com/track/1rpLuCma6rZ1zyBqhVwzLA) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Silver Lining](https://open.spotify.com/album/5cgdpIitZtQQkmJeteZpLD) | 3:22 |

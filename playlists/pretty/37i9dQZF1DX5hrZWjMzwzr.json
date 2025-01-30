@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 9983,
+  "num_followers": 9981,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -647,30 +647,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "TRZEBA MIE\u0106",
-        "url": "https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2"
-      },
-      "artists": [
-        {
-          "name": "Young Igi",
-          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
-        },
-        {
-          "name": "Sergiusz",
-          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
-        },
-        {
-          "name": "2K",
-          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "TRZEBA MIE\u0106",
-      "url": "https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Kr\u00f3l jest nagi",
         "url": "https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 184733,
       "name": "Kr\u00f3l jest nagi",
       "url": "https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "TRZEBA MIE\u0106",
+        "url": "https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2"
+      },
+      "artists": [
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Sergiusz",
+          "url": "https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "TRZEBA MIE\u0106",
+      "url": "https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Czarne czy Czerwone",
-        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
-      },
-      "artists": [
-        {
-          "name": "VHS",
-          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
-        },
-        {
-          "name": "E V",
-          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Czarne czy Czerwone",
-      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "K\u0141AMCZUCH",
         "url": "https://open.spotify.com/album/6pjGoaCAWx7ruzcmxCdRa7"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 161142,
       "name": "K\u0142amczuch",
       "url": "https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Czarne czy Czerwone",
+        "url": "https://open.spotify.com/album/0FKv1ADVk4Ny68dnk8CweL"
+      },
+      "artists": [
+        {
+          "name": "VHS",
+          "url": "https://open.spotify.com/artist/7ho5bL4sZl37F4xc9lr36q"
+        },
+        {
+          "name": "E V",
+          "url": "https://open.spotify.com/artist/5siFxISlT9JdSaadvmFoBX"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Czarne czy Czerwone",
+      "url": "https://open.spotify.com/track/7x5xSPtTM2bbbdL6OFfDoU"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1351,30 +1351,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Inny \u015awiat",
-        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
-      },
-      "artists": [
-        {
-          "name": "Dobry Dzieciak",
-          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Wowo",
-          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
-        }
-      ],
-      "duration_ms": 145401,
-      "name": "Inny \u015awiat",
-      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Produkt Lokalny",
         "url": "https://open.spotify.com/album/5ynXthZb37gxNW3Yoaxzi4"
       },
@@ -1395,6 +1371,30 @@
       "duration_ms": 199354,
       "name": "Baldwin",
       "url": "https://open.spotify.com/track/6TRgxHQznLxerEWjjWHcIA"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Inny \u015awiat",
+        "url": "https://open.spotify.com/album/3NAOi7pSOXdX6mGS0GptTt"
+      },
+      "artists": [
+        {
+          "name": "Dobry Dzieciak",
+          "url": "https://open.spotify.com/artist/0WKYgJo3VGbcb70N1OHjcH"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Wowo",
+          "url": "https://open.spotify.com/artist/1EBJRC9rAAPpR2Ru3O6OY0"
+        }
+      ],
+      "duration_ms": 145401,
+      "name": "Inny \u015awiat",
+      "url": "https://open.spotify.com/track/3f0nuItdnejs29CxqAABFG"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "NIE WYG\u0141UPIAJ SI\u0118",
-        "url": "https://open.spotify.com/album/6Q28puuldqm6UnFDjckA7u"
-      },
-      "artists": [
-        {
-          "name": "Odys",
-          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
-        },
-        {
-          "name": "Mi\u0142y ATZ",
-          "url": "https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE"
-        }
-      ],
-      "duration_ms": 191842,
-      "name": "NIE WYG\u0141UPIAJ SI\u0118",
-      "url": "https://open.spotify.com/track/1xRnMNPXGVMmvUr8flF7LC"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Skills (IDA 2023 Promo)",
         "url": "https://open.spotify.com/album/2BV8Yg585t3qJYNIjgKnzE"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 203996,
       "name": "Skills (IDA 2023 Promo)",
       "url": "https://open.spotify.com/track/0RNb80kBSHMR8EE9srMLsi"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "NIE WYG\u0141UPIAJ SI\u0118",
+        "url": "https://open.spotify.com/album/6Q28puuldqm6UnFDjckA7u"
+      },
+      "artists": [
+        {
+          "name": "Odys",
+          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
+        },
+        {
+          "name": "Mi\u0142y ATZ",
+          "url": "https://open.spotify.com/artist/1PKW5LFWjU0jJGK2dYS1IE"
+        }
+      ],
+      "duration_ms": 191842,
+      "name": "NIE WYG\u0141UPIAJ SI\u0118",
+      "url": "https://open.spotify.com/track/1xRnMNPXGVMmvUr8flF7LC"
     },
     {
       "added_at": "2024-02-27 08:21:33",

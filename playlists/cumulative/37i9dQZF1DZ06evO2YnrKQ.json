@@ -852,6 +852,24 @@
     {
       "album": {
         "name": "Crisis",
+        "url": "https://open.spotify.com/album/1707YW8weHIje0KhkNogkg"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243466,
+      "name": "This Could Be Anywhere in the World",
+      "url": "https://open.spotify.com/track/0RuPijfryvqJXWsI7X66Mk"
+    },
+    {
+      "album": {
+        "name": "Crisis",
         "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
       },
       "artists": [
@@ -862,7 +880,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 243853,
       "name": "This Could Be Anywhere in the World",
       "url": "https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv"
@@ -898,10 +916,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 196293,
       "name": "To a Friend",
       "url": "https://open.spotify.com/track/2m56Yr1W7LKKHGVTqGT9SY"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/1707YW8weHIje0KhkNogkg"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196293,
+      "name": "To a Friend",
+      "url": "https://open.spotify.com/track/5I3zGzt9AKeNLBgjw25kDL"
     },
     {
       "album": {

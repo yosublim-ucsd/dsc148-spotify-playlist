@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Olamide",
-  "num_followers": 58911,
+  "num_followers": 58959,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-01-24 04:25:33",
       "album": {
+        "name": "Afro Jersey",
+        "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
+      },
+      "artists": [
+        {
+          "name": "Nizzy",
+          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
+    },
+    {
+      "added_at": "2025-01-24 04:25:33",
+      "album": {
         "name": "Drip (Remix)",
         "url": "https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 140176,
       "name": "Drip - Remix",
       "url": "https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP"
-    },
-    {
-      "added_at": "2025-01-24 04:25:33",
-      "album": {
-        "name": "Afro Jersey",
-        "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
-      },
-      "artists": [
-        {
-          "name": "Nizzy",
-          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
     }
   ],
   "unique_name": "Naija Bars ",

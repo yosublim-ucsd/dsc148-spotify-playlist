@@ -1799,6 +1799,24 @@
     },
     {
       "album": {
+        "name": "Inkola",
+        "url": "https://open.spotify.com/album/67SfotzEC6YyLiiLcfdkF4"
+      },
+      "artists": [
+        {
+          "name": "DaKrish",
+          "url": "https://open.spotify.com/artist/3loSOILEnkRrBpuwUnjxaD"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145632,
+      "name": "Inkola",
+      "url": "https://open.spotify.com/track/1koGGNOAWSLg6qh2kxS6UX"
+    },
+    {
+      "album": {
         "name": "Innallu",
         "url": "https://open.spotify.com/album/6QsGIqhILxrugCXeoz34Ew"
       },
@@ -3470,7 +3488,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 202767,
       "name": "Nanna",
       "url": "https://open.spotify.com/track/7kXi71MJ5Xja1zlIN5PzhZ"
@@ -4300,6 +4318,24 @@
       "duration_ms": 193782,
       "name": "Oh Chitti",
       "url": "https://open.spotify.com/track/4CHbfbxAvRSowI8Xy0zraI"
+    },
+    {
+      "album": {
+        "name": "Oh Sakhi",
+        "url": "https://open.spotify.com/album/7N3CCQY0tsJH7GPU4e3o5K"
+      },
+      "artists": [
+        {
+          "name": "The Fantasia Men",
+          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220909,
+      "name": "Oh Sakhi",
+      "url": "https://open.spotify.com/track/4zBxM2CjIj8TjrLB9jySZe"
     },
     {
       "album": {
@@ -5462,7 +5498,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 169565,
       "name": "Ready Go",
       "url": "https://open.spotify.com/track/5QmSQ0e0BdUquiGNYqDzg7"
@@ -5608,6 +5644,24 @@
       "duration_ms": 221081,
       "name": "Satyabhama",
       "url": "https://open.spotify.com/track/5gZh6GzAsZI7wUcwcyUihL"
+    },
+    {
+      "album": {
+        "name": "Seethakaalam Vennellona",
+        "url": "https://open.spotify.com/album/47WUi5iPAs56MXvn1InHqa"
+      },
+      "artists": [
+        {
+          "name": "Syel",
+          "url": "https://open.spotify.com/artist/35HkhHMeEarempEwDAPQgT"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Seethakaalam Vennellona",
+      "url": "https://open.spotify.com/track/4MdCVBPBmBsc4sGXWbh0aj"
     },
     {
       "album": {

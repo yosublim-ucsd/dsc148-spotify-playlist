@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 128340,
+  "num_followers": 128336,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2025-01-23 23:00:22",
       "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
-    },
-    {
-      "added_at": "2025-01-23 23:00:22",
-      "album": {
         "name": "Bruja",
         "url": "https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 273663,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2"
+    },
+    {
+      "added_at": "2025-01-23 23:00:22",
+      "album": {
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-01-23 23:00:22",
       "album": {
+        "name": "poquito",
+        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "poquito",
+      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
+    },
+    {
+      "added_at": "2025-01-23 23:00:22",
+      "album": {
         "name": "Cucurucucu",
         "url": "https://open.spotify.com/album/6cibU0wskK88oBiqzJz1eY"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 249461,
       "name": "Cucurucucu",
       "url": "https://open.spotify.com/track/3PafX6AniGa2aBAt2Mc93c"
-    },
-    {
-      "added_at": "2025-01-23 23:00:22",
-      "album": {
-        "name": "poquito",
-        "url": "https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "poquito",
-      "url": "https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-01-23 23:00:22",
       "album": {
-        "name": "Pan de muertos",
-        "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
       },
       "artists": [
         {
-          "name": "Raquel L\u00faa",
-          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
         }
       ],
-      "duration_ms": 196670,
-      "name": "Pan de muertos",
-      "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
+      "duration_ms": 203851,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2025-01-23 23:00:22",
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
+        "name": "Pan de muertos",
+        "url": "https://open.spotify.com/album/0kOE1W2BZRQUtrJoQtw97D"
       },
       "artists": [
         {
-          "name": "el nido",
-          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
+          "name": "Raquel L\u00faa",
+          "url": "https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU"
         }
       ],
-      "duration_ms": 203851,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
+      "duration_ms": 196670,
+      "name": "Pan de muertos",
+      "url": "https://open.spotify.com/track/6Xc7zym6K0FHznwxqRXGTQ"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2025-01-23 23:00:22",
       "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+        "name": "\u00a1Desaparece!",
+        "url": "https://open.spotify.com/album/1AXXtUOauS7V45A2xFksu7"
       },
       "artists": [
         {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
         }
       ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+      "duration_ms": 225826,
+      "name": "\u00a1Desaparece!",
+      "url": "https://open.spotify.com/track/1NwIqopnNT8SGtNUMPs5f1"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2025-01-23 23:00:22",
       "album": {
-        "name": "\u00a1Desaparece!",
-        "url": "https://open.spotify.com/album/1AXXtUOauS7V45A2xFksu7"
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
       },
       "artists": [
         {
-          "name": "Pez Mago",
-          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
         }
       ],
-      "duration_ms": 225826,
-      "name": "\u00a1Desaparece!",
-      "url": "https://open.spotify.com/track/1NwIqopnNT8SGtNUMPs5f1"
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-01-23 23:00:22",
       "album": {
+        "name": "La Casa",
+        "url": "https://open.spotify.com/album/5xF60VSmSr6HBj8jlEa0CX"
+      },
+      "artists": [
+        {
+          "name": "Marazu",
+          "url": "https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42"
+        }
+      ],
+      "duration_ms": 371035,
+      "name": "La Casa",
+      "url": "https://open.spotify.com/track/2eLbWiJKOMTehziCTB2sJF"
+    },
+    {
+      "added_at": "2025-01-23 23:00:22",
+      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
-    },
-    {
-      "added_at": "2025-01-23 23:00:22",
-      "album": {
-        "name": "La Casa",
-        "url": "https://open.spotify.com/album/5xF60VSmSr6HBj8jlEa0CX"
-      },
-      "artists": [
-        {
-          "name": "Marazu",
-          "url": "https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42"
-        }
-      ],
-      "duration_ms": 371035,
-      "name": "La Casa",
-      "url": "https://open.spotify.com/track/2eLbWiJKOMTehziCTB2sJF"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-01-23 23:00:22",
       "album": {
+        "name": "Por Qu\u00e9?",
+        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
+      },
+      "artists": [
+        {
+          "name": "Mari Segura",
+          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
+        }
+      ],
+      "duration_ms": 220569,
+      "name": "Por Qu\u00e9?",
+      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
+    },
+    {
+      "added_at": "2025-01-23 23:00:22",
+      "album": {
         "name": "El Estallido",
         "url": "https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 225000,
       "name": "El Estallido",
       "url": "https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB"
-    },
-    {
-      "added_at": "2025-01-23 23:00:22",
-      "album": {
-        "name": "Por Qu\u00e9?",
-        "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
-      },
-      "artists": [
-        {
-          "name": "Mari Segura",
-          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
-        }
-      ],
-      "duration_ms": 220569,
-      "name": "Por Qu\u00e9?",
-      "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -1795,6 +1795,22 @@
       "duration_ms": 186789,
       "name": "Naranjas Al Mar",
       "url": "https://open.spotify.com/track/4re9kjh3ljSQEY2MKBTr1Y"
+    },
+    {
+      "added_at": "2025-01-23 23:00:22",
+      "album": {
+        "name": "Dime que no",
+        "url": "https://open.spotify.com/album/5TfdtFxdpyvboStwCAGJGP"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Yfeu",
+          "url": "https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B"
+        }
+      ],
+      "duration_ms": 222740,
+      "name": "Dime que no",
+      "url": "https://open.spotify.com/track/683QA1npfGquujYETm5ZSF"
     },
     {
       "added_at": "2025-01-23 23:00:22",
@@ -1855,22 +1871,6 @@
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
-    },
-    {
-      "added_at": "2025-01-23 23:00:22",
-      "album": {
-        "name": "Qu\u00e9 Bonito Es Tu Mirar",
-        "url": "https://open.spotify.com/album/7b01cMsnic5QsuDVSuwN4E"
-      },
-      "artists": [
-        {
-          "name": "Manuel Villaescusa",
-          "url": "https://open.spotify.com/artist/6nmnwrJlB3ODf44KSORUyA"
-        }
-      ],
-      "duration_ms": 285581,
-      "name": "Qu\u00e9 Bonito Es Tu Mirar",
-      "url": "https://open.spotify.com/track/78KNojt04z4EYY9n41bWyf"
     }
   ],
   "unique_name": "Cancionistas",

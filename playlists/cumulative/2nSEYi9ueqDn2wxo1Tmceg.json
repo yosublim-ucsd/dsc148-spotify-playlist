@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "A Tune for Us",
+        "url": "https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353212,
+      "name": "A Tune for Us",
+      "url": "https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36"
+    },
+    {
+      "album": {
         "name": "Abandon All Hope",
         "url": "https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l"
       },
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 256120,
       "name": "Cat Burglar",
       "url": "https://open.spotify.com/track/6tN06h74fSHXd23yAjSXvC"
@@ -5050,7 +5068,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 171564,
       "name": "Didn't Need U Anyway",
       "url": "https://open.spotify.com/track/1Szztl5VDUpqrmeB1JqDmf"
@@ -5362,7 +5380,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 298717,
       "name": "Down Where The Valleys Are Low",
       "url": "https://open.spotify.com/track/5ptNyr1c4SH4wIEDk7kOR3"
@@ -5612,6 +5630,24 @@
       "duration_ms": 158400,
       "name": "early bird",
       "url": "https://open.spotify.com/track/46lXSFWwdWj7QeQXFu9ieg"
+    },
+    {
+      "album": {
+        "name": "Earthstar",
+        "url": "https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38"
     },
     {
       "album": {
@@ -10077,6 +10113,28 @@
     },
     {
       "album": {
+        "name": "In Love With A Memory",
+        "url": "https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "In Love With A Memory",
+      "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
+    },
+    {
+      "album": {
         "name": "The Upper Cuts Singles (2023 Edition)",
         "url": "https://open.spotify.com/album/2lQT8nDATqsQB1I6auRK1D"
       },
@@ -11080,7 +11138,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 217392,
       "name": "Just Be Friends",
       "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
@@ -12668,6 +12726,24 @@
       "duration_ms": 166866,
       "name": "MBGATE - Kero Kero Bonito Remix",
       "url": "https://open.spotify.com/track/3h2e8PoBKVQKjswwQnCgsY"
+    },
+    {
+      "album": {
+        "name": "Giant Seagull Boogie and Associated Movements for the Modern Condition",
+        "url": "https://open.spotify.com/album/39Bpv8ceAEumfUU16FzwU6"
+      },
+      "artists": [
+        {
+          "name": "The Fillmores",
+          "url": "https://open.spotify.com/artist/6QlTx0wu9ZxeGl9MiuKTrz"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "me and my colony (giant seagull boogie)",
+      "url": "https://open.spotify.com/track/40dEIoIQbwDIO47NQ2Ex2r"
     },
     {
       "album": {
@@ -14508,6 +14584,24 @@
       "duration_ms": 340248,
       "name": "Oh France",
       "url": "https://open.spotify.com/track/4EwVCBiXHzunO6vZrM7xEX"
+    },
+    {
+      "album": {
+        "name": "Oh My Actual Days",
+        "url": "https://open.spotify.com/album/3kpJEJjX2aTMIcWvelLM38"
+      },
+      "artists": [
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227988,
+      "name": "Oh My Actual Days",
+      "url": "https://open.spotify.com/track/7dAmlZ3JJrNvrie5NUzHIB"
     },
     {
       "album": {
@@ -21063,6 +21157,24 @@
     },
     {
       "album": {
+        "name": "Turned to Dust (Rolling On)",
+        "url": "https://open.spotify.com/album/5k9ZxbIpxfOlYyBUIXOfxP"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Prince Billy",
+          "url": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244160,
+      "name": "Turned to Dust (Rolling On)",
+      "url": "https://open.spotify.com/track/7hs1pgvxIuah5rRoagj8R5"
+    },
+    {
+      "album": {
         "name": "TV Star",
         "url": "https://open.spotify.com/album/3DyuJj8DDnbl0tLSe3N4ga"
       },
@@ -21398,7 +21510,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 195802,
       "name": "UPWARDS",
       "url": "https://open.spotify.com/track/43jg7CNRhPRHYgpXTowd3O"
@@ -21626,7 +21738,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 446294,
       "name": "Visions Of Pain - Tim Goldsworthy Remix",
       "url": "https://open.spotify.com/track/0vE2ANol5kgvLeGgy2rF9v"

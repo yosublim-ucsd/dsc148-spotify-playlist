@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 149933,
       "name": "De Colores",
       "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
@@ -1498,6 +1498,24 @@
       "duration_ms": 119360,
       "name": "Rake And Rambling Boy",
       "url": "https://open.spotify.com/track/2VyKXzrtialaXBc4uIA58Z"
+    },
+    {
+      "album": {
+        "name": "The Newport Era",
+        "url": "https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124533,
+      "name": "Rambler Gambler - Live",
+      "url": "https://open.spotify.com/track/2wOcNJo1QtEF3KBpedoEPa"
     },
     {
       "album": {

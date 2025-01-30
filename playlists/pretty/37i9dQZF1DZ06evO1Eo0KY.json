@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAABUWtBzEOPNy58OvaWZPai0",
+  "snapshot_id": "Z5geAAAAAAA/KEj6t17IwE6l8/TmdKcB",
   "tracks": [
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rent Due",
-        "url": "https://open.spotify.com/album/2jk0gKFMogDfryo4vZ4J5H"
+        "name": "Body of Lies",
+        "url": "https://open.spotify.com/album/2ANiHGSVp9G7Z9t2PBKdvp"
       },
       "artists": [
         {
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Dark Lo",
-          "url": "https://open.spotify.com/artist/6Afg12eQ1Xu2O4ugWDhDcU"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         }
       ],
-      "duration_ms": 156981,
-      "name": "Rent Due",
-      "url": "https://open.spotify.com/track/1jUoM50qHfx2RnyaprnaIC"
+      "duration_ms": 179933,
+      "name": "Body of Lies",
+      "url": "https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body of Lies",
-        "url": "https://open.spotify.com/album/2ANiHGSVp9G7Z9t2PBKdvp"
+        "name": "Rent Due",
+        "url": "https://open.spotify.com/album/2jk0gKFMogDfryo4vZ4J5H"
       },
       "artists": [
         {
@@ -828,13 +828,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+          "name": "Dark Lo",
+          "url": "https://open.spotify.com/artist/6Afg12eQ1Xu2O4ugWDhDcU"
         }
       ],
-      "duration_ms": 179933,
-      "name": "Body of Lies",
-      "url": "https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR"
+      "duration_ms": 156981,
+      "name": "Rent Due",
+      "url": "https://open.spotify.com/track/1jUoM50qHfx2RnyaprnaIC"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Surf School",
+        "url": "https://open.spotify.com/album/6tt1KtheN86vec3CXvRZUz"
+      },
+      "artists": [
+        {
+          "name": "Trankil Trankil",
+          "url": "https://open.spotify.com/artist/4oOS6koasRcz1xoStp1tgq"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 222947,
+      "name": "Philosophe",
+      "url": "https://open.spotify.com/track/5zCHfnRrvOxttkKlJOLL3w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Directors Cut 4",
         "url": "https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 175402,
       "name": "War Dogs (feat. Che Noir)",
       "url": "https://open.spotify.com/track/15y2GUnXU0t4yGOe8yB7hP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Surf School",
-        "url": "https://open.spotify.com/album/6tt1KtheN86vec3CXvRZUz"
-      },
-      "artists": [
-        {
-          "name": "Trankil Trankil",
-          "url": "https://open.spotify.com/artist/4oOS6koasRcz1xoStp1tgq"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 222947,
-      "name": "Philosophe",
-      "url": "https://open.spotify.com/track/5zCHfnRrvOxttkKlJOLL3w"
     },
     {
       "added_at": null,

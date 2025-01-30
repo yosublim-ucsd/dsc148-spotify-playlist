@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,707 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,938 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 30 | [Movement, Before All Flowers \- Edit](https://open.spotify.com/track/0v9LuPahZH8PHN86gxRHTU) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Movement, Before All Flowers](https://open.spotify.com/album/1HrFsljwk4wUHrPPOGkSbN) | 3:39 |
 | 31 | [Vivaldi Variation \(Arr\. for Piano from Concerto for Strings in G Minor, RV 156 by F\. Christl\)](https://open.spotify.com/track/3Dgmyz32dxvtxvUTPS0CUI) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Vivaldi Variation \(Arr\. for Piano from Concerto for Strings in G Minor, RV 156 by F\. Christl\)](https://open.spotify.com/album/4oV1x8g9soPYY7dttgsang) | 1:52 |
 | 32 | [TAURUS “The Tenacious”](https://open.spotify.com/track/2NV9i08M1svidk4zvL9hz8) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [90°](https://open.spotify.com/album/5BdwWsSLn83jsvA001jhA9) | 3:38 |
-| 33 | [The Portrait](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 |
+| 33 | [The Portrait \(From "Titanic" Soundtrack\)](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 |
 | 34 | [Sparkler Dims](https://open.spotify.com/track/2W69qiB0iKaPrYmPeVpnB1) | [The Hillside Project](https://open.spotify.com/artist/0ZTS8jiPsoSf6JM6zjvUyL) | [Sparkler Dims](https://open.spotify.com/album/12pm6r8rj8Zwmz87YZeIV6) | 5:17 |
 | 35 | [Winter Light](https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Roberto Sorrentino](https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH) | [Gjeilo: Winter Light](https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR) | 2:50 |
 | 36 | [GoldBergHain \(Quodlibet on "Kraut und Rüben haben mich vertrieben"\) for Violin & String Orchestra](https://open.spotify.com/track/5bmp5QR3Dwb5r9kgEX8kF3) | [Stephan Koncz](https://open.spotify.com/artist/5bJ6Okk0z9ycR3goHVJ5e4), [Niklas Liepe](https://open.spotify.com/artist/6ukAV4us7nVNQ1MQvj4sut), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Jamie Phillips](https://open.spotify.com/artist/1pdrpZawhbNj2mhFfNLzWq) | [GoldBergHain \(Quodlibet on "Kraut und Rüben haben mich vertrieben"\) for Violin & String Orchestra](https://open.spotify.com/album/1QdcLEWjkLCvAdgxabQKLu) | 2:44 |

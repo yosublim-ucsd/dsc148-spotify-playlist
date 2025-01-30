@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1064802,
+  "num_followers": 1064788,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
+        "name": "Press Remix",
+        "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
       },
       "artists": [
         {
-          "name": "Nick Hexum",
-          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 202288,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
+      "duration_ms": 220841,
+      "name": "Press Remix",
+      "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1307,22 +1311,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Press Remix",
-        "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/5zKQRDvSP8oOvpw8fi6Bph"
       },
       "artists": [
         {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Nick Hexum",
+          "url": "https://open.spotify.com/artist/0lXQieFzHiPaeimBBGqAXY"
         }
       ],
-      "duration_ms": 220841,
-      "name": "Press Remix",
-      "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
+      "duration_ms": 202288,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1x9oZ6w67OMi1z6WoA6K2y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "All The Colors",
-        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 189094,
-      "name": "Free Your Mind (with Surfer Girl)",
-      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Batshit Crazy",
         "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 205142,
       "name": "Batshit Crazy",
       "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "All The Colors",
+        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 189094,
+      "name": "Free Your Mind (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1747,6 +1747,30 @@
       "duration_ms": 210573,
       "name": "IRL",
       "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Floating (with Iration & The Elovaters)",
+        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Floating (with Iration & The Elovaters)",
+      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1835,30 +1859,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Floating (with Iration & The Elovaters)",
-        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Floating (with Iration & The Elovaters)",
-      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Sunburn (with Tropidelic)",
         "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
       },
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Falling Down (with Nick Hexum of 311)",
+        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 199971,
+      "name": "Falling Down (with Nick Hexum of 311)",
+      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Tangerine Skies",
         "url": "https://open.spotify.com/album/6KuW6taPmYHqiunrzfTqtj"
       },
@@ -1963,26 +1983,6 @@
       "duration_ms": 235294,
       "name": "Some Say the Ocean - Reggae Remix",
       "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Falling Down (with Nick Hexum of 311)",
-        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 199971,
-      "name": "Falling Down (with Nick Hexum of 311)",
-      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "MEANT TO BE.",
+        "url": "https://open.spotify.com/album/1z1gZm1jnGL881Iyq3ZF3g"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "MEANT TO BE.",
+      "url": "https://open.spotify.com/track/6mwMUq6D3Tg7vEC4z6PFi7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "The Way I Feel",
         "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
       },
@@ -2103,62 +2123,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/0ZAXiTMvmH7UBB89A6bmQC"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 251160,
-      "name": "Thotful",
-      "url": "https://open.spotify.com/track/6zrf5IkFkMJnaDuLlWyTwR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "MEANT TO BE.",
-        "url": "https://open.spotify.com/album/1z1gZm1jnGL881Iyq3ZF3g"
-      },
-      "artists": [
-        {
-          "name": "aurorawave",
-          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
-        },
-        {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "MEANT TO BE.",
-      "url": "https://open.spotify.com/track/6mwMUq6D3Tg7vEC4z6PFi7"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Ancient Blood",
-        "url": "https://open.spotify.com/album/6AbCyd00axppv60k7IlfLr"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        },
-        {
-          "name": "Romain Virgo",
-          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
-        }
-      ],
-      "duration_ms": 283764,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/0bG01cwZDA3A5PKm2kaGwo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
         "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
       },
@@ -2187,6 +2151,42 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0ZAXiTMvmH7UBB89A6bmQC"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 251160,
+      "name": "Thotful",
+      "url": "https://open.spotify.com/track/6zrf5IkFkMJnaDuLlWyTwR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Ancient Blood",
+        "url": "https://open.spotify.com/album/6AbCyd00axppv60k7IlfLr"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        },
+        {
+          "name": "Romain Virgo",
+          "url": "https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg"
+        }
+      ],
+      "duration_ms": 283764,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/0bG01cwZDA3A5PKm2kaGwo"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Welcome to Florida",
         "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
       },
@@ -2199,6 +2199,26 @@
       "duration_ms": 170608,
       "name": "Stayed",
       "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "STRATOSPHERE.",
+        "url": "https://open.spotify.com/album/3ela2JUBEfNWqXt5ZCFG3P"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "STRATOSPHERE.",
+      "url": "https://open.spotify.com/track/24kCWaFNeIqDvFjIbqllJG"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2239,26 +2259,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "STRATOSPHERE.",
-        "url": "https://open.spotify.com/album/3ela2JUBEfNWqXt5ZCFG3P"
-      },
-      "artists": [
-        {
-          "name": "aurorawave",
-          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
-        },
-        {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "STRATOSPHERE.",
-      "url": "https://open.spotify.com/track/24kCWaFNeIqDvFjIbqllJG"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Way Too High for This",
         "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
       },
@@ -2271,22 +2271,6 @@
       "duration_ms": 227149,
       "name": "Way Too High for This",
       "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Never There",
-        "url": "https://open.spotify.com/album/4jLUI8wca9SKgdzR693lu6"
-      },
-      "artists": [
-        {
-          "name": "Unified Highway",
-          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
-        }
-      ],
-      "duration_ms": 174131,
-      "name": "Never There",
-      "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2327,6 +2311,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Never There",
+        "url": "https://open.spotify.com/album/4jLUI8wca9SKgdzR693lu6"
+      },
+      "artists": [
+        {
+          "name": "Unified Highway",
+          "url": "https://open.spotify.com/artist/2NHCOkNgLrsSSdKEZgcxvI"
+        }
+      ],
+      "duration_ms": 174131,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Slice of Sunshine (with Claire Wright)",
         "url": "https://open.spotify.com/album/1fdvXVdFYKQcrbczODniXR"
       },
@@ -2363,6 +2363,22 @@
       "duration_ms": 195746,
       "name": "In The LBC - Warren G Remix",
       "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Noon (Deluxe)",
+        "url": "https://open.spotify.com/album/1X38peQ9XkvThebEfH3hIe"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 182715,
+      "name": "Let It Slide",
+      "url": "https://open.spotify.com/track/4BrBGUYUQEByBOpvBfTwhD"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2439,58 +2455,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Lockdown (feat. Matisyahu)",
-        "url": "https://open.spotify.com/album/2NwQSN5aI6HKFcJqnHP68u"
-      },
-      "artists": [
-        {
-          "name": "Cydeways",
-          "url": "https://open.spotify.com/artist/398HIuiMcfxwWLwAUD5Z2G"
-        },
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        }
-      ],
-      "duration_ms": 216086,
-      "name": "Lockdown (feat. Matisyahu)",
-      "url": "https://open.spotify.com/track/1g8KwMEiDTnOUBSvNPIM3W"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Noon (Deluxe)",
-        "url": "https://open.spotify.com/album/1X38peQ9XkvThebEfH3hIe"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 182715,
-      "name": "Let It Slide",
-      "url": "https://open.spotify.com/track/4BrBGUYUQEByBOpvBfTwhD"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Wash Away",
-        "url": "https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr"
-      },
-      "artists": [
-        {
-          "name": "Iya Terra",
-          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Wash Away",
-      "url": "https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "At Peace (with Lutan Fyah)",
         "url": "https://open.spotify.com/album/1C6Gz2RHpDRYVMzk0yMGXD"
       },
@@ -2511,6 +2475,42 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Lockdown (feat. Matisyahu)",
+        "url": "https://open.spotify.com/album/2NwQSN5aI6HKFcJqnHP68u"
+      },
+      "artists": [
+        {
+          "name": "Cydeways",
+          "url": "https://open.spotify.com/artist/398HIuiMcfxwWLwAUD5Z2G"
+        },
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 216086,
+      "name": "Lockdown (feat. Matisyahu)",
+      "url": "https://open.spotify.com/track/1g8KwMEiDTnOUBSvNPIM3W"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/3RHj5lALLKsGYbaJzNKRVr"
+      },
+      "artists": [
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/4qs58GiVlQmPOOU9ICB0Re"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Lyrics Over Everything",
         "url": "https://open.spotify.com/album/7gM4CRNo8rsvePfPTzuCDd"
       },
@@ -2527,6 +2527,26 @@
       "duration_ms": 206277,
       "name": "Lyrics Over Everything",
       "url": "https://open.spotify.com/track/0bMyuvNOVCXvRA4ePDKgnR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Set In Stone (with Jared Watson of Dirty Heads)",
+        "url": "https://open.spotify.com/album/70oH7Gb83EbhoXycxZTcZy"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        },
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 192224,
+      "name": "Set In Stone (with Jared Watson of Dirty Heads)",
+      "url": "https://open.spotify.com/track/3rB4xoMmxuNjaVfC9hU6La"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2595,42 +2615,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Set In Stone (with Jared Watson of Dirty Heads)",
-        "url": "https://open.spotify.com/album/70oH7Gb83EbhoXycxZTcZy"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        },
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 192224,
-      "name": "Set In Stone (with Jared Watson of Dirty Heads)",
-      "url": "https://open.spotify.com/track/3rB4xoMmxuNjaVfC9hU6La"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Not The End",
-        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
-      },
-      "artists": [
-        {
-          "name": "4th & Orange",
-          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Not The End",
-      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Get Me Ready",
         "url": "https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB"
       },
@@ -2663,6 +2647,22 @@
       "duration_ms": 237224,
       "name": "We All Walk Our Own Roads (with Trevor Hall)",
       "url": "https://open.spotify.com/track/4EY01dZOKdAx1vTp0Md4xc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Not The End",
+        "url": "https://open.spotify.com/album/6QgzRDqpIays9JGCzv3HdR"
+      },
+      "artists": [
+        {
+          "name": "4th & Orange",
+          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Not The End",
+      "url": "https://open.spotify.com/track/4ixFMrVEG00LY963KBkIXE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Baja Bound",
-        "url": "https://open.spotify.com/album/219MsxtWcy8vEHEtPqjP7U"
-      },
-      "artists": [
-        {
-          "name": "Tunnel Vision",
-          "url": "https://open.spotify.com/artist/0Z6rANCyytkbva6RdOpYbv"
-        }
-      ],
-      "duration_ms": 234498,
-      "name": "Baja Bound",
-      "url": "https://open.spotify.com/track/7ozIQfNcPQfVTp26GUMl4x"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Crazy Little Village",
         "url": "https://open.spotify.com/album/2E2ualHb7RU1j7aLqTQTA5"
       },
@@ -2751,6 +2735,22 @@
       "duration_ms": 185013,
       "name": "Got It All",
       "url": "https://open.spotify.com/track/6HQ5jwetbgbN7MMf7Hog0C"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Wasted Summer",
+        "url": "https://open.spotify.com/album/5Lm5aKklugJnEiweimWZWq"
+      },
+      "artists": [
+        {
+          "name": "Cydeways",
+          "url": "https://open.spotify.com/artist/398HIuiMcfxwWLwAUD5Z2G"
+        }
+      ],
+      "duration_ms": 162301,
+      "name": "Wasted Summer",
+      "url": "https://open.spotify.com/track/1waR2OGINwOJpNRZyj5WhY"
     }
   ],
   "unique_name": "Beach Vibes",

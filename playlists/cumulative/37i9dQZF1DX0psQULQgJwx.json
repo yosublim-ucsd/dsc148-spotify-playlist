@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Relaxing sounds for a Spa Lounge",
+  "description": "Relaxing sounds for a pampering spa experience",
   "name": "Spa Lounge",
   "tracks": [
     {
@@ -712,6 +712,24 @@
       "duration_ms": 219555,
       "name": "Chuska",
       "url": "https://open.spotify.com/track/6rvltM3hjcZ9JPlNsZ0v6D"
+    },
+    {
+      "album": {
+        "name": "Clear Visions",
+        "url": "https://open.spotify.com/album/3zWXjsYTiEEjUD4yI0wDEN"
+      },
+      "artists": [
+        {
+          "name": "Stellar Luminous",
+          "url": "https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169636,
+      "name": "Clear Visions",
+      "url": "https://open.spotify.com/track/3NQL4ug9m4abWNLg627fRS"
     },
     {
       "album": {
@@ -3649,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "Starfade",
+        "url": "https://open.spotify.com/album/7C0oG2QoF1rRuQm66ChVBy"
+      },
+      "artists": [
+        {
+          "name": "Novah Scotia",
+          "url": "https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161911,
+      "name": "Starfade",
+      "url": "https://open.spotify.com/track/0GhOInKD9F6b1nypetsuJC"
+    },
+    {
+      "album": {
         "name": "State Of Flow",
         "url": "https://open.spotify.com/album/6sbnUkT9PRIpG6eCtId27o"
       },
@@ -3808,6 +3844,24 @@
       "duration_ms": 166250,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/3H3frbeKjqFy9iFynurdjf"
+    },
+    {
+      "album": {
+        "name": "Tenderly",
+        "url": "https://open.spotify.com/album/5bPLXPfFiiY6aldG8WYBh8"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6MkrLAuV3ZqyAit6eeBgqA"
     },
     {
       "album": {

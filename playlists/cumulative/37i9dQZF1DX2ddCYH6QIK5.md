@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Ceren, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Luciero, Artwork: Isu Kim
 
-1,296 songs - 3 day 1 hr 48 min
+1,299 songs - 3 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [All The Voices](https://open.spotify.com/track/2r2Tnqvp9ByZNTqKm38jnY) | [Feyva](https://open.spotify.com/artist/7GLq2u4tmRyLSW0k66J17w) | [All The Voices](https://open.spotify.com/album/2jTOYlD1DT1hqY68kgOFjn) | 3:12 | 2023-06-21 | 2023-08-03 |
 | [Alle wollen Liebe](https://open.spotify.com/track/0GjDl76nzwVMxbCgsI52Ib) | [Felipe Inkasso](https://open.spotify.com/artist/6l1S4r5sariEYAr3JhRCz2) | [Alle wollen Liebe](https://open.spotify.com/album/35n5iEwuJWRh39boRfR7M5) | 3:47 | 2023-07-05 | 2023-07-20 |
 | [Allein](https://open.spotify.com/track/0sfk1DGYZeiHLrX7FTfBPM) | [Lyanna](https://open.spotify.com/artist/6lVzVTChXepgGYxjBL8KJO) | [Allein](https://open.spotify.com/album/7irQ3tx5nLLgop1axH318J) | 3:13 | 2023-11-08 | 2023-11-16 |
-| [allein sein](https://open.spotify.com/track/2Oux8SVZ6FgnvGQei22kfG) | [emma](https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw) | [allein sein](https://open.spotify.com/album/7fs2JvwlQdq8YTWwDi4ggK) | 2:09 | 2024-11-20 |  |
+| [allein sein](https://open.spotify.com/track/2Oux8SVZ6FgnvGQei22kfG) | [emma](https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw) | [allein sein](https://open.spotify.com/album/7fs2JvwlQdq8YTWwDi4ggK) | 2:09 | 2024-11-20 | 2025-01-30 |
 | [Alleine](https://open.spotify.com/track/1VbJLOxH0UPD6ZsHJl26Xo) | [LEOPARD](https://open.spotify.com/artist/7M4Tf4ghYMVuOe2n14oOBP) | [Alleine](https://open.spotify.com/album/47DFH6ziUzkoecygQlAlYp) | 2:56 | 2023-08-09 | 2023-08-24 |
 | [Alles ist vergänglich](https://open.spotify.com/track/7HlnQDVX07Gv4rQr1ExdMx) | [Noth](https://open.spotify.com/artist/0ZsVMqHyPgpAbpfSMnbcAC) | [Alles ist vergänglich](https://open.spotify.com/album/6FXGMQ4cUPILGIlbN2gOfc) | 3:41 | 2023-07-12 | 2023-08-31 |
 | [Alles Scheisse](https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Alles Scheisse](https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J) | 2:57 | 2022-07-27 | 2023-01-05 |
@@ -118,6 +118,7 @@
 | [Begs me to dance](https://open.spotify.com/track/2wNxeAqaQdkLCmumgQ4enA) | [Agatha is Dead!](https://open.spotify.com/artist/3t12sehooJP6lkLBy4h9R1) | [Begs me to dance](https://open.spotify.com/album/4sYgiMKZ3ndk027S540GLC) | 2:31 | 2022-05-04 | 2022-05-19 |
 | [Beifahrersitz](https://open.spotify.com/track/7rs0VE9FDv69ooyms0oMMI) | [Holli](https://open.spotify.com/artist/0mWMTIEvUdaNLWqfXg4Q7E) | [Beifahrersitz](https://open.spotify.com/album/5P3FIlvGp6SwBVjgI0C5wc) | 5:13 | 2023-04-05 | 2023-06-01 |
 | [Believer](https://open.spotify.com/track/1nmsQfX5xgz6LRr054LCKJ) | [Kliffs](https://open.spotify.com/artist/3SUCYwCglnvQ1kTaYb3vMS) | [Believer](https://open.spotify.com/album/4fxXduBgKbNpiOjq2DSZVT) | 2:55 | 2022-09-28 | 2023-01-26 |
+| [besser wenn du gehst](https://open.spotify.com/track/2qCWjtUGmxaJ78mvf2mUlp) | [Luciero](https://open.spotify.com/artist/2z9Hp9J66hI99455C79RLz) | [besser wenn du gehst](https://open.spotify.com/album/6Pjr3L03yq46nmxUZrLdNJ) | 3:16 | 2025-01-29 |  |
 | [Best Friend](https://open.spotify.com/track/4T0pOKQQALRNnoitN7offQ) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Best Friend](https://open.spotify.com/album/7mTBGOVnDRaC3yl0ih3CHg) | 2:08 | 2022-11-16 | 2024-01-04 |
 | [Betrüger](https://open.spotify.com/track/1Hdz3hMNCcHG5tkFXkqDJV) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Betrüger](https://open.spotify.com/album/7JT9IMasoenURcernB0wsn) | 2:33 | 2023-02-22 | 2024-01-04 |
 | [Better Run](https://open.spotify.com/track/4CMPbBvwlZea2Sb0mON8b7) | [Steaming Animals](https://open.spotify.com/artist/5Qt8nKjvYNwtmLRSGntJTr) | [Better Run](https://open.spotify.com/album/145RdtMjfTmHaQM7zHskvt) | 2:44 | 2024-07-16 | 2024-11-14 |
@@ -576,6 +577,7 @@
 | [I will not end up like this](https://open.spotify.com/track/3iGO0YuF9Kf9IcxPYg31VI) | [APE DOS MIL](https://open.spotify.com/artist/0JmUfMU2PGT0wbmbcMMPMT) | [I will not end up like this](https://open.spotify.com/album/13eNC0IlDaNhc64oqQnFvC) | 3:52 | 2022-09-28 | 2023-02-02 |
 | [I'll Let You Down](https://open.spotify.com/track/6QNlQWUHBVHwreWWQ3KxiR) | [Joy Forever](https://open.spotify.com/artist/2r6BBtH5ZasXpmtyGYcg2D) | [All You Need Is Joy](https://open.spotify.com/album/7oRDuoFu36ZAl4LN1z4Uza) | 4:31 | 2024-10-16 | 2024-11-14 |
 | [I'm A Fool](https://open.spotify.com/track/5MIxLEibEixrLZie7I040R) | [PILEA](https://open.spotify.com/artist/0yH0gfszCp7pM0DgGlKvg0) | [I'm A Fool](https://open.spotify.com/album/2A3z69sj0ogwwy7z9ZZuxB) | 4:03 | 2022-03-16 | 2022-06-23 |
+| [I'm Alright](https://open.spotify.com/track/3xDaO8Cf2nIeC0qA1KaTQ8) | [Carl Fungus](https://open.spotify.com/artist/3NJG2rYotzOnxdIlD8UdWC) | [I'm Alright](https://open.spotify.com/album/7hv8oj5FzS3tHFeIvjjNSQ) | 3:31 | 2025-01-29 |  |
 | [ICH BIN MEHR](https://open.spotify.com/track/0YS0OKO57tCeF4ozTpoHZ5) | [NAEON](https://open.spotify.com/artist/4QnLc5PK7vhBN0Zu6uGA0h) | [ICH BIN MEHR](https://open.spotify.com/album/1E2tSMQNHGAPmVFMTmsBYU) | 2:33 | 2022-03-16 | 2022-04-07 |
 | [Ich brauche Zeit](https://open.spotify.com/track/1Pk5gcTpJ31lA3Y5zy4Gq7) | [Die Partie](https://open.spotify.com/artist/4t9JuxQWRP7ZUGlMzIl1KH) | [Ich brauche Zeit](https://open.spotify.com/album/5dwxmklrwzAsvhOwSHY872) | 3:16 | 2023-03-22 | 2023-05-04 |
 | [Ich dachte](https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox) | [Yisit](https://open.spotify.com/artist/2W2EfbWfhP8dccKjyEc7f4) | [Ich dachte](https://open.spotify.com/album/09ZAymOOe0iSxIvzefHlRC) | 2:14 | 2024-10-23 |  |
@@ -694,6 +696,7 @@
 | [life is good \- edit](https://open.spotify.com/track/0X3qqqrbSVnkZJkfHozQQJ) | [RAFFL](https://open.spotify.com/artist/7aTha9gJAg4C4OZV24F3IF) | [life is good \(edit\)](https://open.spotify.com/album/5QCBPqx56QmCnJNCaJc7gl) | 3:44 | 2024-07-31 |  |
 | [lights on](https://open.spotify.com/track/1n3RYcH8gK88jRYSFhQqzP) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [lights on](https://open.spotify.com/album/6KfvkXIlE3bdcbD2slpZVM) | 2:45 | 2023-09-20 | 2023-10-12 |
 | [Like That](https://open.spotify.com/track/30903SVcxddVIQG89To0nj) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL) | [Like That](https://open.spotify.com/album/0guMKCbLyA3PYQylf1xt16) | 2:17 | 2022-10-26 | 2022-11-24 |
+| [Lipstick](https://open.spotify.com/track/6K1CKsjd3dmE7iZq2bTkse) | [Palacity](https://open.spotify.com/artist/7m6O3pKbxei8YtnYnEVmYP) | [Lipstick](https://open.spotify.com/album/0eTupJzHAy01CpbEnHnNlQ) | 3:33 | 2025-01-29 |  |
 | [Little Mug](https://open.spotify.com/track/5olVPGwH0AiHkXLMeR5S9o) | [Crow Baby](https://open.spotify.com/artist/7cBPTTqPfTOtwNwXJ2YFK1) | [Little Mug](https://open.spotify.com/album/39nkA7A6jaWkJ9y5PHfUtb) | 3:46 | 2023-08-30 | 2023-11-09 |
 | [Lonely Freaks](https://open.spotify.com/track/7txNpEyDrGtHE8f3kcPocs) | [Julie Kuhl](https://open.spotify.com/artist/1JYbVE0e5PZAna9Wf6pp4X) | [Lonely Freaks](https://open.spotify.com/album/6wXVwlibGV8nsKLmBZLCme) | 4:00 | 2022-11-23 | 2023-05-24 |
 | [Lonely Garden](https://open.spotify.com/track/0IJpqvv7ItoJynsR7lcnxp) | [Wezn](https://open.spotify.com/artist/4m3BkdzgdpL8lkC5PfZdXf) | [Gonna Be Fine](https://open.spotify.com/album/40p8TMPlfO20tifVhpLWZt) | 4:14 | 2022-01-05 | 2022-01-27 |
@@ -978,7 +981,7 @@
 | [Schau dass du nicht fällst](https://open.spotify.com/track/4RyrYqIQ7LRvmETpr8gzx0) | [kevin](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz) | [Schau dass du nicht fällst](https://open.spotify.com/album/3oBzWtO3UstxGXzKbgxaLM) | 2:24 | 2022-01-05 | 2022-03-03 |
 | [Scheintod](https://open.spotify.com/track/6zkhCistbOCz6bk98DBvSV) | [Charlotte Riess](https://open.spotify.com/artist/5LiDf5yCb1cRzJOrFwekIW) | [Scheintod](https://open.spotify.com/album/1JzXG6w2OEj0mMYA21iceO) | 2:09 | 2024-10-16 | 2024-11-28 |
 | [Schicksal](https://open.spotify.com/track/6AqdyKZz1rYkWKHN3vZ9do) | [Florin](https://open.spotify.com/artist/1UE7cPF2mLRuQmxLwJaOnO) | [Schicksal](https://open.spotify.com/album/1QT4vnHJCIg3yTmEs6aguw) | 3:30 | 2023-11-08 | 2024-02-08 |
-| [Schmetterlinge](https://open.spotify.com/track/1JRtXd8WREehanndaJOuEM) | [Clara Lou](https://open.spotify.com/artist/7aC89IptWSdgo4pP1Vih7P) | [Schmetterlinge](https://open.spotify.com/album/5MsGpt9iCXIZQ5pffbwm7T) | 2:10 | 2024-11-20 |  |
+| [Schmetterlinge](https://open.spotify.com/track/1JRtXd8WREehanndaJOuEM) | [Clara Lou](https://open.spotify.com/artist/7aC89IptWSdgo4pP1Vih7P) | [Schmetterlinge](https://open.spotify.com/album/5MsGpt9iCXIZQ5pffbwm7T) | 2:10 | 2024-11-20 | 2025-01-30 |
 | [SCHOCK OMG](https://open.spotify.com/track/1licUeSEkOe6FWDAGBZZmr) | [DWAN](https://open.spotify.com/artist/6slA8vKQfDxpmS2DRYhUcI) | [SCHOCK OMG](https://open.spotify.com/album/1KhZiEyCdLwslNj8puOwJ1) | 2:20 | 2024-05-29 | 2024-07-04 |
 | [schwarze tinte](https://open.spotify.com/track/4IKf2OrL9xVm0Bg5FuOmC7) | [Larasüß](https://open.spotify.com/artist/2cWGRFVeeT6tNcB9FJlKak) | [schwarze tinte](https://open.spotify.com/album/1Rl1vH2nbUx0fZ5JGRsuvj) | 2:12 | 2023-01-04 | 2024-01-04 |
 | [Schwarzweiss](https://open.spotify.com/track/4mxUbUTBeL2zaZOb4A3DcS) | [mandarina](https://open.spotify.com/artist/5YtY8eUD4zLqecipRTr51j) | [Schwarzweiss](https://open.spotify.com/album/6ldcJPjIUazTfURZg651Dh) | 2:44 | 2023-09-20 | 2023-10-12 |
@@ -1072,7 +1075,7 @@
 | [Still Remain](https://open.spotify.com/track/5fgA1yQPLfMn7j1kxM8bLV) | [Soft Captain](https://open.spotify.com/artist/5uno0fXonvhSYMkE3OrIXa) | [Still Remain](https://open.spotify.com/album/7tAGMWaFWHV3csTmNRV9TV) | 3:33 | 2022-07-20 | 2022-09-29 |
 | [Still Waiting for My Name in the Credits](https://open.spotify.com/track/36gRRRjfREvf6ZLQE5pjex) | [Jenobi](https://open.spotify.com/artist/0UC1sYxlc37tOJ8pKo9P4i) | [Irregularity](https://open.spotify.com/album/41rb1SY7Fta8bnTEU0s539) | 3:14 | 2024-12-04 | 2025-01-10 |
 | [Still Waiting for My Name in the Credits](https://open.spotify.com/track/4NZb3JixjqNx1dg2JqioMO) | [Jenobi](https://open.spotify.com/artist/0UC1sYxlc37tOJ8pKo9P4i) | [Still Waiting for My Name in the Credits](https://open.spotify.com/album/70CLDBQb0Z4DnNePn9VQHM) | 3:14 | 2024-01-10 | 2024-07-17 |
-| [Still Warm](https://open.spotify.com/track/5LUuiDb5NzWNHvpgS7MtAw) | [Henry Lee](https://open.spotify.com/artist/4vi7y8PycG15offJwItMkk) | [Still Warm](https://open.spotify.com/album/0i33V7cbxHVVghHF1uyrpr) | 5:12 | 2024-11-13 |  |
+| [Still Warm](https://open.spotify.com/track/5LUuiDb5NzWNHvpgS7MtAw) | [Henry Lee](https://open.spotify.com/artist/4vi7y8PycG15offJwItMkk) | [Still Warm](https://open.spotify.com/album/0i33V7cbxHVVghHF1uyrpr) | 5:12 | 2024-11-13 | 2025-01-30 |
 | [Storyteller](https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Storyteller](https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY) | 7:05 | 2022-11-16 | 2023-06-08 |
 | [Stranger's Eyes](https://open.spotify.com/track/6ZIfLnMw9kOvFmMeN0SCSQ) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Stranger's Eyes](https://open.spotify.com/album/6lP9Myva58kIJfmlS2nW9O) | 6:32 | 2022-02-16 | 2022-04-07 |
 | [Strangers](https://open.spotify.com/track/6Bgh5QVuEsMALL3OnKSsyW) | [Julian Collet](https://open.spotify.com/artist/7cJOqT5WeCAwIbL8NKtWkC) | [Strangers](https://open.spotify.com/album/5jPm799SgWUrunldbRHV4d) | 4:15 | 2022-02-23 | 2022-03-03 |

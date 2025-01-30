@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-299 songs - 17 hr 10 min
+300 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Configuraciones Onduladas](https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh) | 2:10 | 2023-06-09 | 2024-04-19 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 2:10 | 2021-07-16 | 2023-10-14 |
 | [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 | 2024-07-09 |  |
-| [Conversation](https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1) | 3:49 | 2023-06-09 |  |
+| [Conversation](https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Conversation](https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1) | 3:49 | 2023-06-09 | 2025-01-30 |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
 | [Correcto](https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a) | [Jero Romero](https://open.spotify.com/artist/6TCN68dPlpAJMADKP3LmYh) | [Cabeza de león](https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J) | 2:34 | 2021-07-16 |  |
 | [Counting Stars](https://open.spotify.com/track/1rv56nMI7nSrcyqpQqgSQb) | [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Counting Stars](https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw) | 3:38 | 2021-07-16 |  |
@@ -186,7 +186,7 @@
 | [Never Leave You](https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO) | [Sterre Weldring](https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL) | [Never Leave You](https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN) | 3:27 | 2021-07-16 |  |
 | [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2021-07-16 |  |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2021-07-16 |  |
-| [No Regrets](https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [No Regrets](https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI) | 3:07 | 2021-07-16 |  |
+| [No Regrets](https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [No Regrets](https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI) | 3:07 | 2021-07-16 | 2025-01-30 |
 | [No Tears Left To Cry](https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [No Tears Left To Cry](https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y) | 3:58 | 2021-07-16 |  |
 | [Nothing Breaks Like a Heart](https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [Nothing Breaks Like a Heart](https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP) | 3:23 | 2021-07-16 |  |
 | [NY Man](https://open.spotify.com/track/3ZfJ3tNrqVY9CDLPgeow8T) | [A Girl Called Eddy](https://open.spotify.com/artist/4R024vmmAv1tyJGZPWkEDu) | [Been Around](https://open.spotify.com/album/6DwkzPEjQeTutwvtajX7mO) | 4:02 | 2021-07-16 | 2022-07-29 |
@@ -207,6 +207,7 @@
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/0lqq3RSTNMgRuupfrXcVj1) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/013FphjZqkqZzBaJNzb5yp) | 3:26 | 2021-07-16 | 2023-04-13 |
 | [Perfect \- Acoustic Guitar](https://open.spotify.com/track/4PiaKCDfrFPih8JJW0nyfP) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Perfect \(Acoustic Guitar\)](https://open.spotify.com/album/7uLOIGQT1VKBQPOaPtlt8a) | 3:26 | 2021-07-16 | 2024-04-19 |
 | [Physical \- Acoustic](https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Physical \(Acoustic\)](https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax) | 3:18 | 2021-07-16 |  |
+| [Pink Pony Club](https://open.spotify.com/track/0N1xQEwViOsv84qWBlTFqV) | [NiCKY](https://open.spotify.com/artist/5Eh8xW4ddb4IwGKlRfCBy4) | [Pink Pony Club](https://open.spotify.com/album/45JWFeMS8yGuWb5Us1C42G) | 4:40 | 2025-01-29 |  |
 | [Por Ti](https://open.spotify.com/track/1pR68GqUGbbH6aogiIgjHL) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Por Ti](https://open.spotify.com/album/6oRie5UdfiDPjd7t4od18I) | 3:25 | 2021-07-16 |  |
 | [Price](https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:48 | 2021-07-16 |  |
 | [Promises](https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Promises](https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT) | 3:03 | 2021-07-16 |  |
@@ -259,7 +260,7 @@
 | [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 | 2023-01-03 |  |
 | [The Best Sea](https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [The Best Sea](https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1) | 2:21 | 2024-05-24 | 2024-08-28 |
 | [The Day I Left Hanoi](https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y) | [Jokai](https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz) | [The Day I Left Hanoi](https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh) | 3:49 | 2021-07-16 |  |
-| [The Day That We First Met](https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [The Day That We First Met](https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r) | 3:40 | 2021-07-16 | 2025-01-15 |
+| [The Day That We First Met](https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [The Day That We First Met](https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r) | 3:40 | 2021-07-16 |  |
 | [The Middle](https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [The Middle](https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD) | 3:29 | 2023-06-09 | 2024-10-20 |
 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 | 2021-07-16 | 2023-11-23 |
 | [The Moons Detriment](https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:35 | 2023-06-09 | 2024-04-19 |

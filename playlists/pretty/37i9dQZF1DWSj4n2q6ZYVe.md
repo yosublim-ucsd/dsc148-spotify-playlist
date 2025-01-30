@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 
 > The biggest dance floor bangers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,649 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,982 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSj4n2q6ZYVe.md) - [plain]
 | 73 | [The Whistle Song](https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh) | [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [Payback Time](https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na) | 3:43 |
 | 74 | [Love Generation \- Radio Edit](https://open.spotify.com/track/3s3DWOPtKQSgJVDRKu85Tt) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Gary Pine](https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd) | [La Saga Des Hits](https://open.spotify.com/album/7sImJdd7WylHtF8yCjIvzu) | 3:27 |
 | 75 | [Bad Boy](https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Platinum](https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY) | 3:11 |
-| 76 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
-| 77 | [Strobe \- Radio Edit](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Strobe](https://open.spotify.com/album/6EYy8giXumFOmT1fpZTCMB) | 3:34 |
+| 76 | [Strobe \- Radio Edit](https://open.spotify.com/track/6c9EGVj5CaOeoKd9ecMW1U) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Strobe](https://open.spotify.com/album/6EYy8giXumFOmT1fpZTCMB) | 3:34 |
+| 77 | [Another Chance](https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [First Contact](https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny) | 7:32 |
 | 78 | [Boten Anna \- Radio edit](https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK) | [Basshunter](https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q) | [LOL \(International version\)](https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU) | 3:27 |
 | 79 | [Riverside \- Radio Mix](https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi) | [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g) | [Riverside](https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH) | 2:25 |
 | 80 | [Becoming Insane](https://open.spotify.com/track/1Nukcy7xk7AbS7MtkaiOe3) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Vicious Delicious](https://open.spotify.com/album/3W2rs8vCNzvB5BmAoCjART) | 7:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,963 likes - 69 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,958 likes - 69 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 60 | [sorry for me](https://open.spotify.com/track/78i1lVae22yoa34TdPSiRi) | [NOA LONE](https://open.spotify.com/artist/4wPKvnsueREFg2eOoUH6Gq) | [sorry for me](https://open.spotify.com/album/5iPOHWbeCZgWSk2UOWR3A4) | 2:46 |
 | 61 | [Want It Back](https://open.spotify.com/track/3EzOPajc12toVbVOIaPInh) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [Want It Back](https://open.spotify.com/album/0oQRn8myZQUA6fmtTsKwY9) | 2:53 |
 | 62 | [Why Can't You](https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Why Can't You](https://open.spotify.com/album/32G58TiwHXK7qTuhK69vWZ) | 3:15 |
-| 63 | [Whats On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 |
+| 63 | [What's On Your Mind](https://open.spotify.com/track/1P8crTL3m6M9DtpWyjvC0L) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [AVEC](https://open.spotify.com/album/1PpXDobUysmZ6qxWQFeHjO) | 2:43 |
 | 64 | [Tonight](https://open.spotify.com/track/51VX8YLzM4EfKOE1vb1ueh) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [autrioly](https://open.spotify.com/artist/2SalqIZD5x6AJLLHEuctcU) | [Tonight](https://open.spotify.com/album/2HqCzdbaKEY6EZDPMPRq0p) | 2:29 |
 | 65 | [Dandelion](https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Dandelion](https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI) | 3:22 |
 | 66 | [Better Off Alone](https://open.spotify.com/track/6ey9Kaqrb9dy49hQxy6Eyk) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Better Off Alone](https://open.spotify.com/album/2YB65n9xMGybOrD90n7yPn) | 2:05 |

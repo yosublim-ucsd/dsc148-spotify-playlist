@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H?si=rEZ6DPNjSa2tQ9le6Kko2g"> Nontokozo Mkhize</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,494 likes - 76 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,604 likes - 76 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

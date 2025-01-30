@@ -1,6 +1,6 @@
 {
   "description": "os menino da nova",
-  "num_followers": 1405511,
+  "num_followers": 1405456,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,42 @@
     {
       "added_at": "2025-01-24 12:55:00",
       "album": {
-        "name": "A Dan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
+        "name": "THE BOX MEDLEY FUNK 5",
+        "url": "https://open.spotify.com/album/2CDvwRWeyAxPnaOuCmBQvQ"
       },
       "artists": [
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
         },
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Pikachu",
+          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Dj Felipe Maia",
+          "url": "https://open.spotify.com/artist/5xtHPJpaKmn16wr3JNA0na"
         }
       ],
-      "duration_ms": 243498,
-      "name": "A Dan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
+      "duration_ms": 337142,
+      "name": "THE BOX MEDLEY FUNK 5",
+      "url": "https://open.spotify.com/track/5B5m0mNbKG4RqAglA5PRM0"
     },
     {
       "added_at": "2025-01-24 12:55:00",
@@ -1099,46 +1119,6 @@
     {
       "added_at": "2025-01-24 12:55:00",
       "album": {
-        "name": "THE BOX MEDLEY FUNK 5",
-        "url": "https://open.spotify.com/album/2CDvwRWeyAxPnaOuCmBQvQ"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Mc Pikachu",
-          "url": "https://open.spotify.com/artist/6qFbBE8ubS4NxtxVPytxG5"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "Mc Don Juan",
-          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
-        },
-        {
-          "name": "Dj Felipe Maia",
-          "url": "https://open.spotify.com/artist/5xtHPJpaKmn16wr3JNA0na"
-        }
-      ],
-      "duration_ms": 337142,
-      "name": "THE BOX MEDLEY FUNK 5",
-      "url": "https://open.spotify.com/track/5B5m0mNbKG4RqAglA5PRM0"
-    },
-    {
-      "added_at": "2025-01-24 12:55:00",
-      "album": {
         "name": "Poesia Ac\u00fastica 16",
         "url": "https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 757611,
       "name": "Poesia Ac\u00fastica 16",
       "url": "https://open.spotify.com/track/20oDX6ZLQmWIipsWKdADyw"
+    },
+    {
+      "added_at": "2025-01-24 12:55:00",
+      "album": {
+        "name": "A Dan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "A Dan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
     },
     {
       "added_at": "2025-01-24 12:55:00",

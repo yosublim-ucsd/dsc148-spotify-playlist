@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with Linkin Park.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,904 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,988 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 45 | [OBLIVION](https://open.spotify.com/track/7nphBQdCsszPPqjR68CBn2) | [Halo Boy](https://open.spotify.com/artist/3Bh0RCAQHnRUTJPBFVmjlj), [Kamiyada+](https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF), [A.Vi](https://open.spotify.com/artist/1Ucr7N9QlDIcc4mIaaL3nk) | [OBLIVION](https://open.spotify.com/album/1m2VtP942tkAi3Po9htEwS) | 3:34 |
 | 46 | [HEXXX](https://open.spotify.com/track/35mKxj7YpsYK4S2QZUKGP6) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [Mutation](https://open.spotify.com/album/7IBwMa0cSZaD6a1PXmnQw2) | 2:44 |
 | 47 | [filthy/RIGHTEOUS \(feat\. Kenta Koie of Crossfaith\)](https://open.spotify.com/track/2pxsyhvXrWCvjXBYCOilQ4) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [filthy/RIGHTEOUS \(feat\. Kenta Koie of Crossfaith\)](https://open.spotify.com/album/22OGFESsnG4chRM0pPEwLE) | 3:56 |
-| 48 | [Shallow](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
+| 48 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 |
 | 49 | [Parasite](https://open.spotify.com/track/5ES2h7mbW1EmT65Sl1uShP) | [Shark Eyes](https://open.spotify.com/artist/1QDuWNS0ISWmg8TxRDqZwB) | [Parasite](https://open.spotify.com/album/2RJ1a6ahIkKfObmJztZ8TH) | 2:38 |
 | 50 | [Rockstar](https://open.spotify.com/track/7dq9owG0R2pznVhh2oLmXy) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Rockstar](https://open.spotify.com/album/2MNWFQngS2qlOBWU6T9AZp) | 2:55 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 74915,
+  "num_followers": 74910,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
@@ -511,38 +495,6 @@
       "duration_ms": 163648,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Slow Down",
-        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
-      },
-      "artists": [
-        {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
-        }
-      ],
-      "duration_ms": 188149,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -563,6 +515,54 @@
       "duration_ms": 294063,
       "name": "Take Me Home (feat. Nadia Reid)",
       "url": "https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "duration_ms": 188149,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Where'd You Go",
+        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 219479,
+      "name": "Where'd You Go",
+      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -599,38 +599,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Where the Light Is",
-        "url": "https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 215147,
-      "name": "Where the Light Is",
-      "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Where'd You Go",
-        "url": "https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 219479,
-      "name": "Where'd You Go",
-      "url": "https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "In Our Own Sweet Time",
         "url": "https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK"
       },
@@ -643,6 +611,22 @@
       "duration_ms": 204573,
       "name": "Every Side Of You",
       "url": "https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Where the Light Is",
+        "url": "https://open.spotify.com/album/62pnlxU9dGUedDyMd8fBej"
+      },
+      "artists": [
+        {
+          "name": "Dusty Boots",
+          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
+        }
+      ],
+      "duration_ms": 215147,
+      "name": "Where the Light Is",
+      "url": "https://open.spotify.com/track/7HBwtTY2VgeZvOSltQzsi2"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -679,6 +663,22 @@
       "duration_ms": 166000,
       "name": "Love Is an Open Road",
       "url": "https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Midnight Moon",
-      "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "By Way of the Sea",
         "url": "https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+      "duration_ms": 223560,
+      "name": "Midnight Moon",
+      "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 199207,
       "name": "Go, Try, Fall",
       "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Hit or Miss",
-        "url": "https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6"
-      },
-      "artists": [
-        {
-          "name": "Alexander Biggs",
-          "url": "https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Laundromat",
-      "url": "https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Wasting Time",
         "url": "https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Hit or Miss",
+        "url": "https://open.spotify.com/album/5YVPo9GZrLZkkks3K307D6"
+      },
+      "artists": [
+        {
+          "name": "Alexander Biggs",
+          "url": "https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Laundromat",
+      "url": "https://open.spotify.com/track/63OnHKSPs7hsiPUmILJ8LP"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Wanna Be with You",
-        "url": "https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA"
-      },
-      "artists": [
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 191608,
-      "name": "Wanna Be with You",
-      "url": "https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Breach, A Vast Decade",
         "url": "https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 257786,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Wanna Be with You",
+        "url": "https://open.spotify.com/album/1WnDY0GbS8kodLvJKPZfEA"
+      },
+      "artists": [
+        {
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+        }
+      ],
+      "duration_ms": 191608,
+      "name": "Wanna Be with You",
+      "url": "https://open.spotify.com/track/5hgmp34JnWwf02T76NmzdJ"
     }
   ],
   "unique_name": "Summer Daze",

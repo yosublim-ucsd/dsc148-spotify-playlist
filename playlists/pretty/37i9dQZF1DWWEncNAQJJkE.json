@@ -1,6 +1,6 @@
 {
   "description": "The best of hip-hop this year, handpicked by Spotify Canada editors. Cover: Doechii",
-  "num_followers": 352500,
+  "num_followers": 352459,
   "original_name": "Northern Bars presents: Best Hip-Hop Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -674,14 +674,10 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
       "duration_ms": 256000,
-      "name": "Timeless (with Playboi Carti)",
+      "name": "Timeless",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {

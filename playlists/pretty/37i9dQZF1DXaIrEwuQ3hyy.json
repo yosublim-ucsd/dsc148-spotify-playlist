@@ -1,6 +1,6 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1067133,
+  "num_followers": 1067148,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
+        "name": "labour",
+        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 237744,
+      "name": "labour",
+      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
-        "name": "labour",
-        "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 237744,
-      "name": "labour",
-      "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
-      },
-      "artists": [
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        }
-      ],
-      "duration_ms": 184760,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "tonight",
         "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 164477,
       "name": "tonight",
       "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj"
+      },
+      "artists": [
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1011,6 +1011,26 @@
       "duration_ms": 227141,
       "name": "getting used to",
       "url": "https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3YruoMPMJ5NAfaEbuTe6QU"
+      },
+      "artists": [
+        {
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 179397,
+      "name": "Time's Up",
+      "url": "https://open.spotify.com/track/2d33eD2TZ0JpJSg0D20FS2"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1079,26 +1099,6 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3YruoMPMJ5NAfaEbuTe6QU"
-      },
-      "artists": [
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 179397,
-      "name": "Time's Up",
-      "url": "https://open.spotify.com/track/2d33eD2TZ0JpJSg0D20FS2"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "born in the teens",
-        "url": "https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn"
-      },
-      "artists": [
-        {
-          "name": "Philippa Kinsky",
-          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
-        }
-      ],
-      "duration_ms": 193017,
-      "name": "heartache in july",
-      "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "wo bin ich",
         "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
+        "name": "born in the teens",
+        "url": "https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn"
       },
       "artists": [
         {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+          "name": "Philippa Kinsky",
+          "url": "https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0"
         }
       ],
-      "duration_ms": 187795,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
+      "duration_ms": 193017,
+      "name": "heartache in july",
+      "url": "https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1291,6 +1275,22 @@
       "duration_ms": 214013,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 187795,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
+        "name": "cupped and open",
+        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "cupped and open",
+      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
         "name": "Lonely Island",
         "url": "https://open.spotify.com/album/0csQ5xD4LaQ7Zw2qOWis6L"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 173416,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/2yGiQ4RlVLczAorOE6vmTl"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
-        "name": "cupped and open",
-        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 236167,
-      "name": "cupped and open",
-      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "shades",
-        "url": "https://open.spotify.com/album/56hNHlahRLNbdDGhcXdYcz"
-      },
-      "artists": [
-        {
-          "name": "ilayda",
-          "url": "https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "save myself",
-      "url": "https://open.spotify.com/track/2mqgFt9mypTriVwkXzDeJW"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "Closure (feat. BIRDY and Mishaal)",
         "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
+        "name": "shades",
+        "url": "https://open.spotify.com/album/56hNHlahRLNbdDGhcXdYcz"
+      },
+      "artists": [
+        {
+          "name": "ilayda",
+          "url": "https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "save myself",
+      "url": "https://open.spotify.com/track/2mqgFt9mypTriVwkXzDeJW"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
         "name": "Versailles (Hold)",
         "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
       },
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Our Beautiful Mess",
-        "url": "https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3"
-      },
-      "artists": [
-        {
-          "name": "ELI",
-          "url": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
-        }
-      ],
-      "duration_ms": 162517,
-      "name": "Build Me A Bridge",
-      "url": "https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "what if we?",
         "url": "https://open.spotify.com/album/45mEiWk5PgdeQqabD0fQw3"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 173306,
       "name": "what if we?",
       "url": "https://open.spotify.com/track/3bLunJFm0B341fJ2TDQdLE"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "Our Beautiful Mess",
+        "url": "https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3"
+      },
+      "artists": [
+        {
+          "name": "ELI",
+          "url": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
+        }
+      ],
+      "duration_ms": 162517,
+      "name": "Build Me A Bridge",
+      "url": "https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Slow It Down",
-        "url": "https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn"
+        "name": "letmego",
+        "url": "https://open.spotify.com/album/3GrBUgaBa8NkC5mqdXBY1A"
       },
       "artists": [
         {
-          "name": "BILBAO",
-          "url": "https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH"
+          "name": "Gina Livia",
+          "url": "https://open.spotify.com/artist/2uLhOnddu0ZXcZ60SdZcdh"
         },
         {
-          "name": "Thala",
-          "url": "https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU"
+          "name": "Cozmoe",
+          "url": "https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy"
         }
       ],
-      "duration_ms": 218786,
-      "name": "Slow It Down",
-      "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
+      "duration_ms": 200784,
+      "name": "letmego",
+      "url": "https://open.spotify.com/track/5GPDuSp1iJUhzHKaLiW0Cp"
     }
   ],
   "unique_name": "Winter Chillout",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-2,258 songs - 4 day 19 hr 6 min
+2,259 songs - 4 day 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1631,8 +1631,9 @@
 | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/track/3sVyYDKJ5vhzn6ryEcaGHt) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Popolari](https://open.spotify.com/album/3q0jSQN78hoqBtXB2JDaw5) | 1:53 | 2024-07-19 | 2024-08-30 |
 | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/track/41sQhmjhPRrMv8jFKzJTRV) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 1:53 | 2024-03-30 | 2024-07-20 |
 | [Pezzi Che Cadono \(feat\. Tony Boy\)](https://open.spotify.com/track/3ck23O4wJjSdl1q7WpFWmk) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Trap Fatta Bene](https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143) | 2:28 | 2024-04-20 | 2024-04-22 |
-| [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 | 2024-12-11 |  |
+| [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 | 2024-12-11 | 2025-01-30 |
 | [PEZZI DA 20 \(feat\. Emis Killa & Side Baby\)](https://open.spotify.com/track/3FHQwJN2JL6x9pgmTILnMB) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 2:20 | 2022-01-08 | 2022-01-15 |
+| [PEZZI DA NOVANTA \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza\)](https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [WE THE SQUAD Vol.2](https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE) | 3:14 | 2025-01-29 |  |
 | [Piango anche io](https://open.spotify.com/track/1BXEGjTp4FVH6vkdY2fhdA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [INDI](https://open.spotify.com/album/54HzLTohLottYBCmkjD41S) | 3:09 | 2025-01-25 | 2025-01-27 |
 | [Piango Sulla Lambo \(feat\. Rose Villain\)](https://open.spotify.com/track/7u02ZUejB2uhTw1WuFXrlf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:21 | 2021-12-12 | 2022-02-04 |
 | [Piazza](https://open.spotify.com/track/4DQt0mzsgTO2taDwZ2zq5c) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [Untouchable](https://open.spotify.com/album/3qfHiYzq7kiJ1JkyCXNGMC) | 2:36 | 2021-06-06 | 2021-06-09 |

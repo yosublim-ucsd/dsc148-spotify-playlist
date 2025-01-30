@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 170624,
       "name": "Entertain Me",
       "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
@@ -2472,6 +2472,24 @@
       "duration_ms": 126400,
       "name": "f0rbiidden l0ve$tory",
       "url": "https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo"
+    },
+    {
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1gCaL4MQetFtRh6wZNH9UT"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "date_added": "2025-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/3gG1APb47C9I1nIgcLFMEh"
     },
     {
       "album": {

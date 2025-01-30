@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,751 likes - 31 songs - 2 hr 5 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,757 likes - 31 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 14 | [People Of Substance](https://open.spotify.com/track/1AOYdCRDBYP0WgLA0iNspl) | [Craig Finn](https://open.spotify.com/artist/78DZaDfOK3i88eRVPkzZu2) | [People Of Substance](https://open.spotify.com/album/6wQGjMr4reDXkbfJButecB) | 2:59 |
 | 15 | [Rock and Roll Party Cowboy](https://open.spotify.com/track/6xvxrlMIZHNObn8QfjzLIj) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Rock and Roll Party Cowboy](https://open.spotify.com/album/0aQH1taqzy20lXExTiCqMD) | 4:27 |
 | 16 | [Kermit & Gyro](https://open.spotify.com/track/1HaNDMAJjsEinenk205n4P) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Kermit & Gyro](https://open.spotify.com/album/5cKXcKF2jGWMbPppx78JII) | 2:31 |
-| 17 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
+| 17 | [What Else Is There? \(True Electric\)](https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What Else Is There? \(True Electric\)](https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98) | 6:15 |
 | 18 | [Raoul](https://open.spotify.com/track/1vwEPyKwOkllCo6ulQJR3I) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Raoul](https://open.spotify.com/album/2lWLuPhglhZMRb5fvbmdmN) | 5:07 |
 | 19 | [Cause & Effect](https://open.spotify.com/track/0t72nfgJxZ3EG0fu8XN85T) | [Young Knives](https://open.spotify.com/artist/4kYNTq3njMHBcnv8Di0v0Y) | [Landfill](https://open.spotify.com/album/6uCBuVbQCde0JttuNGNjAc) | 3:48 |
 | 20 | [i’m in love..\. \- GLOK Remix](https://open.spotify.com/track/0W3YFGAxaoodKrcperkLWf) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc), [Dot Allison](https://open.spotify.com/artist/69IZoi4l9e7KcUpbgP9K7e), [GLOK](https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq) | [i’m in love..\. \(GLOK Remix\)](https://open.spotify.com/album/2mnQtrbsz0xcz2IbTvo6ZV) | 7:38 |

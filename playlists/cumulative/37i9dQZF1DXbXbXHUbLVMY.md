@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-271 songs - 11 hr 48 min
+272 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 | 2024-06-01 |
 | [Fiende på hotell](https://open.spotify.com/track/0JwLtBGMgeLQTRMaCUpgIv) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Fiende på hotell](https://open.spotify.com/album/0IeHOhjegTHDgm8GMQnLqj) | 2:02 | 2024-05-23 | 2024-06-28 |
 | [Fin & Bad](https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Fin & Bad](https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d) | 2:01 | 2024-07-18 |  |
-| [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 |  |
+| [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 | 2025-01-30 |
 | [Foden](https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv) | [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj) | [Vägen in](https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh) | 2:46 | 2025-01-16 |  |
 | [FRANK LUCAS](https://open.spotify.com/track/6DOV07jomdnvi5esdmjiQu) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [FRANK LUCAS](https://open.spotify.com/album/4Oekris7A02U6hAfmcRr98) | 2:20 | 2024-09-26 | 2024-10-25 |
 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 |  |
@@ -245,6 +245,7 @@
 | [Standard](https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Standard](https://open.spotify.com/album/3klHl3l7VxUautqwwQc678) | 2:07 | 2023-09-21 |  |
 | [Stikk i Brystet](https://open.spotify.com/track/2K7RNGhAN82pJSz0OjXCo1) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Stikk I Brystet \(Deluxe\)](https://open.spotify.com/album/1TVqo7Q0brVxoPV9daZ5RA) | 3:51 | 2024-06-20 | 2024-10-13 |
 | [STILO](https://open.spotify.com/track/60KPeB0eJuksnuvfnXkA3B) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [STILO](https://open.spotify.com/album/6tsnSrVthXlEmRxmwGdc7q) | 2:21 | 2023-09-21 | 2024-07-12 |
+| [STÖRDA](https://open.spotify.com/track/0y5bqc1pwZ0ptNUCbsqzYd) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew), [ProdByR1](https://open.spotify.com/artist/5U8wjIW3UWL3B7Hee3VaDQ) | [STÖRDA](https://open.spotify.com/album/0Ttzx21RWBkvzS8MFbxhZP) | 2:06 | 2025-01-23 |  |
 | [Sugerør \(2J x Siyabång\)](https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Sugerør \(2J x Siyabång\)](https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76) | 2:20 | 2024-10-03 |  |
 | [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 | 2024-04-27 |  |
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-11 |  |

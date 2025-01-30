@@ -5111,6 +5111,24 @@
     },
     {
       "album": {
+        "name": "Saddam",
+        "url": "https://open.spotify.com/album/0fBK1u4dXrqOEglhMzHII4"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149342,
+      "name": "Saddam",
+      "url": "https://open.spotify.com/track/1V1fukMsGEAcjNhWRiXbWQ"
+    },
+    {
+      "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
       },
@@ -6210,7 +6228,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-30",
       "duration_ms": 143958,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX"

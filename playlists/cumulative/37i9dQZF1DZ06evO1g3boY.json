@@ -1764,6 +1764,10 @@
       },
       "artists": [
         {
+          "name": "Sambabook",
+          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
+        },
+        {
           "name": "Jorge Arag\u00e3o",
           "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
         },
@@ -1838,10 +1842,6 @@
         {
           "name": "Baby Do Brasil",
           "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
-        },
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
         }
       ],
       "date_added": "2024-12-11",

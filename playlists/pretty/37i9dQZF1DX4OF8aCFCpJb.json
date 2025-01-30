@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70085,
+  "num_followers": 70093,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Irie",
-        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
-      },
-      "artists": [
-        {
-          "name": "Silly Selection",
-          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
-        }
-      ],
-      "duration_ms": 203065,
-      "name": "Irie",
-      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Du som snodde min cykel",
         "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 223515,
       "name": "Du som snodde min cykel",
       "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Irie",
+        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
+      },
+      "artists": [
+        {
+          "name": "Silly Selection",
+          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
+        }
+      ],
+      "duration_ms": 203065,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -867,18 +867,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Kommunikation",
-        "url": "https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV"
+        "name": "L\u00e5t oss leva",
+        "url": "https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk"
       },
       "artists": [
         {
-          "name": "WillMan",
-          "url": "https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu"
+          "name": "Lani Mo",
+          "url": "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
+        },
+        {
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
         }
       ],
-      "duration_ms": 161098,
-      "name": "Kommunikation",
-      "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
+      "duration_ms": 220527,
+      "name": "L\u00e5t oss leva",
+      "url": "https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf"
     },
     {
       "added_at": "2024-06-24 11:19:01",

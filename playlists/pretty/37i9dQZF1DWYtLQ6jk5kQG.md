@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtLQ6jk5kQG.md) - [plain]
 
 > Celebramos las voces extraordinarias del siglo XX, con Raphael en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,211 likes - 78 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,376 likes - 78 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

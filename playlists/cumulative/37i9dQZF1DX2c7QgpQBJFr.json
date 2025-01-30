@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Camilla (una canzone non d'amore)",
+        "url": "https://open.spotify.com/album/539KQ4fJ6FOXD1Pwc2eTRb"
+      },
+      "artists": [
+        {
+          "name": "PRINCIPE",
+          "url": "https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144578,
+      "name": "Camilla (una canzone non d'amore)",
+      "url": "https://open.spotify.com/track/4fokeaDTupkU8tu8Log3H0"
+    },
+    {
+      "album": {
         "name": "Cani",
         "url": "https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C"
       },

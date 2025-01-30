@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 354554,
+  "num_followers": 354749,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -383,26 +383,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "L E P E R S",
-        "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        },
-        {
-          "name": "Atmos One",
-          "url": "https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu"
-        }
-      ],
-      "duration_ms": 250555,
-      "name": "L E P E R S",
-      "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "L E P E R S",
+        "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        },
+        {
+          "name": "Atmos One",
+          "url": "https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu"
+        }
+      ],
+      "duration_ms": 250555,
+      "name": "L E P E R S",
+      "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -515,18 +515,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0"
+        "name": "More and More Beautiful",
+        "url": "https://open.spotify.com/album/4OsTxMJ03VjSq0X7OC8DAA"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        },
+        {
+          "name": "Thomas Austin",
+          "url": "https://open.spotify.com/artist/4S0F3JSBqpwPP9jxSdcCJo"
         }
       ],
-      "duration_ms": 249084,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
+      "duration_ms": 228200,
+      "name": "More and More Beautiful",
+      "url": "https://open.spotify.com/track/71YaMrCwbb7DFjrKxF7hAj"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -547,22 +551,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "More and More Beautiful",
-        "url": "https://open.spotify.com/album/4OsTxMJ03VjSq0X7OC8DAA"
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5vjdeXvp1N3Qbpdk6Mdmh0"
       },
       "artists": [
         {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
-        },
-        {
-          "name": "Thomas Austin",
-          "url": "https://open.spotify.com/artist/4S0F3JSBqpwPP9jxSdcCJo"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 228200,
-      "name": "More and More Beautiful",
-      "url": "https://open.spotify.com/track/71YaMrCwbb7DFjrKxF7hAj"
+      "duration_ms": 249084,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/2Qqqr0py5ew8RmKlCdI9F6"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "God of the Breakthrough (Live)",
         "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 353478,
       "name": "God of the Breakthrough (Live)",
       "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
-      },
-      "artists": [
-        {
-          "name": "Momentum Music",
-          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
-        }
-      ],
-      "duration_ms": 387536,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 317509,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
+      },
+      "artists": [
+        {
+          "name": "Momentum Music",
+          "url": "https://open.spotify.com/artist/2kpba1AKOu5D6aj3Wp4aKt"
+        }
+      ],
+      "duration_ms": 387536,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/4X6BavAGe2L598JpttiAMV"
     },
     {
       "added_at": "2024-08-03 00:38:12",

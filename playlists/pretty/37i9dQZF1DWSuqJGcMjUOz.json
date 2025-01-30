@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6753,
+  "num_followers": 6754,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Portraits de famine",
-        "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
-      },
-      "artists": [
-        {
-          "name": "Philippe Brach",
-          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Etienne Dufresne fait des efforts",
         "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 226666,
       "name": "J'fais des efforts",
       "url": "https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Portraits de famine",
+        "url": "https://open.spotify.com/album/6INsKgWoaYYDHCbHOR4BZz"
+      },
+      "artists": [
+        {
+          "name": "Philippe Brach",
+          "url": "https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/6ybS1WcfNXf1hmx8bE3lgi"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Jour",
-        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
-      },
-      "artists": [
-        {
-          "name": "Walter Astral",
-          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
-        }
-      ],
-      "duration_ms": 205855,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Oniromancie",
         "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 143253,
       "name": "Du country dans le ravin",
       "url": "https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Jour",
+        "url": "https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "duration_ms": 205855,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Quand il est seul",
-        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9m\u00e9 Tan",
-          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
-        }
-      ],
-      "duration_ms": 207868,
-      "name": "un grand plat de riz",
-      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Romantisme",
         "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 233708,
       "name": "Romantisme",
       "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Quand il est seul",
+        "url": "https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9m\u00e9 Tan",
+          "url": "https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW"
+        }
+      ],
+      "duration_ms": 207868,
+      "name": "un grand plat de riz",
+      "url": "https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fluxus",
-        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
-      },
-      "artists": [
-        {
-          "name": "Bobo Ono",
-          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
-        }
-      ],
-      "duration_ms": 156904,
-      "name": "OnO Song",
-      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "D\u00e9sol\u00e9 mouvement geste",
         "url": "https://open.spotify.com/album/0sD47gP8BDddXIU4snaup7"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 250813,
       "name": "Il a plu il a neig\u00e9",
       "url": "https://open.spotify.com/track/5tKtMAzHT1wm9FFK5XSME0"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Fluxus",
+        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
+      },
+      "artists": [
+        {
+          "name": "Bobo Ono",
+          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
+        }
+      ],
+      "duration_ms": 156904,
+      "name": "OnO Song",
+      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
     },
     {
       "added_at": "2024-06-19 20:38:05",

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 22944,
+  "num_followers": 22960,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAAATQdQkoYTVEx2X5wSlNn3z",
+  "snapshot_id": "Z5geAAAAAACoII+nU3ARJNzJkv637DGr",
   "tracks": [
     {
       "added_at": null,
@@ -28,7 +28,7 @@
       "added_at": null,
       "album": {
         "name": "Crisis",
-        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+        "url": "https://open.spotify.com/album/1707YW8weHIje0KhkNogkg"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 243853,
+      "duration_ms": 243466,
       "name": "This Could Be Anywhere in the World",
-      "url": "https://open.spotify.com/track/4TnPmXU7KVmHZ51hXXn5Hv"
+      "url": "https://open.spotify.com/track/0RuPijfryvqJXWsI7X66Mk"
     },
     {
       "added_at": null,
@@ -156,7 +156,7 @@
       "added_at": null,
       "album": {
         "name": "Crisis",
-        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+        "url": "https://open.spotify.com/album/1707YW8weHIje0KhkNogkg"
       },
       "artists": [
         {
@@ -166,7 +166,7 @@
       ],
       "duration_ms": 196293,
       "name": "To a Friend",
-      "url": "https://open.spotify.com/track/2m56Yr1W7LKKHGVTqGT9SY"
+      "url": "https://open.spotify.com/track/5I3zGzt9AKeNLBgjw25kDL"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 139417,
-      "name": "Counterparts and Number Them",
-      "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
+      "duration_ms": 292558,
+      "name": "Little Girls Pointing and Laughing",
+      "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 292558,
-      "name": "Little Girls Pointing and Laughing",
-      "url": "https://open.spotify.com/track/5b0ZFCqgkYc3XdA4cbjT2S"
+      "duration_ms": 139417,
+      "name": "Counterparts and Number Them",
+      "url": "https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT"
     },
     {
       "added_at": null,

@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Kindred Spirit",
+        "url": "https://open.spotify.com/album/1vQzaXKZk4UH7MWw7qig95"
+      },
+      "artists": [
+        {
+          "name": "Dylan Charbeneau",
+          "url": "https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Kindred Spirit",
+      "url": "https://open.spotify.com/track/3Sxa7K0sVj5SvK8DPwmZGA"
+    },
+    {
+      "album": {
         "name": "Komorebi",
         "url": "https://open.spotify.com/album/3tKvJOGY06DHfqtbXHO2CS"
       },
@@ -6155,7 +6173,7 @@
       "artists": [
         {
           "name": "Mischa",
-          "url": "https://open.spotify.com/artist/2Dz5iH4IlsWr6gIbH23XwU"
+          "url": "https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1"
         }
       ],
       "date_added": "2025-01-07",

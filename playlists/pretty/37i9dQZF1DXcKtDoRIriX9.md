@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,477 likes - 56 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,493 likes - 56 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 14 | [Clean Slate \(feat\. Coby Sey\)](https://open.spotify.com/track/6rVJD27j9HwDdNP0CzrUgR) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo), [Fadi Mohem](https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Clean Slate \(feat\. Coby Sey\)](https://open.spotify.com/album/5vIXzB6JTnwIkq9KYSi2zP) | 2:55 |
 | 15 | [Tuesday's Coming](https://open.spotify.com/track/6b4F9hVrgikyRE6QFM4qkk) | [Johannes Klingebiel](https://open.spotify.com/artist/08k6Cr6tJL0XpXALvDKHz3) | [Vibrations](https://open.spotify.com/album/7CMc9Ks4FzD1ghYBaxMoMQ) | 6:34 |
 | 16 | [Overdyed](https://open.spotify.com/track/6tvjAYarpS5fsDlyPFnX90) | [Tom Bioly](https://open.spotify.com/artist/40PpeVyE5qP7a6yDCWqGGh) | [Overdyed](https://open.spotify.com/album/1PfDo26ikN6wEaxBsv2Z7m) | 5:06 |
-| 17 | [Look Like A Man](https://open.spotify.com/track/7rQq06VOCezKyfA2pV2HUr) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw), [Lias Saoudi](https://open.spotify.com/artist/2FbxiFPYUwfms4iboZw7l4) | [Decius Vol\. I](https://open.spotify.com/album/2bFXQyPnVlhL17xXToDi6z) | 3:56 |
+| 17 | [Look Like A Man](https://open.spotify.com/track/7rQq06VOCezKyfA2pV2HUr) | [Decius](https://open.spotify.com/artist/61VfHXWMs8Am1Sg5HeFbJw) | [Decius Vol\. I](https://open.spotify.com/album/2bFXQyPnVlhL17xXToDi6z) | 3:56 |
 | 18 | [Shadow Of Love](https://open.spotify.com/track/5vpWgoN0ekCvFitRUw9cZO) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Shadow Of Love](https://open.spotify.com/album/252w3rS0s0z3HoD42MG1fX) | 3:39 |
 | 19 | [Mulher Gato](https://open.spotify.com/track/2khV3nfwNlW0Trv9gopFrV) | [Mulya](https://open.spotify.com/artist/2PPUUxTpjYJxG3pCQDpDzg) | [Silvio EP](https://open.spotify.com/album/3VOr4AWqAC99DjD8WsMLBr) | 8:07 |
 | 20 | [Tulsa Time](https://open.spotify.com/track/5R2uFP3gTQ62friUHVPd70) | [Bobby Lee](https://open.spotify.com/artist/5OXjftFsY79TKTKbvFYxt1) | [Lagniappe Session](https://open.spotify.com/album/1f9ajlwK5Ku1dGrQzevTwk) | 4:00 |

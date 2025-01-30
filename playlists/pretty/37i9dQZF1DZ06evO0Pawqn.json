@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 9690,
+  "num_followers": 9692,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5bMgAAAAACWmS7caktJW1UKTJUp6JZH",
+  "snapshot_id": "Z5geAAAAAAA91rLIxY0b7xSDSOm8Tlbk",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 194037,
+      "name": "Para Morir Iguales",
+      "url": "https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De La Tierra Al Cielo",
         "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 157559,
       "name": "De La Tierra Al Cielo",
       "url": "https://open.spotify.com/track/1pVu9Epwe1gdQ4aeHcW5QO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 194037,
-      "name": "Para Morir Iguales",
-      "url": "https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
       "duration_ms": 146920,
       "name": "Mares de Licor - En Vivo",
       "url": "https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 191164,
-      "name": "Amigo de la Luna",
-      "url": "https://open.spotify.com/track/5FqhnthUoK7zljqUpO1Cbi"
     }
   ],
   "unique_name": "This Is Los Tiranos Del Norte",

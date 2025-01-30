@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: OneRepublic & Kygo
 
-1,355 songs - 2 day 18 hr 6 min
+1,356 songs - 2 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1161,6 +1161,7 @@
 | [Telephone Line](https://open.spotify.com/track/602hMiOBUq8jmSnZxEyNdP) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [Telephone Line](https://open.spotify.com/album/1WF5kYD5BIbBKHYIyeekeG) | 3:31 | 2023-10-13 | 2023-12-23 |
 | [Tell It To My Heart](https://open.spotify.com/track/5tkVC8EcUXEZNwmD45e7tq) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It To My Heart](https://open.spotify.com/album/1KxlM9HIGOgM7SOMko1W9m) | 2:55 | 2023-09-15 | 2023-12-23 |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2021-11-05 | 2021-12-25 |
+| [Tell Me That You Love Me](https://open.spotify.com/track/5twVbF7fNd93mdVs2MpbKN) | [Jacob Vallen](https://open.spotify.com/artist/4cpsDjOCHa98YDBMlkjaUl) | [Tell Me That You Love Me](https://open.spotify.com/album/6u5miPvMbyHLzqNE7YOdjR) | 2:23 | 2025-01-29 |  |
 | [Tell Me You Love Me](https://open.spotify.com/track/5utAEYv0XagOtIYwYBTMtP) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Tell Me You Love Me](https://open.spotify.com/album/1S8jbva85gj1snQ2C40WHn) | 3:08 | 2022-04-22 | 2022-08-06 |
 | [temporary love](https://open.spotify.com/track/3hHZBwB95RV9Ghg6Y7VjSQ) | [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [temporary love](https://open.spotify.com/album/7Bgqqo5ZXorGNH65ftyCqA) | 4:00 | 2022-01-14 | 2022-02-05 |
 | [TEN](https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/0iIC693yA29mHcT8j08osB) | 2:09 | 2025-01-03 |  |

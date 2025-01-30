@@ -1,13 +1,33 @@
 {
   "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Newsletter coming soon...</a> Cover: Oklou",
-  "num_followers": 1175932,
+  "num_followers": 1176005,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5keiAAAAADrUl/LsHaFGQQYLF0Wyl7I",
+  "snapshot_id": "Z5qdfgAAAAB1fsRpJHNTJZj8so2RPKam",
   "tracks": [
+    {
+      "added_at": "2025-01-29 21:28:30",
+      "album": {
+        "name": "In Love With A Memory",
+        "url": "https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 243008,
+      "name": "In Love With A Memory",
+      "url": "https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB"
+    },
     {
       "added_at": "2025-01-23 19:44:34",
       "album": {
@@ -1215,22 +1235,6 @@
       "duration_ms": 157394,
       "name": "Ginkgo",
       "url": "https://open.spotify.com/track/5Llgqw2pQm2JEdi67VuayP"
-    },
-    {
-      "added_at": "2024-11-13 18:49:27",
-      "album": {
-        "name": "You Resemble Everything",
-        "url": "https://open.spotify.com/album/7KMmDgFmwClaHFUugRQdx5"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "You Resemble Everything",
-      "url": "https://open.spotify.com/track/6F8bla4C7O8JvA2J0OuSt7"
     },
     {
       "added_at": "2024-11-14 19:19:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 
 > Let's flow to the beats of downtempo deep house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,919 likes - 60 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,000 likes - 60 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUYYlhkTuEn.md) - [plain]
 | 9 | [Sat Nam](https://open.spotify.com/track/1jbqoD2ywyqikvk3qS1qWi) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Helia Jamali](https://open.spotify.com/artist/5CMYOWz9ly5J7DMsYualI5) | [Sat Nam](https://open.spotify.com/album/6P2AVkDSrfg9ScaTYf5KCT) | 3:33 |
 | 10 | [Ayu III](https://open.spotify.com/track/1jFZQ17rS9pzNBhKgbpXHV) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Ayu III](https://open.spotify.com/album/4curFTmCDS5MFSshXRHLO3) | 7:52 |
 | 11 | [Purpurgrackel](https://open.spotify.com/track/133gKWsl1rUJv7Fyl2ePZI) | [Landhouse](https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt) | [Purpurgrackel](https://open.spotify.com/album/3rHbqrglZXrRaJF0NLWcXI) | 6:46 |
-| 12 | [Water Cowboy](https://open.spotify.com/track/5FeQcgvFZmJJk4LHRJdsXt) | [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue), [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Ravelli](https://open.spotify.com/artist/75TdRJRvGeOrEwhsGWNiwt) | [Water Cowboy](https://open.spotify.com/album/65uMoYjavfOaXfZDOcidJB) | 8:23 |
+| 12 | [Water Cowboy](https://open.spotify.com/track/5FeQcgvFZmJJk4LHRJdsXt) | [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue), [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Ravelli](https://open.spotify.com/artist/0RagdYsPbTN9ykgg48mB84) | [Water Cowboy](https://open.spotify.com/album/65uMoYjavfOaXfZDOcidJB) | 8:23 |
 | 13 | [Say Hum](https://open.spotify.com/track/4XZ2XcEHLWx49MzQSNdgFx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Say Hum](https://open.spotify.com/album/5oQ4MbSuV9kjN8o3ZLfqG7) | 5:59 |
 | 14 | [Akacje](https://open.spotify.com/track/400NyXxU3mhiraKbR6n9G9) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg), [AKASHA MX](https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP) | [Akacje](https://open.spotify.com/album/2PxOPG4hFj9tNimmLrbSm8) | 7:08 |
 | 15 | [Secreto](https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Secreto](https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT) | 5:21 |

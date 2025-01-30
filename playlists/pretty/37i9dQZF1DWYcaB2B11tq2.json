@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcos Witt",
-  "num_followers": 447635,
+  "num_followers": 447817,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Jes\u00fas Siempre Llega a Tiempo",
+        "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
+      },
+      "artists": [
+        {
+          "name": "Samuel Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
+        }
+      ],
+      "duration_ms": 319650,
+      "name": "Levanto Mis Manos",
+      "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 252456,
       "name": "1000 Pedazos",
       "url": "https://open.spotify.com/track/0BJbrz72CTsOG6wqwEKxTa"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Jes\u00fas Siempre Llega a Tiempo",
-        "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
-      },
-      "artists": [
-        {
-          "name": "Samuel Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
-        }
-      ],
-      "duration_ms": 319650,
-      "name": "Levanto Mis Manos",
-      "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 302425,
-      "name": "Babel",
-      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Mesias (Live)",
         "url": "https://open.spotify.com/album/3kFnyNSLQn8d4U40kkgNMP"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 299706,
       "name": "Preciosa Sangre",
       "url": "https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 302425,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/1icI9DwXenCxETMEYV0RqP"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Mi Libertador",
+        "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 491232,
+      "name": "Mi Libertador",
+      "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 252493,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/1Xyf243Z7sN1Ekuq2JcGEi"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Mi Libertador",
-        "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 491232,
-      "name": "Mi Libertador",
-      "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -855,30 +855,18 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Coritos (En Vivo)",
-        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
         }
       ],
-      "duration_ms": 687091,
-      "name": "Coritos (En Vivo)",
-      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -919,18 +907,30 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+        "name": "Coritos (En Vivo)",
+        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
       },
       "artists": [
         {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
         }
       ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+      "duration_ms": 687091,
+      "name": "Coritos (En Vivo)",
+      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "ResplanDC",
-        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
-      },
-      "artists": [
-        {
-          "name": "Visi\u00f3n Juvenil",
-          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 408026,
-      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
-      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "No Lo Has Visto A\u00fan",
         "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 245163,
       "name": "No Lo Has Visto A\u00fan",
       "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "ResplanDC",
+        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
+      },
+      "artists": [
+        {
+          "name": "Visi\u00f3n Juvenil",
+          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 408026,
+      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
+      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "SEU Worship HOLA",
+        "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 369420,
+      "name": "Gracia",
+      "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "4t",
         "url": "https://open.spotify.com/album/0LjBIJORulBSIeciUhwykB"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 255879,
       "name": "Quien Soy Yo (feat. Redimi2)",
       "url": "https://open.spotify.com/track/1W7X4EAT2DcqaISXA4X2q9"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "SEU Worship HOLA",
-        "url": "https://open.spotify.com/album/3cHcSuyQ21qQhO3h5KvjeW"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 369420,
-      "name": "Gracia",
-      "url": "https://open.spotify.com/track/7kKn5FBPScYL4QEo9Z1sxI"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Cristonita Recharged",
-        "url": "https://open.spotify.com/album/3HVvfvLPH1rzlK9jmzlsbJ"
-      },
-      "artists": [
-        {
-          "name": "Sugar",
-          "url": "https://open.spotify.com/artist/5S8QuWeAKHpjDqUtht6tkD"
-        },
-        {
-          "name": "Josue el Escogido",
-          "url": "https://open.spotify.com/artist/1Wn7ONbHEVgHLcXaU9XzhZ"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Paciente Espero",
-      "url": "https://open.spotify.com/track/2p0j9kUdhe3IsiHNQbtYcX"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "#DesdeCasa - Parte B",
         "url": "https://open.spotify.com/album/0CgtYj03PrOBNkZrdKPSal"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 202000,
       "name": "Latido",
       "url": "https://open.spotify.com/track/0LbNO9UA0I8EDHLwIZ3dXa"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Cristonita Recharged",
+        "url": "https://open.spotify.com/album/3HVvfvLPH1rzlK9jmzlsbJ"
+      },
+      "artists": [
+        {
+          "name": "Sugar",
+          "url": "https://open.spotify.com/artist/5S8QuWeAKHpjDqUtht6tkD"
+        },
+        {
+          "name": "Josue el Escogido",
+          "url": "https://open.spotify.com/artist/1Wn7ONbHEVgHLcXaU9XzhZ"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Paciente Espero",
+      "url": "https://open.spotify.com/track/2p0j9kUdhe3IsiHNQbtYcX"
     },
     {
       "added_at": "2024-12-11 11:03:37",

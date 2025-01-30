@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 6486,
+  "num_followers": 6528,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Maradona (Tatara)",
-        "url": "https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        },
-        {
-          "name": "Tiagz",
-          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
-        }
-      ],
-      "duration_ms": 150485,
-      "name": "Maradona (Tatara)",
-      "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Maradona (Tatara)",
+        "url": "https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        }
+      ],
+      "duration_ms": 150485,
+      "name": "Maradona (Tatara)",
+      "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "MTG - Base da Maldade",
         "url": "https://open.spotify.com/album/2hyAD5RsGlkRNrFP5lHU1g"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 116538,
       "name": "MTG - Base da Maldade",
       "url": "https://open.spotify.com/track/0YgVM20w0W2Xe4hw2vTibU"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Baila Conmigo",
-        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Baila Conmigo",
-      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "Guaracha Con \u00d1ejo",
-        "url": "https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9"
-      },
-      "artists": [
-        {
-          "name": "Marco Acevedo",
-          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Guaracha Con \u00d1ejo",
-      "url": "https://open.spotify.com/track/6pAgwmKrBsZvDtlQ2lniK3"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 232498,
       "name": "Qu\u00e9date - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "Guaracha Con \u00d1ejo",
+        "url": "https://open.spotify.com/album/4IO5DGuCyaO1iYOKtHkfM9"
+      },
+      "artists": [
+        {
+          "name": "Marco Acevedo",
+          "url": "https://open.spotify.com/artist/7ya73VVTnzfSHrQnGq9WiC"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Guaracha Con \u00d1ejo",
+      "url": "https://open.spotify.com/track/6pAgwmKrBsZvDtlQ2lniK3"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2823,26 +2823,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
-        "url": "https://open.spotify.com/album/6daS2BRfBTVWHz734TTatM"
-      },
-      "artists": [
-        {
-          "name": "Dj Luan Gomes",
-          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 177807,
-      "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
-      "url": "https://open.spotify.com/track/4aez0pjAdzFs5XIhVPH7CM"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "Saxofon",
         "url": "https://open.spotify.com/album/33u5LeinGWjWbGi690XPLm"
       },
@@ -2859,26 +2839,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "ONTAS BB",
-        "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
+        "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
+        "url": "https://open.spotify.com/album/6daS2BRfBTVWHz734TTatM"
       },
       "artists": [
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
         },
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 207804,
-      "name": "ONTAS BB",
-      "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
+      "duration_ms": 177807,
+      "name": "VOC\u00ca N\u00c3O ME ENSINOU A TE ESQUECER",
+      "url": "https://open.spotify.com/track/4aez0pjAdzFs5XIhVPH7CM"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2903,6 +2879,30 @@
       "duration_ms": 162002,
       "name": "Antrax",
       "url": "https://open.spotify.com/track/47rbXVaDwAfPrKolyEWWfT"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "ONTAS BB",
+        "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "ONTAS BB",
+      "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -2959,26 +2959,6 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
-        "name": "MTG Nosso Xote",
-        "url": "https://open.spotify.com/album/4DANxV5ONUmk39WxeNOJww"
-      },
-      "artists": [
-        {
-          "name": "Lukkas",
-          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
-        },
-        {
-          "name": "Janayna Pereira",
-          "url": "https://open.spotify.com/artist/38ziaICZZXwwjVLBdFAC55"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "MTG Nosso Xote",
-      "url": "https://open.spotify.com/track/5BSWVqeTFYNz8IiLPTGkty"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
         "name": "PARIS HILTON",
         "url": "https://open.spotify.com/album/4UNnBbl3o8cF2IYYPY3hq7"
       },
@@ -2995,6 +2975,26 @@
       "duration_ms": 185995,
       "name": "PARIS HILTON",
       "url": "https://open.spotify.com/track/7bBwukyxiobxT0Cel4P3Pp"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
+        "name": "MTG Nosso Xote",
+        "url": "https://open.spotify.com/album/4DANxV5ONUmk39WxeNOJww"
+      },
+      "artists": [
+        {
+          "name": "Lukkas",
+          "url": "https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL"
+        },
+        {
+          "name": "Janayna Pereira",
+          "url": "https://open.spotify.com/artist/38ziaICZZXwwjVLBdFAC55"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "MTG Nosso Xote",
+      "url": "https://open.spotify.com/track/5BSWVqeTFYNz8IiLPTGkty"
     },
     {
       "added_at": "2024-09-30 22:44:34",
@@ -3235,6 +3235,22 @@
     {
       "added_at": "2024-09-30 22:44:34",
       "album": {
+        "name": "Modo St1ngy",
+        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 144406,
+      "name": "Modo St1ngy",
+      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
+    },
+    {
+      "added_at": "2024-09-30 22:44:34",
+      "album": {
         "name": "Mtg Vem Ni Mim Dodge Ram",
         "url": "https://open.spotify.com/album/2DDoUUCBYW50xvx9MST0SQ"
       },
@@ -3255,22 +3271,6 @@
       "duration_ms": 145846,
       "name": "Mtg Vem Ni Mim Dodge Ram",
       "url": "https://open.spotify.com/track/1C3pBHC1XlFbZNUpgxBFI5"
-    },
-    {
-      "added_at": "2024-09-30 22:44:34",
-      "album": {
-        "name": "Modo St1ngy",
-        "url": "https://open.spotify.com/album/36CYzbAbTYLG1F4bHSslla"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 144406,
-      "name": "Modo St1ngy",
-      "url": "https://open.spotify.com/track/32qKpQhlLUgocSOhaXe8Zs"
     }
   ],
   "unique_name": "los prohibidos",

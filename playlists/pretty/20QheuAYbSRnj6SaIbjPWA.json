@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAAAzdyhQjqC1d+jbYaKE1GKqkZf3Ho9",
+  "snapshot_id": "AAAAzrz9HwOsLg2MhDy/+ekLzgW+b9aX",
   "tracks": [
     {
       "added_at": "2023-02-27 21:53:34",
@@ -1467,6 +1467,22 @@
       "duration_ms": 153101,
       "name": "Dream 1 (before the wind blows it all away) - Pt. 1",
       "url": "https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2"
+    },
+    {
+      "added_at": "2025-01-29 12:10:58",
+      "album": {
+        "name": "Stainless Style",
+        "url": "https://open.spotify.com/album/4gwCfJlNCswVeVL4jvYkmA"
+      },
+      "artists": [
+        {
+          "name": "Neon Neon",
+          "url": "https://open.spotify.com/artist/0GHcMuYNbDXb8cfJ7I5PsD"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Dream Cars",
+      "url": "https://open.spotify.com/track/32VOU1p43IfunZDoSrxE4v"
     }
   ],
   "unique_name": "20QheuAYbSRnj6SaIbjPWA",
