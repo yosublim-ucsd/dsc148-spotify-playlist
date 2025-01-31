@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Solann",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Ben Mazu\u00e9",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 216363,
       "name": "Adorer",
       "url": "https://open.spotify.com/track/2A0fiFC0aaMzUGgudG3w8x"
@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "De ton vivant",
+        "url": "https://open.spotify.com/album/2jqy3gATiuA0IbJoYAG3lZ"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "Comment fais-tu pour vivre ? - version guitare",
+      "url": "https://open.spotify.com/track/0a0FoOFwLFgsPNYH3VjN5t"
+    },
+    {
+      "album": {
         "name": "Contre-c\u0153ur",
         "url": "https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 217819,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/7MiE534goM0NaxN7qxxhWw"
@@ -372,6 +390,24 @@
       "duration_ms": 196920,
       "name": "D'avoir v\u00e9cu assez",
       "url": "https://open.spotify.com/track/6tesGbKz1I8Cj4dqfbzUe5"
+    },
+    {
+      "album": {
+        "name": "Henri Salvador est un Voyou",
+        "url": "https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188716,
+      "name": "Dans mon \u00eele",
+      "url": "https://open.spotify.com/track/6jxRw02LHJfsnRIAfdrrwZ"
     },
     {
       "album": {
@@ -520,6 +556,24 @@
       "duration_ms": 199120,
       "name": "Exister",
       "url": "https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865"
+    },
+    {
+      "album": {
+        "name": "Famille",
+        "url": "https://open.spotify.com/album/5rhxlNvBqpy9Xr4geJ8B8m"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Famille",
+      "url": "https://open.spotify.com/track/4O7Da2WyihJIM282Gz4MiK"
     },
     {
       "album": {
@@ -754,7 +808,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 198000,
       "name": "ils en savent quoi ?",
       "url": "https://open.spotify.com/track/3pQiYMXNgoSAwwFo0P2P7D"
@@ -924,6 +978,24 @@
       "duration_ms": 283509,
       "name": "Je voudrais tomber amoureux",
       "url": "https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2"
+    },
+    {
+      "album": {
+        "name": "JEAN",
+        "url": "https://open.spotify.com/album/7qIiRSinRJopSRVuqZT9E9"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Cherhal",
+          "url": "https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "JEAN",
+      "url": "https://open.spotify.com/track/2KQaZMOnSVvUws99I5H6y2"
     },
     {
       "album": {
@@ -1144,7 +1216,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 158906,
       "name": "Le c\u0153ur qui bat",
       "url": "https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC"
@@ -1801,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Pour te plaire",
+        "url": "https://open.spotify.com/album/1GAS9ktxls3jYTnHWU31uq"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9l\u00e8ne Sio",
+          "url": "https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184229,
+      "name": "Pour te plaire",
+      "url": "https://open.spotify.com/track/1btUUml5I5zktEtJlmaht1"
+    },
+    {
+      "album": {
         "name": "[pr\u00e8chof]",
         "url": "https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq"
       },
@@ -2278,7 +2368,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 215320,
       "name": "un chien sur le port",
       "url": "https://open.spotify.com/track/4dOmICDdEiOiqgiDhD1XrU"
@@ -2397,6 +2487,32 @@
     },
     {
       "album": {
+        "name": "\u00c0 quoi tu penses ?",
+        "url": "https://open.spotify.com/album/4OBljJluufDECpKXqDs27P"
+      },
+      "artists": [
+        {
+          "name": "Ours",
+          "url": "https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H"
+        },
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        },
+        {
+          "name": "Pierre Souchon",
+          "url": "https://open.spotify.com/artist/1VXDkrXR9IXKIdotTI5GtZ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200984,
+      "name": "\u00c0 quoi tu penses ?",
+      "url": "https://open.spotify.com/track/1fohypbxw75F3KaLX8PHZU"
+    },
+    {
+      "album": {
         "name": "L\u2019impermanence",
         "url": "https://open.spotify.com/album/68UALG5MqVdnpHfeOsMHtN"
       },
@@ -2408,7 +2524,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 145786,
       "name": "\u00c9claircie sur le jardin",
       "url": "https://open.spotify.com/track/0v7FZArmGHq8hWP4pJPYIY"

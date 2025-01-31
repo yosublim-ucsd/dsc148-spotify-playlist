@@ -1,48 +1,32 @@
 {
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Raluka",
-  "num_followers": 58199,
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Andrei Ursu, Andra",
+  "num_followers": 58215,
   "original_name": "Hiturile de azi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5K7/wAAAAB4Rc/o4xMp1VZniXVBFQfc",
+  "snapshot_id": "Z5v2hAAAAACaRXZbsm9ujjcKfZZceXnS",
   "tracks": [
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "Amangoi",
-        "url": "https://open.spotify.com/album/1pEvO9aEvYdcadtQ7OhILi"
+        "name": "De-ai fi \u00een locul meu",
+        "url": "https://open.spotify.com/album/1aLhlUceMXjCrePnXaMrCp"
       },
       "artists": [
         {
-          "name": "Raluka",
-          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Inainte sa pleci",
-      "url": "https://open.spotify.com/track/5hvllpMgrrroUcUtjf4Y9F"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Cele doua cuvinte",
-        "url": "https://open.spotify.com/album/4qqUblnJNDW86GQyEbC52T"
-      },
-      "artists": [
-        {
-          "name": "Radu Stefan Banica",
-          "url": "https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1"
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
         },
         {
-          "name": "Misha Miller",
-          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+          "name": "Andra",
+          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
         }
       ],
-      "duration_ms": 150361,
-      "name": "Cele doua cuvinte",
-      "url": "https://open.spotify.com/track/7e8VH12EC1KZGQc4ZwNfFv"
+      "duration_ms": 193655,
+      "name": "De-ai fi \u00een locul meu",
+      "url": "https://open.spotify.com/track/0W7iBgUGjDNwBntExP0Gam"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -79,6 +63,66 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/6SGobsq37sSVRfnoNRXarz"
+      },
+      "artists": [
+        {
+          "name": "David Ciente",
+          "url": "https://open.spotify.com/artist/2x33Tw2x7KbILr1FIh92O2"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        },
+        {
+          "name": "Surorile Osoianu",
+          "url": "https://open.spotify.com/artist/188AtEwri19eMLJekHmCVE"
+        }
+      ],
+      "duration_ms": 194437,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/3LkaUnPSf49MvnmSKj25AM"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Amangoi",
+        "url": "https://open.spotify.com/album/1pEvO9aEvYdcadtQ7OhILi"
+      },
+      "artists": [
+        {
+          "name": "Raluka",
+          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Inainte sa pleci",
+      "url": "https://open.spotify.com/track/5hvllpMgrrroUcUtjf4Y9F"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Ultimul Dans",
+        "url": "https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Ultimul Dans",
+      "url": "https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH"
       },
@@ -95,6 +139,26 @@
       "duration_ms": 150000,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Cele doua cuvinte",
+        "url": "https://open.spotify.com/album/4qqUblnJNDW86GQyEbC52T"
+      },
+      "artists": [
+        {
+          "name": "Radu Stefan Banica",
+          "url": "https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1"
+        },
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Cele doua cuvinte",
+      "url": "https://open.spotify.com/track/7e8VH12EC1KZGQc4ZwNfFv"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -133,44 +197,24 @@
       "url": "https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ"
     },
     {
-      "added_at": "2025-01-23 22:00:31",
+      "added_at": "2025-01-30 22:00:36",
       "album": {
-        "name": "P\u0103m\u00e2ntul",
-        "url": "https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x"
+        "name": "Z\u00e2mbe\u0219te",
+        "url": "https://open.spotify.com/album/2No3D5XSNn3EGZ6SS38yfD"
       },
       "artists": [
         {
-          "name": "The Urs",
-          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
-        }
-      ],
-      "duration_ms": 171951,
-      "name": "P\u0103m\u00e2ntul",
-      "url": "https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/6SGobsq37sSVRfnoNRXarz"
-      },
-      "artists": [
-        {
-          "name": "David Ciente",
-          "url": "https://open.spotify.com/artist/2x33Tw2x7KbILr1FIh92O2"
+          "name": "Cleopatra Stratan",
+          "url": "https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG"
         },
         {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        },
-        {
-          "name": "Surorile Osoianu",
-          "url": "https://open.spotify.com/artist/188AtEwri19eMLJekHmCVE"
+          "name": "Pavel Stratan",
+          "url": "https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF"
         }
       ],
-      "duration_ms": 194437,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/3LkaUnPSf49MvnmSKj25AM"
+      "duration_ms": 185732,
+      "name": "Z\u00e2mbe\u0219te",
+      "url": "https://open.spotify.com/track/0vT1xGO41auK3VyI65IldA"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -195,26 +239,6 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "P\u00e2n\u0103 la final \u0219i mai departe",
-        "url": "https://open.spotify.com/album/0VTaNyrHW5Mw19x38zAQYQ"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
-        },
-        {
-          "name": "Andrei Banuta",
-          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
-        }
-      ],
-      "duration_ms": 149306,
-      "name": "Nu m\u0103 la\u0219i s\u0103 te las",
-      "url": "https://open.spotify.com/track/6uRuXkzTwPoSqcAED4ygML"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
         "name": "De ce plang chitarele",
         "url": "https://open.spotify.com/album/4kXNDZdMEpJIGIKjUnG9Dt"
       },
@@ -235,22 +259,102 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "S\u0103 m\u0103 iube\u0219ti",
-        "url": "https://open.spotify.com/album/7e5mFgXK6KNMVSD6LeGIcF"
+        "name": "S\u0103 curg\u0103 \u0219ampania",
+        "url": "https://open.spotify.com/album/5qbuhRXNNuH1QdBNiyGX4k"
       },
       "artists": [
         {
-          "name": "Andrei Ursu",
-          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
-        },
-        {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
         }
       ],
-      "duration_ms": 196320,
-      "name": "S\u0103 m\u0103 iube\u0219ti",
-      "url": "https://open.spotify.com/track/7vOicF7WjREmCSCyOeqjl4"
+      "duration_ms": 178947,
+      "name": "S\u0103 curg\u0103 \u0219ampania",
+      "url": "https://open.spotify.com/track/7AOQGl6KHXylqTqrvszSie"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "P\u0103m\u00e2ntul",
+        "url": "https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x"
+      },
+      "artists": [
+        {
+          "name": "The Urs",
+          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
+        }
+      ],
+      "duration_ms": 171951,
+      "name": "P\u0103m\u00e2ntul",
+      "url": "https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Cum te vad eu",
+        "url": "https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Cum te vad eu",
+      "url": "https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "P\u00e2n\u0103 la final \u0219i mai departe",
+        "url": "https://open.spotify.com/album/0VTaNyrHW5Mw19x38zAQYQ"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        }
+      ],
+      "duration_ms": 149306,
+      "name": "Nu m\u0103 la\u0219i s\u0103 te las",
+      "url": "https://open.spotify.com/track/6uRuXkzTwPoSqcAED4ygML"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Ploi de Tequila",
+        "url": "https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk"
+      },
+      "artists": [
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        }
+      ],
+      "duration_ms": 146646,
+      "name": "Ploi de Tequila",
+      "url": "https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Bilet doar dus",
+        "url": "https://open.spotify.com/album/4nRZzLqqFM8ZQQmVdt81rp"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Bilet doar dus",
+      "url": "https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -275,40 +379,8 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "Pentru Inimi Frante",
-        "url": "https://open.spotify.com/album/2N97K2JsZf9HKCh4Mnup5V"
-      },
-      "artists": [
-        {
-          "name": "Lora",
-          "url": "https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Pentru Inimi Frante",
-      "url": "https://open.spotify.com/track/2Vte9P5aMap0rBZrB47stv"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Ploi de Tequila",
-        "url": "https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk"
-      },
-      "artists": [
-        {
-          "name": "Antonia",
-          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
-        }
-      ],
-      "duration_ms": 146646,
-      "name": "Ploi de Tequila",
-      "url": "https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "De-ai fi \u00een locul meu",
-        "url": "https://open.spotify.com/album/1aLhlUceMXjCrePnXaMrCp"
+        "name": "S\u0103 m\u0103 iube\u0219ti",
+        "url": "https://open.spotify.com/album/7e5mFgXK6KNMVSD6LeGIcF"
       },
       "artists": [
         {
@@ -316,13 +388,13 @@
           "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
         },
         {
-          "name": "Andra",
-          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
         }
       ],
-      "duration_ms": 193655,
-      "name": "De-ai fi \u00een locul meu",
-      "url": "https://open.spotify.com/track/0W7iBgUGjDNwBntExP0Gam"
+      "duration_ms": 196320,
+      "name": "S\u0103 m\u0103 iube\u0219ti",
+      "url": "https://open.spotify.com/track/7vOicF7WjREmCSCyOeqjl4"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -347,112 +419,8 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "Viitorul sun\u0103 bine",
-        "url": "https://open.spotify.com/album/3OqXA73LBp14vlaHRYuMTF"
-      },
-      "artists": [
-        {
-          "name": "The Motans",
-          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
-        }
-      ],
-      "duration_ms": 208750,
-      "name": "Viitorul sun\u0103 bine",
-      "url": "https://open.spotify.com/track/3EMLxl3UmEUi27hkXcKLkZ"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "S\u0103 curg\u0103 \u0219ampania",
-        "url": "https://open.spotify.com/album/5qbuhRXNNuH1QdBNiyGX4k"
-      },
-      "artists": [
-        {
-          "name": "JO",
-          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "S\u0103 curg\u0103 \u0219ampania",
-      "url": "https://open.spotify.com/track/7AOQGl6KHXylqTqrvszSie"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Cum te vad eu",
-        "url": "https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Cum te vad eu",
-      "url": "https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Ploi letale",
-        "url": "https://open.spotify.com/album/1u4IaAkU5blHeW2o4Fp04C"
-      },
-      "artists": [
-        {
-          "name": "Cristian Porcari",
-          "url": "https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7"
-        }
-      ],
-      "duration_ms": 187921,
-      "name": "Ploi letale",
-      "url": "https://open.spotify.com/track/6kM7Qssc0pa3Hg3SI62r4i"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Ultimul Dans",
-        "url": "https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS"
-      },
-      "artists": [
-        {
-          "name": "Theo Rose",
-          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
-        },
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Ultimul Dans",
-      "url": "https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Lacrimi",
-        "url": "https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F"
-      },
-      "artists": [
-        {
-          "name": "Daria Lupi",
-          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
-        },
-        {
-          "name": "OG Eastbull",
-          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
-        }
-      ],
-      "duration_ms": 167302,
-      "name": "Lacrimi",
-      "url": "https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Nu m\u0103 \u00eentorc (12.09.2024)",
-        "url": "https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG"
+        "name": "Nu Pl\u00e2nge",
+        "url": "https://open.spotify.com/album/5EVVqHzYKTCA1uwi4vNJB6"
       },
       "artists": [
         {
@@ -460,41 +428,25 @@
           "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Nu m\u0103 \u00eentorc - 12.09.2024",
-      "url": "https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L"
+      "duration_ms": 197987,
+      "name": "Nu Pl\u00e2nge",
+      "url": "https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv"
     },
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "Bilet doar dus",
-        "url": "https://open.spotify.com/album/4nRZzLqqFM8ZQQmVdt81rp"
+        "name": "Pentru Inimi Frante",
+        "url": "https://open.spotify.com/album/2N97K2JsZf9HKCh4Mnup5V"
       },
       "artists": [
         {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+          "name": "Lora",
+          "url": "https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq"
         }
       ],
-      "duration_ms": 141714,
-      "name": "Bilet doar dus",
-      "url": "https://open.spotify.com/track/0eT9x6eqtQzMqzBUYr3FDu"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Ultima",
-        "url": "https://open.spotify.com/album/3Sl6dC3dAyRghTITCG89YD"
-      },
-      "artists": [
-        {
-          "name": "3 Sud Est",
-          "url": "https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC"
-        }
-      ],
-      "duration_ms": 210007,
-      "name": "Ultima",
-      "url": "https://open.spotify.com/track/47uguUF6h9NSOLexfbrgep"
+      "duration_ms": 187636,
+      "name": "Pentru Inimi Frante",
+      "url": "https://open.spotify.com/track/2Vte9P5aMap0rBZrB47stv"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -511,6 +463,22 @@
       "duration_ms": 141104,
       "name": "De dragul tau",
       "url": "https://open.spotify.com/track/1oknonBOzLKsq8nvmF5wc1"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Ploi letale",
+        "url": "https://open.spotify.com/album/1u4IaAkU5blHeW2o4Fp04C"
+      },
+      "artists": [
+        {
+          "name": "Cristian Porcari",
+          "url": "https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7"
+        }
+      ],
+      "duration_ms": 187921,
+      "name": "Ploi letale",
+      "url": "https://open.spotify.com/track/6kM7Qssc0pa3Hg3SI62r4i"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -551,42 +519,6 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "7 zile de 8 ori",
-        "url": "https://open.spotify.com/album/0cMi3lBoihkgoc2M6GqE0B"
-      },
-      "artists": [
-        {
-          "name": "Manuel Riva",
-          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
-        },
-        {
-          "name": "IRAIDA",
-          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "7 zile de 8 ori",
-      "url": "https://open.spotify.com/track/4r8QP0r8oEWjNRiqRa1JyC"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Nu Pl\u00e2nge",
-        "url": "https://open.spotify.com/album/5EVVqHzYKTCA1uwi4vNJB6"
-      },
-      "artists": [
-        {
-          "name": "Mario ",
-          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
-        }
-      ],
-      "duration_ms": 197987,
-      "name": "Nu Pl\u00e2nge",
-      "url": "https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
         "name": "Antifragil",
         "url": "https://open.spotify.com/album/7c5Nufai061QtoKDEsv8VC"
       },
@@ -623,42 +555,6 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "Am fost",
-        "url": "https://open.spotify.com/album/7DW2hiwY664iXJsSotCA2G"
-      },
-      "artists": [
-        {
-          "name": "Ronna Riva",
-          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
-        },
-        {
-          "name": "Tostogan's",
-          "url": "https://open.spotify.com/artist/4FR2mH4PHFMDE5kYj0v1WR"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Am fost",
-      "url": "https://open.spotify.com/track/0Zse8E4z0xT7r0EIpvlLBh"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "Niciodat\u0103",
-        "url": "https://open.spotify.com/album/0ULRCiP92LGXs2Y9v1lfMa"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Niciodat\u0103",
-      "url": "https://open.spotify.com/track/1ad3VcBShCyHo43vLq75JB"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
         "name": "L\u00c2NG\u0102 TINE E FAIN",
         "url": "https://open.spotify.com/album/3MD8csHCBSfPrHcwxuSikh"
       },
@@ -679,38 +575,22 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "Alarm\u0103 fals\u0103",
-        "url": "https://open.spotify.com/album/4WqQP8Rzu8xGQHvdWmmfUy"
+        "name": "7 zile de 8 ori",
+        "url": "https://open.spotify.com/album/0cMi3lBoihkgoc2M6GqE0B"
       },
       "artists": [
         {
-          "name": "Liviu Teodorescu",
-          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+          "name": "Manuel Riva",
+          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
         },
         {
-          "name": "Eva Timush",
-          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+          "name": "IRAIDA",
+          "url": "https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov"
         }
       ],
-      "duration_ms": 135766,
-      "name": "Alarm\u0103 fals\u0103",
-      "url": "https://open.spotify.com/track/1WEoUIepliQWyDp2aY0S7L"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "C\u00e2nt\u0103 Dorul",
-        "url": "https://open.spotify.com/album/6Eeh67N2hQINeWdlOAKP0M"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        }
-      ],
-      "duration_ms": 135967,
-      "name": "C\u00e2nt\u0103 Dorul",
-      "url": "https://open.spotify.com/track/5P1lYdEicgJho9ylII3VZZ"
+      "duration_ms": 154838,
+      "name": "7 zile de 8 ori",
+      "url": "https://open.spotify.com/track/4r8QP0r8oEWjNRiqRa1JyC"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -731,22 +611,6 @@
       "duration_ms": 158048,
       "name": "Arde cerul",
       "url": "https://open.spotify.com/track/6lmB4XvuVcyJ7lTsrqOZSB"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "O, brad faimos",
-        "url": "https://open.spotify.com/album/4gvXXxpCIhLSJJ16lVR7eN"
-      },
-      "artists": [
-        {
-          "name": "Iuliana Beregoi",
-          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
-        }
-      ],
-      "duration_ms": 181016,
-      "name": "O, brad faimos",
-      "url": "https://open.spotify.com/track/2Ru51wqn1WxwZaWRZWvjn2"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -811,6 +675,110 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
+        "name": "C\u00e2nt\u0103 Dorul",
+        "url": "https://open.spotify.com/album/6Eeh67N2hQINeWdlOAKP0M"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "C\u00e2nt\u0103 Dorul",
+      "url": "https://open.spotify.com/track/5P1lYdEicgJho9ylII3VZZ"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Alarm\u0103 fals\u0103",
+        "url": "https://open.spotify.com/album/4WqQP8Rzu8xGQHvdWmmfUy"
+      },
+      "artists": [
+        {
+          "name": "Liviu Teodorescu",
+          "url": "https://open.spotify.com/artist/7Ml36YHsejaW7jVjJAhW4a"
+        },
+        {
+          "name": "Eva Timush",
+          "url": "https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk"
+        }
+      ],
+      "duration_ms": 135766,
+      "name": "Alarm\u0103 fals\u0103",
+      "url": "https://open.spotify.com/track/1WEoUIepliQWyDp2aY0S7L"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Am fost",
+        "url": "https://open.spotify.com/album/7DW2hiwY664iXJsSotCA2G"
+      },
+      "artists": [
+        {
+          "name": "Ronna Riva",
+          "url": "https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq"
+        },
+        {
+          "name": "Tostogan's",
+          "url": "https://open.spotify.com/artist/4FR2mH4PHFMDE5kYj0v1WR"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Am fost",
+      "url": "https://open.spotify.com/track/0Zse8E4z0xT7r0EIpvlLBh"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Niciodat\u0103",
+        "url": "https://open.spotify.com/album/0ULRCiP92LGXs2Y9v1lfMa"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Niciodat\u0103",
+      "url": "https://open.spotify.com/track/1ad3VcBShCyHo43vLq75JB"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Nu m\u0103 \u00eentorc (12.09.2024)",
+        "url": "https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Nu m\u0103 \u00eentorc - 12.09.2024",
+      "url": "https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Ultima",
+        "url": "https://open.spotify.com/album/3Sl6dC3dAyRghTITCG89YD"
+      },
+      "artists": [
+        {
+          "name": "3 Sud Est",
+          "url": "https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC"
+        }
+      ],
+      "duration_ms": 210007,
+      "name": "Ultima",
+      "url": "https://open.spotify.com/track/47uguUF6h9NSOLexfbrgep"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
         "name": "Forever 18",
         "url": "https://open.spotify.com/album/0KfAxkfKqDiX8SKCMbcMlb"
       },
@@ -823,26 +791,6 @@
       "duration_ms": 203200,
       "name": "Forever 18",
       "url": "https://open.spotify.com/track/3klHXW9tj8nuQY0LwaiMy4"
-    },
-    {
-      "added_at": "2025-01-23 22:00:31",
-      "album": {
-        "name": "S\u0103 m\u0103 las",
-        "url": "https://open.spotify.com/album/0D08LHoPbY4gpv8tu12ZN9"
-      },
-      "artists": [
-        {
-          "name": "Bianca Tilici",
-          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
-        },
-        {
-          "name": "Shift",
-          "url": "https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "S\u0103 m\u0103 las",
-      "url": "https://open.spotify.com/track/1tH9L6HTHBgo6zJHY2TS2Q"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -879,18 +827,18 @@
     {
       "added_at": "2025-01-23 22:00:31",
       "album": {
-        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
-        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
+        "name": "O, brad faimos",
+        "url": "https://open.spotify.com/album/4gvXXxpCIhLSJJ16lVR7eN"
       },
       "artists": [
         {
-          "name": "Theo Rose",
-          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
         }
       ],
-      "duration_ms": 144303,
-      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
-      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
+      "duration_ms": 181016,
+      "name": "O, brad faimos",
+      "url": "https://open.spotify.com/track/2Ru51wqn1WxwZaWRZWvjn2"
     },
     {
       "added_at": "2025-01-23 22:00:31",
@@ -907,6 +855,58 @@
       "duration_ms": 182727,
       "name": "Acela\u0219i ora\u0219",
       "url": "https://open.spotify.com/track/6MeoGIs5zRBXhEEwUWSewZ"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Viitorul sun\u0103 bine",
+        "url": "https://open.spotify.com/album/3OqXA73LBp14vlaHRYuMTF"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        }
+      ],
+      "duration_ms": 208750,
+      "name": "Viitorul sun\u0103 bine",
+      "url": "https://open.spotify.com/track/3EMLxl3UmEUi27hkXcKLkZ"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
+        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "duration_ms": 144303,
+      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
+      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
+    },
+    {
+      "added_at": "2025-01-23 22:00:31",
+      "album": {
+        "name": "Lacrimi",
+        "url": "https://open.spotify.com/album/0Or68bwwHfbww8ECp81b0F"
+      },
+      "artists": [
+        {
+          "name": "Daria Lupi",
+          "url": "https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw"
+        },
+        {
+          "name": "OG Eastbull",
+          "url": "https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO"
+        }
+      ],
+      "duration_ms": 167302,
+      "name": "Lacrimi",
+      "url": "https://open.spotify.com/track/7wT5gc9AaTqRwZzrITMNFn"
     }
   ],
   "unique_name": "Hiturile de azi",

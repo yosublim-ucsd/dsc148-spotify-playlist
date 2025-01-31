@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Maria Nastenka\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,322 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,361 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 9 | [Irreversible](https://open.spotify.com/track/4UR1eSfuhyw8kPnt7n9IKU) | [Chan](https://open.spotify.com/artist/7eW92uO1go30tdK4XtqVPh), [Paulé](https://open.spotify.com/artist/2m9jV2Fgzu706beiRass52) | [Irreversible](https://open.spotify.com/album/1asjMbweetJ5tCtFXk88ix) | 3:13 |
 | 10 | [El Mar \(parece roto\)](https://open.spotify.com/track/0ARduJZzHGefGVwvbmaWFe) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Laguna](https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1) | [El Mar \(parece roto\)](https://open.spotify.com/album/4eoIU0UKHbJNbBbOpEp3aO) | 6:02 |
 | 11 | [MIRAMAR](https://open.spotify.com/track/3izJomVxaL37VCcmFrRY0s) | [Venno](https://open.spotify.com/artist/5fOKkqvcClPZKgw4zJgw7c) | [MIRAMAR](https://open.spotify.com/album/1yb3T8FSoURrTdcWh9iju6) | 2:51 |
-| 12 | [oyé Rodri :\(](https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL) | [Cervezas y Tabacos](https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq) | 3:19 |
+| 12 | [oye Rodri :\(](https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL) | [Cervezas y Tabacos](https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq) | 3:19 |
 | 13 | [Arena](https://open.spotify.com/track/6nN7T3jfgM9PttuXVDqjro) | [Constantino](https://open.spotify.com/artist/7JXB79cwLMZDYTwbDe7lfb) | [Arena](https://open.spotify.com/album/4cvZPjLYqA5aiUq8Xhe4hL) | 3:44 |
 | 14 | [Las 10:00Pm](https://open.spotify.com/track/0UpFLFnYsNhi18VP4f0jn0) | [Max Huerta](https://open.spotify.com/artist/0PLrkFUfDyJVVIEJvbAYj1) | [Noches de desvelo](https://open.spotify.com/album/3xQQSRZ4j4qsy1XYMIhI0u) | 3:31 |
 | 15 | [hawaii en invierno](https://open.spotify.com/track/4Q16s0BoPTTprvzFbWTIR8) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [hawaii en invierno](https://open.spotify.com/album/06DQ2FyP8pmLVQiDyrrpS3) | 3:33 |

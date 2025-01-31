@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Ligtas",
+        "url": "https://open.spotify.com/album/5AFt9Um6ybLcQ42fAqYlZc"
+      },
+      "artists": [
+        {
+          "name": "Torch Family Music",
+          "url": "https://open.spotify.com/artist/7uXEC6VJLXhLDb3oZ5MTfw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266086,
+      "name": "Ligtas",
+      "url": "https://open.spotify.com/track/6c2KsvTX9k7bEOKSP7GVrV"
+    },
+    {
+      "album": {
         "name": "Lilim (In Your Shelter)",
         "url": "https://open.spotify.com/album/0ERLfNl2ATWh66pIPIeysD"
       },

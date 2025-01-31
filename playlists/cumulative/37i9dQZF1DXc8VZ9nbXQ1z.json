@@ -13137,6 +13137,28 @@
     },
     {
       "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/2Otl8YP3QTEbRQGF37OBUD"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "SA\u00cdGO",
+          "url": "https://open.spotify.com/artist/2Gu2iejmc6pUo0ZR7thZCO"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205282,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/5AZyHhvHCeOCGy9XdMOIKK"
+    },
+    {
+      "album": {
         "name": "The Past",
         "url": "https://open.spotify.com/album/6H3R02q41LGd8nVykX3KT4"
       },

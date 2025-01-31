@@ -153,6 +153,28 @@
     },
     {
       "album": {
+        "name": "Aigiri",
+        "url": "https://open.spotify.com/album/3Rd1QZKjazNOFZ7w5kGRGQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Sai",
+          "url": "https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9"
+        },
+        {
+          "name": "DEYO",
+          "url": "https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103500,
+      "name": "Aigiri",
+      "url": "https://open.spotify.com/track/5iXC0jZlDPxNokyL1rdHsV"
+    },
+    {
+      "album": {
         "name": "Akkrinai Naan (From \"Captain\")",
         "url": "https://open.spotify.com/album/51HbJ9d3dsBatTaYKEsLzR"
       },
@@ -390,7 +412,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 191142,
       "name": "Brother Bigson Mandela",
       "url": "https://open.spotify.com/track/2mSoTLvQtGpUpCkxARsY8A"
@@ -516,6 +538,32 @@
       "duration_ms": 163669,
       "name": "Chitti Dance Showcase",
       "url": "https://open.spotify.com/track/1NCzEc6oyDEWa6p3U78yMY"
+    },
+    {
+      "album": {
+        "name": "Death Molam",
+        "url": "https://open.spotify.com/album/5D7M9zUsHOXjzQJflzaHlc"
+      },
+      "artists": [
+        {
+          "name": "8c Sam",
+          "url": "https://open.spotify.com/artist/3wlmBQ2p8TYonVM9CMuaUX"
+        },
+        {
+          "name": "8c tony",
+          "url": "https://open.spotify.com/artist/4dgvjJXnVc0LsMcPxJ1G2l"
+        },
+        {
+          "name": "Adipetti",
+          "url": "https://open.spotify.com/artist/3xc0HXO4HGJI3KVD0bI8ZR"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258644,
+      "name": "Death Molam",
+      "url": "https://open.spotify.com/track/1cWkNAI04ZAmHeSIGfXRsW"
     },
     {
       "album": {
@@ -918,7 +966,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 176576,
       "name": "Hayati",
       "url": "https://open.spotify.com/track/0ZV2OU0ciMA1yZS86qv51V"
@@ -1279,6 +1327,32 @@
     },
     {
       "album": {
+        "name": "Kaathu Mela (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
+      },
+      "artists": [
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123252,
+      "name": "Kaathu Mela - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE"
+    },
+    {
+      "album": {
         "name": "Kadikaram",
         "url": "https://open.spotify.com/album/6Ju9c2cy7jX3WIOVupornL"
       },
@@ -1438,7 +1512,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 186061,
       "name": "Kazhivara",
       "url": "https://open.spotify.com/track/15Xc1PG7QsLE5PPMJaFwTo"
@@ -2884,7 +2958,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 203588,
       "name": "Stable In The Game",
       "url": "https://open.spotify.com/track/516ahJ811GuLW1vgz1H0aB"

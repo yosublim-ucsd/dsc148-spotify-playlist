@@ -1,13 +1,237 @@
 {
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Tyga)",
-  "num_followers": 448236,
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Travis Scott)",
+  "num_followers": 448309,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeawAAAABw5k0JpBpfpLalmyISj0cv",
+  "snapshot_id": "Z5uiEAAAAAAdl2V3B9cRXnasTAJlqo0C",
   "tracks": [
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "KAWASAKI (with pH-1)",
+        "url": "https://open.spotify.com/album/1RXcebYRkziuEISb8Owebn"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 131166,
+      "name": "KAWASAKI (with pH-1)",
+      "url": "https://open.spotify.com/track/0QZABM9f7qhxAeW88WmBSY"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "BEAUTIFUL SCARS (feat. OBanga)",
+        "url": "https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "OBanga",
+          "url": "https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv"
+        }
+      ],
+      "duration_ms": 226031,
+      "name": "BEAUTIFUL SCARS (feat. OBanga)",
+      "url": "https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "Table 4 Two (feat. Tuan Tigabelas)",
+        "url": "https://open.spotify.com/album/6srEZI8Qb6Hi22m6xIo5wV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Reijman",
+          "url": "https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL"
+        },
+        {
+          "name": "Tuantigabelas",
+          "url": "https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn"
+        }
+      ],
+      "duration_ms": 252020,
+      "name": "Table 4 Two (feat. Tuan Tigabelas)",
+      "url": "https://open.spotify.com/track/0aiaMOrEuMQS8aGBSW3yFs"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "ID feat. RYOKI (BE:FIRST), RYUKI (MAZZEL), JIMMY (PSYCHIC FEVER), FELIP",
+        "url": "https://open.spotify.com/album/2aI04mIDKNeBLfZHxKEF9Q"
+      },
+      "artists": [
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        },
+        {
+          "name": "RYOKI",
+          "url": "https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm"
+        },
+        {
+          "name": "RYUKI",
+          "url": "https://open.spotify.com/artist/5uqXBEdoZzQXLRd8L77GoL"
+        },
+        {
+          "name": "JIMMY",
+          "url": "https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1"
+        },
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "duration_ms": 212259,
+      "name": "ID feat. RYOKI (BE:FIRST), RYUKI (MAZZEL), JIMMY (PSYCHIC FEVER), FELIP",
+      "url": "https://open.spotify.com/track/2cXkFKFgEW5Myc0yNy6CqL"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "Piece of Gem",
+        "url": "https://open.spotify.com/album/3AgG0IpfNk7WTag6ScFqrG"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Gemini",
+          "url": "https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA"
+        }
+      ],
+      "duration_ms": 159857,
+      "name": "Piece of Gem",
+      "url": "https://open.spotify.com/track/1TUOKpnX1wsFCwMP8CUYxe"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "The Grand Finale.",
+        "url": "https://open.spotify.com/album/6S2nHQxFMaUSAHxZrAvJnx"
+      },
+      "artists": [
+        {
+          "name": "TripleNoize",
+          "url": "https://open.spotify.com/artist/5lqfhx6wc2CWCly0OwPBH6"
+        },
+        {
+          "name": "Aishah",
+          "url": "https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb"
+        }
+      ],
+      "duration_ms": 103953,
+      "name": "The Grand Finale.",
+      "url": "https://open.spotify.com/track/51Zl0O3Xz5rU84B2S0dZcD"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "My G's",
+        "url": "https://open.spotify.com/album/498Fuxo3pL5C36JOPmYbJp"
+      },
+      "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        }
+      ],
+      "duration_ms": 198913,
+      "name": "My G's (feat. SEEDA)",
+      "url": "https://open.spotify.com/track/5lVWzY282dRXHbckEBgsCm"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/2gnTrXJZqiNAboXtTBLuZx"
+      },
+      "artists": [
+        {
+          "name": "Kalou",
+          "url": "https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu"
+        },
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        }
+      ],
+      "duration_ms": 194795,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/10F5YIvK0QZ1m6q7BJybpq"
+    },
+    {
+      "added_at": "2025-01-30 16:00:16",
+      "album": {
+        "name": "Creole",
+        "url": "https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt"
+      },
+      "artists": [
+        {
+          "name": "Tre Mission",
+          "url": "https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg"
+        }
+      ],
+      "duration_ms": 149056,
+      "name": "Creole",
+      "url": "https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A"
+    },
     {
       "added_at": "2025-01-17 00:00:17",
       "album": {
@@ -1503,30 +1727,6 @@
     {
       "added_at": "2025-01-17 00:00:17",
       "album": {
-        "name": "Ravenite Social Club",
-        "url": "https://open.spotify.com/album/39Ai9aMpw7oJ2pJLYgRQ7g"
-      },
-      "artists": [
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Emi Secrest",
-          "url": "https://open.spotify.com/artist/7b6tYoAAoGRMlr42ekCIRj"
-        }
-      ],
-      "duration_ms": 236873,
-      "name": "To You (feat. Robert Glasper, Emi Secrest)",
-      "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
         "name": "FLOW",
         "url": "https://open.spotify.com/album/4ZVDy93t8G2t4LnwIxy6bR"
       },
@@ -1623,62 +1823,6 @@
     {
       "added_at": "2025-01-17 00:00:17",
       "album": {
-        "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/0LTKr6CYodMykZ1spMEEKF"
-      },
-      "artists": [
-        {
-          "name": "BNYX\u00ae",
-          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 110302,
-      "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
-        "name": "Thug Memorials",
-        "url": "https://open.spotify.com/album/6bRyQTTn5IqTPswEauFAoV"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Thug Memorials",
-      "url": "https://open.spotify.com/track/6k3FXZe2ksgjMUFAN4VUEv"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
-        "name": "2s n 3s (Solo)",
-        "url": "https://open.spotify.com/album/55WeVsnE7WMsrQKtuwpNCZ"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        }
-      ],
-      "duration_ms": 108613,
-      "name": "2s n 3s - Solo",
-      "url": "https://open.spotify.com/track/42ZRAfQJP1OOwCraHo3RWz"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
         "name": "HANDLING BUSINESS (with Tory Lanez)",
         "url": "https://open.spotify.com/album/42VticDK80cuD3NDfZNGNV"
       },
@@ -1715,46 +1859,6 @@
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
-        "name": "2HII",
-        "url": "https://open.spotify.com/album/2sYRcSfLpSpC5CCNNnlwtz"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Masiwei",
-          "url": "https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA"
-        },
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        }
-      ],
-      "duration_ms": 157637,
-      "name": "2HII",
-      "url": "https://open.spotify.com/track/4zj41U06wJ0Q4F6HKQTP2l"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2025-01-17 00:00:17",
@@ -1815,26 +1919,6 @@
     {
       "added_at": "2025-01-17 00:00:17",
       "album": {
-        "name": "KAWASAKI (with Big Sean)",
-        "url": "https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H"
-      },
-      "artists": [
-        {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 126935,
-      "name": "KAWASAKI (with Big Sean)",
-      "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
         "name": "Let it Go Baby",
         "url": "https://open.spotify.com/album/09DA1VKkRnMdDc7GgbN6H5"
       },
@@ -1847,86 +1931,6 @@
       "duration_ms": 205505,
       "name": "Let it Go Baby",
       "url": "https://open.spotify.com/track/68zSMfOlDFjYuNHus4F4wY"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
-        "name": "Lonely Road (feat. Terrace Martin)",
-        "url": "https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 200563,
-      "name": "Lonely Road (feat. Terrace Martin)",
-      "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
-        "name": "No More Heroes",
-        "url": "https://open.spotify.com/album/2aM0jFwChVIDIIpF6hUO0t"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 144024,
-      "name": "No More Heroes",
-      "url": "https://open.spotify.com/track/47XV8Js6lsAPdT0W90eFKZ"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
-        "name": "AGATS2 (Insecure) [with Nicki Minaj]",
-        "url": "https://open.spotify.com/album/6IIaL3K3K8neDuxsHC5i1W"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199073,
-      "name": "AGATS2 (Insecure) [with Nicki Minaj]",
-      "url": "https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm"
-    },
-    {
-      "added_at": "2025-01-17 00:00:17",
-      "album": {
-        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     }
   ],
   "unique_name": "Beats & Rhymes",

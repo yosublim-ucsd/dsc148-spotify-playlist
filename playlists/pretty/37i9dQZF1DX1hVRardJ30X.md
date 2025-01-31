@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by iZaak & De La Rose, Danny Ocean, J Balvin and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,388 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,440 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 40 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
 | 41 | [Contacto de Dios](https://open.spotify.com/track/2RLWF5BzGIXvndJzKKEfnn) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Contacto de Dios](https://open.spotify.com/album/22SzViIqz2rIacWrK4fR9r) | 2:51 |
 | 42 | [Aunque Sea](https://open.spotify.com/track/4izl8YA7HRJXEHSrQhH12u) | [Maare](https://open.spotify.com/artist/0lDDRSG5a2s7mtmVgJrHSk), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Aunque Sea](https://open.spotify.com/album/66cEw7f4FH0XBdrxkYZtfR) | 4:34 |
-| 43 | [Instinto Animal](https://open.spotify.com/track/5Pvs6mJeujnz9Fji8Ja11p) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Instinto animal](https://open.spotify.com/album/7eQm8mzFOdxrGvFGv54VBi) | 3:12 |
+| 43 | [Instinto Animal](https://open.spotify.com/track/5Pvs6mJeujnz9Fji8Ja11p) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Instinto Animal](https://open.spotify.com/album/7eQm8mzFOdxrGvFGv54VBi) | 3:12 |
 | 44 | [Matador De Mujeres \- Prod\. by Roberto Ferrante](https://open.spotify.com/track/4Di9kmA4KWK8ZLuqAyLLfb) | [Kaly Y Kowa](https://open.spotify.com/artist/2MP68qgOP5YymStglTaEo8), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Matador De Mujeres](https://open.spotify.com/album/1KzF1vMlmcxULw4JX5vRnj) | 3:29 |
 | 45 | [Pilonea Pilonea](https://open.spotify.com/track/5V8BYKq9jXWJkD5fClJkzz) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Pilonea Pilonea](https://open.spotify.com/album/7gPwhQfIOmyelvD80Cueic) | 2:21 |
 | 46 | [FCK LOVE](https://open.spotify.com/track/044s0YuJx6qFv3fYQTLYb2) | [G.O.K.B.](https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [FCK LOVE](https://open.spotify.com/album/3wcTfahjRB6Oz3IyyGJWOH) | 2:04 |

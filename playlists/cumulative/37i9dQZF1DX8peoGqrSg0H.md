@@ -2,7 +2,7 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: bamm
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PRETZELLE
 
 639 songs - 1 day 13 hr 51 min
 
@@ -404,7 +404,7 @@
 | [รักก็รักดิ \- From "Cutie Pie 2 You"](https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [รักก็รักดิ \(From "Cutie Pie 2 You"\)](https://open.spotify.com/album/0AyEXAG2tEss8ErlR2V62p) | 3:17 | 2023-01-09 | 2023-02-03 |
 | [รักข้างเดียว \(Falling in Love\)](https://open.spotify.com/track/2VP2WPjDzo3bPutWdIbwpe) | [Darran](https://open.spotify.com/artist/6njda9gVhFrDchBy33CAsh) | [รักข้างเดียว \(Falling in Love\)](https://open.spotify.com/album/5tCQ7kmjqVm4yWM6EahkZj) | 4:04 | 2022-06-02 | 2022-06-10 |
 | [รักจริง \(แค่เมื่อวาน\)](https://open.spotify.com/track/0lpAUU1G9B5QOaJqt4t8OH) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [รักจริง \(แค่เมื่อวาน\)](https://open.spotify.com/album/1U2jRB2eu7E7aIVGED2GrC) | 3:35 | 2024-03-14 | 2024-08-23 |
-| [รักฉันผูกพันเขา \(Leave Me Alone\)](https://open.spotify.com/track/0YYoT4ZLtHZW6UIQUEFL6H) | [THIRD](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [รักฉันผูกพันเขา \(Leave Me Alone\)](https://open.spotify.com/album/2XxGv7whVxUKcTKBbX0ZXJ) | 3:47 | 2025-01-23 |  |
+| [รักฉันผูกพันเขา \(Leave Me Alone\)](https://open.spotify.com/track/0YYoT4ZLtHZW6UIQUEFL6H) | [THIRD](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [รักฉันผูกพันเขา \(Leave Me Alone\)](https://open.spotify.com/album/2XxGv7whVxUKcTKBbX0ZXJ) | 3:47 | 2025-01-23 | 2025-01-31 |
 | [รักหน้าตาเหมือนเธอไหม \(Love Love Love\) \- เพลงประกอบซีรีส์ Our Skyy แฟนผมเป็นประธานนักเรียน](https://open.spotify.com/track/39ivYIh4nEsGQmDLMiR84g) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงประกอบซีรีส์ Our Skyy แฟนผมเป็นประธานนักเรียน](https://open.spotify.com/album/7yTnlgM2ATURRtS42XcefO) | 3:45 | 2023-05-19 | 2023-05-27 |
 | [รักเขาแทนฉันที \(Promise Me\)](https://open.spotify.com/track/4IM1mTEuO6YnyYHNioh7tg) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [รักเขาแทนฉันที \(Promise Me\)](https://open.spotify.com/album/56VSwLMHVoAtcgaXjAPfTG) | 4:04 | 2023-06-15 | 2023-08-05 |
 | [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 | 2023-03-31 | 2023-04-13 |

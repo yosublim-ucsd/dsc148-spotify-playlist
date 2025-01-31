@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "It's Cold Outside",
+        "url": "https://open.spotify.com/album/4YulZ7MrxKa4TnRWt6XDkm"
+      },
+      "artists": [
+        {
+          "name": "Sahae",
+          "url": "https://open.spotify.com/artist/2mupLxVnWYL5HFeTU76y8g"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167199,
+      "name": "It's Cold Outside",
+      "url": "https://open.spotify.com/track/7LtaIwDAvxKlBJIrdG3eXl"
+    },
+    {
+      "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
       },

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-664 songs - 2 day 16 hr 21 min
+665 songs - 2 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [The Journey](https://open.spotify.com/track/0Nyy5y3ygY62SKHMgPn7rD) | [Ethan Tait](https://open.spotify.com/artist/417zU4I2H7xk64PUhedjyT), [Boskasie](https://open.spotify.com/artist/4LJguuHWFSdxmO3KgbQaeq) | [The Journey](https://open.spotify.com/album/4ulmlHbVYmLqiZQ3vWGncA) | 6:48 | 2024-05-13 | 2024-08-23 |
 | [The Journey](https://open.spotify.com/track/7lxrItxcdeNxjmyX1oOxck) | [Foozak](https://open.spotify.com/artist/6bVBQCuQEyT0vgyycuRA4I), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Journey](https://open.spotify.com/album/4C9C2oc0yqtJu9ofTcJm7Z) | 7:09 | 2022-09-19 | 2022-10-29 |
 | [The Magnificent Dance](https://open.spotify.com/track/28acShbQyEjdJHvdmnxkaw) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [The Magnificent Dance](https://open.spotify.com/album/5YuBv6DWEEVTxU19WkeXEs) | 7:05 | 2022-12-14 | 2023-12-22 |
+| [The Only One](https://open.spotify.com/track/5AZyHhvHCeOCGy9XdMOIKK) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [SAÍGO](https://open.spotify.com/artist/2Gu2iejmc6pUo0ZR7thZCO) | [The Only One](https://open.spotify.com/album/2Otl8YP3QTEbRQGF37OBUD) | 3:25 | 2025-01-30 |  |
 | [The Past \- Sascha Braemer Remix](https://open.spotify.com/track/3vYXCxuoiIPfHkXo0HyDlB) | [Eliahh](https://open.spotify.com/artist/2cG2iQGv7leDvUCb5nff0t), [Valentine](https://open.spotify.com/artist/71986JCI8ndKL5tBMPZ79e), [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond) | [The Past](https://open.spotify.com/album/6H3R02q41LGd8nVykX3KT4) | 7:24 | 2022-11-21 | 2023-03-07 |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-19 |  |
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2023-07-14 | 2023-10-13 |

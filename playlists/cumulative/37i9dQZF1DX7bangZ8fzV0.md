@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=losASc\-iRjqRhVyj1mZb\-A">Gerhard Steyn</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=PFQpg0HjQ\_CXBn4CO\_QTQg">Irene\-Louise Van Wyk</a>
 
 262 songs - 14 hr 32 min
 

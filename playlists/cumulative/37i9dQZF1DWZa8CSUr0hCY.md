@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-263 songs - 11 hr 35 min
+264 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Decisions](https://open.spotify.com/track/68zNrXhX4kj7OCXaxGcG45) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Decisions](https://open.spotify.com/album/0nxDJ2GdRlKgOdGYMBlxmO) | 2:11 | 2022-08-30 |  |
 | [devotion](https://open.spotify.com/track/2LgVhJxRPvs9sNxMbsZPX5) | [Summer Clarke](https://open.spotify.com/artist/5VJreBDjx8zamtY3YyZyMr) | [devotion](https://open.spotify.com/album/3yO0qSDkaa1SLKawgxWeNE) | 2:22 | 2024-08-29 |  |
 | [Dijon Lofi](https://open.spotify.com/track/0QBLLWPxhUficWtZlpGGgS) | [Printeme](https://open.spotify.com/artist/2YvnVXbia5SDheNBnFoVLE) | [Magnifique](https://open.spotify.com/album/0DpMbQvYK92kNNFkfZ8Bqo) | 1:37 | 2022-08-30 |  |
+| [Discovery](https://open.spotify.com/track/1kXEueS6vwBnphZQAaFzLl) | [Alex Baker](https://open.spotify.com/artist/0U6Adu2ODsqB9urN7BslVo) | [Discovery](https://open.spotify.com/album/0JyVLT57CYUa8Ht3ALvF5Y) | 2:57 | 2025-01-30 |  |
 | [Distant](https://open.spotify.com/track/3z5PBpNoxyfBcLQchvcTBy) | [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b) | [Distant](https://open.spotify.com/album/1yG7CaBzp7b0MCINg4Zz2G) | 2:26 | 2022-08-30 | 2023-12-02 |
 | [Doldrum](https://open.spotify.com/track/7l7pmDEHccMXodPuC3KX3L) | [icey wavs](https://open.spotify.com/artist/5bH4uA7ERJ2A6EIWa7eHwQ), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Doldrum](https://open.spotify.com/album/2BNem54izqxC6CrEzupfxe) | 1:24 | 2022-08-30 |  |
 | [Downstream](https://open.spotify.com/track/6s3p8Ovbf6Bg9tou17Juie) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Downstream](https://open.spotify.com/album/2SI53rb2rae57fFOCFs8fp) | 1:49 | 2022-08-30 |  |
@@ -160,7 +161,7 @@
 | [Main Court](https://open.spotify.com/track/6Na91cVW0K9zUZiPKn0iUn) | [Toshdy](https://open.spotify.com/artist/55bwDdaEDVEycXFNC9Xl1D) | [Main Court](https://open.spotify.com/album/1E8PCxJiLU8U4bhSVVLnnx) | 2:20 | 2022-08-30 |  |
 | [Main Island](https://open.spotify.com/track/1RZ45GhDuFAp2WcLE5oVa8) | [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Main Island](https://open.spotify.com/album/0PuN6k6he204jgG6UShAO5) | 2:53 | 2022-08-30 |  |
 | [Mantle](https://open.spotify.com/track/01CiHxdD5pV8KzXzsZbaUH) | [Cloud Break](https://open.spotify.com/artist/5tcXTOoVIDRSfvwgOAy3OE) | [Selene](https://open.spotify.com/album/0XiCXwUVhgR2IZNV45GfM8) | 1:41 | 2022-08-30 |  |
-| [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 | 2022-08-30 |  |
+| [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 | 2022-08-30 | 2025-01-31 |
 | [measure](https://open.spotify.com/track/6Xgh67TMWtXrKfeAVSDYBA) | [Mo Rana](https://open.spotify.com/artist/5ZQEuLlGt1sfPoZIqFyKG9) | [measure](https://open.spotify.com/album/0gQG0fIyasBTSdPCC9yQuO) | 2:27 | 2022-08-30 |  |
 | [Memento](https://open.spotify.com/track/2xJrxnDRY2EorPtUUz4rNy) | [Omega One](https://open.spotify.com/artist/7gIb88l5X9GpnsKANWuiMH) | [The Lo\-Fi Chronicles](https://open.spotify.com/album/7y2s6AkBVyR54LXV7w0qoE) | 3:49 | 2022-04-28 | 2022-08-31 |
 | [Memento](https://open.spotify.com/track/2ycxKZ0HvoSPDbMWHvqztk) | [Omega One](https://open.spotify.com/artist/7gIb88l5X9GpnsKANWuiMH) | [The Lo\-Fi Chronicles](https://open.spotify.com/album/04iAjm4THjvMXOshSfRpPA) | 3:49 | 2020-10-20\* | 2022-07-29 |

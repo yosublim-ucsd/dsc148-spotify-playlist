@@ -11733,6 +11733,28 @@
     },
     {
       "album": {
+        "name": "Mulakat",
+        "url": "https://open.spotify.com/album/3xaONxvVN6ANn2g0hQa3QN"
+      },
+      "artists": [
+        {
+          "name": "Preet Guree",
+          "url": "https://open.spotify.com/artist/2YOq6u1oHUoGNvd5t4x7Ah"
+        },
+        {
+          "name": "Bugzy",
+          "url": "https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139617,
+      "name": "Mulakat",
+      "url": "https://open.spotify.com/track/5eVCyVrewEENgnQTccju4q"
+    },
+    {
+      "album": {
         "name": "Mulaqaat",
         "url": "https://open.spotify.com/album/1jI6jXWObHreumKnhzm6H3"
       },
@@ -17242,7 +17264,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 186645,
       "name": "Supna",
       "url": "https://open.spotify.com/track/3UJYZG5lJXHajdHeRhLOdi"

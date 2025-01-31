@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "Ancient Of Days",
+        "url": "https://open.spotify.com/album/1z3ORQmy11HXglZnVXLLqv"
+      },
+      "artists": [
+        {
+          "name": "Blessing Oghie",
+          "url": "https://open.spotify.com/artist/3cjdK2MpW3OJD8ywQD67Tn"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140068,
+      "name": "Ancient Of Days",
+      "url": "https://open.spotify.com/track/3ctUHoWUVro9rg6O2NJL4b"
+    },
+    {
+      "album": {
         "name": "Anyi N'Aja Gi Mma",
         "url": "https://open.spotify.com/album/1oeU1Hvzr40kM1SQbdpfwf"
       },
@@ -404,7 +422,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 195124,
       "name": "Calm",
       "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 728640,
       "name": "Champion - Live",
       "url": "https://open.spotify.com/track/40ldUo6gf5CSVOHztQBmCe"
@@ -724,7 +742,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 598224,
       "name": "Esi",
       "url": "https://open.spotify.com/track/4LA1XEz0lVr9J0uB3s4x3w"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 343516,
       "name": "Holy Holy - Deep Worship Chant",
       "url": "https://open.spotify.com/track/7A5vCT8jIExs23AFUWLv90"
@@ -1926,7 +1944,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 673300,
       "name": "Ndi M'ozi",
       "url": "https://open.spotify.com/track/2IvKkQgWqgfrL77DMgX4Pd"
@@ -2093,6 +2111,28 @@
     },
     {
       "album": {
+        "name": "OGO (Glory)",
+        "url": "https://open.spotify.com/album/4kvp8JHHRtXTcdmKGgrVqi"
+      },
+      "artists": [
+        {
+          "name": "TEHGAH",
+          "url": "https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla"
+        },
+        {
+          "name": "Peterson Okopi",
+          "url": "https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 775973,
+      "name": "OGO (Glory)",
+      "url": "https://open.spotify.com/track/3c7oVOLRIUIjCmx1VlhXRy"
+    },
+    {
+      "album": {
         "name": "Okemmuo (The Spirit of the Spirit)",
         "url": "https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s"
       },
@@ -2156,6 +2196,28 @@
       "duration_ms": 402595,
       "name": "Only one thing is needed",
       "url": "https://open.spotify.com/track/0IXW08BrMsIePLbK9o0HM5"
+    },
+    {
+      "album": {
+        "name": "Heart of Worship: Songs for Prayer and Reflection",
+        "url": "https://open.spotify.com/album/7rN2lXBTRTT0DAfJT0rZqn"
+      },
+      "artists": [
+        {
+          "name": "Wura Merc\u00e9",
+          "url": "https://open.spotify.com/artist/0cgOd3FsFScsYB7dN5jRfN"
+        },
+        {
+          "name": "Gospel Touch Choir",
+          "url": "https://open.spotify.com/artist/3uHFqKujwyBgk83Hiuabhb"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382058,
+      "name": "Only Yeshua | Every Tongue | Take Over",
+      "url": "https://open.spotify.com/track/2ypOAFsA9G8yO38nH4ep81"
     },
     {
       "album": {
@@ -2444,6 +2506,24 @@
       "duration_ms": 545506,
       "name": "The Kadosh (Live)",
       "url": "https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb"
+    },
+    {
+      "album": {
+        "name": "The King Is Coming",
+        "url": "https://open.spotify.com/album/5jTtR6g2fHUl8VkOn3EDOb"
+      },
+      "artists": [
+        {
+          "name": "Caleb Music",
+          "url": "https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306720,
+      "name": "The King Is Coming",
+      "url": "https://open.spotify.com/track/40inC92JTKVWMCoYbJwX64"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New music by the heaviest independent artists every Wednesday\. Cover: Gates to Hell \| Artwork: Nejc Prah
 
-189 songs - 11 hr 11 min
+190 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Delusion](https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz) | [Doubt](https://open.spotify.com/artist/517PMQHC4Vb1vUmUDWI6KS) | [Held in Contempt](https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx) | 1:52 | 2024-08-07 | 2024-09-12 |
 | [Devotion](https://open.spotify.com/track/4Ov0kwPSOJdxvkjvIGrBKI) | [Killing of a Sacred Deer](https://open.spotify.com/artist/3oCnbyLX60bL7JryfJlgKX), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Killing of a Sacred Deer](https://open.spotify.com/album/0GmcJfefLMz7y1juV1jXCB) | 2:40 | 2024-09-11 | 2025-01-23 |
 | [Disputatious Malignancy](https://open.spotify.com/track/2JwCI7buFePo9kVh41tJYa) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Disputatious Malignancy](https://open.spotify.com/album/18Wc9Znqp9Q6fm9nPfGmd6) | 2:53 | 2024-09-11 | 2024-12-05 |
+| [do what u want](https://open.spotify.com/track/2UEYApdp3CswiCo5sR2ztU) | [ShyGodwin](https://open.spotify.com/artist/0aKvk5J5YkGdMPJ0jWZbUE) | [do what u want](https://open.spotify.com/album/54onHIsiTpzMjWV0CEqVum) | 2:22 | 2025-01-30 |  |
 | [don't spiral](https://open.spotify.com/track/1LSxnC5p6Ikqp2HNJggHIH) | [Clearings](https://open.spotify.com/artist/6s7Du7gsiflYGqGcMw17Lx) | [don't spiral](https://open.spotify.com/album/2LnTzxLHybsMnWd9W268Ro) | 3:33 | 2024-10-02 | 2024-12-05 |
 | [Dopamine](https://open.spotify.com/track/7a957bW9KUpPX1mSS8d0gX) | [TheCityIsOurs](https://open.spotify.com/artist/5Zsmx4eGounUJ1Hqq6tIQs) | [Dopamine](https://open.spotify.com/album/4RATESTmyJlh2WatpjnVSI) | 3:43 | 2025-01-22 |  |
 | [Dreamless Error](https://open.spotify.com/track/6A0SzjxLOVvYkOfcOmgqEa) | [Collapsed Skull](https://open.spotify.com/artist/4U7G6juzid1EvmQDCSehhM), [Brody King](https://open.spotify.com/artist/00kwyTyFLJgTFcT4o5jaA4) | [Dreamless Error](https://open.spotify.com/album/6Gz6dpMOlMJkxk44VB4zsx) | 1:15 | 2024-08-14 | 2024-09-12 |

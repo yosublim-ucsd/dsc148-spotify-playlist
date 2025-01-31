@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Merve \u00c7alkan ",
+  "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Kaan Malko\u00e7",
   "name": "Ke\u015fif",
   "tracks": [
     {
@@ -402,6 +402,24 @@
       "duration_ms": 136470,
       "name": "BELK\u0130",
       "url": "https://open.spotify.com/track/1oQ1gRCZQw5RGUmCrUcd6D"
+    },
+    {
+      "album": {
+        "name": "Ben Bu Kalbi Ne Yapsam",
+        "url": "https://open.spotify.com/album/5m1wVcdcORtkXdDMHjZGqO"
+      },
+      "artists": [
+        {
+          "name": "Elif Kozan",
+          "url": "https://open.spotify.com/artist/78Yd6q4H8kIaTRGItJaFee"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189187,
+      "name": "Ben Bu Kalbi Ne Yapsam",
+      "url": "https://open.spotify.com/track/3ZZsKbnh6852emkvhi9u7v"
     },
     {
       "album": {
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 187874,
       "name": "Kara Orman",
       "url": "https://open.spotify.com/track/18zEyS2y8nnOVgwYMzXU4t"
@@ -1786,7 +1804,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 168133,
       "name": "N'olur Gelsen",
       "url": "https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP"
@@ -3384,6 +3402,24 @@
       "duration_ms": 296888,
       "name": "\u015earap \u0130stiyorum",
       "url": "https://open.spotify.com/track/1IOO7cJ9uMKJPFK0a55aKy"
+    },
+    {
+      "album": {
+        "name": "\u015eehrin I\u015f\u0131klar\u0131",
+        "url": "https://open.spotify.com/album/1cWPJgAD816wwOmSNpEGIr"
+      },
+      "artists": [
+        {
+          "name": "Kaan Malko\u00e7",
+          "url": "https://open.spotify.com/artist/7aDwkYjLH6yvueCOmZNYtZ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "\u015eehrin I\u015f\u0131klar\u0131",
+      "url": "https://open.spotify.com/track/76A20QpQga3jqEgnMnUlwT"
     },
     {
       "album": {

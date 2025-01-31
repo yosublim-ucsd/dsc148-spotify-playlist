@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : THEODORT",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 162750,
       "name": "Aaliyah",
       "url": "https://open.spotify.com/track/0nR4wEOdxieaU7gX5W4zxj"
@@ -1092,6 +1092,24 @@
       "duration_ms": 210352,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/5ClOFvLqn08NldYWLqwbmw"
+    },
+    {
+      "album": {
+        "name": "BALKAN",
+        "url": "https://open.spotify.com/album/3lim0OZua7PTdQFMmYPR9C"
+      },
+      "artists": [
+        {
+          "name": "clubb29",
+          "url": "https://open.spotify.com/artist/0K7keeoOzJy1x8eQPVdgNg"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "BALKAN",
+      "url": "https://open.spotify.com/track/3m2DXuw3P1PDwYZXBZADtE"
     },
     {
       "album": {
@@ -1711,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Ce que je vois",
+        "url": "https://open.spotify.com/album/2D03M8DggA5TL3dfUnCRav"
+      },
+      "artists": [
+        {
+          "name": "mademoiselle lou",
+          "url": "https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199851,
+      "name": "Ce que je vois",
+      "url": "https://open.spotify.com/track/78wksfS40m1mEgGI1nzePx"
+    },
+    {
+      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/0q1e1w6uP6NBZAGuXR6RCr"
       },
@@ -2190,7 +2226,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 203000,
       "name": "DALIDA",
       "url": "https://open.spotify.com/track/0tMQTxZBDZydVHi2YUwJOz"
@@ -2404,7 +2440,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 160253,
       "name": "DERNIERE DANSE",
       "url": "https://open.spotify.com/track/2pZpMH4DwjrDmE46HPVOVv"
@@ -3302,6 +3338,24 @@
       "duration_ms": 224782,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/7MX9uRrHcyORpE2JXJpfUa"
+    },
+    {
+      "album": {
+        "name": "GOD BLESS",
+        "url": "https://open.spotify.com/album/4YjmswyjZP1X09ZotXTqja"
+      },
+      "artists": [
+        {
+          "name": "USKY",
+          "url": "https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "GOD BLESS",
+      "url": "https://open.spotify.com/track/3YCPqZgr9yYG3zDyBcGMyO"
     },
     {
       "album": {
@@ -4501,6 +4555,24 @@
     },
     {
       "album": {
+        "name": "LA GESTION",
+        "url": "https://open.spotify.com/album/1dXoX8jcqow1DvRZ9qXXHZ"
+      },
+      "artists": [
+        {
+          "name": "Missan",
+          "url": "https://open.spotify.com/artist/5bpoMhoeJ19sJSuELfgWMk"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147153,
+      "name": "LA GESTION",
+      "url": "https://open.spotify.com/track/68Dm47Jv9FiT303iGfqKdN"
+    },
+    {
+      "album": {
         "name": "MOTEL STUDIO 2",
         "url": "https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ"
       },
@@ -4885,6 +4957,36 @@
     },
     {
       "album": {
+        "name": "Le poids de mes choix",
+        "url": "https://open.spotify.com/album/079tKVigWODm7vQQzlvLlt"
+      },
+      "artists": [
+        {
+          "name": "Arven",
+          "url": "https://open.spotify.com/artist/59K2ofnCaPmHyd2li48yea"
+        },
+        {
+          "name": "Jeune Po\u00e8te",
+          "url": "https://open.spotify.com/artist/2HCvTzoZbnOHOGboOfUyix"
+        },
+        {
+          "name": "Soul Eater",
+          "url": "https://open.spotify.com/artist/2t7hLEeJh6bpxr24ItzRvF"
+        },
+        {
+          "name": "French Light Records",
+          "url": "https://open.spotify.com/artist/7d5v0oeFx3pH3Ep9xlNQlM"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Le poids de mes choix",
+      "url": "https://open.spotify.com/track/4XIMWNSfnzYJcV9aDT9tnL"
+    },
+    {
+      "album": {
         "name": "HORION",
         "url": "https://open.spotify.com/album/53Yu6G1IxrB5ji7ECIHAqb"
       },
@@ -5156,7 +5258,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 123428,
       "name": "LUNATIQUE",
       "url": "https://open.spotify.com/track/4Nfl36IoJkYkINq5mr7t7G"
@@ -5302,7 +5404,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 185413,
       "name": "Ma vie d'avant",
       "url": "https://open.spotify.com/track/0L1I6VmStVwKx4R5ZsOlMN"
@@ -5656,7 +5758,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 152432,
       "name": "Merci Pour Les \u00c9pines",
       "url": "https://open.spotify.com/track/14YnAPyArFjivQBIE7DU3y"
@@ -6672,7 +6774,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 173360,
       "name": "Pas very Nice",
       "url": "https://open.spotify.com/track/1wx99fG3BqivffDLSKUHLs"
@@ -8676,7 +8778,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 144706,
       "name": "Tout est magique",
       "url": "https://open.spotify.com/track/64gvM3OyQs9iIQhRVmehn2"
@@ -8871,6 +8973,24 @@
     },
     {
       "album": {
+        "name": "Un peu de retenue",
+        "url": "https://open.spotify.com/album/59m0MhJn7XCFAhu8eRKJGd"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "Un peu de retenue",
+      "url": "https://open.spotify.com/track/1NrBTrRvNjDcFsxBqnAkOw"
+    },
+    {
+      "album": {
         "name": "UN PEU PLUS SIMPLE",
         "url": "https://open.spotify.com/album/1NXvyGiIFq3rIc0SZpcyGU"
       },
@@ -8958,6 +9078,24 @@
       "duration_ms": 187782,
       "name": "VAGUE",
       "url": "https://open.spotify.com/track/71wy1MM9Cfm2Bs9borXIcg"
+    },
+    {
+      "album": {
+        "name": "VENDETTA",
+        "url": "https://open.spotify.com/album/2DMgmdNwczV5ru2A53BjDB"
+      },
+      "artists": [
+        {
+          "name": "Doria",
+          "url": "https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229083,
+      "name": "VENDETTA",
+      "url": "https://open.spotify.com/track/7AV0BrYMW2e1rtzuyHYe4s"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Arctic Monkeys. The essential tracks, all in one playlist.",
-  "num_followers": 1703807,
+  "num_followers": 1704003,
   "original_name": "This Is Arctic Monkeys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5geAAAAAADsHdlmEinBw1hJFWpcwXiW",
+  "snapshot_id": "Z5lvgAAAAACu2MSkgvhJ5SsGLKsbNPQz",
   "tracks": [
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who The F*** Are Arctic Monkeys?",
-        "url": "https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/4cUpTEmoRKchgeA07x5DRB"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 336826,
-      "name": "Who The Fuck Are Arctic Monkeys?",
-      "url": "https://open.spotify.com/track/05FVS9qqWq2A82fYCtblkt"
+      "duration_ms": 200026,
+      "name": "Settle For A Draw",
+      "url": "https://open.spotify.com/track/53HN7HhY2ItbDwMdgMyGcg"
     }
   ],
   "unique_name": "This Is Arctic Monkeys",

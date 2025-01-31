@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A) | 3:03 |
 | 30 | [I'm Insane](https://open.spotify.com/track/1fYhvfLhP5xkA3JXtPHRFV) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Out of the Cellar](https://open.spotify.com/album/1UvSwinO43R792hOmi0off) | 2:56 |
 
-Snapshot ID: `Z5b2sAAAAADev68vvNpnVCUSVuhKiNsC`
+Snapshot ID: `Z5b2sAAAAABDPm9OEPqeon//SGBYf207`

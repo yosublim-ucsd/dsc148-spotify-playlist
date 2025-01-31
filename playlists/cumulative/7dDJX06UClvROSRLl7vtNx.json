@@ -5785,6 +5785,32 @@
     },
     {
       "album": {
+        "name": "House On The Beach",
+        "url": "https://open.spotify.com/album/4oEQdcixkeDBHuwcsvTsNN"
+      },
+      "artists": [
+        {
+          "name": "SEIDS",
+          "url": "https://open.spotify.com/artist/2Eipav5ZNY6ON1FReIYpKE"
+        },
+        {
+          "name": "Dawilk",
+          "url": "https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf"
+        },
+        {
+          "name": "B Martin",
+          "url": "https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141864,
+      "name": "House On The Beach",
+      "url": "https://open.spotify.com/track/6kPChG0xYqbKXvDcSlqYWJ"
+    },
+    {
+      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/58llHvcuLwyZdMjRXC1af6"
       },

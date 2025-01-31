@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe Ara\u00fajo, Luan Pereira\n\n\n",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Guilherme & Benuto\n\n\n",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1136,6 +1136,28 @@
       "duration_ms": 205973,
       "name": "Como Um Beijo",
       "url": "https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi"
+    },
+    {
+      "album": {
+        "name": "Copo Americano (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3BYZ59rzRqGbaAcnJsVLPC"
+      },
+      "artists": [
+        {
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Copo Americano - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XOpqlDxoxTSXaYkCVvC4d"
     },
     {
       "album": {
@@ -2621,6 +2643,28 @@
     },
     {
       "album": {
+        "name": "Ilus\u00e3o De \u00d3tica (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0bI1I8N81JS2y2obt23JXS"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179504,
+      "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Bn5vG7vienkREO35aoaKK"
+    },
+    {
+      "album": {
         "name": "No Pelo 360 - Ao Vivo no 062",
         "url": "https://open.spotify.com/album/4kjCJEhjBMvh1p9aYOutCs"
       },
@@ -3338,7 +3382,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 162190,
       "name": "Mulher Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
@@ -4386,7 +4430,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 149696,
       "name": "Quem T\u00e1 Fora - Ao Vivo",
       "url": "https://open.spotify.com/track/0pK0Vd1MCWy7AmsyFfIJb8"

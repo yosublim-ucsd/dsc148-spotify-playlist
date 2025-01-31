@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Can Ko\u00e7 ",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: \u00d6zkan U\u011fur",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/3K73oVKwf0NADi5fwRARfj"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zkan U\u011fur",
+          "url": "https://open.spotify.com/artist/3XAyrca1lh2A0ZSSNoy7Np"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "A\u015fklardan Ge\u00e7tim",
+      "url": "https://open.spotify.com/track/60m458rFjnQEVuiin9HNV0"
+    },
+    {
+      "album": {
         "name": "B.",
         "url": "https://open.spotify.com/album/6ZMfAa72rsLzLtjuRygUki"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 238085,
       "name": "Ben Hala Vazge\u00e7medim",
       "url": "https://open.spotify.com/track/791iRKBKD6K8WiTXoJaNm2"
@@ -778,6 +796,24 @@
       "duration_ms": 211702,
       "name": "Canavar",
       "url": "https://open.spotify.com/track/0zm1FkfZHnxUxzSep34LQk"
+    },
+    {
+      "album": {
+        "name": "Can\u0131n\u0131 Cancey",
+        "url": "https://open.spotify.com/album/3M28n8gLAlqP9mJLXCCT1G"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zkan U\u011fur",
+          "url": "https://open.spotify.com/artist/3XAyrca1lh2A0ZSSNoy7Np"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251820,
+      "name": "Can\u0131n\u0131 Cancey",
+      "url": "https://open.spotify.com/track/04qN6e8ccgRMic8Fptly1y"
     },
     {
       "album": {
@@ -1658,7 +1694,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 185855,
       "name": "Hep De Yorgun",
       "url": "https://open.spotify.com/track/0ywlnV6QEZneCbbqLev6qL"
@@ -1680,6 +1716,24 @@
       "duration_ms": 220400,
       "name": "Hepsi Senin Y\u00fcz\u00fcnden",
       "url": "https://open.spotify.com/track/2PHYMPiieiD8BAwwHiePZg"
+    },
+    {
+      "album": {
+        "name": "Hepsi Yalan",
+        "url": "https://open.spotify.com/album/35UbrFPJrgsPjaJM55odRu"
+      },
+      "artists": [
+        {
+          "name": "Karambol",
+          "url": "https://open.spotify.com/artist/27FDgyQe3lWYySeW2AyJy3"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201484,
+      "name": "Hepsi Yalan",
+      "url": "https://open.spotify.com/track/5Opi5MsSXJmTQW8Fhf3W25"
     },
     {
       "album": {
@@ -1838,7 +1892,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 227143,
       "name": "\u0130kimizden Biri",
       "url": "https://open.spotify.com/track/7M9KPD0b04Z1rxJNGERuAe"
@@ -2422,7 +2476,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 315648,
       "name": "Ma\u015fallah",
       "url": "https://open.spotify.com/track/3CWTeDTcqDRIFCyJYLsmtJ"
@@ -2834,7 +2888,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 187000,
       "name": "Sen ya da Hi\u00e7",
       "url": "https://open.spotify.com/track/633Y6jn9RSYF8ivr9QDIYH"
@@ -3254,6 +3308,24 @@
       "duration_ms": 213629,
       "name": "Uyanmayal\u0131m",
       "url": "https://open.spotify.com/track/67W5jKPsAK9OBL9tl69S7J"
+    },
+    {
+      "album": {
+        "name": "Uzansam Kuca\u011f\u0131na",
+        "url": "https://open.spotify.com/album/3XHF9TozqzHHKqoZ4AI3CB"
+      },
+      "artists": [
+        {
+          "name": "Yedinci Ev",
+          "url": "https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209722,
+      "name": "Uzansam Kuca\u011f\u0131na",
+      "url": "https://open.spotify.com/track/5hTjCrcI0AliHfCTVclXbb"
     },
     {
       "album": {

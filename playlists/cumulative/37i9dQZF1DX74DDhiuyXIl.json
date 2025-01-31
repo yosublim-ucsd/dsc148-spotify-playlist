@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 262758,
       "name": "\u518d\u898b\u611b\u4eba",
       "url": "https://open.spotify.com/track/4iHfUerBawpJJfwe7xRGUv"
@@ -4843,6 +4843,28 @@
     },
     {
       "album": {
+        "name": "\u5fd8\u4e86\u4ed6",
+        "url": "https://open.spotify.com/album/7tz6HEX73Oc02XOKUL6m4q"
+      },
+      "artists": [
+        {
+          "name": "\u53f6\u65af\u6df3",
+          "url": "https://open.spotify.com/artist/6AII7OO4YGlwmITkksV996"
+        },
+        {
+          "name": "\u8449\u65af\u6df3",
+          "url": "https://open.spotify.com/artist/6dvG7fKwmGRBF7eJuuQz7I"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224358,
+      "name": "\u5fd8\u4e86\u4ed6",
+      "url": "https://open.spotify.com/track/0ls4k8atwyeGfXlt55l695"
+    },
+    {
+      "album": {
         "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
         "url": "https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw"
       },
@@ -4858,6 +4880,24 @@
       "duration_ms": 292133,
       "name": "\u5fe0\u5b5d\u6771\u8def\u8d70\u4e5d\u904d",
       "url": "https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf"
+    },
+    {
+      "album": {
+        "name": "\u5ff5\u5ff5",
+        "url": "https://open.spotify.com/album/41TaF9lSOjxazsYBxxH74f"
+      },
+      "artists": [
+        {
+          "name": "Yisa Yu",
+          "url": "https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279492,
+      "name": "\u5ff5\u5ff5",
+      "url": "https://open.spotify.com/track/43KDviRyWeraTNrRkLIQ1e"
     },
     {
       "album": {
@@ -10266,7 +10306,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 250900,
       "name": "\u990a\u5206",
       "url": "https://open.spotify.com/track/1NMwyTTQyUUtGI34rmUYMU"

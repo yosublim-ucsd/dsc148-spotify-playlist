@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sound from Asia. Cover: Pyra + Haru Nemuri",
+  "description": "Hottest indie sound from Asia. Cover: Balming Tiger (South Korea)",
   "name": ".ORG",
   "tracks": [
     {
@@ -1992,6 +1992,24 @@
       "duration_ms": 100489,
       "name": "At The End of You and I",
       "url": "https://open.spotify.com/track/0jpRUQgbwOwRYxKQSOLhHE"
+    },
+    {
+      "album": {
+        "name": "Awake & Dreaming EP",
+        "url": "https://open.spotify.com/album/2Xgk6i8SeRAgJUDucCVMBG"
+      },
+      "artists": [
+        {
+          "name": "Insomniacks",
+          "url": "https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227349,
+      "name": "Awake & Dreaming",
+      "url": "https://open.spotify.com/track/6pD1sRBnBtUbwitUoZVrCc"
     },
     {
       "album": {
@@ -8288,7 +8306,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 184730,
       "name": "Faith",
       "url": "https://open.spotify.com/track/1PI1AYbn0QXlFSrfxHMoyK"
@@ -8530,7 +8548,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 190000,
       "name": "feel again",
       "url": "https://open.spotify.com/track/0CB6B3ih81cvlzUduNKQhL"
@@ -8794,7 +8812,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 228708,
       "name": "Fight Some More",
       "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
@@ -11859,6 +11877,24 @@
     },
     {
       "album": {
+        "name": "I Felt That Insecure",
+        "url": "https://open.spotify.com/album/3iUuupxjT8dAgpejcNG6V4"
+      },
+      "artists": [
+        {
+          "name": "Junva",
+          "url": "https://open.spotify.com/artist/5OfxnYqIv0WZ4JmIg2NLtt"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "I Felt That Insecure",
+      "url": "https://open.spotify.com/track/73X3MnqAKmiEJfhJuTnjDM"
+    },
+    {
+      "album": {
         "name": "I Forget",
         "url": "https://open.spotify.com/album/4KK1XCxSqlQvHAAGto6vIB"
       },
@@ -14785,6 +14821,24 @@
     },
     {
       "album": {
+        "name": "LIKE THAT I LIKE YOU",
+        "url": "https://open.spotify.com/album/5wudHOnjaCavoYLJWGKPno"
+      },
+      "artists": [
+        {
+          "name": "Patinda",
+          "url": "https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "LIKE THAT I LIKE YOU",
+      "url": "https://open.spotify.com/track/76BKLb2dUj11V2cv4pJ7Sk"
+    },
+    {
+      "album": {
         "name": "YYY",
         "url": "https://open.spotify.com/album/5qtWZLH7pmnDKWyX5NPLAa"
       },
@@ -15858,7 +15912,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 282739,
       "name": "manila to LA",
       "url": "https://open.spotify.com/track/71oRSyIegiwNBxBQNbEMDh"
@@ -17049,6 +17103,24 @@
     },
     {
       "album": {
+        "name": "After the First Wave",
+        "url": "https://open.spotify.com/album/0btqYkyRMkGW0kspnhJQDK"
+      },
+      "artists": [
+        {
+          "name": "quicksand bed",
+          "url": "https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Mr. Poseman",
+      "url": "https://open.spotify.com/track/2igCtkfrRmcEQoq02e7Wbo"
+    },
+    {
+      "album": {
         "name": "Mr. Streetboy",
         "url": "https://open.spotify.com/album/3KhbDtI5OTPm6eVXRIS1gT"
       },
@@ -17556,7 +17628,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 159085,
       "name": "naughty AI",
       "url": "https://open.spotify.com/track/2ve6tbbHAISbuKqUr18sYw"
@@ -17672,7 +17744,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 310133,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
@@ -17770,6 +17842,24 @@
       "duration_ms": 257380,
       "name": "New Feeling",
       "url": "https://open.spotify.com/track/3lhBdBZRpf9uVQPswDYjK4"
+    },
+    {
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/6VHt1jimPSb1AMXKjNmVTZ"
+      },
+      "artists": [
+        {
+          "name": "WIMY",
+          "url": "https://open.spotify.com/artist/5KOmVrCheNYiqcB974SI3Z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172100,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/5GpZFZu80gIB4pyMIPOft8"
     },
     {
       "album": {
@@ -18016,7 +18106,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 200425,
       "name": "No Cares Era",
       "url": "https://open.spotify.com/track/1dI9QSKVCt4uXHzGVuBRLa"
@@ -18078,7 +18168,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 116550,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
@@ -20053,6 +20143,24 @@
     },
     {
       "album": {
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/4snPevQGPMdd0nsSX6q45M"
+      },
+      "artists": [
+        {
+          "name": "Showbiz",
+          "url": "https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203096,
+      "name": "Precious Time",
+      "url": "https://open.spotify.com/track/6QCf3ZUBc5oIUjtxR4NPmm"
+    },
+    {
+      "album": {
         "name": "Pretend",
         "url": "https://open.spotify.com/album/06QUCNgUMQuniwmCmlQtya"
       },
@@ -20740,7 +20848,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 209224,
       "name": "Retro-39",
       "url": "https://open.spotify.com/track/0dlObt3L90XxFk93xFFAEZ"
@@ -21362,7 +21470,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 148000,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
@@ -22645,6 +22753,24 @@
     },
     {
       "album": {
+        "name": "sober",
+        "url": "https://open.spotify.com/album/6qyKp5EQCqoJMndwJ7h7mr"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236371,
+      "name": "sober",
+      "url": "https://open.spotify.com/track/4fP4o6BhgPplcEZB7FP2Eq"
+    },
+    {
+      "album": {
         "name": "C\u00e1i \u0110\u1ea7u Ti\u00ean",
         "url": "https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5"
       },
@@ -22710,7 +22836,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 149332,
       "name": "Solo Syndrome",
       "url": "https://open.spotify.com/track/284yg891l9QsGNwM9KhCmB"
@@ -25909,6 +26035,28 @@
     },
     {
       "album": {
+        "name": "Timescroll",
+        "url": "https://open.spotify.com/album/1VFSaL71j2Ey7BKZlgM3d0"
+      },
+      "artists": [
+        {
+          "name": "\u661f\u5bae\u3068\u3068",
+          "url": "https://open.spotify.com/artist/2gLRAkIfasw2ydt1omK41j"
+        },
+        {
+          "name": "IX/ON",
+          "url": "https://open.spotify.com/artist/2kqBhRSwJAm8F84VJwMiud"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241720,
+      "name": "Timescroll",
+      "url": "https://open.spotify.com/track/1MIWMRCEdZaEt18V0MQdLH"
+    },
+    {
+      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -25938,7 +26086,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/2xW9Wlw6oKVCyzo9IhQaAh"
@@ -26050,7 +26198,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 154105,
       "name": "Toast",
       "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
@@ -26960,6 +27108,24 @@
     {
       "album": {
         "name": "Used to Fall",
+        "url": "https://open.spotify.com/album/7wzT0vQXwUd3oYhFV2h7Lq"
+      },
+      "artists": [
+        {
+          "name": "Fuki Kitamura",
+          "url": "https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Used to Fall",
+      "url": "https://open.spotify.com/track/0WFdf6dsmbvPGPepFYpZ4X"
+    },
+    {
+      "album": {
+        "name": "Used to Fall",
         "url": "https://open.spotify.com/album/4TtKkqws4OpO9S0mt4Y4CC"
       },
       "artists": [
@@ -27376,6 +27542,24 @@
       "duration_ms": 161933,
       "name": "want more",
       "url": "https://open.spotify.com/track/11I4dJxNvPVf3TBqiqHVbz"
+    },
+    {
+      "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
     },
     {
       "album": {
@@ -29853,6 +30037,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Misty Memory)",
+        "url": "https://open.spotify.com/album/2AABmDlmQYFHWnYTvO2iN1"
+      },
+      "artists": [
+        {
+          "name": "loserpop",
+          "url": "https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282996,
+      "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (Misty Memory)",
+      "url": "https://open.spotify.com/track/3Mzl6CVal8DZVnyYu7Icog"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32 (Just Don't) feat. Jorin 4EVE",
         "url": "https://open.spotify.com/album/6ha08B8cRRuhzUnM6pnsJY"
       },
@@ -31702,6 +31904,24 @@
       "duration_ms": 262539,
       "name": "\u6697\u6d41",
       "url": "https://open.spotify.com/track/2k3JtZNj3VZkHdefEssZmO"
+    },
+    {
+      "album": {
+        "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU"
+      },
+      "artists": [
+        {
+          "name": "HIMI",
+          "url": "https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351779,
+      "name": "\u67af\u8449\u306e\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6"
     },
     {
       "album": {

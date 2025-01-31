@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Tyga)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Travis Scott)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -958,7 +958,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 157637,
       "name": "2HII",
       "url": "https://open.spotify.com/track/4zj41U06wJ0Q4F6HKQTP2l"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 108613,
       "name": "2s n 3s - Solo",
       "url": "https://open.spotify.com/track/42ZRAfQJP1OOwCraHo3RWz"
@@ -1382,6 +1382,24 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
+    },
+    {
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
     },
     {
       "album": {
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 199073,
       "name": "AGATS2 (Insecure) [with Nicki Minaj]",
       "url": "https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm"
@@ -5239,6 +5257,32 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL SCARS (feat. OBanga)",
+        "url": "https://open.spotify.com/album/5kiXUgl20k8SI5a95XLXzp"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "OBanga",
+          "url": "https://open.spotify.com/artist/4RtafAAxXiQtMI9yZs5DCv"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226031,
+      "name": "BEAUTIFUL SCARS (feat. OBanga)",
+      "url": "https://open.spotify.com/track/6aYUqmT0QPnF8XizA1XhL9"
+    },
+    {
+      "album": {
         "name": "genre : sadboy",
         "url": "https://open.spotify.com/album/1WkykSHhndyQJcYNwL7zxY"
       },
@@ -6688,6 +6732,28 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "album": {
+        "name": "Blick Sum (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Blick Sum (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
     },
     {
       "album": {
@@ -10505,6 +10571,28 @@
     },
     {
       "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/2gnTrXJZqiNAboXtTBLuZx"
+      },
+      "artists": [
+        {
+          "name": "Kalou",
+          "url": "https://open.spotify.com/artist/2votViQhLfXxz7JT97jhZu"
+        },
+        {
+          "name": "karan",
+          "url": "https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194795,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/10F5YIvK0QZ1m6q7BJybpq"
+    },
+    {
+      "album": {
         "name": "College Girls",
         "url": "https://open.spotify.com/album/2MnezDg8Uik1lpRFDkCB3G"
       },
@@ -11192,6 +11280,24 @@
       "duration_ms": 360453,
       "name": "Creepin' (with The Weeknd & 21 Savage) - ChoppedNotSlopped",
       "url": "https://open.spotify.com/track/067yehfYP7HD99fzRx5yOz"
+    },
+    {
+      "album": {
+        "name": "Creole",
+        "url": "https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt"
+      },
+      "artists": [
+        {
+          "name": "Tre Mission",
+          "url": "https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149056,
+      "name": "Creole",
+      "url": "https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A"
     },
     {
       "album": {
@@ -21252,7 +21358,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
@@ -23070,6 +23176,40 @@
       "duration_ms": 228803,
       "name": "Ice Spice",
       "url": "https://open.spotify.com/track/4cAPBai2AcHU3dFp7tGt3X"
+    },
+    {
+      "album": {
+        "name": "ID feat. RYOKI (BE:FIRST), RYUKI (MAZZEL), JIMMY (PSYCHIC FEVER), FELIP",
+        "url": "https://open.spotify.com/album/2aI04mIDKNeBLfZHxKEF9Q"
+      },
+      "artists": [
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        },
+        {
+          "name": "RYOKI",
+          "url": "https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm"
+        },
+        {
+          "name": "RYUKI",
+          "url": "https://open.spotify.com/artist/5uqXBEdoZzQXLRd8L77GoL"
+        },
+        {
+          "name": "JIMMY",
+          "url": "https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1"
+        },
+        {
+          "name": "Felip",
+          "url": "https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212259,
+      "name": "ID feat. RYOKI (BE:FIRST), RYUKI (MAZZEL), JIMMY (PSYCHIC FEVER), FELIP",
+      "url": "https://open.spotify.com/track/2cXkFKFgEW5Myc0yNy6CqL"
     },
     {
       "album": {
@@ -25078,10 +25218,32 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 126935,
       "name": "KAWASAKI (with Big Sean)",
       "url": "https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5"
+    },
+    {
+      "album": {
+        "name": "KAWASAKI (with pH-1)",
+        "url": "https://open.spotify.com/album/1RXcebYRkziuEISb8Owebn"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131166,
+      "name": "KAWASAKI (with pH-1)",
+      "url": "https://open.spotify.com/track/0QZABM9f7qhxAeW88WmBSY"
     },
     {
       "album": {
@@ -27362,7 +27524,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 200563,
       "name": "Lonely Road (feat. Terrace Martin)",
       "url": "https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f"
@@ -29760,7 +29922,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 159029,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
@@ -30766,6 +30928,28 @@
       "duration_ms": 198056,
       "name": "My G (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/6Iqz3QB6zSdn1N61acinau"
+    },
+    {
+      "album": {
+        "name": "My G's",
+        "url": "https://open.spotify.com/album/498Fuxo3pL5C36JOPmYbJp"
+      },
+      "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198913,
+      "name": "My G's (feat. SEEDA)",
+      "url": "https://open.spotify.com/track/5lVWzY282dRXHbckEBgsCm"
     },
     {
       "album": {
@@ -32348,7 +32532,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 144024,
       "name": "No More Heroes",
       "url": "https://open.spotify.com/track/47XV8Js6lsAPdT0W90eFKZ"
@@ -35950,6 +36134,24 @@
       "duration_ms": 170571,
       "name": "PICK IT UP!",
       "url": "https://open.spotify.com/track/4vZksQVhU0UxyDJkb2sF8R"
+    },
+    {
+      "album": {
+        "name": "Piece of Gem",
+        "url": "https://open.spotify.com/album/3AgG0IpfNk7WTag6ScFqrG"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Gemini",
+          "url": "https://open.spotify.com/artist/4AD2SGYmDQVd02vrwH0TaA"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159857,
+      "name": "Piece of Gem",
+      "url": "https://open.spotify.com/track/1TUOKpnX1wsFCwMP8CUYxe"
     },
     {
       "album": {
@@ -42820,7 +43022,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 110302,
       "name": "SMOKING IN THE RAIN (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/6lislq9SZH4CTFXq6opVwh"
@@ -45853,6 +46055,28 @@
     },
     {
       "album": {
+        "name": "Table 4 Two (feat. Tuan Tigabelas)",
+        "url": "https://open.spotify.com/album/6srEZI8Qb6Hi22m6xIo5wV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Reijman",
+          "url": "https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL"
+        },
+        {
+          "name": "Tuantigabelas",
+          "url": "https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252020,
+      "name": "Table 4 Two (feat. Tuan Tigabelas)",
+      "url": "https://open.spotify.com/track/0aiaMOrEuMQS8aGBSW3yFs"
+    },
+    {
+      "album": {
         "name": "Tablecloth",
         "url": "https://open.spotify.com/album/28HdEYqBikp5BW9Xl5CZra"
       },
@@ -47257,6 +47481,28 @@
     },
     {
       "album": {
+        "name": "The Grand Finale.",
+        "url": "https://open.spotify.com/album/6S2nHQxFMaUSAHxZrAvJnx"
+      },
+      "artists": [
+        {
+          "name": "TripleNoize",
+          "url": "https://open.spotify.com/artist/5lqfhx6wc2CWCly0OwPBH6"
+        },
+        {
+          "name": "Aishah",
+          "url": "https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103953,
+      "name": "The Grand Finale.",
+      "url": "https://open.spotify.com/track/51Zl0O3Xz5rU84B2S0dZcD"
+    },
+    {
+      "album": {
         "name": "The Greatest",
         "url": "https://open.spotify.com/album/4Zle90yBm3NjONDtmuutCX"
       },
@@ -48264,7 +48510,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 164080,
       "name": "Thug Memorials",
       "url": "https://open.spotify.com/track/6k3FXZe2ksgjMUFAN4VUEv"
@@ -48738,7 +48984,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 236873,
       "name": "To You (feat. Robert Glasper, Emi Secrest)",
       "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"

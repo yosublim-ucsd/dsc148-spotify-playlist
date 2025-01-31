@@ -4,7 +4,7 @@
 
 > 긍정적이고 밝은 기운 가득한 음악들과 함께 행복한 새해를 맞이하세요!
 
-376 songs - 21 hr 58 min
+377 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [But Sometimes](https://open.spotify.com/track/5TNMJ6Csb2NgSohuz76XJT) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [WHY..](https://open.spotify.com/album/45skMBkupbWiAxTeZ77rVa) | 2:55 | 2023-09-20 | 2024-06-14 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2022-05-11 | 2022-06-25 |
 | [Butterfly](https://open.spotify.com/track/5tsv7SWaJ1u5EOy7ffaZgO) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN), [Kim Tae Young](https://open.spotify.com/artist/0XjxJGYN0lzYy7YiMdkvwK) | [Butterfly](https://open.spotify.com/album/3vaWk6sl62WvA92hQHdIGs) | 4:26 | 2025-01-06 |  |
+| [Butterfly](https://open.spotify.com/track/7hHHVk8zubIU0x4GSFchW4) | [Yoo Jae Seok](https://open.spotify.com/artist/4zmCovcjfUoYP3VilaMGxb), [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3), [Haha](https://open.spotify.com/artist/3lY2yvsj2BSiYSA8PcPGqF), [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K), [Woojae Joo](https://open.spotify.com/artist/6Zd5eNfs2il80KLz4ip3MZ), [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Jinjoo Park](https://open.spotify.com/artist/7IdADRck0QFUu72VHl26Ta), [Yikyung Lee](https://open.spotify.com/artist/60Qp4NogIYk55uEv2CLz7q), [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Mijoo](https://open.spotify.com/artist/4OG0yG5KOQSs184XtVo3zQ), [Sanguk Oh](https://open.spotify.com/artist/4ILwZ52xa6hycyqEAYcWbS), [Geonhee Song](https://open.spotify.com/artist/0Zqjwm4EyfhsSLTpVTBA23), [Seungheon Baek](https://open.spotify.com/artist/6kGcbZgIk7XywoZ5aLgh9P), [Haewon\(NMIXX\)](https://open.spotify.com/artist/7D9JVaMuSyfi9vOWkUKzBJ) | [Hang Out With YOO Wintersong \- Songs to sing in winter Part 2.](https://open.spotify.com/album/6xRdM9PiuSUh51Kz3G4z88) | 3:57 | 2025-01-30 |  |
 | [BYE BYE BYE \(feat\. Sion\)](https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 4:21 | 2023-11-10 | 2024-06-14 |
 | [Call with Mom](https://open.spotify.com/track/7gQTIcjauUtqhRA7w0Pf2c) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Half Sixty](https://open.spotify.com/album/2hO3Uu1QsJNVfSJ24MZ5du) | 3:10 | 2024-08-29 | 2025-01-07 |
 | [Call with Mom 엄마랑 전화를 하다가](https://open.spotify.com/track/1fxUCdA8mFuQ6PnyZVU84l) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Half Sixty 반육십](https://open.spotify.com/album/0EGARDYbxXNyj61nDNx6vL) | 3:10 | 2024-08-29 | 2025-01-07 |

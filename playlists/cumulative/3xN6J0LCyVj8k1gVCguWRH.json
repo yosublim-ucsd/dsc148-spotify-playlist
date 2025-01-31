@@ -3461,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/2Ei5J5Kk5QCN4wAGbLGzxw"
+      },
+      "artists": [
+        {
+          "name": "ROSE!",
+          "url": "https://open.spotify.com/artist/6LbyTLwT5N9UQyFDhusqtZ"
+        },
+        {
+          "name": "Sophie Hafen",
+          "url": "https://open.spotify.com/artist/7o78BTAdUript7ijBX1GWt"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254490,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/24AOi43ANo7FQ3poqDgr5R"
+    },
+    {
+      "album": {
         "name": "All Your Ways",
         "url": "https://open.spotify.com/album/2lTqgwEUaV0IJwWr03zndU"
       },
@@ -16014,6 +16036,24 @@
       "duration_ms": 195798,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/4Z4vHArIeBDjCURV5UTYa1"
+    },
+    {
+      "album": {
+        "name": "Crawl Space",
+        "url": "https://open.spotify.com/album/2WW2wKxpatyKJp6OLwt0ZN"
+      },
+      "artists": [
+        {
+          "name": "DD",
+          "url": "https://open.spotify.com/artist/5wZCM8FJXepBLA0GWjyboB"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147716,
+      "name": "Crawl Space",
+      "url": "https://open.spotify.com/track/5uCX00nsZEdbGjl7T3VvwW"
     },
     {
       "album": {
@@ -36405,6 +36445,24 @@
     },
     {
       "album": {
+        "name": "Im Pissed",
+        "url": "https://open.spotify.com/album/350jbX3QZXE2LKjUoB6Qty"
+      },
+      "artists": [
+        {
+          "name": "Biddix",
+          "url": "https://open.spotify.com/artist/0UGEuUhzpU9S47wQFgwYTP"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192374,
+      "name": "Im Pissed",
+      "url": "https://open.spotify.com/track/2S9YhQT75DQ6zhe29U4BGH"
+    },
+    {
+      "album": {
         "name": "Im Still Here",
         "url": "https://open.spotify.com/album/2bWFOdFDapH3jmNoj9SWEd"
       },
@@ -50866,7 +50924,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 181835,
       "name": "New Kind of Weird - Acoustic Version",
       "url": "https://open.spotify.com/track/7sVqPugjfFagA0h74Anbj8"
@@ -50928,7 +50986,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 382602,
       "name": "New Revolution",
       "url": "https://open.spotify.com/track/4Twuj1J13KG7PwtTijwYYQ"
@@ -60550,6 +60608,24 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "album": {
+        "name": "APPETITE",
+        "url": "https://open.spotify.com/album/23hICChSMeEAlrNvb1WCU2"
+      },
+      "artists": [
+        {
+          "name": "Jay Nealy",
+          "url": "https://open.spotify.com/artist/0gsMPOtgWw700C9otApdDT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185605,
+      "name": "RIGHT HERE",
+      "url": "https://open.spotify.com/track/56uMdRlr2LyF24v0QR3pYT"
     },
     {
       "album": {
@@ -73839,6 +73915,24 @@
     },
     {
       "album": {
+        "name": "They Ain't Listen",
+        "url": "https://open.spotify.com/album/41H38Igry0erWOialgbiYG"
+      },
+      "artists": [
+        {
+          "name": "Joc",
+          "url": "https://open.spotify.com/artist/247EpMyIi7zNXwHlzrP0zS"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129369,
+      "name": "They Ain't Listen",
+      "url": "https://open.spotify.com/track/5sWji2RJYJJqss1dMdTLw7"
+    },
+    {
+      "album": {
         "name": "They Can Say What They Like",
         "url": "https://open.spotify.com/album/5hpiel9r5L9u3unhcmpqjw"
       },
@@ -74900,6 +74994,24 @@
       "duration_ms": 129370,
       "name": "TKN (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "album": {
+        "name": "TNGB -instrumental",
+        "url": "https://open.spotify.com/album/4XPkckooLQfQ4ZD2s3BTPF"
+      },
+      "artists": [
+        {
+          "name": "Doubleonthabeat",
+          "url": "https://open.spotify.com/artist/1rwV6Inqy4qlsjoJYl4932"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "TNGB -instrumental",
+      "url": "https://open.spotify.com/track/0anfYCnmKLRqkUx11TVgly"
     },
     {
       "album": {

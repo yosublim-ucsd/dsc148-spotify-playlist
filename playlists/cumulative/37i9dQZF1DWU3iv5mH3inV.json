@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 63398,
       "name": "Ay! Roc\u00edo",
       "url": "https://open.spotify.com/track/6LWDqLM1ZgmsgotMQ542Pb"
@@ -3510,7 +3510,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 124230,
       "name": "Dejala Que Baile",
       "url": "https://open.spotify.com/track/58nqdCTW8NqPzzUM0ZMdOV"
@@ -4163,6 +4163,36 @@
     },
     {
       "album": {
+        "name": "E Rulay",
+        "url": "https://open.spotify.com/album/5MobUzebNFZA9nK2SsLyGc"
+      },
+      "artists": [
+        {
+          "name": "El Mello 06",
+          "url": "https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        },
+        {
+          "name": "BUCHANA",
+          "url": "https://open.spotify.com/artist/5Nv583iU71NTqgX8cuTbzQ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141123,
+      "name": "E Rulay",
+      "url": "https://open.spotify.com/track/0loQDDhVlqRzz7oJQEgZTN"
+    },
+    {
+      "album": {
         "name": "E\"4",
         "url": "https://open.spotify.com/album/6w1pmI0mfuWc5gweCs9d2I"
       },
@@ -4522,7 +4552,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 98587,
       "name": "El Loco Tuyo",
       "url": "https://open.spotify.com/track/4gCNz4CQc8IBTUpFimd3bn"
@@ -4812,7 +4842,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 185714,
       "name": "El Reloj",
       "url": "https://open.spotify.com/track/4YFNZukS8KCpgTf7XxfTaa"
@@ -5412,7 +5442,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 148490,
       "name": "En Tu Casa",
       "url": "https://open.spotify.com/track/6t0xqn0QyjMXPtw4FIIg02"
@@ -8087,6 +8117,24 @@
     },
     {
       "album": {
+        "name": "Llego el Dembow",
+        "url": "https://open.spotify.com/album/4xRHTO52dTTZy1Setg7j4q"
+      },
+      "artists": [
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Llego el Dembow",
+      "url": "https://open.spotify.com/track/3WyL3MM51DwhRkQ4nyXCn8"
+    },
+    {
+      "album": {
         "name": "LLENO DE ODIO",
         "url": "https://open.spotify.com/album/3IXdbLGtVIdweMQM3ZzLvS"
       },
@@ -8558,7 +8606,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 152653,
       "name": "Ma Buena",
       "url": "https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB"
@@ -12401,6 +12449,24 @@
     },
     {
       "album": {
+        "name": "Pilonea Pilonea",
+        "url": "https://open.spotify.com/album/7gPwhQfIOmyelvD80Cueic"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141658,
+      "name": "Pilonea Pilonea",
+      "url": "https://open.spotify.com/track/5V8BYKq9jXWJkD5fClJkzz"
+    },
+    {
+      "album": {
         "name": "Pin Pon",
         "url": "https://open.spotify.com/album/0Fm04gVS5QjzNXMB10o8xM"
       },
@@ -12442,6 +12508,28 @@
       "duration_ms": 154434,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/2nsYdAiS7abEcku6JAw8Zs"
+    },
+    {
+      "album": {
+        "name": "Pire",
+        "url": "https://open.spotify.com/album/4vOjNHdUoEz2YJzEYhe4vH"
+      },
+      "artists": [
+        {
+          "name": "Chaki Bley",
+          "url": "https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "Pire",
+      "url": "https://open.spotify.com/track/3u7FPClMoZjNLLHE194BtR"
     },
     {
       "album": {
@@ -14217,6 +14305,28 @@
     },
     {
       "album": {
+        "name": "Rebota",
+        "url": "https://open.spotify.com/album/65Dk0MzTZnX2rRAhFvzK2Q"
+      },
+      "artists": [
+        {
+          "name": "Hugo23",
+          "url": "https://open.spotify.com/artist/7AYmFR2ZafMeVqMc0Rf2KZ"
+        },
+        {
+          "name": "Karina y Marina",
+          "url": "https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Rebota",
+      "url": "https://open.spotify.com/track/3eutoatHBijbj90IHxlRze"
+    },
+    {
+      "album": {
         "name": "Ahora Venimo' Con Rango",
         "url": "https://open.spotify.com/album/0Qwqq5uobfICw2CYAlzfiU"
       },
@@ -14400,6 +14510,28 @@
       "duration_ms": 208000,
       "name": "RULAY",
       "url": "https://open.spotify.com/track/7AynIkGpqhpEMPywgDpK0b"
+    },
+    {
+      "album": {
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/5lXO5UHujxKcomBbKj7X3R"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119078,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/1TO4SzlqA1zKNO5reNDU2Y"
     },
     {
       "album": {
@@ -14704,7 +14836,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 124870,
       "name": "Se Puede Repet\u00ed",
       "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
@@ -19434,6 +19566,28 @@
       "duration_ms": 188893,
       "name": "Yo Lo Cojo",
       "url": "https://open.spotify.com/track/15f7OgSGn8g36CHvQSToza"
+    },
+    {
+      "album": {
+        "name": "YO LO GASTO",
+        "url": "https://open.spotify.com/album/0zdp5wQg0nzkCrVHxUWwgx"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        },
+        {
+          "name": "Brayant LR",
+          "url": "https://open.spotify.com/artist/486BIjpmGDFqhxxMiqn1Cp"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97850,
+      "name": "YO LO GASTO",
+      "url": "https://open.spotify.com/track/4DxpLmN0WgO95N82YFtzbP"
     },
     {
       "album": {

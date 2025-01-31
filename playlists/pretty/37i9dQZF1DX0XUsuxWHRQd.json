@@ -1,12 +1,12 @@
 {
   "description": "New music from Central Cee, Travis Scott and Sexyy Red. ",
-  "num_followers": 16122920,
+  "num_followers": 16123065,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5WLAwAAAADJs0Dvw9g2sL1u9tr3QJ1v",
+  "snapshot_id": "Z5sHaAAAAAChmQULPQNMr/4XCZwwMV/K",
   "tracks": [
     {
       "added_at": "2025-01-26 01:08:19",
@@ -175,6 +175,26 @@
       "duration_ms": 156800,
       "name": "GOT DAMN",
       "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "added_at": "2025-01-30 05:00:24",
+      "album": {
+        "name": "Supreme Clientele",
+        "url": "https://open.spotify.com/album/7eaQqVyq6xzAVgsxSzSP83"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "U-God",
+          "url": "https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "Cherchez LaGhost (feat. U-God)",
+      "url": "https://open.spotify.com/track/5OsVXAWDMK7v37MwKEDjcD"
     },
     {
       "added_at": "2025-01-26 01:08:19",

@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 440151,
+  "num_followers": 440202,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5geAAAAAABgQR7/xZmrrPgXayxvjBHh",
+  "snapshot_id": "Z5lvgAAAAACwi0RRUBX+jo4sQRvznuHi",
   "tracks": [
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Me Esta Haciendo Costumbre",
-        "url": "https://open.spotify.com/album/7w6sL9dAS9byO7PVxls8pl"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Brian Sandoval",
-          "url": "https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL"
-        }
-      ],
-      "duration_ms": 178762,
-      "name": "Se Me Esta Haciendo Costumbre",
-      "url": "https://open.spotify.com/track/4HyyehNNmigs3QXoPC1kXi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apenas es Martes",
         "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Me Esta Haciendo Costumbre",
+        "url": "https://open.spotify.com/album/7w6sL9dAS9byO7PVxls8pl"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Brian Sandoval",
+          "url": "https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL"
+        }
+      ],
+      "duration_ms": 178762,
+      "name": "Se Me Esta Haciendo Costumbre",
+      "url": "https://open.spotify.com/track/4HyyehNNmigs3QXoPC1kXi"
     },
     {
       "added_at": null,

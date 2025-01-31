@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > All Black like the cover of Essence\. Featuring our <a href="https://www.instagram.com/p/DFJAPFWTvkJ/?utm\_source=ig\_web\_copy\_link">Frequency Zine</a> cover star <a href="spotify:artist:6BjTMFkrQJF8cQlVsLFbUh">Mowalola</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,599 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,793 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

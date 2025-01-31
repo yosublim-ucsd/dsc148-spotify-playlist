@@ -4,7 +4,7 @@
 
 > festival music 2025 \- festival songs \- festival mix \- music festival \- music mix \- mainstage mix \- mainstage music \- tiesto \- david guetta \- swedish house maffia \- avicii
 
-390 songs - 19 hr 45 min
+392 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Holding On To You](https://open.spotify.com/track/5NjtrDlHNyRULEE1MmRiEW) | [Voster & Gallardo](https://open.spotify.com/artist/6an7Tt4XKUfDucWZUXflvl), [Severman](https://open.spotify.com/artist/4kiGFkkVQVz9a8XIw8lX7u) | [Holding On To You](https://open.spotify.com/album/7ATTFOMK9mO95jvZ3mcFnu) | 2:45 | 2023-10-02 | 2023-11-11 |
 | [Home](https://open.spotify.com/track/11iHqdwr3Z23TbOEhEWjdi) | [Chemikkal](https://open.spotify.com/artist/108HQw3bi3vuj7RReiRbwi) | [Home](https://open.spotify.com/album/5UlsaXdkQHv1fRnCqA0Htf) | 2:48 | 2024-02-23 | 2024-06-22 |
 | [Hot Summer Nights](https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Hot Summer Nights](https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ) | 2:38 | 2022-09-13 | 2023-04-22 |
+| [How We Feelin](https://open.spotify.com/track/4PkZNPD2waoSbn5ObPnwc9) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [BEATSBYSICK Vol\. 01](https://open.spotify.com/album/3wOGpE3SuvdehXwvnKj3ts) | 2:47 | 2025-01-30 |  |
 | [How Will I Know](https://open.spotify.com/track/5ZCZmL42ETXg6BaPWe1emp) | [b1rdie](https://open.spotify.com/artist/6szDx9nHHT3fQnV3sMMY3x), [MANTZA](https://open.spotify.com/artist/1twt2fHhKKQLn9S8GUb83I) | [How Will I Know](https://open.spotify.com/album/56ONp8iQb6AT9hdd9uvaCs) | 3:03 | 2023-08-17 | 2024-04-19 |
 | [Human](https://open.spotify.com/track/5i9khhoOkeogB49q54KOIz) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Machine Made](https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB) | [Human](https://open.spotify.com/album/7brW7G3kHHkhr3eu838HhH) | 4:05 | 2023-08-31 | 2024-01-10 |
 | [Hurricane](https://open.spotify.com/track/44fKrt6SHESPvP3H1IpvBy) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [ASTER](https://open.spotify.com/artist/6Jt9U8bJ56jqNdEKdLZ7Yw), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Hurricane](https://open.spotify.com/album/43UsFyzWE1Uom2rpVohnJg) | 3:19 | 2022-10-03 | 2022-12-03 |
@@ -236,6 +237,7 @@
 | [Monster](https://open.spotify.com/track/7KKKa4Y1x32MIGeb3MA34K) | [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Monster](https://open.spotify.com/album/1tInUyai2CNWOmuVFqdSRY) | 3:27 | 2022-07-29 | 2023-08-12 |
 | [Mount It](https://open.spotify.com/track/6gxdGjHvDqYMGNq2MIog9m) | [Steven Vegas](https://open.spotify.com/artist/5QCtrEvIJdRTN1XCZVKeOQ), [JITRA](https://open.spotify.com/artist/0TlzdOK3rEw8B06WGwXaTZ) | [Mount It](https://open.spotify.com/album/1EX1RWvSHy75dKe9R5D3PO) | 2:11 | 2024-08-15 | 2024-11-30 |
 | [Move](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Move](https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx) | 2:59 | 2024-06-06 | 2024-08-17 |
+| [Move It Down](https://open.spotify.com/track/0JfipTi30KnNulfnT8o7iS) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [BEATSBYSICK Vol\. 01](https://open.spotify.com/album/3wOGpE3SuvdehXwvnKj3ts) | 2:12 | 2025-01-30 |  |
 | [Move It Like This](https://open.spotify.com/track/4RGpvnDzrLRUGQJSulpOT4) | [RevoideN](https://open.spotify.com/artist/5bw9Y5y2Q1GlJ4AzH5eVSA) | [Move It Like This](https://open.spotify.com/album/4a4Rz6VYOb3jQXRdan98Be) | 2:23 | 2023-08-10 | 2023-12-09 |
 | [Move Your Body](https://open.spotify.com/track/5uSHDVIZf0ejiFzroIheiu) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body \(Extended Mix\)](https://open.spotify.com/album/3sBhqTQUVLgkNeBIZcLUST) | 2:37 | 2023-08-10 | 2023-11-22 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2023-11-21 |  |

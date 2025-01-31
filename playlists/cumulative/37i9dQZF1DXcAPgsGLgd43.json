@@ -223,6 +223,28 @@
     },
     {
       "album": {
+        "name": "Al Ritmo",
+        "url": "https://open.spotify.com/album/0NNBqqMc8lqnOhVTTkB1Vt"
+      },
+      "artists": [
+        {
+          "name": "Robby Ruini",
+          "url": "https://open.spotify.com/artist/57g5V23Tgc882bLCbK7XwN"
+        },
+        {
+          "name": "Redmark",
+          "url": "https://open.spotify.com/artist/2FEIv4X5XTrH7YgXvKOvPy"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160516,
+      "name": "Al Ritmo",
+      "url": "https://open.spotify.com/track/5vnxcZAJLs9NMZohIB1ZLV"
+    },
+    {
+      "album": {
         "name": "Alma Roja (DJ CHUS Remix)",
         "url": "https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w"
       },
@@ -644,7 +666,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 2532601,
       "name": "Baile do Whighle #8 - TECH FUNK",
       "url": "https://open.spotify.com/track/7x7twH6gR2UjJYKWYQ5iwD"

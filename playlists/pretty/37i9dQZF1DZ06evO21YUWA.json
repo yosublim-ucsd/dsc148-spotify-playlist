@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5405,
+  "num_followers": 5406,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5geAAAAAABu2VrUQOYBDBXoojQZdUv8",
+  "snapshot_id": "Z5lvgAAAAADwOWrZ6cZBWEB88svl3D5L",
   "tracks": [
     {
       "added_at": null,
@@ -44,9 +44,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 292213,
-      "name": "Against The Sky - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf"
+      "duration_ms": 236746,
+      "name": "A Stream With Bright Fish - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 236746,
-      "name": "A Stream With Bright Fish - 2005 Digital Remaster",
-      "url": "https://open.spotify.com/track/4IN34Iq5T9x1vN6MASxvS9"
+      "duration_ms": 292213,
+      "name": "Against The Sky - 2005 Digital Remaster",
+      "url": "https://open.spotify.com/track/50mwGp3PgKoZldhBvfy2cf"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 62946,
+      "name": "It's Steeper Near the Roses (For David Sylvian) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter Garden",
         "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 285973,
       "name": "Winter Garden",
       "url": "https://open.spotify.com/track/3L7bmTuqQVTGi9jR9NM6s9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 62946,
-      "name": "It's Steeper Near the Roses (For David Sylvian) - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3bHt0oTVrWjy9Rss6Akhhy"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 210706,
-      "name": "And Then I Turned Away",
-      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avalon Sutra (2013 Remaster)",
         "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 380453,
       "name": "Spoken Roses",
       "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "And Then I Turned Away",
+      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Arabesque 3 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -831,26 +815,6 @@
       "duration_ms": 100106,
       "name": "Momentary Architecture",
       "url": "https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "So Many Short Years Ago",
-      "url": "https://open.spotify.com/track/2Uc85kwbkEyIHop6tkQ91r"
     },
     {
       "added_at": null,
@@ -879,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
       "artists": [
         {
@@ -888,9 +852,29 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 154933,
-      "name": "Afar",
-      "url": "https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk"
+      "duration_ms": 159920,
+      "name": "Arabesque 3 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "So Many Short Years Ago",
+      "url": "https://open.spotify.com/track/2Uc85kwbkEyIHop6tkQ91r"
     },
     {
       "added_at": null,
@@ -911,6 +895,30 @@
       "duration_ms": 183880,
       "name": "Adult",
       "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winter Garden",
+        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+      },
+      "artists": [
+        {
+          "name": "Eraldo Bernocchi",
+          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "White Ceramic",
+      "url": "https://open.spotify.com/track/4vnyLURKEIFnIM4gMZYx8h"
     },
     {
       "added_at": null,
@@ -951,26 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Garden",
-        "url": "https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH"
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
       },
       "artists": [
         {
-          "name": "Eraldo Bernocchi",
-          "url": "https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5"
-        },
-        {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        },
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 180600,
-      "name": "White Ceramic",
-      "url": "https://open.spotify.com/track/4vnyLURKEIFnIM4gMZYx8h"
+      "duration_ms": 154933,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk"
     }
   ],
   "unique_name": "This Is Harold Budd",

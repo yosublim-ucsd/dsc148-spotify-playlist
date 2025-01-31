@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-283 songs - 16 hr 12 min
+284 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Just idag är jag stark](https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Just idag är jag stark](https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV) | 3:26 | 2025-01-23 |  |
 | [Keep Quiet](https://open.spotify.com/track/2VClts5OjA61Cg3QLWNNF1) | [Jenny Berggren](https://open.spotify.com/artist/44YSqyZYMSDBJYRwUVOCPs) | [Keep Quiet](https://open.spotify.com/album/0MUwVgg7rxb6PwL4TwWli9) | 3:10 | 2024-06-27 | 2024-08-16 |
 | [Kiss Me When You're Through](https://open.spotify.com/track/72Z9rtqBAHGUGWkFu2DCnD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Border](https://open.spotify.com/album/6CHMRZ6vYXMvxRSC3acmFr) | 2:45 | 2024-06-27 | 2024-08-16 |
+| [Know You've Been Loved](https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Know You've Been Loved](https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI) | 3:36 | 2025-01-30 |  |
 | [Knowing Me, Knowing You \(7th Heaven Radio Edit\)](https://open.spotify.com/track/1UDh3ZtVpSKjpVarF47xIB) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB), [7th Heaven](https://open.spotify.com/artist/5pflJc47McwW2cNXOKCtSi) | [Knowing Me, Knowing You](https://open.spotify.com/album/0RsOlovI5yQnhnPPjQLzmZ) | 4:07 | 2024-10-10 | 2024-10-18 |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-27 | 2024-08-09 |
 | [Kyrie Eleison](https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Kyrie Eleison](https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA) | 4:42 | 2024-09-19 | 2024-12-13 |
@@ -282,7 +283,7 @@
 | [Whiskey Tears II](https://open.spotify.com/track/2mbUnUhOkGnFfSE6uW8kl2) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Whiskey Tears II](https://open.spotify.com/album/7HUXMttweSAC9mzBUtDIu2) | 2:56 | 2025-01-09 |  |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 |  |
 | [WILDSIDE](https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [WILDSIDE](https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV) | 2:47 | 2024-06-27 |  |
-| [Will You Run Away With Me](https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa) | 3:33 | 2024-10-17 |  |
+| [Will You Run Away With Me](https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa) | 3:33 | 2024-10-17 | 2025-01-31 |
 | [WIND BLOW](https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [WIND BLOW](https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR) | 3:25 | 2025-01-09 |  |
 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 | 2024-10-10 |  |
 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-27 |  |

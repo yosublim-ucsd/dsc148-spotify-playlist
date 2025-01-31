@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,728 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,850 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 14 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 |
 | 15 | [Beginner](https://open.spotify.com/track/2253dhz68xZDjKfOW5KcWt) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light Sides](https://open.spotify.com/album/4K27TdPeRkWMIKns5TBzMn) | 4:03 |
 | 16 | [I'm With You](https://open.spotify.com/track/4whHz5ampVITJWkZPnH3ox) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I'm With You](https://open.spotify.com/album/1oDoEUwFlsYWiUu4avCwTS) | 2:33 |
-| 17 | [I'll Be There](https://open.spotify.com/track/3PCy5407tNw7MlpP8DyHvU) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY), [Pete McCredie](https://open.spotify.com/artist/0Cgijkl49Ktl93nFDK9CTi), [The McCredie Brothers](https://open.spotify.com/artist/5S6hgx48T6bHth4lxxmKGD) | [I'll Be There](https://open.spotify.com/album/7ylFkfr7N9H4e2aRANwDzA) | 2:39 |
+| 17 | [I'll Be There](https://open.spotify.com/track/3PCy5407tNw7MlpP8DyHvU) | [The McCredie Brothers](https://open.spotify.com/artist/5S6hgx48T6bHth4lxxmKGD), [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY), [Pete McCredie](https://open.spotify.com/artist/0Cgijkl49Ktl93nFDK9CTi) | [I'll Be There](https://open.spotify.com/album/7ylFkfr7N9H4e2aRANwDzA) | 2:39 |
 | 18 | [Carry Me](https://open.spotify.com/track/7klGSuREZwBKUXS8KsjKsN) | [Juanita Stein](https://open.spotify.com/artist/75BOjZHMIGsRcVeahOXRlp) | [Carry Me](https://open.spotify.com/album/1CIMsVmj1L56h3qSfhwPd7) | 3:02 |
 | 19 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 |
 | 20 | [Long Way Home](https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Long Way Home](https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN) | 4:01 |

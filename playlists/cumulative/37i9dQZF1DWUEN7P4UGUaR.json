@@ -365,6 +365,32 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5AhyxOO5MvwHZDx0E1S5KP"
+      },
+      "artists": [
+        {
+          "name": "David Dvnks",
+          "url": "https://open.spotify.com/artist/3jGgIlufVEHOF3Ckyb2L2R"
+        },
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        },
+        {
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224089,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6tTwVPhMIgzCsQlHullPO2"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP"
       },
@@ -1872,7 +1898,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 221714,
       "name": "Sometin",
       "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"

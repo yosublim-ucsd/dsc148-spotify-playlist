@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "It's not just about the music, it's about the culture. Cover: <a href=\"https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx?si=V_07j2h6RlyDRrCyFgw7Hg\">Vanger Boyz</a>",
+  "description": "From Durban to the globe, yasuka leyonto! Cover: <a href=\"https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr?si=ORpbDLmbQfKi44Yf2GKaoQ\">Vv Pete</a>",
   "name": "GQOM Power House",
   "tracks": [
     {
@@ -748,7 +748,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 379702,
       "name": "Buya Nini",
       "url": "https://open.spotify.com/track/2Se4sU0DGJT8IS0JuraRqr"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 331000,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/5VP85Vg46J1p3ZBUhxFLHJ"
@@ -1798,7 +1798,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 311405,
       "name": "Hlala Nami",
       "url": "https://open.spotify.com/track/1F4hgtPnl1Z52pJ1RsBBI1"
@@ -2616,6 +2616,28 @@
       "duration_ms": 240509,
       "name": "Khula",
       "url": "https://open.spotify.com/track/21yMnKufBg1L51PGGVryTj"
+    },
+    {
+      "album": {
+        "name": "Tronics Land Series 3",
+        "url": "https://open.spotify.com/album/6yMRhzcIPxcfrAmU7ADS48"
+      },
+      "artists": [
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        },
+        {
+          "name": "Zain SA",
+          "url": "https://open.spotify.com/artist/5dvgzU4ArZjcvtVUugwuMt"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528432,
+      "name": "Khuluma Nam",
+      "url": "https://open.spotify.com/track/2lLgXBk0pwKbVXM78oq9wa"
     },
     {
       "album": {
@@ -5308,6 +5330,32 @@
       "duration_ms": 280000,
       "name": "Vutha",
       "url": "https://open.spotify.com/track/4dP2Dh9RcvuflSvXNwguCD"
+    },
+    {
+      "album": {
+        "name": "WASSA",
+        "url": "https://open.spotify.com/album/5GB53dYIw2kYHKuDGvMV0W"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Formation Boyz",
+          "url": "https://open.spotify.com/artist/4mjpwaac5pDtDick78NNpm"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202522,
+      "name": "WASSA",
+      "url": "https://open.spotify.com/track/4hrqUMXWFIvyUbvckqk974"
     },
     {
       "album": {

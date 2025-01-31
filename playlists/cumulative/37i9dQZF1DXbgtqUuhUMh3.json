@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 124999,
       "name": "Bala ma nehess",
       "url": "https://open.spotify.com/track/7gMTanziirD9trMsg6ya1x"
@@ -6156,6 +6156,24 @@
       "duration_ms": 183312,
       "name": "Ma Bansak",
       "url": "https://open.spotify.com/track/6MphGwh3Oa0AcCGoRiQG4g"
+    },
+    {
+      "album": {
+        "name": "Ma Byenkhaf Alayi",
+        "url": "https://open.spotify.com/album/5rJ03uOyj4h0I1Q4Acqbbr"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200437,
+      "name": "Ma Byenkhaf Alayi",
+      "url": "https://open.spotify.com/track/4JFFIVcexU2NtuQvw4kXO3"
     },
     {
       "album": {
@@ -11418,7 +11436,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 221867,
       "name": "\u0634\u0648\u0643 \u0648\u0633\u0643\u0627\u0643\u064a\u0646",
       "url": "https://open.spotify.com/track/3la9cbwDp7bzi64axwDU8g"

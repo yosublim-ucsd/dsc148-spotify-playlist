@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: LUCY(\ub8e8\uc2dc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: YongYong(\uc6a9\uc6a9)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 149089,
       "name": "A Night in Taipei (feat. Sonny Zero)",
       "url": "https://open.spotify.com/track/6v5q3Q6lXiqhIyJnBDavie"
@@ -2844,7 +2844,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 325120,
       "name": "Demian",
       "url": "https://open.spotify.com/track/5xEivEruhmJTAHgBpP0U3V"
@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 299249,
       "name": "Done",
       "url": "https://open.spotify.com/track/7hYGoDBt55TYYRBiyd3eJO"
@@ -3968,6 +3968,24 @@
       "duration_ms": 266400,
       "name": "first flight (feat. GARTENG)",
       "url": "https://open.spotify.com/track/3gCP1AG9SDjFgcnmKOK4Cj"
+    },
+    {
+      "album": {
+        "name": "KIMBADA First love",
+        "url": "https://open.spotify.com/album/61lqcDSHMhOTSFmcbxeU2k"
+      },
+      "artists": [
+        {
+          "name": "Kim Bada",
+          "url": "https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229520,
+      "name": "First love",
+      "url": "https://open.spotify.com/track/5e0asTvcPu6sOXJOdtP8kU"
     },
     {
       "album": {
@@ -5173,6 +5191,24 @@
     },
     {
       "album": {
+        "name": "hellbound",
+        "url": "https://open.spotify.com/album/0DVCKi5RjVEmAj4pEku2jo"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "hellbound",
+      "url": "https://open.spotify.com/track/4MZczV6f68iKqRuEmSsg9o"
+    },
+    {
+      "album": {
         "name": "Help (Sunset Rollercoaster Remake)",
         "url": "https://open.spotify.com/album/6agvtrq5ueMLJhJa5NiwKq"
       },
@@ -5517,6 +5553,42 @@
     },
     {
       "album": {
+        "name": "HOOL HOOL",
+        "url": "https://open.spotify.com/album/6X2HcQCUuqRbibsIbNIdR4"
+      },
+      "artists": [
+        {
+          "name": "JOHA",
+          "url": "https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Hool Hool",
+      "url": "https://open.spotify.com/track/2sXnBoZGYGnwLWC3ukomGm"
+    },
+    {
+      "album": {
+        "name": "Motel California OST Part.4",
+        "url": "https://open.spotify.com/album/2Q7hjEvaWy6BnoWixX31Ly"
+      },
+      "artists": [
+        {
+          "name": "Kang Asol",
+          "url": "https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "How Can I Forget You",
+      "url": "https://open.spotify.com/track/2Xia7aJzsJfGx5xL4jzkep"
+    },
+    {
+      "album": {
         "name": "Sh**ting Stars (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/2UBqOAsDy3N791Ndn4lUWr"
       },
@@ -5590,7 +5662,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 222938,
       "name": "Human mechanism",
       "url": "https://open.spotify.com/track/1SIkPJSLem5qV4LGoIZglu"
@@ -6326,7 +6398,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 207346,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/2h69ukqcoEmD5096aO2kPZ"
@@ -6528,7 +6600,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 267093,
       "name": "It\u2019ll Be Okay",
       "url": "https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY"
@@ -7544,6 +7616,28 @@
       "duration_ms": 238622,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3DqPf14Sj60ScAfzV3FPP2"
+    },
+    {
+      "album": {
+        "name": "Loser, Game Over, You're the Champion",
+        "url": "https://open.spotify.com/album/4G7tZZIl0gis3TVcYSips2"
+      },
+      "artists": [
+        {
+          "name": "YongYong",
+          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
+        },
+        {
+          "name": "LEE DO of ONEUS",
+          "url": "https://open.spotify.com/artist/39r6KaYmPsgtidLS2YItV1"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Loser (with LEE DO of ONEUS)",
+      "url": "https://open.spotify.com/track/1bBuZZJacnkfvPQoQznjZk"
     },
     {
       "album": {
@@ -9339,6 +9433,24 @@
     },
     {
       "album": {
+        "name": "Theme. 1",
+        "url": "https://open.spotify.com/album/1AMxCmk7KLonC7oO33Ii7S"
+      },
+      "artists": [
+        {
+          "name": "Guckkasten",
+          "url": "https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "OVERMAN",
+      "url": "https://open.spotify.com/track/4F9HBpY1IL5uNSjJGPT905"
+    },
+    {
+      "album": {
         "name": "OVerdrive Philosophy",
         "url": "https://open.spotify.com/album/0sCN9t3HHPdhaZNkKtbKs1"
       },
@@ -9552,7 +9664,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 189440,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/4ABUtfKjZa9L74DhyhRvkq"
@@ -9840,7 +9952,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 204733,
       "name": "Point Nemo",
       "url": "https://open.spotify.com/track/3cKR6eNYOujXr4tEc9xTHe"
@@ -10732,6 +10844,24 @@
       "duration_ms": 174997,
       "name": "Rocker's High (Rock Battle ver.) (Feat. Lee Juseung)",
       "url": "https://open.spotify.com/track/2AQyPXWSz3VGPqh7xqwvh8"
+    },
+    {
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/0iKumo8w0VtfBik9dd52p9"
+      },
+      "artists": [
+        {
+          "name": "KAYA",
+          "url": "https://open.spotify.com/artist/0zQFZeLkLeFXmB9GBTWggh"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186705,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/6E27UPoYjrxqRqCBhCPAKj"
     },
     {
       "album": {
@@ -13791,6 +13921,24 @@
     },
     {
       "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
+    },
+    {
+      "album": {
         "name": "Chil",
         "url": "https://open.spotify.com/album/2RTfaQzsiBOgVb1WlUXlwM"
       },
@@ -14440,7 +14588,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 202040,
       "name": "winter dance",
       "url": "https://open.spotify.com/track/2Mx0neWJtuAfBy830NavHa"
@@ -14466,6 +14614,24 @@
       "duration_ms": 221133,
       "name": "WINTER FLOWER(Feat.RM)",
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
+    },
+    {
+      "album": {
+        "name": "clover #2",
+        "url": "https://open.spotify.com/album/7ze7Ge9MMVxBZmEZPosVQ2"
+      },
+      "artists": [
+        {
+          "name": "Boramiyu",
+          "url": "https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "Wish You Luck",
+      "url": "https://open.spotify.com/track/4QZgdQ4CILVuz6NNDAkwns"
     },
     {
       "album": {

@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125486,
+  "num_followers": 125483,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATmWchWC7dejugUtOlO6oDYS0w1YVO",
+  "snapshot_id": "AAATmqJqHR5pltSXJZ4q4LLNnxWadOBk",
   "tracks": [
+    {
+      "added_at": "2025-01-30 16:02:13",
+      "album": {
+        "name": "Starchild",
+        "url": "https://open.spotify.com/album/6o9JVjW0gznZ4Dzd34pbLZ"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        },
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        },
+        {
+          "name": "Degs",
+          "url": "https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG"
+        }
+      ],
+      "duration_ms": 224827,
+      "name": "Starchild",
+      "url": "https://open.spotify.com/track/0Tc7wokiNSXzOkaQrakz57"
+    },
     {
       "added_at": "2025-01-29 15:34:51",
       "album": {

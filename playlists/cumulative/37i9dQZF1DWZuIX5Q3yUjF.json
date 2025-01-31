@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Kay in cover della playlist dell'R&B italiano \ud83c\udfa7",
+  "description": "Livrea in cover della playlist dell'R&B italiano \ud83c\udfa7",
   "name": "anima R&B",
   "tracks": [
     {
@@ -5863,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "L'ultima prima volta",
+        "url": "https://open.spotify.com/album/3CPPrxt7a3LyV73iIc2bDE"
+      },
+      "artists": [
+        {
+          "name": "Pink Wine",
+          "url": "https://open.spotify.com/artist/03XI8tHchP5z1IIxhTDZrU"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "L'ultima prima volta",
+      "url": "https://open.spotify.com/track/40D650OBr60rOHBMSG3ggL"
+    },
+    {
+      "album": {
         "name": "l'ultima volta",
         "url": "https://open.spotify.com/album/3mh8M69DP6zlcAWUQNlMFn"
       },
@@ -6668,7 +6686,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 181829,
       "name": "Lost in Translation",
       "url": "https://open.spotify.com/track/7ovAOdTCsmQQ6m2vR4iLGW"
@@ -7440,6 +7458,24 @@
       "duration_ms": 161311,
       "name": "MILANO",
       "url": "https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1"
+    },
+    {
+      "album": {
+        "name": "Mistiche Vibre",
+        "url": "https://open.spotify.com/album/2iDkk5I8UIhjifY5Ys7U3z"
+      },
+      "artists": [
+        {
+          "name": "Livrea",
+          "url": "https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172900,
+      "name": "Mistiche Vibre",
+      "url": "https://open.spotify.com/track/77q7aj2UlhGXgEEU2JykMG"
     },
     {
       "album": {
@@ -9723,6 +9759,24 @@
     },
     {
       "album": {
+        "name": "principio",
+        "url": "https://open.spotify.com/album/2aTMtJ3F2OJFsWlclqMC9N"
+      },
+      "artists": [
+        {
+          "name": "nora lang",
+          "url": "https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150716,
+      "name": "principio",
+      "url": "https://open.spotify.com/track/6cq9sfMJP7K5MuoOXQq3Np"
+    },
+    {
+      "album": {
         "name": "Pugili",
         "url": "https://open.spotify.com/album/5LeKSfh9Nh3V15v3A43SMG"
       },
@@ -10789,6 +10843,24 @@
     },
     {
       "album": {
+        "name": "Scuro",
+        "url": "https://open.spotify.com/album/18k7elm807GRhNZQVEfzgV"
+      },
+      "artists": [
+        {
+          "name": "Federico Di Napoli",
+          "url": "https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Scuro",
+      "url": "https://open.spotify.com/track/0kZycMhiMb6TkgcoVoSYbH"
+    },
+    {
+      "album": {
         "name": "Scusame (feat. SVM)",
         "url": "https://open.spotify.com/album/4xgf5oNHQaVvNkSCDepWUO"
       },
@@ -11412,6 +11484,28 @@
       "duration_ms": 160534,
       "name": "SOLA",
       "url": "https://open.spotify.com/track/3jPYg5QCXu9gXeSSMvHXjQ"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/6Gdcqc77PsZ1fZIJ7K6JKP"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155853,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1E4LeGJwBQXs8j82esY325"
     },
     {
       "album": {
@@ -13716,6 +13810,24 @@
       "duration_ms": 197713,
       "name": "Volevo Portarti Al Mare",
       "url": "https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr"
+    },
+    {
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/3o6tu7cW8N0pHc2Cy1QVEP"
+      },
+      "artists": [
+        {
+          "name": "Oba",
+          "url": "https://open.spotify.com/artist/1W4W8wiWRq8ikeRiD0lkyw"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200526,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/56NGgyBAEB7TQtjFbOHYEg"
     },
     {
       "album": {

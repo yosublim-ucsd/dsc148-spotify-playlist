@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "VILL DU VETA VAD JAG G\u00d6R OCH VAD JAG T\u00c4NKER?!!",
+  "description": "\ud83e\udea9 I'M A PARTY BOY \ud83e\udea9",
   "name": "30 km/h",
   "tracks": [
     {
@@ -108,6 +108,32 @@
       "duration_ms": 126940,
       "name": "100 SHOTS",
       "url": "https://open.spotify.com/track/7v04RskE6ULlYQwwk2X44F"
+    },
+    {
+      "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/2JICdP9kaU2NgF4zyiScet"
+      },
+      "artists": [
+        {
+          "name": "Peter Kran",
+          "url": "https://open.spotify.com/artist/3e7u9lVLYm5rMgM74XhFtY"
+        },
+        {
+          "name": "FL\u00c4DERPOJKARNA",
+          "url": "https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd"
+        },
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "123",
+      "url": "https://open.spotify.com/track/1LB512MvYfBL6ROQR97D7v"
     },
     {
       "album": {
@@ -8484,7 +8510,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 138000,
       "name": "FYLLECELL",
       "url": "https://open.spotify.com/track/1JnH85Oi8QW5kSUo345SBp"
@@ -8638,7 +8664,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 148195,
       "name": "F\u00f6lj med mig",
       "url": "https://open.spotify.com/track/2e3xzIZ2CILJhICUvJb5az"
@@ -8774,7 +8800,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 143951,
       "name": "F\u00d6R FULL - Remix",
       "url": "https://open.spotify.com/track/2MurpDQ5YAbTI24VEC2xam"
@@ -9895,6 +9921,32 @@
     },
     {
       "album": {
+        "name": "GULEB\u00d6J",
+        "url": "https://open.spotify.com/album/6Zo3axlCg53Gnwh6jjYKr1"
+      },
+      "artists": [
+        {
+          "name": "Mr. P",
+          "url": "https://open.spotify.com/artist/5K6cIE6i4ZIWFlrpzi2T5u"
+        },
+        {
+          "name": "Jofa",
+          "url": "https://open.spotify.com/artist/3Wis8lYSGuybe6pMwUT7Ug"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "GULEB\u00d6J",
+      "url": "https://open.spotify.com/track/0QFQGqzoMQNPLnEuisgFWm"
+    },
+    {
+      "album": {
         "name": "GUSTAV VASA (Norge varit Svenskt)",
         "url": "https://open.spotify.com/album/7KC5wFS0g4zUKneAkcjXDo"
       },
@@ -10424,7 +10476,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 133269,
       "name": "HEJSAN ALLA RAGGARE",
       "url": "https://open.spotify.com/track/6Z342am9acbO3hNyol8FtV"
@@ -15172,7 +15224,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 133335,
       "name": "Mammas lilla gosse",
       "url": "https://open.spotify.com/track/4Q0h0VJAqw2T9XdDc0o7GT"
@@ -15208,7 +15260,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 139950,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/5VGUPyWyLH7sECI4NWwigX"
@@ -18213,6 +18265,28 @@
     },
     {
       "album": {
+        "name": "P\u00c5 TUR IGEN",
+        "url": "https://open.spotify.com/album/4vyrF2jAhtBtT6y3BeHbkw"
+      },
+      "artists": [
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        },
+        {
+          "name": "\u00d6rnen",
+          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "P\u00c5 TUR IGEN",
+      "url": "https://open.spotify.com/track/2T5VdAyl2OYbh0pc5WaCcU"
+    },
+    {
+      "album": {
         "name": "P\u00c5 V\u00c4G 2025",
         "url": "https://open.spotify.com/album/2UfJpSOSEURL02FvUWlKfS"
       },
@@ -19438,7 +19512,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 148141,
       "name": "RIDER GENOM STORMEN",
       "url": "https://open.spotify.com/track/7HCbDvMjml1tPMPB4VqA67"
@@ -20064,6 +20138,28 @@
       "duration_ms": 177324,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/3iKyG1U1x9fXu4KVZRs4Uh"
+    },
+    {
+      "album": {
+        "name": "San Francisco Boy",
+        "url": "https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        },
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154045,
+      "name": "San Francisco Boy",
+      "url": "https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6"
     },
     {
       "album": {
@@ -21300,6 +21396,24 @@
       "duration_ms": 146339,
       "name": "Sm\u00e5 grodorna (Hardstyle)",
       "url": "https://open.spotify.com/track/2HVhPDA6VWxZYKrvTm0mzb"
+    },
+    {
+      "album": {
+        "name": "Sm\u00e5landsspelare",
+        "url": "https://open.spotify.com/album/5sWrOl3kwcccQBTGK7OjN8"
+      },
+      "artists": [
+        {
+          "name": "Prilla Generalen",
+          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132461,
+      "name": "Sm\u00e5landsspelare",
+      "url": "https://open.spotify.com/track/6XsjSRDPyqYYjKdB20Lzbl"
     },
     {
       "album": {
@@ -22824,7 +22938,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 109367,
       "name": "SUP & SV\u00c4LJ",
       "url": "https://open.spotify.com/track/1saKjJAB3YNdCLvhAjDnqX"
@@ -23892,6 +24006,28 @@
       "duration_ms": 132304,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/3F2AroE0CHSFXZqFw4SXGu"
+    },
+    {
+      "album": {
+        "name": "TEQUILA",
+        "url": "https://open.spotify.com/album/4JAUVbCFFTwc13tFoDprYN"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "TEQUILA",
+      "url": "https://open.spotify.com/track/4zbr76LDJ3pgOnfSXJ5xKQ"
     },
     {
       "album": {
@@ -25571,6 +25707,24 @@
     },
     {
       "album": {
+        "name": "Varf\u00f6r ska hon inte f\u00e5?",
+        "url": "https://open.spotify.com/album/5XfNghz9vigzQNFDkPidN3"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151448,
+      "name": "Varf\u00f6r ska hon inte f\u00e5?",
+      "url": "https://open.spotify.com/track/3kTx9MFz3d2SNzZNRLgh9Z"
+    },
+    {
+      "album": {
         "name": "VARJE DAG",
         "url": "https://open.spotify.com/album/7duJOk9hLR32NhWvCHJIRw"
       },
@@ -26310,6 +26464,28 @@
       "duration_ms": 150687,
       "name": "VIP",
       "url": "https://open.spotify.com/track/58QoOmzoDZWkvFHaMyH0l7"
+    },
+    {
+      "album": {
+        "name": "VISSLA SOM GUNILLA",
+        "url": "https://open.spotify.com/album/19lhfxlRQBk72VeXUCybEU"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119580,
+      "name": "VISSLA SOM GUNILLA",
+      "url": "https://open.spotify.com/track/4NHLGVvuWZhBjo95KLJ1E8"
     },
     {
       "album": {
@@ -27374,7 +27550,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 146052,
       "name": "\u00d6L",
       "url": "https://open.spotify.com/track/1Gq5yYrIbbhzlBUmcqdjtI"

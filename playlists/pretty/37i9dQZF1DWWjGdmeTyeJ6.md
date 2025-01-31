@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: ROZET, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,541 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,699 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 |
 | 2 | [After You](https://open.spotify.com/track/0fIvB3uEk6K6T9JACYD66O) | [Courting](https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ) | [After You](https://open.spotify.com/album/6VISuMapTvAnaTvltpE7FC) | 2:28 |
-| 3 | [oyé Rodri :\(](https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL) | [Cervezas y Tabacos](https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq) | 3:19 |
+| 3 | [oye Rodri :\(](https://open.spotify.com/track/6FKFnqmqbAPnMz726D0Yln) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL) | [Cervezas y Tabacos](https://open.spotify.com/album/6pSA268iv1lKq0Sm6wBuRq) | 3:19 |
 | 4 | [Northstar](https://open.spotify.com/track/7FZF2PoHMYFlbIdpQzUUR5) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [Northstar](https://open.spotify.com/album/0xIrvfaiqBfNA8cSbrHYhr) | 2:13 |
 | 5 | [Preachers](https://open.spotify.com/track/4COBkCx7E5f28kUJx2dMx9) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Preachers](https://open.spotify.com/album/3H5gEqsgRADNRgmbRWUAxO) | 3:17 |
 | 6 | [Wet Faced & Ugly](https://open.spotify.com/track/3yAVjo24bbVBElLDlIO4fv) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Wet Faced & Ugly](https://open.spotify.com/album/5HpdJPwD8dGiUDE9s9HD5P) | 2:51 |

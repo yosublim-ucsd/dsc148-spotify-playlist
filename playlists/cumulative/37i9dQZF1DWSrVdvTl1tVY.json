@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Riordan",
+  "description": "The biggest house bangers popping off in the UK, let's go! Matt Sassari",
   "name": "UK House Music",
   "tracks": [
     {
@@ -670,6 +670,28 @@
       "duration_ms": 197254,
       "name": "All The Girls",
       "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+    },
+    {
+      "album": {
+        "name": "All You People Bring It Back",
+        "url": "https://open.spotify.com/album/20TVdL3l9QskriR9dp5HAg"
+      },
+      "artists": [
+        {
+          "name": "Rui Da Silva",
+          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
+        },
+        {
+          "name": "Cosmic Bambino",
+          "url": "https://open.spotify.com/artist/3tlaw59uwBVCYiuL8hXJ8z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355275,
+      "name": "All You People Bring It Back",
+      "url": "https://open.spotify.com/track/2pOBrqAoAcatWGBXLowqx8"
     },
     {
       "album": {
@@ -1804,7 +1826,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 145454,
       "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
       "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
@@ -2594,7 +2616,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 224032,
       "name": "Call 911",
       "url": "https://open.spotify.com/track/1b8Fw5fYEZHHholqLkqzfX"
@@ -4103,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "Disco Tetris (Edit)",
+        "url": "https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198675,
+      "name": "Disco Tetris - Edit",
+      "url": "https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45"
+    },
+    {
+      "album": {
         "name": "Disco Tool",
         "url": "https://open.spotify.com/album/3tkIKiqUu0h52cckCm0jJ3"
       },
@@ -4866,6 +4906,28 @@
       "duration_ms": 240570,
       "name": "El Bombo",
       "url": "https://open.spotify.com/track/0Rv3tutzgSak1pTMXiV9p8"
+    },
+    {
+      "album": {
+        "name": "Elektro",
+        "url": "https://open.spotify.com/album/7nSf95TxOqgsWGElMAE2ll"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145581,
+      "name": "Elektro",
+      "url": "https://open.spotify.com/track/7jzipuyNEGVjnAesC6ZbH5"
     },
     {
       "album": {
@@ -8860,6 +8922,32 @@
       "duration_ms": 420000,
       "name": "Joy of Pain",
       "url": "https://open.spotify.com/track/061eiDBfDGwyKBBfjUxAYs"
+    },
+    {
+      "album": {
+        "name": "Just Stay The Night",
+        "url": "https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192937,
+      "name": "Just Stay The Night",
+      "url": "https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u"
     },
     {
       "album": {
@@ -13728,7 +13816,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 130490,
       "name": "Reckless (2024)",
       "url": "https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno"
@@ -16308,7 +16396,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 349405,
       "name": "The 16th Chapter",
       "url": "https://open.spotify.com/track/4BUKMoePKznf3LZfcLvL29"
@@ -16935,6 +17023,36 @@
     },
     {
       "album": {
+        "name": "Thirst Day (Jasper James Remix)",
+        "url": "https://open.spotify.com/album/1vTJYu8YRuEFm16gUQI7B7"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Big Jon",
+          "url": "https://open.spotify.com/artist/3sSZbKRuoK7NVVqEiQgMy9"
+        },
+        {
+          "name": "Jasper James",
+          "url": "https://open.spotify.com/artist/0bOR78IANHTrHwd0kezriG"
+        },
+        {
+          "name": "Dillon Kelly",
+          "url": "https://open.spotify.com/artist/59t16qkSMegtVVuniSMTQs"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442500,
+      "name": "Thirst Day - Jasper James Remix",
+      "url": "https://open.spotify.com/track/0NGkaA3DZxWvc1AVeWzevV"
+    },
+    {
+      "album": {
         "name": "This Beat EP",
         "url": "https://open.spotify.com/album/4SrNCRDDdBrzXI5ggewHcJ"
       },
@@ -17422,7 +17540,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 196396,
       "name": "Touch Down (Feel The Rush)",
       "url": "https://open.spotify.com/track/7KH2YG1vKtZurTuRg3n19l"

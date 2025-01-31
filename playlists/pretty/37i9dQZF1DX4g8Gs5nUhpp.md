@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: MONO
+> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Da LAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,273 likes - 42 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,392 likes - 42 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chăm Hoa](https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Chăm Hoa](https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan) | 3:31 |
-| 2 | [MONO chúc Tết](https://open.spotify.com/track/7FSeZzvh0l9OI8PXTxYOlD) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:27 |
+| 1 | [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 |
+| 2 | [Da LAB chúc Tết](https://open.spotify.com/track/5qpzFrwhR4iuBEAbgepDn5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:28 |
 | 3 | [Tràn Bộ Nhớ](https://open.spotify.com/track/0669gFIK8dYK9GGQ0K0QNF) | [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE) | [Dữ Liệu Quý](https://open.spotify.com/album/10Dwjqs7dJNxn2g1PkvRCw) | 2:52 |
 | 4 | [Dương Domic chúc Tết](https://open.spotify.com/track/1iRwmL5MnetP5vqN0mEciQ) | [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:27 |
-| 5 | [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 |
-| 6 | [Da LAB chúc Tết](https://open.spotify.com/track/5qpzFrwhR4iuBEAbgepDn5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:28 |
-| 7 | [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 |
-| 8 | [Wren Evans chúc Tết](https://open.spotify.com/track/3w9DrMIy7V7NbTn8fYLggm) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:28 |
-| 9 | [Mưa Thâm Lặng Giời](https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Mưa Thâm Lặng Giời](https://open.spotify.com/album/1RYUD4BNc5kBZWSBstgvw5) | 3:48 |
-| 10 | [BigDaddy chúc Tết](https://open.spotify.com/track/2A1L1oh6wt2WWFdqjkiwqI) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
-| 11 | [Nhân Trần](https://open.spotify.com/track/6dkq0GutcQqm5wol3KYnhV) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [NHÂN TRẦN](https://open.spotify.com/album/2GBGr5d7QmSFkETVAsgWvx) | 3:20 |
-| 12 | [Emily chúc Tết](https://open.spotify.com/track/6grh8BruVuMmOgMJN1r1F4) | [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:23 |
-| 13 | [NGÂN](https://open.spotify.com/track/1TcmqSx576eBcuTxTtcEAk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [FLVR](https://open.spotify.com/album/71L9y03HASgkNoYodycslE) | 2:38 |
-| 14 | [tlinh chúc Tết](https://open.spotify.com/track/0LvPNjHDvOx0zpp6ZRTBC0) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:17 |
+| 5 | [Thích Em Hơi Nhiều](https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Thích Em Hơi Nhiều](https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg) | 2:51 |
+| 6 | [Wren Evans chúc Tết](https://open.spotify.com/track/3w9DrMIy7V7NbTn8fYLggm) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:28 |
+| 7 | [Mưa Thâm Lặng Giời](https://open.spotify.com/track/6INhamAhXUTRuXliyDirMV) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Mưa Thâm Lặng Giời](https://open.spotify.com/album/1RYUD4BNc5kBZWSBstgvw5) | 3:48 |
+| 8 | [BigDaddy chúc Tết](https://open.spotify.com/track/2A1L1oh6wt2WWFdqjkiwqI) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
+| 9 | [Nhân Trần](https://open.spotify.com/track/6dkq0GutcQqm5wol3KYnhV) | [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [NHÂN TRẦN](https://open.spotify.com/album/2GBGr5d7QmSFkETVAsgWvx) | 3:20 |
+| 10 | [Emily chúc Tết](https://open.spotify.com/track/6grh8BruVuMmOgMJN1r1F4) | [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:23 |
+| 11 | [NGÂN](https://open.spotify.com/track/1TcmqSx576eBcuTxTtcEAk) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [FLVR](https://open.spotify.com/album/71L9y03HASgkNoYodycslE) | 2:38 |
+| 12 | [tlinh chúc Tết](https://open.spotify.com/track/0LvPNjHDvOx0zpp6ZRTBC0) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:17 |
+| 13 | [SAIGONTEY](https://open.spotify.com/track/1KxXkPa3hO9WZqiIiOb5TJ) | [Thể Thiên](https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Trần Thế](https://open.spotify.com/album/5Ex7sh2k1zqQa18Cso68dy) | 2:57 |
+| 14 | [Thể Thiên chúc Tết](https://open.spotify.com/track/6z17WPPFRNtgZSox8f5pB2) | [Thể Thiên](https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
 | 15 | [BADBYE](https://open.spotify.com/track/78lw4wahFNotXb0mOEtPkM) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [BADBYE](https://open.spotify.com/album/32QMQlxOQ5tzhUflb30ATX) | 3:22 |
 | 16 | [WEAN chúc Tết](https://open.spotify.com/track/0xm9MGuMFs8CwftNrZgTCS) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:24 |
-| 17 | [SAIGONTEY](https://open.spotify.com/track/1KxXkPa3hO9WZqiIiOb5TJ) | [Thể Thiên](https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Trần Thế](https://open.spotify.com/album/5Ex7sh2k1zqQa18Cso68dy) | 2:57 |
-| 18 | [Thể Thiên chúc Tết](https://open.spotify.com/track/6z17WPPFRNtgZSox8f5pB2) | [Thể Thiên](https://open.spotify.com/artist/7Icw7iVmCgkKkfRrYvlKZU) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:29 |
+| 17 | [Chăm Hoa](https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Chăm Hoa](https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan) | 3:31 |
+| 18 | [MONO chúc Tết](https://open.spotify.com/track/7FSeZzvh0l9OI8PXTxYOlD) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:27 |
 | 19 | [đưa em về nhàa](https://open.spotify.com/track/5LQpQ6SDeaz6SIkR0lvsoC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/1ds7bOlVzPrP64m8Fyz1Tk) | 4:00 |
 | 20 | [GREY D chúc Tết](https://open.spotify.com/track/5xLOjitzkm4jrpNG7dvvdg) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:16 |
 | 21 | [Cuộc gọi lúc nửa đêm](https://open.spotify.com/track/6P7xEmk7ZZYz0AV84uOwiW) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [MỘNGMEE](https://open.spotify.com/album/2Wxld2nOotB59y33f2xrBU) | 3:02 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 41 | [Đẩy Xe Bò](https://open.spotify.com/track/4PBuCwrczgtyqxP8q6NTQW) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Đẩy Xe Bò](https://open.spotify.com/album/5eZ9ZYzpJ6epSGHdxgszWG) | 2:45 |
 | 42 | [Phương Mỹ Chi chúc Tết](https://open.spotify.com/track/2qmkBh0X88lPpkxKCAe1Gq) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF) | [Chúc Tết 2025](https://open.spotify.com/album/4zCD08vbREr1cvbzxImHTq) | 0:15 |
 
-Snapshot ID: `Z5kNEwAAAABdzFIFrDXPDRqknB27f8lo`
+Snapshot ID: `Z5uwIAAAAADl9yBsllAyfd5lekRxPRp4`

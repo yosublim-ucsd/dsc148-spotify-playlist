@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alligator](https://open.spotify.com/track/6xwyKe7bGOJiX8EFbdoE41) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [KABOOM](https://open.spotify.com/album/59EH4eDAJDKr1uOQ9zn6RM) | 3:40 | 2017-04-30 |  |
-| [Belgian Venice](https://open.spotify.com/track/2lC2rdpZPP7lA3YXHldl2E) | [Danny Blue and the Old Socks](https://open.spotify.com/artist/5s0rjfjcB5bk1bKAE2azc8) | [Backyard Days](https://open.spotify.com/album/0z03PSSDy2Dn5i2LEINoet) | 3:36 | 2018-05-07 |  |
+| [Belgian Venice](https://open.spotify.com/track/2lC2rdpZPP7lA3YXHldl2E) | [Danny Blue](https://open.spotify.com/artist/5s0rjfjcB5bk1bKAE2azc8) | [Backyard Days](https://open.spotify.com/album/0z03PSSDy2Dn5i2LEINoet) | 3:36 | 2018-05-07 |  |
 | [Brooklyn](https://open.spotify.com/track/6k56rrBNL9gFtig2UKR1dr) | [Glass Vaults](https://open.spotify.com/artist/3M4TKjKZ5wcoXtPMiw4kOj) | [Brooklyn](https://open.spotify.com/album/11P0ter2ur131f8qUE8eDd) | 4:16 | 2017-04-30 |  |
 | [California Sunrise](https://open.spotify.com/track/1rTwIDd21owxbDdHI9l8lI) | [Dirty Gold](https://open.spotify.com/artist/2BcIBFXVoydowG3UQYYq49) | [California Sunrise \- Single](https://open.spotify.com/album/618hXEDhJknMT3tReeAAg9) | 3:58 | 2017-04-25 |  |
 | [Classic](https://open.spotify.com/track/0gqVHimPxgL91CSBPfg9lK) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/59cUwR1ZpD2e0dup12eyPr) | 4:40 | 2018-04-14 |  |

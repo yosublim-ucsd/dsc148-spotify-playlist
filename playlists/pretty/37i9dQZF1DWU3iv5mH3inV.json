@@ -1,12 +1,12 @@
 {
   "description": "El Dembow que ta subiendo. Foto: El Alfa",
-  "num_followers": 127091,
+  "num_followers": 127145,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5ehmwAAAAA2+yqvun1D/f+JT8izeeQs",
+  "snapshot_id": "Z5uUFgAAAAAHSFRpGVd1Uw4Th7FnTeb9",
   "tracks": [
     {
       "added_at": "2024-10-09 22:12:59",
@@ -67,6 +67,26 @@
       "duration_ms": 141355,
       "name": "Silla",
       "url": "https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P"
+    },
+    {
+      "added_at": "2025-01-30 15:00:38",
+      "album": {
+        "name": "YO LO GASTO",
+        "url": "https://open.spotify.com/album/0zdp5wQg0nzkCrVHxUWwgx"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        },
+        {
+          "name": "Brayant LR",
+          "url": "https://open.spotify.com/artist/486BIjpmGDFqhxxMiqn1Cp"
+        }
+      ],
+      "duration_ms": 97850,
+      "name": "YO LO GASTO",
+      "url": "https://open.spotify.com/track/4DxpLmN0WgO95N82YFtzbP"
     },
     {
       "added_at": "2024-02-08 22:40:39",
@@ -139,26 +159,6 @@
       "duration_ms": 162986,
       "name": "Feliz Navidad HDSPM",
       "url": "https://open.spotify.com/track/7f6g6R6wrXFmeYkfdIBPx8"
-    },
-    {
-      "added_at": "2025-01-15 23:03:16",
-      "album": {
-        "name": "El Reloj",
-        "url": "https://open.spotify.com/album/1UEKj2W6gQcIHyO6dMT6Pj"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        },
-        {
-          "name": "El Sicokario",
-          "url": "https://open.spotify.com/artist/0Iyto0WtZfIQeSHF5k1hun"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "El Reloj",
-      "url": "https://open.spotify.com/track/4YFNZukS8KCpgTf7XxfTaa"
     },
     {
       "added_at": "2024-03-21 19:13:50",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/2TFXlAFkp8L9TX9VkInTMM"
     },
     {
+      "added_at": "2025-01-30 15:00:38",
+      "album": {
+        "name": "Llego el Dembow",
+        "url": "https://open.spotify.com/album/4xRHTO52dTTZy1Setg7j4q"
+      },
+      "artists": [
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "duration_ms": 154880,
+      "name": "Llego el Dembow",
+      "url": "https://open.spotify.com/track/3WyL3MM51DwhRkQ4nyXCn8"
+    },
+    {
       "added_at": "2024-05-02 15:24:48",
       "album": {
         "name": "NEW AIR'S",
@@ -383,30 +399,6 @@
       "duration_ms": 108413,
       "name": "PA' QUE BAILES",
       "url": "https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet"
-    },
-    {
-      "added_at": "2025-01-15 23:03:16",
-      "album": {
-        "name": "Dejala Que Baile",
-        "url": "https://open.spotify.com/album/081r5uUWnVyoR81moVHoJx"
-      },
-      "artists": [
-        {
-          "name": "La Perversa",
-          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
-        },
-        {
-          "name": "El Baby R",
-          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
-        },
-        {
-          "name": "Mapa Negro",
-          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
-        }
-      ],
-      "duration_ms": 124230,
-      "name": "Dejala Que Baile",
-      "url": "https://open.spotify.com/track/58nqdCTW8NqPzzUM0ZMdOV"
     },
     {
       "added_at": "2024-12-12 22:17:42",
@@ -427,26 +419,6 @@
       "duration_ms": 167573,
       "name": "La Para Tuya",
       "url": "https://open.spotify.com/track/1QIBfRZ5NCESZpEWZ1fOzY"
-    },
-    {
-      "added_at": "2024-05-02 15:24:48",
-      "album": {
-        "name": "Ma Buena",
-        "url": "https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "B One El Productor De Oro",
-          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
-        }
-      ],
-      "duration_ms": 152653,
-      "name": "Ma Buena",
-      "url": "https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB"
     },
     {
       "added_at": "2025-01-22 23:21:18",
@@ -503,30 +475,6 @@
       "duration_ms": 117005,
       "name": "MODO SPORT",
       "url": "https://open.spotify.com/track/37vbeqIw7vdx8ucXce9i8w"
-    },
-    {
-      "added_at": "2025-01-15 23:03:16",
-      "album": {
-        "name": "El Loco Tuyo",
-        "url": "https://open.spotify.com/album/2gt0yoDaaB12PSwfA2XEy5"
-      },
-      "artists": [
-        {
-          "name": "JR Otravez",
-          "url": "https://open.spotify.com/artist/2Difz2SAnR9JzGAIlCQGSh"
-        },
-        {
-          "name": "Puyalo Pantera",
-          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
-        },
-        {
-          "name": "Mapa Negro",
-          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
-        }
-      ],
-      "duration_ms": 98587,
-      "name": "El Loco Tuyo",
-      "url": "https://open.spotify.com/track/4gCNz4CQc8IBTUpFimd3bn"
     },
     {
       "added_at": "2024-11-14 20:01:44",
@@ -677,6 +625,26 @@
       "url": "https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9"
     },
     {
+      "added_at": "2025-01-30 15:00:38",
+      "album": {
+        "name": "Pire",
+        "url": "https://open.spotify.com/album/4vOjNHdUoEz2YJzEYhe4vH"
+      },
+      "artists": [
+        {
+          "name": "Chaki Bley",
+          "url": "https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "duration_ms": 82000,
+      "name": "Pire",
+      "url": "https://open.spotify.com/track/3u7FPClMoZjNLLHE194BtR"
+    },
+    {
       "added_at": "2024-12-12 22:17:42",
       "album": {
         "name": "Putica",
@@ -825,26 +793,6 @@
       "url": "https://open.spotify.com/track/7iM1SNJRPxb9cRDquiSPt3"
     },
     {
-      "added_at": "2025-01-15 23:03:16",
-      "album": {
-        "name": "Ay! Roc\u00edo",
-        "url": "https://open.spotify.com/album/2HYoX6KiESGgljJm5foHRl"
-      },
-      "artists": [
-        {
-          "name": "El Rochel",
-          "url": "https://open.spotify.com/artist/6O4jsSn9xyuVdU5kkuIb5c"
-        },
-        {
-          "name": "Johcrap Marfer",
-          "url": "https://open.spotify.com/artist/7lyGh6JaQ62Hw14luYC19e"
-        }
-      ],
-      "duration_ms": 63398,
-      "name": "Ay! Roc\u00edo",
-      "url": "https://open.spotify.com/track/6LWDqLM1ZgmsgotMQ542Pb"
-    },
-    {
       "added_at": "2024-12-12 22:17:42",
       "album": {
         "name": "Soltero",
@@ -879,6 +827,34 @@
       "duration_ms": 188717,
       "name": "Si, Es As\u00ed",
       "url": "https://open.spotify.com/track/6r6B51W2S8BVrnhWbdSf2p"
+    },
+    {
+      "added_at": "2025-01-30 15:00:38",
+      "album": {
+        "name": "E Rulay",
+        "url": "https://open.spotify.com/album/5MobUzebNFZA9nK2SsLyGc"
+      },
+      "artists": [
+        {
+          "name": "El Mello 06",
+          "url": "https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        },
+        {
+          "name": "BUCHANA",
+          "url": "https://open.spotify.com/artist/5Nv583iU71NTqgX8cuTbzQ"
+        }
+      ],
+      "duration_ms": 141123,
+      "name": "E Rulay",
+      "url": "https://open.spotify.com/track/0loQDDhVlqRzz7oJQEgZTN"
     },
     {
       "added_at": "2024-05-09 19:47:36",
@@ -1033,6 +1009,22 @@
       "url": "https://open.spotify.com/track/0ZM8t0KJ30VcLv8KIs0v0m"
     },
     {
+      "added_at": "2025-01-30 15:00:38",
+      "album": {
+        "name": "Pilonea Pilonea",
+        "url": "https://open.spotify.com/album/7gPwhQfIOmyelvD80Cueic"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        }
+      ],
+      "duration_ms": 141658,
+      "name": "Pilonea Pilonea",
+      "url": "https://open.spotify.com/track/5V8BYKq9jXWJkD5fClJkzz"
+    },
+    {
       "added_at": "2024-09-25 18:50:18",
       "album": {
         "name": "GARGARA",
@@ -1121,22 +1113,6 @@
       "url": "https://open.spotify.com/track/6Q4yc1lbfOMq3tKcQKhlHZ"
     },
     {
-      "added_at": "2023-12-22 05:09:41",
-      "album": {
-        "name": "Se Puede Repet\u00ed",
-        "url": "https://open.spotify.com/album/2A8MlLQtNfwcA9uHVEmG6q"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
-        }
-      ],
-      "duration_ms": 124870,
-      "name": "Se Puede Repet\u00ed",
-      "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
-    },
-    {
       "added_at": "2024-07-25 17:45:11",
       "album": {
         "name": "Profundo",
@@ -1213,6 +1189,26 @@
       "url": "https://open.spotify.com/track/3kA5MWyeqRiXNuXbbpNYvI"
     },
     {
+      "added_at": "2025-01-30 15:00:38",
+      "album": {
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/5lXO5UHujxKcomBbKj7X3R"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "duration_ms": 119078,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/1TO4SzlqA1zKNO5reNDU2Y"
+    },
+    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "Mundo Oscuro",
@@ -1287,26 +1283,6 @@
       "duration_ms": 129235,
       "name": "MAMA HUEVO",
       "url": "https://open.spotify.com/track/5B0XDVJrHKa50sqWeNovco"
-    },
-    {
-      "added_at": "2024-12-03 17:08:52",
-      "album": {
-        "name": "En Tu Casa",
-        "url": "https://open.spotify.com/album/3t7HTUAQIQFTuyx3t23PcT"
-      },
-      "artists": [
-        {
-          "name": "B One El Productor De Oro",
-          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
-        },
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        }
-      ],
-      "duration_ms": 148490,
-      "name": "En Tu Casa",
-      "url": "https://open.spotify.com/track/6t0xqn0QyjMXPtw4FIIg02"
     },
     {
       "added_at": "2024-07-02 22:11:19",
@@ -1407,6 +1383,26 @@
       "duration_ms": 148415,
       "name": "Dejame Votalo",
       "url": "https://open.spotify.com/track/7uiBwXmjIB6I0QlU6yqdBr"
+    },
+    {
+      "added_at": "2025-01-30 15:00:38",
+      "album": {
+        "name": "Rebota",
+        "url": "https://open.spotify.com/album/65Dk0MzTZnX2rRAhFvzK2Q"
+      },
+      "artists": [
+        {
+          "name": "Hugo23",
+          "url": "https://open.spotify.com/artist/7AYmFR2ZafMeVqMc0Rf2KZ"
+        },
+        {
+          "name": "Karina y Marina",
+          "url": "https://open.spotify.com/artist/4B6Hy10aNxuD1TebKDgzAe"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Rebota",
+      "url": "https://open.spotify.com/track/3eutoatHBijbj90IHxlRze"
     },
     {
       "added_at": "2024-08-08 13:47:32",

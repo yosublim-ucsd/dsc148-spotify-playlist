@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 星野源 \*👉 <a href="https://spice.eplus.jp/articles/335193">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,282 likes - 88 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,921 likes - 88 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 72 | [My Life](https://open.spotify.com/track/5yNVbUy0Wb9sI16sPqq8Sm) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [My Life](https://open.spotify.com/album/3obgXX4aSK1cckluCjtmNH) | 4:26 |
 | 73 | [Living Free](https://open.spotify.com/track/3ob4iKwtPRcLGy1dHDtfmg) | [moxymill](https://open.spotify.com/artist/2TEFTOBYMLd63UPAs5eacq) | [Living Free](https://open.spotify.com/album/3MBgVqFDv6HP0iABwqN6qR) | 3:11 |
 | 74 | [Sea U Again](https://open.spotify.com/track/57tKmIRLlkoa8kbw0ijJs3) | [FUKI](https://open.spotify.com/artist/3cKOFDKcBvoPvxfkzErvdc) | [Sea U Again](https://open.spotify.com/album/4zFLdU55xWqudhKBUBtSKK) | 3:29 |
-| 75 | [Pluto](https://open.spotify.com/track/5VIaI5nZ7WKwAASCmWSFp5) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo) | [Pluto](https://open.spotify.com/album/36wCGq4GK9wUJKDTvWms3k) | 4:15 |
+| 75 | [Pluto](https://open.spotify.com/track/5VIaI5nZ7WKwAASCmWSFp5) | [bane](https://open.spotify.com/artist/642LjKa4IEtNBet0tTOrlo), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Pluto](https://open.spotify.com/album/36wCGq4GK9wUJKDTvWms3k) | 4:15 |
 | 76 | [クーポン](https://open.spotify.com/track/5V4cBZW7FrLfxwBaaaA8gn) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [クーポン](https://open.spotify.com/album/7ktP3omUkCrogiVJB45dTU) | 3:16 |
 | 77 | [仮装狂騒曲](https://open.spotify.com/track/7jxH0awoMkE4NOUbXUurgw) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ) | [FAKE COVER](https://open.spotify.com/album/0E44L5LjFy1pr58sN9XKsj) | 3:09 |
 | 78 | [Worlders \- BLUE BACK Ver.](https://open.spotify.com/track/6FWI2fFMAInmaIYeUgMhKd) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [Worlders \(BLUE BACK Ver.\)](https://open.spotify.com/album/3mPZHMjnNVFhN26I9AKnul) | 4:45 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 87 | [ばらの花](https://open.spotify.com/track/43Lwbzu8ZdVOKdeIxjlzdw) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [Telematic Visions](https://open.spotify.com/artist/1XrPQiMA2GWz8uPO7i9qZ5) | [ばらの花](https://open.spotify.com/album/3XBYfNrQhj53VhoG2rp0XL) | 5:50 |
 | 88 | [Generation\_Cloud](https://open.spotify.com/track/3vkGaXx8dOqoqnki0GD4sc) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [Generation\_Cloud](https://open.spotify.com/album/06AseksArQxT2mXYzwAiuO) | 2:36 |
 
-Snapshot ID: `Z5ombQAAAABH0x3DKI7TaTn3XoFvJvli`
+Snapshot ID: `Z5uizAAAAACeqgxP8mIHuz1azNF92S9f`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/29ujJsTS1iMJfrTC9yamlr?si=aN59mMLoTVCmS9BlZFrFbw\">TAYE</a> ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3?si=mQs-z58nTlWY0PZ9Qo_L-w\">FATMAN</a> en <a href=\"https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX?si=BtZVq3UrRBSofp-y64tn1w\">BiBi</a>  ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -2490,6 +2490,24 @@
       "duration_ms": 213443,
       "name": "Bitter Lekker",
       "url": "https://open.spotify.com/track/7cQKAC7vDAh6Qk1v9w8HMn"
+    },
+    {
+      "album": {
+        "name": "Bitterblou",
+        "url": "https://open.spotify.com/album/20Qci723MZxlYKBB0vYIeC"
+      },
+      "artists": [
+        {
+          "name": "Fran Prins",
+          "url": "https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212095,
+      "name": "Bitterblou",
+      "url": "https://open.spotify.com/track/7yilN0scrjOS0k2PUBO74T"
     },
     {
       "album": {
@@ -5595,6 +5613,24 @@
     },
     {
       "album": {
+        "name": "Die Sterre Binne Jou",
+        "url": "https://open.spotify.com/album/2LfoCD0e6F2enqGZAhSzIE"
+      },
+      "artists": [
+        {
+          "name": "Saarkie",
+          "url": "https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231186,
+      "name": "Die Sterre Binne Jou",
+      "url": "https://open.spotify.com/track/0SASpYNg8wXAzljJNVkTuv"
+    },
+    {
+      "album": {
         "name": "Die Stryd",
         "url": "https://open.spotify.com/album/0EGGgOzLhMdK9zw88wLQfD"
       },
@@ -5802,6 +5838,24 @@
       "duration_ms": 172661,
       "name": "Digitale Heidendom",
       "url": "https://open.spotify.com/track/4TV9MlexS30DIIMFrHsSiR"
+    },
+    {
+      "album": {
+        "name": "Sossi",
+        "url": "https://open.spotify.com/album/3AzUpC2FM9MaKatYuXvTNF"
+      },
+      "artists": [
+        {
+          "name": "Sossi",
+          "url": "https://open.spotify.com/artist/6P3xjthCptaX46wh4Sfh71"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167603,
+      "name": "Dik Lip",
+      "url": "https://open.spotify.com/track/4hHYRgraU4vcBS8nhHa9gH"
     },
     {
       "album": {
@@ -7981,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "Gelukkige Lewe",
+        "url": "https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168845,
+      "name": "Gelukkige Lewe",
+      "url": "https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO"
+    },
+    {
+      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/7sh2okNRARZZWLSxQmgNDd"
       },
@@ -10055,6 +10127,24 @@
     },
     {
       "album": {
+        "name": "Huis",
+        "url": "https://open.spotify.com/album/2x0Q2XkGcUozIV9Uf6dT4K"
+      },
+      "artists": [
+        {
+          "name": "Laurika Rauch",
+          "url": "https://open.spotify.com/artist/40e2rgvxJ4SGOT2nRasTbC"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228479,
+      "name": "Huis",
+      "url": "https://open.spotify.com/track/4jyLY6hWG6TGD3YSmmPn5X"
+    },
+    {
+      "album": {
         "name": "Huis Toe",
         "url": "https://open.spotify.com/album/5a5Flj6MkqEWcjLAnv8d0M"
       },
@@ -10827,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/33EMJ8FIu1OB17uz2nK6Lc"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299416,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/1qxGSxsecW9w4ntDSBCMVs"
+    },
+    {
+      "album": {
         "name": "Jinne Maar Dis Lekker",
         "url": "https://open.spotify.com/album/7oibnZJvOZJFWJ5pdNvZIJ"
       },
@@ -11300,6 +11408,28 @@
       "duration_ms": 188108,
       "name": "Jy is meer",
       "url": "https://open.spotify.com/track/2f7HPg0kYVkBxUJ5kLuxQR"
+    },
+    {
+      "album": {
+        "name": "Jy is meer (Pop Remix Version)",
+        "url": "https://open.spotify.com/album/1b6fAjq4EFX0xkYDwxc3Tv"
+      },
+      "artists": [
+        {
+          "name": "Tertius rooi",
+          "url": "https://open.spotify.com/artist/6qvrGUwPvQz0pbXvVq80Sl"
+        },
+        {
+          "name": "Chante Lelie",
+          "url": "https://open.spotify.com/artist/1RJJjjgtznhPkiY9IcQqUg"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Jy is meer - Pop Remix Version",
+      "url": "https://open.spotify.com/track/73R3OiJ4Nf5Ronzlrf3RWk"
     },
     {
       "album": {
@@ -13048,7 +13178,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 183100,
       "name": "Koue Kombers",
       "url": "https://open.spotify.com/track/5ltSxOK5UrHY2KgRxB8POA"
@@ -13764,6 +13894,24 @@
       "duration_ms": 198152,
       "name": "Lawaaiwater",
       "url": "https://open.spotify.com/track/71MTNDn8B3tBr0WVG0Jaj2"
+    },
+    {
+      "album": {
+        "name": "Leef Jou Rede",
+        "url": "https://open.spotify.com/album/3D3gDEKHxcO5qCRQ5VRuxA"
+      },
+      "artists": [
+        {
+          "name": "Rhona van Niekerk",
+          "url": "https://open.spotify.com/artist/3tOyAu3yDsSv5FGbXayM6K"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186393,
+      "name": "Leef Jou Rede",
+      "url": "https://open.spotify.com/track/4LXRSSOqMh9vj41QExHVgl"
     },
     {
       "album": {
@@ -14793,6 +14941,24 @@
     },
     {
       "album": {
+        "name": "Lui Voete",
+        "url": "https://open.spotify.com/album/4jDNv5KSltQHTQ09SrDHGM"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Lui Voete",
+      "url": "https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP"
+    },
+    {
+      "album": {
         "name": "Lus vir 'n Ding",
         "url": "https://open.spotify.com/album/1YhVfKSLqKhsSzHHW4pQFf"
       },
@@ -15632,7 +15798,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 145639,
       "name": "Mielielande",
       "url": "https://open.spotify.com/track/73XmydK6CqUB1pnQuBCepA"
@@ -15758,7 +15924,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 198640,
       "name": "Moenie Met My Speel Nie",
       "url": "https://open.spotify.com/track/3y41jaiTxjEobTFsaAju4H"
@@ -18432,7 +18598,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 259512,
       "name": "OORLOG VAN HARTE",
       "url": "https://open.spotify.com/track/1ty9nsu72DKEi7MVyPOpBU"
@@ -18804,6 +18970,28 @@
       "duration_ms": 214115,
       "name": "Pappa Probleme",
       "url": "https://open.spotify.com/track/0PJnQ3CdbPnj10s2rZ4R7a"
+    },
+    {
+      "album": {
+        "name": "Papre\u00ebn",
+        "url": "https://open.spotify.com/album/3NAmOp9NeCD4EkJP3EIU9u"
+      },
+      "artists": [
+        {
+          "name": "BiBi",
+          "url": "https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX"
+        },
+        {
+          "name": "FATMAN",
+          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207108,
+      "name": "Papre\u00ebn",
+      "url": "https://open.spotify.com/track/0BDtPT34sviOXyAnuC6F6w"
     },
     {
       "album": {
@@ -19518,7 +19706,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 197641,
       "name": "Rebelleer",
       "url": "https://open.spotify.com/track/47neBLQMY5XHd7bLFi4JmM"
@@ -24898,7 +25086,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 159120,
       "name": "VERE!",
       "url": "https://open.spotify.com/track/5Ag7JEOVKVNN8VkWeQMIfB"
@@ -26096,6 +26284,24 @@
       "duration_ms": 223103,
       "name": "Vyeboompiekniek (13 Jaar)",
       "url": "https://open.spotify.com/track/3VjMomtTP99WZjxl8kGyap"
+    },
+    {
+      "album": {
+        "name": "Vyftig Rand",
+        "url": "https://open.spotify.com/album/2QXraXcwHJ7sfZx666jTjg"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193388,
+      "name": "Vyftig Rand",
+      "url": "https://open.spotify.com/track/4R7OwqnCJiUcfDvX6PFJV3"
     },
     {
       "album": {

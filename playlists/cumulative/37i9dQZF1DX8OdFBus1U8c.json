@@ -1693,6 +1693,32 @@
     },
     {
       "album": {
+        "name": "Kaipuzha to Balewadi",
+        "url": "https://open.spotify.com/album/18NoTZC6G1zSKxvKSThiPh"
+      },
+      "artists": [
+        {
+          "name": "Anohnymouss",
+          "url": "https://open.spotify.com/artist/3TECmecQlX36AC3xMcxXWT"
+        },
+        {
+          "name": "STIC",
+          "url": "https://open.spotify.com/artist/32ruOa5gdWStRHmLau9zL5"
+        },
+        {
+          "name": "Devoni\u00e0n",
+          "url": "https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154405,
+      "name": "Kaipuzha to Balewadi",
+      "url": "https://open.spotify.com/track/1HNIF808e9TsC9iR9WNGMi"
+    },
+    {
+      "album": {
         "name": "Loop Flip",
         "url": "https://open.spotify.com/album/3JnHc13jZk30WkcSCE1Te2"
       },
@@ -3814,7 +3840,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 150855,
       "name": "Scoot Scoot (Original Soundtrack)",
       "url": "https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb"
@@ -4592,12 +4618,12 @@
       },
       "artists": [
         {
-          "name": "Thirumali",
-          "url": "https://open.spotify.com/artist/4LEOrzbFhr9mYeHAXhzm2R"
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
         },
         {
-          "name": "Shyam-Krishna",
-          "url": "https://open.spotify.com/artist/18IVgi1pPSzLCMWcizl9Ld"
+          "name": "Shyam Krishna",
+          "url": "https://open.spotify.com/artist/3EOMc5YFWjnbULJWR4zP3G"
         },
         {
           "name": "Mallu Gomez",

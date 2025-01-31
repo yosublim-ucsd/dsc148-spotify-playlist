@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 59209,
+  "num_followers": 59233,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
-      },
-      "artists": [
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "Sycamore Tree",
-      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
         "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 175680,
       "name": "Babylon Too Rough",
       "url": "https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "Sycamore Tree",
+      "url": "https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Extra Raw: The First Lady Of Dancehall",
-        "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
-      },
-      "artists": [
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Man Is The Least",
-      "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Stop That Train",
         "url": "https://open.spotify.com/album/2GkHD2HdhKoY4B5yigF66J"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "One Man Against The World",
+        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
+      },
+      "artists": [
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+        }
+      ],
+      "duration_ms": 369573,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Sweep Over My Soul",
         "url": "https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "One Man Against The World",
-        "url": "https://open.spotify.com/album/0HJg4SugD6RTHt57uZbEwr"
+        "name": "Extra Raw: The First Lady Of Dancehall",
+        "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
       },
       "artists": [
         {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
         }
       ],
-      "duration_ms": 369573,
-      "name": "Rumours",
-      "url": "https://open.spotify.com/track/4Y1xrYwl4aIpQWqzXndQgJ"
+      "duration_ms": 230573,
+      "name": "Man Is The Least",
+      "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
     },
     {
       "added_at": "2020-10-19 09:02:25",

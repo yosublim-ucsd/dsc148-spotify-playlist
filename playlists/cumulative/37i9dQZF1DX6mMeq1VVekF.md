@@ -2,9 +2,9 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: Jeshi
+> No tags, no labels \- just free form\. Cover: Jay Prince
 
-453 songs - 23 hr 18 min
+454 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 | 2023-05-19 | 2023-08-19 |
 | [Caution](https://open.spotify.com/track/4g1TUIuoKWYYnJD0a8hrzb) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Caution / Turn Around](https://open.spotify.com/album/6ieHdWLpsg8RMJT4du72IB) | 2:35 | 2022-07-17 | 2022-10-06 |
 | [Celine](https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG) | [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Celine](https://open.spotify.com/album/2osmYzbFYfQEbIeq5QB6Hc) | 3:13 | 2023-08-18 | 2024-04-26 |
+| [Chasing Thrills](https://open.spotify.com/track/3pLhJF9bSgBMDbBphod6tB) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Chasing Thrills](https://open.spotify.com/album/4oKdueuMGBrrrfxvp542cc) | 4:06 | 2025-01-31 |  |
 | [Cheer Me Up](https://open.spotify.com/track/2A6rn2K7LHN5peOcEwQfzo) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Cheer Me Up](https://open.spotify.com/album/2I1A6Wn4hwuhAmP0K1GKAl) | 3:22 | 2022-06-24 | 2022-07-13 |
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2022-06-24 | 2024-10-04 |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2022-06-24 | 2022-07-28 |
@@ -359,7 +360,7 @@
 | [Same Size Shoe](https://open.spotify.com/track/0dedT0AfVJO8ebgLee0prY) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Same Size Shoe](https://open.spotify.com/album/6DxjcIJ9NR4LPZpyDqGVvw) | 3:30 | 2022-06-24 | 2022-07-29 |
 | [SAME WAYZ](https://open.spotify.com/track/3qiyi5s7saiQLQwL17LWPs) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [SONIC INCENSE](https://open.spotify.com/album/4gJgwFk9dnQkrVKJ034eLk) | 3:25 | 2025-01-17 | 2025-01-25 |
 | [Scary Sight](https://open.spotify.com/track/4R9JMjQdMt7AMRis0HlF7w) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Scary Sight](https://open.spotify.com/album/4fsvP1YJLEu9dEBO1fOIt5) | 5:12 | 2022-08-22 | 2022-12-13 |
-| [SCUMBAG](https://open.spotify.com/track/1j2UARNp1XZmj63aCBemMX) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [SCUMBAG](https://open.spotify.com/album/0oZTxUS3IeIBjHwkmzgi2O) | 2:15 | 2025-01-17 |  |
+| [SCUMBAG](https://open.spotify.com/track/1j2UARNp1XZmj63aCBemMX) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C) | [SCUMBAG](https://open.spotify.com/album/0oZTxUS3IeIBjHwkmzgi2O) | 2:15 | 2025-01-17 | 2025-01-31 |
 | [Seasons](https://open.spotify.com/track/1GkofJJt1Uaz5z4ch6ooLM) | [H33RA](https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM), [Idris Jones](https://open.spotify.com/artist/46qyLqPPSLO54RLTHMV2QC) | [Seasons](https://open.spotify.com/album/13H6kGywIed09VEPyCw9gW) | 5:21 | 2022-10-23 | 2023-05-16 |
 | [send 4 u](https://open.spotify.com/track/3aQLKFRKoDR4vNExOr9IFN) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [WOAH](https://open.spotify.com/album/7kQvu3PNdlvpTmyKBih4fC) | 2:26 | 2022-07-17 | 2022-07-26 |
 | [Sex N' Drugs](https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Célia Tiab](https://open.spotify.com/artist/4CGHZ152neZaJf6gqAsxoZ) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 2:44 | 2022-06-24 | 2022-07-28 |

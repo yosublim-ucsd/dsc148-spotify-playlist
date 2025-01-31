@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
+  "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Behemoth",
   "name": "Extreme Metal",
   "tracks": [
+    {
+      "album": {
+        "name": "Emerald Fires Atop The Farewell Mountains",
+        "url": "https://open.spotify.com/album/7IaiGxv40f0gEd9Y1BCgS1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Putrefaction",
+          "url": "https://open.spotify.com/artist/7w2cQkraSNaYeHe5nHgvA8"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "(Entering the Vortex Temporum) - Pre-mortem Phosphenes",
+      "url": "https://open.spotify.com/track/6a1d2AgSm04VFlXaH0aviH"
+    },
     {
       "album": {
         "name": "Attera Totus Sanctus",
@@ -394,7 +412,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 214883,
       "name": "An End to Everything",
       "url": "https://open.spotify.com/track/6sKANyckRxoAVakhHnPDGU"
@@ -430,7 +448,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 167560,
       "name": "Anarchy",
       "url": "https://open.spotify.com/track/55LOcVCllzfvWvX9d32wlL"
@@ -581,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Arimortis",
+        "url": "https://open.spotify.com/album/1PocWHv4LCitKv7lkBuExQ"
+      },
+      "artists": [
+        {
+          "name": "Necrodeath",
+          "url": "https://open.spotify.com/artist/73n8NYaqRf2oJBuK7lWq0O"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219151,
+      "name": "Arimortis",
+      "url": "https://open.spotify.com/track/3necCuU4xO4oecozXxwQay"
+    },
+    {
+      "album": {
         "name": "Arsenal of War",
         "url": "https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07"
       },
@@ -668,7 +704,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 244666,
       "name": "At Dusk",
       "url": "https://open.spotify.com/track/6IV24gFX5SuM4ZmpNq9XnT"
@@ -992,7 +1028,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 197706,
       "name": "Birthright Abolished",
       "url": "https://open.spotify.com/track/0XBwfBO5ehW8l9Ved0P3fU"
@@ -1082,7 +1118,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 380773,
       "name": "Black Flames March",
       "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 224645,
       "name": "Black Witchery",
       "url": "https://open.spotify.com/track/7gnNzzJFEjzKY1H4u75XEq"
@@ -3403,6 +3439,24 @@
     },
     {
       "album": {
+        "name": "Erebus",
+        "url": "https://open.spotify.com/album/04CoRJpGX4wYaLeRLE0o8e"
+      },
+      "artists": [
+        {
+          "name": "REMINA",
+          "url": "https://open.spotify.com/artist/5M8gMWMvoNjV1YzX2o9cPT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Erebus",
+      "url": "https://open.spotify.com/track/4XJvqqG2tvehKHxi7Ky9YX"
+    },
+    {
+      "album": {
         "name": "Excerpts from the Dark Age",
         "url": "https://open.spotify.com/album/07DJUKMAxbTzfM3cWnAVUn"
       },
@@ -4206,7 +4260,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 253413,
       "name": "Future to Come",
       "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
@@ -4300,6 +4354,24 @@
       "duration_ms": 252586,
       "name": "Gehenna",
       "url": "https://open.spotify.com/track/3x2A8myfYInyflbGmZKQDD"
+    },
+    {
+      "album": {
+        "name": "The Stygian Rose",
+        "url": "https://open.spotify.com/album/4ZboZxi4dwNEzhRqWIZmlI"
+      },
+      "artists": [
+        {
+          "name": "Crypt Sermon",
+          "url": "https://open.spotify.com/artist/363ih5wuNGWBFcjeKFG8cc"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493337,
+      "name": "Glimmers in the Underworld",
+      "url": "https://open.spotify.com/track/09b99GnXKcgzQmgb6rhXsB"
     },
     {
       "album": {
@@ -4530,7 +4602,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 283520,
       "name": "Hands of Eternity",
       "url": "https://open.spotify.com/track/77KTNAnVYjrqbbzTbqUUCi"
@@ -4624,6 +4696,24 @@
       "duration_ms": 335333,
       "name": "Havenless",
       "url": "https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7"
+    },
+    {
+      "album": {
+        "name": "Havukruunu ja Talvenvarjo",
+        "url": "https://open.spotify.com/album/0xjLUdixgkPBTNC5GiRSvy"
+      },
+      "artists": [
+        {
+          "name": "Havukruunu",
+          "url": "https://open.spotify.com/artist/2ccokPZoXdXaj4yiZqMxIJ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354800,
+      "name": "Havukruunu ja Talvenvarjo",
+      "url": "https://open.spotify.com/track/0xL8EgDgc7RWoSn4PRpa4h"
     },
     {
       "album": {
@@ -4750,7 +4840,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 408053,
       "name": "Hemoclysm",
       "url": "https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1"
@@ -5277,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "Umbilical",
+        "url": "https://open.spotify.com/album/1WILkP95BuckkTIm4OIQRm"
+      },
+      "artists": [
+        {
+          "name": "Thou",
+          "url": "https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232652,
+      "name": "I Feel Nothing When You Cry",
+      "url": "https://open.spotify.com/track/0ewMtem4OT8eys2p1hmyzq"
+    },
+    {
+      "album": {
         "name": "I Resign",
         "url": "https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro"
       },
@@ -5310,6 +5418,24 @@
       "duration_ms": 471280,
       "name": "I Troldskog Faren Vild",
       "url": "https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj"
+    },
+    {
+      "album": {
+        "name": "I. The Descent",
+        "url": "https://open.spotify.com/album/0sRa0PCV1Fz1xCghBRWdcP"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226148,
+      "name": "I. THE DESCENT",
+      "url": "https://open.spotify.com/track/1dwiKtLCq2pl8o316cOkV1"
     },
     {
       "album": {
@@ -6445,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "Kadath",
+        "url": "https://open.spotify.com/album/2Ek9iZN9Tec0cJSNsdQEdf"
+      },
+      "artists": [
+        {
+          "name": "The Great Old Ones",
+          "url": "https://open.spotify.com/artist/1U6VZQrgQ4CNXbS6FpP0QC"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 655066,
+      "name": "Me, the Dreamer",
+      "url": "https://open.spotify.com/track/7oVdZQkRmQc7YUqb7QXi3k"
+    },
+    {
+      "album": {
         "name": "Sidereus Nuncius",
         "url": "https://open.spotify.com/album/0Uyv8xXfDXeTDx4Rm0aJdQ"
       },
@@ -7510,7 +7654,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 243240,
       "name": "Of Pillars And Trees",
       "url": "https://open.spotify.com/track/29wTjvpsmkdWARwDxuWLXC"
@@ -8824,7 +8968,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 358546,
       "name": "Saturn Coming Down",
       "url": "https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc"
@@ -8846,6 +8990,24 @@
       "duration_ms": 373906,
       "name": "Scars In The Landscape Of God",
       "url": "https://open.spotify.com/track/6gmMDrXjVOLZJXCxKdBl3w"
+    },
+    {
+      "album": {
+        "name": "Dreaming the Strife for Love",
+        "url": "https://open.spotify.com/album/3dI4ogkcAKYLp199rg7wVP"
+      },
+      "artists": [
+        {
+          "name": "Bedsore",
+          "url": "https://open.spotify.com/artist/5voYmbejb8Nj564tCDZTBG"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377466,
+      "name": "Scars of Light",
+      "url": "https://open.spotify.com/track/3wtJCLvTRtV4F72NHmQTxU"
     },
     {
       "album": {
@@ -9580,7 +9742,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 519104,
       "name": "Stj\u00e4rnfall",
       "url": "https://open.spotify.com/track/6pSdueaNbElFnB3JGqzXMW"
@@ -10557,6 +10719,24 @@
     },
     {
       "album": {
+        "name": "Unextinct",
+        "url": "https://open.spotify.com/album/7GrP4nNcnXffSlqOAMkadH"
+      },
+      "artists": [
+        {
+          "name": "Hideous Divinity",
+          "url": "https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422000,
+      "name": "The Numinous One",
+      "url": "https://open.spotify.com/track/30a8YSOFPocPuru2uYe7hY"
+    },
+    {
+      "album": {
         "name": "Scars of Yesteryears",
         "url": "https://open.spotify.com/album/2Gmii6i6OOielH7IiXW993"
       },
@@ -10590,6 +10770,24 @@
       "duration_ms": 263733,
       "name": "The Other Side of Anger",
       "url": "https://open.spotify.com/track/3oaddUa1UhnLcMePctuIgw"
+    },
+    {
+      "album": {
+        "name": "The Pain, will be Exquisite",
+        "url": "https://open.spotify.com/album/6VMD7XOxLOUv3t3mlFFkdZ"
+      },
+      "artists": [
+        {
+          "name": "Aborted",
+          "url": "https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "The Pain, will be Exquisite",
+      "url": "https://open.spotify.com/track/6W6bjSvfVOEoBYirhqcl0b"
     },
     {
       "album": {
@@ -10640,7 +10838,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 220668,
       "name": "The Price of Pain",
       "url": "https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn"
@@ -10716,6 +10914,24 @@
       "duration_ms": 309213,
       "name": "The Serpentine Offering",
       "url": "https://open.spotify.com/track/1JEbu4sbfwNnjetAaaYGmU"
+    },
+    {
+      "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
     },
     {
       "album": {
@@ -10989,6 +11205,24 @@
     },
     {
       "album": {
+        "name": "To Live Deliciously",
+        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332226,
+      "name": "To Live Deliciously",
+      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
+    },
+    {
+      "album": {
         "name": "to my disquiet",
         "url": "https://open.spotify.com/album/4eZx4deNQamrxN1SIWVYKn"
       },
@@ -11116,6 +11350,24 @@
       "duration_ms": 325546,
       "name": "Treriksr\u00f6set",
       "url": "https://open.spotify.com/track/19fwxEx0vrmf8ULl37K6MY"
+    },
+    {
+      "album": {
+        "name": "Turbulence",
+        "url": "https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8"
+      },
+      "artists": [
+        {
+          "name": "Escuela Grind",
+          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200023,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC"
     },
     {
       "album": {
@@ -12024,7 +12276,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 350053,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,363 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,366 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 8 | [Tagebuach](https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF) | [LIV](https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA), [DJ Babon](https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41) | [Churer Dame König Gras](https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq) | 3:25 |
 | 9 | [Kei Respekt](https://open.spotify.com/track/0a59i5elndo4piHsthVLAJ) | [Fratelli\-B](https://open.spotify.com/artist/4ZAFDRkLnkK7uLffBpuqFY), [C.mEE](https://open.spotify.com/artist/5SDHtF6OPiBSXYZLRF6MFr) | [Mier macheds](https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb) | 3:20 |
 | 10 | [Glasmönsch](https://open.spotify.com/track/0GfZ8xC6eDB0OyeC3vipjn) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD) | [Glanton Gang](https://open.spotify.com/album/0kiaJgxcPFBCRx7AilxSef) | 4:53 |
-| 11 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
-| 12 | [Stars und Sternli](https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj) | [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS) | [Wurzle & Chrone](https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM) | 4:08 |
+| 11 | [Stars und Sternli](https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj) | [Phumaso & Smack](https://open.spotify.com/artist/2uOvks2pSGWPKKw30tq9kS), [Bandit](https://open.spotify.com/artist/0JjVRX0d2SnWZc3I1sEfvS) | [Wurzle & Chrone](https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM) | 4:08 |
+| 12 | [Ich weiss scho](https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj) | [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Als chänteds Bärgä versetzä](https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys) | 5:14 |
 | 13 | [Gedankegäng](https://open.spotify.com/track/1Gn956F0SU6oKY0cGrAgEq) | [GeilerAsDu](https://open.spotify.com/artist/2sRldY768fLza4lKT5A0U6) | [Flöchted](https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek) | 3:02 |
 | 14 | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/track/2oBcWgTaL7Hf3kwyKKoKAM) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Avenue \(feat\. Karolyn\)](https://open.spotify.com/album/1FROZGtaQG82Gr2SkohAE3) | 3:32 |
 | 15 | [Engel Vo Züri](https://open.spotify.com/track/5OETCdn1Y51cTsdWOVjWQg) | [Semantik](https://open.spotify.com/artist/2EMN6fOJ9EF6cUcd9pv7hE) | [Molotow](https://open.spotify.com/album/6E9o75YzTD5tJ5v3lWoGZR) | 4:00 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 26 | [Luftloch](https://open.spotify.com/track/2DlKLCqqfzbwKKGHOXZF8N) | [Moskito](https://open.spotify.com/artist/7uL3oi3QRjKzhzYM2zI4Va) | [Maxilla](https://open.spotify.com/album/3YE7DohC6p9fImF9AJx9Su) | 4:55 |
 | 27 | [Vom Feinste](https://open.spotify.com/track/5KwBrbPh4g6JH4OzQ8vb2b) | [Ruff](https://open.spotify.com/artist/6c4A4szzdPRitveDWGOP87), [Arthi](https://open.spotify.com/artist/4jNAeGaooM9Is7PEXBmhP9), [Jears](https://open.spotify.com/artist/0g9eVkK9DaH2pyZmCQK7iP) | [Uhrsprung](https://open.spotify.com/album/6OpzGy7N8uv0BB7BJnDHPb) | 4:13 |
 | 28 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
-| 29 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
-| 30 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
+| 29 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
+| 30 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
 | 31 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
 | 32 | [Teil Vom Problem](https://open.spotify.com/track/4dK2t6AV9WtyxuKw3qZGDd) | [Greis](https://open.spotify.com/artist/4529nltiXhYqju0EI0SJUp) | [3](https://open.spotify.com/album/0D41OBWqhA1ChJvYnQHySI) | 3:47 |
 | 33 | [Schwiizchaschte](https://open.spotify.com/track/2CpnLubVTEuyStX8UVb7wm) | [Wurzel 5](https://open.spotify.com/artist/735iLNwRvdc39OXIbF9W4K), [Luut & Tüütli](https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW) | [Verdächtig...](https://open.spotify.com/album/6orut2CjbQYr3CYFSWKxz0) | 4:46 |

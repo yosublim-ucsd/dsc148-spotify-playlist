@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=DqPU7Xy6TDSGYKMTtwqUmQ\"> Oscar Mbo</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG?si=SsP1g9olTnyhN64rI5xQPA\"> Drega</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -1492,6 +1492,28 @@
       "duration_ms": 356632,
       "name": "Amafu - Remix",
       "url": "https://open.spotify.com/track/7K4DfQH0I1A96FXhUvYJZw"
+    },
+    {
+      "album": {
+        "name": "AmaGroovist",
+        "url": "https://open.spotify.com/album/1ta75fj12mmjEokJhCPtAY"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Cuebur",
+          "url": "https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384613,
+      "name": "AmaGroovist",
+      "url": "https://open.spotify.com/track/5ZEQi72QOBquJLPCyvybxH"
     },
     {
       "album": {
@@ -6726,6 +6748,36 @@
       "duration_ms": 384444,
       "name": "Fading",
       "url": "https://open.spotify.com/track/0qrqL2IWlrecdqZI1fguga"
+    },
+    {
+      "album": {
+        "name": "Failed You (Eran Hersh Remix)",
+        "url": "https://open.spotify.com/album/4OeTG0yARxPKlordgIKFm0"
+      },
+      "artists": [
+        {
+          "name": "Bush B4 Me",
+          "url": "https://open.spotify.com/artist/4FbeCIPXR6fCbz1Q8kHwp6"
+        },
+        {
+          "name": "Zekete",
+          "url": "https://open.spotify.com/artist/59uUwPW1C3tMLZNyfE74Yl"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        },
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178512,
+      "name": "Failed You - Eran Hersh Remix",
+      "url": "https://open.spotify.com/track/1NQ0JHbAVsLff7od44i1BX"
     },
     {
       "album": {
@@ -23094,6 +23146,24 @@
       "duration_ms": 272005,
       "name": "Umoya - Radio Edit",
       "url": "https://open.spotify.com/track/6UMJCyLYHXy1JjDNgqtTB0"
+    },
+    {
+      "album": {
+        "name": "Umtalabho",
+        "url": "https://open.spotify.com/album/34o38NyLkALw0H5kNS3LE3"
+      },
+      "artists": [
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279141,
+      "name": "Umtalabho",
+      "url": "https://open.spotify.com/track/0hs3pTvkISo0OIlP6CDh7O"
     },
     {
       "album": {

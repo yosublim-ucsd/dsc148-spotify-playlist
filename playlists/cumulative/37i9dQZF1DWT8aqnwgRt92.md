@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,793 songs - 4 day 15 hr 42 min
+1,795 songs - 4 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Don't Stay](https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [Don't Stay](https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW) | 3:54 | 2024-06-07 | 2024-07-06 |
 | [door](https://open.spotify.com/track/0TF4op8eQkheQdlWQM9Bgl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TVアニメ「シュガーアップル・フェアリーテイル」第2クールエンディングテーマ door（Special Edition）](https://open.spotify.com/album/1FgvZygYK6UfpleMuwyQ4r) | 4:12 | 2023-07-25 | 2023-07-27 |
 | [door](https://open.spotify.com/track/2jhWhT9t7S2m2B8U9i02wP) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Ending Theme Song "door" \(Special Edition\)](https://open.spotify.com/album/1cZzq5dsP3xZlPKgYfCd5J) | 4:12 | 2023-07-25 | 2023-08-09 |
-| [DOPE](https://open.spotify.com/track/4tDY4dIOFJRt0Tf71fjjia) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [LEGIT](https://open.spotify.com/artist/4cm7BWLKtoWsEWfLgUwdme) | [DOPE](https://open.spotify.com/album/6S5zNfQjoHlylSZvBDnkbe) | 3:11 | 2025-01-21 |  |
+| [DOPE](https://open.spotify.com/track/4tDY4dIOFJRt0Tf71fjjia) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [LEGIT](https://open.spotify.com/artist/4cm7BWLKtoWsEWfLgUwdme) | [DOPE](https://open.spotify.com/album/6S5zNfQjoHlylSZvBDnkbe) | 3:11 | 2025-01-21 | 2025-01-31 |
 | [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 | 2023-10-24 | 2023-11-13 |
 | [DownTimer \(unknown Vo:O2\)](https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r) | [レトベア](https://open.spotify.com/artist/3rtNjlT8krol2X6iAuelYA) | [DownTimer \(unknown Vo:O2\)](https://open.spotify.com/album/1YUoDBtPxU6MscbdMcdNGq) | 3:28 | 2023-01-05 | 2023-04-09 |
 | [DRAW](https://open.spotify.com/track/68bacZy8OquMiXpmEUNi0L) | [XAAXAA](https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd) | [DRAW](https://open.spotify.com/album/1Xrw9J0zz0mYZxQRJUAlro) | 3:31 | 2023-10-10 | 2023-10-20 |
@@ -651,7 +651,7 @@
 | [Otowa](https://open.spotify.com/track/1zSDvAdbpQoSuVJ9jLHGJD) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Otowa](https://open.spotify.com/album/2nYVX9H4mPqz2a8A9efxzW) | 3:56 | 2024-01-09 | 2024-02-14 |
 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 | 2022-05-28 | 2022-07-06 |
 | [OveR](https://open.spotify.com/track/1HIyf8vbVjdKMAvz2iU3dU) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [OveR](https://open.spotify.com/album/5zl60jmeD0n8kmMnElcH3L) | 4:06 | 2022-05-28 | 2022-06-03 |
-| [over the top](https://open.spotify.com/track/2Bf3VEyRN5XycKTBRQ4GAQ) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [over the top](https://open.spotify.com/album/7rc7hUlQmqrVs6bXyVbunY) | 4:08 | 2025-01-09 |  |
+| [over the top](https://open.spotify.com/track/2Bf3VEyRN5XycKTBRQ4GAQ) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [over the top](https://open.spotify.com/album/7rc7hUlQmqrVs6bXyVbunY) | 4:08 | 2025-01-09 | 2025-01-31 |
 | [Overclock](https://open.spotify.com/track/0tQSeFUmELxqzo1lQ3pCRy) | [レン \(CV:楠木ともり\)](https://open.spotify.com/artist/6bCnjbtGE5vO3Pyk6lUSay) | [Overclock](https://open.spotify.com/album/0xRZ6xjKEEISXkBGeQJFr6) | 3:27 | 2024-12-03 | 2025-01-10 |
 | [Overture](https://open.spotify.com/track/7C98cHPoJtGblsTcoOa46d) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [VIVID](https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n) | 1:12 | 2024-03-12 | 2024-03-19 |
 | [P\-P\-P\-PERO](https://open.spotify.com/track/51B7M78gRDEYzXAtwdj9cM) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [P\-P\-P\-PERO](https://open.spotify.com/album/1o3OQPtXN8jbaCkRfRtxxd) | 3:04 | 2024-07-05 | 2024-07-17 |
@@ -896,6 +896,7 @@
 | [THE SHAPE OF](https://open.spotify.com/track/6yLpHWOoiT3lWPnZIXk1la) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [OPENING THEME FROM TV SERIES MADE IN ABYSS ”THE GOLDEN CITY OF THE SCORCHING SUN” THE SHAPE OF](https://open.spotify.com/album/0tbPNaXiTK7G5V4LaZIjBQ) | 3:32 | 2022-08-23 | 2022-10-09 |
 | [The Walk](https://open.spotify.com/track/25RZhMsRB55U8TrUHQQoCF) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [The Walk](https://open.spotify.com/album/1ufpEfS3huo829WKXH0aNc) | 3:08 | 2024-07-09 | 2024-09-04 |
 | [THIRD PARTY](https://open.spotify.com/track/4yawsBj5wDLhYNSP0Wo40d) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [THIRD PARTY](https://open.spotify.com/album/4piVOVvMJOSCfaD99QDVRG) | 4:05 | 2024-02-06 | 2024-04-05 |
+| [Three Kings](https://open.spotify.com/track/28oyqFsxKYzSNvZ3R0dV9R) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [Three Kings](https://open.spotify.com/album/4YaPRWr1TAgkfFG3YZx0tg) | 3:46 | 2025-01-30 |  |
 | [ties](https://open.spotify.com/track/6NRH4SrOxLsw9tcUy6CcG4) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [ties](https://open.spotify.com/album/1q6HspP5fyftaSF8rE0oKY) | 4:06 | 2024-10-15 | 2025-01-08 |
 | [TKGシンドローム](https://open.spotify.com/track/0icpQ05PDxKqNPEIn9PTPN) | [金子みゆ](https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1) | [TKGシンドローム](https://open.spotify.com/album/3aDYDc5gYqoot2Ew1FuXtO) | 2:52 | 2024-07-05 | 2024-07-31 |
 | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK) | 5:10 | 2023-10-07 | 2023-11-18 |
@@ -1048,6 +1049,7 @@
 | [いらないもの](https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [いらないもの](https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl) | 3:05 | 2024-10-03 | 2025-01-12 |
 | [うれしくて](https://open.spotify.com/track/25C3HZIvRGGtkasbrZe7D1) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [うれしくて／ときめき](https://open.spotify.com/album/6Wm8TQQ90CrHqHrp9vmkwz) | 6:23 | 2023-09-12 | 2023-11-22 |
 | [えびぞりターン！](https://open.spotify.com/track/6cnq2uvpdtpQXADa2ua1t7) | [フォーエイト48](https://open.spotify.com/artist/3rluIfhAkKzKF2Fq89tYGD) | [えびぞりターン！](https://open.spotify.com/album/1gQN5MnOUIqm15A1Rt5E4V) | 3:42 | 2024-10-08 | 2024-10-16 |
+| [おいしいサバイバー](https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [おいしいサバイバー](https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX) | 2:58 | 2025-01-30 |  |
 | [おとずれ](https://open.spotify.com/track/6Fp4d4Rey4Pon8r4UxOKJ5) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [おとずれ](https://open.spotify.com/album/64aKmnM6KUPMr3pgyYQFF5) | 3:48 | 2024-10-08 | 2024-12-11 |
 | [おどる ひかり](https://open.spotify.com/track/5vKeKeMQEOVVHvWoboCWdK) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [おどる ひかり](https://open.spotify.com/album/70dxLOHCgr6kXq9PU6v1er) | 4:41 | 2023-04-06 | 2023-05-26 |
 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/4twohb62NBcXxAEAPF4lF6) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 2:08 | 2022-07-19 | 2022-08-17 |

@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 164666,
       "name": "A Winter Song",
       "url": "https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv"
@@ -1444,6 +1444,44 @@
       "duration_ms": 130563,
       "name": "Answer to Remember Theme",
       "url": "https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7"
+    },
+    {
+      "album": {
+        "name": "NOVA",
+        "url": "https://open.spotify.com/album/0NJAsSYxzBK5LdYnRdVJo5"
+      },
+      "artists": [
+        {
+          "name": "Cafune",
+          "url": "https://open.spotify.com/artist/3DZYBDeLQQv0JIww7b3uRV"
+        },
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        },
+        {
+          "name": "\u56a9\u1d34\u1d2c\u1d37\u1d41",
+          "url": "https://open.spotify.com/artist/7Mza9mcYZcEBJblRUgSzxM"
+        },
+        {
+          "name": "e5",
+          "url": "https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4"
+        },
+        {
+          "name": "utumiyqcom",
+          "url": "https://open.spotify.com/artist/0z2nVl8o9RsgqHxktTIlJ8"
+        },
+        {
+          "name": "NOVA",
+          "url": "https://open.spotify.com/artist/1jYRmOVGbSdBXngTEORRe9"
+        }
+      ],
+      "date_added": "2025-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210006,
+      "name": "Anti Piracy Screen",
+      "url": "https://open.spotify.com/track/73Mf5IAWPXiGRXy2bZKuY6"
     },
     {
       "album": {

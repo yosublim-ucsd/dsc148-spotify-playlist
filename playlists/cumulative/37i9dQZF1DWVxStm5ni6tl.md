@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Cyani, Artwork: Isu Kim.
 
-1,959 songs - 4 day 5 hr 14 min
+1,960 songs - 4 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1413,6 +1413,7 @@
 | [Ripped Off](https://open.spotify.com/track/4fB80jba890pebeBL6sXc1) | [Eadie](https://open.spotify.com/artist/6JoG5JTHrkitxt0rWiToC0) | [Ripped Off](https://open.spotify.com/album/3yctc6Jo0bfyIS6EIg4T6Z) | 3:44 | 2023-09-20 | 2023-10-05 |
 | [Risk + Sacrifice, Pt\. 1](https://open.spotify.com/track/4rJjeTtOkJsmtkm1hcYQjt) | [Jimmy Yitty](https://open.spotify.com/artist/2oOPVizPrUkoNmnqo7wdBx) | [Risk + Sacrifice, Pt\. 1](https://open.spotify.com/album/4h3vHG8K5V3SZaaqWWx16j) | 2:40 | 2024-11-13 | 2024-11-28 |
 | [Road Dog](https://open.spotify.com/track/2Wigbmrj8vU2yqk5hSeXqJ) | [K\-Cuzz](https://open.spotify.com/artist/7IS5AUXckTl6AThH10aSR0) | [Road Dog](https://open.spotify.com/album/2WwnPeZ3DBqKcGsf8g7DT0) | 1:56 | 2024-05-29 | 2024-06-13 |
+| [rock w me](https://open.spotify.com/track/3aCuC2A5lDsSaUlxajCjSo) | [Kaleia](https://open.spotify.com/artist/2F2CiwEgXu1t8kgQKnCTMr) | [rock w me](https://open.spotify.com/album/1sXBo9YsXXW07sYyAOLWDL) | 2:44 | 2025-01-29 |  |
 | [Rocky Mountain Son](https://open.spotify.com/track/0yMofXux1vP1T1TnIP9xYT) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Rocky Mountain Son](https://open.spotify.com/album/47OjqEHaN93XqkLZB3Efpj) | 3:40 | 2024-09-18 | 2024-10-17 |
 | [Rodeo](https://open.spotify.com/track/7Lo3423g8A1MYcK52MtzgM) | [Nicolette & The Nobodies](https://open.spotify.com/artist/7mnm3y9s2LSUt4st0SQfhA) | [Rodeo](https://open.spotify.com/album/6LzFNPZcqnrLzHlkW2ANvz) | 3:26 | 2023-08-30 | 2023-09-07 |
 | [Roll The Dice](https://open.spotify.com/track/5TwOJAhtdcERGVJoDw7Tvo) | [Adam Rodway](https://open.spotify.com/artist/0a8lHob1Gah0QmmzrWZoH5) | [Roll The Dice](https://open.spotify.com/album/3HKhsmrjvePfVstBavAI1i) | 2:14 | 2024-05-15 | 2024-06-01 |

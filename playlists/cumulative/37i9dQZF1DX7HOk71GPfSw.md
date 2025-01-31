@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> featuring new music from horsegiirL
+> featuring new materiaL from horsegiirL
 
 2,212 songs - 4 day 4 hr 46 min
 

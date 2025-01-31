@@ -1,35 +1,143 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 293952,
+  "num_followers": 294016,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LJ9AAAAADx1UxVaNPdvfnQYFspY6xd",
+  "snapshot_id": "Z5wEhQAAAADxQmfW/nnwV1vxabnvlYXy",
   "tracks": [
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
-        "name": "Ask That God (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
         }
       ],
-      "duration_ms": 205966,
-      "name": "Somebody's Son (feat. Lindsey Buckingham)",
-      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Life On The Line",
+        "url": "https://open.spotify.com/album/2nBkY9DjQvHoAhZJSaG5QI"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 127812,
+      "name": "Life On The Line",
+      "url": "https://open.spotify.com/track/6zp4523IH32wZBDWklk5iB"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Songs From The Richest Man In The World",
+        "url": "https://open.spotify.com/album/2ObQb0hsIrSExfoumkPHBP"
+      },
+      "artists": [
+        {
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "I Got It Bad For You",
+      "url": "https://open.spotify.com/track/2zM2kPzcAxXBDPFoQeyOtS"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Life 2",
+        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 203157,
+      "name": "Life 2",
+      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "HAPPIER ON MY OWN",
+        "url": "https://open.spotify.com/album/2KuKznxgBhBiXX4CyfEqbc"
+      },
+      "artists": [
+        {
+          "name": "LUCKY LOVE",
+          "url": "https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "HAPPIER ON MY OWN",
+      "url": "https://open.spotify.com/track/4ZAngLec3UnbcK8EXtoyOt"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 161007,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/3ACi7pm0aXxMyBYBAvVo5V"
+      },
+      "artists": [
+        {
+          "name": "Antoine Chambe",
+          "url": "https://open.spotify.com/artist/5DIQ8PaQ21m4G3ao0JG84N"
+        }
+      ],
+      "duration_ms": 184055,
+      "name": "R\u00eaverie",
+      "url": "https://open.spotify.com/track/41JQgoqu131A7Oz6ad5ihP"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Cats on the Ceiling",
+        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "Cats on the Ceiling",
+      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Forever (French Edit)",
         "url": "https://open.spotify.com/album/2swuTIjmSZt6zldeWddUyZ"
@@ -49,7 +157,63 @@
       "url": "https://open.spotify.com/track/4ed2gCfVy4MMblrkXDoLs6"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Sunshine In The Room",
+        "url": "https://open.spotify.com/album/5kcPJTW5E80SQpWDsorrYW"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 182955,
+      "name": "Sunshine In The Room (feat. Jon Batiste)",
+      "url": "https://open.spotify.com/track/2cbRRdFAhoDnBGQgJ7NGws"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Just My Luck / Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 180332,
+      "name": "Just My Luck",
+      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Ask That God (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 205966,
+      "name": "Somebody's Son (feat. Lindsey Buckingham)",
+      "url": "https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
@@ -65,7 +229,23 @@
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/20cPAOECyiHnN342S6Q56L"
@@ -81,7 +261,7 @@
       "url": "https://open.spotify.com/track/7aVlNa4f1VxG6D1gEEQ6CY"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
@@ -97,23 +277,7 @@
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 161007,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Not Ur Man",
         "url": "https://open.spotify.com/album/3hDUcZVrCfjssfSGeTbrEi"
@@ -129,23 +293,7 @@
       "url": "https://open.spotify.com/track/66vIK1tGQvVuhbzo2QJgXa"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "HER WORLD",
         "url": "https://open.spotify.com/album/77vhWHTS0MHXffcPq0Lo7t"
@@ -161,7 +309,39 @@
       "url": "https://open.spotify.com/track/5Lrxf8DT7PxZtBRQiyc5Bv"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Live For You",
+        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Live For You",
+      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Alouette",
         "url": "https://open.spotify.com/album/5AdLMmqU79aNYpzZjvAgYS"
@@ -177,7 +357,7 @@
       "url": "https://open.spotify.com/track/0i6kcTouGjrDOmQVOEyLYj"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Colors (Feat. Nic Hanson)",
         "url": "https://open.spotify.com/album/0URHI8fiZoROIX7qVgnvJH"
@@ -197,39 +377,7 @@
       "url": "https://open.spotify.com/track/7pm3RAEh9rNYEbY4eEtqtw"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Chronologic",
-        "url": "https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Live For You",
-        "url": "https://open.spotify.com/album/3zJGBJOYBVuM5NnhdWtvLm"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Live For You",
-      "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Keep Me Satisfied",
         "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
@@ -245,23 +393,7 @@
       "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Songs From The Richest Man In The World",
-        "url": "https://open.spotify.com/album/2ObQb0hsIrSExfoumkPHBP"
-      },
-      "artists": [
-        {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "I Got It Bad For You",
-      "url": "https://open.spotify.com/track/2zM2kPzcAxXBDPFoQeyOtS"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Loose Ends",
         "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
@@ -277,7 +409,7 @@
       "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Love It When I Need It",
         "url": "https://open.spotify.com/album/5surNQCjxrSMVmiJ67H6dk"
@@ -297,39 +429,7 @@
       "url": "https://open.spotify.com/track/0ssfMVEA0x8ARvoXb8krym"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/6PpwY4y4jGTeojmWRGduUk"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 267354,
-      "name": "We Are The People",
-      "url": "https://open.spotify.com/track/2lN9y0KWC0hvKuQY3KYSxh"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/3ACi7pm0aXxMyBYBAvVo5V"
-      },
-      "artists": [
-        {
-          "name": "Antoine Chambe",
-          "url": "https://open.spotify.com/artist/5DIQ8PaQ21m4G3ao0JG84N"
-        }
-      ],
-      "duration_ms": 184055,
-      "name": "R\u00eaverie",
-      "url": "https://open.spotify.com/track/41JQgoqu131A7Oz6ad5ihP"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/3kraofsp8mvLKktb7r8IMw"
@@ -345,7 +445,7 @@
       "url": "https://open.spotify.com/track/1uko3zWMyaFh14IKWq9ueo"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Disco Nap",
         "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
@@ -365,7 +465,7 @@
       "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx"
@@ -381,7 +481,23 @@
       "url": "https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/6PpwY4y4jGTeojmWRGduUk"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 267354,
+      "name": "We Are The People",
+      "url": "https://open.spotify.com/track/2lN9y0KWC0hvKuQY3KYSxh"
+    },
+    {
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Care For You",
         "url": "https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu"
@@ -397,7 +513,7 @@
       "url": "https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP"
@@ -413,23 +529,7 @@
       "url": "https://open.spotify.com/track/4BiiGfe1QtSpsiZDvA4Pmd"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Life 2",
-        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 203157,
-      "name": "Life 2",
-      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Neo Surf",
         "url": "https://open.spotify.com/album/2g3h5sHGcVvbvsit77Sbbb"
@@ -449,23 +549,7 @@
       "url": "https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "HAPPIER ON MY OWN",
-        "url": "https://open.spotify.com/album/2KuKznxgBhBiXX4CyfEqbc"
-      },
-      "artists": [
-        {
-          "name": "LUCKY LOVE",
-          "url": "https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "HAPPIER ON MY OWN",
-      "url": "https://open.spotify.com/track/4ZAngLec3UnbcK8EXtoyOt"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/1WqnhdEIciecoyWVYeJzEE"
@@ -489,23 +573,7 @@
       "url": "https://open.spotify.com/track/3TrgYexdOmHSvWJ7DRfoG6"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Cats on the Ceiling",
-        "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "Cats on the Ceiling",
-      "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Indoor Sport",
         "url": "https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO"
@@ -521,7 +589,7 @@
       "url": "https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Half Way Home",
         "url": "https://open.spotify.com/album/0QPvBXhgcoxjjQuZQsb8yD"
@@ -537,7 +605,7 @@
       "url": "https://open.spotify.com/track/7fnZ3757bXWBqOrRHUdtdb"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
@@ -553,23 +621,7 @@
       "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Oh Why",
-        "url": "https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf"
-      },
-      "artists": [
-        {
-          "name": "Jil Is Lucky",
-          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
-        }
-      ],
-      "duration_ms": 167114,
-      "name": "Oh Why",
-      "url": "https://open.spotify.com/track/43uSB7AO2UNDR6fx3NDhs1"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "forever on my mind",
         "url": "https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p"
@@ -589,7 +641,7 @@
       "url": "https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ"
@@ -605,23 +657,7 @@
       "url": "https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Self Sabotage",
-        "url": "https://open.spotify.com/album/7JXIy8lvrYZTFAhmwG5bRx"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 205251,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/7hFuGabcWfCfRKYpQxQ7qu"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Asking for More",
         "url": "https://open.spotify.com/album/2T0givNGiaaU9GCp051hgn"
@@ -641,27 +677,7 @@
       "url": "https://open.spotify.com/track/2S5EDLiPJL0gJ9eJfiwCbq"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/4NSDfQZFfOcEXd844BfSjl"
-      },
-      "artists": [
-        {
-          "name": "Kimberose",
-          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "(Where Are) The Good Days?",
-      "url": "https://open.spotify.com/track/0RJAS5OAb2tgr8nVIAnZfF"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "SUBURBIA",
         "url": "https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/4ySSfveKffGyDTYvJBoQpi"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Favourite Girl",
         "url": "https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Hard (feat. Hanni El Khatib)",
         "url": "https://open.spotify.com/album/4EZjQSyZOGk0SLt2JqVOae"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/0QHZomqI7eXhkkljkXMpEr"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "liminal space",
         "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Occasional Stoner",
         "url": "https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl"
@@ -761,27 +777,7 @@
       "url": "https://open.spotify.com/track/43avjZf2deGDNuYnnSinij"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Tiger Teeth (Feat Just Jack)",
-        "url": "https://open.spotify.com/album/77uPMhEIcxwNmgPJbtzzeT"
-      },
-      "artists": [
-        {
-          "name": "Synapson",
-          "url": "https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR"
-        },
-        {
-          "name": "Just Jack",
-          "url": "https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Tiger Teeth (Feat Just Jack)",
-      "url": "https://open.spotify.com/track/4zeiLDJJP9HaILAu0k9iOF"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Leon",
         "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
@@ -797,7 +793,7 @@
       "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Adult Contemporary (Deluxe)",
         "url": "https://open.spotify.com/album/29j75DpDX2eiFEIK8Jc3Y8"
@@ -817,7 +813,7 @@
       "url": "https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Deadbeat Blues",
         "url": "https://open.spotify.com/album/2OGos6FSDlL5JgeX5LjrQk"
@@ -837,7 +833,7 @@
       "url": "https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW"
     },
     {
-      "added_at": "2025-01-23 23:00:04",
+      "added_at": "2025-01-30 23:00:21",
       "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/6Zc8nyY4mUPofVxMygU1m0"
@@ -851,22 +847,6 @@
       "duration_ms": 163253,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/2dpkNnCGyXZEDCekYxr4aJ"
-    },
-    {
-      "added_at": "2025-01-23 23:00:04",
-      "album": {
-        "name": "Get Sick Get Better",
-        "url": "https://open.spotify.com/album/2vgmK0FxvLfrDOMazgGWbo"
-      },
-      "artists": [
-        {
-          "name": "Superjava",
-          "url": "https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp"
-        }
-      ],
-      "duration_ms": 213386,
-      "name": "Slowdown",
-      "url": "https://open.spotify.com/track/3olBzBt2hQTUz8mgbfQJ6Q"
     }
   ],
   "unique_name": "Feel Good",

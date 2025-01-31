@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: prima stanza a destra",
+  "description": "Il futuro dell'indie italiano \u00e8 in questa playlist \ud83d\udc40 Cover: Lucrezia",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/3qqPIdnCLZIzkfZSD6Ugxv"
+      },
+      "artists": [
+        {
+          "name": "Pop V\u00e9ronique",
+          "url": "https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170211,
+      "name": "America Mattina",
+      "url": "https://open.spotify.com/track/6pkzqjEsosJ2Eo642Rksif"
+    },
+    {
+      "album": {
         "name": "PUTTO",
         "url": "https://open.spotify.com/album/0OUhI3GBCCVIbzezqJDL54"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 154516,
       "name": "AMORETABACCO",
       "url": "https://open.spotify.com/track/0Fackdwwbq8lbJMeFAEeD1"
@@ -388,7 +406,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 220000,
       "name": "anche eugenio piange",
       "url": "https://open.spotify.com/track/7LiXLsxGqkZAxj5AsRzlhA"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 145774,
       "name": "aria pulita",
       "url": "https://open.spotify.com/track/3qMbAQsJkCFFlgMQu5UEJj"
@@ -550,7 +568,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 199626,
       "name": "Atarassia",
       "url": "https://open.spotify.com/track/07623J27IvGeuyfS2j1dv0"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 184000,
       "name": "caselle di posta",
       "url": "https://open.spotify.com/track/4ML8ymtpVAxeKfMdrM0yHD"
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 162543,
       "name": "Centomila caramelle",
       "url": "https://open.spotify.com/track/60W8sXGW175M95Lk8KY2L4"
@@ -1030,6 +1048,24 @@
       "duration_ms": 177192,
       "name": "CERIGNOLA CAMPAGNA",
       "url": "https://open.spotify.com/track/7H7Lqcdyw5DXUkRre8CzWY"
+    },
+    {
+      "album": {
+        "name": "Che Delusione",
+        "url": "https://open.spotify.com/album/5kpIInvCjkiVt3kVQ7Zqxd"
+      },
+      "artists": [
+        {
+          "name": "taha",
+          "url": "https://open.spotify.com/artist/2U67nezNg7TK1oV4YWiMw5"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205020,
+      "name": "Che Delusione",
+      "url": "https://open.spotify.com/track/03cQhtyevyrvWTMxHgkII2"
     },
     {
       "album": {
@@ -1185,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "codice morse",
+        "url": "https://open.spotify.com/album/2zUwAyYhGvM8GaEoju9A4G"
+      },
+      "artists": [
+        {
+          "name": "moha111",
+          "url": "https://open.spotify.com/artist/0zInhyakN9jMdmXwCLRUyW"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "codice morse",
+      "url": "https://open.spotify.com/track/65F3X4vmeu3j6qAn1tqNJp"
+    },
+    {
+      "album": {
         "name": "Colleghi borghesi",
         "url": "https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib"
       },
@@ -1218,6 +1272,24 @@
       "duration_ms": 173545,
       "name": "Come mare",
       "url": "https://open.spotify.com/track/3IyoDEdAtGY1hVXII9U5pQ"
+    },
+    {
+      "album": {
+        "name": "Come si fa?",
+        "url": "https://open.spotify.com/album/6cfrK1BsgCRNGrdmCbpkIt"
+      },
+      "artists": [
+        {
+          "name": "GIMA",
+          "url": "https://open.spotify.com/artist/2mWd2GZ0OtmKom3LSqvjcH"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "Come si fa?",
+      "url": "https://open.spotify.com/track/5lIv9osZoXvtWaHtsWIgoF"
     },
     {
       "album": {
@@ -1438,7 +1510,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 229623,
       "name": "Desiderare (feat. Amalfitano)",
       "url": "https://open.spotify.com/track/5AtCONazzp70r19WniQG6s"
@@ -1572,6 +1644,28 @@
       "duration_ms": 163543,
       "name": "EFFETTO",
       "url": "https://open.spotify.com/track/6XUFqNOdmdKsjU2z4jy94S"
+    },
+    {
+      "album": {
+        "name": "Einveceno",
+        "url": "https://open.spotify.com/album/6FyezqD5XixCa6pPw2c7WG"
+      },
+      "artists": [
+        {
+          "name": "Zeep",
+          "url": "https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl"
+        },
+        {
+          "name": "Kaiz\u00e9n",
+          "url": "https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166549,
+      "name": "Einveceno",
+      "url": "https://open.spotify.com/track/4fCxE5XuOZbexL8iKjzEbj"
     },
     {
       "album": {
@@ -2160,6 +2254,24 @@
       "duration_ms": 197722,
       "name": "Giorni felici",
       "url": "https://open.spotify.com/track/2eTQeuQGoXSGaQ8sjpT3hr"
+    },
+    {
+      "album": {
+        "name": "Giorni Neri",
+        "url": "https://open.spotify.com/album/0LBtkERqoVWaEQnHJxE9g3"
+      },
+      "artists": [
+        {
+          "name": "Evandro",
+          "url": "https://open.spotify.com/artist/1iSp6fP7gO2Z459KZ9shFJ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230454,
+      "name": "Giorni Neri",
+      "url": "https://open.spotify.com/track/3g8FnybVQiYAksC1pT0IhZ"
     },
     {
       "album": {
@@ -2852,7 +2964,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 104250,
       "name": "Litorale veneto",
       "url": "https://open.spotify.com/track/1LcRRuB3KkWePYqZL97GFo"
@@ -3008,6 +3120,24 @@
       "duration_ms": 145185,
       "name": "machegustomilascia",
       "url": "https://open.spotify.com/track/6ZRebO4Ti4IODXeUCcJtsR"
+    },
+    {
+      "album": {
+        "name": "Maggio",
+        "url": "https://open.spotify.com/album/0G6O4BHuIxxaYijro8sGM0"
+      },
+      "artists": [
+        {
+          "name": "Cordio",
+          "url": "https://open.spotify.com/artist/3APL1WXguzBZTQHlnYcXx6"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197542,
+      "name": "Maggio",
+      "url": "https://open.spotify.com/track/6wg2JoLd5YmoU2wANbDEpk"
     },
     {
       "album": {
@@ -3319,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "mille volte",
+        "url": "https://open.spotify.com/album/0Fe66SxgFLTMYwbAcSSR7d"
+      },
+      "artists": [
+        {
+          "name": "EMSAISI",
+          "url": "https://open.spotify.com/artist/2eTMp0eYaCw62RedR7SBci"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197045,
+      "name": "mille volte",
+      "url": "https://open.spotify.com/track/25SiCsC78X1wc3pd9snYdv"
+    },
+    {
+      "album": {
         "name": "MONDO CONVENIENZA",
         "url": "https://open.spotify.com/album/2YySYUtKAf647Vr7lscVBr"
       },
@@ -3500,7 +3648,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 154282,
       "name": "Niente di speciale",
       "url": "https://open.spotify.com/track/1NnCS4Otkty1CzFkw9IkC0"
@@ -3903,6 +4051,24 @@
     },
     {
       "album": {
+        "name": "Morte speedrun",
+        "url": "https://open.spotify.com/album/0KWq82fvqLdlL9lDvYy0q2"
+      },
+      "artists": [
+        {
+          "name": "Bordoluna",
+          "url": "https://open.spotify.com/artist/1jGUIzgQgepOORubWNkMuq"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Online mania",
+      "url": "https://open.spotify.com/track/5YUZ82vVnNxQvYO5Sm76xF"
+    },
+    {
+      "album": {
         "name": "ora che \u00e8 tutto ok",
         "url": "https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn"
       },
@@ -3936,6 +4102,28 @@
       "duration_ms": 213658,
       "name": "Ottovolanti",
       "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
+    },
+    {
+      "album": {
+        "name": "Panino d'idiota (feat. Casadilego)",
+        "url": "https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX"
+      },
+      "artists": [
+        {
+          "name": "GattoToro",
+          "url": "https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg"
+        },
+        {
+          "name": "Casadilego",
+          "url": "https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143564,
+      "name": "Panino d'idiota (feat. Casadilego)",
+      "url": "https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt"
     },
     {
       "album": {
@@ -4357,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "PRETE",
+        "url": "https://open.spotify.com/album/6YuqVJKzCZNRqOYDVPxoo0"
+      },
+      "artists": [
+        {
+          "name": "RIVERA",
+          "url": "https://open.spotify.com/artist/5k49BRqiNw8x7q5N6Lgwkh"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194831,
+      "name": "PRETE",
+      "url": "https://open.spotify.com/track/4f7Z2KyCGbtd694MsZ8Prb"
+    },
+    {
+      "album": {
         "name": "Profumo di dolore (feat. EDONiCO)",
         "url": "https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK"
       },
@@ -4599,6 +4805,24 @@
     },
     {
       "album": {
+        "name": "Riconoscimi",
+        "url": "https://open.spotify.com/album/2JgbFbgWYuo0JXD005nmGf"
+      },
+      "artists": [
+        {
+          "name": "Grill Boys",
+          "url": "https://open.spotify.com/artist/7bhEp7R7GJ7fKHbocwhq9h"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139175,
+      "name": "Riconoscimi",
+      "url": "https://open.spotify.com/track/04RpjFlIhKO73O27kuXOxm"
+    },
+    {
+      "album": {
         "name": "Rigacuore",
         "url": "https://open.spotify.com/album/78QsClkLzrtgMKMTEBQ7O0"
       },
@@ -4788,6 +5012,24 @@
       "duration_ms": 181250,
       "name": "Scatoloni",
       "url": "https://open.spotify.com/track/66jgjmSQPsjZcUUg9eOz4J"
+    },
+    {
+      "album": {
+        "name": "cosa resta?",
+        "url": "https://open.spotify.com/album/10rFdKAEsCRf8hlqFRuCUN"
+      },
+      "artists": [
+        {
+          "name": "Lean\u00f2",
+          "url": "https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "schizofrenia",
+      "url": "https://open.spotify.com/track/7q6WDCJekws4rC4MSGTLmO"
     },
     {
       "album": {
@@ -5040,7 +5282,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 178306,
       "name": "Soli per errore",
       "url": "https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN"
@@ -5127,6 +5369,28 @@
     },
     {
       "album": {
+        "name": "SOTTO CASSA",
+        "url": "https://open.spotify.com/album/2Hi5OvKWDmhIcFDlyz5ZBG"
+      },
+      "artists": [
+        {
+          "name": "Matsby",
+          "url": "https://open.spotify.com/artist/2mjOOYqJzFaYPrjrhci9kZ"
+        },
+        {
+          "name": "SIC",
+          "url": "https://open.spotify.com/artist/0Hj8b0XnX4W9Kufo4XKu6v"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175445,
+      "name": "SOTTO CASSA",
+      "url": "https://open.spotify.com/track/40JogTJk71huC1TH08zEnb"
+    },
+    {
+      "album": {
         "name": "Sotto La Luna",
         "url": "https://open.spotify.com/album/6jgH6ETXX9HIYlj8TyOsGf"
       },
@@ -5164,6 +5428,24 @@
       "duration_ms": 216359,
       "name": "SOTTOCASSA",
       "url": "https://open.spotify.com/track/6fdNKvSzGtQMysIQMkfCOc"
+    },
+    {
+      "album": {
+        "name": "Spero Piova",
+        "url": "https://open.spotify.com/album/1tBLvyz2hcjg6QZj0T6V9b"
+      },
+      "artists": [
+        {
+          "name": "Chiara Cami",
+          "url": "https://open.spotify.com/artist/3dVUsJqt6lEdZ5ZCbS0Zt7"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216953,
+      "name": "Spero Piova",
+      "url": "https://open.spotify.com/track/4pUp5NGBcT2HY8IxYcruu1"
     },
     {
       "album": {
@@ -5243,6 +5525,24 @@
     },
     {
       "album": {
+        "name": "STO MALONE",
+        "url": "https://open.spotify.com/album/5DrYGoF9xvMmhuM859mws1"
+      },
+      "artists": [
+        {
+          "name": "Tonino3000",
+          "url": "https://open.spotify.com/artist/3lmaY64jiPo0uqfLleWX1E"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185702,
+      "name": "STO MALONE",
+      "url": "https://open.spotify.com/track/2llDqKD4cmEzppTmh4d0m9"
+    },
+    {
+      "album": {
         "name": "STUPIDA",
         "url": "https://open.spotify.com/album/1imcRHiMvoqVMsyRdO4vv5"
       },
@@ -5308,7 +5608,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 164083,
       "name": "temporale",
       "url": "https://open.spotify.com/track/2GuzXPKvxMIWvghTeUSeZI"
@@ -5344,7 +5644,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 138043,
       "name": "ti amo",
       "url": "https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK"
@@ -5681,6 +5981,24 @@
     },
     {
       "album": {
+        "name": "Un Posto In Cui Sparire Veramente",
+        "url": "https://open.spotify.com/album/0oXcOXSrYjXL8fqJJ7eRMO"
+      },
+      "artists": [
+        {
+          "name": "CALEDUNE",
+          "url": "https://open.spotify.com/artist/4Xfkj0cIUMm1E3Wdcplxcj"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253239,
+      "name": "Un Posto In Cui Sparire Veramente",
+      "url": "https://open.spotify.com/track/3bHZDamn4CVHXIk9uKIXoP"
+    },
+    {
+      "album": {
         "name": "Un Titolo Migliore",
         "url": "https://open.spotify.com/album/6jeA4JnfuCThnw6N4OpzLa"
       },
@@ -5869,6 +6187,32 @@
     },
     {
       "album": {
+        "name": "vie buie",
+        "url": "https://open.spotify.com/album/3YUFNIhEajT45x6w7CCxzK"
+      },
+      "artists": [
+        {
+          "name": "bordo",
+          "url": "https://open.spotify.com/artist/2YKCs0t17EKAEaIVKlwqpT"
+        },
+        {
+          "name": "DAVIDE",
+          "url": "https://open.spotify.com/artist/5DO6UaclvCEpCitUQDGrBL"
+        },
+        {
+          "name": "FIFexclamation",
+          "url": "https://open.spotify.com/artist/0KdZjC6G1gxuZCZ9GICrsk"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172050,
+      "name": "vie buie",
+      "url": "https://open.spotify.com/track/0v2s6IWZm9YOquDdPzveoS"
+    },
+    {
+      "album": {
         "name": "Vigliacco",
         "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
       },
@@ -5898,7 +6242,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 131830,
       "name": "Vinaccia",
       "url": "https://open.spotify.com/track/4y7xEoUsxZhbk76dcMhLdK"
@@ -5916,7 +6260,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 183281,
       "name": "violenza",
       "url": "https://open.spotify.com/track/1yVLQv8SOjFIbV2IKCdy4s"
@@ -5996,6 +6340,24 @@
       "duration_ms": 212061,
       "name": "Voglia 'E Turn\u00e0",
       "url": "https://open.spotify.com/track/1m4ToLe6HU0B6zehZy17ih"
+    },
+    {
+      "album": {
+        "name": "What is Real",
+        "url": "https://open.spotify.com/album/75vU38bOw8o4EBDhN7Xnz6"
+      },
+      "artists": [
+        {
+          "name": "simmcat",
+          "url": "https://open.spotify.com/artist/5VDesYBhhv0pTLWKEZoI8j"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190404,
+      "name": "What is Real",
+      "url": "https://open.spotify.com/track/195vtBaixkaHqocCEKB9ZU"
     },
     {
       "album": {

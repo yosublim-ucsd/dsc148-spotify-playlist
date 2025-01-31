@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 78271,
+  "num_followers": 78302,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5geAAAAAAAecV+XDA9qqrR3SYLNkwSc",
+  "snapshot_id": "Z5lvgAAAAAD03ebMFqROF0PUQ1yviJzn",
   "tracks": [
     {
       "added_at": null,
@@ -899,6 +899,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aguanile",
+        "url": "https://open.spotify.com/album/39gHO23z4L81f3xHVd8mML"
+      },
+      "artists": [
+        {
+          "name": "SWAYL\u00d3",
+          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/5T8uNSE1RCwGmIRJn95Vzf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 420666,
       "name": "Tibur\u00f3n",
       "url": "https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguanile",
-        "url": "https://open.spotify.com/album/39gHO23z4L81f3xHVd8mML"
-      },
-      "artists": [
-        {
-          "name": "SWAYL\u00d3",
-          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/5T8uNSE1RCwGmIRJn95Vzf"
     },
     {
       "added_at": null,

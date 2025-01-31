@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: iiso(\uc774\uc18c))",
-  "num_followers": 27983,
+  "num_followers": 28010,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        },
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
         "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 234026,
       "name": "28 Reasons - CIFIKA Remix",
       "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        },
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "1-1=0 (NOTHING WITHOUT YOU)",
-        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
       "artists": [
         {
-          "name": "Wanna One",
-          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
         }
       ],
-      "duration_ms": 255628,
-      "name": "Energetic (Prequel Remix)",
-      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
+      "duration_ms": 179016,
+      "name": "Los Angeles - Moksi Remix",
+      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
+        "name": "1-1=0 (NOTHING WITHOUT YOU)",
+        "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
       "artists": [
         {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        },
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+          "name": "Wanna One",
+          "url": "https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Los Angeles - Moksi Remix",
-      "url": "https://open.spotify.com/track/2LNCxTdURQRawa2Pc6MvZT"
+      "duration_ms": 255628,
+      "name": "Energetic (Prequel Remix)",
+      "url": "https://open.spotify.com/track/4zDsgkTLNv6j3kQ0asJfrF"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Make A Wish (Birthday Song) - Wuki Remix",
-      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
         "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 274761,
       "name": "28 Reasons - LOOZBONE Remix",
       "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Make A Wish (Birthday Song) - Wuki Remix",
+      "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "Heart Of Steel",
-        "url": "https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS"
-      },
-      "artists": [
-        {
-          "name": "Raiden",
-          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
-        },
-        {
-          "name": "Bright Lights",
-          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
-        }
-      ],
-      "duration_ms": 207089,
-      "name": "Heart Of Steel",
-      "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "iScreaM Vol.4 : 1 Billion Views Remix",
         "url": "https://open.spotify.com/album/0cIZy6ah974Kx2M5Z3irdT"
       },
@@ -1691,22 +1671,22 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.15 : INVU Remixes",
-        "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
+        "name": "Heart Of Steel",
+        "url": "https://open.spotify.com/album/2MvflJ13HmbZoSOOhOcSGS"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
         },
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+          "name": "Bright Lights",
+          "url": "https://open.spotify.com/artist/2AoeqcUs8DySgZRJ9yV4Ou"
         }
       ],
-      "duration_ms": 219840,
-      "name": "INVU - ZHU Remix",
-      "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
+      "duration_ms": 207089,
+      "name": "Heart Of Steel",
+      "url": "https://open.spotify.com/track/75dE6BHbk7fOra3OEvChg3"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1751,6 +1731,26 @@
       "duration_ms": 171940,
       "name": "Bambi - BRLLNT Remix",
       "url": "https://open.spotify.com/track/5vzojJMMU60TkCDAfMyvnR"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.15 : INVU Remixes",
+        "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "INVU - ZHU Remix",
+      "url": "https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7"
     },
     {
       "added_at": "2024-12-17 03:24:41",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2024-12-17 03:24:41",
       "album": {
-        "name": "iScreaM Vol.8 : Bambi Remixes",
-        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        },
-        {
-          "name": "h4rdy",
-          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
-        }
-      ],
-      "duration_ms": 240004,
-      "name": "Bambi - h4rdy Remix",
-      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
-    },
-    {
-      "added_at": "2024-12-17 03:24:41",
-      "album": {
         "name": "Naro",
         "url": "https://open.spotify.com/album/7iMoYjNMFSKSW7ewvLBSqU"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 170440,
       "name": "SEROTONIN",
       "url": "https://open.spotify.com/track/1HRJkKOY3sDx6ELjasWIxE"
+    },
+    {
+      "added_at": "2024-12-17 03:24:41",
+      "album": {
+        "name": "iScreaM Vol.8 : Bambi Remixes",
+        "url": "https://open.spotify.com/album/3jG3MaPuDcZawL3mKb0LOj"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "h4rdy",
+          "url": "https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z"
+        }
+      ],
+      "duration_ms": 240004,
+      "name": "Bambi - h4rdy Remix",
+      "url": "https://open.spotify.com/track/6ECpFEjryPvCdGPHVktmFY"
     },
     {
       "added_at": "2024-12-17 03:24:41",

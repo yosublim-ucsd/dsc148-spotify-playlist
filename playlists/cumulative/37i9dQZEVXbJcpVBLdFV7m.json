@@ -880,7 +880,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 184675,
       "name": "BESHE MI PRIYATNO",
       "url": "https://open.spotify.com/track/5ZBeHVHIpqfdMzO5sGPCoi"
@@ -6457,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "h4rdjump_1988",
+        "url": "https://open.spotify.com/album/4Yq1vJROcI4q8V5nWbE4sj"
+      },
+      "artists": [
+        {
+          "name": "$werve",
+          "url": "https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82325,
+      "name": "h4rdjump_1988 - Ultra Slowed",
+      "url": "https://open.spotify.com/track/2uKz03RCn0BAr8ZpWH5krl"
+    },
+    {
+      "album": {
         "name": "Antologia Chast III (Anthology Part III)",
         "url": "https://open.spotify.com/album/27ag4SdoORLxgVL2HwHcMm"
       },
@@ -10867,6 +10885,32 @@
     },
     {
       "album": {
+        "name": "Money Pull Up",
+        "url": "https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "Money Pull Up",
+      "url": "https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg"
+    },
+    {
+      "album": {
         "name": "MONEY! (Money Money, Green Green)",
         "url": "https://open.spotify.com/album/2RVKC6Ji7sQfRb4iMCu8gX"
       },
@@ -12252,6 +12296,28 @@
       "duration_ms": 136187,
       "name": "Numero Uno",
       "url": "https://open.spotify.com/track/5MO2vGdAAMsDNXtUEy9tK6"
+    },
+    {
+      "album": {
+        "name": "NUNCA MUDA?",
+        "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
+      },
+      "artists": [
+        {
+          "name": "Scythermane",
+          "url": "https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX"
+        },
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81500,
+      "name": "NUNCA MUDA?",
+      "url": "https://open.spotify.com/track/3VFySvZMSn4z4X4YDDQb0H"
     },
     {
       "album": {
@@ -15388,7 +15454,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 295762,
       "name": "Silence Speaks",
       "url": "https://open.spotify.com/track/2hpiAF6SdteB0RbSTSMaXq"
@@ -19682,7 +19748,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 244026,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/5wBTPxJisiSQz9vkneZSlr"
@@ -22728,7 +22794,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 195505,
       "name": "\u041e \u043c\u043e\u0435\u0439 \u043b\u044e\u0431\u0432\u0438",
       "url": "https://open.spotify.com/track/5AeVHI8Ch7irMbODMiObp2"

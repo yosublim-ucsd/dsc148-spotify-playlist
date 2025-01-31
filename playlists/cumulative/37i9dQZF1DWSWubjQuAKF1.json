@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Daniel Godson",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Lola Young",
   "name": "up next",
   "tracks": [
     {
@@ -1631,6 +1631,32 @@
     },
     {
       "album": {
+        "name": "GOD DAMN",
+        "url": "https://open.spotify.com/album/1T2xXdMigMZQ2ANvVwdkWh"
+      },
+      "artists": [
+        {
+          "name": "Bryan",
+          "url": "https://open.spotify.com/artist/1JW9Q2DToFLptGpxXNKHWp"
+        },
+        {
+          "name": "Artur Sikorski",
+          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
+        },
+        {
+          "name": "WOLF HOUSE",
+          "url": "https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135789,
+      "name": "GOD DAMN",
+      "url": "https://open.spotify.com/track/6SCpoGxbpXxiVRwI5S55VD"
+    },
+    {
+      "album": {
         "name": "GOJO SATORU",
         "url": "https://open.spotify.com/album/5dfXXlA1vpRXhFasJmahp6"
       },
@@ -1722,6 +1748,24 @@
       "duration_ms": 161280,
       "name": "Happy End",
       "url": "https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e"
+    },
+    {
+      "album": {
+        "name": "Hej, nie m\u00f3wi\u0142am ci",
+        "url": "https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT"
+      },
+      "artists": [
+        {
+          "name": "Sandra Reizer",
+          "url": "https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206846,
+      "name": "Hej, nie m\u00f3wi\u0142am ci",
+      "url": "https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj"
     },
     {
       "album": {
@@ -2430,7 +2474,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 217687,
       "name": "List",
       "url": "https://open.spotify.com/track/2a0XfGcXniIlQyFMEZTKJL"
@@ -3456,7 +3500,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 154000,
       "name": "nieoczywiste",
       "url": "https://open.spotify.com/track/1plVKUf9fux7zP5ZFRgkTJ"
@@ -3768,7 +3812,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 149440,
       "name": "P*RNSTAR",
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
@@ -3860,6 +3904,28 @@
       "duration_ms": 236600,
       "name": "Pami\u0119tasz?",
       "url": "https://open.spotify.com/track/7Hl9kN1XUyYy6GF3PDuszJ"
+    },
+    {
+      "album": {
+        "name": "Momenty",
+        "url": "https://open.spotify.com/album/4PzF7jH91o75GXjFwvTaLa"
+      },
+      "artists": [
+        {
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+        },
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188048,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/1v5hiDzRDTqFaOlkw6w4ew"
     },
     {
       "album": {
@@ -4687,6 +4753,24 @@
     },
     {
       "album": {
+        "name": "Stokrotka",
+        "url": "https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115326,
+      "name": "Stokrotka",
+      "url": "https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax"
+    },
+    {
+      "album": {
         "name": "STOP!!",
         "url": "https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP"
       },
@@ -5132,7 +5216,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -5150,7 +5234,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 106300,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv"
@@ -5328,6 +5412,24 @@
       "duration_ms": 265333,
       "name": "what's left unsaid",
       "url": "https://open.spotify.com/track/1l8CegP9zJ9s832gT3o1qX"
+    },
+    {
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "album": {

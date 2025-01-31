@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/4Nb3y9rqVzYXPZ6ufvUFT6"
+      },
+      "artists": [
+        {
+          "name": "AT's Roots & Ramblin'",
+          "url": "https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165083,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/5Hdw9VRMMXO6ZtUrQCt0BX"
+    },
+    {
+      "album": {
         "name": "The Blasters",
         "url": "https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B"
       },
@@ -884,7 +902,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 144000,
       "name": "Do Me No Wrong",
       "url": "https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S"

@@ -2219,6 +2219,28 @@
     },
     {
       "album": {
+        "name": "J'aime \u00e7a",
+        "url": "https://open.spotify.com/album/1qlPAplZUgWxx5ZJi7Ch9V"
+      },
+      "artists": [
+        {
+          "name": "Stelair",
+          "url": "https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J"
+        },
+        {
+          "name": "AK Binks",
+          "url": "https://open.spotify.com/artist/5VVLZ1ViFB6h8EMR0Ja0br"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "J'aime \u00e7a",
+      "url": "https://open.spotify.com/track/4ujwTkq3yZ2NtPIIqpnG6b"
+    },
+    {
+      "album": {
         "name": "Je n'ai rien fait",
         "url": "https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl"
       },
@@ -3212,7 +3234,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 236000,
       "name": "NOVELAS",
       "url": "https://open.spotify.com/track/4SglQfp9apak2FDtRmkEgB"
@@ -3412,7 +3434,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 204387,
       "name": "Petit feu",
       "url": "https://open.spotify.com/track/6L02e6ZEAzKLaeCalrae46"
@@ -3576,6 +3598,24 @@
       "duration_ms": 124691,
       "name": "Remontada",
       "url": "https://open.spotify.com/track/7GXRrgvWlaqPQcVVvQopOQ"
+    },
+    {
+      "album": {
+        "name": "Remue les reins",
+        "url": "https://open.spotify.com/album/6Dgje8S99FE9igOOlCMfB0"
+      },
+      "artists": [
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161583,
+      "name": "Remue les reins",
+      "url": "https://open.spotify.com/track/53dpL86yhMKteoOyqbpZEf"
     },
     {
       "album": {

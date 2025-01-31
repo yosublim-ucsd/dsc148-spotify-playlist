@@ -1,12 +1,12 @@
 {
   "description": "The best new music every Friday. Cover: Yves Jarvis",
-  "num_followers": 1287557,
+  "num_followers": 1287598,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5MeiwAAAACRFuID8VeovnC8kbe9AxGM",
+  "snapshot_id": "Z5u5fwAAAADQONFackoqhhFUJLnbUL22",
   "tracks": [
     {
       "added_at": "2025-01-24 05:00:59",
@@ -111,6 +111,26 @@
       "duration_ms": 281526,
       "name": "Enything",
       "url": "https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO"
+    },
+    {
+      "added_at": "2025-01-30 17:40:15",
+      "album": {
+        "name": "Blurb",
+        "url": "https://open.spotify.com/album/2nkpUN7muFl2Me3gBnjJRt"
+      },
+      "artists": [
+        {
+          "name": "Baba Stiltz",
+          "url": "https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF"
+        },
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "duration_ms": 142056,
+      "name": "Boys In The Girls Room",
+      "url": "https://open.spotify.com/track/0NLt1XvBQSAei4PQVOXe4A"
     },
     {
       "added_at": "2025-01-24 05:00:59",
@@ -2847,22 +2867,6 @@
       "duration_ms": 181090,
       "name": "OCTOBER",
       "url": "https://open.spotify.com/track/1uYO5Jhgf4S1752bUL2IiW"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Gold Filigree",
-        "url": "https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq"
-      },
-      "artists": [
-        {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Gold Filigree",
-      "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
     },
     {
       "added_at": "2024-12-06 05:00:00",

@@ -4,7 +4,7 @@
 
 > Taking it back to the 2010s\. Cover: Chief Keef
 
-631 songs - 1 day 13 hr 56 min
+632 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Act Right \(feat\. Jeezy & YG\)](https://open.spotify.com/track/7yz6wjkAV0ZByLrlcrMkAx) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 4:10 | 2021-08-13 | 2022-02-19 |
 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 | 2022-04-13 | 2023-05-28 |
 | [Act Up](https://open.spotify.com/track/4eIT2gZ0WZyJpgfmoD6saJ) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/45TU0GIOO5AxFoiOPk08i1) | 2:38 | 2021-08-13 | 2022-02-25 |
+| [Again](https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 5:12 | 2025-01-30 |  |
 | [All Girls Are The Same](https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:45 | 2023-05-22 |  |
 | [All Gold Everything](https://open.spotify.com/track/0pgeVJrdNok4KhbiM58ayZ) | [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Don't Be S.A.F.E.](https://open.spotify.com/album/2iv2vZcrHoRGfEsZOyQNF5) | 3:07 | 2021-08-13 | 2022-04-28 |
 | [All Me](https://open.spotify.com/track/7y911sqgHGHcyU4ivapjwi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:30 | 2021-09-03 | 2024-01-17 |
@@ -447,7 +448,7 @@
 | [Or Nah \(feat\. The Weeknd, Wiz Khalifa & DJ Mustard\) \- Remix](https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Or Nah \(feat\. The Weeknd, Wiz Khalifa & DJ Mustard\) \[Remix\]](https://open.spotify.com/album/3SHx7bBQFI4J8QRr6D5cOK) | 4:02 | 2021-09-03 | 2022-04-13 |
 | [OSOM \(feat\. J\. Cole\)](https://open.spotify.com/track/0QLuexVmR2wgNsekPKbv6c) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 5:23 | 2022-07-01 | 2022-07-03 |
 | [OUT WEST \(feat\. Young Thug\)](https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2022-04-13 |  |
-| [Outside Today](https://open.spotify.com/track/3sA7HKGzcKTVscdiTCrWpX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name \(Reloaded\)](https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800) | 2:09 | 2022-04-13 |  |
+| [Outside Today](https://open.spotify.com/track/3sA7HKGzcKTVscdiTCrWpX) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Until Death Call My Name \(Reloaded\)](https://open.spotify.com/album/1xFoRn9DxZXwPjEdGnw800) | 2:09 | 2022-04-13 | 2025-01-31 |
 | [Panda](https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [New English](https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl) | 4:06 | 2022-04-13 |  |
 | [Perfect Ten \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/6GQ82BpN60dzztUWzYojc7) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 4:12 | 2022-07-01 | 2022-07-25 |
 | [PICK IT UP \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3ncgNpxLoBQ65ABk4djDyd) | [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Pick It Up \(feat\. A$AP Rocky\)](https://open.spotify.com/album/4NaE34wj8KRWoxRmgbr915) | 3:11 | 2021-09-03 | 2022-04-14 |

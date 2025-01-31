@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Ruby Fields",
+  "description": "New and local indie noise. Cover: Tyne-James-Organ",
   "name": "Local Noise",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 198317,
       "name": "Black And Blue",
       "url": "https://open.spotify.com/track/0l8Hl8nBG5YjVZqrl4A0QV"
@@ -1022,6 +1022,24 @@
       "duration_ms": 160589,
       "name": "CELLPHONE",
       "url": "https://open.spotify.com/track/6JR09Bqla348Q30W34Vh5n"
+    },
+    {
+      "album": {
+        "name": "Centrelink Summer",
+        "url": "https://open.spotify.com/album/5X5qNCztfmypGeRTsuo0ca"
+      },
+      "artists": [
+        {
+          "name": "Suzi",
+          "url": "https://open.spotify.com/artist/7yyW28zOEIrNs2Rs3eq9cI"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199766,
+      "name": "Centrelink Summer",
+      "url": "https://open.spotify.com/track/3jQjHhER7INf1GJ6OKwlC7"
     },
     {
       "album": {
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 204080,
       "name": "FFS",
       "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 249362,
       "name": "I Want More Life",
       "url": "https://open.spotify.com/track/0Vukf9wQ1S4WPxmc1K3ii2"
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 184142,
       "name": "Man Scout",
       "url": "https://open.spotify.com/track/6tIo4qwgdqxZT3IQI3h1ws"
@@ -3848,6 +3866,24 @@
       "duration_ms": 207189,
       "name": "Manila",
       "url": "https://open.spotify.com/track/2OtUyvATrWPXSVxwMNMfqX"
+    },
+    {
+      "album": {
+        "name": "March on for Pax Ramona",
+        "url": "https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273230,
+      "name": "March on for Pax Ramona",
+      "url": "https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih"
     },
     {
       "album": {
@@ -4374,7 +4410,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 138810,
       "name": "not ur bitch",
       "url": "https://open.spotify.com/track/4iINdMihS8BH7OW2XDBx7J"
@@ -4576,6 +4612,24 @@
       "duration_ms": 220848,
       "name": "One on One",
       "url": "https://open.spotify.com/track/06gPKlZOd0kvQmxLB4yXnW"
+    },
+    {
+      "album": {
+        "name": "One Way Ticket",
+        "url": "https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY"
+      },
+      "artists": [
+        {
+          "name": "Tyne-James Organ",
+          "url": "https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207609,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U"
     },
     {
       "album": {
@@ -5001,6 +5055,24 @@
     },
     {
       "album": {
+        "name": "Problem",
+        "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238481,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
+    },
+    {
+      "album": {
         "name": "Pyromaniac",
         "url": "https://open.spotify.com/album/7qVcvexLdcv1E632W9UWbD"
       },
@@ -5354,7 +5426,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 252800,
       "name": "Saskia",
       "url": "https://open.spotify.com/track/1UGuySsNSRb93OSO2PWy76"
@@ -5624,7 +5696,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 218826,
       "name": "Sick Kinda WRLD",
       "url": "https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J"
@@ -5646,6 +5718,24 @@
       "duration_ms": 250348,
       "name": "Silicone Booby Trap",
       "url": "https://open.spotify.com/track/1WQEhFY3hhl62gRz9VfLIf"
+    },
+    {
+      "album": {
+        "name": "Silver Swarm",
+        "url": "https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273524,
+      "name": "Silver Swarm",
+      "url": "https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR"
     },
     {
       "album": {
@@ -6193,6 +6283,24 @@
     },
     {
       "album": {
+        "name": "Taking On Water",
+        "url": "https://open.spotify.com/album/6zJRXO2bxIIZkUufs4uzEq"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Littles",
+          "url": "https://open.spotify.com/artist/0xT92KyrqgKqPuKBtRSqEO"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226983,
+      "name": "Taking On Water",
+      "url": "https://open.spotify.com/track/3r4hJ1hMr2s4c3mYrzCY4c"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/0WQMwBZWza0LraL5uoNT9x"
       },
@@ -6262,6 +6370,28 @@
       "duration_ms": 216000,
       "name": "Tappin Into Magic",
       "url": "https://open.spotify.com/track/6JauEacOM5Y1ojqaR7ELEr"
+    },
+    {
+      "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/7u7J2ZsrQ5TwEGAsKfuccQ"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208894,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/3I6BZFdnhkpSlGDvTGLg6N"
     },
     {
       "album": {
@@ -6384,7 +6514,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 238800,
       "name": "The Lawn",
       "url": "https://open.spotify.com/track/3NfOkOWIqDTD2IubvHihUH"
@@ -6751,6 +6881,24 @@
     },
     {
       "album": {
+        "name": "twentytwentythree",
+        "url": "https://open.spotify.com/album/47DUR7v0OFB9fZlosLWxo1"
+      },
+      "artists": [
+        {
+          "name": "Bukowski",
+          "url": "https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132034,
+      "name": "twentytwentythree",
+      "url": "https://open.spotify.com/track/31RBep2ROc1EgNWWfFEjV4"
+    },
+    {
+      "album": {
         "name": "U Should Not Be Doing That / Facts",
         "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
       },
@@ -6913,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "Welcome Back (To The Glow)",
+        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285824,
+      "name": "Welcome Back (To The Glow)",
+      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
+    },
+    {
+      "album": {
         "name": "What Do You Want Me To Be",
         "url": "https://open.spotify.com/album/4tLhz3AEweejJo8C3MPVC0"
       },
@@ -6960,10 +7126,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 172653,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/6KAk8ufRJc4ZqGRkIRfCM5"
+    },
+    {
+      "album": {
+        "name": "Wish I Had a Friend",
+        "url": "https://open.spotify.com/album/1MU0xzR8rBE14mcEIHGa3Z"
+      },
+      "artists": [
+        {
+          "name": "Hevenshe",
+          "url": "https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293718,
+      "name": "Wish I Had a Friend",
+      "url": "https://open.spotify.com/track/7ruMeQQkscgQGCtDG5XNIL"
     },
     {
       "album": {

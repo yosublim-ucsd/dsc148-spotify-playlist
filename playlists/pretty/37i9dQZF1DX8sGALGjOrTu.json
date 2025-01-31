@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 501824,
+  "num_followers": 501955,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 219266,
-      "name": "The Artist In The Ambulance",
-      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
         }
       ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+      "duration_ms": 219266,
+      "name": "The Artist In The Ambulance",
+      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 237680,
       "name": "F.C.P.R.E.M.I.X.",
       "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 269026,
-      "name": "What It Is To Burn - New Version",
-      "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "You Can't Spell Slaughter Without Laughter",
         "url": "https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 204440,
       "name": "Things That Rhyme With Orange",
       "url": "https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
+      },
+      "artists": [
+        {
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
+        }
+      ],
+      "duration_ms": 269026,
+      "name": "What It Is To Burn - New Version",
+      "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "\"Watch out!\"",
-        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 249066,
-      "name": "Accidents",
-      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "His Last Walk",
         "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 235640,
       "name": "Guys Like You Make Us Look Bad",
       "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "\"Watch out!\"",
+        "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Accidents",
+      "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "After The Eulogy",
-        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
-      },
-      "artists": [
-        {
-          "name": "Boysetsfire",
-          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Rookie",
-      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 233000,
       "name": "Capricorn (A Brand New Name)",
       "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "After The Eulogy",
+        "url": "https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX"
+      },
+      "artists": [
+        {
+          "name": "Boysetsfire",
+          "url": "https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "A Static Lullaby",
+        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
+      },
+      "artists": [
+        {
+          "name": "A Static Lullaby",
+          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Hang 'Em High",
+      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "She Watched The Sky",
         "url": "https://open.spotify.com/album/1DqmW3Jut1Zs61jEE65ej5"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "A Static Lullaby",
-        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
+        "name": "The Anti Mother",
+        "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
       },
       "artists": [
         {
-          "name": "A Static Lullaby",
-          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Hang 'Em High",
-      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
+      "duration_ms": 280546,
+      "name": "Surrender Your Sons",
+      "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "The Anti Mother",
-        "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
+        "name": "You Come Before You (U.S. Version)",
+        "url": "https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8"
       },
       "artists": [
         {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
         }
       ],
-      "duration_ms": 280546,
-      "name": "Surrender Your Sons",
-      "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
+      "duration_ms": 300640,
+      "name": "Apathy Is a Cold Body",
+      "url": "https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1499,22 +1515,6 @@
       "duration_ms": 200680,
       "name": "Let The Evil Go East",
       "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "You Come Before You (U.S. Version)",
-        "url": "https://open.spotify.com/album/1jWoSWzUjyq2v2jnmRv3p8"
-      },
-      "artists": [
-        {
-          "name": "Poison The Well",
-          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
-        }
-      ],
-      "duration_ms": 300640,
-      "name": "Apathy Is a Cold Body",
-      "url": "https://open.spotify.com/track/3nZI9YTYInLiCdjGx7v9tK"
     },
     {
       "added_at": "2024-10-03 21:26:43",

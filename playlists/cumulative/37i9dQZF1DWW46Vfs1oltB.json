@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\n ZENE THE ZILLA(\uc81c\ub124 \ub354 \uc9c8\ub77c))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\n OSUN(\uc624\uc120))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 190562,
       "name": "100 Days (Feat. YG, P-Lo)",
       "url": "https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl"
@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 202886,
       "name": "APPA (Feat. Verbal Jint)",
       "url": "https://open.spotify.com/track/47DiAyYJ2t4tEWdGevWE6f"
@@ -2956,6 +2956,40 @@
       "duration_ms": 170008,
       "name": "Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)",
       "url": "https://open.spotify.com/track/4sP7jhnNwuDUgpjRKAScuc"
+    },
+    {
+      "album": {
+        "name": "Ballin",
+        "url": "https://open.spotify.com/album/2UwETKmYuXkHwGmcwshk4r"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "NO:EL",
+          "url": "https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV"
+        },
+        {
+          "name": "ksmartboi",
+          "url": "https://open.spotify.com/artist/6iBjPtCEGarFwpdJUc39P9"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Ballin (Feat. Kid Milli, NO:EL, Ksmartboi, Swings)",
+      "url": "https://open.spotify.com/track/39k6Kd9PcgJMkc4DRRztuq"
     },
     {
       "album": {
@@ -12106,7 +12140,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 186948,
       "name": "High Fashion",
       "url": "https://open.spotify.com/track/1M8HfC4Ei6MlBtClnpLL9O"
@@ -12284,7 +12318,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 144927,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/2jUITID8goI2I5TcrJOzFm"
@@ -12436,6 +12470,24 @@
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
+    },
+    {
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/7stFRSfnBnyVreO0HVfpkN"
+      },
+      "artists": [
+        {
+          "name": "Wuuslime",
+          "url": "https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/21ygWnft2tMm0yly3RVMIv"
     },
     {
       "album": {
@@ -14813,6 +14865,28 @@
     },
     {
       "album": {
+        "name": "KAWASAKI (with pH-1)",
+        "url": "https://open.spotify.com/album/1RXcebYRkziuEISb8Owebn"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131166,
+      "name": "KAWASAKI (with pH-1)",
+      "url": "https://open.spotify.com/track/0QZABM9f7qhxAeW88WmBSY"
+    },
+    {
+      "album": {
         "name": "KAZINO",
         "url": "https://open.spotify.com/album/1f9cws6SZ0iKoHrcmn39ZY"
       },
@@ -15510,6 +15584,24 @@
       "duration_ms": 219347,
       "name": "L&B (Feat. Street Baby)",
       "url": "https://open.spotify.com/track/3D8JDF9RR85PBzxW5JOj5X"
+    },
+    {
+      "album": {
+        "name": "Cheap Talk",
+        "url": "https://open.spotify.com/album/7s6s8lAo4ax8gjwynbPpd7"
+      },
+      "artists": [
+        {
+          "name": "99' Nasty Kidz",
+          "url": "https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "LA DI DA",
+      "url": "https://open.spotify.com/track/25GmkHJ7TadyVoIZ45l1tn"
     },
     {
       "album": {
@@ -16214,7 +16306,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 220653,
       "name": "Like A Second Life (Feat. twlv)",
       "url": "https://open.spotify.com/track/3Yt7tsQLNOcBR1Rx5B8ipZ"
@@ -31086,6 +31178,24 @@
       "duration_ms": 231533,
       "name": "White Night (Feat. Loco)",
       "url": "https://open.spotify.com/track/6Z3YqTeAPKrptw70GpHJiO"
+    },
+    {
+      "album": {
+        "name": "White Noise in Snow",
+        "url": "https://open.spotify.com/album/4jW6KfpkNhzAWixWhVJDqm"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/34G6XrnwsZ0UWfazsuMqCj"
     },
     {
       "album": {

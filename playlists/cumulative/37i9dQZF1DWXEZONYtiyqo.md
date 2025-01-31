@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Raluka
+> Cele mai noi hituri pop românești\. Cover: Andrei Ursu, Andra
 
-170 songs - 8 hr 4 min
+171 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Să Fii Tu](https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Să Fii Tu](https://open.spotify.com/album/6I4zfBx882UTwS6OtuC64X) | 3:20 | 2024-06-27 | 2024-11-22 |
 | [Să mai petrecem](https://open.spotify.com/track/3t4OzNLm3ZVgCE7W9cMUKk) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Să mai petrecem](https://open.spotify.com/album/1AS1ubdKWWlVhOSxBwB89F) | 3:03 | 2024-06-27 | 2024-09-20 |
 | [Să mă iubești](https://open.spotify.com/track/7vOicF7WjREmCSCyOeqjl4) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW), [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Să mă iubești](https://open.spotify.com/album/7e5mFgXK6KNMVSD6LeGIcF) | 3:16 | 2024-12-12 |  |
-| [Să mă las](https://open.spotify.com/track/1tH9L6HTHBgo6zJHY2TS2Q) | [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD), [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Să mă las](https://open.spotify.com/album/0D08LHoPbY4gpv8tu12ZN9) | 2:21 | 2025-01-09 |  |
+| [Să mă las](https://open.spotify.com/track/1tH9L6HTHBgo6zJHY2TS2Q) | [Bianca Tilici](https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD), [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Să mă las](https://open.spotify.com/album/0D08LHoPbY4gpv8tu12ZN9) | 2:21 | 2025-01-09 | 2025-01-31 |
 | [Să te iubeasca cineva](https://open.spotify.com/track/1rTuIL65PDHgTCAlmGY0jb) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Să te iubeasca cineva](https://open.spotify.com/album/3gELYpkcWHvRCf2knFCtw8) | 2:59 | 2024-08-22 | 2024-12-13 |
 | [TE IUBESC CUM POT](https://open.spotify.com/track/2XSD2EwPOUUHC2sN2NhLMo) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [TE IUBESC CUM POT](https://open.spotify.com/album/3yFMt8QjZkNuAtX3w8MLZi) | 2:16 | 2024-08-08 | 2024-10-11 |
 | [Te strig](https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Ioana Ignat \(Deluxe Version\)](https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra) | 3:23 | 2024-08-29 | 2024-11-15 |
@@ -174,6 +174,7 @@
 | [Viata Bate Filmul](https://open.spotify.com/track/6qvcJQ3csduILzGTvWDl9I) | [BiBi](https://open.spotify.com/artist/501jZ73SyTVmMX5oAPYwEX), [Antonio Pican](https://open.spotify.com/artist/151AdA8GTkchYAkB7bOvnv) | [Viata Bate Filmul](https://open.spotify.com/album/375My8DsXLTBLcAECbDpzl) | 3:17 | 2024-12-05 |  |
 | [Viitorul sună bine](https://open.spotify.com/track/3EMLxl3UmEUi27hkXcKLkZ) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Viitorul sună bine](https://open.spotify.com/album/3OqXA73LBp14vlaHRYuMTF) | 3:28 | 2024-10-10 |  |
 | [Vreau](https://open.spotify.com/track/6ghiYBEodEMT9PMWEmk2Lv) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo) | [Vreau](https://open.spotify.com/album/1CTnPDqSqReiVCcEv51RPs) | 2:59 | 2024-06-27 | 2024-11-22 |
+| [Zâmbește](https://open.spotify.com/track/0vT1xGO41auK3VyI65IldA) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Zâmbește](https://open.spotify.com/album/2No3D5XSNn3EGZ6SS38yfD) | 3:05 | 2025-01-30 |  |
 | [Înapoi](https://open.spotify.com/track/4AXb87kku5QFump60qvqQB) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Înapoi](https://open.spotify.com/album/6YmXmt0LGkF4zedlEdvJEK) | 2:09 | 2024-07-11 | 2024-08-02 |
 | [Încă Ne Iubim](https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Încă Ne Iubim](https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi) | 2:55 | 2024-09-26 |  |
 | [Între noi nu e gata](https://open.spotify.com/track/632eYdJlwLj2FJdTaQ90Gm) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Între noi nu e gata](https://open.spotify.com/album/4Qy8QGV7YmUQ8fuifu3wNl) | 2:07 | 2024-08-29 | 2024-10-25 |

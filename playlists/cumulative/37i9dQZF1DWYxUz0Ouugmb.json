@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Salma Salsabil",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Ashira Zamita",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -2633,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "Diari",
+        "url": "https://open.spotify.com/album/2ZmrmtY3uGgvDrLTtJ905D"
+      },
+      "artists": [
+        {
+          "name": "Ashira Zamita",
+          "url": "https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195830,
+      "name": "Pasrah",
+      "url": "https://open.spotify.com/track/3523JnlP8KkRDRZ5anwtmd"
+    },
+    {
+      "album": {
         "name": "Patah Hati",
         "url": "https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE"
       },
@@ -3670,6 +3688,28 @@
       "duration_ms": 241309,
       "name": "Tak Pernah Sendiri",
       "url": "https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o"
+    },
+    {
+      "album": {
+        "name": "Tak Satu Cerita",
+        "url": "https://open.spotify.com/album/3wcIIqXWuSAe0ULRsjpMpv"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Fadilah",
+          "url": "https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12"
+        },
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226220,
+      "name": "Tak Satu Cerita",
+      "url": "https://open.spotify.com/track/2Jp7oaFGIyaSV30pFoALV5"
     },
     {
       "album": {

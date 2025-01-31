@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Paky e Simba sulla cover della playlist con il top dello street rap italiano \u26d3\ufe0f",
+  "description": "RRARI DAL TACCO e Kid Yugi in cover della playlist con il top dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 162406,
       "name": "40 GRADI",
       "url": "https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 156017,
       "name": "500K",
       "url": "https://open.spotify.com/track/4oLUnSRNwFhnKj8TkSbCFp"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 165473,
       "name": "BIRKIN",
       "url": "https://open.spotify.com/track/6B1rZ1iSEPfR9yynbvCuxd"
@@ -3461,6 +3461,28 @@
     },
     {
       "album": {
+        "name": "CAZZI MIEI",
+        "url": "https://open.spotify.com/album/3LoUP5Q49gWKCfiPTLxy1h"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135319,
+      "name": "CAZZI MIEI",
+      "url": "https://open.spotify.com/track/6uFaYYmb5ngSlqLNxsBMzs"
+    },
+    {
+      "album": {
         "name": "CC B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/35TYvx8jmwIH4wFnQKytxs"
       },
@@ -3530,7 +3552,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 128000,
       "name": "Cerchio",
       "url": "https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M"
@@ -3898,6 +3920,40 @@
       "duration_ms": 195882,
       "name": "COCCO (feat. Touch\u00e8, 8blevrai)",
       "url": "https://open.spotify.com/track/0dal7CKBaE8gFFKAz5OpKj"
+    },
+    {
+      "album": {
+        "name": "FAME",
+        "url": "https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "Cocco24 (feat. Noyz Narcos, Tony Boy & Papa V)",
+      "url": "https://open.spotify.com/track/1DAt3ZNO7EC7XdmhShTiFT"
     },
     {
       "album": {
@@ -4356,6 +4412,32 @@
       "duration_ms": 195463,
       "name": "CP COMPANY",
       "url": "https://open.spotify.com/track/1qKTihNxQh2kSeuLjd3KAg"
+    },
+    {
+      "album": {
+        "name": "FAME",
+        "url": "https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159093,
+      "name": "Cucchiaino (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/1yUSmmIIpVSltxLWypbMKa"
     },
     {
       "album": {
@@ -5514,7 +5596,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 164375,
       "name": "FERRAGAMO",
       "url": "https://open.spotify.com/track/4UYYJ5KqDNzUnY0uNGUsDA"
@@ -5970,7 +6052,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 153381,
       "name": "G II",
       "url": "https://open.spotify.com/track/3HUPMluR4pzVtC1tVdcxlh"
@@ -6637,6 +6719,28 @@
     },
     {
       "album": {
+        "name": "HARDER (feat. Low-Red)",
+        "url": "https://open.spotify.com/album/14FuU4isEL7dte8A4GQNNc"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "HARDER (feat. Low-Red)",
+      "url": "https://open.spotify.com/track/5qLvcq1BMgwj5jMKuIYRGQ"
+    },
+    {
+      "album": {
         "name": "HASTA LA MUERTE",
         "url": "https://open.spotify.com/album/7BO0UzQeDgHK3g1rYcw4M5"
       },
@@ -7152,12 +7256,12 @@
           "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
         },
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
           "name": "FT Kings",
           "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
         }
       ],
       "date_added": "2025-01-23",
@@ -8742,7 +8846,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 150208,
       "name": "MARIN\u00c8 (feat. Kuremino & Sethu)",
       "url": "https://open.spotify.com/track/38BvK6W3ZhVYEwQvSQsXz5"
@@ -9558,7 +9662,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 139888,
       "name": "MOLLY ROSA",
       "url": "https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG"
@@ -12089,6 +12193,24 @@
     },
     {
       "album": {
+        "name": "RAP FACTS",
+        "url": "https://open.spotify.com/album/6A11BiESaweCo94GrU5q34"
+      },
+      "artists": [
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140204,
+      "name": "RAP FACTS",
+      "url": "https://open.spotify.com/track/0O5uhwAjeuwoX7kiEx7Yig"
+    },
+    {
+      "album": {
         "name": "Hustle Mixtape",
         "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
       },
@@ -13493,6 +13615,24 @@
     },
     {
       "album": {
+        "name": "STO FACENDO TRAP",
+        "url": "https://open.spotify.com/album/6X4u2aAlZiOBpFEs4ozned"
+      },
+      "artists": [
+        {
+          "name": "Mikush",
+          "url": "https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165633,
+      "name": "STO FACENDO TRAP",
+      "url": "https://open.spotify.com/track/6P3p6x8uW9W8fm6A62n2AK"
+    },
+    {
+      "album": {
         "name": "Sto Nella Zone",
         "url": "https://open.spotify.com/album/6VbHXyD1eZcvkE9VQgZnDa"
       },
@@ -14652,6 +14792,32 @@
       "duration_ms": 146776,
       "name": "TRISTE",
       "url": "https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL"
+    },
+    {
+      "album": {
+        "name": "Troppi (feat. Astro)",
+        "url": "https://open.spotify.com/album/6JTmYJ8d2lBlr7x7wghv5m"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "Troppi (feat. Astro)",
+      "url": "https://open.spotify.com/track/5AabVwiLE9u47nTZAaBuHK"
     },
     {
       "album": {

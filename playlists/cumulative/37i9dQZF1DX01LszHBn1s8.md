@@ -2,7 +2,7 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> all oscars to wicked 🏆
+> i'm too messy and then i'm too fucking clean 😵‍💫
 
 1,570 songs - 3 day 10 hr 46 min
 

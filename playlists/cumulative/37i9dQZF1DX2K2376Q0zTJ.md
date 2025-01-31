@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: ちゃんみな
 
-1,281 songs - 3 day 3 hr 29 min
+1,282 songs - 3 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [Need To Be Me](https://open.spotify.com/track/2Y4ePVrFQrjqN3ah1ODFPN) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [Need To Be Me](https://open.spotify.com/album/351BykOMNlNSarjsRIPYHH) | 3:00 | 2022-08-02 | 2022-09-07 |
 | [Nemotown](https://open.spotify.com/track/7kl7M8K6SKirDJ45KrgAmA) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Kono Taikutsu na Hibi o/Nemotown](https://open.spotify.com/album/3f63tbFjEyZVErqEqHp6t3) | 3:34 | 2023-11-07 | 2023-11-30 |
 | [NEO KAWAII, K?](https://open.spotify.com/track/1XpMbiTtDGFFcA6fyvZm8Y) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:34 | 2023-11-07 | 2024-02-07 |
-| [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 | 2024-03-05 |  |
+| [Never Grow Up](https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:16 | 2024-03-05 | 2025-01-31 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-04-04 | 2023-08-02 |
 | [New Bugatti](https://open.spotify.com/track/5idIfXhZUtKgCBgH6JuAvD) | [A.Y.A](https://open.spotify.com/artist/4OZ4FDPU8MWXKAZgmijgML), [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [Uncured](https://open.spotify.com/album/6IwmmznQoHJW4nZk8wdlvP) | 3:07 | 2021-11-30 | 2022-01-05 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-09-05 | 2023-11-08 |
@@ -596,6 +596,7 @@
 | [Out of the Race](https://open.spotify.com/track/2SY1oH2Q6edfYgZQLiTmdn) | [A.Y.A](https://open.spotify.com/artist/4OZ4FDPU8MWXKAZgmijgML) | [Out of the Race](https://open.spotify.com/album/1ssGCVagwRCAsIejdZb0eL) | 1:49 | 2021-11-30 | 2022-01-05 |
 | [O・La](https://open.spotify.com/track/0fG9lay0PuGHNFiAqsOVKO) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [O・La](https://open.spotify.com/album/3O8XfocJyV7jqHH32cfNaO) | 4:04 | 2022-05-31 | 2022-07-06 |
 | [PaBodance](https://open.spotify.com/track/2eRVlfWFfFGpP5cD5B8QBG) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [PaBodance](https://open.spotify.com/album/2f51s4uASsODPGA8AfUXJ8) | 2:54 | 2021-11-30 | 2022-01-05 |
+| [PAIN IS BEAUTY](https://open.spotify.com/track/7Bc96fVAoMggWutAjjb1fG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Never Grow Up](https://open.spotify.com/album/5b4nK135Z5T9Z62k7804LH) | 3:55 | 2025-01-30 |  |
 | [Pakara!](https://open.spotify.com/track/1BV15jLRBn2yVl3BD4cmI6) | [lyrical school](https://open.spotify.com/artist/6V7cWMccRQEiOWSqygWYeK) | [PLAYBACK SUMMER ver.1.3](https://open.spotify.com/album/0WKDX7uZoAcd6K1Q7mAmpx) | 3:17 | 2022-09-06 | 2022-10-05 |
 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 | 2022-07-05 | 2022-08-03 |
 | [PARDON?](https://open.spotify.com/track/0Cn3Rj7pulsMPBujBICy6F) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/5jMq8144QUTyhsSOAh8cTS) | 1:45 | 2022-05-04 | 2022-06-01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  XRS",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  Hatemost, Mikros Kleftis, V!",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 193894,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/04QQKADf45xNvlgJHC9nvO"
@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "FETIX",
+        "url": "https://open.spotify.com/album/0MJLiwidFMsh0VrIujksn7"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "FETIX",
+      "url": "https://open.spotify.com/track/6pLi4EGcJvdOWBBQ9fDV0e"
+    },
+    {
+      "album": {
         "name": "FLASH",
         "url": "https://open.spotify.com/album/5EAYWsvFcf1kj8hwZhySRb"
       },
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 173073,
       "name": "George Conte",
       "url": "https://open.spotify.com/track/6n8dCTR2PnbHacXYNquNjl"
@@ -2915,6 +2933,36 @@
     },
     {
       "album": {
+        "name": "Public Enemy (Deluxe)",
+        "url": "https://open.spotify.com/album/75hLPqCeHHV6evd9TVU9zS"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        },
+        {
+          "name": "AR-AB",
+          "url": "https://open.spotify.com/artist/22PN8q6f33B3WpZI7u6CbG"
+        },
+        {
+          "name": "Asok",
+          "url": "https://open.spotify.com/artist/5GLyN514qWTEIIccOyji0A"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140947,
+      "name": "Jelly",
+      "url": "https://open.spotify.com/track/2bcgX04GvadeZcjljz71U6"
+    },
+    {
+      "album": {
         "name": "Kako Paradeigma",
         "url": "https://open.spotify.com/album/3gDwiYECE18IU837VgU94J"
       },
@@ -3080,10 +3128,36 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 189600,
       "name": "KIDNAP",
       "url": "https://open.spotify.com/track/7JAmKxSw8aovGqKd7cesyM"
+    },
+    {
+      "album": {
+        "name": "CR3AM T3AM",
+        "url": "https://open.spotify.com/album/79orVjEStHd1MvmlIoAblg"
+      },
+      "artists": [
+        {
+          "name": "Hatemost",
+          "url": "https://open.spotify.com/artist/39MSMcTSVkk9Wy5X1Dozwp"
+        },
+        {
+          "name": "Mikros Kleftis",
+          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
+        },
+        {
+          "name": "V!",
+          "url": "https://open.spotify.com/artist/1H6gYizIw7htv6eh5invu8"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206456,
+      "name": "KIDZ",
+      "url": "https://open.spotify.com/track/57hed1bK9SxLI5rYnq5MZw"
     },
     {
       "album": {
@@ -3596,6 +3670,32 @@
       "duration_ms": 167700,
       "name": "Maneken",
       "url": "https://open.spotify.com/track/6oGssWvyBvFi3OpUDZVUB5"
+    },
+    {
+      "album": {
+        "name": "MANSON",
+        "url": "https://open.spotify.com/album/7xvvdbJMMemW3p8CMnwwl3"
+      },
+      "artists": [
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
+        },
+        {
+          "name": "Jitano",
+          "url": "https://open.spotify.com/artist/3xmY7evutapMbhcZva0xkn"
+        },
+        {
+          "name": "Sifis",
+          "url": "https://open.spotify.com/artist/66Ax8CVFDxx5YUmAmmENu5"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "MANSON",
+      "url": "https://open.spotify.com/track/3UU13z0oR1eJyxQZhGN18m"
     },
     {
       "album": {
@@ -4128,7 +4228,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 172800,
       "name": "Normal",
       "url": "https://open.spotify.com/track/766qL8sOkmsPswhAiOzrRC"
@@ -4796,7 +4896,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 119263,
       "name": "POSOSTA",
       "url": "https://open.spotify.com/track/21FXtFiJkX1D5V25s5WK73"
@@ -4844,6 +4944,28 @@
       "duration_ms": 183157,
       "name": "PROSTIMA",
       "url": "https://open.spotify.com/track/3xoWJugSEszMJ96TKiFJIh"
+    },
+    {
+      "album": {
+        "name": "PROVLIMA",
+        "url": "https://open.spotify.com/album/2ngKCXVcb91BUtV172sMLJ"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "PROVLIMA",
+      "url": "https://open.spotify.com/track/539dzbXamyNpK1LA9LMWdW"
     },
     {
       "album": {
@@ -4992,6 +5114,28 @@
       "duration_ms": 200000,
       "name": "Raygun",
       "url": "https://open.spotify.com/track/63le3ZNmJpP8V5hCdqasSr"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/0BKEnAlldsNigo9W243XUw"
+      },
+      "artists": [
+        {
+          "name": "Mario Kush",
+          "url": "https://open.spotify.com/artist/1o9oGVl9x0NWqJMrfti1rq"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3S3qCrf9xJNfgYDh6Iax8o"
     },
     {
       "album": {
@@ -5414,7 +5558,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 116571,
       "name": "Sto Party",
       "url": "https://open.spotify.com/track/4JbEduRL9RzDadvvakaCq8"
@@ -5716,7 +5860,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 164265,
       "name": "TMC",
       "url": "https://open.spotify.com/track/3SHWhHNbN985xOYOsjBncJ"
@@ -6304,6 +6448,24 @@
       "duration_ms": 96243,
       "name": "XRISOS",
       "url": "https://open.spotify.com/track/4bnx03kz0ZUQ8wKIHj1M3f"
+    },
+    {
+      "album": {
+        "name": "YAKUZA",
+        "url": "https://open.spotify.com/album/5Fg57fKxPGYkTeYL71hgoi"
+      },
+      "artists": [
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139870,
+      "name": "YAKUZA",
+      "url": "https://open.spotify.com/track/0ncPhTF1zz7YWtV44K1zY5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Ambient and percussion to move the body and heal the soul.
 
-148 songs - 8 hr 5 min
+150 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Enjoy African Sun](https://open.spotify.com/track/4dEzopSuO0YrBQ7A9fzcZu) | [Mysterious World Music](https://open.spotify.com/artist/1M25cy1w92G4Sf3Xnjogki) | [African Dance: Traditional Drums Music](https://open.spotify.com/album/4iyuNvRNniCwhh3oolXQ31) | 3:48 | 2022-05-26 | 2024-09-20 |
 | [Espejos](https://open.spotify.com/track/784ubxHoYpDpUEQc8d69oP) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Fugaces II](https://open.spotify.com/album/1KWOCiqjUpYRjP5vGFziZe) | 3:19 | 2022-05-26 | 2024-08-22 |
 | [Essence of Life](https://open.spotify.com/track/63y6PepwrdwXegkLQSZj91) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [African Zen \- Spiritual Experience, Harmony & Balance, Healing Meditation, Tribal Soul, Relaxing Ethnic Music](https://open.spotify.com/album/69dYZP5IHROiw5tAhxMOzs) | 3:29 | 2022-05-26 | 2024-09-20 |
+| [Eternity Present](https://open.spotify.com/track/6cbiH9ayUzdB3AZsO9GdNs) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Lotus River](https://open.spotify.com/album/1E6wsfpKLEbiDmd5j3ea0b) | 2:30 | 2025-01-30 |  |
 | [Ethnic Sounds for Relaxation Therapy](https://open.spotify.com/track/06HSF17B09XBUXMmErI6x3) | [Sound Therapy Revolution](https://open.spotify.com/artist/2s7e38wOIyFHzTRnMLH3QJ) | [African Music and Sun Energy: Insomnia Healing and Anxiety Symptoms with New Age Music Therapy](https://open.spotify.com/album/2fWii6GXDFVFuaJITHaik5) | 5:24 | 2022-05-26 | 2024-08-22 |
 | [Exploration](https://open.spotify.com/track/1r4ZJZtYc26u54jIgOhlbM) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Exploration](https://open.spotify.com/album/3u4416QBy5zLXb5Okw0qnC) | 2:49 | 2024-02-17 |  |
 | [Finding Yourself](https://open.spotify.com/track/0am5MUkNemEW7Qg2rHHUgL) | [Sacral Chakra Universe](https://open.spotify.com/artist/2gAgKO7EJvvO3GthZ6VuJA) | [Mystical Spiritual Journey: Shamanic World, Sacral Dance, Native Flute & Drums, Discovery of New Senses, Deep Meditation, Shamanic Chants](https://open.spotify.com/album/25wFtxwlz5Dx0DGl0NFFHP) | 3:22 | 2022-05-26 | 2022-07-09 |
@@ -93,6 +94,7 @@
 | [Morning flow](https://open.spotify.com/track/5abLxfl7Yrfv3RnKx0zf0g) | [Tin Shui](https://open.spotify.com/artist/5hSVBR00vPBcQuAfvY1sZs) | [Morning flow](https://open.spotify.com/album/2yddrC2yfvY7AcD9gtsqHu) | 2:29 | 2024-06-11 |  |
 | [Morning Love](https://open.spotify.com/track/4R83pqkJdJjWTeNRZ7tatQ) | [Tantra Healing Paradise](https://open.spotify.com/artist/18AjIEO4HRSbvIsseptkUo) | [African Tantra \- Love Rituals, Ethnic Chants for Fertility, Exotic Healing, Erotic Tribal Drums](https://open.spotify.com/album/1JWVLkcogCHiLyiTXztqIx) | 3:31 | 2022-05-26 | 2024-11-15 |
 | [Muon](https://open.spotify.com/track/32ixWlZj670PuS7R4YhNEa) | [Lonely Roads](https://open.spotify.com/artist/4nQMRc0j45XcB0g0SioPw5) | [Muon](https://open.spotify.com/album/5Lp42dVspU4w75MdHR9dF5) | 2:40 | 2022-05-26 |  |
+| [Nirmal](https://open.spotify.com/track/73sksFmJyTHnjnHTDAoTrU) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Nirmal](https://open.spotify.com/album/1viztqNgbQ3xO8ALlvMf2Y) | 2:44 | 2025-01-30 |  |
 | [Nuptse Deep Trance](https://open.spotify.com/track/0tGdkHSQ1BlXrGhsP4YrEi) | [Sharp Sherpas](https://open.spotify.com/artist/5r9svDa5Rt0haSeGAuwSbJ) | [Himalayan Beat Meditation](https://open.spotify.com/album/4XtmTuLPZAgLrnnN3Dr8wS) | 2:02 | 2022-05-26 |  |
 | [Ocean](https://open.spotify.com/track/7sxjVl3UEVtdahOAtDDzTB) | [ZoneMan](https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E) | [Ocean](https://open.spotify.com/album/0BeA6VrvtxXYhAzoPBMcll) | 2:02 | 2023-05-26 |  |
 | [Pan Serenade](https://open.spotify.com/track/26hAV8CJvMK58Gdvve3vyx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Pan Serenade](https://open.spotify.com/album/2YNQuawkFrWf9Fittz8cIq) | 3:34 | 2022-05-26 | 2023-07-15 |

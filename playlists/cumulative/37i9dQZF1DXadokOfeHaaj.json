@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "The best new indie dance music. Cover: Jungle",
-  "name": "Indie Dancefloor",
+  "description": "The best new electronic indie music. Cover: ANOTR",
+  "name": "Indie Electronic ",
   "tracks": [
     {
       "album": {
@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "A Tear in Space (Airlock) [Jakwob Remix]",
+        "url": "https://open.spotify.com/album/5ZNT8qG7vVoAhqRTsgXwSZ"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        },
+        {
+          "name": "Jakwob",
+          "url": "https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231325,
+      "name": "A Tear in Space (Airlock) - Jakwob Remix",
+      "url": "https://open.spotify.com/track/4mWWykOrKwI2lBIrYUzDKX"
+    },
+    {
+      "album": {
         "name": "ABOMINATION",
         "url": "https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr"
       },
@@ -396,6 +418,28 @@
       "duration_ms": 123142,
       "name": "Angeles",
       "url": "https://open.spotify.com/track/0QNLboKNg60M1PmEBFoY6k"
+    },
+    {
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/3VSG0SB1fHnLOMt4zjbA6d"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187839,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/1yC1hDCkGjI17vwrkb7No8"
     },
     {
       "album": {
@@ -1151,6 +1195,32 @@
     },
     {
       "album": {
+        "name": "On A Trip",
+        "url": "https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Cimafunk",
+          "url": "https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe"
+        },
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197799,
+      "name": "Currency (Count On Me) (ft Cimafunk and PAM\u00c9)",
+      "url": "https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS"
+    },
+    {
+      "album": {
         "name": "cyanotype memories (joe goddard remix)",
         "url": "https://open.spotify.com/album/5AUpxQhx2aZmUdHc3DQKx8"
       },
@@ -1250,7 +1320,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 212613,
       "name": "dark days",
       "url": "https://open.spotify.com/track/6tbsEeUjRCGhYllV6cEBGA"
@@ -1392,6 +1462,24 @@
       "duration_ms": 376000,
       "name": "Doctor Doctor - The English Gentlemen Remix",
       "url": "https://open.spotify.com/track/0ksagd1vULVKoXgpw9rPiL"
+    },
+    {
+      "album": {
+        "name": "Don't Try This At Home",
+        "url": "https://open.spotify.com/album/2piM4Hh6vF1EMobLn92bqq"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213237,
+      "name": "Don't Try This At Home",
+      "url": "https://open.spotify.com/track/4MtZ981NhMVxXCwu6hdwyA"
     },
     {
       "album": {
@@ -1748,6 +1836,24 @@
       "duration_ms": 600250,
       "name": "getforward",
       "url": "https://open.spotify.com/track/1FT8VzkSDfH90Dc9XxjbEL"
+    },
+    {
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/7mDcWtWBE3ktQFtmGFb9ID"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "Girl Feels Good",
+      "url": "https://open.spotify.com/track/5KzjHp1pHPVaLeluTLiUZ4"
     },
     {
       "album": {
@@ -2739,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278379,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
+    },
+    {
+      "album": {
         "name": "LOVE MIGHT MAKE ME BETTER",
         "url": "https://open.spotify.com/album/71H9vgQ8l9mvltuvLREHQQ"
       },
@@ -2984,6 +3112,28 @@
       "duration_ms": 272093,
       "name": "Mr Blue",
       "url": "https://open.spotify.com/track/2PFM2HeWNP1omytVmtq9PQ"
+    },
+    {
+      "album": {
+        "name": "Mystic Pebble (Mood Talk Remix)",
+        "url": "https://open.spotify.com/album/0eG1bYIW4MsFyI7XIOdYc9"
+      },
+      "artists": [
+        {
+          "name": "Gilligan Moss",
+          "url": "https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB"
+        },
+        {
+          "name": "Mood Talk",
+          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252405,
+      "name": "Mystic Pebble - Mood Talk Remix",
+      "url": "https://open.spotify.com/track/5ayUGL4gx4ntTUOi9e8dgv"
     },
     {
       "album": {
@@ -3352,6 +3502,28 @@
       "duration_ms": 249905,
       "name": "OVERFLOW",
       "url": "https://open.spotify.com/track/3VYdCYG5hgqBlHnjKBMW9U"
+    },
+    {
+      "album": {
+        "name": "Hallucinating Love",
+        "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210994,
+      "name": "Peace Talk",
+      "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
     },
     {
       "album": {
@@ -4063,6 +4235,24 @@
     },
     {
       "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225231,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS"
+    },
+    {
+      "album": {
         "name": "SPEAKING OUT LOUD",
         "url": "https://open.spotify.com/album/5uO8W71W2Zabn4wBtC7d5o"
       },
@@ -4180,6 +4370,28 @@
       "duration_ms": 204533,
       "name": "Stranger's Town",
       "url": "https://open.spotify.com/track/5rrHJRGmkHUOQ3Wz25ESUF"
+    },
+    {
+      "album": {
+        "name": "SWEET (feat. Biig Piig)",
+        "url": "https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176098,
+      "name": "SWEET (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql"
     },
     {
       "album": {
@@ -4720,6 +4932,28 @@
       "duration_ms": 218740,
       "name": "U",
       "url": "https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG"
+    },
+    {
+      "album": {
+        "name": "u told me",
+        "url": "https://open.spotify.com/album/7wwvgEMy1YFm66dRklYZcz"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        },
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172613,
+      "name": "u told me",
+      "url": "https://open.spotify.com/track/3LRjxc6kt4MGoqGulI6ZhT"
     },
     {
       "album": {

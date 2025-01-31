@@ -1,28 +1,28 @@
 {
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH?si=MxfStGQUTy6XSzjQgCyQXA\">Kayla The Crow</a>",
-  "num_followers": 21904,
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=SJQ223U4QNqhwtvGvFVzbg\">Francois van Coke</a>",
+  "num_followers": 21942,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5K8AQAAAAD4eoX+uIr68d9xdCxXaxS6",
+  "snapshot_id": "Z5v2gwAAAABiUgkaFaqR5fQX/dsAwOP4",
   "tracks": [
     {
-      "added_at": "2025-01-23 22:00:33",
+      "added_at": "2025-01-30 22:00:35",
       "album": {
-        "name": "Sunrise on the River",
-        "url": "https://open.spotify.com/album/51994iHGJIquxFw7z1fveh"
+        "name": "Gelukkige Lewe",
+        "url": "https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE"
       },
       "artists": [
         {
-          "name": "Kayla The Crow",
-          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
         }
       ],
-      "duration_ms": 169285,
-      "name": "Sunrise on the River",
-      "url": "https://open.spotify.com/track/7oCGTx3dpnXb7neSD4lKeA"
+      "duration_ms": 168845,
+      "name": "Gelukkige Lewe",
+      "url": "https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO"
     },
     {
       "added_at": "2025-01-23 22:00:33",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
     },
     {
+      "added_at": "2025-01-30 22:00:35",
+      "album": {
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/255Lyxk76R1zDL4Pmz9fgw"
+      },
+      "artists": [
+        {
+          "name": "Thabo Krouwkam",
+          "url": "https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/6Z4t8EpkoTOagQ8BuCRArF"
+    },
+    {
       "added_at": "2025-01-23 22:00:33",
       "album": {
         "name": "People Change",
@@ -55,6 +71,22 @@
       "duration_ms": 206491,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x"
+    },
+    {
+      "added_at": "2025-01-23 22:00:33",
+      "album": {
+        "name": "Sunrise on the River",
+        "url": "https://open.spotify.com/album/51994iHGJIquxFw7z1fveh"
+      },
+      "artists": [
+        {
+          "name": "Kayla The Crow",
+          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "Sunrise on the River",
+      "url": "https://open.spotify.com/track/7oCGTx3dpnXb7neSD4lKeA"
     },
     {
       "added_at": "2025-01-23 22:00:33",
@@ -109,20 +141,36 @@
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
-      "added_at": "2025-01-23 22:00:33",
+      "added_at": "2025-01-30 22:00:35",
       "album": {
-        "name": "Walking",
-        "url": "https://open.spotify.com/album/1C6fA2HwKexJ5wV2bXOmua"
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g"
       },
       "artists": [
         {
-          "name": "Tyran Roy",
-          "url": "https://open.spotify.com/artist/2p6HLFF5VnxaOEUwDNh7VF"
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
         }
       ],
-      "duration_ms": 236866,
-      "name": "Walking",
-      "url": "https://open.spotify.com/track/0FwEcDBaCxjzZWhp1LY4Oo"
+      "duration_ms": 228804,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
+    },
+    {
+      "added_at": "2025-01-23 22:00:33",
+      "album": {
+        "name": "Groovie Ghoulie",
+        "url": "https://open.spotify.com/album/2K6cfdKCxGEaqEPjEWM9da"
+      },
+      "artists": [
+        {
+          "name": "Kryye",
+          "url": "https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN"
+        }
+      ],
+      "duration_ms": 116953,
+      "name": "Groovie Ghoulie",
+      "url": "https://open.spotify.com/track/232Kx7dAGasjWUZ7ZA3Cgp"
     },
     {
       "added_at": "2025-01-23 22:00:33",
@@ -159,18 +207,18 @@
     {
       "added_at": "2025-01-23 22:00:33",
       "album": {
-        "name": "Groovie Ghoulie",
-        "url": "https://open.spotify.com/album/2K6cfdKCxGEaqEPjEWM9da"
+        "name": "Walking",
+        "url": "https://open.spotify.com/album/1C6fA2HwKexJ5wV2bXOmua"
       },
       "artists": [
         {
-          "name": "Kryye",
-          "url": "https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN"
+          "name": "Tyran Roy",
+          "url": "https://open.spotify.com/artist/2p6HLFF5VnxaOEUwDNh7VF"
         }
       ],
-      "duration_ms": 116953,
-      "name": "Groovie Ghoulie",
-      "url": "https://open.spotify.com/track/232Kx7dAGasjWUZ7ZA3Cgp"
+      "duration_ms": 236866,
+      "name": "Walking",
+      "url": "https://open.spotify.com/track/0FwEcDBaCxjzZWhp1LY4Oo"
     },
     {
       "added_at": "2025-01-23 22:00:33",
@@ -189,6 +237,22 @@
       "url": "https://open.spotify.com/track/5xO82P7iaRC0LoUc2pz21l"
     },
     {
+      "added_at": "2025-01-30 22:00:35",
+      "album": {
+        "name": "No Surprise",
+        "url": "https://open.spotify.com/album/3OyIklItWcl0kumd7mrpXr"
+      },
+      "artists": [
+        {
+          "name": "Likkewaan",
+          "url": "https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/1L7JDJ5604RkYN2k3czATE"
+    },
+    {
       "added_at": "2025-01-23 22:00:33",
       "album": {
         "name": "Another Universe",
@@ -205,6 +269,22 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
+      "added_at": "2025-01-30 22:00:35",
+      "album": {
+        "name": "Die Sterre Binne Jou",
+        "url": "https://open.spotify.com/album/2LfoCD0e6F2enqGZAhSzIE"
+      },
+      "artists": [
+        {
+          "name": "Saarkie",
+          "url": "https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Die Sterre Binne Jou",
+      "url": "https://open.spotify.com/track/0SASpYNg8wXAzljJNVkTuv"
+    },
+    {
       "added_at": "2025-01-23 22:00:33",
       "album": {
         "name": "Die Brug",
@@ -219,6 +299,22 @@
       "duration_ms": 210000,
       "name": "Die Brug",
       "url": "https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj"
+    },
+    {
+      "added_at": "2025-01-30 22:00:35",
+      "album": {
+        "name": "Saterdag Is Nog 'n Dag (Radio Edit)",
+        "url": "https://open.spotify.com/album/4BVIp3kb1NsT2jkgtTsTp2"
+      },
+      "artists": [
+        {
+          "name": "Saterdag Vanaand",
+          "url": "https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc"
+        }
+      ],
+      "duration_ms": 179741,
+      "name": "Saterdag Is Nog 'n Dag (Radio Edit)",
+      "url": "https://open.spotify.com/track/0haSFu3gTeYMY2xvHZDslQ"
     },
     {
       "added_at": "2025-01-23 22:00:33",
@@ -271,6 +367,38 @@
     {
       "added_at": "2025-01-23 22:00:33",
       "album": {
+        "name": "Fok Jou",
+        "url": "https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Fok Jou",
+      "url": "https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN"
+    },
+    {
+      "added_at": "2025-01-23 22:00:33",
+      "album": {
+        "name": "Jou Tyd Is Nou",
+        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 194142,
+      "name": "Jou Tyd Is Nou",
+      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "added_at": "2025-01-23 22:00:33",
+      "album": {
         "name": "Surpass The Power",
         "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
       },
@@ -303,22 +431,6 @@
     {
       "added_at": "2025-01-23 22:00:33",
       "album": {
-        "name": "Fok Jou",
-        "url": "https://open.spotify.com/album/6TlCuwtOBbYPRjktVIKscV"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Fok Jou",
-      "url": "https://open.spotify.com/track/3gjE2fU1aAjumf4SKEZTTN"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
         "name": "Berge",
         "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
       },
@@ -347,22 +459,6 @@
       "duration_ms": 142286,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/3uOZkdmwQrQfNL8m356V5q"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
-        "name": "Jou Tyd Is Nou",
-        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "Jou Tyd Is Nou",
-      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
     },
     {
       "added_at": "2025-01-23 22:00:33",
@@ -591,22 +687,6 @@
     {
       "added_at": "2025-01-23 22:00:33",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn"
-      },
-      "artists": [
-        {
-          "name": "Coenie Naude",
-          "url": "https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF"
-        }
-      ],
-      "duration_ms": 156121,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
         "name": "Dans Deur Die Donker",
         "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
       },
@@ -619,6 +699,22 @@
       "duration_ms": 182589,
       "name": "Dans Deur Die Donker",
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
+    },
+    {
+      "added_at": "2025-01-23 22:00:33",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/07s9Ut88jaHYGMSEwEDuEn"
+      },
+      "artists": [
+        {
+          "name": "Coenie Naude",
+          "url": "https://open.spotify.com/artist/6XNhIqAENeuAS9mfdNA1eF"
+        }
+      ],
+      "duration_ms": 156121,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0CAXcJHh0gGnzfHhnCsjVi"
     },
     {
       "added_at": "2025-01-23 22:00:33",
@@ -687,22 +783,6 @@
     {
       "added_at": "2025-01-23 22:00:33",
       "album": {
-        "name": "All Comes Round 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X"
-      },
-      "artists": [
-        {
-          "name": "Just Jinger",
-          "url": "https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Like You Madly",
-      "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
         "name": "ur so beautiful",
         "url": "https://open.spotify.com/album/6hnYGFbVJlFJjfT8roJeCm"
       },
@@ -723,102 +803,18 @@
     {
       "added_at": "2025-01-23 22:00:33",
       "album": {
-        "name": "Long Live Tonight",
-        "url": "https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo"
+        "name": "All Comes Round 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X"
       },
       "artists": [
         {
-          "name": "CrashCarBurn",
-          "url": "https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC"
+          "name": "Just Jinger",
+          "url": "https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo"
         }
       ],
-      "duration_ms": 244333,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
-        "name": "Original Nightmare",
-        "url": "https://open.spotify.com/album/3KHIlZiFKJZH1CQ8XRvXcr"
-      },
-      "artists": [
-        {
-          "name": "Whitecollar",
-          "url": "https://open.spotify.com/artist/41GHjsofgg86ArV6bA798Q"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Original Nightmare",
-      "url": "https://open.spotify.com/track/23qhzLlc5M9A6nH7Gd4Tt5"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
-        "name": "Aangenaam",
-        "url": "https://open.spotify.com/album/7fcYzRPTd0fOGxPwbuzBB5"
-      },
-      "artists": [
-        {
-          "name": "Dawid de Koning en die Kommuniste",
-          "url": "https://open.spotify.com/artist/3e1L6NN9GvUjXIoG50dsN2"
-        }
-      ],
-      "duration_ms": 237687,
-      "name": "Bakers Mini Krieket",
-      "url": "https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
-        "name": "Die gids vir grootword",
-        "url": "https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU"
-      },
-      "artists": [
-        {
-          "name": "Dans Dans Lisa",
-          "url": "https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "My Ek(skuus)",
-      "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
-        "name": "Crumble",
-        "url": "https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2"
-      },
-      "artists": [
-        {
-          "name": "an00k",
-          "url": "https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB"
-        },
-        {
-          "name": "Lev UFO",
-          "url": "https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb"
-        }
-      ],
-      "duration_ms": 161091,
-      "name": "Crumble",
-      "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
-    },
-    {
-      "added_at": "2025-01-23 22:00:33",
-      "album": {
-        "name": "Penny Sleeps",
-        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174974,
-      "name": "Penny Sleeps",
-      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
+      "duration_ms": 216533,
+      "name": "Like You Madly",
+      "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
     }
   ],
   "unique_name": "SA Rock ",

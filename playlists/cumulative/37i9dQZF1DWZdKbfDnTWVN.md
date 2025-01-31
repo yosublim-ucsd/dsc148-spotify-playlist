@@ -2,9 +2,9 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=Mqh0sB44Qk2pfbu7iBX7rQ"> Wakadinali</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=Mqh0sB44Qk2pfbu7iBX7rQ"> Boutross</a>
 
-283 songs - 14 hr 44 min
+284 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AC Milan](https://open.spotify.com/track/1QlHg2lCPjSBScMEnBNzA9) | [Beni B](https://open.spotify.com/artist/6EpoazFj4SFu6uVwZnOCiT) | [BRILL](https://open.spotify.com/album/12SXT9ZmInfyrQhtXzNLO5) | 2:15 | 2022-10-13 | 2023-08-26 |
 | [ACHA ZITOKE](https://open.spotify.com/track/4zJAW0hFAidCOUp6qXEfui) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [King Kaka](https://open.spotify.com/artist/6VZzVqoatJfcQq8n2Z7rwa) | [ACHA ZITOKE](https://open.spotify.com/album/0hrzxl3fUjtlFoMM3GyA3C) | 4:17 | 2024-10-25 |  |
 | [After Hours at Snowball Episode 001](https://open.spotify.com/track/2SbDMuwzjoWL9prDUjcg6n) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [After Hours at Snowball Episode 001](https://open.spotify.com/album/2BoA5Ef4dwNqdYhN1nPBPs) | 2:02 | 2022-09-29 | 2023-04-07 |
+| [Again](https://open.spotify.com/track/1TiwHw88BPmu3tSCO5fmhh) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Again](https://open.spotify.com/album/6EjNFGIPpTTKTIOqFt6U2t) | 3:08 | 2025-01-30 |  |
 | [Aih Maria](https://open.spotify.com/track/0iVU7CCX8PbJcE6JnmAFWo) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7) | [Aih Maria](https://open.spotify.com/album/6PWFocnXFRIzDAokwppdlu) | 4:10 | 2022-09-08 | 2022-10-28 |
 | [All of That](https://open.spotify.com/track/2LRw8JPGlBgNSpI6EtF27p) | [Alma Ras](https://open.spotify.com/artist/6Pxg2gGOy1rDZJIeiEmsLp), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [All of That](https://open.spotify.com/album/7nfbXw2EV9Cm6z4qHTVZSi) | 3:29 | 2022-11-10 | 2023-10-07 |
 | [ATTENTION](https://open.spotify.com/track/6ez0JhtiRFzmBej1FBiU2S) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [The Renaissance Man](https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi) | [ATTENTION](https://open.spotify.com/album/4n52Tqi6oeQ6ernLccrz2D) | 2:08 | 2023-04-20 | 2023-09-02 |
@@ -240,7 +241,7 @@
 | [Starshine](https://open.spotify.com/track/7JR3NMwh6rLIosFhFtatEF) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Starshine](https://open.spotify.com/album/3reSPpvFtvYOIzMN0S8GC3) | 3:06 | 2023-08-17 | 2024-10-04 |
 | [Stima](https://open.spotify.com/track/0vcmgcZDVjYrLPqaLrsaVt) | [Smarta Official](https://open.spotify.com/artist/28FKjb7uHEtVQk6exPWR6U) | [Stima](https://open.spotify.com/album/498bYTJW35NAlCTKnzBrui) | 2:38 | 2025-01-17 |  |
 | [Straight](https://open.spotify.com/track/3x7cttdh0E6vixwK9H1TFR) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [The Groovy Way \(Deluxe Edition\)](https://open.spotify.com/album/5nL0qU3S4qqYkIoZeyl4m9) | 2:33 | 2022-06-30 | 2022-10-14 |
-| [Stupid](https://open.spotify.com/track/5itPp7vwbbObaeYETYTonq) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Stupid](https://open.spotify.com/album/5hY6eS9rOtoahRhOzQqO5a) | 3:48 | 2023-09-07 |  |
+| [Stupid](https://open.spotify.com/track/5itPp7vwbbObaeYETYTonq) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Stupid](https://open.spotify.com/album/5hY6eS9rOtoahRhOzQqO5a) | 3:48 | 2023-09-07 | 2025-01-31 |
 | [STYLISTIC](https://open.spotify.com/track/4bYlN2c4w0PcAkCYdt8of2) | [Wahenga](https://open.spotify.com/artist/0ITJFZNAAHPuuH8d8jjyqA), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [STYLISTIC](https://open.spotify.com/album/7zYgzGRQIBYsCuS7VtB4oL) | 3:14 | 2024-10-11 |  |
 | [Sue me](https://open.spotify.com/track/3DgYLpiHk6MYE8PET6VlJB) | [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr), [Korb$](https://open.spotify.com/artist/5cG5xPX9IGkJqah9F3IFC5) | [Uptown Chokoraa](https://open.spotify.com/album/6HA8OwSGgnbqhr0Hiy6zZm) | 2:50 | 2023-07-07 | 2024-03-01 |
 | [Suluhu](https://open.spotify.com/track/5rjQ4OPzr17HCT6twZ0NAE) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Suluhu](https://open.spotify.com/album/47zlUL4ZroYapgxprNKyzs) | 2:25 | 2023-09-11 | 2024-04-26 |

@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with traditional sounds of India.
 
-176 songs - 11 hr 29 min
+178 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Anmol Khazana](https://open.spotify.com/track/47EwnKSHTiz2hddZZQTE7N) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Anmol Khazana](https://open.spotify.com/album/0PNCvRLeJo5PlTqpxZ40at) | 4:28 | 2024-03-08 | 2024-12-21 |
 | [Anupam Rahasya](https://open.spotify.com/track/3xg08C7H2cgIQ96lpA5gBB) | [Ganesh Punja](https://open.spotify.com/artist/1pSufonJe7BruoBM2qLwgx) | [Anupam Rahasya](https://open.spotify.com/album/0w3gxbpQLCho2phuTzK1Ec) | 4:37 | 2023-09-05 | 2024-08-03 |
 | [Baagh](https://open.spotify.com/track/55OXtWmZJuNMoy1MSKsGsj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Baagh](https://open.spotify.com/album/0G74nAuIStkxncdtQL3tnN) | 3:23 | 2022-08-10 |  |
+| [Balance](https://open.spotify.com/track/3JIIlPHQxoHLki4BDc94Xj) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Balance](https://open.spotify.com/album/7GRX6RW1MLlakpI99k6pVo) | 2:31 | 2025-01-30 |  |
 | [Bansuri Heaven](https://open.spotify.com/track/6fdGoJ7yoQFuhUzQrIilwt) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Curing Rhythms](https://open.spotify.com/album/529HbjzW3Tr01wmu7dginb) | 4:02 | 2022-08-10 |  |
 | [Barsaa Paani](https://open.spotify.com/track/6y5EJ69G3DZmM1lzWMuxA4) | [Kapila Upsani](https://open.spotify.com/artist/1I8JjaC5qvXYmY4vRT3x1W) | [Chote Hiran](https://open.spotify.com/album/5Ks9dlzmU0BGfoqZYDP7gc) | 5:00 | 2022-05-13 | 2024-03-09 |
 | [Beyond sand](https://open.spotify.com/track/6acWuuAAdgHHOFc30KHURk) | [Tetouze](https://open.spotify.com/artist/4L2vZe0dcqomV8OAhWNmQy), [Jehanne Drai](https://open.spotify.com/artist/0GCwjBKMBF9vSKb8YbxkmF) | [Beyond sand](https://open.spotify.com/album/1U5sg1ejtfqOh4FAEzmODB) | 7:18 | 2022-05-13 | 2024-03-27 |
@@ -160,6 +161,7 @@
 | [Sudhar](https://open.spotify.com/track/1qtzGewEnNOtBQqxL0RkcI) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Sudhar](https://open.spotify.com/album/4thvMMTyld6WqUZUue8Zop) | 3:13 | 2023-01-13 |  |
 | [Sumati Arya](https://open.spotify.com/track/33dVebZSHCWHN4H6pV8OCY) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Sumati Arya](https://open.spotify.com/album/2bAxEHExcAAFGR1tDeWYqR) | 2:35 | 2024-03-26 |  |
 | [Sunehri Savera](https://open.spotify.com/track/3OZkY9IxmZPLjzPMdPrVfV) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Sunehri Savera](https://open.spotify.com/album/3uc6loNRmpweT5qmOSW2pB) | 4:40 | 2024-07-18 |  |
+| [Sunhaven](https://open.spotify.com/track/4p5gMX6OcZWHcHkjHVBuIm) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Sunhaven](https://open.spotify.com/album/7lJhuVy7ZXXy2p7R233ZDX) | 2:50 | 2025-01-30 |  |
 | [Sunset Sky](https://open.spotify.com/track/3JAGyBNYLZav8h9uuDB5aZ) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Sunset Sky](https://open.spotify.com/album/3m0sH9z0g1b2RGrvX0c6PI) | 3:32 | 2024-03-08 |  |
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2022-05-13 | 2024-03-27 |
 | [Tabla Journey](https://open.spotify.com/track/0yU7xhca2umDHpLpVuGKQX) | [Dumana](https://open.spotify.com/artist/0iy3C2nhr2vwG93xt0VIDn) | [Tabla Journey](https://open.spotify.com/album/0Z0xbFPij5lnivzRj8daSF) | 2:39 | 2024-07-18 |  |

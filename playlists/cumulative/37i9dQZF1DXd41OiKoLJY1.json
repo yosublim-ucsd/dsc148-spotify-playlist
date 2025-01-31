@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Absquatulate",
+        "url": "https://open.spotify.com/album/2q7Wu0heiLEmbCAyXKDNXV"
+      },
+      "artists": [
+        {
+          "name": "Whirlpool Street",
+          "url": "https://open.spotify.com/artist/4jwKkntxGhB5cZUNd5teSx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298434,
+      "name": "Absquatulate",
+      "url": "https://open.spotify.com/track/4PPWDVqvwL5zYo9pA7fIOu"
+    },
+    {
+      "album": {
         "name": "ABUSADO",
         "url": "https://open.spotify.com/album/16JOln78VGtvcQJ8xHRdcG"
       },
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 164359,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/3yiYjiIZUdlszc0Z4b4ra0"
@@ -7386,7 +7404,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 217808,
       "name": "BITN",
       "url": "https://open.spotify.com/track/2b0X2TL0LdQLmgKTjxtiQK"
@@ -8095,6 +8113,24 @@
     },
     {
       "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/3d5pvnK8OiuySQE2quyXMm"
+      },
+      "artists": [
+        {
+          "name": "Splendio Tritus",
+          "url": "https://open.spotify.com/artist/5svvAcRpq3mmOTu8N48Fxw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250304,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/3KhkMyNGA0KCEMjtONz1CS"
+    },
+    {
+      "album": {
         "name": "Break My Heart",
         "url": "https://open.spotify.com/album/7iuVKqkzInfE2fUU6IO6Ld"
       },
@@ -8216,6 +8252,28 @@
       "duration_ms": 211303,
       "name": "Brocanton",
       "url": "https://open.spotify.com/track/1rUjaE3nvNhS3FZrcsSC2W"
+    },
+    {
+      "album": {
+        "name": "Broke to Ballin",
+        "url": "https://open.spotify.com/album/2PcTjs8NeTxlRy4BUzzrHo"
+      },
+      "artists": [
+        {
+          "name": "Kiddlat",
+          "url": "https://open.spotify.com/artist/6QFCXaJYvHMSrsmcuMhj95"
+        },
+        {
+          "name": "Goldenwun",
+          "url": "https://open.spotify.com/artist/7JcUGQbRBGPvr1dxzM9CF9"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "Broke to Ballin",
+      "url": "https://open.spotify.com/track/4OrzKICjxGP2IzPCDP56HL"
     },
     {
       "album": {
@@ -13656,7 +13714,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 185138,
       "name": "Drawn 2 U",
       "url": "https://open.spotify.com/track/50CKqPHAH9Jggq6M0DDorZ"
@@ -13960,7 +14018,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 261621,
       "name": "Dulo",
       "url": "https://open.spotify.com/track/44C9zkIUWLQdRFs8OXcCHK"
@@ -15271,6 +15329,24 @@
     },
     {
       "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/5CFmYHFfypjVOphWDz1YaX"
+      },
+      "artists": [
+        {
+          "name": "Jetter",
+          "url": "https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178625,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/3dXvB3N52i9dT1K3Smr4fc"
+    },
+    {
+      "album": {
         "name": "Feel The Same Way",
         "url": "https://open.spotify.com/album/11XyN2larzto98tKU4E24Z"
       },
@@ -16368,6 +16444,24 @@
       "duration_ms": 177465,
       "name": "For Mary",
       "url": "https://open.spotify.com/track/1tsTf8xYZFhEqtLNb9JQ9d"
+    },
+    {
+      "album": {
+        "name": "For Years",
+        "url": "https://open.spotify.com/album/4wyGeGizmF1609QAefbTBa"
+      },
+      "artists": [
+        {
+          "name": "Kremesoda",
+          "url": "https://open.spotify.com/artist/5ysksZni6CXXqB28AYOmSf"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234732,
+      "name": "For Years",
+      "url": "https://open.spotify.com/track/7n5keaHfBmfT0kz56EIIr4"
     },
     {
       "album": {
@@ -18048,7 +18142,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 152538,
       "name": "GOD JOHNSON",
       "url": "https://open.spotify.com/track/1i30TRIajuJm7ySO8CGVwJ"
@@ -19134,7 +19228,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 226200,
       "name": "Halo-halo",
       "url": "https://open.spotify.com/track/5RKjpMFfaE4LQpYUSIaAoz"
@@ -19600,7 +19694,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 116034,
       "name": "HARDEST FILO EVER",
       "url": "https://open.spotify.com/track/7dl5sMj7Ig3ueGcNumAJvo"
@@ -19868,6 +19962,24 @@
       "duration_ms": 253091,
       "name": "heart emoji",
       "url": "https://open.spotify.com/track/3u3ZxcSUB036aE4cGz9LSi"
+    },
+    {
+      "album": {
+        "name": "Heart In Love",
+        "url": "https://open.spotify.com/album/7KU6HGBZfEYXdmD1AKCL2q"
+      },
+      "artists": [
+        {
+          "name": "Aljon Prowler",
+          "url": "https://open.spotify.com/artist/4788oAxLqaqX4c9xY52ShK"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124799,
+      "name": "Heart In Love",
+      "url": "https://open.spotify.com/track/5AUI3zHiaBTAV5mSQiMWzx"
     },
     {
       "album": {
@@ -21707,6 +21819,24 @@
     },
     {
       "album": {
+        "name": "Hush",
+        "url": "https://open.spotify.com/album/6pVSj2uOdBttUluEZ8qRA4"
+      },
+      "artists": [
+        {
+          "name": "Ian Sison",
+          "url": "https://open.spotify.com/artist/3DoUSxKNl7KKNxvrhmkCus"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321360,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/33O4vkNwmOgWvT8icPRZup"
+    },
+    {
+      "album": {
         "name": "huwag ka nang mawala",
         "url": "https://open.spotify.com/album/5Q6Y59J14wbx68r7Gae5z1"
       },
@@ -23110,6 +23240,24 @@
       "duration_ms": 95624,
       "name": "IHAP",
       "url": "https://open.spotify.com/track/3lzsnWw6H07AZ8voDzSl6Y"
+    },
+    {
+      "album": {
+        "name": "Iibig Muli",
+        "url": "https://open.spotify.com/album/0mafcswAm3e8p1D7rI5qMD"
+      },
+      "artists": [
+        {
+          "name": "Soul Brew Collective",
+          "url": "https://open.spotify.com/artist/31oidxAKIldiMS44ZdjO2a"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Iibig Muli",
+      "url": "https://open.spotify.com/track/4aexwqikNKyobMo6NMXCMR"
     },
     {
       "album": {
@@ -24736,7 +24884,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 173414,
       "name": "just between us",
       "url": "https://open.spotify.com/track/7fexPywS1XMNmo8YoFzSxk"
@@ -25854,6 +26002,24 @@
       "duration_ms": 259185,
       "name": "Kasama Ka",
       "url": "https://open.spotify.com/track/4cXpHhLgGYsLJbAOdEUDqK"
+    },
+    {
+      "album": {
+        "name": "Kasintahan",
+        "url": "https://open.spotify.com/album/5oMQu0erIWCSdOsTeG0SKI"
+      },
+      "artists": [
+        {
+          "name": "Ryle Jhon",
+          "url": "https://open.spotify.com/artist/0hST3xq35YnjcuKNXFLuBI"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262290,
+      "name": "Kasintahan",
+      "url": "https://open.spotify.com/track/7DZh1jkN7NP4kL6Q5Lekdx"
     },
     {
       "album": {
@@ -27728,7 +27894,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 173064,
       "name": "Late Night Call",
       "url": "https://open.spotify.com/track/5jdy2BEbC0hsLGlU27y40F"
@@ -28652,6 +28818,24 @@
       "duration_ms": 177662,
       "name": "Lights Come Down",
       "url": "https://open.spotify.com/track/2osHHo5EXhgUNatoptEcyg"
+    },
+    {
+      "album": {
+        "name": "Ligtas",
+        "url": "https://open.spotify.com/album/5AFt9Um6ybLcQ42fAqYlZc"
+      },
+      "artists": [
+        {
+          "name": "Torch Family Music",
+          "url": "https://open.spotify.com/artist/7uXEC6VJLXhLDb3oZ5MTfw"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266086,
+      "name": "Ligtas",
+      "url": "https://open.spotify.com/track/6c2KsvTX9k7bEOKSP7GVrV"
     },
     {
       "album": {
@@ -34164,7 +34348,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 260535,
       "name": "Nahulog",
       "url": "https://open.spotify.com/track/4ibkuWFcpxHNvVJ7dxDw8f"
@@ -34462,7 +34646,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 294848,
       "name": "Nang Walang Dahilan",
       "url": "https://open.spotify.com/track/4JpDhtZtLCeBxvAcS4sTlP"
@@ -35896,7 +36080,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 232830,
       "name": "October",
       "url": "https://open.spotify.com/track/2FLcvttJzDNFmAyRyikgc9"
@@ -36926,6 +37110,24 @@
       "duration_ms": 233404,
       "name": "Orthodox",
       "url": "https://open.spotify.com/track/16HGxmr5XdFuKgT4xpGuOj"
+    },
+    {
+      "album": {
+        "name": "Otherworldly",
+        "url": "https://open.spotify.com/album/1anVVdBF9Aog1tvvW6jedR"
+      },
+      "artists": [
+        {
+          "name": "Starri & The Moonchild",
+          "url": "https://open.spotify.com/artist/0wE3La0AtC5JJXDy0tcHTe"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "Otherworldly",
+      "url": "https://open.spotify.com/track/314md2Nhyz0aadr3e6VHR9"
     },
     {
       "album": {
@@ -39525,6 +39727,24 @@
     },
     {
       "album": {
+        "name": "Parapelikula",
+        "url": "https://open.spotify.com/album/6aAicHFGbqRnJTSekuYvM1"
+      },
+      "artists": [
+        {
+          "name": "JEL REY",
+          "url": "https://open.spotify.com/artist/78BjejowI3HzCblRlIj5Jd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279713,
+      "name": "Parapelikula",
+      "url": "https://open.spotify.com/track/1YvAQs031K4nhyINs0HDFO"
+    },
+    {
+      "album": {
         "name": "INTERITIO",
         "url": "https://open.spotify.com/album/0ufCu0ITu9g4mYgoe5PO2W"
       },
@@ -39724,7 +39944,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 230901,
       "name": "Pasensya Ka Na",
       "url": "https://open.spotify.com/track/7pE2M8kllhgO6WxOSoSIs1"
@@ -46681,6 +46901,24 @@
     },
     {
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/7p0VfoTB04mh1ANgDvMZFQ"
+      },
+      "artists": [
+        {
+          "name": "Rafael Jacoba",
+          "url": "https://open.spotify.com/artist/2B2UW6jlWymHG8mbb0Hnpz"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/6qNVW7gJgXro8ucStDf44W"
+    },
+    {
+      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3TB56jpGZ7chXbkfCZ7TGq"
       },
@@ -49822,7 +50060,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 219908,
       "name": "Tampo",
       "url": "https://open.spotify.com/track/2fUd5g7UQiEoF1YH9u7lwd"

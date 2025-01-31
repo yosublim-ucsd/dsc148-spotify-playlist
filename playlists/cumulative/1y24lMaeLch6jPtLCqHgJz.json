@@ -3685,6 +3685,24 @@
     },
     {
       "album": {
+        "name": "BEATSBYSICK Vol. 01",
+        "url": "https://open.spotify.com/album/3wOGpE3SuvdehXwvnKj3ts"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167900,
+      "name": "How We Feelin",
+      "url": "https://open.spotify.com/track/4PkZNPD2waoSbn5ObPnwc9"
+    },
+    {
+      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/56ONp8iQb6AT9hdd9uvaCs"
       },
@@ -5074,6 +5092,24 @@
       "duration_ms": 179555,
       "name": "Move",
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
+    },
+    {
+      "album": {
+        "name": "BEATSBYSICK Vol. 01",
+        "url": "https://open.spotify.com/album/3wOGpE3SuvdehXwvnKj3ts"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Move It Down",
+      "url": "https://open.spotify.com/track/0JfipTi30KnNulfnT8o7iS"
     },
     {
       "album": {

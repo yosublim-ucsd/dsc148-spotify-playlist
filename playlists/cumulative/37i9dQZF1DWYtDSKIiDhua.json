@@ -4375,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "Don't Commit",
+        "url": "https://open.spotify.com/album/1KQxpSLjJJnC5Va5UBUTXr"
+      },
+      "artists": [
+        {
+          "name": "Miss A",
+          "url": "https://open.spotify.com/artist/2YmOSg63TwELjoyrqhyHo2"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240086,
+      "name": "Don't Commit",
+      "url": "https://open.spotify.com/track/47xdPUQWastNWKpXDjQcY8"
+    },
+    {
+      "album": {
         "name": "Love Part 2",
         "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
       },
@@ -5630,6 +5648,24 @@
       "duration_ms": 208600,
       "name": "Feel Sexy",
       "url": "https://open.spotify.com/track/4e9JNO99eTBksvz3JtUXKg"
+    },
+    {
+      "album": {
+        "name": "Feel So Good",
+        "url": "https://open.spotify.com/album/5CFmYHFfypjVOphWDz1YaX"
+      },
+      "artists": [
+        {
+          "name": "Jetter",
+          "url": "https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178625,
+      "name": "Feel So Good",
+      "url": "https://open.spotify.com/track/3dXvB3N52i9dT1K3Smr4fc"
     },
     {
       "album": {
@@ -7009,6 +7045,28 @@
     },
     {
       "album": {
+        "name": "Gotta Get Up",
+        "url": "https://open.spotify.com/album/1EoGcU6zR8hk7axkwRG29N"
+      },
+      "artists": [
+        {
+          "name": "Yu Sakai",
+          "url": "https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y"
+        },
+        {
+          "name": "magora",
+          "url": "https://open.spotify.com/artist/0AHQL12KXrcq9IzIBl0Wo2"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194552,
+      "name": "Gotta Get Up",
+      "url": "https://open.spotify.com/track/4Rq3FvaJRB56VpISyphP2A"
+    },
+    {
+      "album": {
         "name": "Gratitudes",
         "url": "https://open.spotify.com/album/5yAzxuffvIYzatSiyrvodj"
       },
@@ -8128,6 +8186,24 @@
       "duration_ms": 161411,
       "name": "i don\u2019t mind - RED",
       "url": "https://open.spotify.com/track/2Tr70FkraG5kJEsEehyRjC"
+    },
+    {
+      "album": {
+        "name": "I Felt That Insecure",
+        "url": "https://open.spotify.com/album/3iUuupxjT8dAgpejcNG6V4"
+      },
+      "artists": [
+        {
+          "name": "Junva",
+          "url": "https://open.spotify.com/artist/5OfxnYqIv0WZ4JmIg2NLtt"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "I Felt That Insecure",
+      "url": "https://open.spotify.com/track/73X3MnqAKmiEJfhJuTnjDM"
     },
     {
       "album": {
@@ -11726,6 +11802,42 @@
       "duration_ms": 182400,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/0d1NK6DEtHLK0Mw4iij3uI"
+    },
+    {
+      "album": {
+        "name": "After the First Wave",
+        "url": "https://open.spotify.com/album/0btqYkyRMkGW0kspnhJQDK"
+      },
+      "artists": [
+        {
+          "name": "quicksand bed",
+          "url": "https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Mr. Poseman",
+      "url": "https://open.spotify.com/track/2igCtkfrRmcEQoq02e7Wbo"
+    },
+    {
+      "album": {
+        "name": "munchies",
+        "url": "https://open.spotify.com/album/5u4K2KzXpMTy6iubXvQ36x"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224309,
+      "name": "munchies",
+      "url": "https://open.spotify.com/track/2igMlLhuhOTVWXag1MD9lm"
     },
     {
       "album": {

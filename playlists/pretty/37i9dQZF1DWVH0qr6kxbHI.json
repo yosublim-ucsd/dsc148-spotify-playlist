@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 92251,
+  "num_followers": 92296,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-05-02 22:01:00",
       "album": {
-        "name": "Caprichos de Mujer",
-        "url": "https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        }
-      ],
-      "duration_ms": 253600,
-      "name": "T\u00fa Me Camelas (Tangos)",
-      "url": "https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi"
-    },
-    {
-      "added_at": "2024-05-02 22:01:00",
-      "album": {
         "name": "Mujeres de M\u00fasica",
         "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 243386,
       "name": "El Talism\u00e1n",
       "url": "https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv"
+    },
+    {
+      "added_at": "2024-05-02 22:01:00",
+      "album": {
+        "name": "Caprichos de Mujer",
+        "url": "https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        }
+      ],
+      "duration_ms": 253600,
+      "name": "T\u00fa Me Camelas (Tangos)",
+      "url": "https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi"
     },
     {
       "added_at": "2024-05-02 22:01:00",

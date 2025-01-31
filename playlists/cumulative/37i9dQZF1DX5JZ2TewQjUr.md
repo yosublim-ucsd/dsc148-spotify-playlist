@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Chefwest, shinylungs⁺₊✧, tangent
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: MADBOII
 
-1,302 songs - 3 day 1 hr 32 min
+1,307 songs - 3 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [5pm](https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [5pm](https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W) | 3:44 | 2024-05-16 | 2024-11-15 |
 | [5PM Down The Shore](https://open.spotify.com/track/7wMY5Z0bk65R2J9OKFxFTV) | [Kai Yannis](https://open.spotify.com/artist/57VXud4dgLlGv5cXGs9ccA) | [5PM Down The Shore](https://open.spotify.com/album/7Ee9WcmLWgckp43rgGYgi7) | 4:06 | 2024-06-06 | 2024-11-15 |
 | [805](https://open.spotify.com/track/1J1tbpSjsd9XQ2945fcI8P) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [805](https://open.spotify.com/album/1K348SiQNjVzcDGSiSLhIj) | 2:33 | 2024-10-03 |  |
+| [898](https://open.spotify.com/track/4FjoJP9oIvBpsncKdszsJc) | [Teddy Fan](https://open.spotify.com/artist/2xcfjDx4F8seDu5jN0geQH), [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27) | [898](https://open.spotify.com/album/2k8zQweyloa5wWGUlzZGXV) | 3:47 | 2025-01-30 |  |
 | [96930羅瓦涅米](https://open.spotify.com/track/1gE9ZZdEKULhuzAIk70C68) | [薛德勇 Monkey](https://open.spotify.com/artist/3JwDfxWk8xVPg2ia8CN3MS) | [96930羅瓦涅米](https://open.spotify.com/album/1uRs5Z84RzvNZRnGGQ9gWn) | 3:02 | 2022-12-29 | 2023-03-18 |
 | [98](https://open.spotify.com/track/4qIy3sKkt76I2cmEK5hiCf) | [良少](https://open.spotify.com/artist/5TqXIlySNYaCoM0WjmBnXK), [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [98](https://open.spotify.com/album/2IGE9t13fb36RNAZxgRbbV) | 5:01 | 2024-03-07 | 2024-06-07 |
 | [9AM IN LONDON](https://open.spotify.com/track/2K2NYHKFiW7oSKlbtO5Xxj) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [9AM IN LONDON](https://open.spotify.com/album/1QWsd2aHXEs6ylyIZtXF8G) | 3:22 | 2023-12-21 | 2024-05-10 |
@@ -857,6 +858,7 @@
 | [Wondering](https://open.spotify.com/track/7uL1EQOXRHV36aPxCcrltC) | [mue](https://open.spotify.com/artist/4nINHlTXP0sDUGWHmf4cLi) | [Wondering](https://open.spotify.com/album/6YWHGKMDDHYdxjAIYaId5K) | 4:09 | 2022-10-27 | 2023-02-03 |
 | [working holiday](https://open.spotify.com/track/2vgpjJNqLYTf7nDYdvoXY6) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C), [Nicknames](https://open.spotify.com/artist/1y2mXaGQXFVnHm5QuEz5xO) | [working holiday](https://open.spotify.com/album/6RQ77NGRncu7yIIQGXuNwA) | 3:08 | 2023-04-06 | 2023-07-14 |
 | [Yellow Scissors](https://open.spotify.com/track/4RP1PU6TT1alEhzm8zn6Cs) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ) | [Yellow Scissors](https://open.spotify.com/album/1ODeNCAMlCOJKNbY9Ng4xq) | 3:29 | 2024-04-11 | 2024-11-15 |
+| [YES PLEASE](https://open.spotify.com/track/6g107zkNQJTU97EQl4zr3M) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [YES PLEASE](https://open.spotify.com/album/3P06y6CvlYMp5XqIgT5Cw2) | 2:53 | 2025-01-30 |  |
 | [You and I](https://open.spotify.com/track/5FWcHUJMy7wWD2SByZk8Hd) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [You and I](https://open.spotify.com/album/1leHwKjenNuvX4CmoUtRcl) | 4:20 | 2023-05-04 | 2023-09-01 |
 | [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 | 2024-09-20 |  |
 | [You Can't Stop Me](https://open.spotify.com/track/0jHtBuOZX2wcHTJSC2Rxby) | [石裂符](https://open.spotify.com/artist/2z5PPOztYLholwAHp3teQq) | [You Can't Stop Me](https://open.spotify.com/album/0qxlt4shCfMU822W22rX6t) | 3:19 | 2023-12-21 | 2024-05-10 |
@@ -965,6 +967,7 @@
 | [南 Nam](https://open.spotify.com/track/4lUDA9q4iIM9IoQherQIn7) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [南 Nam](https://open.spotify.com/album/5pRm6QGxFNByZDzCvUhmqo) | 6:15 | 2024-08-22 | 2024-12-13 |
 | [卡式](https://open.spotify.com/track/6LGEh3lJXkDfgqyOLcM5Vf) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr) | [卡式](https://open.spotify.com/album/0GLJnvy5kh2EUyJSWgdNY1) | 2:50 | 2022-06-16 | 2022-09-09 |
 | [卦彖象爻 Hexagrams](https://open.spotify.com/track/2Pi0ZC9ra6hOTyJs1xdsS6) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [卦彖象爻 Hexagrams](https://open.spotify.com/album/6VTaIJdZoRWIlXafYvv2cQ) | 4:29 | 2023-02-02 | 2023-07-14 |
+| [原來太幼稚](https://open.spotify.com/track/6jjDMlKak4jKhJX9Y3xGjI) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [原來太幼稚](https://open.spotify.com/album/6VLCSD6NUmHbBxUXoRVxHJ) | 4:43 | 2025-01-30 |  |
 | [原石](https://open.spotify.com/track/216a8TsFRn5PtsR6nRMPag) | [Dvk.](https://open.spotify.com/artist/014lHDdSXKmOzcw3VLWNdD) | [岸邊 I](https://open.spotify.com/album/3P7a5UgCtvbt8c27DRq4vZ) | 2:41 | 2022-10-20 | 2023-02-03 |
 | [古怪情歌](https://open.spotify.com/track/4P0HaRPbekow8YCKhHsVB5) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls), [Midnight 海倫](https://open.spotify.com/artist/4MTGOJf14wiMGPB920iXNq) | [古怪情歌](https://open.spotify.com/album/5I1k8TRWMizDJv742hvehN) | 3:38 | 2024-02-08 | 2024-05-10 |
 | [只得我一個人\(feat.MU 木\)](https://open.spotify.com/track/43Y9A3yEEwdpZhlawhQChk) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB) | [只得我一個人\(feat.MU 木\)](https://open.spotify.com/album/3y8cczL71BdIcjPVePxT2C) | 2:46 | 2023-12-07 | 2024-02-16 |
@@ -1034,6 +1037,7 @@
 | [山](https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [光](https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP) | 4:33 | 2023-04-20 | 2023-07-14 |
 | [山長水遠](https://open.spotify.com/track/5LtlNjIcPKjXOSO2E45ULu) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9), [0rganicman](https://open.spotify.com/artist/6JSPhYkty9j06FeFahuhDo), [丸](https://open.spotify.com/artist/5tUbF2wVYoQQAbSyN5iM1n) | [山長水遠](https://open.spotify.com/album/66wKvoCdhUkbnjY09NpRJR) | 5:18 | 2023-12-14 | 2024-05-10 |
 | [岸](https://open.spotify.com/track/6HddvIovaBHsG3gHuNSt5l) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [岸](https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7) | 3:21 | 2022-10-13 | 2023-03-18 |
+| [左手鑼 右手gyatt](https://open.spotify.com/track/1TpEnBdOaFRJA4I2tOCkUn) | [Dr\. Holic](https://open.spotify.com/artist/7z51d7cq05beTwW2OY1POM), [FUNGMADE 卓峰整嘅](https://open.spotify.com/artist/2anUMLZS9l0BCp2edXOz9I) | [新年西格馬 New Year Sigma](https://open.spotify.com/album/5p7Js3uRdFoNYlVniPpVkM) | 1:01 | 2025-01-30 |  |
 | [已封存對話](https://open.spotify.com/track/7AwSKBeP8umN4F0AiThHYN) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [舒適症候群](https://open.spotify.com/album/3cXyvdNPltrEB40XmJuKTb) | 4:33 | 2024-07-04 | 2024-11-15 |
 | [平行線上](https://open.spotify.com/track/1ceXW7hLxqfaINttNnq4Ug) | [DEZ余宗遙](https://open.spotify.com/artist/0gO6exxCesSGRThkEHTk2Z) | [平行線上](https://open.spotify.com/album/1Ayd6fJ3cu4CVRfh0Xs57y) | 4:00 | 2022-09-08 | 2023-01-06 |
 | [平行線上 \- 幽光 Version](https://open.spotify.com/track/7yH6VqhjvI8NrJLJUaHZX1) | [DEZ余宗遙](https://open.spotify.com/artist/0gO6exxCesSGRThkEHTk2Z), [mansonvibes](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [平行線上 \(幽光 Version\)](https://open.spotify.com/album/1DHzTV9Fx8QdNPI6rSXxr4) | 4:00 | 2022-12-22 | 2023-03-18 |
@@ -1200,6 +1204,7 @@
 | [百鬼夜行](https://open.spotify.com/track/4WWYhgUUXt4SesG2OwmxQe) | [SENZA A Cappella](https://open.spotify.com/artist/2CQcJ2puP32r60KacgJdyW) | [百鬼夜行](https://open.spotify.com/album/3sHdBZLhLCN9wOh24BzDd7) | 3:30 | 2023-10-19 | 2024-01-05 |
 | [相逢實驗](https://open.spotify.com/track/6eblAIsM4cnlGAdxFKJFwY) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [相逢實驗](https://open.spotify.com/album/6lRE98Vlhmr7TzZ4jgc8ay) | 4:05 | 2024-02-22 | 2024-06-07 |
 | [睡行症](https://open.spotify.com/track/1nloWUX0UaVbk9lsTgwHq2) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [睡行症](https://open.spotify.com/album/6QQTjaGL3KBBqLQcBRb6mV) | 4:02 | 2022-05-26 | 2022-06-10 |
+| [石沉大海](https://open.spotify.com/track/0Mu3cQmroCADlBs3t8qSQG) | [Tofu Kingdom](https://open.spotify.com/artist/5suKRYsfhnViNwhLjWWgnz) | [石沉大海](https://open.spotify.com/album/1tsylDEKEqx9LCjuIy67TS) | 5:31 | 2025-01-30 |  |
 | [砒霜](https://open.spotify.com/track/1hqXzua3YwAcMWh94hE1We) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7) | [Dark Romance](https://open.spotify.com/album/2txrKCqElGdRChTuYnPqHN) | 2:32 | 2024-03-14 | 2024-11-15 |
 | [社交障礙賽](https://open.spotify.com/track/0GDzj9jEbtnpzqURgfiIgd) | [YUTA](https://open.spotify.com/artist/0tUTYTg2i8uEAIaUoLFdYG) | [社交障礙賽](https://open.spotify.com/album/2APs96wcagUJPKbHnYSY0k) | 3:16 | 2022-09-08 | 2023-01-06 |
 | [社交電池](https://open.spotify.com/track/1xW4nH39JrHAFEZHjoJjkn) | [東涌事發](https://open.spotify.com/artist/6ClTWrZnl5uWikZC82fhAT) | [社交電池](https://open.spotify.com/album/1TzsCookR9VQqc1z914VKe) | 3:16 | 2024-04-04 | 2024-11-15 |

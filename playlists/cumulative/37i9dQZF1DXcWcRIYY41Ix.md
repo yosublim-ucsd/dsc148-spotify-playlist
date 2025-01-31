@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Yoly Saa.
 
-740 songs - 1 day 20 hr 10 min
+741 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-01-20 | 2023-03-18 |
 | [lo\_divino](https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [lo\_divino](https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A) | 3:21 | 2024-01-12 | 2024-02-17 |
 | [Lobo](https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49) | [Elena Gadel](https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO) | [Lobo](https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT) | 4:36 | 2023-03-02 | 2023-03-18 |
-| [Lobo](https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Lobo](https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk) | 3:06 | 2024-06-14 |  |
+| [Lobo](https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Lobo](https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk) | 3:06 | 2024-06-14 | 2025-01-31 |
 | [Los amores perros](https://open.spotify.com/track/23bYhF4HNawfGoxR927Iuk) | [Soleado](https://open.spotify.com/artist/6GxANftnqrZYaBRulKsov8) | [Los amores perros](https://open.spotify.com/album/513UFrrW9KMHQjvTKigVLg) | 2:32 | 2024-10-25 | 2024-11-14 |
 | [Los Ancestros](https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Los Ancestros](https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24) | 4:10 | 2024-05-30 | 2024-08-31 |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2022-07-22 | 2022-08-03 |
@@ -570,6 +570,7 @@
 | [REGALAMOS ROSAS EN LA LUNA](https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [REGALAMOS ROSAS EN LA LUNA](https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033) | 4:40 | 2024-10-04 | 2024-12-28 |
 | [Regalizz](https://open.spotify.com/track/5dzFBixg9nfMGBHRX3T4R1) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [Regalizz](https://open.spotify.com/album/53sFr03wfuWm5O8TEPOYO3) | 3:44 | 2024-05-30 | 2024-09-11 |
 | [Regresaré](https://open.spotify.com/track/2bHAE4gmJSDMmUX5thl2JM) | [Gabo Ferro](https://open.spotify.com/artist/085q57OvE341Q8n77AE9RT), [Sergio Ch.](https://open.spotify.com/artist/0rCqKV9ewBzm9Dd0dThRDf) | [Regresaré](https://open.spotify.com/album/0h6VW52oK4WzlxT6LtGnls) | 6:08 | 2024-11-22 | 2025-01-11 |
+| [Reguero de luz](https://open.spotify.com/track/1i5RXmJqW5rlZpDE2kErs1) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Peinar Raíces](https://open.spotify.com/album/2KwYEbJwtHezzwMBujDJji) | 3:56 | 2025-01-23 |  |
 | [Relieve](https://open.spotify.com/track/4KAWkrPuZ4bkpjS799ZHaw) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Delfina Mancardo](https://open.spotify.com/artist/7aCKt3m8guXnz3VYRgNO1q) | [Relieve](https://open.spotify.com/album/7i0jP7k6WFshAcXTVz8sNR) | 2:27 | 2022-07-22 | 2022-07-25 |
 | [Remanso para morrer \(con Tanxugueiras\) \- Sesiones Moraima 2](https://open.spotify.com/track/5C4ofBBIu1yAwwzSul6mtb) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Remanso para morrer \(con Tanxugueiras\) \[Sesiones Moraima 2\]](https://open.spotify.com/album/77UPQUZuo4ZFVZbec7YNqb) | 3:06 | 2024-07-11 | 2024-09-25 |
 | [REMOLINO](https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [ENCORE](https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6) | 4:12 | 2024-02-09 |  |

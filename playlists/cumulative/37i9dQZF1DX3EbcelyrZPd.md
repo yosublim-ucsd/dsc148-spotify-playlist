@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Jay Melody
+> Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny & Headie One
 
-507 songs - 1 day 5 hr 5 min
+509 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Achii \(feat\. Koffi Olomide\)](https://open.spotify.com/track/2SSmMYLJ7ODOSxULNUemVa) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Achii \(feat\. Koffi Olomide\)](https://open.spotify.com/album/4rNuUOxQYWQA2romhOnmCS) | 4:22 | 2023-08-17 | 2024-05-10 |
 | [Addiction \(feat\. Harmonize\)](https://open.spotify.com/track/1Be17HOs0GnuguW8pBaYAr) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk) | [Addiction \(feat\. Harmonize\)](https://open.spotify.com/album/0k7jBbWkGebFNwiNY6l2RC) | 3:34 | 2021-11-25 | 2022-06-28 |
 | [All I Need](https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [All I Need](https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp) | 3:07 | 2023-10-26 | 2024-02-16 |
+| [Alone](https://open.spotify.com/track/40RZ8R5VnlaS1oN38bx8eW) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Alone](https://open.spotify.com/album/78rq4tSfGFWB2gOOY9fwFU) | 2:52 | 2025-01-30 |  |
 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 | 2023-12-21 | 2024-06-21 |
 | [Amawele](https://open.spotify.com/track/3QWSO7dAr4PXL8QK2vzySs) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [The Kid You Know](https://open.spotify.com/album/4TBTg0A1DKJHDiOXwJ3m84) | 4:57 | 2022-12-09 | 2023-06-23 |
 | [Amelowa](https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Amelowa](https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV) | 2:59 | 2022-09-20 | 2023-07-28 |
@@ -261,7 +262,7 @@
 | [My Baby \(feat\. Chike\)](https://open.spotify.com/track/6bicSRBtEUReuqCpZQrsbi) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [My Baby \(feat\. Chike\)](https://open.spotify.com/album/6cZI2v0HjkvMZ2R12M14go) | 3:32 | 2023-07-06 | 2024-06-14 |
 | [My Lady](https://open.spotify.com/track/35AoIIs76dRUQnVcn2ydSn) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h) | [My Lady](https://open.spotify.com/album/6kEv1XGrBDr51rMFaAGXYt) | 3:47 | 2023-11-30 | 2024-04-26 |
 | [My Life](https://open.spotify.com/track/4iww8XAglV8mbENbyBvrpb) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [My Life](https://open.spotify.com/album/410bUVJ7FdtsmvxySVU6Xl) | 3:10 | 2022-11-24 | 2023-01-07 |
-| [My Love](https://open.spotify.com/track/2yzjyaVFBiH2I760zqsHgY) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [My Love](https://open.spotify.com/album/0AY48mL3lUC4ueO0z3w4pB) | 2:46 | 2024-10-18 |  |
+| [My Love](https://open.spotify.com/track/2yzjyaVFBiH2I760zqsHgY) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [My Love](https://open.spotify.com/album/0AY48mL3lUC4ueO0z3w4pB) | 2:46 | 2024-10-18 | 2025-01-31 |
 | [My Way](https://open.spotify.com/track/6XdVKBJLMLl2v26lPJIoS0) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Made For Us](https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR) | 3:28 | 2022-10-27 | 2023-06-16 |
 | [Na Enjoy \(feat\. Darassa\)](https://open.spotify.com/track/1NshVUwUc5B163Z2wfkLJK) | [Ruby Afrika](https://open.spotify.com/artist/0LJ10K0IJWJ3kLT2lWe7wW), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Na Enjoy \(feat\. Darassa\)](https://open.spotify.com/album/44zwMeBG6iizss8HvneIQ1) | 3:37 | 2021-06-25 | 2022-01-14 |
 | [Naanzaje](https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Naanzaje](https://open.spotify.com/album/2PtTNJNz9aIkxIYPXPgYnD) | 3:19 | 2021-09-16 | 2022-11-18 |
@@ -371,6 +372,7 @@
 | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP) | 3:26 | 2024-04-18 | 2024-11-29 |
 | [Sacrifice](https://open.spotify.com/track/3PHxramNrA3dkxziJzaRXd) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Sacrifice](https://open.spotify.com/album/6iM4dLWcqY4tKXdxRj6LKG) | 3:20 | 2024-04-11 | 2024-11-08 |
 | [Samaleko](https://open.spotify.com/track/1TfAUIxVO6eUrM3aSSsJWw) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Samaleko](https://open.spotify.com/album/3U9ZAB16h5kSsqV93wympg) | 3:02 | 2023-12-14 | 2024-06-01 |
+| [Sare](https://open.spotify.com/track/2Eenhinh9fzmjAeRUon64u) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Sare](https://open.spotify.com/album/3Zx8060RczfKJ1lPB4kgPp) | 3:34 | 2025-01-30 |  |
 | [Sasambu](https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Sasambu](https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz) | 2:37 | 2022-03-03 | 2022-05-06 |
 | [Sawa](https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sawa](https://open.spotify.com/album/5UjFk656mvckQJGUhW1Bg8) | 3:23 | 2023-03-02 | 2024-02-02 |
 | [Sele \(feat\. Chley\)](https://open.spotify.com/track/4fFAGCynCqGDdZg9kdQjX7) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Sele \(feat\. Chley\)](https://open.spotify.com/album/4KJZg1xvNwfRkbJYDuz4Wc) | 4:12 | 2023-08-10 | 2024-11-22 |
@@ -391,7 +393,7 @@
 | [Show Off](https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB) | [Ben Pol](https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Show Off](https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ) | 3:11 | 2023-08-31 |  |
 | [Shugga Daddy](https://open.spotify.com/track/7v2WiLVup37NCjBg3chiw1) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Shugga Daddy](https://open.spotify.com/album/5foA3Ow8x9xHM90eZx3QcC) | 4:36 | 2023-05-11 | 2024-01-26 |
 | [Side Niggah](https://open.spotify.com/track/2P6dLx8C5m0byvNcpWoeLp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Visit Bongo](https://open.spotify.com/album/0ZY5xnqRphPOYRkrHF0LiW) | 2:45 | 2023-11-23 | 2024-06-08 |
-| [Sifikirii](https://open.spotify.com/track/2rxm7E97XqinnxxOChdOoj) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Sifikirii](https://open.spotify.com/album/7bVyqvM5kOi1hzwDZME8xx) | 3:18 | 2024-10-10 |  |
+| [Sifikirii](https://open.spotify.com/track/2rxm7E97XqinnxxOChdOoj) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Sifikirii](https://open.spotify.com/album/7bVyqvM5kOi1hzwDZME8xx) | 3:18 | 2024-10-10 | 2025-01-31 |
 | [Siji \(feat\. Toss\)](https://open.spotify.com/track/6ssUS1CxYhJdTW3ZjOYrfm) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Siji \(feat\. Toss\)](https://open.spotify.com/album/1v6OzvzSuLMw7QAT5kpOaJ) | 3:39 | 2024-05-23 | 2024-10-04 |
 | [Simuachi](https://open.spotify.com/track/6oE9HQVRYv0TQelwyXdmAo) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Simuachi](https://open.spotify.com/album/0CWFq3CqpGfflKb174f7Z0) | 3:11 | 2023-06-15 | 2023-10-20 |
 | [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-05-05 | 2022-11-25 |

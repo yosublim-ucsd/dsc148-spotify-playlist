@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Jan 23:01 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Jan 19:01 UTC.
 
-4,038 songs - 9 day 8 hr 21 min
+4,041 songs - 9 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [A Good Time Pushed](https://open.spotify.com/track/1PO1Uc8DwEfSFGprln91lC) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [A Good Time Pushed](https://open.spotify.com/album/1HwcLQjfgSsqNWxbPL6cV2) | 3:27 | 2024-10-07 | 2024-10-10 |
 | [A Guy Called?](https://open.spotify.com/track/0d2Twch3UzAIY8yePbkAzz) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [A Guy Called?](https://open.spotify.com/album/4vofNXHWQG98auHmbZ4KSG) | 2:29 | 2025-01-26 |  |
 | [A Hole In The Ground](https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [A Hole In The Ground](https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru) | 3:07 | 2024-09-12 | 2024-09-14 |
-| [A Hope in Hell](https://open.spotify.com/track/1GlpZywdEnu3VVhrzRgwmY) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [A Hope in Hell](https://open.spotify.com/album/6Ymel2c6mZAXniReN8krly) | 4:02 | 2025-01-25 |  |
+| [A Hope in Hell](https://open.spotify.com/track/1GlpZywdEnu3VVhrzRgwmY) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [A Hope in Hell](https://open.spotify.com/album/6Ymel2c6mZAXniReN8krly) | 4:02 | 2025-01-25 | 2025-01-31 |
 | [a lil Church](https://open.spotify.com/track/1joStqsbjiDzBYkkEoTBw1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [a lil Church](https://open.spotify.com/album/6RzdBz9FPizucaPXPzA4mS) | 3:05 | 2024-12-06 | 2024-12-12 |
 | [A Line in the Dust](https://open.spotify.com/track/1WPijMCbMHyodBdwBQj12P) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Mat Welsh](https://open.spotify.com/artist/41qbLh8IPItyHRIHAQafft) | [A Line in the Dust](https://open.spotify.com/album/0QeSlVSiJRan9ocKl2tQWv) | 3:55 | 2025-01-28 |  |
 | [A Lot](https://open.spotify.com/track/7K2Rpqgu1rvKInUmp5w4kJ) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [A Lot](https://open.spotify.com/album/6tj57kLbgduFZPx1ztgmFW) | 2:06 | 2024-09-05 | 2024-09-07 |
@@ -378,6 +378,7 @@
 | [BERETTA](https://open.spotify.com/track/5oFigb8ql8JTtowM87T979) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 2:42 | 2024-10-16 | 2024-10-19 |
 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 | 2024-07-05 | 2024-07-08 |
 | [BEST FRIEND ONLY](https://open.spotify.com/track/6v6q61HjwVxlBO2GEWzUwd) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BEST FRIEND ONLY](https://open.spotify.com/album/1CKNi3YFGIM8uxzuoNrFVR) | 3:25 | 2024-09-20 | 2024-09-25 |
+| [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-01-30 |  |
 | [BET DAT](https://open.spotify.com/track/5JCogXAhg0phRFvRcQMHyr) | [Flight](https://open.spotify.com/artist/5e4gmiVV4XkRfnXhqRBEOk) | [BET DAT](https://open.spotify.com/album/3ki9wFDtDqRLYGPdMvpdS0) | 1:52 | 2024-11-06 | 2024-11-09 |
 | [Betcha Can't Wait](https://open.spotify.com/track/1YM1HcJPumMfV0YnEuJDIC) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Betcha Can't Wait / New Town Crier](https://open.spotify.com/album/2GKiOOt53Djb470e8sRpQ2) | 2:16 | 2024-06-28 | 2024-07-03 |
 | [Better](https://open.spotify.com/track/7cT6TnC60ou32XkbfYnH9v) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Better](https://open.spotify.com/album/4Wv49pFAiXZwcfGNz0verx) | 3:52 | 2024-11-08 | 2024-11-13 |
@@ -703,7 +704,7 @@
 | [Clover Paradise](https://open.spotify.com/track/3WT0j8yvZHAM6HVArq1LX0) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Clover Paradise](https://open.spotify.com/album/2suW4wxHSdhU0uK4gGuMui) | 5:09 | 2024-09-05 | 2024-09-07 |
 | [cmon bruh!](https://open.spotify.com/track/6b6TJTx99jvQk1IXUHAsXU) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7), [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V) | [cmon bruh!](https://open.spotify.com/album/1PcysXOMqhdRPDiZOFw4JR) | 2:46 | 2024-09-25 | 2024-09-27 |
 | [Coast](https://open.spotify.com/track/0qEDCvj7wCt5AAMusRcgFf) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Coast](https://open.spotify.com/album/5I1AuEqWDLOdzS639w6lIZ) | 3:28 | 2024-07-15 | 2024-07-18 |
-| [Coco Chanel](https://open.spotify.com/track/1ZfewkEU3CwEjBwVzYkNRP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Coco Chanel](https://open.spotify.com/album/5lS4IrCRyyiA2y8GYgVh6l) | 2:36 | 2025-01-25 |  |
+| [Coco Chanel](https://open.spotify.com/track/1ZfewkEU3CwEjBwVzYkNRP) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Coco Chanel](https://open.spotify.com/album/5lS4IrCRyyiA2y8GYgVh6l) | 2:36 | 2025-01-25 | 2025-01-31 |
 | [Coda](https://open.spotify.com/track/4zBtXmFDYbMUW40yF7VV3H) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Coda](https://open.spotify.com/album/5GaHWICFVGzEGg8ndmQmsP) | 4:09 | 2024-12-11 | 2024-12-14 |
 | [Codex](https://open.spotify.com/track/5w1wf4TzE8X2Aczszf6zXA) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Codex](https://open.spotify.com/album/3AsI13N4yyxErj8d8yseIi) | 6:46 | 2024-09-26 | 2024-09-28 |
 | [CoinciDestiny](https://open.spotify.com/track/5T2jsl6eFGylLpJy8qrCKI) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [CoinciDestiny](https://open.spotify.com/album/4n6ndoSFcaePpX8VSjihCI) | 3:22 | 2024-06-12 | 2024-06-14 |
@@ -1451,7 +1452,7 @@
 | [Groundhog Day](https://open.spotify.com/track/1HkuJNt5VQkJx6sPY4dwL4) | [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [Groundhog Day](https://open.spotify.com/album/2r7Kvovpxyxv7D0CqTaFIb) | 3:01 | 2024-10-03 | 2024-10-05 |
 | [Growing Story](https://open.spotify.com/track/6LYuwb0avQJNhIkcp5Zfjq) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Growing Story](https://open.spotify.com/album/79MStnsQdeiY2YQ6YwWlC7) | 3:32 | 2024-05-22 | 2024-05-24 |
 | [Growing Up](https://open.spotify.com/track/4JfCAr96utJ1pHKXQr6Hzd) | [LIL TAY](https://open.spotify.com/artist/5dsEqJbJ3ZC5A77Yaqwnu3) | [Growing Up](https://open.spotify.com/album/3kC4SEY8Pp64HEhOukYZHm) | 3:53 | 2024-10-04 | 2024-10-06 |
-| [Growth Sux](https://open.spotify.com/track/1emWc8cnkrkLWJQ9LYoXzx) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Growth Sux](https://open.spotify.com/album/3OsFR50hnTKb7epzcZyG3S) | 2:47 | 2025-01-27 |  |
+| [Growth Sux](https://open.spotify.com/track/1emWc8cnkrkLWJQ9LYoXzx) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Growth Sux](https://open.spotify.com/album/3OsFR50hnTKb7epzcZyG3S) | 2:47 | 2025-01-27 | 2025-01-31 |
 | [GROWUP](https://open.spotify.com/track/4BCHnbhllVVwyVBbHaQwyY) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [GROWUP](https://open.spotify.com/album/4pWSY3omW0xCyunRfuO8Hl) | 2:26 | 2024-10-10 | 2024-10-12 |
 | [Grădina Interioară](https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx) | [Dragonu AKA 47](https://open.spotify.com/artist/1RFTu9DxRmO2inIuvm7JMG), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Grădina Interioară](https://open.spotify.com/album/4bPrnYxez5wn8Rn6uUGJEz) | 4:26 | 2024-09-26 | 2024-09-28 |
 | [guardian](https://open.spotify.com/track/4lm8Yub4q6Tc1U8nBHnp87) | [BRUHMANEGOD](https://open.spotify.com/artist/4jKJcl7HTKV6FXKizgJiaY), [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [guardian](https://open.spotify.com/album/7EPcsutcoS80QtOzM2fI4L) | 4:25 | 2024-05-11 | 2024-05-15 |
@@ -1742,6 +1743,7 @@
 | [Identities](https://open.spotify.com/track/2ZeKGpg1o2lzyMdmsuNgqi) | [HalaCG](https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J), [WUNDER RiKU](https://open.spotify.com/artist/0HG6vVTU6aGNO0F3Bug23k) | [Identities](https://open.spotify.com/album/6Ws06aKAmgZ5yNW2cQtYVY) | 2:51 | 2024-09-07 | 2024-09-12 |
 | [Identity](https://open.spotify.com/track/5vL4zyP6X132arv4VhySLT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Identity](https://open.spotify.com/album/7xzn12f7FNR7ZaZ5RB7afD) | 2:20 | 2024-10-28 | 2024-10-31 |
 | [idiot](https://open.spotify.com/track/7gHr8kI2aN1OvjQv4o2VPg) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [idiot](https://open.spotify.com/album/63IOT3ku8ix5AiypBT4wo7) | 3:57 | 2024-08-28 | 2024-08-31 |
+| [idk wtf](https://open.spotify.com/track/0KKkgtMyR2G9CrAub2qsSs) | [prettifun](https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65) | [idk wtf](https://open.spotify.com/album/20KsYqMVJWkmjP7lZbVUs2) | 2:44 | 2025-01-30 |  |
 | [If I Am](https://open.spotify.com/track/1MXY6H5UDzcS9N7xr57Ncn) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [If I Am](https://open.spotify.com/album/2QPqImSOkDdRZCgVan0TAG) | 2:22 | 2024-10-23 | 2024-10-26 |
 | [If I Was Abducted By Aliens](https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [If I Was Abducted By Aliens](https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE) | 2:46 | 2024-07-29 | 2024-08-02 |
 | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L) | 4:23 | 2024-05-07 | 2024-05-09 |
@@ -3049,6 +3051,7 @@
 | [Silently Walking Alone](https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Silently Walking Alone](https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J) | 4:05 | 2024-06-26 | 2024-06-28 |
 | [Silver](https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Silver](https://open.spotify.com/album/4dkURusmVlpzbbr6EA5iYI) | 3:16 | 2024-07-09 | 2024-07-11 |
 | [Silver Cloud](https://open.spotify.com/track/5AiTSPFGkyasoocwYhdBW2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Silver Cloud](https://open.spotify.com/album/2RHGK1UjQVqM10Qn06Rnww) | 3:08 | 2024-08-20 | 2024-08-24 |
+| [Silver Swarm](https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Silver Swarm](https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz) | 4:33 | 2025-01-30 |  |
 | [Silver Tongue](https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Silver Tongue](https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS) | 4:22 | 2024-05-25 | 2024-05-29 |
 | [SilverCane](https://open.spotify.com/track/4eg3NfOyPtV6OH7DLg95ZR) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [SilverCane](https://open.spotify.com/album/0lZHCPsxNUJXufdgHixK7j) | 4:02 | 2024-09-03 | 2024-09-06 |
 | [SIMMER](https://open.spotify.com/track/2kPgSxXgvQPrVkMx3R5UCz) | [daysormay](https://open.spotify.com/artist/1gneO1Mf6DCsgxUtDzF4lS) | [SIMMER](https://open.spotify.com/album/0jmSZLtFG74vjKqjIFGBOo) | 3:03 | 2024-05-16 | 2024-05-18 |

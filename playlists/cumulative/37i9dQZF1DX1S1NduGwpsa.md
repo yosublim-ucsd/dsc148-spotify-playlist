@@ -2,9 +2,9 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Gabi Hartman
+> The best jazz new releases\. Cover: Macha Gharibian
 
-689 songs - 2 day 1 hr 13 min
+691 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Hold Me](https://open.spotify.com/track/7JLnz4gduHX0gXdaCp33Kb) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Dark Black](https://open.spotify.com/album/2eV8dXQXxJderdQEvY3ZuC) | 3:05 | 2024-03-28 | 2024-06-01 |
 | [Home](https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Dylan Jones](https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:35 | 2022-04-14 | 2022-06-03 |
 | [Home Cookin'](https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Home Cookin'](https://open.spotify.com/album/7CAToGy0bWVmXolIK9EVlx) | 5:35 | 2023-11-09 | 2024-01-19 |
-| [Hope](https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Brightlight](https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk) | 4:06 | 2024-10-24 |  |
+| [Hope](https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Brightlight](https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk) | 4:06 | 2024-10-24 | 2025-01-31 |
 | [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 | 2023-08-24 | 2023-11-17 |
 | [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-07 | 2023-08-31 |
 | [How Did You Get In My Dreams?](https://open.spotify.com/track/3H54XoNyQQ8ZIIJUDMDSaO) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [How Did You Get In My Dreams?](https://open.spotify.com/album/2nms9ZBfxS99WUN38VhSp7) | 3:37 | 2023-08-07 | 2023-10-20 |
@@ -439,6 +439,7 @@
 | [Not Here / Not Now](https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Not Here / Not Now](https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N) | 4:15 | 2023-04-27 | 2023-08-25 |
 | [Not Time Yet](https://open.spotify.com/track/3uLk6WdVQnniPupmUkEBsW) | [Etienne Mbappe](https://open.spotify.com/artist/6PUayclLDBItmvqg63Ii9f), [Nec +](https://open.spotify.com/artist/0SBEIIMjlchzFyXhOFNgwg) | [Time Will Tell](https://open.spotify.com/album/1CARvS0Aw6kcWA9fwFx7tS) | 4:06 | 2022-04-14 | 2022-05-20 |
 | [Nothing Sweeter](https://open.spotify.com/track/1FladVQrgLnoiL8hVVLp8i) | [Cosmo Lautaro](https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M) | [Nothing Sweeter](https://open.spotify.com/album/0WhE3o3yfAJ1OzIM1TFWUR) | 2:37 | 2024-07-25 | 2024-10-04 |
+| [Nougayork Remix \(International Version\) \- feat\. Marquis Hill](https://open.spotify.com/track/2UyuSPI9Ciadj89C2f3CZl) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR), [Philippe Saisse](https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [Nougayork Remixes \(feat\. Marquis Hill\)](https://open.spotify.com/album/20qMY89dHkttjTqPzpvzo2) | 4:24 | 2025-01-30 |  |
 | [Nowhere to Hide](https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Nowhere to Hide](https://open.spotify.com/album/0iwbgBKp5FKjItE7bMeocQ) | 3:19 | 2024-01-11 | 2024-03-01 |
 | [Nymphea](https://open.spotify.com/track/1HxY3Z3vFws3fTsiOW1utQ) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [Nymphea](https://open.spotify.com/album/4QPC8VgOOEh6pBGmlPbSF0) | 4:46 | 2024-04-18 | 2024-07-27 |
 | [ode to rahsaan](https://open.spotify.com/track/2L6sbcKSPsXPW6x8lyiEsU) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [ode to rahsaan](https://open.spotify.com/album/4Up6R581JD14RmIFgxUrnF) | 3:30 | 2024-06-20 | 2024-09-13 |
@@ -579,6 +580,7 @@
 | [That's Life](https://open.spotify.com/track/7jTLS32BMC2UyTTjEUW6BT) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 3:04 | 2024-09-26 | 2025-01-17 |
 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 | 2022-06-09 | 2022-10-28 |
 | [The Barber](https://open.spotify.com/track/0CepbR21k7urTljw1WC45E) | [Fanou Torracinta](https://open.spotify.com/artist/0Yo2W6yJSwbZydJ0f6xNER) | [The Barber](https://open.spotify.com/album/0D6dwxMpqFmFmxIt4GJFFV) | 3:13 | 2024-11-14 | 2025-01-17 |
+| [The Best Is Yet To Come](https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa) | [The Best Is Yet To Come](https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb) | 4:31 | 2025-01-30 |  |
 | [The Colors of the West](https://open.spotify.com/track/4IiF17HJZGVEowKR4ugVAN) | [Breezy Crust](https://open.spotify.com/artist/718bMVciNqFHau2FG9Gzcw) | [Yummy Beats](https://open.spotify.com/album/1Qraz9ig8k4CJTvy6vGlqO) | 3:04 | 2024-02-29 | 2024-06-07 |
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 | 2024-01-11 | 2024-01-29 |
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/6OCawhDsDWOyyhWwoumwsT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 2:43 | 2024-01-25 | 2024-02-23 |

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: RAT BOY",
-  "num_followers": 57841,
+  "num_followers": 57852,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-01-24 06:00:23",
       "album": {
+        "name": "Klub Ska",
+        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 206039,
+      "name": "S\u00f3lo Vivir",
+      "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
+    },
+    {
+      "added_at": "2025-01-24 06:00:23",
+      "album": {
         "name": "Leven Het Groots",
         "url": "https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 151191,
       "name": "Leven Het Groots",
       "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
-    },
-    {
-      "added_at": "2025-01-24 06:00:23",
-      "album": {
-        "name": "Klub Ska",
-        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 206039,
-      "name": "S\u00f3lo Vivir",
-      "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
     },
     {
       "added_at": "2025-01-24 06:00:23",
@@ -795,22 +795,18 @@
     {
       "added_at": "2025-01-24 06:00:23",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2025-01-24 06:00:23",
@@ -831,18 +827,22 @@
     {
       "added_at": "2025-01-24 06:00:23",
       "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
       "artists": [
         {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2025-01-24 06:00:23",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-01-24 06:00:23",
       "album": {
-        "name": "Katupoikien laulu (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
-        "url": "https://open.spotify.com/album/3kmAYJO0xJ3L2YVbDCiZTy"
-      },
-      "artists": [
-        {
-          "name": "Costello",
-          "url": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
-        }
-      ],
-      "duration_ms": 174771,
-      "name": "Katupoikien laulu (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
-      "url": "https://open.spotify.com/track/6YOvYtaDf0l3kTLYCbmzHW"
-    },
-    {
-      "added_at": "2025-01-24 06:00:23",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2025-01-24 06:00:23",
+      "album": {
+        "name": "Katupoikien laulu (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/3kmAYJO0xJ3L2YVbDCiZTy"
+      },
+      "artists": [
+        {
+          "name": "Costello",
+          "url": "https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx"
+        }
+      ],
+      "duration_ms": 174771,
+      "name": "Katupoikien laulu (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/6YOvYtaDf0l3kTLYCbmzHW"
     },
     {
       "added_at": "2025-01-24 06:00:23",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-01-24 06:00:23",
       "album": {
-        "name": "Lovonauts' Odyssey",
-        "url": "https://open.spotify.com/album/1TI1FrHCJMD0gw4pBxtm5L"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Shuffling",
-          "url": "https://open.spotify.com/artist/14Mjdb5RbIjm8gKEO4qT7s"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Asteroid Field II",
-      "url": "https://open.spotify.com/track/1z1z7GRrKyfV7edO3RHBCv"
-    },
-    {
-      "added_at": "2025-01-24 06:00:23",
-      "album": {
         "name": "Si Oh !",
         "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 151013,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+    },
+    {
+      "added_at": "2025-01-24 06:00:23",
+      "album": {
+        "name": "Lovonauts' Odyssey",
+        "url": "https://open.spotify.com/album/1TI1FrHCJMD0gw4pBxtm5L"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Shuffling",
+          "url": "https://open.spotify.com/artist/14Mjdb5RbIjm8gKEO4qT7s"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Asteroid Field II",
+      "url": "https://open.spotify.com/track/1z1z7GRrKyfV7edO3RHBCv"
     },
     {
       "added_at": "2025-01-24 06:00:23",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2025-01-24 06:00:23",
       "album": {
-        "name": "Walking Pipebomb",
-        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 165111,
-      "name": "Walking Pipebomb",
-      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
-    },
-    {
-      "added_at": "2025-01-24 06:00:23",
-      "album": {
-        "name": "We'll Be Around",
-        "url": "https://open.spotify.com/album/1nEfwraoymHDIAelGw3s6s"
-      },
-      "artists": [
-        {
-          "name": "The Gramophone Allstars",
-          "url": "https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN"
-        }
-      ],
-      "duration_ms": 257978,
-      "name": "I'll Be Around - Big Band Version",
-      "url": "https://open.spotify.com/track/3VPPpgoH9IZMrH6aCeAKC3"
-    },
-    {
-      "added_at": "2025-01-24 06:00:23",
-      "album": {
         "name": "Lights Out In The Reptile House",
         "url": "https://open.spotify.com/album/0I2NMVIK0TZB5cZMn9gbfa"
       },
@@ -1627,6 +1595,22 @@
     {
       "added_at": "2025-01-24 06:00:23",
       "album": {
+        "name": "Walking Pipebomb",
+        "url": "https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 165111,
+      "name": "Walking Pipebomb",
+      "url": "https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk"
+    },
+    {
+      "added_at": "2025-01-24 06:00:23",
+      "album": {
         "name": "Get Me Ready",
         "url": "https://open.spotify.com/album/0AUFHAT1XHHyxiMucByoGB"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 169688,
       "name": "Get Me Ready",
       "url": "https://open.spotify.com/track/2R6xSW1Z50F8CT31BNWMhM"
+    },
+    {
+      "added_at": "2025-01-24 06:00:23",
+      "album": {
+        "name": "We'll Be Around",
+        "url": "https://open.spotify.com/album/1nEfwraoymHDIAelGw3s6s"
+      },
+      "artists": [
+        {
+          "name": "The Gramophone Allstars",
+          "url": "https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN"
+        }
+      ],
+      "duration_ms": 257978,
+      "name": "I'll Be Around - Big Band Version",
+      "url": "https://open.spotify.com/track/3VPPpgoH9IZMrH6aCeAKC3"
     },
     {
       "added_at": "2025-01-24 06:00:23",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-01-24 06:00:23",
       "album": {
-        "name": "The One And Only",
-        "url": "https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje"
-      },
-      "artists": [
-        {
-          "name": "Makua Rothman",
-          "url": "https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN"
-        }
-      ],
-      "duration_ms": 183725,
-      "name": "The One And Only",
-      "url": "https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW"
-    },
-    {
-      "added_at": "2025-01-24 06:00:23",
-      "album": {
         "name": "Rudes Against",
         "url": "https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 168688,
       "name": "Bella ciao",
       "url": "https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM"
+    },
+    {
+      "added_at": "2025-01-24 06:00:23",
+      "album": {
+        "name": "St. Pauli - Einhundert",
+        "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
+      },
+      "artists": [
+        {
+          "name": "Dubtari",
+          "url": "https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Forza St. Pauli",
+      "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
     }
   ],
   "unique_name": "Ska Around The Globe",

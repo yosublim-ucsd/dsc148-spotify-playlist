@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "The Fascinating Chimera Project",
+        "url": "https://open.spotify.com/album/5vXWQ39mAfzbsshrH7cAcb"
+      },
+      "artists": [
+        {
+          "name": "The Fascinating Chimera Project",
+          "url": "https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92578,
+      "name": "Hewlett",
+      "url": "https://open.spotify.com/track/2lXcKxWjdpdYq5ywSuO8kq"
+    },
+    {
+      "album": {
         "name": "Hey, Hey Girl 7\"",
         "url": "https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67"
       },

@@ -2,9 +2,9 @@
 
 ### [شعبي مصري](https://open.spotify.com/playlist/37i9dQZF1DX7Gwi28HhdBP)
 
-> أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
+> أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt?si=r\_g1xn5CQQqWlLHPTMc72Q">  حكيم </a>
 
-282 songs - 20 hr 30 min
+283 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [الرزق](https://open.spotify.com/track/6KcPpxoGf9sHrW0s44agGM) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq), [Eman Al Hakamy](https://open.spotify.com/artist/72UE9fxM1TrbjIFN82vlXW) | [الرزق](https://open.spotify.com/album/2fxJY4BM9ias683sm0fuWz) | 5:28 | 2022-07-14 | 2023-05-12 |
 | [السخان](https://open.spotify.com/track/41XLRr32qGDjmcSs3GKa7B) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [السخان](https://open.spotify.com/album/5dYVZRHfYxMnpizVoXyane) | 3:06 | 2023-07-26 | 2024-02-23 |
 | [السم جوه العسل](https://open.spotify.com/track/7i2pvvHw2DbOxQQqdErN2H) | [Semsem Shehab](https://open.spotify.com/artist/7z6lX09yzAUCeEsYVCimo4) | [السم جوه العسل](https://open.spotify.com/album/5oeVGgDGQOn7N0TcV4cjSi) | 4:20 | 2021-12-16 | 2023-09-01 |
-| [الصمت لغة العظماء](https://open.spotify.com/track/4Yfp2SnD4d1Q2Ftw7tya0k) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [الصمت لغة العظماء](https://open.spotify.com/album/5N1tiywFBgDRA3HaRM3BlE) | 4:05 | 2024-09-19 |  |
+| [الصمت لغة العظماء](https://open.spotify.com/track/4Yfp2SnD4d1Q2Ftw7tya0k) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [الصمت لغة العظماء](https://open.spotify.com/album/5N1tiywFBgDRA3HaRM3BlE) | 4:05 | 2024-09-19 | 2025-01-31 |
 | [الغل مني هاريكو](https://open.spotify.com/track/4KACpmTcHspHtJCupdVozK) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الغل مني هاريكو](https://open.spotify.com/album/7MF1GeEM83pFtcYHNY7M9g) | 4:02 | 2023-07-11 | 2024-01-12 |
 | [الفترة اللى فاتت](https://open.spotify.com/track/5NfAzsHPEua9P1D9XHbEok) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [الفترة اللى فاتت](https://open.spotify.com/album/6MujNJk74u0qvij5Mct9DP) | 5:10 | 2025-01-02 |  |
 | [القلوب طرحت حجارة](https://open.spotify.com/track/6ZrC8g6j9V0e0dBGpUKD0E) | [Tarek El Sheikh](https://open.spotify.com/artist/1yi5rDKyrkV1zdDXOzOMkk) | [القلوب طرحت حجارة](https://open.spotify.com/album/5DigNXSH1AyfVXElOKsKy6) | 5:11 | 2021-12-16 | 2022-04-22 |
@@ -208,6 +208,7 @@
 | [اه يا دنيا](https://open.spotify.com/track/0THQA9oPhOoXuBFJKAJtGi) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/3tNNn4fKSt7Zvv7wWFusil) | 4:37 | 2021-12-16 |  |
 | [اه يا دنيا](https://open.spotify.com/track/2ZQH0ouCOc78akBj28DfCQ) | [بوسي](https://open.spotify.com/artist/0CtOY7f9AHgJu6rd7uXmgL) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/1pI3Na3k6Pv4BYRMJIquEm) | 4:37 | 2022-07-14 | 2024-04-19 |
 | [باب الشعريه](https://open.spotify.com/track/1LvxnrYAgVPrmSl2U8lYqz) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [باب الشعريه](https://open.spotify.com/album/5W7slMzTwQbryB0as01CLa) | 3:22 | 2021-12-16 | 2024-09-20 |
+| [بتاع مصلحتك](https://open.spotify.com/track/53mFZHhulp7autUE0kzzGK) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [بتاع مصلحتك](https://open.spotify.com/album/68PL2K2mjuPpK0fX7h8OaD) | 4:28 | 2025-01-30 |  |
 | [بسعر السوق](https://open.spotify.com/track/6ggf2EMsyKRAqTw6PdGQx8) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN), [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx) | [بسعر السوق](https://open.spotify.com/album/5RhuLXrk70N2fYpoBGPrbP) | 3:48 | 2021-12-16 | 2022-07-28 |
 | [بسعر السوق](https://open.spotify.com/track/7Liqk0rt77WZxZasO7ITlV) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN), [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx) | [بسعر السوق](https://open.spotify.com/album/100LzmTOYcUYhPVOVxnyL3) | 3:48 | 2022-07-14 | 2022-09-25 |
 | [بيعدي قصادي](https://open.spotify.com/track/6KzOqxXrTkjeJSwusYA9mn) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k) | [بيعدي قصادي](https://open.spotify.com/album/0ELriZnz6d9F4uMbzXodmf) | 3:48 | 2021-12-16 | 2022-07-28 |

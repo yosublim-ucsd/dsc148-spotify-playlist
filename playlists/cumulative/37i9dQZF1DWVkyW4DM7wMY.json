@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest alternative music from Nairobi to Dar! Cover: tg.blk",
+  "description": "The hottest alternative music from Nairobi to Dar! Cover: Flier",
   "name": "Eastern Vibes",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 186875,
       "name": "All My Fault",
       "url": "https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3"
@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 186468,
       "name": "BANGUK",
       "url": "https://open.spotify.com/track/1GWaIEbioQsRV6Yaq8VwmO"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 133537,
       "name": "Belinda",
       "url": "https://open.spotify.com/track/64C4vezOJyDbudIGxquW89"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 158000,
       "name": "Camille",
       "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Chill Kiasi",
+        "url": "https://open.spotify.com/album/50yCYw9hPvOAn0UXYNCPHM"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Chill Kiasi",
+      "url": "https://open.spotify.com/track/0nHb64eRLPTPwVUrJzn4Ko"
+    },
+    {
+      "album": {
         "name": "Cigarette",
         "url": "https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd"
       },
@@ -486,7 +504,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 148981,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2AgQh0XQEYKybUvP9QM3Mf"
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 178285,
       "name": "Divine Intervention",
       "url": "https://open.spotify.com/track/71FvDWdttOeuEdCb63a73s"
@@ -690,6 +708,36 @@
       "duration_ms": 167500,
       "name": "Echoes - Remix",
       "url": "https://open.spotify.com/track/3B7XQSWXPAsz50D3NZTmZi"
+    },
+    {
+      "album": {
+        "name": "olympean",
+        "url": "https://open.spotify.com/album/6sSChOGxUAliFMngXURrWf"
+      },
+      "artists": [
+        {
+          "name": "mwami",
+          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        },
+        {
+          "name": "@ys",
+          "url": "https://open.spotify.com/artist/3tFbeSNFqSBSPu8GAqoDap"
+        },
+        {
+          "name": "Nyokabi Kariuki",
+          "url": "https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304818,
+      "name": "emeralda",
+      "url": "https://open.spotify.com/track/1V68YbLoBnIGGT9OVXFjvU"
     },
     {
       "album": {
@@ -765,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0QsUVwwBDQ1QH7XmKcpm17"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/1cNzIS06lWjHIVdj9aKHMA"
+    },
+    {
+      "album": {
         "name": "Feel A Vibe",
         "url": "https://open.spotify.com/album/4EjSGOjlSpwN4Kdv3gvALp"
       },
@@ -834,7 +900,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 141333,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC"
@@ -932,7 +998,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 226290,
       "name": "Galatea",
       "url": "https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO"
@@ -1067,6 +1133,28 @@
     },
     {
       "album": {
+        "name": "Gyensula | An Xpressions UG Session",
+        "url": "https://open.spotify.com/album/1o3ssIluOZ1HFiMqQOA2n0"
+      },
+      "artists": [
+        {
+          "name": "XpressionsUG",
+          "url": "https://open.spotify.com/artist/3KzKyuWGLRUYlCKrG5O7l5"
+        },
+        {
+          "name": "OmaNi ReigN",
+          "url": "https://open.spotify.com/artist/4asjN0yrL59sabVQEnKLYV"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Gyensula | An Xpressions UG Session",
+      "url": "https://open.spotify.com/track/1HNEMglLYQSEGlEdtvIqq5"
+    },
+    {
+      "album": {
         "name": "Habibi Only Live Once",
         "url": "https://open.spotify.com/album/5HPCWQ7s2b9bI6Cw1bQYwQ"
       },
@@ -1184,7 +1272,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 139750,
       "name": "HERE THEY COME",
       "url": "https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu"
@@ -1246,7 +1334,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 278804,
       "name": "I Give Her Love",
       "url": "https://open.spotify.com/track/6haw04b2NBB93aG0xeuZ5c"
@@ -1662,7 +1750,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 85947,
       "name": "Less",
       "url": "https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE"
@@ -1746,7 +1834,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 182842,
       "name": "Let Me Lose My Mind In Peace",
       "url": "https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7"
@@ -2287,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Nazama - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6fdfkp29lb9ur7tDcVRzqA"
+      },
+      "artists": [
+        {
+          "name": "Nyokabi Kariuki",
+          "url": "https://open.spotify.com/artist/04vacT34stkfP2TFkNvDf2"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155276,
+      "name": "Nazama - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2YX0cRQN7xSMpEhyokEUXM"
+    },
+    {
+      "album": {
         "name": "Ndanu",
         "url": "https://open.spotify.com/album/0S5c02uwpmrACcV7UFgm6y"
       },
@@ -2356,6 +2462,32 @@
       "duration_ms": 200682,
       "name": "New Level // SUPERWATER",
       "url": "https://open.spotify.com/track/0wIDhVcSIKvB8zxpfJc9dC"
+    },
+    {
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/2LyrxrjHJM2SxaXc9UWpVV"
+      },
+      "artists": [
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        },
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/1MtRGITSni0szQUvcCXhHj"
     },
     {
       "album": {
@@ -2652,7 +2784,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 195596,
       "name": "Passenger 555",
       "url": "https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ"
@@ -2786,7 +2918,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 190000,
       "name": "Pretty Young Thing",
       "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
@@ -2822,7 +2954,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 215820,
       "name": "Refuse Refuge",
       "url": "https://open.spotify.com/track/3NZKY4w97Tk2jKqANxQzlW"
@@ -3000,7 +3132,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 122727,
       "name": "Sare Jokes",
       "url": "https://open.spotify.com/track/0VO1URUTdzWlo7V3VlHYqv"
@@ -3519,6 +3651,24 @@
     },
     {
       "album": {
+        "name": "Thriving",
+        "url": "https://open.spotify.com/album/1f7W3aHon0l0J6yu9YISaR"
+      },
+      "artists": [
+        {
+          "name": "The.wav",
+          "url": "https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132932,
+      "name": "Thriving",
+      "url": "https://open.spotify.com/track/6xebvA0oPu1gzCo9jCh4yS"
+    },
+    {
+      "album": {
         "name": "Name Me Mansa",
         "url": "https://open.spotify.com/album/5BfJZMIXGxzyV9eQA44tMz"
       },
@@ -3916,7 +4066,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 206180,
       "name": "Whatchu Wan",
       "url": "https://open.spotify.com/track/6Gl0MyOS1NK50bGfU7I2G3"

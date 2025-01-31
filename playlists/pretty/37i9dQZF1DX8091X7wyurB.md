@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > <a href=https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16?si=ZZ7fYlcDTKu4PoFYX7wKMQ>Passion</a>  is taking over Praise and Worship this week ahead of their worship events in South Africa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,450 likes - 33 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,657 likes - 33 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

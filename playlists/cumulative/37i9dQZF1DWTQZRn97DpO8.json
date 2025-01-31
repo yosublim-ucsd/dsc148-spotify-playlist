@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Oscar Emch",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : aupinard",
   "name": "le miel",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 170232,
       "name": "Corps \u00e0 corps",
       "url": "https://open.spotify.com/track/4JihV9mvL6fagy6YNYsDU0"
@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "FLOP - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6p360aNtf9ibnYgQTr3bWS"
+      },
+      "artists": [
+        {
+          "name": "Tuerie",
+          "url": "https://open.spotify.com/artist/1UILCk5p48n9qaNf1uie0a"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223285,
+      "name": "FLOP - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6Vx81VUOTTozaCNR5XtxV0"
+    },
+    {
+      "album": {
         "name": "Get out",
         "url": "https://open.spotify.com/album/66wO4PPB1dAupIjGHCI4X5"
       },
@@ -1650,6 +1668,28 @@
       "duration_ms": 162000,
       "name": "Henny n Shit",
       "url": "https://open.spotify.com/track/4nZeTqowlfbouZYxPvLpDZ"
+    },
+    {
+      "album": {
+        "name": "Heureuse",
+        "url": "https://open.spotify.com/album/0Eij08j7BLHHdOTL9E1Inc"
+      },
+      "artists": [
+        {
+          "name": "Redzol",
+          "url": "https://open.spotify.com/artist/5lZC2NXIJuvgOAGOBonrVE"
+        },
+        {
+          "name": "Fleetzy",
+          "url": "https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165599,
+      "name": "Heureuse",
+      "url": "https://open.spotify.com/track/2FlIGn0Y9UxA6AsOzbyuH5"
     },
     {
       "album": {
@@ -2389,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "pluie, montagnes et soleil",
+        "url": "https://open.spotify.com/album/1Q88dZPYDQVlUAorApFINM"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "le feu.",
+      "url": "https://open.spotify.com/track/3WhBuw0WQPRKrAcRM5dVRB"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0JO5P9WMpfsqgdxL1H068R"
       },
@@ -2404,6 +2462,24 @@
       "duration_ms": 152720,
       "name": "Le Plan",
       "url": "https://open.spotify.com/track/6bcLZsRZI3sUz12vr1MqgP"
+    },
+    {
+      "album": {
+        "name": "VINGT-SIX",
+        "url": "https://open.spotify.com/album/4BRqgw61bHrNbsg964vWHa"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00ebmoi",
+          "url": "https://open.spotify.com/artist/57E3qUdM1qRS3UGyxb8TSC"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Le poids des mots",
+      "url": "https://open.spotify.com/track/5NUUf4J0n21XCHplK6SonF"
     },
     {
       "album": {
@@ -3011,6 +3087,24 @@
     },
     {
       "album": {
+        "name": "My Luv",
+        "url": "https://open.spotify.com/album/7MxG2HZlJvO0Q7KGxFfGYc"
+      },
+      "artists": [
+        {
+          "name": "Keziah",
+          "url": "https://open.spotify.com/artist/3CuHmC1rd8RvFdFhcn7467"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "My Luv",
+      "url": "https://open.spotify.com/track/1BR0nKf4sv0l2SqhugpIUJ"
+    },
+    {
+      "album": {
         "name": "Ginger Season 2",
         "url": "https://open.spotify.com/album/45zM9grYw3huSLPlgXpjwU"
       },
@@ -3462,7 +3556,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 156000,
       "name": "Pi\u00f1a Colada",
       "url": "https://open.spotify.com/track/2PSLcpysXnCNwCsf5WB5zz"
@@ -4598,7 +4692,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 100205,
       "name": "toutes les fleurs",
       "url": "https://open.spotify.com/track/4105wlfhkrp2TfDJI6WdCB"
@@ -4786,7 +4880,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 145909,
       "name": "U&I",
       "url": "https://open.spotify.com/track/3lqQyJlnNko0tmdo7KyCTM"
@@ -4822,7 +4916,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 189639,
       "name": "un soir d'hiver",
       "url": "https://open.spotify.com/track/5Y2WTNlWpKx5c8HWDaitqk"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Coez in cover",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Tananai in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 192989,
       "name": "Rossetto e caff\u00e8",
       "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Tutta L'Italia (Sanremo 2025)",
+        "url": "https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176874,
+      "name": "Tutta L'Italia - Sanremo 2025",
+      "url": "https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39"
+    },
+    {
+      "album": {
         "name": "tutta vera",
         "url": "https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5"
       },
@@ -3128,6 +3146,24 @@
       "duration_ms": 184333,
       "name": "uguale a me (feat. Marco Mengoni)",
       "url": "https://open.spotify.com/track/3eabpzStQsPOmhcrUjVkNq"
+    },
+    {
+      "album": {
+        "name": "Il corpo umano VOL. 1",
+        "url": "https://open.spotify.com/album/5GElpFAAm9NuWFau9h9Oj9"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240572,
+      "name": "Un mondo a parte",
+      "url": "https://open.spotify.com/track/5niBKNtMNJTSPLTCBTc3wr"
     },
     {
       "album": {

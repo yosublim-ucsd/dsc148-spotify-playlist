@@ -4649,6 +4649,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Do Nada",
+        "url": "https://open.spotify.com/album/64p7CrFGlKyEFvAnv3P0D4"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127658,
+      "name": "Muda De Planeta",
+      "url": "https://open.spotify.com/track/02pratXuIvJ6NlCdmNcFhR"
+    },
+    {
+      "album": {
         "name": "Pra Beber Chorando",
         "url": "https://open.spotify.com/album/38OcA8qfNUeOTATJTbo93Y"
       },

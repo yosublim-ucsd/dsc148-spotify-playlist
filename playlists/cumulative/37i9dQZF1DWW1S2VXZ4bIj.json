@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 195189,
       "name": "1%",
       "url": "https://open.spotify.com/track/6PR5TxUGhB3SEe7lWJk4Jn"
@@ -475,6 +475,32 @@
     },
     {
       "album": {
+        "name": "CURSE (\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19)",
+        "url": "https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "CURSE (\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19)",
+      "url": "https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N"
+    },
+    {
+      "album": {
         "name": "DAY ONE",
         "url": "https://open.spotify.com/album/3gZFo8vs8dz9k9Uoc7UUoi"
       },
@@ -728,7 +754,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 159797,
       "name": "HER",
       "url": "https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2"
@@ -1122,7 +1148,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 191311,
       "name": "my daisy",
       "url": "https://open.spotify.com/track/0q1b14y590mo6EE2XyBhNy"
@@ -2272,6 +2298,24 @@
       "duration_ms": 216000,
       "name": "\u0e01\u0e31\u0e01\u0e01\u0e31\u0e4a\u0e01 (GUGGUG) [feat. GEE]",
       "url": "https://open.spotify.com/track/14slHajs1oLT7ZjZ2zuRZB"
+    },
+    {
+      "album": {
+        "name": "\u0e01\u0e31\u0e4a\u0e01 (No-status Status) [From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08]",
+        "url": "https://open.spotify.com/album/1bg1urEY0Qyd7MpPRY6iWL"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188959,
+      "name": "\u0e01\u0e31\u0e4a\u0e01 (No-status Status) - From GELBOYS \u0e2a\u0e16\u0e32\u0e19\u0e30\u0e01\u0e31\u0e4a\u0e01\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/2P2qSPBjQfeyxBRDxFivHZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-696 songs - 1 day 6 hr 16 min
+697 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Horizon \(So Blue\)](https://open.spotify.com/track/4q4IwjuMCZ5g9e9LwH9P3J) | [Abraham Colona](https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Horizon \(So Blue\)](https://open.spotify.com/album/3So42AUVeG31u5L8IN1HvE) | 2:15 | 2024-01-27 |  |
 | [Hotel California](https://open.spotify.com/track/0CGnyglAc8wPFj8lus9P0W) | [live to love](https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Hotel California](https://open.spotify.com/album/6qtt9QJYtwYoO9K6FeNPhe) | 3:08 | 2024-07-10 | 2024-09-09 |
 | [House Of Cards](https://open.spotify.com/track/6dCF9KJngOrJCmMuxFmBx1) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [House Of Cards](https://open.spotify.com/album/6ru1h6aqej9yk3r4gJzwMH) | 2:36 | 2023-11-05 | 2024-10-07 |
+| [House On The Beach](https://open.spotify.com/track/6kPChG0xYqbKXvDcSlqYWJ) | [SEIDS](https://open.spotify.com/artist/2Eipav5ZNY6ON1FReIYpKE), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [House On The Beach](https://open.spotify.com/album/4oEQdcixkeDBHuwcsvTsNN) | 2:21 | 2025-01-30 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/7l8ZciJEkbSpmL4jaKv4k9) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [How Deep Is Your Love](https://open.spotify.com/album/58llHvcuLwyZdMjRXC1af6) | 1:52 | 2024-02-04 | 2024-03-11 |
 | [How Will I Know](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Danny CLLS](https://open.spotify.com/artist/6d3nH8GbnopYSzp2u5qaFG), [nøya.](https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD) | [How Will I Know](https://open.spotify.com/album/5UVeoCXb9GJtXl3AiLk1RV) | 2:30 | 2024-05-04 | 2024-06-23 |
 | [Human](https://open.spotify.com/track/4j4XRNiVIhXFn5OeVwCf8i) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [Kilma](https://open.spotify.com/artist/7aICckyYS2BcCmBtOifHoU) | [Human](https://open.spotify.com/album/7HJ9q5pVULNkUNDGusHs6D) | 2:54 | 2024-09-08 | 2024-09-21 |

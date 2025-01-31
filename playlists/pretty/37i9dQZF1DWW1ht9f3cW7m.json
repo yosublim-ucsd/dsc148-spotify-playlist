@@ -1,6 +1,6 @@
 {
   "description": "sweet and fresh emerging indie pop, featuring Esme Emerson \ud83c\udf51",
-  "num_followers": 29611,
+  "num_followers": 29646,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/4dVdqGNmSeT4EOt3vO68dR"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 159323,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/4GKlQw3wlSRBM3MiCilBOj"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
         "name": "pretty world",
         "url": "https://open.spotify.com/album/1n5k2itF39JFPvRgnYGJ6G"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 182498,
       "name": "crush (tom verlaine)",
       "url": "https://open.spotify.com/track/5LtjfCzRlKVERVaNjJqmUq"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/4dVdqGNmSeT4EOt3vO68dR"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 159323,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/4GKlQw3wlSRBM3MiCilBOj"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Beach House",
-        "url": "https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 197027,
-      "name": "Beach House",
-      "url": "https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "in for the kill",
         "url": "https://open.spotify.com/album/2nVnNDYvKM2VbiorqJRw18"
       },
@@ -331,18 +315,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Bass Player's Brother",
-        "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
+        "name": "Beach House",
+        "url": "https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt"
       },
       "artists": [
         {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+          "name": "daydreamers",
+          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
         }
       ],
-      "duration_ms": 186489,
-      "name": "Bass Player's Brother",
-      "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
+      "duration_ms": 197027,
+      "name": "Beach House",
+      "url": "https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -359,6 +343,22 @@
       "duration_ms": 160114,
       "name": "friends",
       "url": "https://open.spotify.com/track/4SuzvlzpLFCZxsoI3W2NCr"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "Bass Player's Brother",
+        "url": "https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 186489,
+      "name": "Bass Player's Brother",
+      "url": "https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "With u",
-        "url": "https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h"
+        "name": "projections",
+        "url": "https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt"
       },
       "artists": [
         {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 140000,
-      "name": "With u",
-      "url": "https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG"
+      "duration_ms": 260484,
+      "name": "projections",
+      "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "projections",
-        "url": "https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 260484,
-      "name": "projections",
-      "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "Time Slipping Away",
         "url": "https://open.spotify.com/album/2A2IZm6wrSsTUaxB2dLBWP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 180000,
       "name": "Time Slipping Away",
       "url": "https://open.spotify.com/track/7wscYVNFUWr92JfFIYE2S0"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "With u",
+        "url": "https://open.spotify.com/album/1EJFRkOwbD9DysVZImiu4h"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "With u",
+      "url": "https://open.spotify.com/track/5N66ReNy94acDJP6CIcgBG"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
-      },
-      "artists": [
-        {
-          "name": "Polly Money",
-          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Lungs",
-        "url": "https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr"
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR"
       },
       "artists": [
         {
-          "name": "Siobh\u00e1n Winifred",
-          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
+          "name": "Polly Money",
+          "url": "https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON"
         }
       ],
-      "duration_ms": 220165,
-      "name": "Lungs",
-      "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
+      "duration_ms": 205293,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -631,6 +615,22 @@
       "duration_ms": 234234,
       "name": "Airplane",
       "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr"
+      },
+      "artists": [
+        {
+          "name": "Siobh\u00e1n Winifred",
+          "url": "https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x"
+        }
+      ],
+      "duration_ms": 220165,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+        "name": "What Are You Doing",
+        "url": "https://open.spotify.com/album/3F8aJdmGNH18cpDUg6asVN"
       },
       "artists": [
         {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
+      "duration_ms": 208910,
+      "name": "What Are You Doing",
+      "url": "https://open.spotify.com/track/0sMWCcykjctGdCPaGD5CpQ"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "kickin",
-        "url": "https://open.spotify.com/album/08OXFLUMb7ZdrHk0w0dXJ6"
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
       },
       "artists": [
         {
-          "name": "not dvr",
-          "url": "https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k"
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
         }
       ],
-      "duration_ms": 176897,
-      "name": "kickin",
-      "url": "https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts"
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -907,6 +907,22 @@
       "duration_ms": 225358,
       "name": "Sexy Lemon",
       "url": "https://open.spotify.com/track/5U5ozJzOlmJKcdjnOPcrVH"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "kickin",
+        "url": "https://open.spotify.com/album/08OXFLUMb7ZdrHk0w0dXJ6"
+      },
+      "artists": [
+        {
+          "name": "not dvr",
+          "url": "https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k"
+        }
+      ],
+      "duration_ms": 176897,
+      "name": "kickin",
+      "url": "https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "What Are You Doing",
-        "url": "https://open.spotify.com/album/3F8aJdmGNH18cpDUg6asVN"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Green",
-          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
-        }
-      ],
-      "duration_ms": 208910,
-      "name": "What Are You Doing",
-      "url": "https://open.spotify.com/track/0sMWCcykjctGdCPaGD5CpQ"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "Nothing Compares To Nineteen",
         "url": "https://open.spotify.com/album/3aiDUv877OWq4i6t9jI9cD"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Quiet & Perfect",
-        "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 218367,
-      "name": "Quiet & Perfect",
-      "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "If I Was Abducted By Aliens",
         "url": "https://open.spotify.com/album/2P7F7SSH9F2wv70Ii7v5VE"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 166132,
       "name": "If I Was Abducted By Aliens",
       "url": "https://open.spotify.com/track/7cgwbjiVtsfFSYYsrpOsPI"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "Quiet & Perfect",
+        "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 218367,
+      "name": "Quiet & Perfect",
+      "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "I Think You Should Know",
-        "url": "https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ"
-      },
-      "artists": [
-        {
-          "name": "Delights",
-          "url": "https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "I Think You Should Know",
-      "url": "https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "How I Wish I Was Cool",
         "url": "https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+        "name": "I Think You Should Know",
+        "url": "https://open.spotify.com/album/7Eeoqub4j8Q2M2iDaDupeZ"
       },
       "artists": [
         {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+          "name": "Delights",
+          "url": "https://open.spotify.com/artist/5QWPjk0d98lRw8sdVkYN0S"
         }
       ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
+      "duration_ms": 217960,
+      "name": "I Think You Should Know",
+      "url": "https://open.spotify.com/track/6EexP0WD9yblWxhrd16Opm"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -1115,6 +1099,22 @@
       "duration_ms": 189905,
       "name": "The Feeling in My Fingertips",
       "url": "https://open.spotify.com/track/6jGGcDcYPO9iNvkmpBaEth"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1rBYvlZe1eyLbpJLYnRcCO"
-      },
-      "artists": [
-        {
-          "name": "Ellis King",
-          "url": "https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu"
-        }
-      ],
-      "duration_ms": 207271,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/3IpJ8tdpNv7weGiLmyPdJU"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 160426,
       "name": "Basement",
       "url": "https://open.spotify.com/track/4wr8ROgkWDQaqmOElFAent"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1rBYvlZe1eyLbpJLYnRcCO"
+      },
+      "artists": [
+        {
+          "name": "Ellis King",
+          "url": "https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu"
+        }
+      ],
+      "duration_ms": 207271,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Green",
-          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
-        }
-      ],
-      "duration_ms": 218451,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
-    },
-    {
-      "added_at": "2025-01-24 00:00:25",
-      "album": {
         "name": "Why Won't We",
         "url": "https://open.spotify.com/album/1TnPgz3o5exKqZ2Ypdj80v"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 224986,
       "name": "Why Won't We",
       "url": "https://open.spotify.com/track/6293vQ1jOawXNqDhHZvFP5"
+    },
+    {
+      "added_at": "2025-01-24 00:00:25",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "duration_ms": 218451,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
     },
     {
       "added_at": "2025-01-24 00:00:25",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-01-24 00:00:25",
       "album": {
-        "name": "A-Rated Horror Movies",
-        "url": "https://open.spotify.com/album/5KEnhyozeDtN6rESMoEAmA"
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
       },
       "artists": [
         {
-          "name": "Bug Eyed",
-          "url": "https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL"
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
         }
       ],
-      "duration_ms": 157867,
-      "name": "A-Rated Horror Movies",
-      "url": "https://open.spotify.com/track/0ph4jYlwATx7yqLqaMqRZ2"
+      "duration_ms": 187906,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
     }
   ],
   "unique_name": "peach",

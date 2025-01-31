@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Miki
+> La pop française annonce la couleur\. Photo : Yoa
 
-258 songs - 12 hr 50 min
+260 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,17 +128,18 @@
 | [L'amour l'enfer](https://open.spotify.com/track/6gRBB7g9JpPEctr8lIIUlV) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw), [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Jolis monstres](https://open.spotify.com/album/6TmUb13Fk8tz1i6YZ5H0qr) | 2:52 | 2023-10-05 | 2024-03-01 |
 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 | 2023-07-27 | 2023-09-22 |
 | [L'Atlantique](https://open.spotify.com/track/2M9JOD1W6AUSkbnpsDaWce) | [Opaline](https://open.spotify.com/artist/0Mp2rPC1xoRs63od7dflGV) | [L'Atlantique](https://open.spotify.com/album/7uzRSsf4pJDhkYqaSBDZ0W) | 2:46 | 2024-02-15 | 2024-05-03 |
+| [L'Espagne](https://open.spotify.com/track/2r9anDHPIbOsolKitY9NBV) | [George Ka](https://open.spotify.com/artist/4pIlSs2li5kl1x89fYslAO) | [L'Espagne](https://open.spotify.com/album/2OJQ2Ll1tOYg64DtulS8nb) | 3:26 | 2025-01-30 |  |
 | [L'hiver sur tes lèvres](https://open.spotify.com/track/7JO6qzrdKcydC5rPHhbeXH) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [L'hiver sur tes lèvres](https://open.spotify.com/album/1LIMvjkva2o23ZLESOGn04) | 3:42 | 2024-11-14 |  |
 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 | 2024-10-17 |  |
 | [L'or & le fer](https://open.spotify.com/track/5jJDOgQ8ZY5cDUvWpAEANZ) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [L'or & le fer](https://open.spotify.com/album/75OHOkrQ8bYdZvTN6a1YpH) | 3:06 | 2024-05-24 | 2024-10-18 |
 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 | 2023-10-05 | 2023-11-25 |
-| [La Bonne](https://open.spotify.com/track/7uf5csCaX1FpfTdpySUjbK) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [La Bonne](https://open.spotify.com/album/1eidhPlH5ZrDoXMkKCtz2l) | 3:06 | 2024-09-05 |  |
+| [La Bonne](https://open.spotify.com/track/7uf5csCaX1FpfTdpySUjbK) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [La Bonne](https://open.spotify.com/album/1eidhPlH5ZrDoXMkKCtz2l) | 3:06 | 2024-09-05 | 2025-01-31 |
 | [La fête](https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Héroïne](https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On) | 2:54 | 2024-09-26 |  |
 | [La vie est longue](https://open.spotify.com/track/2McsyeHX5S2SyUFfb73J5Z) | [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ), [Orilia](https://open.spotify.com/artist/5NerLamEpJvx6k2iquvXHK) | [La vie est longue](https://open.spotify.com/album/1N83q5bGAu09JywfzvlYi3) | 2:37 | 2024-04-11 | 2024-07-27 |
 | [Langue de P\*\*\*](https://open.spotify.com/track/3i9Pggk53qDhoMSV5CPmUk) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Langue de P\*\*\*](https://open.spotify.com/album/4CiDivdp3Wgi3isf1Soywy) | 2:44 | 2023-07-27 | 2023-10-13 |
 | [Le bonheur et la tristesse](https://open.spotify.com/track/2YUJ40ggS5vW61ZufiCOK8) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Le bonheur et la tristesse](https://open.spotify.com/album/6LuBZMDUnsdkmyTYC3rF9M) | 3:20 | 2024-04-18 | 2024-09-27 |
 | [Le club des 27](https://open.spotify.com/track/4u7Vc3ia7XEhirbBk9BqRe) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Le club des 27](https://open.spotify.com/album/18Q7ySQhJ4nDErcnQ7fTnj) | 3:12 | 2023-09-21 | 2024-01-19 |
-| [Le collectionneur](https://open.spotify.com/track/4uHRGbSeUqHVxOZBaHRkAM) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Le collectionneur](https://open.spotify.com/album/6D7C48WlnzUf3Hcjv9AgIL) | 3:21 | 2024-08-29 |  |
+| [Le collectionneur](https://open.spotify.com/track/4uHRGbSeUqHVxOZBaHRkAM) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Le collectionneur](https://open.spotify.com/album/6D7C48WlnzUf3Hcjv9AgIL) | 3:21 | 2024-08-29 | 2025-01-31 |
 | [Le dessert en premier](https://open.spotify.com/track/1rJMWy4MeA2fo04H9O9YxU) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:38 | 2023-07-27 | 2024-01-12 |
 | [le fou dans la voiture](https://open.spotify.com/track/3k9cQZ3IX3uUbtaScug3t5) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [le fou dans la voiture](https://open.spotify.com/album/59WkRQu423vEroErMVws4h) | 2:46 | 2024-12-12 |  |
 | [Le Marbre](https://open.spotify.com/track/2e5C5tdiQEjk3QCa1H9AbV) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [Le Marbre](https://open.spotify.com/album/2qh4jxj48CyH6n7jUuk8Ja) | 2:22 | 2024-03-28 | 2024-07-06 |
@@ -203,6 +204,7 @@
 | [Poisson volant](https://open.spotify.com/track/3nKNGeSonqI7Y5pAQjcQxt) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ), [THEOPHILE](https://open.spotify.com/artist/6zkYFNl3FNXIdhQ5QOYpZm) | [Mammifère](https://open.spotify.com/album/1yLxHtZ5T4V4Ku0P46alhD) | 3:27 | 2024-02-29 | 2024-06-28 |
 | [Popcorn](https://open.spotify.com/track/4dKQSpZXVwNYMgZ9DDIwLM) | [Jeanne Patronik](https://open.spotify.com/artist/21HK8UZA439q6bjQ0cpu2M) | [Popcorn](https://open.spotify.com/album/3iLr3Zo5PK3TEiqffN1yMf) | 2:50 | 2024-04-04 | 2024-04-19 |
 | [Populaire](https://open.spotify.com/track/49kXz61GcX62tPkwmz4oM5) | [Rouquine](https://open.spotify.com/artist/7pJxy5TSBacc0UMMppaExZ) | [Populaire](https://open.spotify.com/album/6MjGsKipgUJ1qUZqbNmDQE) | 3:21 | 2023-09-21 | 2024-06-01 |
+| [Princesse chaos](https://open.spotify.com/track/5uwKGwzgA0yZRLFb4sW4iJ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Princesse chaos](https://open.spotify.com/album/5kL7S9rRSDnTMl8UJA8PvK) | 3:25 | 2025-01-30 |  |
 | [ptn de bpm](https://open.spotify.com/track/3anfyeUByPwQqQJA09N5qv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [ptn de bpm](https://open.spotify.com/album/4pLUZiEUynP3kkzPXqZvYq) | 2:39 | 2024-08-22 | 2025-01-24 |
 | [Pura Vida](https://open.spotify.com/track/089yceeHO3eLgUBIGpMthu) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Caméo](https://open.spotify.com/album/5QXZkChgcFRZ6cUAehwUfp) | 2:43 | 2023-07-27 | 2023-09-15 |
 | [Puzzle](https://open.spotify.com/track/6sKi2n9ibaCpXt06Dt1XWr) | [Morgan](https://open.spotify.com/artist/7E6PYsPQuOU1r5gPPBRvoS), [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Puzzle](https://open.spotify.com/album/5NGv5Gro2sAJhQuTGRQKX7) | 2:49 | 2023-12-14 | 2024-04-05 |

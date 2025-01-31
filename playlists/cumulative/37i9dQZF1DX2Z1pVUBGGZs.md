@@ -2,9 +2,9 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring chloe qisha  ☁️
+> a playlist without boundaries, featuring bug eyed  ☁️
 
-305 songs - 15 hr 19 min
+308 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Good Life](https://open.spotify.com/track/2hfio2XOQfd430f5ZQGLYh) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Good Life](https://open.spotify.com/album/0AJuv1YmUczcH5Y2YRLfkd) | 2:19 | 2024-08-23 | 2024-09-13 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-27 | 2024-09-13 |
 | [Gramophone](https://open.spotify.com/track/1EX0kGH4YlKWE7gkLEf8vN) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/5i7oTarvOSWgrOXtx6jtHF) | 3:22 | 2024-06-27 | 2024-08-09 |
-| [Guide Me](https://open.spotify.com/track/72MXvkYZT27TlQJKkbCQN5) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Guide Me](https://open.spotify.com/album/02QsQUXJ8eqdUQ4dAF8FsA) | 2:09 | 2024-11-29 |  |
+| [Guide Me](https://open.spotify.com/track/72MXvkYZT27TlQJKkbCQN5) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Guide Me](https://open.spotify.com/album/02QsQUXJ8eqdUQ4dAF8FsA) | 2:09 | 2024-11-29 | 2025-01-31 |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-18 | 2024-08-09 |
 | [Guts](https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Guts](https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi) | 2:06 | 2025-01-24 |  |
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-17 |  |
@@ -160,7 +160,7 @@
 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 | 2024-06-27 | 2024-09-21 |
 | [Just Because](https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Just Because](https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx) | 2:49 | 2025-01-17 |  |
 | [just call me](https://open.spotify.com/track/64fAqe3CUYYipu3o9ymb5d) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [just call me](https://open.spotify.com/album/2GszWaLbnHGy7LhBBwSfD9) | 3:11 | 2024-11-22 | 2025-01-17 |
-| [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 | 2024-11-22 |  |
+| [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 | 2024-11-22 | 2025-01-31 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-27 | 2024-09-21 |
 | [Killers](https://open.spotify.com/track/0Oc7aCqkWajpdJ3p29jncn) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x), [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Don't Do Well Alone](https://open.spotify.com/album/4wWJrmrlh24ATasFOxzbjU) | 3:36 | 2024-09-26 | 2024-11-22 |
 | [Kiss My Apocalypse](https://open.spotify.com/track/0N1ItNWhn5N7WiHarezCA8) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Kiss My Apocalypse](https://open.spotify.com/album/2X42JsIZ1VkhOooPBBfDZl) | 3:48 | 2024-11-22 |  |
@@ -170,7 +170,7 @@
 | [laundry detergent](https://open.spotify.com/track/1pB8PSQShsmbOlsBGKwSnJ) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [laundry detergent](https://open.spotify.com/album/0gMy51MYjFPXUqkfHYrAFo) | 2:58 | 2024-06-27 | 2024-08-09 |
 | [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 | 2024-10-24 |  |
 | [Light](https://open.spotify.com/track/6I6DpmYoLOk6i6AYHw4BWk) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Light](https://open.spotify.com/album/6OEsxLD2Zjs96w34rvgdOd) | 3:50 | 2024-06-27 | 2024-08-09 |
-| [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 | 2024-10-03 |  |
+| [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 | 2024-10-03 | 2025-01-31 |
 | [LIL❀THINGS](https://open.spotify.com/track/2nL7RJfoM4ff4okIiwNcVZ) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [LIL❀THINGS](https://open.spotify.com/album/7Fyf6MyMLJxi34RICHfPRl) | 3:11 | 2024-08-02 | 2024-08-23 |
 | [Little Italy](https://open.spotify.com/track/7vAaKxAmT9WjALNoyySkts) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Little Italy](https://open.spotify.com/album/41BvV1WnJ6vgyPm5T03qVs) | 2:26 | 2024-10-24 | 2024-11-08 |
 | [Long Way Back](https://open.spotify.com/track/441Jf2ya0yn0L39am4qk8c) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Long Way Back](https://open.spotify.com/album/2BmUoSfihM32BuPmk76OLG) | 3:36 | 2024-09-20 | 2025-01-24 |
@@ -179,6 +179,7 @@
 | [Love Like Heaven](https://open.spotify.com/track/4ktgV78ZVHXHOYp4DxD3fd) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Million Dollar Baby](https://open.spotify.com/album/67dw7C6enQ3O05ZaI2dCaT) | 3:05 | 2024-08-08 | 2024-09-13 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-01-03 |  |
 | [Love You So](https://open.spotify.com/track/1CBeJZjm49VMbbgBR2lH2O) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq), [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [Love You So](https://open.spotify.com/album/41lHK0vbDNXHAHTKDt9fcl) | 3:22 | 2024-07-18 | 2024-10-11 |
+| [Lullaby](https://open.spotify.com/track/7dh4YTisFy5DuxVekiWait) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Lullaby](https://open.spotify.com/album/5PUjJkv28qCI6PXcgFT1B0) | 2:51 | 2025-01-31 |  |
 | [Lungs](https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Lungs](https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr) | 3:40 | 2024-06-27 | 2024-08-09 |
 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 | 2024-06-27 | 2024-09-27 |
 | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [L’AMOUR DE MA VIE \[OVER NOW EXTENDED EDIT\]](https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8) | 4:31 | 2024-06-27 | 2024-07-12 |
@@ -247,6 +248,7 @@
 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 | 2024-10-17 |  |
 | [Sleepwalking](https://open.spotify.com/track/11Qe0MH9WwFiaQZ8dtBBdS) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Sleepwalking](https://open.spotify.com/album/0CK8pqt7olvBoIyCUKQ9sH) | 3:34 | 2024-08-08 | 2024-10-04 |
 | [Slow](https://open.spotify.com/track/5fNbVMnWVg75szSuIGNlEF) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Slow](https://open.spotify.com/album/5rYfSiqpX9Xod683VeAnMx) | 2:45 | 2024-11-01 | 2024-11-22 |
+| [Snug as a Bug](https://open.spotify.com/track/3xSw2RvLeI4nh9NGDIUIUh) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Snug as a Bug](https://open.spotify.com/album/4O6J7Ii7c31DrnOzg4tHHn) | 2:59 | 2025-01-31 |  |
 | [So Low](https://open.spotify.com/track/6LPooJUhejqFutgXU1DY0q) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [So Low](https://open.spotify.com/album/0kghcOAkB1hUkSKTFUxRpV) | 2:45 | 2024-10-17 | 2024-11-29 |
 | [So Shy](https://open.spotify.com/track/3yelGDpyrUDK0T0yHNlHCp) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [So Shy](https://open.spotify.com/album/49iwMGoJYTpsLRDW8EJ7ki) | 2:41 | 2024-06-27 | 2024-08-09 |
 | [So Stunning](https://open.spotify.com/track/11H0FOYFDAQ2z6DUwIK5VZ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [So Stunning](https://open.spotify.com/album/77iJPDjDNyKhQdsiFBNkUy) | 2:18 | 2024-07-18 | 2024-08-09 |
@@ -286,6 +288,7 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 |  |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-27 | 2024-08-09 |
+| [Truck](https://open.spotify.com/track/1jbEwXmHPLx51r0f4Q8uZK) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Truck](https://open.spotify.com/album/5XQm848CtwXrkhpxQpv2cM) | 3:11 | 2025-01-31 |  |
 | [TRUTH](https://open.spotify.com/track/1bo5GZMwUZqgnyUZht8hjq) | [Feux](https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV) | [TRUTH](https://open.spotify.com/album/2ci5SqbzUbf64b78rQxx3E) | 2:29 | 2024-09-20 | 2024-12-06 |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-06-27 | 2024-09-21 |
 | [Unaware](https://open.spotify.com/track/6QhK3GRhfNQYeHpKEx9X6Q) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Sure](https://open.spotify.com/album/2Nz7KJZ4TSGHqWb4jGLPBA) | 3:30 | 2024-11-08 |  |

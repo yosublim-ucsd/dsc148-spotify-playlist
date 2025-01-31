@@ -1167,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "Nem disse adeus",
+        "url": "https://open.spotify.com/album/6YKViKUIrDHRzCEPvXQ0lc"
+      },
+      "artists": [
+        {
+          "name": "Enzo Yuki",
+          "url": "https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR"
+        },
+        {
+          "name": "bel cortez",
+          "url": "https://open.spotify.com/artist/2cN632fv7idMPULWMs4hk9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139864,
+      "name": "Nem disse adeus",
+      "url": "https://open.spotify.com/track/6zmHiJ4dRd98zrJMa4SQNK"
+    },
+    {
+      "album": {
         "name": "Notes From A Wrist",
         "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
       },

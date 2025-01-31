@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 172680,
       "name": "Dachlatte - Paul Seul Remix",
       "url": "https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O"
@@ -4412,6 +4412,24 @@
       "duration_ms": 336139,
       "name": "Lalala - 4am Club Mix",
       "url": "https://open.spotify.com/track/2BrjxcaFVwTVyObNix7d5W"
+    },
+    {
+      "album": {
+        "name": "Last Time Under Purple Skies",
+        "url": "https://open.spotify.com/album/0SH7q3HmEjk11tNZNzbHOr"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Last Time Under Purple Skies",
+      "url": "https://open.spotify.com/track/1JYACIHJjFOUzOnbxUBmLm"
     },
     {
       "album": {

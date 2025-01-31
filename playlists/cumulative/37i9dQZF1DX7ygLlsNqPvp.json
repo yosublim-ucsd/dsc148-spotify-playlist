@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 196154,
       "name": "Can't Complain",
       "url": "https://open.spotify.com/track/2ORUrWWJCkVXNSAfcYJNnM"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 106290,
       "name": "Eye Clear",
       "url": "https://open.spotify.com/track/6Mz15WVvQ7zDdfX1O7Dpvv"
@@ -4539,6 +4539,28 @@
     },
     {
       "album": {
+        "name": "So it Goes",
+        "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223585,
+      "name": "So it Goes",
+      "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
+    },
+    {
+      "album": {
         "name": "Sore (Remix)",
         "url": "https://open.spotify.com/album/3duGoq617U2FfeRi7U1Nkc"
       },
@@ -4562,6 +4584,24 @@
       "duration_ms": 266501,
       "name": "Sore - Remix",
       "url": "https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6"
+    },
+    {
+      "album": {
+        "name": "Spade",
+        "url": "https://open.spotify.com/album/4T1vG1IBZcOSwfRQ5MsVqS"
+      },
+      "artists": [
+        {
+          "name": "KWESI AMEWUGA",
+          "url": "https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145397,
+      "name": "Spade",
+      "url": "https://open.spotify.com/track/5gQHk0Mk9yKhyXp7DnGhcB"
     },
     {
       "album": {
@@ -5102,7 +5142,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 189510,
       "name": "WE OK!",
       "url": "https://open.spotify.com/track/1eVQcOvxIAtMPPahZzHMqj"

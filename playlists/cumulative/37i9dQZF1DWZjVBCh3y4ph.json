@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Et si..",
+        "url": "https://open.spotify.com/album/5Y9vOsCmJ9hxdH3L9nUB5j"
+      },
+      "artists": [
+        {
+          "name": "Kayson",
+          "url": "https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183939,
+      "name": "Et si..",
+      "url": "https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG"
+    },
+    {
+      "album": {
         "name": "FAIT POUR TOI",
         "url": "https://open.spotify.com/album/3l7QX5xnR5MGsQBfgYRb66"
       },
@@ -3141,6 +3159,28 @@
     },
     {
       "album": {
+        "name": "Si tu t'en vas",
+        "url": "https://open.spotify.com/album/1sAElG5MK6ieLEHZbYqoET"
+      },
+      "artists": [
+        {
+          "name": "MARVIN",
+          "url": "https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq"
+        },
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201686,
+      "name": "Si tu t'en vas",
+      "url": "https://open.spotify.com/track/26mX0WpDrqeTT1pjtxLnox"
+    },
+    {
+      "album": {
         "name": "SIWO",
         "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
       },
@@ -3266,7 +3306,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 145832,
       "name": "Special",
       "url": "https://open.spotify.com/track/2rvru02W2D0mmzpwajOreE"
@@ -3512,7 +3552,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 174767,
       "name": "To f\u00e8 mo mal",
       "url": "https://open.spotify.com/track/2HmsV1hijQLIqdasSbNdQC"

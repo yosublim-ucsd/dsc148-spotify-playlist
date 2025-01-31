@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. tarchi",
+  "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. rusowsky",
   "name": "helium",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 148000,
       "name": "<3",
       "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
@@ -1054,7 +1054,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 201000,
       "name": "Bloqueo emocional",
       "url": "https://open.spotify.com/track/1lGfAsyhF08UpnIzq7Z8qt"
@@ -1076,6 +1076,24 @@
       "duration_ms": 164160,
       "name": "boomerang hyperpop - remix",
       "url": "https://open.spotify.com/track/7AQWK0gXNDi7h0FOjABf3E"
+    },
+    {
+      "album": {
+        "name": "boss",
+        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "boss",
+      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
     },
     {
       "album": {
@@ -1124,6 +1142,28 @@
       "duration_ms": 157004,
       "name": "Break Andal\u00fch!",
       "url": "https://open.spotify.com/track/0JzXuN6bOEftR4zrSvJDAZ"
+    },
+    {
+      "album": {
+        "name": "BRITNEY",
+        "url": "https://open.spotify.com/album/75X8i76e58K2LeIrEron94"
+      },
+      "artists": [
+        {
+          "name": "Jay Cas",
+          "url": "https://open.spotify.com/artist/5CC3QHWWfDGEIbEMlOgh6z"
+        },
+        {
+          "name": "tarchi",
+          "url": "https://open.spotify.com/artist/3hQ7aT3GTzf9jNYh80UBo3"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164318,
+      "name": "BRITNEY",
+      "url": "https://open.spotify.com/track/5EqchMav1jr5E12aTgpblN"
     },
     {
       "album": {
@@ -1598,7 +1638,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 124855,
       "name": "Cocacola",
       "url": "https://open.spotify.com/track/2OpT9sSxfh4Mp5umjiNvo7"
@@ -3524,6 +3564,32 @@
       "duration_ms": 132672,
       "name": "hannah montana",
       "url": "https://open.spotify.com/track/0qYvzxghGnQjaLmo64zxrR"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/7dvB78IUDpwyj5Ctlb9DQu"
+      },
+      "artists": [
+        {
+          "name": "SUOB",
+          "url": "https://open.spotify.com/artist/5uLRssoTItOawD6NZKvGnH"
+        },
+        {
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+        },
+        {
+          "name": "ru0001",
+          "url": "https://open.spotify.com/artist/2mKl8gU4ZLvNQdYk55wLOu"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129776,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/2F5krJgw7A1rQucMvLri3A"
     },
     {
       "album": {
@@ -6162,7 +6228,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 128968,
       "name": "No Eres T\u00fa",
       "url": "https://open.spotify.com/track/7llzFOIq4PGJBlLN58Ismk"
@@ -6832,7 +6898,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 150769,
       "name": "OTRA MANERA",
       "url": "https://open.spotify.com/track/445QdAXedQct8b77lg3Der"
@@ -6966,10 +7032,36 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 136778,
       "name": "PASODOBLE",
       "url": "https://open.spotify.com/track/7sEkenTzNgk2begN3tfZDb"
+    },
+    {
+      "album": {
+        "name": "Pelle Pelle",
+        "url": "https://open.spotify.com/album/0fu3kaEwQh3remDH0eO1pH"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "ambeats",
+          "url": "https://open.spotify.com/artist/4qIwt9aom7JcYwiwWWI05i"
+        },
+        {
+          "name": "Iagh0st",
+          "url": "https://open.spotify.com/artist/1p1CC4qyRNYCzwp1GIdjWp"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146382,
+      "name": "Pelle Pelle",
+      "url": "https://open.spotify.com/track/5OIqUziOPgWQiAj8bl2W0v"
     },
     {
       "album": {
@@ -7873,6 +7965,24 @@
     },
     {
       "album": {
+        "name": "San Roku",
+        "url": "https://open.spotify.com/album/2Uo5NOBUKjuXZip4DDZUOL"
+      },
+      "artists": [
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233135,
+      "name": "San Roku",
+      "url": "https://open.spotify.com/track/1DI9jVWgae7pC3SpaKTJAr"
+    },
+    {
+      "album": {
         "name": "Sangre",
         "url": "https://open.spotify.com/album/09RMX5vSign9TSfm11I18W"
       },
@@ -8210,7 +8320,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 160000,
       "name": "Sickk Boii % Sex Toii",
       "url": "https://open.spotify.com/track/1ypfpYpyp65NPOVb88OFPu"
@@ -8236,6 +8346,24 @@
       "duration_ms": 147923,
       "name": "Sigues Tu - Eros White Remix",
       "url": "https://open.spotify.com/track/3CNEQxRMPHot5WD7aA12YG"
+    },
+    {
+      "album": {
+        "name": "sin mirar",
+        "url": "https://open.spotify.com/album/256sP7HP2JdilDPCAmAs4t"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102253,
+      "name": "sin mirar",
+      "url": "https://open.spotify.com/track/4FzA5DKCpBhPD5z3JlX0NO"
     },
     {
       "album": {
@@ -8404,6 +8532,24 @@
       "duration_ms": 190158,
       "name": "SONRISAS & L\u00c1GRIMAS",
       "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
+    },
+    {
+      "album": {
+        "name": "SOPHIA",
+        "url": "https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184689,
+      "name": "SOPHIA",
+      "url": "https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5"
     },
     {
       "album": {
@@ -8730,7 +8876,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 119183,
       "name": "Tantas Maneras de Morir",
       "url": "https://open.spotify.com/track/0BEbMqn94Myy0Zq4Bi9mOw"
@@ -9570,7 +9716,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 217466,
       "name": "Vivir De M\u00e1s",
       "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"

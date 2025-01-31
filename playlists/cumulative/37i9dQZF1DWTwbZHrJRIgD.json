@@ -1605,6 +1605,32 @@
     },
     {
       "album": {
+        "name": "Ek Main Aur Ekk Tu",
+        "url": "https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq"
+      },
+      "artists": [
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Anushka Manchanda",
+          "url": "https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg"
+        },
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261878,
+      "name": "Ek Main Aur Ekk Tu",
+      "url": "https://open.spotify.com/track/4UDFr3P1lRS6seQfmzCjz7"
+    },
+    {
+      "album": {
         "name": "Ek Zindagi (From \"Angrezi Medium\")",
         "url": "https://open.spotify.com/album/6542lxPaayNLGe9DbKBU8I"
       },
@@ -2644,7 +2670,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-11",
+      "date_removed": null,
       "duration_ms": 277986,
       "name": "Jaane Kyun",
       "url": "https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx"
@@ -3768,6 +3794,32 @@
       "duration_ms": 239504,
       "name": "Manzoor Hai",
       "url": "https://open.spotify.com/track/77Mo1my3vQVqu4wRmVIeCa"
+    },
+    {
+      "album": {
+        "name": "Delhi-6",
+        "url": "https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh"
+      },
+      "artists": [
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Prasoon Joshi",
+          "url": "https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288647,
+      "name": "Masakali",
+      "url": "https://open.spotify.com/track/5iyNH1Dmxif1k4Nl1gMeuh"
     },
     {
       "album": {
@@ -6894,6 +6946,28 @@
       "duration_ms": 287708,
       "name": "Zindagi Aa Raha Hoon Main",
       "url": "https://open.spotify.com/track/2I2NQ6nvVLKRHya5iB0rEB"
+    },
+    {
+      "album": {
+        "name": "3 Idiots",
+        "url": "https://open.spotify.com/album/5RpLgeHQA69nLrBzxELRxP"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246366,
+      "name": "Zoobi Doobi",
+      "url": "https://open.spotify.com/track/5Sb1gWmNRelFDAMb6eiriW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTwbZHrJRIgD"

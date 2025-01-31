@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Igo",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Oskar Cyms",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Aleja Gwiazd",
+        "url": "https://open.spotify.com/album/6tg3GeSKAGGSqHKT3aPDoz"
+      },
+      "artists": [
+        {
+          "name": "Kayomee",
+          "url": "https://open.spotify.com/artist/1H9RTKk2xZyTLJIyydKfjL"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173256,
+      "name": "Aleja Gwiazd",
+      "url": "https://open.spotify.com/track/5N22KspGuQ2zmTeMibhv2f"
+    },
+    {
+      "album": {
         "name": "ALERTY RCB",
         "url": "https://open.spotify.com/album/3qWtFi06FJ8CyM4GprFhDu"
       },
@@ -190,7 +208,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 214615,
       "name": "Antydepresanty",
       "url": "https://open.spotify.com/track/6GWHAqZzqiWyRnquOrv42A"
@@ -590,7 +608,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 207169,
       "name": "by\u0142o, min\u0119\u0142o",
       "url": "https://open.spotify.com/track/0UqiPItaioGfB7hfmTCDZ1"
@@ -944,7 +962,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 185898,
       "name": "Czego chcia\u0142by B\u00f3g",
       "url": "https://open.spotify.com/track/6rsZ867m6R8gjO8CRImLmP"
@@ -996,6 +1014,40 @@
       "duration_ms": 238425,
       "name": "Czy Ty te\u017c to czujesz?",
       "url": "https://open.spotify.com/track/6PWIARqotQsWcvAb5Kzejc"
+    },
+    {
+      "album": {
+        "name": "Czym chata bogata",
+        "url": "https://open.spotify.com/album/6ZVjpm8mIesEmY4jLNAU2j"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR"
+        },
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        },
+        {
+          "name": "Wac Toja",
+          "url": "https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv"
+        },
+        {
+          "name": "GOLEC UORKIESTRA",
+          "url": "https://open.spotify.com/artist/7sYIwdHZoqVUh6i58SJrmx"
+        },
+        {
+          "name": "Donatan",
+          "url": "https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Czym chata bogata",
+      "url": "https://open.spotify.com/track/3Nq6FtmnrNz6zySzc3SMmh"
     },
     {
       "album": {
@@ -1697,6 +1749,32 @@
     },
     {
       "album": {
+        "name": "GOD DAMN",
+        "url": "https://open.spotify.com/album/1T2xXdMigMZQ2ANvVwdkWh"
+      },
+      "artists": [
+        {
+          "name": "Bryan",
+          "url": "https://open.spotify.com/artist/1JW9Q2DToFLptGpxXNKHWp"
+        },
+        {
+          "name": "Artur Sikorski",
+          "url": "https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A"
+        },
+        {
+          "name": "WOLF HOUSE",
+          "url": "https://open.spotify.com/artist/3c9ZfnaIlcrOgLSZzfTdDt"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135789,
+      "name": "GOD DAMN",
+      "url": "https://open.spotify.com/track/6SCpoGxbpXxiVRwI5S55VD"
+    },
+    {
+      "album": {
         "name": "GOTIK LOLITA",
         "url": "https://open.spotify.com/album/6C1ICbqY31hSwmGuug4Uou"
       },
@@ -1756,6 +1834,24 @@
       "duration_ms": 178539,
       "name": "HAPI",
       "url": "https://open.spotify.com/track/4DTYjZ5dWFa39MKY4dv7k8"
+    },
+    {
+      "album": {
+        "name": "Hej, nie m\u00f3wi\u0142am ci",
+        "url": "https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT"
+      },
+      "artists": [
+        {
+          "name": "Sandra Reizer",
+          "url": "https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206846,
+      "name": "Hej, nie m\u00f3wi\u0142am ci",
+      "url": "https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj"
     },
     {
       "album": {
@@ -1937,6 +2033,24 @@
     },
     {
       "album": {
+        "name": "Immortal",
+        "url": "https://open.spotify.com/album/2NVN3qy6uQmgOEjmWpyFGo"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/75KRhZ6OWTAF6alZRfM90S"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179991,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/2Uygcza4yZ8brl3P7Gmrd8"
+    },
+    {
+      "album": {
         "name": "In cosmic mist (Eurovision Version)",
         "url": "https://open.spotify.com/album/794ZQ76ArthJiDjQM0e2A3"
       },
@@ -2097,6 +2211,24 @@
     },
     {
       "album": {
+        "name": "key to my heart",
+        "url": "https://open.spotify.com/album/6ZsjsSPy1TRvsWG8tEXJYQ"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158999,
+      "name": "key to my heart",
+      "url": "https://open.spotify.com/track/0sDjX3fzrHZtQY1bCrH245"
+    },
+    {
+      "album": {
         "name": "Terminal 3",
         "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
       },
@@ -2148,6 +2280,28 @@
       "duration_ms": 160709,
       "name": "kochaj na serio",
       "url": "https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ"
+    },
+    {
+      "album": {
+        "name": "Kocha\u0142am Pana (A. Osiecka)",
+        "url": "https://open.spotify.com/album/1qfC7PlosTrgkx5QrtFQ0E"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Anna Maria Jopek",
+          "url": "https://open.spotify.com/artist/49MhEXYycGHSAmmy8GiBio"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286733,
+      "name": "Kocha\u0142am Pana (A. Osiecka)",
+      "url": "https://open.spotify.com/track/5NcnJxxtwAbT44962OU8tO"
     },
     {
       "album": {
@@ -2595,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Lumpeksowe Serce",
+        "url": "https://open.spotify.com/album/0UXPwvouyPB9nZSK99qeoW"
+      },
+      "artists": [
+        {
+          "name": "Pan Savyan",
+          "url": "https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192260,
+      "name": "Lumpeksowe Serce",
+      "url": "https://open.spotify.com/track/2XmLz8uhL2OWyxxd1e7LFm"
+    },
+    {
+      "album": {
         "name": "#INDAWOODS",
         "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
       },
@@ -2898,7 +3070,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 197000,
       "name": "Mi\u0142o\u015b\u0107 jest \u015blepa",
       "url": "https://open.spotify.com/track/3IQN4rjqZlmJgO4exMkaNT"
@@ -4679,6 +4851,28 @@
     },
     {
       "album": {
+        "name": "Samoloty",
+        "url": "https://open.spotify.com/album/3FO69pdviw2HHtLTP9SIZ9"
+      },
+      "artists": [
+        {
+          "name": "Ada Borkowska",
+          "url": "https://open.spotify.com/artist/4C4T9wrWjuYNhiSwG9PWt0"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "Samoloty",
+      "url": "https://open.spotify.com/track/43DaqWLc47k2qIsRSH9adR"
+    },
+    {
+      "album": {
         "name": "SANTORINI",
         "url": "https://open.spotify.com/album/5iPUra2nZbLil9V5gaxa97"
       },
@@ -4828,6 +5022,24 @@
       "duration_ms": 153600,
       "name": "STER",
       "url": "https://open.spotify.com/track/6O7nUzSVBfMAIF5hJo6dDw"
+    },
+    {
+      "album": {
+        "name": "Stokrotka",
+        "url": "https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115326,
+      "name": "Stokrotka",
+      "url": "https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax"
     },
     {
       "album": {
@@ -5858,7 +6070,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 158771,
       "name": "Wr\u00f3c\u0119 wiosn\u0105",
       "url": "https://open.spotify.com/track/5ugaN8m5QcpPjYWJQfE5PP"

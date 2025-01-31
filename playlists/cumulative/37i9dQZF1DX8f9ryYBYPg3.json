@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters. \u7537\u6027\u58f0\u512a\u30ad\u30e3\u30e9\u30e9\u30c3\u30d7\u30d0\u30c8\u30eb\u3001\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af\u300d\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9 King Record Co., Ltd. All rights reserved.",
-  "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af HYPNOSISMIC -Division Rap Battle-",
+  "description": "Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters. \u00a9 King Record Co., Ltd. All rights reserved.\n",
+  "name": "Hypnosismic -Division Rap Battle",
   "tracks": [
     {
       "album": {
@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "BLESS YOU",
+        "url": "https://open.spotify.com/album/4YWUKvZjZGT0sVx9Sa04Md"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Matenro)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270500,
+      "name": "BLESS YOU",
+      "url": "https://open.spotify.com/track/7etTOz1DspRL8x54CtCKY4"
+    },
+    {
+      "album": {
         "name": "The Block Party -HOODs-",
         "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
       },
@@ -1162,6 +1180,24 @@
       "duration_ms": 140025,
       "name": "Bring it on",
       "url": "https://open.spotify.com/track/2yVzlfLgkDr7qP4VGmkwzu"
+    },
+    {
+      "album": {
+        "name": "Choice Is Yours",
+        "url": "https://open.spotify.com/album/0CM9zkwg5xii4gcEKNckKp"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265773,
+      "name": "Choice Is Yours",
+      "url": "https://open.spotify.com/track/7IAS05pmAxK7gVoQ9YkpRN"
     },
     {
       "album": {
@@ -3509,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "Three Kings",
+        "url": "https://open.spotify.com/album/4YaPRWr1TAgkfFG3YZx0tg"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Three Kings",
+      "url": "https://open.spotify.com/track/28oyqFsxKYzSNvZ3R0dV9R"
+    },
+    {
+      "album": {
         "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eBad Ass Temple VS \u9ebb\u5929\u72fc\u300f",
         "url": "https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa"
       },
@@ -4195,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30f3\u30b8\u30eb\u30c1\u30ab\u30e9",
+        "url": "https://open.spotify.com/album/2iQ3OoVFwNnziU4lF1gNUD"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "\u30b7\u30f3\u30b8\u30eb\u30c1\u30ab\u30e9",
+      "url": "https://open.spotify.com/track/4lxyJDwQn5z28YTnY5DSap"
+    },
+    {
+      "album": {
         "name": "Welcome 2 Rhyme Anima +",
         "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
       },
@@ -4254,6 +4326,24 @@
       "duration_ms": 220914,
       "name": "\u30c1\u30b0\u30ea\u30b8\u30a2",
       "url": "https://open.spotify.com/track/0C3l3qOP31pIXt2aTE999i"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30e9\u306e\u675f",
+        "url": "https://open.spotify.com/album/1ZDDvFmQ11lbHguwQTzyDn"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203384,
+      "name": "\u30d0\u30e9\u306e\u675f",
+      "url": "https://open.spotify.com/track/3vJAgh4gypZFH1kPypzQ9y"
     },
     {
       "album": {
@@ -4844,6 +4934,24 @@
       "duration_ms": 269000,
       "name": "\u7b11\u30aa\u30aa\u30b5\u30ab!\uff5eWhat a OSAKA!",
       "url": "https://open.spotify.com/track/501LNImi8bllbd9KaPNuhU"
+    },
+    {
+      "album": {
+        "name": "\u7b11\u9580\u6765\u798f",
+        "url": "https://open.spotify.com/album/3hM8ZEVg2OFZ0Qe0hqOK5e"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201695,
+      "name": "\u7b11\u9580\u6765\u798f",
+      "url": "https://open.spotify.com/track/4NiT0LuUmNFNwH5kJNDtzP"
     },
     {
       "album": {

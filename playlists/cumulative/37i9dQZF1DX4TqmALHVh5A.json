@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Enfants int\u00e9rieurs",
+        "url": "https://open.spotify.com/album/3rBVCm9mdef6rGcGGzBxKB"
+      },
+      "artists": [
+        {
+          "name": "Arca M",
+          "url": "https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "Bonjour demain",
+      "url": "https://open.spotify.com/track/5BwXLq7gk6u5OBCJ9DdtL5"
+    },
+    {
+      "album": {
         "name": "Bouche \u00e0 bouche / Paradise",
         "url": "https://open.spotify.com/album/6bFxGgf0zgRPiX4slKfEyy"
       },
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 229533,
       "name": "LUX",
       "url": "https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k"
@@ -3044,7 +3062,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 202653,
       "name": "petit escargot",
       "url": "https://open.spotify.com/track/0ixhSe9nDUyz89Jr36EU3C"
@@ -4500,6 +4518,28 @@
       "duration_ms": 294509,
       "name": "\u00c7a m'a tellement manqu\u00e9",
       "url": "https://open.spotify.com/track/5hGQ4fuHjsLtC3n1fIq7KV"
+    },
+    {
+      "album": {
+        "name": "\u00e7a me rassure",
+        "url": "https://open.spotify.com/album/5blfuQ2LsU9lUAuIjDjxIl"
+      },
+      "artists": [
+        {
+          "name": "Enflure",
+          "url": "https://open.spotify.com/artist/6LxABfuQ7vjhudTlsxLftm"
+        },
+        {
+          "name": "Neniu",
+          "url": "https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181247,
+      "name": "\u00e7a me rassure",
+      "url": "https://open.spotify.com/track/6xSWX4tzzUfj2aHvdRQyYQ"
     },
     {
       "album": {

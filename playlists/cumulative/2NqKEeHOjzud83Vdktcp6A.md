@@ -56,7 +56,7 @@
 | [SPOTS](https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS](https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo) | 2:26 | 2024-08-24 |  |
 | [Suicide Pact](https://open.spotify.com/track/6Fp8YkdAMhETFxrwDjk53e) | [Furry Loser](https://open.spotify.com/artist/5ZJuxb6oluPvuK2okvCAKk) | [High School Suicide Pact](https://open.spotify.com/album/459cm07wopaA6EFhyzKyye) | 2:37 | 2023-05-27 |  |
 | [Suit Up](https://open.spotify.com/track/6kPDlvZumydH3olPfOEQ0s) | [Foxes and Peppers](https://open.spotify.com/artist/4cfifmTcqEAYSTjNAbIjzg) | [Hashtag](https://open.spotify.com/album/0x801nLyzQxGEAgvw4MriO) | 3:47 | 2023-05-27 |  |
-| [Time for Farewell](https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Time for Farewell](https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF) | 3:51 | 2024-03-22 |  |
+| [Time for Farewell](https://open.spotify.com/track/7uOnLMjSLadW5NJTQGlJ2E) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa) | [Time for Farewell](https://open.spotify.com/album/3qfmzI619oictbfsPLFMVF) | 3:51 | 2024-03-22 |  |
 | [Voices in my head](https://open.spotify.com/track/47q6JbwiwqxIud1FcbbCDm) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi), [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Chapter 2](https://open.spotify.com/album/0EWerXaZCXA5KmMfEKJN2x) | 2:41 | 2023-09-22 |  |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

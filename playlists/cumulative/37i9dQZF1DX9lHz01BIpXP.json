@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/0RhJ6aqbstfv2rBHRZUxsX"
+      },
+      "artists": [
+        {
+          "name": "808Bvng",
+          "url": "https://open.spotify.com/artist/3qEz24N1wcZzZd1Juzo734"
+        },
+        {
+          "name": "21 Promo & Pengii",
+          "url": "https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0"
+        },
+        {
+          "name": "Creed oasis",
+          "url": "https://open.spotify.com/artist/6ZoF6LKlVwaohaKiOlUNQF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176378,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/0jBaA3K2nuimwbFLxNel6V"
+    },
+    {
+      "album": {
         "name": "3 Eye",
         "url": "https://open.spotify.com/album/7nib0P6SMbUAc46envB1mf"
       },
@@ -1854,7 +1880,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 211461,
       "name": "Kasi",
       "url": "https://open.spotify.com/track/6hN6pmgY42zyVFFru4lq8j"
@@ -2164,6 +2190,32 @@
       "duration_ms": 193628,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/6nxQX5P9TDm2iDtH5gCIQc"
+    },
+    {
+      "album": {
+        "name": "Met 'N Prys",
+        "url": "https://open.spotify.com/album/7JYDeQGRfurbxUrZSJ3MoQ"
+      },
+      "artists": [
+        {
+          "name": "YB Benzy",
+          "url": "https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm"
+        },
+        {
+          "name": "KerwieG",
+          "url": "https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5"
+        },
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301584,
+      "name": "Met 'N Prys",
+      "url": "https://open.spotify.com/track/2U3u62fXGnkLX0sYOBTtx4"
     },
     {
       "album": {
@@ -2980,7 +3032,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 137351,
       "name": "Smaak Vir Rap",
       "url": "https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd"

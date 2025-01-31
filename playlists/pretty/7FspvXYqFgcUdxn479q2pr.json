@@ -1,13 +1,65 @@
 {
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Alok x Stephan Jolk x Kawz",
-  "num_followers": 32515,
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Arg\u00fcello, Naty Botero ",
+  "num_followers": 32514,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAr2evu4qdtdTAd2u7UmE7xDF6F6LJS",
+  "snapshot_id": "AAAr4tYeiVT+lwbdxy5wkTQnUHwVWiPe",
   "tracks": [
+    {
+      "added_at": "2025-01-30 15:00:36",
+      "album": {
+        "name": "TKM",
+        "url": "https://open.spotify.com/album/6aGgkfccZ2TTNupxuOMGFf"
+      },
+      "artists": [
+        {
+          "name": "Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy"
+        },
+        {
+          "name": "Naty Botero",
+          "url": "https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "TKM",
+      "url": "https://open.spotify.com/track/0KESlOROu9lFyAOHiuvr1N"
+    },
+    {
+      "added_at": "2025-01-30 15:00:36",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt"
+    },
+    {
+      "added_at": "2025-01-30 15:00:36",
+      "album": {
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
+    },
     {
       "added_at": "2025-01-23 12:54:54",
       "album": {
@@ -31,6 +83,50 @@
       "duration_ms": 166356,
       "name": "Night In Detroit (feat. Fedde Le Grand)",
       "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+    },
+    {
+      "added_at": "2025-01-30 15:00:36",
+      "album": {
+        "name": "Prismatic: Pack One",
+        "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
+    },
+    {
+      "added_at": "2025-01-30 15:00:36",
+      "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/52MoSflRol9OMLzOpseYxd"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Chester Young",
+          "url": "https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e"
+        },
+        {
+          "name": ".EXA",
+          "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/4Ez0lk6NOvTeh9313l2KSb"
     },
     {
       "added_at": "2025-01-23 12:54:54",
@@ -421,26 +517,6 @@
       "url": "https://open.spotify.com/track/1qrYKjngQSC0TdyYqEZ7xe"
     },
     {
-      "added_at": "2025-01-03 09:41:15",
-      "album": {
-        "name": "Even God",
-        "url": "https://open.spotify.com/album/2popXoMWhglWvWhw7GIsy2"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "jayover",
-          "url": "https://open.spotify.com/artist/3D9DcggL2jQSpF0PaxAyr3"
-        }
-      ],
-      "duration_ms": 128100,
-      "name": "Even God",
-      "url": "https://open.spotify.com/track/1YAUcovWvgdgMXX45XjDl5"
-    },
-    {
       "added_at": "2024-12-19 13:42:53",
       "album": {
         "name": "Una Velita",
@@ -455,26 +531,6 @@
       "duration_ms": 163809,
       "name": "Una Velita",
       "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
-    },
-    {
-      "added_at": "2025-01-03 09:41:15",
-      "album": {
-        "name": "Squid Play (Player 456 Mix)",
-        "url": "https://open.spotify.com/album/0VK7oDLIlNh8lHM9OiaTlZ"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Cuebrick",
-          "url": "https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM"
-        }
-      ],
-      "duration_ms": 153288,
-      "name": "Squid Play (Player 456 Mix)",
-      "url": "https://open.spotify.com/track/5Fj26NGOzBIlUHhmhFBmde"
     },
     {
       "added_at": "2024-12-19 13:42:53",
@@ -523,42 +579,6 @@
       "duration_ms": 155606,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/4KXq783lFLVnmC9dkI7j7l"
-    },
-    {
-      "added_at": "2024-12-19 13:42:53",
-      "album": {
-        "name": "Infinity (Dubdogz Remix)",
-        "url": "https://open.spotify.com/album/3RG4SpdwLJR044NQ3k6kKZ"
-      },
-      "artists": [
-        {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
-        },
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Infinity (Dubdogz Remix)",
-      "url": "https://open.spotify.com/track/0EFlZ6qToxLzxBfZfNw3Ba"
-    },
-    {
-      "added_at": "2024-12-19 13:42:53",
-      "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 160888,
-      "name": "Destination Calabria",
-      "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
     }
   ],
   "unique_name": "New Dance Music Friday",

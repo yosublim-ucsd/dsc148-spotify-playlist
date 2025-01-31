@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Moses Yoofee Trio",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Maya Delilah",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 186000,
       "name": "Ain't No End",
       "url": "https://open.spotify.com/track/31v0BnVgzjF2mYulVUGgwc"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 226880,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7"
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Insomniac Reveries",
+        "url": "https://open.spotify.com/album/3xdfZMUA9tAzZeruasYenH"
+      },
+      "artists": [
+        {
+          "name": "Black petrol",
+          "url": "https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159391,
+      "name": "Capital, sweat",
+      "url": "https://open.spotify.com/track/3IdeyMY9zADG9cGqG0jW1N"
+    },
+    {
+      "album": {
         "name": "Ten Fold",
         "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
       },
@@ -756,7 +774,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 236186,
       "name": "Checkpoint (Violence)",
       "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
@@ -920,6 +938,32 @@
       "duration_ms": 231720,
       "name": "Crazy Focus",
       "url": "https://open.spotify.com/track/2OlFUTNB9hQHwL7U63r4fg"
+    },
+    {
+      "album": {
+        "name": "Slow Fawn Music No. 2",
+        "url": "https://open.spotify.com/album/5dZSyWqIJF9mEvbm919G96"
+      },
+      "artists": [
+        {
+          "name": "Sam Cohen",
+          "url": "https://open.spotify.com/artist/4c2FMMHkUGurATiPhTKqHP"
+        },
+        {
+          "name": "Cochemea",
+          "url": "https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A"
+        },
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279402,
+      "name": "Crossing Over",
+      "url": "https://open.spotify.com/track/458KACLuAG3EMMx290Jq9W"
     },
     {
       "album": {
@@ -1216,7 +1260,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 387296,
       "name": "Elastic Man",
       "url": "https://open.spotify.com/track/7GX8c0mwHCi9QelFCLNtfF"
@@ -1326,6 +1370,24 @@
       "duration_ms": 465000,
       "name": "FIRST NOTE",
       "url": "https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL"
+    },
+    {
+      "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
     },
     {
       "album": {
@@ -1440,6 +1502,32 @@
       "duration_ms": 179534,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt"
+    },
+    {
+      "album": {
+        "name": "Frica",
+        "url": "https://open.spotify.com/album/4HyLxdVq2zut2z0NKsgT75"
+      },
+      "artists": [
+        {
+          "name": "Gregory Uhlmann",
+          "url": "https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S"
+        },
+        {
+          "name": "Josh Johnson",
+          "url": "https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf"
+        },
+        {
+          "name": "Sam Wilkes",
+          "url": "https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142570,
+      "name": "Frica",
+      "url": "https://open.spotify.com/track/3mLKKFQbo5HYW2DIRo63f3"
     },
     {
       "album": {
@@ -1732,7 +1820,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 182726,
       "name": "I Feel the Same - edbl Remix",
       "url": "https://open.spotify.com/track/2UsrfYHrbrK4j6xdkdJthh"
@@ -2612,7 +2700,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 263061,
       "name": "Missing My Bird - 2024 Ver.",
       "url": "https://open.spotify.com/track/1QHKFt9PK3EgZB8PYaeYhk"
@@ -3196,7 +3284,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 276578,
       "name": "Pleasure",
       "url": "https://open.spotify.com/track/38dx4drapaEa5PL5KR8cpS"
@@ -3531,6 +3619,24 @@
     },
     {
       "album": {
+        "name": "Sometimes I Miss",
+        "url": "https://open.spotify.com/album/5c7BqU4kkY8LtSlRnji1Ye"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231862,
+      "name": "Sometimes I Miss",
+      "url": "https://open.spotify.com/track/2RvckqFywUf9qkt68AoY00"
+    },
+    {
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/2YtlLhImGkpxBntI3HtsOZ"
       },
@@ -3619,6 +3725,24 @@
     },
     {
       "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/705LfArn43DdhivgfDYX8q"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234600,
+      "name": "Squeeze",
+      "url": "https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA"
+    },
+    {
+      "album": {
         "name": "Step Ahead",
         "url": "https://open.spotify.com/album/1Hm5RnZ6Fb1PKNPWscezsD"
       },
@@ -3686,6 +3810,24 @@
       "duration_ms": 175553,
       "name": "Sum Love",
       "url": "https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "album": {
@@ -4089,6 +4231,24 @@
     },
     {
       "album": {
+        "name": "Wanna Die",
+        "url": "https://open.spotify.com/album/0YqvrdD8O5aT8f1u2ojphY"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161541,
+      "name": "Wanna Die",
+      "url": "https://open.spotify.com/track/2tbDr90KoG4ZFyI5StbI39"
+    },
+    {
+      "album": {
         "name": "Sonicwonderland",
         "url": "https://open.spotify.com/album/56y2AKjPkkMxCLGurbRco3"
       },
@@ -4166,7 +4326,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 207533,
       "name": "Waterscape",
       "url": "https://open.spotify.com/track/5EzbxbknclMlwNVJlCVY9w"

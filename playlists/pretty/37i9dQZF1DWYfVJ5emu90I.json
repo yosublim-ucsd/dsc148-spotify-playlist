@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 21054,
+  "num_followers": 21072,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,22 @@
     {
       "added_at": "2025-01-29 01:09:07",
       "album": {
-        "name": "MORIAGE",
-        "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
+        "name": "Magna Scale",
+        "url": "https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL"
       },
       "artists": [
         {
-          "name": "Tokyo Young Vision",
-          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
         }
       ],
-      "duration_ms": 250588,
-      "name": "MORIAGE",
-      "url": "https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1"
+      "duration_ms": 141724,
+      "name": "B.G.P",
+      "url": "https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs"
     },
     {
       "added_at": "2025-01-29 01:09:07",
@@ -319,22 +323,18 @@
     {
       "added_at": "2025-01-29 01:09:07",
       "album": {
-        "name": "Magna Scale",
-        "url": "https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL"
+        "name": "MORIAGE",
+        "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
       },
       "artists": [
         {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
-        },
-        {
-          "name": "Oddy lozy",
-          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+          "name": "Tokyo Young Vision",
+          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
         }
       ],
-      "duration_ms": 141724,
-      "name": "B.G.P",
-      "url": "https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs"
+      "duration_ms": 250588,
+      "name": "MORIAGE",
+      "url": "https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1"
     },
     {
       "added_at": "2025-01-29 01:09:07",
@@ -379,22 +379,18 @@
     {
       "added_at": "2025-01-29 01:09:07",
       "album": {
-        "name": "NEW REAL (feat. Young Zetton)",
-        "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
+        "name": "4 MY CULT",
+        "url": "https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz"
       },
       "artists": [
         {
-          "name": "Watson",
-          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
-        },
-        {
-          "name": "Young zetton",
-          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
         }
       ],
-      "duration_ms": 195375,
-      "name": "NEW REAL (feat. Young Zetton)",
-      "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
+      "duration_ms": 165500,
+      "name": "4 MY CULT",
+      "url": "https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp"
     },
     {
       "added_at": "2025-01-29 01:09:07",
@@ -443,18 +439,22 @@
     {
       "added_at": "2025-01-29 01:09:07",
       "album": {
-        "name": "4 MY CULT",
-        "url": "https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz"
+        "name": "NEW REAL (feat. Young Zetton)",
+        "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
       },
       "artists": [
         {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        },
+        {
+          "name": "Young zetton",
+          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
         }
       ],
-      "duration_ms": 165500,
-      "name": "4 MY CULT",
-      "url": "https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp"
+      "duration_ms": 195375,
+      "name": "NEW REAL (feat. Young Zetton)",
+      "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
     },
     {
       "added_at": "2025-01-29 01:09:07",
@@ -619,6 +619,26 @@
     {
       "added_at": "2025-01-29 01:09:07",
       "album": {
+        "name": "\u30e4\u30d0\u3044\u306a",
+        "url": "https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8"
+      },
+      "artists": [
+        {
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "duration_ms": 149619,
+      "name": "\u30e4\u30d0\u3044\u306a",
+      "url": "https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe"
+    },
+    {
+      "added_at": "2025-01-29 01:09:07",
+      "album": {
         "name": "Money Trees (feat. eyden & Kohjiya)",
         "url": "https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 203385,
       "name": "Money Trees (feat. eyden & Kohjiya)",
       "url": "https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC"
-    },
-    {
-      "added_at": "2025-01-29 01:09:07",
-      "album": {
-        "name": "\u30e4\u30d0\u3044\u306a",
-        "url": "https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8"
-      },
-      "artists": [
-        {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
-        }
-      ],
-      "duration_ms": 149619,
-      "name": "\u30e4\u30d0\u3044\u306a",
-      "url": "https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe"
     },
     {
       "added_at": "2025-01-29 01:09:07",
@@ -787,42 +787,18 @@
     {
       "added_at": "2025-01-29 01:09:07",
       "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q"
+        "name": "Spliff & Magnum",
+        "url": "https://open.spotify.com/album/1wyxTLi6qpcRjciyOB0bnI"
       },
       "artists": [
         {
-          "name": "Hideyoshi",
-          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
-        },
-        {
-          "name": "Benjazzy",
-          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
         }
       ],
-      "duration_ms": 205628,
-      "name": "Go (feat. Benjazzy)",
-      "url": "https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2"
-    },
-    {
-      "added_at": "2025-01-29 01:09:07",
-      "album": {
-        "name": "Live in Tokyo",
-        "url": "https://open.spotify.com/album/0lcm4VR2R4cmgBsf6ZQ607"
-      },
-      "artists": [
-        {
-          "name": "Choppa Capone",
-          "url": "https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez"
-        },
-        {
-          "name": "Rommy Montana",
-          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
-        }
-      ],
-      "duration_ms": 127440,
-      "name": "Live in Tokyo",
-      "url": "https://open.spotify.com/track/3woNwGkpcJkkJra1CVZoMC"
+      "duration_ms": 157108,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/6bCMGLL7p8RT64nK7IH7Tp"
     },
     {
       "added_at": "2025-01-29 01:09:07",
@@ -843,6 +819,26 @@
     {
       "added_at": "2025-01-29 01:09:07",
       "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q"
+      },
+      "artists": [
+        {
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "duration_ms": 205628,
+      "name": "Go (feat. Benjazzy)",
+      "url": "https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2"
+    },
+    {
+      "added_at": "2025-01-29 01:09:07",
+      "album": {
         "name": "Step Into The Arena",
         "url": "https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec"
       },
@@ -859,6 +855,26 @@
       "duration_ms": 226126,
       "name": "Step Into The Arena",
       "url": "https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka"
+    },
+    {
+      "added_at": "2025-01-29 01:09:07",
+      "album": {
+        "name": "Live in Tokyo",
+        "url": "https://open.spotify.com/album/0lcm4VR2R4cmgBsf6ZQ607"
+      },
+      "artists": [
+        {
+          "name": "Choppa Capone",
+          "url": "https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez"
+        },
+        {
+          "name": "Rommy Montana",
+          "url": "https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM"
+        }
+      ],
+      "duration_ms": 127440,
+      "name": "Live in Tokyo",
+      "url": "https://open.spotify.com/track/3woNwGkpcJkkJra1CVZoMC"
     },
     {
       "added_at": "2025-01-29 01:09:07",
@@ -891,18 +907,22 @@
     {
       "added_at": "2025-01-29 01:09:07",
       "album": {
-        "name": "Spliff & Magnum",
-        "url": "https://open.spotify.com/album/1wyxTLi6qpcRjciyOB0bnI"
+        "name": "BRAIN RUSH",
+        "url": "https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW"
       },
       "artists": [
+        {
+          "name": "CYBER RUI",
+          "url": "https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2"
+        },
         {
           "name": "Ralph",
           "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
         }
       ],
-      "duration_ms": 157108,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/6bCMGLL7p8RT64nK7IH7Tp"
+      "duration_ms": 207463,
+      "name": "FEEL THE RAIN (feat. Ralph)",
+      "url": "https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS"
     },
     {
       "added_at": "2025-01-29 01:09:07",
@@ -923,26 +943,6 @@
       "duration_ms": 157625,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/2IVuU4LByPrwUky12rk3Bw"
-    },
-    {
-      "added_at": "2025-01-29 01:09:07",
-      "album": {
-        "name": "BRAIN RUSH",
-        "url": "https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW"
-      },
-      "artists": [
-        {
-          "name": "CYBER RUI",
-          "url": "https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2"
-        },
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        }
-      ],
-      "duration_ms": 207463,
-      "name": "FEEL THE RAIN (feat. Ralph)",
-      "url": "https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS"
     },
     {
       "added_at": "2025-01-29 01:09:07",

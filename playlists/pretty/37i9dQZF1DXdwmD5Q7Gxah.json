@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.substack.com/pub/loremandfriends/p/coming-soon?r=ge875&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true\">Newsletter coming soon...</a> Cover: Oklou",
-  "num_followers": 1176005,
+  "num_followers": 1176190,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5qdfgAAAAB1fsRpJHNTJZj8so2RPKam",
+  "snapshot_id": "Z5wx7wAAAADjO6LWGJToRKvu5mSFIuqs",
   "tracks": [
     {
       "added_at": "2025-01-29 21:28:30",
@@ -77,6 +77,42 @@
       "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
     },
     {
+      "added_at": "2025-01-30 19:31:08",
+      "album": {
+        "name": "afraid (feat. nate sib)",
+        "url": "https://open.spotify.com/album/3wUZg9qN8bFDXHh109BaOv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        },
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "afraid (feat. nate sib)",
+      "url": "https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G"
+    },
+    {
+      "added_at": "2025-01-31 02:14:07",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 111226,
+      "name": "Binz",
+      "url": "https://open.spotify.com/track/7yvdp8dqmxExSJwT2fn6Xq"
+    },
+    {
       "added_at": "2025-01-23 19:44:34",
       "album": {
         "name": "Earthstar",
@@ -109,20 +145,56 @@
       "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
-      "added_at": "2025-01-24 05:28:49",
+      "added_at": "2025-01-17 05:00:48",
       "album": {
-        "name": "Basic Being Basic",
-        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+        "name": "take me by the hand",
+        "url": "https://open.spotify.com/album/537kzzis1FK64BYUQanxci"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
         }
       ],
-      "duration_ms": 158109,
-      "name": "Basic Being Basic",
-      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+      "duration_ms": 171570,
+      "name": "take me by the hand",
+      "url": "https://open.spotify.com/track/2RsaHAL0eJAwdyrZloFXI7"
+    },
+    {
+      "added_at": "2025-01-30 19:31:08",
+      "album": {
+        "name": "Besties",
+        "url": "https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 216757,
+      "name": "Besties",
+      "url": "https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7"
+    },
+    {
+      "added_at": "2025-01-31 02:14:07",
+      "album": {
+        "name": "33\u00b0",
+        "url": "https://open.spotify.com/album/337XU7rsZkoW7IASEcK0VX"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 270628,
+      "name": "33\u00b0",
+      "url": "https://open.spotify.com/track/2DGDnyCAKDuPvWTbStDg0a"
     },
     {
       "added_at": "2025-01-16 18:42:36",
@@ -139,6 +211,38 @@
       "duration_ms": 269240,
       "name": "Only Love Can Break Your Heart",
       "url": "https://open.spotify.com/track/2l2JonC9Mmrqs5sC7G0SlD"
+    },
+    {
+      "added_at": "2025-01-24 05:28:49",
+      "album": {
+        "name": "Basic Being Basic",
+        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
+    },
+    {
+      "added_at": "2025-01-31 02:14:07",
+      "album": {
+        "name": "I Want You (Fever)",
+        "url": "https://open.spotify.com/album/1vxHtRS0NZAlYMogLwbpH9"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 217249,
+      "name": "I Want You (Fever)",
+      "url": "https://open.spotify.com/track/5LLCNZ9TPe6X7BCRUMWBY2"
     },
     {
       "added_at": "2025-01-24 05:28:49",
@@ -173,40 +277,20 @@
       "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
-      "added_at": "2025-01-17 05:00:48",
+      "added_at": "2025-01-30 19:31:08",
       "album": {
-        "name": "take me by the hand",
-        "url": "https://open.spotify.com/album/537kzzis1FK64BYUQanxci"
+        "name": "Killed For Sport",
+        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
       },
       "artists": [
         {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "Bladee",
-          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
         }
       ],
-      "duration_ms": 171570,
-      "name": "take me by the hand",
-      "url": "https://open.spotify.com/track/2RsaHAL0eJAwdyrZloFXI7"
-    },
-    {
-      "added_at": "2025-01-21 20:48:26",
-      "album": {
-        "name": "Eusexua",
-        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Eusexua",
-      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
+      "duration_ms": 254954,
+      "name": "Killed For Sport",
+      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
     },
     {
       "added_at": "2025-01-17 05:00:48",
@@ -273,20 +357,20 @@
       "url": "https://open.spotify.com/track/2Gu2H8HRVuV9GOneJuYV5D"
     },
     {
-      "added_at": "2025-01-16 18:42:36",
+      "added_at": "2025-01-30 19:31:08",
       "album": {
-        "name": "Soundtrack From Twin Peaks",
-        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
+        "name": "planet you forgot me",
+        "url": "https://open.spotify.com/album/72XBcntZdEaL466I8PyFUU"
       },
       "artists": [
         {
-          "name": "Angelo Badalamenti",
-          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+          "name": "Leyla Ebrahimi",
+          "url": "https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR"
         }
       ],
-      "duration_ms": 310013,
-      "name": "Twin Peaks Theme - Instrumental",
-      "url": "https://open.spotify.com/track/7FO7BolIZsl1o8DDSjeOph"
+      "duration_ms": 365395,
+      "name": "planet you forgot me",
+      "url": "https://open.spotify.com/track/6gUvpGQR1ZS5PgqbmPaVAv"
     },
     {
       "added_at": "2025-01-24 05:28:49",
@@ -893,22 +977,6 @@
       "url": "https://open.spotify.com/track/5dpiC00mcZNgT7ijBGC2PH"
     },
     {
-      "added_at": "2024-12-19 18:24:36",
-      "album": {
-        "name": "More Than Distance",
-        "url": "https://open.spotify.com/album/7HCJ1h8UCL5I4TKQ2v9hHv"
-      },
-      "artists": [
-        {
-          "name": "Liam Benzvi",
-          "url": "https://open.spotify.com/artist/0K1pnBf7UJLpAk5ZPV54lS"
-        }
-      ],
-      "duration_ms": 164646,
-      "name": "Michael Who Walks By Night",
-      "url": "https://open.spotify.com/track/22iWbc7wxLtZJ8Ww3EqXrr"
-    },
-    {
       "added_at": "2024-12-19 18:26:21",
       "album": {
         "name": "Dreams Tonite",
@@ -939,22 +1007,6 @@
       "duration_ms": 173757,
       "name": "Stanley",
       "url": "https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly"
-    },
-    {
-      "added_at": "2025-01-22 18:19:25",
-      "album": {
-        "name": "Chest Pain (I Love)",
-        "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
     },
     {
       "added_at": "2024-12-03 18:00:02",
@@ -1075,22 +1127,6 @@
       "duration_ms": 277333,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2024-11-26 21:05:20",
-      "album": {
-        "name": "Why can\u2019t you see",
-        "url": "https://open.spotify.com/album/2RReJH34G2ccyySp3DIYr3"
-      },
-      "artists": [
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 149558,
-      "name": "Why can\u2019t you see",
-      "url": "https://open.spotify.com/track/3yukgMnqGxj1FGak12DHVu"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1301,22 +1337,6 @@
       "url": "https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "watering can",
-        "url": "https://open.spotify.com/album/06aajlYjOeDFlwfsoNkbSZ"
-      },
-      "artists": [
-        {
-          "name": "emory",
-          "url": "https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "watering can",
-      "url": "https://open.spotify.com/track/5C9gcImzMk5AKHyLtfCyn6"
-    },
-    {
       "added_at": "2024-10-25 16:55:53",
       "album": {
         "name": "LEECHES",
@@ -1507,22 +1527,6 @@
       "duration_ms": 163264,
       "name": "New York",
       "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Scantily Clad",
-        "url": "https://open.spotify.com/album/543BQlkZTHKQnsAubOX9V2"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Scantily Clad",
-      "url": "https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ"
     },
     {
       "added_at": "2024-10-25 16:55:53",

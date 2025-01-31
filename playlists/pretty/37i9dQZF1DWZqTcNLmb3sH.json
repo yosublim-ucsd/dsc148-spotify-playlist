@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62566,
+  "num_followers": 62585,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5jSlgAAAADbkAvakT7l8S/kUjpgmV11",
+  "snapshot_id": "Z5tfLAAAAAAopgbUQOyqpMowvpg8F/NM",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -103,6 +103,26 @@
       "duration_ms": 243271,
       "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
+    },
+    {
+      "added_at": "2025-01-30 11:14:52",
+      "album": {
+        "name": "Jai Bheem (From \"BEGURU Colony\")",
+        "url": "https://open.spotify.com/album/408LSLGnkmzrasmVgbpSWM"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Abhinandan Kashyap",
+          "url": "https://open.spotify.com/artist/1V6A4aayMYPUr5tLVKmrQA"
+        }
+      ],
+      "duration_ms": 215011,
+      "name": "Jai Bheem (From \"BEGURU Colony\")",
+      "url": "https://open.spotify.com/track/2EEWcKTFITLF9cy8ugSwpK"
     },
     {
       "added_at": "2025-01-24 10:00:22",
@@ -864,12 +884,12 @@
       },
       "artists": [
         {
-          "name": "Tippu",
-          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
-        },
-        {
           "name": "Harsha Vardhan Raaj",
           "url": "https://open.spotify.com/artist/2ptITI8e8lLC2XCRV4BVzc"
+        },
+        {
+          "name": "Tippu",
+          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
         }
       ],
       "duration_ms": 224000,
@@ -1399,30 +1419,6 @@
       "duration_ms": 164869,
       "name": "Gaayab (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
       "url": "https://open.spotify.com/track/3bHl9auciGbTn7BceAaC5B"
-    },
-    {
-      "added_at": "2024-12-10 06:44:24",
-      "album": {
-        "name": "Saedu Saedu (From \"Maryade Prashne\")",
-        "url": "https://open.spotify.com/album/47AEd1QMaJcXkCRXe22OqD"
-      },
-      "artists": [
-        {
-          "name": "Arjun Ramu",
-          "url": "https://open.spotify.com/artist/2WMT3p2Mgvnap7bkfQ1J9A"
-        },
-        {
-          "name": "Trilok Trivikrama",
-          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
-        },
-        {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
-        }
-      ],
-      "duration_ms": 215728,
-      "name": "Saedu Saedu (From \"Maryade Prashne\")",
-      "url": "https://open.spotify.com/track/6AShQ3Vx5wrWqEptlB8a5O"
     },
     {
       "added_at": "2024-12-17 15:23:20",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/6i1STIcRhB9q92QmFJi4IP?si=TLIXzkI0QIaM0Ka0LZNLyA\">Skhindi</a> ",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D?si=XYhP8FW8QkustwMYzqaYyQ\">Blue Pappi</a> ",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "NJABULO MHLONGO (Deluxe)",
+        "url": "https://open.spotify.com/album/2OOJCggKC6toiobV5V1Qqu"
+      },
+      "artists": [
+        {
+          "name": "MSI",
+          "url": "https://open.spotify.com/artist/3kr2IG4kHuHOOFmaKSBqUm"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145968,
+      "name": "BUS",
+      "url": "https://open.spotify.com/track/37nlQBxvXPQL0fX0hNJTvk"
+    },
+    {
+      "album": {
         "name": "Buss Buss",
         "url": "https://open.spotify.com/album/1BogiJVTrCMW2QuyTrDFVV"
       },
@@ -4814,6 +4832,24 @@
       "duration_ms": 280703,
       "name": "Esselen Street",
       "url": "https://open.spotify.com/track/3pYrvtmGlYXh5g00MJStbV"
+    },
+    {
+      "album": {
+        "name": "EVERY MONTH",
+        "url": "https://open.spotify.com/album/4tvClHltuUQ2KzzxRFIwlz"
+      },
+      "artists": [
+        {
+          "name": "BENJAMIN",
+          "url": "https://open.spotify.com/artist/5vGBEOddwhwgvzoHIbl1ji"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150112,
+      "name": "EVERY MONTH",
+      "url": "https://open.spotify.com/track/0GujpZhbalyfm7C14y4mzd"
     },
     {
       "album": {
@@ -12523,6 +12559,24 @@
     },
     {
       "album": {
+        "name": "Phambanisa",
+        "url": "https://open.spotify.com/album/6xGMpxvuZerT7OnDGtlUHf"
+      },
+      "artists": [
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126744,
+      "name": "Phambanisa",
+      "url": "https://open.spotify.com/track/3q9gOoOuh89SOMiN1u50h4"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/42JPQQjoPGApEdMAXB3JJw"
       },
@@ -13914,6 +13968,24 @@
       "duration_ms": 209148,
       "name": "SAUCE (feat. Silverstone Barz, Dee Koala, Money Badoo & DETO BLACK)",
       "url": "https://open.spotify.com/track/3jEWgcZ0K3mg9T2Iwp7jVR"
+    },
+    {
+      "album": {
+        "name": "Attitude Era",
+        "url": "https://open.spotify.com/album/0tBqgbZJvzFTDn8CGQXyax"
+      },
+      "artists": [
+        {
+          "name": "Espiquet",
+          "url": "https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100334,
+      "name": "Sauce God",
+      "url": "https://open.spotify.com/track/3XT8RVeFNUL0gP1z5m8Pv6"
     },
     {
       "album": {
@@ -17328,10 +17400,36 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 133524,
       "name": "Took Me For A Nai",
       "url": "https://open.spotify.com/track/6TffFYos6mnj9Os1nTac4m"
+    },
+    {
+      "album": {
+        "name": "Took Me For A Nai (Remix)",
+        "url": "https://open.spotify.com/album/00r5MWCv41RcODMWRGF3kd"
+      },
+      "artists": [
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Ma-E",
+          "url": "https://open.spotify.com/artist/5gGn0EkjlWgn2iVhUccOVC"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239855,
+      "name": "Took Me For A Nai - Remix",
+      "url": "https://open.spotify.com/track/5aQlgRVY1d5hL0OJJk8wcU"
     },
     {
       "album": {

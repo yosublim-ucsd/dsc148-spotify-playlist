@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ✨giovane✨pop✨z✨ Cover: Jacopo Sol
+> ✨giovane✨pop✨z✨ Cover: Luk3
 
-616 songs - 1 day 4 hr 32 min
+622 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A un passo da me](https://open.spotify.com/track/6ESowX1Pi3mqATa4E76wZu) | [trigNO](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [A un passo da me](https://open.spotify.com/album/0SsfPligJszKCqzqUmfMC7) | 2:50 | 2024-11-14 |  |
 | [A VOLTE](https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 2:42 | 2023-09-14 | 2024-07-12 |
 | [ABISSALE](https://open.spotify.com/track/3U8TFdchz8dK1nYYgZgd9f) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 3:22 | 2023-03-23 | 2023-07-14 |
+| [Abissi](https://open.spotify.com/track/3smy1msq7GesCIYDgkQIWv) | [j nova](https://open.spotify.com/artist/3PGcpsKERtLQ8PxfrzmGFl), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [Abissi](https://open.spotify.com/album/0lnZeaIZQcFfEC2kDj4QjW) | 2:30 | 2025-01-30 |  |
 | [Acquario](https://open.spotify.com/track/3wikKu086inCKfjx0divwd) | [Piccolo G](https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2) | [Acquario](https://open.spotify.com/album/6f3ZuFBT8frX2VHmB8MtzB) | 2:52 | 2023-03-23 | 2023-06-09 |
 | [Adamo ed Eva](https://open.spotify.com/track/00LyduMgp60uZIvQXCQxr5) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Adamo ed Eva](https://open.spotify.com/album/13HHOcO46qy5QQGjPSphmv) | 2:33 | 2023-03-30 | 2023-05-26 |
 | [AFTER](https://open.spotify.com/track/5ODYIdPDyNVFXZpqAh3WEa) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [AFTER](https://open.spotify.com/album/6XxvQNfV0vhA3KWFCE0g8B) | 2:42 | 2023-11-16 | 2024-02-23 |
@@ -42,6 +43,7 @@
 | [amore analcolico](https://open.spotify.com/track/0kKNI31j7xj7em602bytCb) | [Anima](https://open.spotify.com/artist/78KLSh5jP52tMwFeDpR5Ml), [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [amore analcolico](https://open.spotify.com/album/1v0clnNzLMjfscCQKIYVs0) | 2:07 | 2023-06-22 | 2023-06-30 |
 | [Amore Bianco](https://open.spotify.com/track/7omuQEx0gZX4TjXKX58AGl) | [Blake el Diablo](https://open.spotify.com/artist/3f0oZnKV2b5N8TDBnSGEOL) | [Amore Bianco](https://open.spotify.com/album/53ouXegw7U2gjuMsl0jnqg) | 2:21 | 2023-03-23 | 2023-03-31 |
 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 | 2024-07-04 |  |
+| [Amélie](https://open.spotify.com/track/6D65BBGrs7uuHptiwfNpIS) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Amélie](https://open.spotify.com/album/3SK4X4pGo8xa620tGmyIng) | 2:25 | 2025-01-30 |  |
 | [Anche se fa male](https://open.spotify.com/track/0cgSCy6U9CzwNjT81n5dyC) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [Anche se fa male](https://open.spotify.com/album/7ffTACBFs9ZZtAdi9e3umU) | 2:27 | 2023-11-30 | 2023-12-16 |
 | [Anche se forte, l'amore non basta](https://open.spotify.com/track/6hL8EUDbMIMxVMAuS6E3s4) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Anche se forte, l'amore non basta](https://open.spotify.com/album/2CeJaZSvISUSHXvFfIwsbc) | 2:18 | 2024-11-14 | 2025-01-17 |
 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 | 2023-06-27 | 2024-06-21 |
@@ -103,6 +105,7 @@
 | [Casa Gigante](https://open.spotify.com/track/405myFSFhjIeFh83qXGtlW) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR) | [Casa Gigante](https://open.spotify.com/album/01YVfpTlvvnbxjlyP4wxgd) | 2:37 | 2023-03-23 | 2023-04-21 |
 | [Cattivi ragazzi per bene](https://open.spotify.com/track/6Rscz9jgGiI6A3lc7XNRZK) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [DIMENTICARE IL MONDO](https://open.spotify.com/album/6JbEkpxrc8ThVu6BRHJM6n) | 2:48 | 2024-05-31 |  |
 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 | 2023-03-23 | 2023-05-26 |
+| [CEMENTO](https://open.spotify.com/track/3vB23v6nNjrnXWUgF9BoML) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [CEMENTO](https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C) | 2:30 | 2025-01-30 |  |
 | [Che bella che sei](https://open.spotify.com/track/5hKnSsWTspcGHY7iciiVwT) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [CRICCA](https://open.spotify.com/album/3GUQc2bZUzFlK9MwnrFfWI) | 2:43 | 2023-06-22 | 2023-07-07 |
 | [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 | 2023-11-07 | 2024-05-17 |
 | [Che mettevi sempre](https://open.spotify.com/track/5STrHzIUfsWe9glyyUCGjx) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Che mettevi sempre](https://open.spotify.com/album/2XdkDYtLGXJ8lAQaMWxtFN) | 3:03 | 2023-03-23 | 2023-04-14 |
@@ -116,6 +119,7 @@
 | [Ci pensi mai?](https://open.spotify.com/track/4vir2LGu3hdVNbzJqdEago) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Ci pensi mai?](https://open.spotify.com/album/5ee4xYz1FK0VDC4bTARTiD) | 1:44 | 2023-10-19 | 2023-11-17 |
 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 | 2023-05-15 | 2023-11-17 |
 | [Cicatrice](https://open.spotify.com/track/0epSbGpKaNemoWZaVEjS9S) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [Cicatrice](https://open.spotify.com/album/7fL67B6qXHYa4rRK1I2lsG) | 2:31 | 2023-04-27 | 2023-06-16 |
+| [ciecamente](https://open.spotify.com/track/2UcQ1vztQqvJEMr4361u0B) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [ciecamente](https://open.spotify.com/album/7txCmTIkCbIngxah0myq1U) | 2:38 | 2025-01-30 |  |
 | [Cinque giorni](https://open.spotify.com/track/1E6iCByNzL2vvToIpBAJBF) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Cinque giorni](https://open.spotify.com/album/2TLzYxJe0WkKnV1WviVhsb) | 3:35 | 2023-03-23 | 2023-05-26 |
 | [Ciò che amo scompare](https://open.spotify.com/track/4LuNkSBfFtBeTIxTm5K574) | [Rayan Seventeen17](https://open.spotify.com/artist/3nao1CmUhdK0OZ8XvT0X1S) | [Ciò che amo scompare](https://open.spotify.com/album/0GiTA6omGkGDWyEvuLyw9r) | 3:03 | 2024-01-04 | 2024-02-02 |
 | [CLUB CATCH](https://open.spotify.com/track/4R7de0NTj6fBw1gp0yJKuZ) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/7bpzUkc1uU93zlxRcloH41) | 2:26 | 2024-06-06 | 2024-06-28 |
@@ -277,6 +281,7 @@
 | [La Storia Più Triste Del Mondo](https://open.spotify.com/track/4FeBQvfSqo5YxuUKKDGW30) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [La Storia Più Triste Del Mondo](https://open.spotify.com/album/7HLFnEr0FHVK4UvNdaSV3T) | 2:56 | 2024-05-09 | 2024-06-28 |
 | [LA VITA NON UCCIDE](https://open.spotify.com/track/6T7AXYeKn7j59EnNsqypcC) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LA VITA NON UCCIDE](https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg) | 3:11 | 2024-05-16 | 2024-10-04 |
 | [Lacrime Di Piombo](https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 3:16 | 2023-08-10 | 2024-02-07 |
+| [Lady Milano](https://open.spotify.com/track/4Pw9CXg7QJPSbHAvXoNP9Y) | [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [Lady Milano](https://open.spotify.com/album/6lDj6yS9zcHmynTnHIbEBi) | 2:20 | 2025-01-30 |  |
 | [Laggiù](https://open.spotify.com/track/5zRHxcZwWJKqNFONmFZcbk) | [Piccolo G](https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2) | [Laggiù](https://open.spotify.com/album/07mjhDHGXDltlvoFD9cVSj) | 2:39 | 2023-11-16 | 2023-12-13 |
 | [Laila](https://open.spotify.com/track/2RDXSZsF1B28g2e4tjyVIa) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Laila](https://open.spotify.com/album/2Zr3KYLoXtzxhoU2R09joT) | 2:45 | 2023-10-19 | 2023-10-27 |
 | [Le Cose In Comune](https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Le Cose In Comune](https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0) | 2:31 | 2023-03-23 | 2023-09-29 |
@@ -491,6 +496,7 @@
 | [se ti amo in teoria](https://open.spotify.com/track/7ah7BZBvBrX0JkWzdbyaaa) | [GEREMIA](https://open.spotify.com/artist/0V23jpgaF7Ce7OPGXNQuMu), [MVRZA](https://open.spotify.com/artist/6AwKE4jzOL5dhuJIB5W1eV) | [se ti amo in teoria](https://open.spotify.com/album/2LSUToMiSvYhdKfZPEzhsQ) | 2:10 | 2024-09-26 | 2024-10-04 |
 | [Sei la fine del mondo](https://open.spotify.com/track/2T3XBmvTu8vD4kByVzvLil) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Amami](https://open.spotify.com/album/2MovZc1VuaqbWbJ7fdY4UY) | 2:26 | 2023-06-29 | 2023-07-14 |
 | [SEI NELL'ARIA](https://open.spotify.com/track/2klE3JOlRzSvvbf61r064C) | [Berna](https://open.spotify.com/artist/62uNuiJTDTVObzXP4gQLXT) | [SEI NELL'ARIA](https://open.spotify.com/album/38TazBV9Xx0Ptj1e1VoFC8) | 2:15 | 2024-04-04 | 2024-04-19 |
+| [sei quel che sei](https://open.spotify.com/track/4rEqdT6srKeojcUdzK6zsT) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [sei quel che sei](https://open.spotify.com/album/0gHgtrWRHxwZ2RFNRNMThX) | 2:40 | 2025-01-30 |  |
 | [SEMPRE LA STESSA STORIA](https://open.spotify.com/track/0LiFSV7rfijFu8O7JztShL) | [Random](https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0) | [SEMPRE LA STESSA STORIA](https://open.spotify.com/album/6bwPjNrhhIQPKjZ7enMKSo) | 2:35 | 2024-10-24 | 2024-11-06 |
 | [Sentimento](https://open.spotify.com/track/1kbUzNEAHMVWQK72yIfc2L) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Sentimento](https://open.spotify.com/album/1P8HvVas5w5Df8pjYLVEq7) | 2:24 | 2024-05-09 |  |
 | [senza te](https://open.spotify.com/track/6A4D5wJNi4NB2w2FTezJfh) | [Valerio Mazzei](https://open.spotify.com/artist/2gjd7UN8wYnqF8ZBKqxffi) | [senza te](https://open.spotify.com/album/54g19qvrqead1XxhNpujsV) | 2:19 | 2024-11-28 |  |
@@ -540,7 +546,7 @@
 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 | 2023-03-23 | 2023-11-17 |
 | [Tattaù](https://open.spotify.com/track/06olUq0UU2Uv3JVLD0hYwA) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Tattaù](https://open.spotify.com/album/5dLvo90i3sebbBhPC8p5On) | 2:23 | 2023-11-23 | 2023-12-16 |
 | [Tatuaggi](https://open.spotify.com/track/5tsK5z8zANVWyZ6bfwzeNw) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tatuaggi](https://open.spotify.com/album/5ET4JUKXPJnQb240Ay2yFa) | 3:22 | 2023-03-23 | 2023-03-31 |
-| [TAVOLE DI RORSCHACH](https://open.spotify.com/track/3UPaUZpcPX0wpL88Bjus0n) | [Liner](https://open.spotify.com/artist/0KiYzTu5Ag1zzsKccOgA0c) | [TAVOLE DI RORSCHACH](https://open.spotify.com/album/1Hqlak6slSABP5doTsTEIw) | 2:12 | 2025-01-09 |  |
+| [TAVOLE DI RORSCHACH](https://open.spotify.com/track/3UPaUZpcPX0wpL88Bjus0n) | [Liner](https://open.spotify.com/artist/0KiYzTu5Ag1zzsKccOgA0c) | [TAVOLE DI RORSCHACH](https://open.spotify.com/album/1Hqlak6slSABP5doTsTEIw) | 2:12 | 2025-01-09 | 2025-01-31 |
 | [TEMPO \(all the things she said\)](https://open.spotify.com/track/2g8j6NUFxmJmJOiTaR4iCv) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [TEMPO \(all the things she said\)](https://open.spotify.com/album/2Yrm4TpKSLkJBR1BuDgzLI) | 2:49 | 2024-04-18 | 2024-10-04 |
 | [Testa o Croce](https://open.spotify.com/track/3YrI7ZCMy655cpdMQUWCoE) | [Mose](https://open.spotify.com/artist/6MxxMir5Ey3h9QxsGDfg4L) | [Testa o Croce](https://open.spotify.com/album/42c4lSMW3xF0ilUS65Kw38) | 2:27 | 2024-07-04 | 2024-10-18 |
 | [TESTACODA](https://open.spotify.com/track/4ZDBuHhuqmW4591082AfNr) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [TESTACODA](https://open.spotify.com/album/4wLiHRAD0lMpPAiAGoZYdE) | 2:42 | 2025-01-23 |  |

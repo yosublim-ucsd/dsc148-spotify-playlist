@@ -1,15 +1,147 @@
 {
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Nej",
-  "num_followers": 226693,
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Mentissa",
+  "num_followers": 226695,
   "original_name": "Fresh Vari\u00e9t\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LJ9gAAAAC4PbnWNCa5GC4P+M6ieFDJ",
+  "snapshot_id": "Z5wEfwAAAACN5AOziwt4z7odYTF5uvcd",
   "tracks": [
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "D\u00e9sol\u00e9e",
+        "url": "https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 164199,
+      "name": "D\u00e9sol\u00e9e",
+      "url": "https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Changer",
+        "url": "https://open.spotify.com/album/639mA0Xlv5ZcovO0ir5Rj8"
+      },
+      "artists": [
+        {
+          "name": "Cenzo",
+          "url": "https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL"
+        }
+      ],
+      "duration_ms": 166154,
+      "name": "Changer",
+      "url": "https://open.spotify.com/track/0wiXd1EP1zSxI2mSycHz4S"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Last in Line (2024 Edit)",
+        "url": "https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb"
+      },
+      "artists": [
+        {
+          "name": "Josiane",
+          "url": "https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "Last in Line - 2024 Edit",
+      "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "L'album de la promo 2024",
+        "url": "https://open.spotify.com/album/1AxvcnFWz0ErVEtTvv3Mk3"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "duration_ms": 181213,
+      "name": "Vos voix",
+      "url": "https://open.spotify.com/track/45cYeCK8CFZW0nXKDcRcBQ"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Seul ici",
+        "url": "https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh"
+      },
+      "artists": [
+        {
+          "name": "Boulevard des Airs",
+          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
+        }
+      ],
+      "duration_ms": 193832,
+      "name": "Seul ici",
+      "url": "https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Vers les jours heureux",
+        "url": "https://open.spotify.com/album/0AXW1FZJRsIsRyenQtyEHt"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9e",
+          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
+        },
+        {
+          "name": "Jonas Snitt",
+          "url": "https://open.spotify.com/artist/6FWsFdM6x0BQXevCcjt75J"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "La vie change",
+      "url": "https://open.spotify.com/track/0Pc8Z0cBgJH52MYFtQJlfL"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Reflet",
+        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 168394,
+      "name": "Reflet",
+      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Meilleurs qu'hier",
+        "url": "https://open.spotify.com/album/444hHvkA6169r1nSTg7vf5"
+      },
+      "artists": [
+        {
+          "name": "Malo'",
+          "url": "https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Meilleurs qu'hier",
+      "url": "https://open.spotify.com/track/0g4ObIiyj6t33K6WFDt1sr"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Mal lun\u00e9e",
         "url": "https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI"
@@ -25,23 +157,23 @@
       "url": "https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "Le monde demain (Version radio)",
-        "url": "https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz"
+        "name": "Miroirs (Edition deluxe)",
+        "url": "https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL"
       },
       "artists": [
         {
-          "name": "Les Enfoir\u00e9s",
-          "url": "https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN"
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
         }
       ],
-      "duration_ms": 198546,
-      "name": "Le monde demain (Version radio)",
-      "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
+      "duration_ms": 161213,
+      "name": "Petit Fr\u00e8re",
+      "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Les singles d'Ebony et Marine",
         "url": "https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ"
@@ -61,23 +193,7 @@
       "url": "https://open.spotify.com/track/57wJTnlfDDJIXznYGqNcIh"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Miroirs (Edition deluxe)",
-        "url": "https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        }
-      ],
-      "duration_ms": 161213,
-      "name": "Petit Fr\u00e8re",
-      "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Les \u00e9toiles",
         "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
@@ -93,27 +209,39 @@
       "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "M'envoler",
-        "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX"
       },
       "artists": [
         {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
-        },
-        {
-          "name": "Carla",
-          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
         }
       ],
-      "duration_ms": 189786,
-      "name": "M'envoler",
-      "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
+      "duration_ms": 216966,
+      "name": "La Diff\u00e9rence - Single Version",
+      "url": "https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "J\u2019ai chang\u00e9",
+      "url": "https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Les p'tits soleils (feat. Joseph Kamel, Helena, Mentissa, Calema, Linh, Nuit Incolore, Styleto, Jeck, Carla, Elo\u00efz, St\u00e9phane, Julien Lieb, Vernis Rouge, Axel Marbeuf, Laura Ferr\u00e9, Esm\u00e9e, Cobalt, Philippine, Petit K, TIMEO, OTTA, T\u00e9t\u00e9, Kano\u00e9, Eugie, Sab, John Mamann, Noa R. & Make Sense)",
         "url": "https://open.spotify.com/album/6QVOsbEQMcCCzFGS9zpXue"
@@ -205,55 +333,75 @@
       "url": "https://open.spotify.com/track/4gNHDVQI9Y8Ue1kS922qBo"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "Changer",
-        "url": "https://open.spotify.com/album/639mA0Xlv5ZcovO0ir5Rj8"
+        "name": "Tout finit par s'arranger",
+        "url": "https://open.spotify.com/album/5FdmckG2IazguMhFrgrN9x"
       },
       "artists": [
         {
-          "name": "Cenzo",
-          "url": "https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL"
+          "name": "Chiloo",
+          "url": "https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o"
         }
       ],
-      "duration_ms": 166154,
-      "name": "Changer",
-      "url": "https://open.spotify.com/track/0wiXd1EP1zSxI2mSycHz4S"
+      "duration_ms": 170000,
+      "name": "Tout finit par s'arranger",
+      "url": "https://open.spotify.com/track/0HZfhYY0wc85JbzulGptsF"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX"
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv"
       },
       "artists": [
         {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
         }
       ],
-      "duration_ms": 216966,
-      "name": "La Diff\u00e9rence - Single Version",
-      "url": "https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O"
+      "duration_ms": 140000,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "\u00c9clipse",
-        "url": "https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW"
+        "name": "M'envoler",
+        "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
       },
       "artists": [
         {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        },
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
         }
       ],
-      "duration_ms": 149701,
-      "name": "\u00c9clipse",
-      "url": "https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7"
+      "duration_ms": 189786,
+      "name": "M'envoler",
+      "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "L'orage",
+        "url": "https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs"
+      },
+      "artists": [
+        {
+          "name": "Alien",
+          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
+        }
+      ],
+      "duration_ms": 147746,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Les singles d'Ebony et Marine",
         "url": "https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ"
@@ -273,107 +421,7 @@
       "url": "https://open.spotify.com/track/2VXktzdXfNbCEfu8fnpKYe"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "La question",
-        "url": "https://open.spotify.com/album/6Tbm0pq7D5wJn0fAtSouZv"
-      },
-      "artists": [
-        {
-          "name": "Bilal Hassani",
-          "url": "https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW"
-        }
-      ],
-      "duration_ms": 168416,
-      "name": "La question",
-      "url": "https://open.spotify.com/track/2aCsRORqGZawWKz6wop7uX"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Last in Line (2024 Edit)",
-        "url": "https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb"
-      },
-      "artists": [
-        {
-          "name": "Josiane",
-          "url": "https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B"
-        }
-      ],
-      "duration_ms": 183626,
-      "name": "Last in Line - 2024 Edit",
-      "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Vers les jours heureux",
-        "url": "https://open.spotify.com/album/0AXW1FZJRsIsRyenQtyEHt"
-      },
-      "artists": [
-        {
-          "name": "Esm\u00e9e",
-          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
-        },
-        {
-          "name": "Jonas Snitt",
-          "url": "https://open.spotify.com/artist/6FWsFdM6x0BQXevCcjt75J"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "La vie change",
-      "url": "https://open.spotify.com/track/0Pc8Z0cBgJH52MYFtQJlfL"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Vivre...",
-        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "J\u2019ai chang\u00e9",
-      "url": "https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Seul ici",
-        "url": "https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh"
-      },
-      "artists": [
-        {
-          "name": "Boulevard des Airs",
-          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
-        }
-      ],
-      "duration_ms": 193832,
-      "name": "Seul ici",
-      "url": "https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Tout dire (Version Deluxe)",
-        "url": "https://open.spotify.com/album/42oKj8M6xxE644yYGYjZqy"
-      },
-      "artists": [
-        {
-          "name": "DAYSY",
-          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "Tout dire",
-      "url": "https://open.spotify.com/track/27GjxhZTxOVpCTBjSwqvdN"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Sinc\u00e8re",
         "url": "https://open.spotify.com/album/0RSQXx0gSLmVgNeFL4Ow5T"
@@ -389,23 +437,7 @@
       "url": "https://open.spotify.com/track/6gQ4esi2AgqryoiLh8vmfU"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Le jeu",
-        "url": "https://open.spotify.com/album/2v6gZqCcuHtBtk9FTx9adP"
-      },
-      "artists": [
-        {
-          "name": "Julien Lieb",
-          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
-        }
-      ],
-      "duration_ms": 201761,
-      "name": "Le jeu",
-      "url": "https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Oser",
         "url": "https://open.spotify.com/album/2fl3JX1Iq19Ar3ByUKlZoQ"
@@ -421,39 +453,87 @@
       "url": "https://open.spotify.com/track/2OwSd94EtSFh5dzrp4SFWY"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "Meilleurs qu'hier",
-        "url": "https://open.spotify.com/album/444hHvkA6169r1nSTg7vf5"
+        "name": "La question",
+        "url": "https://open.spotify.com/album/6Tbm0pq7D5wJn0fAtSouZv"
       },
       "artists": [
         {
-          "name": "Malo'",
-          "url": "https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR"
+          "name": "Bilal Hassani",
+          "url": "https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW"
         }
       ],
-      "duration_ms": 199146,
-      "name": "Meilleurs qu'hier",
-      "url": "https://open.spotify.com/track/0g4ObIiyj6t33K6WFDt1sr"
+      "duration_ms": 168416,
+      "name": "La question",
+      "url": "https://open.spotify.com/track/2aCsRORqGZawWKz6wop7uX"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "Tout finit par s'arranger",
-        "url": "https://open.spotify.com/album/5FdmckG2IazguMhFrgrN9x"
+        "name": "Le monde demain (Version radio)",
+        "url": "https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz"
       },
       "artists": [
         {
-          "name": "Chiloo",
-          "url": "https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o"
+          "name": "Les Enfoir\u00e9s",
+          "url": "https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Tout finit par s'arranger",
-      "url": "https://open.spotify.com/track/0HZfhYY0wc85JbzulGptsF"
+      "duration_ms": 198546,
+      "name": "Le monde demain (Version radio)",
+      "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Tout dire (Version Deluxe)",
+        "url": "https://open.spotify.com/album/42oKj8M6xxE644yYGYjZqy"
+      },
+      "artists": [
+        {
+          "name": "DAYSY",
+          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "Tout dire",
+      "url": "https://open.spotify.com/track/27GjxhZTxOVpCTBjSwqvdN"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Station 4 septembre",
+        "url": "https://open.spotify.com/album/3mshMElmNYgR2hAptgDrH2"
+      },
+      "artists": [
+        {
+          "name": "Pixel",
+          "url": "https://open.spotify.com/artist/1rmUeanBa7ccqHR6uOIFZV"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "Station 4 septembre",
+      "url": "https://open.spotify.com/track/6D2K93Io4o7dDQqh6MxeCs"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Demi-mot",
+        "url": "https://open.spotify.com/album/2nOhzMsnpcAKpdeXAknWsM"
+      },
+      "artists": [
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
+        }
+      ],
+      "duration_ms": 188034,
+      "name": "Demi-mot",
+      "url": "https://open.spotify.com/track/5p6cWSgjztQhEapqGD7INp"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Enfant de nulle part",
         "url": "https://open.spotify.com/album/4SDXgK1ZznkGsaL0sRDmxV"
@@ -469,39 +549,23 @@
       "url": "https://open.spotify.com/track/4e675JEKw1nH70jmYxGwZM"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "C'est \u00e7a la vie",
-        "url": "https://open.spotify.com/album/27X4Zkeh2eVXl30FzetqeB"
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
       },
       "artists": [
         {
-          "name": "Roulez Jeunesse",
-          "url": "https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle"
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
         }
       ],
-      "duration_ms": 180000,
-      "name": "C'est \u00e7a la vie",
-      "url": "https://open.spotify.com/track/4uw9QI12tDmEvlgiH4tFm9"
+      "duration_ms": 200400,
+      "name": "Un dimanche avec toi",
+      "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "L'orage",
-        "url": "https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs"
-      },
-      "artists": [
-        {
-          "name": "Alien",
-          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
-        }
-      ],
-      "duration_ms": 147746,
-      "name": "Demain",
-      "url": "https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/7sdaJif7blg8yw12wtnKd6"
@@ -517,7 +581,7 @@
       "url": "https://open.spotify.com/track/0I8x14WQm5qZIuePdd4JRX"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "+1",
         "url": "https://open.spotify.com/album/1eoAQ3NzpoBJwFsI79LYqO"
@@ -537,7 +601,7 @@
       "url": "https://open.spotify.com/track/7yPLuv0JNnSJrKRJjaDon5"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "solo (\u00e9dition blizzard)",
         "url": "https://open.spotify.com/album/0QgoX9WIbp5xTwe9Up5v79"
@@ -553,23 +617,7 @@
       "url": "https://open.spotify.com/track/1Rw4uvIWhfTwtXxzVBFyFt"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Demi-mot",
-        "url": "https://open.spotify.com/album/2nOhzMsnpcAKpdeXAknWsM"
-      },
-      "artists": [
-        {
-          "name": "Colt",
-          "url": "https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg"
-        }
-      ],
-      "duration_ms": 188034,
-      "name": "Demi-mot",
-      "url": "https://open.spotify.com/track/5p6cWSgjztQhEapqGD7INp"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Hyper (Radio Edit)",
         "url": "https://open.spotify.com/album/3PzybE4ndU1NFjsabkqfJU"
@@ -585,7 +633,23 @@
       "url": "https://open.spotify.com/track/1PJy77luqvCQfOGVeLIB4V"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Tout ira mieux",
+        "url": "https://open.spotify.com/album/62P34yhvZUL6tUufhJW2cy"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        }
+      ],
+      "duration_ms": 170419,
+      "name": "Tout ira mieux",
+      "url": "https://open.spotify.com/track/7Iv8bX5ooI4vQAvw6JWd17"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Win Rak",
         "url": "https://open.spotify.com/album/5h5QmOm4Nucc5676vncete"
@@ -601,55 +665,55 @@
       "url": "https://open.spotify.com/track/4dMmznl2mN0O2dfDOQr6Wd"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "Tout Petit",
-        "url": "https://open.spotify.com/album/3b8PMF3afnavT72CLkvcaf"
+        "name": "Abuelito",
+        "url": "https://open.spotify.com/album/69lB7oDyFfSlsgVQLOCRnz"
       },
       "artists": [
         {
-          "name": "Eko Eko",
-          "url": "https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY"
+          "name": "Anthony Soto",
+          "url": "https://open.spotify.com/artist/2blhvivHK3BmOLf1HQeQ6k"
         }
       ],
-      "duration_ms": 162586,
-      "name": "Tout Petit",
-      "url": "https://open.spotify.com/track/0uJdIiu2BEyI6ZZN8wijhL"
+      "duration_ms": 165326,
+      "name": "Abuelito",
+      "url": "https://open.spotify.com/track/0ErYFIfaBolQss5NKdvdhC"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/7DuT3z3dsEhqyqxNTwMKKd"
+        "name": "Regarde",
+        "url": "https://open.spotify.com/album/39hZhVtDtPuH0njI8KjArd"
       },
       "artists": [
         {
-          "name": "Lenie",
-          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI"
         }
       ],
-      "duration_ms": 176400,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6LF1OzPmtNhklCCKUt2jUq"
+      "duration_ms": 163182,
+      "name": "Regarde",
+      "url": "https://open.spotify.com/track/2147QVD0QBS9L90jxwvUcc"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
-        "name": "TOI MA PEINE",
-        "url": "https://open.spotify.com/album/0BGwBsRnSkNUAB2ygDS9Po"
+        "name": "\u00c9clipse",
+        "url": "https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW"
       },
       "artists": [
         {
-          "name": "Gloria",
-          "url": "https://open.spotify.com/artist/2yWU3Z3NKkz1g49LzGFRU4"
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
         }
       ],
-      "duration_ms": 165289,
-      "name": "TOI MA PEINE",
-      "url": "https://open.spotify.com/track/0af4vgQfrSkEoU6WoAu2CU"
+      "duration_ms": 149701,
+      "name": "\u00c9clipse",
+      "url": "https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Elo\u00efz",
         "url": "https://open.spotify.com/album/4ObYKveQSgGAkso5gHUHfp"
@@ -665,43 +729,7 @@
       "url": "https://open.spotify.com/track/3ZdyDjxhkbolIPKLkmuJjI"
     },
     {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "soleil",
-        "url": "https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        },
-        {
-          "name": "P3GASE",
-          "url": "https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe"
-        }
-      ],
-      "duration_ms": 159377,
-      "name": "soleil",
-      "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Et si tu sens (\u00e9crit par Gr\u00e9gory Lemarchal)",
-        "url": "https://open.spotify.com/album/2whXeqwissI9TOYiw7RFoP"
-      },
-      "artists": [
-        {
-          "name": "Star Academy",
-          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
-        }
-      ],
-      "duration_ms": 206117,
-      "name": "Et si tu sens - \u00e9crit par Gr\u00e9gory Lemarchal",
-      "url": "https://open.spotify.com/track/4APtnl8hCS4PPBjaOGb1XV"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Le c\u0153ur qui bat",
         "url": "https://open.spotify.com/album/0L70I8WtiuypVhElYgOxSf"
@@ -715,38 +743,6 @@
       "duration_ms": 187330,
       "name": "Le c\u0153ur qui bat",
       "url": "https://open.spotify.com/track/6xsNibDlnk1HLFTMHPnPNn"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Tourner sous la pluie",
-        "url": "https://open.spotify.com/album/73ZdGxzyocIdXVst4anPgQ"
-      },
-      "artists": [
-        {
-          "name": "Dinaa",
-          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
-        }
-      ],
-      "duration_ms": 158331,
-      "name": "Tourner sous la pluie",
-      "url": "https://open.spotify.com/track/4TxDNMIF4z0kZigtnWnLUC"
-    },
-    {
-      "added_at": "2025-01-23 23:00:06",
-      "album": {
-        "name": "Mon sang",
-        "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Cette vie",
-      "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
     }
   ],
   "unique_name": "Fresh Vari\u00e9t\u00e9",

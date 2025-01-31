@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-112 songs - 6 hr 25 min
+113 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dale Mecha \- House Remix](https://open.spotify.com/track/5r0TYomlEGGY6eRLcyWwvO) | [Santi Dome](https://open.spotify.com/artist/62ysFsCfzsF4LLRmOphXhM), [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Dale Mecha \(House Remix\)](https://open.spotify.com/album/0B4jDkOdMU0SXfpk5pxIYI) | 2:20 | 2023-11-29 |  |
 | [Danza Kuduro \- Tiësto Remix](https://open.spotify.com/track/64tld7huCbqobyTfV5oBZR) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Danza Kuduro \(Tiësto Remix\)](https://open.spotify.com/album/2FKAOTpsqDC8AgutOaIl5g) | 3:38 | 2024-04-12 | 2024-04-19 |
 | [Danza Kuduro \- Tiësto Remix](https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Danza Kuduro \(Tiësto Remix\)](https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV) | 3:39 | 2024-04-19 |  |
+| [DOBLEP \| Omar Algo Anda Mal \#14](https://open.spotify.com/track/5O4LqMwAeBznxOXy76lC1W) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [DOBLEP \| Omar Algo Anda Mal \#14](https://open.spotify.com/album/2XG5FdCeZ3Ra4bs4an5E89) | 2:20 | 2025-01-31 |  |
 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2023-11-29 |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2023-11-29 |  |
 | [El Dia de Mi Suerte \(Tech House\) \- Remix](https://open.spotify.com/track/3oWCPdKPLUD6zC2JcQVxT9) | [FaqEzequiel](https://open.spotify.com/artist/3wLQCGbH4C7JTg8NacoOxL), [Nico Manriquez](https://open.spotify.com/artist/2ZPsXaS21IxNDnpe6JoBNh) | [El Dia de Mi Suerte \(Tech House\) \[Remix\]](https://open.spotify.com/album/1n8hVtxBJ67WDryA3BpwOx) | 2:17 | 2025-01-17 |  |

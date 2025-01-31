@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve / Foto: Mariana Nolasco, Lourena
 
-776 songs - 1 day 14 hr 44 min
+777 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 | 2023-10-13 | 2023-10-29 |
 | [Na Proa da Saudade](https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Gérbera + Na Proa da Saudade](https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH) | 3:36 | 2025-01-17 |  |
 | [nada do que você falou](https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [nada do que você falou](https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU) | 2:33 | 2024-05-31 |  |
+| [Nem disse adeus](https://open.spotify.com/track/6zmHiJ4dRd98zrJMa4SQNK) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR), [bel cortez](https://open.spotify.com/artist/2cN632fv7idMPULWMs4hk9) | [Nem disse adeus](https://open.spotify.com/album/6YKViKUIrDHRzCEPvXQ0lc) | 2:19 | 2025-01-24 |  |
 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 | 2023-08-04 | 2023-11-25 |
 | [nem gosto tanto assim de você](https://open.spotify.com/track/7yYgj6JpLLCRhGzwSTpC00) | [Gabriel Froede](https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx) | [nem gosto tanto assim de você](https://open.spotify.com/album/0CftRPVAJRuz5SQhliCvBd) | 3:07 | 2023-04-28 | 2023-07-08 |
 | [NEM SE O MUNDO ACABAR](https://open.spotify.com/track/0PO6YGZRP4l2dOmh7vwFeI) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [NEM SE O MUNDO ACABAR](https://open.spotify.com/album/20sOCWA4LGpIE3KXvWv2Te) | 2:32 | 2024-12-20 |  |

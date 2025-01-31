@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: JOHA(\uc870\ud558)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uae40\uc2b9\uc8fc, \uace0\uace0\ud559, \uac15\uc9c0\uc6d0, ddbb) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1691,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/3bJYiZuZKuEL6WKzzHiThP"
+      },
+      "artists": [
+        {
+          "name": "eJe",
+          "url": "https://open.spotify.com/artist/383xVY7tjlICegMKFjwUxf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248965,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/2ipuhDUO5b6M4pBODjs8ud"
+    },
+    {
+      "album": {
         "name": "Our Own Oranges",
         "url": "https://open.spotify.com/album/7gxNgiBU5SKpVx8C77Irkm"
       },
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 240000,
       "name": "Broken camper",
       "url": "https://open.spotify.com/track/4k2erZIXJTbRnYXQ3dpmAk"
@@ -2226,6 +2244,24 @@
       "duration_ms": 213000,
       "name": "Circle",
       "url": "https://open.spotify.com/track/3VLeNf2S2bHwxFMgvYJCLW"
+    },
+    {
+      "album": {
+        "name": "AoB Compilation Album Vol.1 : Mutant",
+        "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
+      },
+      "artists": [
+        {
+          "name": "kimseungjoo",
+          "url": "https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "city 404",
+      "url": "https://open.spotify.com/track/7gEkEPty8e6cIysQkNoGoe"
     },
     {
       "album": {
@@ -2732,6 +2768,24 @@
       "duration_ms": 250254,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7yYNkLrgGlWN4OnXNira9S"
+    },
+    {
+      "album": {
+        "name": "Daydreamer",
+        "url": "https://open.spotify.com/album/1OQAB8ZQaN5d7xpkxkH8C7"
+      },
+      "artists": [
+        {
+          "name": "GIFT",
+          "url": "https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270989,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/3SFEmtI1gkOoIwe2zPeSsU"
     },
     {
       "album": {
@@ -3968,7 +4022,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 135374,
       "name": "fall apart",
       "url": "https://open.spotify.com/track/4jAVpxfvPYN09k2uzax9DS"
@@ -4062,7 +4116,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 154000,
       "name": "FETISH (feat. Jimmy Brown)",
       "url": "https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo"
@@ -5695,6 +5749,24 @@
     },
     {
       "album": {
+        "name": "AoB Compilation Album Vol.1 : Mutant",
+        "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
+      },
+      "artists": [
+        {
+          "name": "SIMILE LAND",
+          "url": "https://open.spotify.com/artist/1PVjeeja3aKjY1vI6C8W82"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273933,
+      "name": "Hoo! ha..",
+      "url": "https://open.spotify.com/track/2g6xX5juQc08YW8UxI8yH7"
+    },
+    {
+      "album": {
         "name": "HOOL HOOL",
         "url": "https://open.spotify.com/album/6X2HcQCUuqRbibsIbNIdR4"
       },
@@ -7286,7 +7358,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 214000,
       "name": "Keep",
       "url": "https://open.spotify.com/track/6KipJW2V9Jqc45DhUTJoUF"
@@ -7839,6 +7911,24 @@
     },
     {
       "album": {
+        "name": "AoB Compilation Album Vol.1 : Mutant",
+        "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
+      },
+      "artists": [
+        {
+          "name": "evenif",
+          "url": "https://open.spotify.com/artist/26sLRymbW9mmoW9g74o0AF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190060,
+      "name": "Lone",
+      "url": "https://open.spotify.com/track/1AF2rcwvxpkUCjicFY4dSd"
+    },
+    {
+      "album": {
         "name": "Lesser Gods And Chimeras",
         "url": "https://open.spotify.com/album/7Gb4evIU7fNgPd3Gp7tXaC"
       },
@@ -7854,6 +7944,28 @@
       "duration_ms": 204605,
       "name": "Look At Me Look At Me",
       "url": "https://open.spotify.com/track/5t2XHhWwKqgE3ZRmj8vVJ7"
+    },
+    {
+      "album": {
+        "name": "Loser, Game Over, You're the Champion",
+        "url": "https://open.spotify.com/album/4G7tZZIl0gis3TVcYSips2"
+      },
+      "artists": [
+        {
+          "name": "YongYong",
+          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
+        },
+        {
+          "name": "LEE DO of ONEUS",
+          "url": "https://open.spotify.com/artist/39r6KaYmPsgtidLS2YItV1"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Loser (with LEE DO of ONEUS)",
+      "url": "https://open.spotify.com/track/1bBuZZJacnkfvPQoQznjZk"
     },
     {
       "album": {
@@ -8580,7 +8692,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 154411,
       "name": "Memory Romanticize",
       "url": "https://open.spotify.com/track/2mPP1mApGGvXWSLgIDqtZC"
@@ -8916,7 +9028,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 187093,
       "name": "Mulli Mulli",
       "url": "https://open.spotify.com/track/2y0ozrZZP0unL0rCV5J9np"
@@ -10165,6 +10277,24 @@
     },
     {
       "album": {
+        "name": "AoB Compilation Album Vol.1 : Mutant",
+        "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
+      },
+      "artists": [
+        {
+          "name": "Kangziwon",
+          "url": "https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237096,
+      "name": "pasta24",
+      "url": "https://open.spotify.com/track/58ely9t3v6EMpw1xILJ8C9"
+    },
+    {
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/1JWMKEY6ZXT7QjRQ3WyNwx"
       },
@@ -10306,7 +10436,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 245813,
       "name": "Piscis",
       "url": "https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF"
@@ -11285,6 +11415,24 @@
     },
     {
       "album": {
+        "name": "salty heart",
+        "url": "https://open.spotify.com/album/7zb17rxkTyZ5mHtGNs7ZS0"
+      },
+      "artists": [
+        {
+          "name": "ddbb",
+          "url": "https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240923,
+      "name": "salty",
+      "url": "https://open.spotify.com/track/6iFhant40mG0SZF1WBofEC"
+    },
+    {
+      "album": {
         "name": "Same Constellation \uac19\uc740 \ubcc4\uc790\ub9ac",
         "url": "https://open.spotify.com/album/5C5GOjn5IV3cz1VZiZZMWq"
       },
@@ -12048,7 +12196,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 215618,
       "name": "snowman",
       "url": "https://open.spotify.com/track/2lOZ5ha2t7YBf3tKRvd0aC"
@@ -12461,6 +12609,24 @@
     },
     {
       "album": {
+        "name": "AoB Compilation Album Vol.1 : Mutant",
+        "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
+      },
+      "artists": [
+        {
+          "name": "Ghost Bookstore",
+          "url": "https://open.spotify.com/artist/3s0xx7GJjL9kweDSa5J4go"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278600,
+      "name": "Spring Song",
+      "url": "https://open.spotify.com/track/03HiAXW81z3lGm11O5pu4J"
+    },
+    {
+      "album": {
         "name": "Fit Me",
         "url": "https://open.spotify.com/album/3TYy1tiVsuOWibt2ptlFUD"
       },
@@ -12700,7 +12866,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 244500,
       "name": "Stay, there",
       "url": "https://open.spotify.com/track/52r4FaIzEa9VGSi1ftzIzc"
@@ -12780,6 +12946,24 @@
       "duration_ms": 206476,
       "name": "Still like this",
       "url": "https://open.spotify.com/track/54L406FREsFPcDTjP5YD5a"
+    },
+    {
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/4iK991XKjt5gyJ2YrVqIHq"
+      },
+      "artists": [
+        {
+          "name": "pylat",
+          "url": "https://open.spotify.com/artist/1zMe4f8RnQ4rEKV6DOHER3"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325631,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/2r4sl4hds7xyfT9im6N1ZL"
     },
     {
       "album": {
@@ -13386,7 +13570,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 284121,
       "name": "THE BEACON OF HOPE",
       "url": "https://open.spotify.com/track/2ebSlHQJJBhkFZBJN9HJ5A"
@@ -13981,6 +14165,24 @@
     },
     {
       "album": {
+        "name": "AoB Compilation Album Vol.1 : Mutant",
+        "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
+      },
+      "artists": [
+        {
+          "name": "ddbb",
+          "url": "https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/2sC2MG2UB374acOg0Ltidg"
+    },
+    {
+      "album": {
         "name": "Treat You Right \uc0ac\ub791\ud574\uc904\ub798",
         "url": "https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7"
       },
@@ -14559,6 +14761,24 @@
     },
     {
       "album": {
+        "name": "AoB Compilation Album Vol.1 : Mutant",
+        "url": "https://open.spotify.com/album/6mZZ2aLUeB9zoCWpapzbRb"
+      },
+      "artists": [
+        {
+          "name": "Gogohawk",
+          "url": "https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357685,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/3etI6U4FQnHmsSDjrCi2f2"
+    },
+    {
+      "album": {
         "name": "We must break up now",
         "url": "https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC"
       },
@@ -14700,7 +14920,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 172126,
       "name": "Westin Josun Hotel",
       "url": "https://open.spotify.com/track/24fSPOhwhY7QfJUtQAoQn3"
@@ -15628,7 +15848,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 214772,
       "name": "Your Melody",
       "url": "https://open.spotify.com/track/282E4GBXUN4knGGBdrjxVP"
@@ -15927,6 +16147,24 @@
     },
     {
       "album": {
+        "name": "\ubb50\ud574",
+        "url": "https://open.spotify.com/album/1AcCaPEmYXZD6su9fRyS0L"
+      },
+      "artists": [
+        {
+          "name": "Terry",
+          "url": "https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191304,
+      "name": "\ubb50\ud574",
+      "url": "https://open.spotify.com/track/6Nr5299pHtLDpIl5vdz9pH"
+    },
+    {
+      "album": {
         "name": "\ubc29\ub791\uc790",
         "url": "https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX"
       },
@@ -16140,7 +16378,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 193846,
       "name": "\ud3b8\uc9c0",
       "url": "https://open.spotify.com/track/4vCFXfI59csHOHeLuy3OC7"

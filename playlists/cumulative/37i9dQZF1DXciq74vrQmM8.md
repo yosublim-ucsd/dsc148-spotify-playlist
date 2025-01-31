@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. ALT BLK ERA
+> anyway, here's Bring Me The Horizon ⛓️
 
-1,056 songs - 2 day 3 hr 20 min
+1,058 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Do It So Good](https://open.spotify.com/track/7AdLQWyE8e2AKUBooSGCBt) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Do It So Good](https://open.spotify.com/album/7s7bmCIHQjNtt83diSRZjm) | 3:22 | 2023-07-13 | 2023-12-16 |
 | [DO U LIKE ME NOW?](https://open.spotify.com/track/22Uh81w7dh0sdE4egnLndv) | [Dana Dentata](https://open.spotify.com/artist/1QiXZr91PL7BG5jT7j14uB) | [DO U LIKE ME NOW?](https://open.spotify.com/album/5pEPrSirLnbvFr65nO5Zp9) | 2:23 | 2021-12-27 | 2022-06-10 |
 | [dog days](https://open.spotify.com/track/0NHix4a0k9WVZNZtPMgkQ1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [dog days](https://open.spotify.com/album/5tsuLmnmDMo4rhrRZQIXFn) | 2:56 | 2022-04-28 | 2022-08-05 |
+| [Dog's Dinner](https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Dog's Dinner](https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1) | 3:45 | 2025-01-31 |  |
 | [Dogs](https://open.spotify.com/track/3wKHZRuRmIe7pR9V55wVrE) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd), [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Dogs](https://open.spotify.com/album/0Bu37cEkAfk8UGuSlMx9cm) | 3:33 | 2024-09-26 | 2024-10-18 |
 | [Doing It For The Country](https://open.spotify.com/track/09W1ATBTKRZvzRvUJuF26v) | [vincent's last summer](https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3) | [Doing It For The Country](https://open.spotify.com/album/4deeqP5F3zzOA1ntCHIugF) | 2:52 | 2024-08-15 | 2024-10-11 |
 | [Don't Date The Devil](https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Don't Date The Devil](https://open.spotify.com/album/62emvRyHGLkEYQctxBA1Pi) | 2:50 | 2023-06-15 | 2023-07-21 |
@@ -296,12 +297,12 @@
 | [Empathy](https://open.spotify.com/track/36w3BSCTwl5H3suCT2lHBO) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Empathy](https://open.spotify.com/album/6UOcTo49JqjkUmQcYe0bm3) | 3:26 | 2022-10-27 | 2022-11-18 |
 | [Empathy My Ass](https://open.spotify.com/track/4uuyKzULwc4cmXJDHGzF29) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Empathy My Ass](https://open.spotify.com/album/3ib6m6kJEhcwUsJC2sE7EQ) | 3:02 | 2022-12-16 | 2023-02-09 |
 | [Empty Space](https://open.spotify.com/track/7iAZgolVfFtP5n1EEdL4c1) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Empty Space](https://open.spotify.com/album/0PN6oB3NFC0QzUnKi8b4sj) | 3:31 | 2024-11-15 |  |
-| [Empty Space](https://open.spotify.com/track/74UEBy9GJ082fc7Nax2ST7) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Empty Space](https://open.spotify.com/album/2zMI60Yy1HxU2B7ICjgYMx) | 3:30 | 2024-10-29 |  |
+| [Empty Space](https://open.spotify.com/track/74UEBy9GJ082fc7Nax2ST7) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Empty Space](https://open.spotify.com/album/2zMI60Yy1HxU2B7ICjgYMx) | 3:30 | 2024-10-29 | 2025-01-31 |
 | [Enemies with Benefits](https://open.spotify.com/track/2Mq5YOnYgqvOfZn8uMMAvC) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Enemies with Benefits](https://open.spotify.com/album/1glHI4LZaPaDyhWRnfiTG2) | 3:12 | 2023-08-24 | 2023-12-09 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-08-04 | 2022-10-14 |
 | [escape 2nite](https://open.spotify.com/track/4AijasxFX4OxpAUO1HMZEi) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [escape 2nite](https://open.spotify.com/album/2Jk8ZhfJpCmMqEFNwqhnRc) | 2:18 | 2024-09-05 | 2024-11-15 |
 | [Eternal December](https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Eternal December](https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI) | 3:49 | 2024-03-01 | 2024-06-14 |
-| [EURO CUT](https://open.spotify.com/track/5YinEwPw568hqnzVLdm6mh) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [EURO CUT](https://open.spotify.com/album/1JwpViTCZKPeFArFi8RN9I) | 4:24 | 2024-11-08 |  |
+| [EURO CUT](https://open.spotify.com/track/5YinEwPw568hqnzVLdm6mh) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [EURO CUT](https://open.spotify.com/album/1JwpViTCZKPeFArFi8RN9I) | 4:24 | 2024-11-08 | 2025-01-31 |
 | [EVERY MAN FOR HIMSELF](https://open.spotify.com/track/6tKEneUBTaGvoHeSxpJltb) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EVERY MAN FOR HIMSELF](https://open.spotify.com/album/70KXLvjv7CIssBvNh9AbTB) | 1:57 | 2024-03-01 | 2024-05-24 |
 | [Everybody Just Wants To](https://open.spotify.com/track/4sl5i4kGjSe3lbh3wwmRkr) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Everybody Just Wants To](https://open.spotify.com/album/7HEKGLc2Dopw8lRHbajgKU) | 2:26 | 2023-03-30 | 2023-08-25 |
 | [Everybody's Dead Inside](https://open.spotify.com/track/4SLRf6iffVPe0ZBvudaZNV) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [Everybody's Dead Inside](https://open.spotify.com/album/4oHeacwCvgD4xibkx6uWEn) | 2:46 | 2022-05-19 | 2022-08-26 |
@@ -344,7 +345,7 @@
 | [flip a switch](https://open.spotify.com/track/3Xnsm7gx3KBmYoWFdNMof6) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [flip a switch](https://open.spotify.com/album/2QueRNxcrP62Nkg3YfZGrJ) | 2:32 | 2021-12-27 | 2022-02-13 |
 | [Flipside](https://open.spotify.com/track/0e0zblaAIBaDV488LAcJW1) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Flipside](https://open.spotify.com/album/55SE0yxBewcwcuMpq7vOj4) | 2:41 | 2024-08-22 | 2024-10-04 |
 | [float](https://open.spotify.com/track/0JI3pxnreOq79EK1TlCVfp) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [float](https://open.spotify.com/album/3SI0OQOSJBTG3TrUiyzLkA) | 3:07 | 2022-03-25 | 2022-08-05 |
-| [Floodlights \(feat\. Siiickbrain\)](https://open.spotify.com/track/4oB1uQsNHRTaX6KLxPdSM8) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Slivering The Senses](https://open.spotify.com/album/0fnKw7H5rGLcVk5WiuB47q) | 3:06 | 2024-10-17 |  |
+| [Floodlights \(feat\. Siiickbrain\)](https://open.spotify.com/track/4oB1uQsNHRTaX6KLxPdSM8) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Slivering The Senses](https://open.spotify.com/album/0fnKw7H5rGLcVk5WiuB47q) | 3:06 | 2024-10-17 | 2025-01-31 |
 | [Flowergirls](https://open.spotify.com/track/6Qp85OKe3u42FhxiatZqEs) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Flower Girl](https://open.spotify.com/album/4uVm4K5cgn9rqiNBt7XNCC) | 2:36 | 2023-10-13 | 2024-01-26 |
 | [FLYING CAR](https://open.spotify.com/track/5Nq1ajBF2nJIlZxFAGLfpF) | [Bronze](https://open.spotify.com/artist/6tYQMlvJdCgJd660u47II0), [BBRC](https://open.spotify.com/artist/1rUZnYVwvnjt3MrQastd5X) | [FLYING CAR](https://open.spotify.com/album/7ATiXxdFjmBBQuXVy1NuOv) | 3:07 | 2021-12-27 | 2022-01-19 |
 | [for a reason](https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY) | [for a reason](https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389) | 2:15 | 2022-12-02 | 2023-01-22 |
@@ -741,6 +742,7 @@
 | [Pink Bubblegum](https://open.spotify.com/track/4jxg7aD2s4ehpjyVP0qisg) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Bubblegum](https://open.spotify.com/album/70bWJ4nB1AGuDh5hqfZ3pf) | 2:22 | 2021-12-27 | 2022-02-18 |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2022-04-19 | 2022-04-29 |
 | [Pink G\-String](https://open.spotify.com/track/1uAXWqVuVOSDqE4lJvY4Ae) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink G\-String](https://open.spotify.com/album/5Y4VHqeyqlnPIHlK0zfso3) | 2:07 | 2022-07-14 | 2022-08-26 |
+| [pink gun](https://open.spotify.com/track/6UNszlYyXAmKAAqF3e3Lv2) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [pink gun](https://open.spotify.com/album/6ibuf1X8PFFtLgxOXUo5EM) | 3:08 | 2025-01-31 |  |
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-04-28 | 2022-05-27 |
 | [Pink Paper](https://open.spotify.com/track/0fQlpBKc3AJPmoudVpmDje) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:13 | 2022-04-28 | 2022-05-13 |
 | [pink party](https://open.spotify.com/track/2WfkqHBaJKTDkdNPIQxwwX) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 2:43 | 2022-09-22 | 2022-09-30 |

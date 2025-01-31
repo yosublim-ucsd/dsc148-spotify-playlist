@@ -3459,6 +3459,32 @@
     },
     {
       "album": {
+        "name": "BLUE HORIZON FUNK",
+        "url": "https://open.spotify.com/album/5jXbkZ8fgtvq5OufR9LJz4"
+      },
+      "artists": [
+        {
+          "name": "NXGHT!",
+          "url": "https://open.spotify.com/artist/7lAaAGxYxk2GH8cMbTEwAL"
+        },
+        {
+          "name": "DJ ANXVAR",
+          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+        },
+        {
+          "name": "DJ ZAP",
+          "url": "https://open.spotify.com/artist/1HJglK87YzctjxETSJqh64"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85642,
+      "name": "BLUE HORIZON FUNK - SLOWED",
+      "url": "https://open.spotify.com/track/6ISgjQNYq70ahUOL9rOrcz"
+    },
+    {
+      "album": {
         "name": "Bock auf Bier",
         "url": "https://open.spotify.com/album/7wEDKEq6LHlueRBc5v2S5f"
       },
@@ -4658,10 +4684,6 @@
       },
       "artists": [
         {
-          "name": "Jes\u00fas Mus1c",
-          "url": "https://open.spotify.com/artist/3dJeNjOEz8d8bgWYiK8SPv"
-        },
-        {
           "name": "joyful",
           "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
         }
@@ -4672,6 +4694,28 @@
       "duration_ms": 120053,
       "name": "CHESS TYPE BEAT",
       "url": "https://open.spotify.com/track/1FgcRLca2X8uhLh0fshvRW"
+    },
+    {
+      "album": {
+        "name": "Chica Atractiva",
+        "url": "https://open.spotify.com/album/7JulJHSAGWbJBSWgq55yLe"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/3VwkY9YC7IQw7XzZ4L0GmX"
+        },
+        {
+          "name": "001",
+          "url": "https://open.spotify.com/artist/1o6Gsyf6HsKqXHlvTsMv0s"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "Chica Atractiva",
+      "url": "https://open.spotify.com/track/6vfA2BtPi43HsV1Ccn4up0"
     },
     {
       "album": {
@@ -11614,7 +11658,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 214506,
       "name": "Ich wollte immer einen Bruder",
       "url": "https://open.spotify.com/track/2x1dkjz30TxRRKb5wYbDZx"
@@ -14532,7 +14576,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
@@ -14554,7 +14598,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 267400,
       "name": "LoveHate Thing (feat. Sam Dew)",
       "url": "https://open.spotify.com/track/6kx16R0LMAyoXDvGqddZFy"
@@ -15964,7 +16008,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 223124,
       "name": "Miku",
       "url": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW"
@@ -19704,7 +19748,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-25",
+      "date_removed": null,
       "duration_ms": 195003,
       "name": "REHAB",
       "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
@@ -23232,7 +23276,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 284586,
       "name": "Tapout",
       "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
@@ -24702,7 +24746,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 184000,
       "name": "UMARMUNG",
       "url": "https://open.spotify.com/track/6U28DYPkEVz0xT9nXIJFKs"
@@ -25260,7 +25304,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"

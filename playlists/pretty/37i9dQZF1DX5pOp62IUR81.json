@@ -1,12 +1,12 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 180466,
+  "num_followers": 180453,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5QyPQAAAACLV2j4zOI/3okDThqR9SJJ",
+  "snapshot_id": "Z5vwQAAAAADmeeMKKEr9Ictw1hXUE5A8",
   "tracks": [
     {
       "added_at": "2025-01-25 00:37:17",
@@ -69,80 +69,36 @@
       "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Agatha's Theme (From \"Agatha All Along\")",
-        "url": "https://open.spotify.com/album/3AMZyBSKCheBzS2Gg1VrD1"
+        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
       },
       "artists": [
         {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        },
-        {
-          "name": "Michael Paraskevas",
-          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
         }
       ],
-      "duration_ms": 131416,
-      "name": "Agatha's Theme - From \"Agatha All Along\"",
-      "url": "https://open.spotify.com/track/6CFQUEanwUiBxW5rfsh590"
+      "duration_ms": 197213,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0OVtnS3l4vThGxkdqCxN6K"
     },
     {
-      "added_at": "2024-12-20 02:38:30",
+      "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Lessons (From \"What If...?: Season 3\")",
-        "url": "https://open.spotify.com/album/37j0gxFTtKLEk7pwp8xkI5"
+        "name": "The Avengers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf"
       },
       "artists": [
         {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
-        },
-        {
-          "name": "Nora Kroll-Rosenbaum",
-          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
         }
       ],
-      "duration_ms": 111733,
-      "name": "Lessons - From \"What If...?: Season 3\"",
-      "url": "https://open.spotify.com/track/72hIj75b5My0ic01QkusHS"
-    },
-    {
-      "added_at": "2024-10-15 20:59:45",
-      "album": {
-        "name": "Agatha All Along: Vol. 1 (Episodes 1-5) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0mGccmUOGqeiISKtiTcBWX"
-      },
-      "artists": [
-        {
-          "name": "Christophe Beck",
-          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
-        },
-        {
-          "name": "Michael Paraskevas",
-          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
-        }
-      ],
-      "duration_ms": 180791,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/5AlqGtj7IAJnyGmWFS0Z7D"
-    },
-    {
-      "added_at": "2024-07-25 18:31:54",
-      "album": {
-        "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D"
-      },
-      "artists": [
-        {
-          "name": "Rob Simonsen",
-          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
-        }
-      ],
-      "duration_ms": 109548,
-      "name": "LFG - Theme from \"Deadpool & Wolverine\"",
-      "url": "https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa"
+      "duration_ms": 123360,
+      "name": "The Avengers",
+      "url": "https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -165,36 +121,20 @@
       "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-07-25 18:31:54",
       "album": {
-        "name": "Songs from Agatha All Along (Episodes 1 & 2)",
-        "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
+        "name": "Deadpool & Wolverine (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D"
       },
       "artists": [
         {
-          "name": "Matthew Mayfield",
-          "url": "https://open.spotify.com/artist/0wqCmiRvTgsobz3AZoadXq"
+          "name": "Rob Simonsen",
+          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
         }
       ],
-      "duration_ms": 102675,
-      "name": "The Ballad of the Witches' Road (True Crime Version)",
-      "url": "https://open.spotify.com/track/13JG9286axiC4Vf19BXopw"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Loki: Season 2 - Vol. 1 (Episodes 1-3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/7AUyA40JztkugyHxkPGOL1"
-      },
-      "artists": [
-        {
-          "name": "Natalie Holt",
-          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
-        }
-      ],
-      "duration_ms": 126113,
-      "name": "Burden of Wisdom",
-      "url": "https://open.spotify.com/track/5GeEXc0FMRYEcUHGChK1Pf"
+      "duration_ms": 109548,
+      "name": "LFG - Theme from \"Deadpool & Wolverine\"",
+      "url": "https://open.spotify.com/track/5m14N7UR6nG69ccaQ0Qssa"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -221,66 +161,10 @@
       "url": "https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Songs from Agatha All Along (Episodes 1 & 2)",
-        "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
-      },
-      "artists": [
-        {
-          "name": "Kathryn Hahn",
-          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
-        },
-        {
-          "name": "Sasheer Zamata",
-          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
-        },
-        {
-          "name": "Ali Ahn",
-          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
-        },
-        {
-          "name": "Patti LuPone",
-          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
-        },
-        {
-          "name": "Debra Jo Rupp",
-          "url": "https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo"
-        },
-        {
-          "name": "Agatha All Along - Cast",
-          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
-        }
-      ],
-      "duration_ms": 197692,
-      "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
-      "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
-    },
-    {
-      "added_at": "2024-05-22 19:10:34",
-      "album": {
-        "name": "Black Panther: Wakanda Forever (Original Score)",
-        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "We Know What You Whisper",
-      "url": "https://open.spotify.com/track/55SCtqrks5WVsUHC2TxnLC"
-    },
-    {
-      "added_at": "2024-05-22 19:10:34",
-      "album": {
-        "name": "Loki: Season 2 - Vol. 2 (Episodes 4-6) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/1bn4dWCtQfJnsuuUTbJFvQ"
+        "name": "Loki: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0KRhT6YRtWbgIhMqyOGAfa"
       },
       "artists": [
         {
@@ -288,29 +172,61 @@
           "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
         }
       ],
-      "duration_ms": 188367,
-      "name": "Purpose Is Glorious",
-      "url": "https://open.spotify.com/track/14ttivyM8Dj0xichnst1Vd"
+      "duration_ms": 175317,
+      "name": "He Who Remains",
+      "url": "https://open.spotify.com/track/25lMRwMiGHhLtjFsJTGjz3"
     },
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
       },
       "artists": [
         {
-          "name": "John Paesano",
-          "url": "https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         },
         {
-          "name": "Ben Billions",
-          "url": "https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Greater Together (Album Version)",
-      "url": "https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g"
+      "duration_ms": 161146,
+      "name": "In The Dark (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Dark Phoenix (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12fXY8Frs87K8Rh3hkY72X"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 280850,
+      "name": "Coda",
+      "url": "https://open.spotify.com/track/5pPprJuMgN2JnCE3C8NuhM"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Thor: Ragnarok (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4gecrZPdDxMlVxBtpobpxr"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        }
+      ],
+      "duration_ms": 533293,
+      "name": "Ragnarok Suite",
+      "url": "https://open.spotify.com/track/646yYgVW5sZWJloaGEW728"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -345,268 +261,24 @@
       "url": "https://open.spotify.com/track/1ovt0wjtCfOzgNvAcCUfzu"
     },
     {
-      "added_at": "2024-01-05 18:09:37",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
-        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
+        "name": "Agatha's Theme (From \"Agatha All Along\")",
+        "url": "https://open.spotify.com/album/3AMZyBSKCheBzS2Gg1VrD1"
       },
       "artists": [
         {
-          "name": "John Murphy",
-          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
-        }
-      ],
-      "duration_ms": 203431,
-      "name": "Mo Ergaste Forn (Full Version)",
-      "url": "https://open.spotify.com/track/2s8a9lpM83HBmcBS6Skorn"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
-        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
-      },
-      "artists": [
-        {
-          "name": "John Murphy",
-          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
-        }
-      ],
-      "duration_ms": 135347,
-      "name": "I Love You Guys",
-      "url": "https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu"
-    },
-    {
-      "added_at": "2024-10-03 22:47:20",
-      "album": {
-        "name": "Songs from Agatha All Along (Episode 4)",
-        "url": "https://open.spotify.com/album/3ZYIL6aXJ9xsUIgzAS7pCQ"
-      },
-      "artists": [
-        {
-          "name": "Kathryn Hahn",
-          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+          "name": "Christophe Beck",
+          "url": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
         },
         {
-          "name": "Sasheer Zamata",
-          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
-        },
-        {
-          "name": "Ali Ahn",
-          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
-        },
-        {
-          "name": "Patti LuPone",
-          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
-        },
-        {
-          "name": "Aubrey Plaza",
-          "url": "https://open.spotify.com/artist/4uGJwxYq27jcwJv2PDSsDs"
-        },
-        {
-          "name": "Joe Locke",
-          "url": "https://open.spotify.com/artist/0Uo1sFaojkO1mxsg1CxbhQ"
-        },
-        {
-          "name": "Agatha All Along - Cast",
-          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
+          "name": "Michael Paraskevas",
+          "url": "https://open.spotify.com/artist/4fIXHW5d4kdlUQq5NWqi84"
         }
       ],
-      "duration_ms": 279522,
-      "name": "The Ballad of the Witches' Road (Cover Version)",
-      "url": "https://open.spotify.com/track/56tF6msHIT45utWxxVgAT8"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
-        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
-      },
-      "artists": [
-        {
-          "name": "John Murphy",
-          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
-        }
-      ],
-      "duration_ms": 86006,
-      "name": "Orgoscope Elevator",
-      "url": "https://open.spotify.com/track/6LjtowCGeGuWfYyQktTGrW"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
-        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
-      },
-      "artists": [
-        {
-          "name": "John Murphy",
-          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
-        }
-      ],
-      "duration_ms": 227428,
-      "name": "Warlock vs. Guardians",
-      "url": "https://open.spotify.com/track/2uWqBOqipiINkyuhbMD6IW"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
-        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
-      },
-      "artists": [
-        {
-          "name": "John Murphy",
-          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
-        }
-      ],
-      "duration_ms": 228109,
-      "name": "Domo! Domo!",
-      "url": "https://open.spotify.com/track/1voF8ZnnbMqRxndiVPs9P6"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
-        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
-      },
-      "artists": [
-        {
-          "name": "John Murphy",
-          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
-        }
-      ],
-      "duration_ms": 164062,
-      "name": "Did That Look Cool?",
-      "url": "https://open.spotify.com/track/2cUIII8NsSGtBBxaadhoj5"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Agatha All Along (Dave Aud\u00e9 Remix) [From \"Agatha All Along\"]",
-        "url": "https://open.spotify.com/album/6gwEKT8OGv6zOv9Kl5X3ZF"
-      },
-      "artists": [
-        {
-          "name": "Kristen Anderson-Lopez",
-          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
-        },
-        {
-          "name": "Robert Lopez",
-          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
-        },
-        {
-          "name": "Dave Aud\u00e9",
-          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
-        }
-      ],
-      "duration_ms": 121411,
-      "name": "Agatha All Along (Dave Aud\u00e9 Remix) - From \"Agatha All Along\"",
-      "url": "https://open.spotify.com/track/2Wq6zNBpswt49Lf7jaGBaj"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "They Want It, But No",
-      "url": "https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 157813,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Coming Back For You",
-      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN"
+      "duration_ms": 131416,
+      "name": "Agatha's Theme - From \"Agatha All Along\"",
+      "url": "https://open.spotify.com/track/6CFQUEanwUiBxW5rfsh590"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -661,22 +333,6 @@
       "url": "https://open.spotify.com/track/5YEpYN4oyDaWODhd5t4av3"
     },
     {
-      "added_at": "2024-08-16 20:25:24",
-      "album": {
-        "name": "Marvel's Spider-Man 2: Lofi",
-        "url": "https://open.spotify.com/album/57zKQ5DLqVI7PiEaqUsKFU"
-      },
-      "artists": [
-        {
-          "name": "Pendrick",
-          "url": "https://open.spotify.com/artist/12WlLXqXCFZ2VTy96t7UtF"
-        }
-      ],
-      "duration_ms": 171527,
-      "name": "Swing (Lofi Version)",
-      "url": "https://open.spotify.com/track/4hCwxMk9WLaXmH4se0KWCL"
-    },
-    {
       "added_at": "2024-01-05 18:09:37",
       "album": {
         "name": "Black Panther: Wakanda Forever (Original Score)",
@@ -713,56 +369,40 @@
       "url": "https://open.spotify.com/track/5AnZGhVpAit04ocwEbzy04"
     },
     {
-      "added_at": "2024-01-05 18:09:37",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Thor: The Dark World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2dTEXpN7fg9cJPKCCyDJ1y"
+        "name": "Songs from Agatha All Along (Episodes 1 & 2)",
+        "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
       },
       "artists": [
         {
-          "name": "Brian Tyler",
-          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
-        }
-      ],
-      "duration_ms": 30733,
-      "name": "Marvel Studios Fanfare - From \"Thor: The Dark World\"/Score",
-      "url": "https://open.spotify.com/track/0vPZjeaM0cfbxZJntcD4iy"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Nick Fury (Main Title Theme) [From \"Secret Invasion\"]",
-        "url": "https://open.spotify.com/album/5RUHeweIAuU8wytVHP7mIm"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 123553,
-      "name": "Nick Fury (Main Title Theme) - From \"Secret Invasion\"",
-      "url": "https://open.spotify.com/track/4eJekm7bfnUMUPSF54rdYJ"
-    },
-    {
-      "added_at": "2024-08-16 20:23:55",
-      "album": {
-        "name": "What If...? - An Immersive Story (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/54SlomuJZjSdzwHL9mXjM8"
-      },
-      "artists": [
-        {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
         },
         {
-          "name": "Nora Kroll-Rosenbaum",
-          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+          "name": "Sasheer Zamata",
+          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
+        },
+        {
+          "name": "Ali Ahn",
+          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
+        },
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Debra Jo Rupp",
+          "url": "https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo"
+        },
+        {
+          "name": "Agatha All Along - Cast",
+          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
         }
       ],
-      "duration_ms": 83418,
-      "name": "The Hero of the Multiverse",
-      "url": "https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG"
+      "duration_ms": 197692,
+      "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
+      "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -899,6 +539,30 @@
       "duration_ms": 189149,
       "name": "Soy",
       "url": "https://open.spotify.com/track/47o7j4LL3wM9mCOiAAKD65"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Black Panther: Wakanda Remixed",
+        "url": "https://open.spotify.com/album/2VoZ1APXjzAvYM5roMmcyX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "Wakanda - DJ Dahi Remix",
+      "url": "https://open.spotify.com/track/1u6PWhxFTHs0OuTfh5Mh79"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -1309,6 +973,26 @@
       "url": "https://open.spotify.com/track/2kfqZVhZYa1ny2ncjt4j5f"
     },
     {
+      "added_at": "2024-08-16 20:23:55",
+      "album": {
+        "name": "What If...? - An Immersive Story (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/54SlomuJZjSdzwHL9mXjM8"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 83418,
+      "name": "The Hero of the Multiverse",
+      "url": "https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG"
+    },
+    {
       "added_at": "2024-01-05 18:09:37",
       "album": {
         "name": "Hawkeye: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
@@ -1459,22 +1143,6 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/0OVtnS3l4vThGxkdqCxN6K"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
         "name": "Hawkeye: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/6kEKPX5fzADIWcFc33qawM"
       },
@@ -1527,6 +1195,126 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
+        "name": "Nick Fury (Main Title Theme) [From \"Secret Invasion\"]",
+        "url": "https://open.spotify.com/album/5RUHeweIAuU8wytVHP7mIm"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 123553,
+      "name": "Nick Fury (Main Title Theme) - From \"Secret Invasion\"",
+      "url": "https://open.spotify.com/track/4eJekm7bfnUMUPSF54rdYJ"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "They Want It, But No",
+      "url": "https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "duration_ms": 157813,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Coming Back For You",
+      "url": "https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196520,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/18zQTt3ifDv6iLni2YuXMg"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
         "name": "Hawkeye: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/0QDCiN3qw5LhE2Mj7Oq2MC"
       },
@@ -1563,22 +1351,6 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Hit-Monkey (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/24b6PR1lDSPnH9Z85spTfT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rojas",
-          "url": "https://open.spotify.com/artist/1Z655SWPPTWDNgktUY19JR"
-        }
-      ],
-      "duration_ms": 84666,
-      "name": "Humans Arrive",
-      "url": "https://open.spotify.com/track/2B9KpbnMLY75pMyFr36a6T"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
         "name": "TVA (From \"Loki\")",
         "url": "https://open.spotify.com/album/685u0IYysvl0qWJumxvCnj"
       },
@@ -1607,22 +1379,6 @@
       "duration_ms": 224502,
       "name": "From the Shadows",
       "url": "https://open.spotify.com/track/0u3ui0PR8PAUJcCB9FIRBM"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As"
-      },
-      "artists": [
-        {
-          "name": "Malia J",
-          "url": "https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -1691,26 +1447,6 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
-        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "In The Dark (with Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
         "name": "Hit-Monkey (Original Soundtrack)",
         "url": "https://open.spotify.com/album/24b6PR1lDSPnH9Z85spTfT"
       },
@@ -1723,6 +1459,22 @@
       "duration_ms": 87120,
       "name": "Campaign Speech",
       "url": "https://open.spotify.com/track/6REscq6P9deKQCzatABUMB"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Loki: Season 2 - Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7AUyA40JztkugyHxkPGOL1"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "duration_ms": 126113,
+      "name": "Burden of Wisdom",
+      "url": "https://open.spotify.com/track/5GeEXc0FMRYEcUHGChK1Pf"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -1893,6 +1645,26 @@
       "url": "https://open.spotify.com/track/0yPfAQRkDGbZzD7KKeyUoL"
     },
     {
+      "added_at": "2024-05-22 19:10:34",
+      "album": {
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "We Know What You Whisper",
+      "url": "https://open.spotify.com/track/55SCtqrks5WVsUHC2TxnLC"
+    },
+    {
       "added_at": "2024-01-05 18:09:37",
       "album": {
         "name": "WandaVision: Episode 2 (Original Soundtrack)",
@@ -1947,22 +1719,6 @@
       "duration_ms": 53626,
       "name": "WandaVision!",
       "url": "https://open.spotify.com/track/2lD3POsCEgFZGH5F2cT46Y"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Loki: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0KRhT6YRtWbgIhMqyOGAfa"
-      },
-      "artists": [
-        {
-          "name": "Natalie Holt",
-          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "He Who Remains",
-      "url": "https://open.spotify.com/track/25lMRwMiGHhLtjFsJTGjz3"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -2123,6 +1879,62 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
+        "name": "WandaVision: Episode 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7cT5OHwrPtilc4Mf7hBU6N"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        },
+        {
+          "name": "Sara Mann",
+          "url": "https://open.spotify.com/artist/3C9XpXXMzu9C4ZrtfVu7nx"
+        },
+        {
+          "name": "Jessica Rotter",
+          "url": "https://open.spotify.com/artist/6jQAFXkB1ciNf4PLUfIvdF"
+        },
+        {
+          "name": "Cindy Bourquin",
+          "url": "https://open.spotify.com/artist/5z25CHFEWooGOieYYw4j3T"
+        },
+        {
+          "name": "Elyse Willis",
+          "url": "https://open.spotify.com/artist/7iS9ltSyOIaj4fHeP954mq"
+        },
+        {
+          "name": "Laura Dickinson",
+          "url": "https://open.spotify.com/artist/24atAUm9yln5x8Os9PEIwv"
+        },
+        {
+          "name": "Eric Bradley",
+          "url": "https://open.spotify.com/artist/1Yv2bYY94u2nm7OHwrEIcQ"
+        },
+        {
+          "name": "Greg Whipple",
+          "url": "https://open.spotify.com/artist/1wNMHuKUcnVHROrQKTD0nP"
+        },
+        {
+          "name": "Jasper Randall",
+          "url": "https://open.spotify.com/artist/4SRa1GAIUaHyIewJTmBs03"
+        },
+        {
+          "name": "Gerald White",
+          "url": "https://open.spotify.com/artist/4H1hvfjLlg0hcxj8lwDOt9"
+        }
+      ],
+      "duration_ms": 54240,
+      "name": "A Newlywed Couple",
+      "url": "https://open.spotify.com/track/2J7tTtwQ3cmqD9xYqVqtUh"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
         "name": "The Falcon and the Winter Soldier: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/73smgzwYZ4L70UFP21Hpu0"
       },
@@ -2203,62 +2015,6 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "WandaVision: Episode 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7cT5OHwrPtilc4Mf7hBU6N"
-      },
-      "artists": [
-        {
-          "name": "Kristen Anderson-Lopez",
-          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
-        },
-        {
-          "name": "Robert Lopez",
-          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
-        },
-        {
-          "name": "Sara Mann",
-          "url": "https://open.spotify.com/artist/3C9XpXXMzu9C4ZrtfVu7nx"
-        },
-        {
-          "name": "Jessica Rotter",
-          "url": "https://open.spotify.com/artist/6jQAFXkB1ciNf4PLUfIvdF"
-        },
-        {
-          "name": "Cindy Bourquin",
-          "url": "https://open.spotify.com/artist/5z25CHFEWooGOieYYw4j3T"
-        },
-        {
-          "name": "Elyse Willis",
-          "url": "https://open.spotify.com/artist/7iS9ltSyOIaj4fHeP954mq"
-        },
-        {
-          "name": "Laura Dickinson",
-          "url": "https://open.spotify.com/artist/24atAUm9yln5x8Os9PEIwv"
-        },
-        {
-          "name": "Eric Bradley",
-          "url": "https://open.spotify.com/artist/1Yv2bYY94u2nm7OHwrEIcQ"
-        },
-        {
-          "name": "Greg Whipple",
-          "url": "https://open.spotify.com/artist/1wNMHuKUcnVHROrQKTD0nP"
-        },
-        {
-          "name": "Jasper Randall",
-          "url": "https://open.spotify.com/artist/4SRa1GAIUaHyIewJTmBs03"
-        },
-        {
-          "name": "Gerald White",
-          "url": "https://open.spotify.com/artist/4H1hvfjLlg0hcxj8lwDOt9"
-        }
-      ],
-      "duration_ms": 54240,
-      "name": "A Newlywed Couple",
-      "url": "https://open.spotify.com/track/2J7tTtwQ3cmqD9xYqVqtUh"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
         "name": "WandaVision: Episode 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5n0jcupsCMSOjt8K7vq555"
       },
@@ -2271,22 +2027,6 @@
       "duration_ms": 152257,
       "name": "Wanda and Vision (Love Theme from \"WandaVision\")",
       "url": "https://open.spotify.com/track/6qcCesGQ8WNpAopsfFsoOV"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "The Avengers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "duration_ms": 123360,
-      "name": "The Avengers",
-      "url": "https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -2447,22 +2187,6 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Guardians of the Galaxy (Original Score)",
-        "url": "https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bates",
-          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "What a Bunch of A-Holes",
-      "url": "https://open.spotify.com/track/71qgs7LIOigY05Iyiq7GHC"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
         "name": "The Falcon and the Winter Soldier: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/5rA2ipMGRAUO9MRODPHoHG"
       },
@@ -2479,22 +2203,6 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Thor: Ragnarok (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4gecrZPdDxMlVxBtpobpxr"
-      },
-      "artists": [
-        {
-          "name": "Mark Mothersbaugh",
-          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
-        }
-      ],
-      "duration_ms": 533293,
-      "name": "Ragnarok Suite",
-      "url": "https://open.spotify.com/track/646yYgVW5sZWJloaGEW728"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
         "name": "WandaVision: Episode 9 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/30qYpobFEwki8Vy202a8Oi"
       },
@@ -2507,6 +2215,46 @@
       "duration_ms": 187733,
       "name": "I Am Vision",
       "url": "https://open.spotify.com/track/1ZcxP37FbhEiAdodj3CyaF"
+    },
+    {
+      "added_at": "2024-10-03 22:47:20",
+      "album": {
+        "name": "Songs from Agatha All Along (Episode 4)",
+        "url": "https://open.spotify.com/album/3ZYIL6aXJ9xsUIgzAS7pCQ"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+        },
+        {
+          "name": "Sasheer Zamata",
+          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
+        },
+        {
+          "name": "Ali Ahn",
+          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
+        },
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Aubrey Plaza",
+          "url": "https://open.spotify.com/artist/4uGJwxYq27jcwJv2PDSsDs"
+        },
+        {
+          "name": "Joe Locke",
+          "url": "https://open.spotify.com/artist/0Uo1sFaojkO1mxsg1CxbhQ"
+        },
+        {
+          "name": "Agatha All Along - Cast",
+          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
+        }
+      ],
+      "duration_ms": 279522,
+      "name": "The Ballad of the Witches' Road (Cover Version)",
+      "url": "https://open.spotify.com/track/56tF6msHIT45utWxxVgAT8"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -2609,22 +2357,6 @@
       "url": "https://open.spotify.com/track/48dRUlzc8Pz0XJQmpGPbMP"
     },
     {
-      "added_at": "2024-11-04 23:12:54",
-      "album": {
-        "name": "Mighty Thor (1966 Theme) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/1mr9Bzszua1SdABhSH5dTV"
-      },
-      "artists": [
-        {
-          "name": "Marvel Chorus",
-          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
-        }
-      ],
-      "duration_ms": 87682,
-      "name": "Mighty Thor (1966 Theme) - 2024 Remaster",
-      "url": "https://open.spotify.com/track/2g0Odq2yA3M6G8o141RK6E"
-    },
-    {
       "added_at": "2024-01-05 18:09:37",
       "album": {
         "name": "Dark Phoenix (Original Motion Picture Soundtrack)",
@@ -2639,22 +2371,6 @@
       "duration_ms": 238696,
       "name": "Negative",
       "url": "https://open.spotify.com/track/4fFVnXExZnzxf7RMdcfYbA"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Dark Phoenix (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/12fXY8Frs87K8Rh3hkY72X"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 280850,
-      "name": "Coda",
-      "url": "https://open.spotify.com/track/5pPprJuMgN2JnCE3C8NuhM"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -2783,22 +2499,6 @@
       "duration_ms": 127453,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/2ZPYWMdJ8ro0KXsPYBE8YE"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Sub-Mariner (1966 Theme) [2024 Remaster]",
-        "url": "https://open.spotify.com/album/0zdD8IZCwSXbDrrNgDduHQ"
-      },
-      "artists": [
-        {
-          "name": "Marvel Chorus",
-          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
-        }
-      ],
-      "duration_ms": 49415,
-      "name": "Sub-Mariner (1966 Theme) - 2024 Remaster",
-      "url": "https://open.spotify.com/track/4hDQvEL3hJlRhvDHsdcay9"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -3021,22 +2721,6 @@
       "url": "https://open.spotify.com/track/35RaFNWvYLgutIP2sO8axR"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Hulk (1966 Theme) [2024 Stereo Remaster]",
-        "url": "https://open.spotify.com/album/4vlGzIoXAkgilvbuwJrA52"
-      },
-      "artists": [
-        {
-          "name": "Marvel Chorus",
-          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
-        }
-      ],
-      "duration_ms": 56077,
-      "name": "Hulk (1966 Theme) - 2024 Stereo Remaster",
-      "url": "https://open.spotify.com/track/3bGBCtKoChq2ecvaNqB16u"
-    },
-    {
       "added_at": "2024-01-05 18:09:37",
       "album": {
         "name": "Thor: The Dark World (Original Motion Picture Soundtrack)",
@@ -3177,38 +2861,6 @@
       "url": "https://open.spotify.com/track/76MPOMsHa41j0AHZd7oFva"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Captain America (1966 Theme) [2024 Stereo Remaster]",
-        "url": "https://open.spotify.com/album/6pivPJM6FWa6nb0UwznLHv"
-      },
-      "artists": [
-        {
-          "name": "Marvel Chorus",
-          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
-        }
-      ],
-      "duration_ms": 56858,
-      "name": "Captain America - 2024 Stereo Remaster",
-      "url": "https://open.spotify.com/track/3nUb9i0OJ0Lh9JqbRBvFg2"
-    },
-    {
-      "added_at": "2024-09-05 19:52:17",
-      "album": {
-        "name": "Iron Man (1966 Theme) [2024 Stereo Remaster]",
-        "url": "https://open.spotify.com/album/4GbxSvZN0SkeulVJY3XBf9"
-      },
-      "artists": [
-        {
-          "name": "Marvel Chorus",
-          "url": "https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln"
-        }
-      ],
-      "duration_ms": 56637,
-      "name": "Iron Man (1966 Theme) - 2024 Stereo Remaster",
-      "url": "https://open.spotify.com/track/6aptHccREaN8qfxJBQFrCx"
-    },
-    {
       "added_at": "2024-01-05 18:09:37",
       "album": {
         "name": "Ant-Man (Original Motion Picture Soundtrack)",
@@ -3223,6 +2875,22 @@
       "duration_ms": 166106,
       "name": "Theme from Ant-Man",
       "url": "https://open.spotify.com/track/6yNPVGljyzMYTxEhL6fLBg"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Guardians of the Galaxy Vol. 3 (Original Score)",
+        "url": "https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q"
+      },
+      "artists": [
+        {
+          "name": "John Murphy",
+          "url": "https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni"
+        }
+      ],
+      "duration_ms": 135347,
+      "name": "I Love You Guys",
+      "url": "https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -3243,6 +2911,26 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
+        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
+      },
+      "artists": [
+        {
+          "name": "John Paesano",
+          "url": "https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz"
+        },
+        {
+          "name": "Ben Billions",
+          "url": "https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Greater Together (Album Version)",
+      "url": "https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
         "name": "The Punisher (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4z7w3IoSFgysP7iNpDgUqu"
       },
@@ -3257,28 +2945,20 @@
       "url": "https://open.spotify.com/track/0rSJtqCSAkhKORRpJlk7pL"
     },
     {
-      "added_at": "2024-01-05 18:09:37",
+      "added_at": "2024-05-22 19:10:34",
       "album": {
-        "name": "Black Panther: Wakanda Remixed",
-        "url": "https://open.spotify.com/album/2VoZ1APXjzAvYM5roMmcyX"
+        "name": "Loki: Season 2 - Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1bn4dWCtQfJnsuuUTbJFvQ"
       },
       "artists": [
         {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        },
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
         }
       ],
-      "duration_ms": 168480,
-      "name": "Wakanda - DJ Dahi Remix",
-      "url": "https://open.spotify.com/track/1u6PWhxFTHs0OuTfh5Mh79"
+      "duration_ms": 188367,
+      "name": "Purpose Is Glorious",
+      "url": "https://open.spotify.com/track/14ttivyM8Dj0xichnst1Vd"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -3459,106 +3139,6 @@
       "duration_ms": 354826,
       "name": "The Real Hero",
       "url": "https://open.spotify.com/track/3KHrXuByzDnDOaVR15rZH7"
-    },
-    {
-      "added_at": "2024-05-22 19:10:34",
-      "album": {
-        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
-      },
-      "artists": [
-        {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
-        },
-        {
-          "name": "Nora Kroll-Rosenbaum",
-          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
-        }
-      ],
-      "duration_ms": 45266,
-      "name": "Snow Days",
-      "url": "https://open.spotify.com/track/4UDoIGh022D5aCQ13O2zY0"
-    },
-    {
-      "added_at": "2024-05-22 19:10:34",
-      "album": {
-        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
-      },
-      "artists": [
-        {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
-        },
-        {
-          "name": "Nora Kroll-Rosenbaum",
-          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
-        }
-      ],
-      "duration_ms": 80506,
-      "name": "Sugar Cookies",
-      "url": "https://open.spotify.com/track/0ig0QTeIhfSw6eWvoXb2cX"
-    },
-    {
-      "added_at": "2024-05-22 19:10:34",
-      "album": {
-        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
-      },
-      "artists": [
-        {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
-        },
-        {
-          "name": "Nora Kroll-Rosenbaum",
-          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
-        }
-      ],
-      "duration_ms": 71986,
-      "name": "Fa La La",
-      "url": "https://open.spotify.com/track/6IXiFdmK9vZ7mmffeNpjsy"
-    },
-    {
-      "added_at": "2024-05-22 19:10:34",
-      "album": {
-        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
-      },
-      "artists": [
-        {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
-        },
-        {
-          "name": "Nora Kroll-Rosenbaum",
-          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
-        }
-      ],
-      "duration_ms": 46586,
-      "name": "All Is Bright",
-      "url": "https://open.spotify.com/track/2BDcOBMcquNpofkW6nDqUH"
-    },
-    {
-      "added_at": "2024-05-22 19:10:34",
-      "album": {
-        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
-      },
-      "artists": [
-        {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
-        },
-        {
-          "name": "Nora Kroll-Rosenbaum",
-          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
-        }
-      ],
-      "duration_ms": 49266,
-      "name": "Merrily On",
-      "url": "https://open.spotify.com/track/7KFvL8WkzjO9f7OceZy2BZ"
     }
   ],
   "unique_name": "Marvel Music",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Yan",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Grupo Benzadeus",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "After do Benza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3VAQTlftSOa79dQpsIdjhG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293461,
+      "name": "At\u00e9 Que Durou / 1 Metro e 65 - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cS6BbRwFGgkhAeO8lHUva"
+    },
+    {
+      "album": {
         "name": "Ferrugem em Casa 2 (Bloco 1) [Ao Vivo]",
         "url": "https://open.spotify.com/album/46xmD0eirM5ttp8NBf6JSP"
       },
@@ -480,6 +498,28 @@
       "duration_ms": 281319,
       "name": "Beijo Doce / Jeitinho Manhoso / Ajoelhou Tem Que Rezar - Ao Vivo",
       "url": "https://open.spotify.com/track/42kX3d8Sa59mF37iaqmpKC"
+    },
+    {
+      "album": {
+        "name": "Luau do Trevo 13 Vol 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FBlfA86BpjAaY3KKFgnp3"
+      },
+      "artists": [
+        {
+          "name": "Trevo 13",
+          "url": "https://open.spotify.com/artist/2mxFQjnihNv46IjZzB2Nxc"
+        },
+        {
+          "name": "S\u00f3 Kurti\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/5YYoElnHKwOBc4nIZY30IZ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271278,
+      "name": "Boa Sorte/ A Carta / Telegrama",
+      "url": "https://open.spotify.com/track/2OkQnALHGU2Rfipr1YaAMN"
     },
     {
       "album": {
@@ -1320,7 +1360,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 299002,
       "name": "Fim da Tristeza / Trilha do Amor / Brilho no Olhar",
       "url": "https://open.spotify.com/track/5KQBaHxYnu3IhVij3x5cul"
@@ -1763,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "Mais Forte Que Eu / C\u00e2mera Lenta",
+        "url": "https://open.spotify.com/album/2Mx6f2NUnloFl8de3y1r5t"
+      },
+      "artists": [
+        {
+          "name": "Na Hora H",
+          "url": "https://open.spotify.com/artist/3nwLhoJrBjPgQwuAL7J3NJ"
+        },
+        {
+          "name": "Pagodeando",
+          "url": "https://open.spotify.com/artist/0yHAHsahIiXk6QMQax5SQ2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221411,
+      "name": "Mais Forte Que Eu / C\u00e2mera Lenta",
+      "url": "https://open.spotify.com/track/3NNUym2r3hlsq6GpmWy3xm"
+    },
+    {
+      "album": {
         "name": "S\u00f3 VVamo - EP 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w9CrDrne18DtlNmEBtYYq"
       },
@@ -1908,7 +1970,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 299726,
       "name": "Me Redimir / Preciso Desabafar / Felina - Ao Vivo",
       "url": "https://open.spotify.com/track/5ZwsfeygdXJEJDxPMyUwSe"
@@ -2021,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Rodriguinho Ac\u00fastico, Ep 1",
+        "url": "https://open.spotify.com/album/2JsTY5Ab3vp4UoI7OLC4Ga"
+      },
+      "artists": [
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228700,
+      "name": "Meu Querubim / Tu Mandas No Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0kbVhn5b7EDxuzmRXnlfoJ"
+    },
+    {
+      "album": {
         "name": "Quintal do Sub\u00farbio (Ao Vivo)",
         "url": "https://open.spotify.com/album/230KbUpSTnVu0a8hMhBElG"
       },
@@ -2076,7 +2156,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 197145,
       "name": "Morango Do Nordeste / Me Leva Junto Com Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/7I14J59DcyEysnTLmvaUzM"
@@ -2156,7 +2236,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 266430,
       "name": "Nunca Mais Sofrer / Outra Viagem - Ao Vivo",
       "url": "https://open.spotify.com/track/2OCCxqPWhooXcxBWluViaq"

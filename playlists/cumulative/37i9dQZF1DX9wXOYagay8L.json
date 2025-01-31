@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H?si=rEZ6DPNjSa2tQ9le6Kko2g\"> Nontokozo Mkhize</a> ",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN?si=9Calzv5rQVSm0VYRC-MDBg\"> Naledi Aphiwe</a>,  <a href=\"https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE?si=neHG4qqeS2KYE-JqoL8VwA\"> Mawelele</a> ",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -6397,6 +6397,36 @@
     },
     {
       "album": {
+        "name": "LOVE (feat. Sbu Keys & Reed)",
+        "url": "https://open.spotify.com/album/1mNQgidSWudzvdB3mOsLkT"
+      },
+      "artists": [
+        {
+          "name": "Vic_typhoon",
+          "url": "https://open.spotify.com/artist/5xvUUSVggxeBeWGBEmCRh6"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        },
+        {
+          "name": "Sbu Keys",
+          "url": "https://open.spotify.com/artist/1YlfkPHEElYptLRQzLEKg4"
+        },
+        {
+          "name": "Reed",
+          "url": "https://open.spotify.com/artist/4tCGRoI7zhPtJvKoyZEJES"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249618,
+      "name": "LOVE (feat. Sbu Keys & Reed)",
+      "url": "https://open.spotify.com/track/1F5pXqNIpPvhW3FcONfkfu"
+    },
+    {
+      "album": {
         "name": "Love Is For Mahala",
         "url": "https://open.spotify.com/album/4DYJI8KG4BUmaQGexySaCK"
       },
@@ -12490,7 +12520,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 189257,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/2Kk61edkcZ8Zu73qmcWxZl"

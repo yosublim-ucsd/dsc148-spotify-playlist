@@ -4,7 +4,7 @@
 
 > Tag your location, we shall pass by as we go around Africa
 
-89 songs - 5 hr 50 min
+90 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Congo](https://open.spotify.com/track/4S1FXtwJkdsw4JxNOmFaod) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6JF0zNJ7n8aCE8K9Zmgmw7) | 3:44 | 2024-03-15 |  |
 | [Congo](https://open.spotify.com/track/50ZTcX3axxFDTd0UIOhPDy) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/1LxfAAwpMpXYzCOlDQAUEZ) | 3:44 | 2023-12-15 | 2024-04-19 |
 | [Congo](https://open.spotify.com/track/5hdc76uABRjaZ7rZrE8mTb) | [Amanda Malela](https://open.spotify.com/artist/0NKEjGu9ZmmTSXhua4DPL2) | [Luv Is God](https://open.spotify.com/album/6HxKO1H90t9QPy8pmgs45c) | 3:44 | 2023-09-08 | 2024-01-12 |
+| [Dar es Salaam](https://open.spotify.com/track/2Czqphq8jmnDxiI19BbRON) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 2:57 | 2025-01-30 |  |
 | [Dar Mpaka Moro](https://open.spotify.com/track/3WMhJoxSQ2gDx7cbHUOKX1) | [34GVNG](https://open.spotify.com/artist/3PcH8OctDvsGvWpbmTyWkE) | [Dar Mpaka Moro](https://open.spotify.com/album/6UhqSSojeI7zRX5o5khtwv) | 3:16 | 2023-09-08 | 2023-12-16 |
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 | 2024-07-27 |
 | [Durban](https://open.spotify.com/track/65DMtntgb3Ptc4Ag828z8J) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Home](https://open.spotify.com/album/7HSs5XfwIMll6DsjdyO1WR) | 4:07 | 2023-09-08 | 2024-05-17 |
@@ -33,7 +34,7 @@
 | [Iweriwe Love](https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Tears Of A Mad Man](https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F) | 2:36 | 2024-10-18 |  |
 | [Jericho](https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol\. 1](https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7) | 3:15 | 2023-09-08 |  |
 | [Jericho](https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol.1](https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe) | 3:15 | 2023-10-09 | 2024-04-19 |
-| [Jinja](https://open.spotify.com/track/2Vmghmiz5piVjU2AbhYqB1) | [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Rulz](https://open.spotify.com/artist/3dxuyx3F7NkYMg2BfVhG9I), [Ridym](https://open.spotify.com/artist/4Ewa9Ix2mlKs0lkDO2ol9j) | [RWA](https://open.spotify.com/album/4GBAc63hCEwHjRBFApfU0P) | 2:58 | 2023-09-08 |  |
+| [Jinja](https://open.spotify.com/track/2Vmghmiz5piVjU2AbhYqB1) | [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Rulz](https://open.spotify.com/artist/3dxuyx3F7NkYMg2BfVhG9I), [Ridym](https://open.spotify.com/artist/4Ewa9Ix2mlKs0lkDO2ol9j) | [RWA](https://open.spotify.com/album/4GBAc63hCEwHjRBFApfU0P) | 2:58 | 2023-09-08 | 2025-01-31 |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-09-08 |  |
 | [Kampala](https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Kampala](https://open.spotify.com/album/3sOQTISPW0P2fJIMq3AFPH) | 2:38 | 2023-09-08 | 2024-12-06 |
 | [Kampala](https://open.spotify.com/track/4Gmr4iYGDdovOucPLEO3o2) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/4WxLFmBpRfwn2Xa38W6Juj) | 4:40 | 2023-09-08 | 2024-05-17 |

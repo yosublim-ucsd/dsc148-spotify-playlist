@@ -3892,7 +3892,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 191225,
       "name": "DOPE",
       "url": "https://open.spotify.com/track/4tDY4dIOFJRt0Tf71fjjia"
@@ -12138,7 +12138,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 248652,
       "name": "over the top",
       "url": "https://open.spotify.com/track/2Bf3VEyRN5XycKTBRQ4GAQ"
@@ -16713,6 +16713,24 @@
     },
     {
       "album": {
+        "name": "Three Kings",
+        "url": "https://open.spotify.com/album/4YaPRWr1TAgkfFG3YZx0tg"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Three Kings",
+      "url": "https://open.spotify.com/track/28oyqFsxKYzSNvZ3R0dV9R"
+    },
+    {
+      "album": {
         "name": "ties",
         "url": "https://open.spotify.com/album/1q6HspP5fyftaSF8rE0oKY"
       },
@@ -19614,6 +19632,24 @@
       "duration_ms": 222000,
       "name": "\u3048\u3073\u305e\u308a\u30bf\u30fc\u30f3\uff01",
       "url": "https://open.spotify.com/track/6cnq2uvpdtpQXADa2ua1t7"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/2GXXX6qqWMmqhG4FU91NPX"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
     },
     {
       "album": {

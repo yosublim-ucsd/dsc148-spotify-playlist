@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "do what u want",
+        "url": "https://open.spotify.com/album/54onHIsiTpzMjWV0CEqVum"
+      },
+      "artists": [
+        {
+          "name": "ShyGodwin",
+          "url": "https://open.spotify.com/artist/0aKvk5J5YkGdMPJ0jWZbUE"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142258,
+      "name": "do what u want",
+      "url": "https://open.spotify.com/track/2UEYApdp3CswiCo5sR2ztU"
+    },
+    {
+      "album": {
         "name": "don't spiral",
         "url": "https://open.spotify.com/album/2LnTzxLHybsMnWd9W268Ro"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: 1da Banton",
+  "description": "Tracks popping off in the Afro scene. Cover: Naza x Youka",
   "name": "Afro Station",
   "tracks": [
     {
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 227020,
       "name": "Ca Va Aller",
       "url": "https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 193567,
       "name": "Constantly",
       "url": "https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr"
@@ -4409,6 +4409,24 @@
     },
     {
       "album": {
+        "name": "I am the Blueprint",
+        "url": "https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159432,
+      "name": "Feeling Alright",
+      "url": "https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00"
+    },
+    {
+      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp"
       },
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 161854,
       "name": "Ferrero",
       "url": "https://open.spotify.com/track/7fJ7mEdFiOQ0JkZ1LoDNVG"
@@ -7427,6 +7445,24 @@
     },
     {
       "album": {
+        "name": "Faabelan Chapitre II",
+        "url": "https://open.spotify.com/album/1lrMj3xWev3n7WPjzSbZrU"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Davibe",
+          "url": "https://open.spotify.com/artist/65eqwInBsC6iUAMc5Ejmpb"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175322,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/6NaeCPiT5RAO0N083QFTjs"
+    },
+    {
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp"
       },
@@ -8714,7 +8750,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 174117,
       "name": "Nice Like This",
       "url": "https://open.spotify.com/track/2fhtCBYjSpIUHFgvI3hpEJ"
@@ -10970,7 +11006,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 128034,
       "name": "Simba",
       "url": "https://open.spotify.com/track/61U7ZDXC4f5iKatYBwSegE"
@@ -11028,6 +11064,28 @@
       "duration_ms": 178000,
       "name": "So cold",
       "url": "https://open.spotify.com/track/4pb6YqPnCBPuvCIPhyDMPI"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ"
+      },
+      "artists": [
+        {
+          "name": "Yung Alpha",
+          "url": "https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185396,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
     },
     {
       "album": {
@@ -11648,6 +11706,28 @@
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
+    },
+    {
+      "album": {
+        "name": "Tchoutchou (feat. Naza)",
+        "url": "https://open.spotify.com/album/4Ok4R1NSMZ2KvomrwjDGd0"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169397,
+      "name": "Tchoutchou (feat. Naza)",
+      "url": "https://open.spotify.com/track/2rU1FOnkqEGgYzEJs7H7q3"
     },
     {
       "album": {
@@ -12360,6 +12440,24 @@
       "duration_ms": 158400,
       "name": "UMENIKAMATA",
       "url": "https://open.spotify.com/track/10SfX9KF3H6kUOk51zP8TN"
+    },
+    {
+      "album": {
+        "name": "Un peu d'amoore",
+        "url": "https://open.spotify.com/album/1BKPi7cLCoYkH9UVb7QNKo"
+      },
+      "artists": [
+        {
+          "name": "MOORE",
+          "url": "https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Un peu d'amoore",
+      "url": "https://open.spotify.com/track/0ZcjlETeoMYhg71ZxeMBpo"
     },
     {
       "album": {

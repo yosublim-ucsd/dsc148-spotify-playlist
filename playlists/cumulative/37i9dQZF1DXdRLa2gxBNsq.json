@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
+  "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Kaotiko.",
   "name": "Punk Espa\u00f1ol",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 192147,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt"
@@ -460,6 +460,24 @@
       "duration_ms": 233200,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/2cGNb9Z0OrUjL0xcfPGPO7"
+    },
+    {
+      "album": {
+        "name": "ATEAK ITXI DIRA",
+        "url": "https://open.spotify.com/album/7yS4Qfi7wTGCsEMdN4Lgbb"
+      },
+      "artists": [
+        {
+          "name": "Brigade Loco",
+          "url": "https://open.spotify.com/artist/7vHtzjOcvBFheRysRt9BWd"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "ATEAK ITXI DIRA",
+      "url": "https://open.spotify.com/track/66swNe3lefYMMs3tvIDGwy"
     },
     {
       "album": {
@@ -966,7 +984,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 236360,
       "name": "Desnazificant",
       "url": "https://open.spotify.com/track/01XJzWEVuH9oP6hyvHIJ58"
@@ -1267,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "El Ni\u00f1o Polla",
+        "url": "https://open.spotify.com/album/6j1xhy6BCfzqqh9uNZ2rNR"
+      },
+      "artists": [
+        {
+          "name": "Presidentas Vivas",
+          "url": "https://open.spotify.com/artist/6KcLjoYGFqWMvTWMu3ncDm"
+        },
+        {
+          "name": "Vaiolens",
+          "url": "https://open.spotify.com/artist/0bICiRAqzk4iq6U3TdTdoo"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "El Ni\u00f1o Polla",
+      "url": "https://open.spotify.com/track/20pn8830V0szvHyPZBR1cq"
+    },
+    {
+      "album": {
         "name": "Dif\u00edcil Ser Humano",
         "url": "https://open.spotify.com/album/0cxzvpX9lZV37ISgBjrQ4e"
       },
@@ -1422,7 +1462,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 175909,
       "name": "En La Batalla",
       "url": "https://open.spotify.com/track/6cMzrfhTShDac4wRTDPJ6w"
@@ -1672,7 +1712,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 231584,
       "name": "Eu non quero traballar",
       "url": "https://open.spotify.com/track/3ljExg1ilbR5T0Ui4KlJ2V"
@@ -2232,6 +2272,24 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
+    },
+    {
+      "album": {
+        "name": "La jaula dorada",
+        "url": "https://open.spotify.com/album/1pWe9WMNtvMTv1qbZElxO5"
+      },
+      "artists": [
+        {
+          "name": "Los Saneadores",
+          "url": "https://open.spotify.com/artist/162c4R164YBZ6blxEr6oFx"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178297,
+      "name": "La jaula dorada",
+      "url": "https://open.spotify.com/track/6TlrJK8MzODPvxjUeQSlzB"
     },
     {
       "album": {
@@ -3117,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "XX5",
+        "url": "https://open.spotify.com/album/50nfGrvQcaeQdqzFxlN6u3"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190801,
+      "name": "Otra noche - XX5",
+      "url": "https://open.spotify.com/track/4EneUyoQbFXysxjuK11Jve"
+    },
+    {
+      "album": {
         "name": "Otra Partida",
         "url": "https://open.spotify.com/album/6AMSWPbMxR3uAeGqOWhKcq"
       },
@@ -3128,7 +3204,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 185991,
       "name": "Otra Partida",
       "url": "https://open.spotify.com/track/6KODMn838ClulWzOf27Lkm"
@@ -3218,7 +3294,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 191018,
       "name": "PEPITO",
       "url": "https://open.spotify.com/track/4TfEpPa1FSfM265JCtqPB6"
@@ -3464,6 +3540,28 @@
       "duration_ms": 125727,
       "name": "Pudredumbre",
       "url": "https://open.spotify.com/track/37jtZC34k0gkAaoI5g7a5v"
+    },
+    {
+      "album": {
+        "name": "Mejor que ayer",
+        "url": "https://open.spotify.com/album/2weVr4XVb54PSwKIuVa3vx"
+      },
+      "artists": [
+        {
+          "name": "Buen Vato",
+          "url": "https://open.spotify.com/artist/2YT6CMjqQNUI3X2gi3b9LX"
+        },
+        {
+          "name": "The Encabronados",
+          "url": "https://open.spotify.com/artist/3PMLgUm4z9TEc5pKhedWld"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Punker - De coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7LIhZQUyJNXDxGIgTQntZ6"
     },
     {
       "album": {
@@ -3915,6 +4013,24 @@
     },
     {
       "album": {
+        "name": "Tocar el Cielo",
+        "url": "https://open.spotify.com/album/1WgGWhXEhW1NVrCNFkCZZO"
+      },
+      "artists": [
+        {
+          "name": "Nashua",
+          "url": "https://open.spotify.com/artist/2TpX0C7MMkknm78cuApId8"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Tocar el Cielo",
+      "url": "https://open.spotify.com/track/1HW0oSpuPkbuU7xEUeZXeB"
+    },
+    {
+      "album": {
         "name": "Todos Mis Enemigos Se Llaman Cayetano",
         "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
       },
@@ -4020,7 +4136,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 89999,
       "name": "Tuna Punk",
       "url": "https://open.spotify.com/track/2VtgfdLc3Yr9ieDg5rTIoH"
@@ -4252,7 +4368,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 242320,
       "name": "Y sigo en pie",
       "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"

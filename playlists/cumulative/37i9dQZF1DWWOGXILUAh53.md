@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: OneRepublic & Kygo
 
-1,356 songs - 2 day 18 hr 8 min
+1,357 songs - 2 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/track/5YUsCI2mTieO4KJbLeQFR7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Die For Me \(with Norma Jean Martine\)](https://open.spotify.com/album/21QcWrXk821IkKiL73BZre) | 2:43 | 2024-02-02 | 2024-03-02 |
 | [DiGiTAL HEARTBEAT](https://open.spotify.com/track/0CZyUC8152Mc40d8On1ryQ) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [DiGiTAL HEARTBEAT](https://open.spotify.com/album/2tff7jYFhyVpxVaz7iOng8) | 2:33 | 2024-05-31 | 2024-07-13 |
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2024-11-25 |  |
+| [Disco Daddy](https://open.spotify.com/track/1fFcJqtvhU73Q8NNyv9rOF) | [Disco Shrine](https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA) | [Disco Daddy](https://open.spotify.com/album/02v8nHTkMf4dQwnB4FWYKS) | 2:56 | 2025-01-24 |  |
 | [Disco Heart](https://open.spotify.com/track/29upl5ytUcahfLE8q24SMd) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Heartbreak County, Vol\. 2](https://open.spotify.com/album/7x42x3GG9dviDYgX5HmHTM) | 3:15 | 2022-10-28 | 2023-01-21 |
 | [Discoteca](https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Discoteca](https://open.spotify.com/album/7r6a9NnWydms4uIjf9bH5C) | 3:45 | 2021-12-31 | 2022-05-20 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 | 2025-01-11 |

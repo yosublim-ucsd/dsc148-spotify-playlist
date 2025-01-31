@@ -4,7 +4,7 @@
 
 > Country songs that soundtrack the great Australian outback
 
-136 songs - 8 hr 3 min
+137 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Midnight Run](https://open.spotify.com/track/1ilLZiQpyxa5jcG8Uk2n9n) | [Travis Sinclair](https://open.spotify.com/artist/6KCfu2k3Nrrq9xiXt902pQ) | [Rush](https://open.spotify.com/album/7JNZxNWJbAykmTrpvNzkgc) | 3:32 | 2025-01-06 |  |
 | [Money](https://open.spotify.com/track/3PAVB079JnwKTHJaw6YLf2) | [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Money](https://open.spotify.com/album/0t6NO9xAbFchIyY7bGSsgI) | 3:00 | 2021-09-28 | 2025-01-07 |
 | [Money](https://open.spotify.com/track/5OOhLxTtBtUIYqlujP0ghn) | [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Daydream](https://open.spotify.com/album/31q9R2jptLMylI1iDR68ON) | 3:02 | 2021-09-28 | 2024-04-19 |
+| [Monkey On A Wire](https://open.spotify.com/track/6gnTDFX9qLva4Em1sufXus) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4HcgEh8nstAPqYptEWtVOM) | 3:06 | 2025-01-06 |  |
 | [My Hometown](https://open.spotify.com/track/1islrJG5v7TIwGIl5xOdyp) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Kickin' Up Dust](https://open.spotify.com/album/5W5mmNSOK53lh0WyqPVIeW) | 3:47 | 2021-09-28 |  |
 | [My Hometown](https://open.spotify.com/track/3ljeF0UuDFxOMwkKDtYLRk) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Kickin' up Dust](https://open.spotify.com/album/5CE6oI3vf7OktvkB0v19vD) | 3:49 | 2021-09-28 | 2025-01-07 |
 | [Not Pretty Enough](https://open.spotify.com/track/5fkp9yhvTJ3oJEFO1AnFzm) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:19 | 2025-01-06 |  |
@@ -113,7 +114,7 @@
 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 | 2025-01-06 |  |
 | [Stacks](https://open.spotify.com/track/2GkgT0sVBPPfeHqzA7bh1w) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ) | [Stacks](https://open.spotify.com/album/7An96Hf87OBmbvWNSpO3Vi) | 2:58 | 2021-09-28 | 2024-04-19 |
 | [Stacks](https://open.spotify.com/track/3uKce2mV1vc29tcsiCLGzd) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ) | [Calamity](https://open.spotify.com/album/3Mf5AQbhOLn2fmdKaLiwxr) | 2:58 | 2021-09-28 | 2025-01-07 |
-| [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 | 2021-09-28 |  |
+| [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 | 2021-09-28 | 2025-01-31 |
 | [Storm Rollin In](https://open.spotify.com/track/0CbMpsfgSHVwOXBPA1tyEX) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/2K2u4aAoAwf3aJ5k8ZZF1c) | 2:42 | 2021-09-28 | 2024-04-19 |
 | [Streets of Tamworth](https://open.spotify.com/track/1Qjj7QWWpwRGjE5DM4Jb3e) | [Roger Knox](https://open.spotify.com/artist/3SGB83kV2y4Ij3dvVBOFBb) | [Warrior In Chains \- The Best of Roger Knox](https://open.spotify.com/album/1xNjcw2H6Lm5LmZRaZ7nzS) | 2:43 | 2025-01-06 |  |
 | [Summer's Little Angel](https://open.spotify.com/track/674ehjvBVjg874WczRx5fl) | [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Steve Forde](https://open.spotify.com/album/46T0ATAu5Yy6SWTHVDf9lw) | 2:53 | 2025-01-06 |  |

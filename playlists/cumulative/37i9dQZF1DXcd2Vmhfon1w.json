@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Kadec Santa Anna",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Recycled J",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -128,6 +128,50 @@
       "duration_ms": 213651,
       "name": "1000 Motivos",
       "url": "https://open.spotify.com/track/2ytOFQ6uf3JmEH0Ve5572G"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/2Af9jXV8z6SRRTuZCRK9Nj"
+      },
+      "artists": [
+        {
+          "name": "Kadec Santa Anna",
+          "url": "https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW"
+        },
+        {
+          "name": "Franckvit",
+          "url": "https://open.spotify.com/artist/4gBRCPrNVKcPmsLTjIMqDG"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2hbVaLfNRekMmFxTvpVrqe"
+    },
+    {
+      "album": {
+        "name": "2K",
+        "url": "https://open.spotify.com/album/2QdwKnMmXsEMe5yO0IwCzm"
+      },
+      "artists": [
+        {
+          "name": "Shoren",
+          "url": "https://open.spotify.com/artist/6MRCWn4BaMCrfxzseImRuN"
+        },
+        {
+          "name": "Dualy",
+          "url": "https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136719,
+      "name": "2K",
+      "url": "https://open.spotify.com/track/2iZnVuC02NU5b5nZXSh0BN"
     },
     {
       "album": {
@@ -1050,7 +1094,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 220405,
       "name": "Barquito de Vela",
       "url": "https://open.spotify.com/track/1OzXgYzPRco0NvqcDEnCRG"
@@ -1438,7 +1482,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 109518,
       "name": "BRUCE WAYNE",
       "url": "https://open.spotify.com/track/3JQrBnoL9z8BJKaexLOqf9"
@@ -3385,6 +3429,28 @@
     },
     {
       "album": {
+        "name": "El Diario del Loco",
+        "url": "https://open.spotify.com/album/56BZCljC5qDOpNuyHlNzQ9"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Kandas",
+          "url": "https://open.spotify.com/artist/4gMZApWfk1wPyjVnS8LUjP"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "El Diario del Loco",
+      "url": "https://open.spotify.com/track/6HlX2bpBirY8SBoBMc69nj"
+    },
+    {
+      "album": {
         "name": "EL DUE\u00d1O DEL ATICO",
         "url": "https://open.spotify.com/album/72yJInwDBPErpdeltSiHRm"
       },
@@ -3810,6 +3876,32 @@
       "duration_ms": 241507,
       "name": "Extrarradio",
       "url": "https://open.spotify.com/track/06BxQZX22lQE3p6iOVzDV1"
+    },
+    {
+      "album": {
+        "name": "SAN JORGE",
+        "url": "https://open.spotify.com/album/68EyMN7WWbPdc7Qt4lWXQk"
+      },
+      "artists": [
+        {
+          "name": "Recycled J",
+          "url": "https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y"
+        },
+        {
+          "name": "Hoke",
+          "url": "https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5"
+        },
+        {
+          "name": "\u00c9bano",
+          "url": "https://open.spotify.com/artist/7q0HsrVsikGwRXqJsMsOZ5"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176910,
+      "name": "FABERG\u00c9",
+      "url": "https://open.spotify.com/track/4p5rJaNRzsicfH1px0XOBD"
     },
     {
       "album": {
@@ -5292,7 +5384,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 164470,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
@@ -5438,6 +5530,24 @@
       "duration_ms": 126066,
       "name": "Libre",
       "url": "https://open.spotify.com/track/2FNfjickrps120O9KB7vJr"
+    },
+    {
+      "album": {
+        "name": "Llamadas",
+        "url": "https://open.spotify.com/album/08PtmkO8j3Wj1lFTxL19HT"
+      },
+      "artists": [
+        {
+          "name": "Teo Lucadamo",
+          "url": "https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129679,
+      "name": "Llamadas",
+      "url": "https://open.spotify.com/track/5BjCOq0a6yzE3wkqxXz4qD"
     },
     {
       "album": {
@@ -7580,7 +7690,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 167142,
       "name": "Pa Ti",
       "url": "https://open.spotify.com/track/67NQPT5ntGXp1fLmAtp2kH"
@@ -7850,7 +7960,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 154000,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/2dabNpFyjIQTVSZ18CPoLa"
@@ -8026,7 +8136,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 232421,
       "name": "Qu\u00e9 Est\u00e1 Pasando",
       "url": "https://open.spotify.com/track/4cELegsvgHnuwg4G42mY3j"
@@ -8872,6 +8982,24 @@
       "duration_ms": 183000,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/5tL5OWnOFNgGhRu3frvYGT"
+    },
+    {
+      "album": {
+        "name": "SI LA VIDA NOS CAMBIA",
+        "url": "https://open.spotify.com/album/39NptVdyDgpPD6ZvV1HMpv"
+      },
+      "artists": [
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220566,
+      "name": "SI LA VIDA NOS CAMBIA",
+      "url": "https://open.spotify.com/track/73rrrcJjKxRIiRujjC5JkB"
     },
     {
       "album": {

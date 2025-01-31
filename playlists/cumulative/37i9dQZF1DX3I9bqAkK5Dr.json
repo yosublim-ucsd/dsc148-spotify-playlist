@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 117721,
       "name": "Edo Bhayam",
       "url": "https://open.spotify.com/track/6P2waqwcPRbHxsZqmzrSkk"
@@ -5666,6 +5666,24 @@
     {
       "album": {
         "name": "Senorita",
+        "url": "https://open.spotify.com/album/5lcGBcUeM6SrOSrPP5R2d1"
+      },
+      "artists": [
+        {
+          "name": "Gershom Penugula",
+          "url": "https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158222,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/29fHhYed8SpAL9T10i8r3h"
+    },
+    {
+      "album": {
+        "name": "Senorita",
         "url": "https://open.spotify.com/album/7pQCwjwozrK3RFejeLP6UA"
       },
       "artists": [
@@ -5932,7 +5950,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 178535,
       "name": "Soundarya Lahari",
       "url": "https://open.spotify.com/track/6UF17wbA3lGZnmtC5SQzZX"

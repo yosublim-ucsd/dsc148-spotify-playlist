@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH?si=MxfStGQUTy6XSzjQgCyQXA\">Kayla The Crow</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=SJQ223U4QNqhwtvGvFVzbg\">Francois van Coke</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 237687,
       "name": "Bakers Mini Krieket",
       "url": "https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ"
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
@@ -2412,6 +2412,24 @@
       "duration_ms": 214266,
       "name": "Die Son",
       "url": "https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz"
+    },
+    {
+      "album": {
+        "name": "Die Sterre Binne Jou",
+        "url": "https://open.spotify.com/album/2LfoCD0e6F2enqGZAhSzIE"
+      },
+      "artists": [
+        {
+          "name": "Saarkie",
+          "url": "https://open.spotify.com/artist/1ZuXFw4O5v2QaNNxZki6Qf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231186,
+      "name": "Die Sterre Binne Jou",
+      "url": "https://open.spotify.com/track/0SASpYNg8wXAzljJNVkTuv"
     },
     {
       "album": {
@@ -3444,6 +3462,24 @@
       "duration_ms": 227766,
       "name": "Geen Vrede",
       "url": "https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo"
+    },
+    {
+      "album": {
+        "name": "Gelukkige Lewe",
+        "url": "https://open.spotify.com/album/4oRJ7f4lYdd1boDyEfHkjE"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168845,
+      "name": "Gelukkige Lewe",
+      "url": "https://open.spotify.com/track/3swdczqkARpXMh9mFxF2NO"
     },
     {
       "album": {
@@ -5785,6 +5821,24 @@
     },
     {
       "album": {
+        "name": "Medicine Man",
+        "url": "https://open.spotify.com/album/255Lyxk76R1zDL4Pmz9fgw"
+      },
+      "artists": [
+        {
+          "name": "Thabo Krouwkam",
+          "url": "https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/6Z4t8EpkoTOagQ8BuCRArF"
+    },
+    {
+      "album": {
         "name": "Medikasie",
         "url": "https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23"
       },
@@ -6106,7 +6160,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 217200,
       "name": "My Ek(skuus)",
       "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
@@ -6402,6 +6456,24 @@
       "duration_ms": 200320,
       "name": "No One Else Will",
       "url": "https://open.spotify.com/track/76KLjagyMyDblwHHHgVJLZ"
+    },
+    {
+      "album": {
+        "name": "No Surprise",
+        "url": "https://open.spotify.com/album/3OyIklItWcl0kumd7mrpXr"
+      },
+      "artists": [
+        {
+          "name": "Likkewaan",
+          "url": "https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "No Surprise",
+      "url": "https://open.spotify.com/track/1L7JDJ5604RkYN2k3czATE"
     },
     {
       "album": {
@@ -6766,7 +6838,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 229000,
       "name": "Original Nightmare",
       "url": "https://open.spotify.com/track/23qhzLlc5M9A6nH7Gd4Tt5"
@@ -7062,7 +7134,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 174974,
       "name": "Penny Sleeps",
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
@@ -7654,6 +7726,24 @@
       "duration_ms": 208906,
       "name": "Safari Music",
       "url": "https://open.spotify.com/track/6Qen4bdmho0oKLwfDwgu3n"
+    },
+    {
+      "album": {
+        "name": "Saterdag Is Nog 'n Dag (Radio Edit)",
+        "url": "https://open.spotify.com/album/4BVIp3kb1NsT2jkgtTsTp2"
+      },
+      "artists": [
+        {
+          "name": "Saterdag Vanaand",
+          "url": "https://open.spotify.com/artist/6O6o1uzcMIdSzyouBGiUjc"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179741,
+      "name": "Saterdag Is Nog 'n Dag (Radio Edit)",
+      "url": "https://open.spotify.com/track/0haSFu3gTeYMY2xvHZDslQ"
     },
     {
       "album": {
@@ -9576,7 +9666,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 244333,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd"
@@ -9598,6 +9688,24 @@
       "duration_ms": 218398,
       "name": "Tyd",
       "url": "https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0"
+    },
+    {
+      "album": {
+        "name": "U Wanna?",
+        "url": "https://open.spotify.com/album/5riz13sY3X0edT7ayWp86g"
+      },
+      "artists": [
+        {
+          "name": "Coasters",
+          "url": "https://open.spotify.com/artist/4VjyjBUcEwwx4xqtU359Ep"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228804,
+      "name": "U Wanna?",
+      "url": "https://open.spotify.com/track/7BPTBvp60w8GUxtl60uhxY"
     },
     {
       "album": {

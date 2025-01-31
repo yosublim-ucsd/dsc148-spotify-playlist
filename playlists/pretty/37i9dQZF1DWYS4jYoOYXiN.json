@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 89878,
+  "num_followers": 89906,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "\u00a1G\u00f3zalo! Vol 1",
+        "url": "https://open.spotify.com/album/2sYk4OCqCgZhE3nRevJEMa"
+      },
+      "artists": [
+        {
+          "name": "Nilo Espinosa y Orquesta",
+          "url": "https://open.spotify.com/artist/6eGqK6UncF1x1pF3VB0CZ7"
+        }
+      ],
+      "duration_ms": 328026,
+      "name": "Baby Boogaloo",
+      "url": "https://open.spotify.com/track/0ICpJmbN1nZi6LnJtTKcC8"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/5FQdKGugFXC8g9F1twjit1"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 247053,
       "name": "Marilu",
       "url": "https://open.spotify.com/track/65BjrUvYlKkptBynsmDC8K"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "El Barrio",
-        "url": "https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k"
-      },
-      "artists": [
-        {
-          "name": "Ralph Robles",
-          "url": "https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Come And Get It",
-      "url": "https://open.spotify.com/track/647gi4v4E8zPT0GdiR8MxL"
     }
   ],
   "unique_name": "Boogaloo Essentials",

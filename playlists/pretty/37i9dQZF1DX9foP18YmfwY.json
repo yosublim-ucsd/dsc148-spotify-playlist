@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Ziza Fernandes",
-  "num_followers": 342609,
+  "num_followers": 342689,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
-        "name": "Voz de Trov\u00e3o",
-        "url": "https://open.spotify.com/album/2N551Plznn22YszuHisFmW"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 379504,
-      "name": "Voz de Trov\u00e3o",
-      "url": "https://open.spotify.com/track/55bvaCrj1WfQZb1xuC7vhV"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
         "name": "Deus Est\u00e1 Aqui (Noites Trai\u00e7oeiras)",
         "url": "https://open.spotify.com/album/2IVSlMvLNPCUGCDiAAo2Iw"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 225487,
       "name": "Deus Est\u00e1 Aqui (Noites Trai\u00e7oeiras)",
       "url": "https://open.spotify.com/track/2cnKUhnCJ0MSYsG3q2zQiC"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
+        "name": "Voz de Trov\u00e3o",
+        "url": "https://open.spotify.com/album/2N551Plznn22YszuHisFmW"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 379504,
+      "name": "Voz de Trov\u00e3o",
+      "url": "https://open.spotify.com/track/55bvaCrj1WfQZb1xuC7vhV"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -171,18 +171,22 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
-        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
-        "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
+        "name": "Ao Monte",
+        "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Thiago Brado",
+          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
         }
       ],
-      "duration_ms": 636452,
-      "name": "Me Aceita de Volta",
-      "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
+      "duration_ms": 368300,
+      "name": "Ao Monte",
+      "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -203,22 +207,18 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
-        "name": "Ao Monte",
-        "url": "https://open.spotify.com/album/0CSfObrt5xhR1j6VW5uZu2"
+        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
+        "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
       },
       "artists": [
         {
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 368300,
-      "name": "Ao Monte",
-      "url": "https://open.spotify.com/track/2rZW23fLXbJxkrPXTrKR98"
+      "duration_ms": 636452,
+      "name": "Me Aceita de Volta",
+      "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 696810,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/1L69Pt5Yg6FpXFbK1AaI2r"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 696810,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/2z6uchqZ5mTC5spfvsmAsc"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -463,22 +463,18 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
-        "name": "Decididamente",
-        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+        "name": "Aparecida",
+        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
       },
       "artists": [
         {
-          "name": "Cassiano Menke",
-          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
-        },
-        {
-          "name": "Walmir Alencar",
-          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 258560,
-      "name": "Decididamente",
-      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
+      "duration_ms": 293248,
+      "name": "Aparecida",
+      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -503,6 +499,26 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
+        "name": "Decididamente",
+        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Menke",
+          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
+        },
+        {
+          "name": "Walmir Alencar",
+          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Decididamente",
+      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
         "name": "Gba Stage, Vol. 11",
         "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 302794,
       "name": "Maria da Minha Inf\u00e2ncia",
       "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
-        "name": "Aparecida",
-        "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 293248,
-      "name": "Aparecida",
-      "url": "https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
+        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim (Ad10), Pt. 2",
+        "url": "https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 455338,
+      "name": "Compromisso/ Jesus",
+      "url": "https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
         "name": "Cantai a Deus Com Alegria 2023",
         "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 308875,
       "name": "Louvor dos Pequenos",
       "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -619,6 +619,22 @@
       "duration_ms": 300184,
       "name": "M\u00e3e, Me Defende do Mal",
       "url": "https://open.spotify.com/track/6rTctPkzfFketYUeht2DNl"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -671,22 +687,6 @@
       "duration_ms": 235714,
       "name": "S\u00f3 por Ti, Jesus",
       "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
-        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim (Ad10), Pt. 2",
-        "url": "https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 455338,
-      "name": "Compromisso/ Jesus",
-      "url": "https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -787,38 +787,6 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
-        "name": "Seguir Viagem",
-        "url": "https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW"
-      },
-      "artists": [
-        {
-          "name": "Raquel Carpejani",
-          "url": "https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW"
-        }
-      ],
-      "duration_ms": 218599,
-      "name": "Seguir Viagem",
-      "url": "https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -839,6 +807,22 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
+        "name": "Seguir Viagem",
+        "url": "https://open.spotify.com/album/0BfUIuyKS9QuOjXAlZVgpW"
+      },
+      "artists": [
+        {
+          "name": "Raquel Carpejani",
+          "url": "https://open.spotify.com/artist/5dFoXRXGHF11wcn9CHUNgW"
+        }
+      ],
+      "duration_ms": 218599,
+      "name": "Seguir Viagem",
+      "url": "https://open.spotify.com/track/6UYUXNfGduIYvSPMa5EXeg"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
         "name": "Esp\u00edrito da Verdade",
         "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 287303,
       "name": "Se Eu Tocar",
       "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -891,6 +891,26 @@
       "duration_ms": 293210,
       "name": "Emanuel, Eu Te Adoro",
       "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
+        "name": "Gba Stage, Vol. 13",
+        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "duration_ms": 294101,
+      "name": "Deixa Deus Sonhar em Ti",
+      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -955,26 +975,6 @@
       "duration_ms": 254964,
       "name": "Minha Voca\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
-        "name": "Gba Stage, Vol. 13",
-        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        }
-      ],
-      "duration_ms": 294101,
-      "name": "Deixa Deus Sonhar em Ti",
-      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
     },
     {
       "added_at": "2025-01-24 03:01:20",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-01-24 03:01:20",
       "album": {
-        "name": "Maior do Que a Vida",
-        "url": "https://open.spotify.com/album/61Asls8mBChyPHD5lPzvdu"
-      },
-      "artists": [
-        {
-          "name": "Suely Fa\u00e7anha",
-          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
-        }
-      ],
-      "duration_ms": 260209,
-      "name": "Maior do Que a Vida",
-      "url": "https://open.spotify.com/track/4xO7XKhySFQlzMJMCjb0v1"
-    },
-    {
-      "added_at": "2025-01-24 03:01:20",
-      "album": {
         "name": "Nada Al\u00e9m de Ti",
         "url": "https://open.spotify.com/album/7IHVEoaEg3GOvhgUGAuSQF"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 330694,
       "name": "Nada Al\u00e9m de Ti",
       "url": "https://open.spotify.com/track/4hfWx8nT2PJeB86r4wDjrr"
+    },
+    {
+      "added_at": "2025-01-24 03:01:20",
+      "album": {
+        "name": "Maior do Que a Vida",
+        "url": "https://open.spotify.com/album/61Asls8mBChyPHD5lPzvdu"
+      },
+      "artists": [
+        {
+          "name": "Suely Fa\u00e7anha",
+          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
+        }
+      ],
+      "duration_ms": 260209,
+      "name": "Maior do Que a Vida",
+      "url": "https://open.spotify.com/track/4xO7XKhySFQlzMJMCjb0v1"
     },
     {
       "added_at": "2025-01-24 03:01:20",

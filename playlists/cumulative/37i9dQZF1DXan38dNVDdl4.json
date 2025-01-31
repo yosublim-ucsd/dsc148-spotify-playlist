@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dancehall playlist in the world. Cover: Vybz Kartel",
+  "description": "The biggest Dancehall playlist in the world. Cover: Popcaan",
   "name": "Dancehall Official",
   "tracks": [
     {
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 142040,
       "name": "Catch E Move",
       "url": "https://open.spotify.com/track/5M6ibfpLRQZxQtDnQBBtPC"
@@ -2254,6 +2254,24 @@
       "duration_ms": 215757,
       "name": "Dream",
       "url": "https://open.spotify.com/track/6IihMo9RAyoMrEFZTOZBcT"
+    },
+    {
+      "album": {
+        "name": "Viking (Vybz Is King) : 10th Year Anniversary",
+        "url": "https://open.spotify.com/album/3sNbgXyN0nDNinBvlowOkQ"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/5OgGzWwwZUnIai4iXpIRrZ"
     },
     {
       "album": {
@@ -5603,6 +5621,24 @@
     },
     {
       "album": {
+        "name": "No Two Face",
+        "url": "https://open.spotify.com/album/5I8VQnr8JyzbPLcW0MA7Zo"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "No Two Face",
+      "url": "https://open.spotify.com/track/5ePcHVY2YXvBiojZzWAomh"
+    },
+    {
+      "album": {
         "name": "Rumors",
         "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
       },
@@ -6622,7 +6658,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 195114,
       "name": "Real Storm",
       "url": "https://open.spotify.com/track/0rq1MSkpwV2bWC4wwBPVtr"
@@ -9180,7 +9216,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 190000,
       "name": "Wah Kinda Life Dis",
       "url": "https://open.spotify.com/track/1eJcunExwe0IjHeqPJYuCQ"
@@ -9700,6 +9736,28 @@
       "duration_ms": 214525,
       "name": "Wollan",
       "url": "https://open.spotify.com/track/6kMHnJZ8QgRR0NV4LmdNpA"
+    },
+    {
+      "album": {
+        "name": "Work It (Bedroom Bully)",
+        "url": "https://open.spotify.com/album/48cE5H01YoB3NeJjWtg6i8"
+      },
+      "artists": [
+        {
+          "name": "Iice Coldd",
+          "url": "https://open.spotify.com/artist/32KHyDduFUOXT2IYvZ9oP6"
+        },
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Work It (Bedroom Bully)",
+      "url": "https://open.spotify.com/track/4kw9tId4PVFcbDO8NmOlCF"
     },
     {
       "album": {

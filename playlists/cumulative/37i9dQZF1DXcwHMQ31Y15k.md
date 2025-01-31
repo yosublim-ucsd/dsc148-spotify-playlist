@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Sela Good, Hendra Kumbara
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-440 songs - 1 day 12 hr 45 min
+444 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Jamu \- Janji Muanis](https://open.spotify.com/track/2GOjF1yNoN2Ifn0PTaB9Eh) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Jamu \(Janji Muanis\)](https://open.spotify.com/album/2R7X8WN9e73ss7altIYDg7) | 5:34 | 2024-02-29 | 2024-07-27 |
 | [Janji Temani](https://open.spotify.com/track/6JLmc1SXTnF79K8pSiiPCL) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Janji Temani](https://open.spotify.com/album/2cXVW2AxCA8kZqJD2UlqgN) | 4:16 | 2023-06-09 | 2024-03-09 |
 | [Janji Tok!](https://open.spotify.com/track/3DPoVLhW3Av9Esa3yMjYju) | [Cita Amelia](https://open.spotify.com/artist/71LNVQpsM6kpHm93kvAj40) | [Janji Tok!](https://open.spotify.com/album/1Me22JDZU4Plyp83MigBEW) | 3:54 | 2023-08-31 | 2023-10-08 |
-| [Jaran Goyang](https://open.spotify.com/track/00G0MhqxlDn3VjmCMrMAnF) | [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg), [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Jaran Goyang](https://open.spotify.com/album/0KgtxmmZQ65UnVh0TZJ3fv) | 4:30 | 2024-04-25 |  |
+| [Jaran Goyang](https://open.spotify.com/track/00G0MhqxlDn3VjmCMrMAnF) | [Ajeng Febria](https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg), [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Jaran Goyang](https://open.spotify.com/album/0KgtxmmZQ65UnVh0TZJ3fv) | 4:30 | 2024-04-25 | 2025-01-31 |
 | [Jejantunging Kalbu](https://open.spotify.com/track/378sjjoEHRfAjFBlBCNdoI) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Jejantunging Kalbu](https://open.spotify.com/album/424Gy6dFu4JBKBxGqEt12i) | 5:18 | 2024-10-18 |  |
 | [Jejantunging Kalbu](https://open.spotify.com/track/3ZnKGBeVyJrs4gFVtsEJmD) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Jejantunging Kalbu](https://open.spotify.com/album/2ynImb4jWZArEaeN5MbM1Y) | 4:29 | 2024-08-09 | 2024-12-27 |
 | [Juragan Empang](https://open.spotify.com/track/4oukOCxXwfaRx4Rqait0OE) | [Lala Widy](https://open.spotify.com/artist/39oBUORQAdXhOUCSABsmQK) | [Juragan Empang](https://open.spotify.com/album/0EYQcmzHvpQt38ztwlhjQr) | 3:50 | 2024-01-25 | 2024-05-17 |
@@ -146,7 +146,7 @@
 | [KDRT \(Kadung Duwe Roso Tresno\)](https://open.spotify.com/track/4vWgNqMHIo6TU8tNkUFEOj) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [KDRT \(Kadung Duwe Roso Tresno\)](https://open.spotify.com/album/0CGFvfgMFN7IdVwOGnuJMm) | 6:12 | 2024-10-24 |  |
 | [Kebacut Nyaman](https://open.spotify.com/track/3kEUi3er4c6aNdX0spyUZM) | [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Kebacut Nyaman](https://open.spotify.com/album/5WMqMj79VLVJp6YG42WwrL) | 5:05 | 2023-08-11 | 2024-04-26 |
 | [Kecelik](https://open.spotify.com/track/136vKucQWIKVj8Zjg2JVyQ) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kecelik](https://open.spotify.com/album/2Ts1yFQxdRcpf1BD8OqG1I) | 5:49 | 2024-08-29 | 2024-12-13 |
-| [Kelangan \- Orchestra Version](https://open.spotify.com/track/71bEfMQcwDNk9mMNmEMYCO) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan \(Orchestra Version\)](https://open.spotify.com/album/6BGYkoc7ffge62htPpigIs) | 5:51 | 2024-11-14 |  |
+| [Kelangan \- Orchestra Version](https://open.spotify.com/track/71bEfMQcwDNk9mMNmEMYCO) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan \(Orchestra Version\)](https://open.spotify.com/album/6BGYkoc7ffge62htPpigIs) | 5:51 | 2024-11-14 | 2025-01-31 |
 | [Kelangan 3](https://open.spotify.com/track/4sKISuQb1KssjLUu1BagA1) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan 3](https://open.spotify.com/album/1vf8SZEJNP0SBArwBW32pd) | 6:52 | 2022-05-26 | 2023-06-16 |
 | [Kelangan 3](https://open.spotify.com/track/5w6iYFIAy1jdixBCc3G0Eo) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan 3](https://open.spotify.com/album/7Cy5X87O5ago19SzaT353S) | 6:52 | 2023-09-07 | 2024-03-15 |
 | [Kelingan Mantan](https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 3:19 | 2022-07-28 | 2024-04-19 |
@@ -181,6 +181,7 @@
 | [Lamunan](https://open.spotify.com/track/3qcJp9jySepnPFWY2LyLNZ) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS) | [Lamunan](https://open.spotify.com/album/0wTA1S91a9PDRMbKC11zch) | 5:04 | 2024-06-10 |  |
 | [Lamunan](https://open.spotify.com/track/3lpjgJcdIjw6WVVzeGlCMT) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Lamunan](https://open.spotify.com/album/7lNUodq1wzj8Oc8ocoy9E9) | 4:10 | 2024-03-08 | 2024-08-16 |
 | [Langganan Kleru \- Cover](https://open.spotify.com/track/6cDrGW9pKEq52SebLnfI8V) | [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Langganan Kleru \(Cover\)](https://open.spotify.com/album/6Dt3EM50CpMHVVS8HVSxAU) | 5:15 | 2023-10-20 | 2024-01-12 |
+| [Langsung Tak Lamare](https://open.spotify.com/track/47y2sLaMzKX8bxA7jOZllu) | [Pulung Agustanto](https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ) | [DISKOJAWA](https://open.spotify.com/album/2Iw7DLb0poBl5a3sbiBk3d) | 5:12 | 2025-01-30 |  |
 | [LDR](https://open.spotify.com/track/0e3bJ0Tn5uOwT6vf618sTs) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [LDR](https://open.spotify.com/album/5zAb03GyKz471c7cGmijfc) | 5:06 | 2024-05-30 | 2024-10-11 |
 | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [LDR "Langgeng Dayaning Rasa" \(Live\)](https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO) | 5:10 | 2024-05-16 |  |
 | [LDR \(Langgeng Dayaning Rasa\)](https://open.spotify.com/track/4nBsCOuBcfBRySw8vjmk0D) | [Niken Salindry](https://open.spotify.com/artist/3UTo1Lyi2ZuZMURMX9DbUv) | [LDR \(Langgeng Dayaning Rasa\)](https://open.spotify.com/album/4ITnDH8RzNDF8kULSyuoXA) | 4:59 | 2024-06-13 | 2024-06-14 |
@@ -287,6 +288,7 @@
 | [Ora Ngemis Bali](https://open.spotify.com/track/2COVYtcGF8dXR048GoKmFE) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Ora Ngemis Bali](https://open.spotify.com/album/4G4I1f98sSWGxGabviKsQ5) | 5:32 | 2024-12-19 |  |
 | [Ora Ono Gunane](https://open.spotify.com/track/2wgTxy8GGMR7LNU0UMCYFx) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Ora Ono Gunane](https://open.spotify.com/album/5fiHvBaElHxwGxGUfMSpGy) | 3:50 | 2023-09-15 | 2023-11-11 |
 | [OTW \(Omong Taek We\)](https://open.spotify.com/track/3jebXtdikTKuG7m6YtEhbU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [OTW \(Omong Taek We\)](https://open.spotify.com/album/12FLfnCnXLLvqdR75ilOYW) | 4:52 | 2022-05-26 | 2023-07-29 |
+| [Padahal Aku Tulus](https://open.spotify.com/track/19BTVbtFnDAzb9BqDlQdJA) | [Joko Sinyo](https://open.spotify.com/artist/3jeCevlrhllo6ipcEOX3b1) | [Padahal Aku Tulus](https://open.spotify.com/album/6jfhow4LcnaJBttaPRgJRm) | 4:45 | 2025-01-30 |  |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2022-05-26 | 2023-08-11 |
 | [Pangarepan](https://open.spotify.com/track/3yto6d6wGziiz1f2GnkeU1) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Pangarepan](https://open.spotify.com/album/5jjN6DXX5wDtagk2Sgnohu) | 5:47 | 2024-12-13 |  |
 | [Pangestu](https://open.spotify.com/track/3wBWUVz2PJCQN4PETCb6x9) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Pangestu](https://open.spotify.com/album/1R1HP9hiqJ6QsYpxuHZepL) | 4:51 | 2023-08-17 | 2024-03-15 |
@@ -425,6 +427,8 @@
 | [Tresno Liyane](https://open.spotify.com/track/6TGKyyyMCmtjf3MpdRnpxE) | [Tembang Gula](https://open.spotify.com/artist/6g7kngIkweehmJyN2AYOOH), [Tomo Widayat](https://open.spotify.com/artist/3ZCCt9k6vWEDbdR0XKjHXY) | [Tresno Liyane](https://open.spotify.com/album/5ihcCehRsNOjAIiEZVbDGu) | 4:54 | 2022-05-26 | 2022-08-19 |
 | [Tresno Liyane 2](https://open.spotify.com/track/17NdRQTe0nD5QJ0WRZ4FS5) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno Liyane 2](https://open.spotify.com/album/4HgGC2WNbLKdsi6v7K2yG0) | 4:43 | 2024-09-20 |  |
 | [TRESNO NGALOR NGIDUL](https://open.spotify.com/track/4JKKRKsFGsz3F4lfcHRPhK) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW), [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [TRESNO NGALOR NGIDUL](https://open.spotify.com/album/7vwsRJ8NZAiAzPz29aDJBO) | 5:32 | 2024-08-15 | 2024-12-13 |
+| [Tresno Tekan Mati](https://open.spotify.com/track/0JZnC7RDiYPLXBqaatZOeF) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Sischo Pransub](https://open.spotify.com/artist/0U2CrbRFpngdpuLqwk2RKD) | [Tresno Tekan Mati](https://open.spotify.com/album/72eFjr8FNykfdKiXMw9jCa) | 5:26 | 2025-01-30 |  |
+| [Tresno Tekan Mati](https://open.spotify.com/track/4xrFfbqpxcF6KjKGg57DYS) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Ratih SDE](https://open.spotify.com/artist/3G52T19P9oKRUizIgxqy2D) | [Tresno Tekan Mati](https://open.spotify.com/album/3MQNsBZtpSYVAr9w8alNit) | 5:19 | 2025-01-30 |  |
 | [Tresno Tekan Mati \- New Version](https://open.spotify.com/track/6dpx06KUkby9EfiUTLkiXd) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5a2TytayKwqFURNG7ArVlw) | 4:31 | 2023-12-21 |  |
 | [Tulus](https://open.spotify.com/track/1lx5m5RLpjljTVQ5XjpFOP) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [ByanX](https://open.spotify.com/artist/3n5UUkbiCO2mU7eFeUln6c) | [Tulus](https://open.spotify.com/album/2vZXISjf0nnZ56tye7K16w) | 4:09 | 2024-02-08 | 2024-07-27 |
 | [Tutug](https://open.spotify.com/track/3DwDTd0AvCgWlPkLzSOXIA) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Tutug](https://open.spotify.com/album/4Z5swETDpF0iAR2rinVRyF) | 4:57 | 2024-10-11 | 2025-01-03 |

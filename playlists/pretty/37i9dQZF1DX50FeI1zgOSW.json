@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14230,
+  "num_followers": 14239,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5pBPgAAAADGSduQ1kVmYRaiEFXPw88f",
+  "snapshot_id": "Z5tFngAAAAAjRtX7GSH9ZU+e/DI5s9kk",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -77,6 +77,30 @@
       "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
     },
     {
+      "added_at": "2025-01-30 06:33:30",
+      "album": {
+        "name": "Death Molam",
+        "url": "https://open.spotify.com/album/5D7M9zUsHOXjzQJflzaHlc"
+      },
+      "artists": [
+        {
+          "name": "8c Sam",
+          "url": "https://open.spotify.com/artist/3wlmBQ2p8TYonVM9CMuaUX"
+        },
+        {
+          "name": "8c tony",
+          "url": "https://open.spotify.com/artist/4dgvjJXnVc0LsMcPxJ1G2l"
+        },
+        {
+          "name": "Adipetti",
+          "url": "https://open.spotify.com/artist/3xc0HXO4HGJI3KVD0bI8ZR"
+        }
+      ],
+      "duration_ms": 258644,
+      "name": "Death Molam",
+      "url": "https://open.spotify.com/track/1cWkNAI04ZAmHeSIGfXRsW"
+    },
+    {
       "added_at": "2025-01-29 14:54:54",
       "album": {
         "name": "Mudinjiriche Love-uh",
@@ -143,6 +167,26 @@
       "duration_ms": 193300,
       "name": "Karakki (Raw Version) - From \"Think Specials\"",
       "url": "https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt"
+    },
+    {
+      "added_at": "2025-01-30 06:32:28",
+      "album": {
+        "name": "Irunga Bhai",
+        "url": "https://open.spotify.com/album/4G7Dn34j4QW6bHfgAXxRKW"
+      },
+      "artists": [
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "keli.thee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Irunga Bhai",
+      "url": "https://open.spotify.com/track/56EiSA7py7QKdBy8gqfRRO"
     },
     {
       "added_at": "2025-01-28 07:35:47",
@@ -254,6 +298,10 @@
         {
           "name": "MR NURA",
           "url": "https://open.spotify.com/artist/5h6hA70JGpFtJg4zn35wxS"
+        },
+        {
+          "name": "Sowhmya Rajesh",
+          "url": "https://open.spotify.com/artist/4chv4QwjU8noOImfAj2I0W"
         },
         {
           "name": "Sridhar Sena",
@@ -745,50 +793,6 @@
       "url": "https://open.spotify.com/track/6raLTHOzFZxCubRSJtiKH9"
     },
     {
-      "added_at": "2024-09-16 12:16:54",
-      "album": {
-        "name": "Toxic Kadhal",
-        "url": "https://open.spotify.com/album/0BDNnJKefhW86IjcnwREHN"
-      },
-      "artists": [
-        {
-          "name": "Arun Raj",
-          "url": "https://open.spotify.com/artist/2bhsKK1QgLs7fCGEYn0luF"
-        },
-        {
-          "name": "Archana",
-          "url": "https://open.spotify.com/artist/0uaopoljpu56onTz2xGIDH"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "Toxic Kadhal",
-      "url": "https://open.spotify.com/track/1mTD4UxhM9A72ZQQ1oC8pn"
-    },
-    {
-      "added_at": "2024-11-06 08:56:35",
-      "album": {
-        "name": "Uyirin Uyiraaga (From \"Soul of Promise\")",
-        "url": "https://open.spotify.com/album/28zJAr46H8CIf0lZp18zQ1"
-      },
-      "artists": [
-        {
-          "name": "Deri Lorus",
-          "url": "https://open.spotify.com/artist/5XVT4JCh2JJXmK56tF3hyx"
-        },
-        {
-          "name": "Kamalaja Rajagopal",
-          "url": "https://open.spotify.com/artist/5GA1b7IUk3ThudtQ4N35qf"
-        },
-        {
-          "name": "Manoj Muralidharan",
-          "url": "https://open.spotify.com/artist/03sc6Jb6d3C4euBZzpcVW4"
-        }
-      ],
-      "duration_ms": 194911,
-      "name": "Uyirin Uyiraaga - From \"Soul of Promise\"",
-      "url": "https://open.spotify.com/track/5zSP9JTn74UBHRD4YgqQFZ"
-    },
-    {
       "added_at": "2024-10-12 01:26:07",
       "album": {
         "name": "Kannaattiye",
@@ -837,38 +841,6 @@
       "url": "https://open.spotify.com/track/5KNWO4AbtG5LBKt03aXh3N"
     },
     {
-      "added_at": "2024-08-23 05:09:28",
-      "album": {
-        "name": "Chechi",
-        "url": "https://open.spotify.com/album/6e4ZAz8A7XIA9PBTM6bgP4"
-      },
-      "artists": [
-        {
-          "name": "Marshall",
-          "url": "https://open.spotify.com/artist/2zzq4pWs2DhacmzdKeY0eD"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Chechi",
-      "url": "https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj"
-    },
-    {
-      "added_at": "2024-10-04 05:12:27",
-      "album": {
-        "name": "Naan Vaanil Parappen",
-        "url": "https://open.spotify.com/album/6v237G5WQAvvZ04NOcH7u7"
-      },
-      "artists": [
-        {
-          "name": "S. J. Jananiy",
-          "url": "https://open.spotify.com/artist/0Rw5ubEtFD4cNhQUJUTXmI"
-        }
-      ],
-      "duration_ms": 226970,
-      "name": "Naan Vaanil Parappen",
-      "url": "https://open.spotify.com/track/1U4gHb6IjpHCZKZPfS0F6i"
-    },
-    {
       "added_at": "2024-09-30 07:51:10",
       "album": {
         "name": "BACHELOR PARTY",
@@ -903,26 +875,6 @@
       "duration_ms": 183529,
       "name": "Theerathe",
       "url": "https://open.spotify.com/track/0iuMXjVlQjKQnYlmclnBBd"
-    },
-    {
-      "added_at": "2024-09-20 05:10:18",
-      "album": {
-        "name": "AVAN AVAL",
-        "url": "https://open.spotify.com/album/2WyY4DQD80EEJH7460eScz"
-      },
-      "artists": [
-        {
-          "name": "ADY KRIZ",
-          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
-        },
-        {
-          "name": "Ajesh",
-          "url": "https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX"
-        }
-      ],
-      "duration_ms": 157666,
-      "name": "AVAN AVAL",
-      "url": "https://open.spotify.com/track/24IiIcvNr7ipqhJEgIOe34"
     },
     {
       "added_at": "2024-09-20 05:40:44",
@@ -1001,22 +953,6 @@
       "url": "https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV"
     },
     {
-      "added_at": "2024-10-04 05:12:27",
-      "album": {
-        "name": "Nee",
-        "url": "https://open.spotify.com/album/5IAcign9hCQ8D8KjbbVfz9"
-      },
-      "artists": [
-        {
-          "name": "Suginthan Janathan",
-          "url": "https://open.spotify.com/artist/2Y7jk1nAWikvbDncgAEQsq"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Nee",
-      "url": "https://open.spotify.com/track/3itbkMUedg1dRzLFxqOGtG"
-    },
-    {
       "added_at": "2024-09-20 05:02:29",
       "album": {
         "name": "Arakkiye",
@@ -1037,42 +973,6 @@
       "url": "https://open.spotify.com/track/1wAuEy3S7IMkb4e2z71TKk"
     },
     {
-      "added_at": "2024-08-28 07:37:29",
-      "album": {
-        "name": "Podu Mike",
-        "url": "https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh"
-      },
-      "artists": [
-        {
-          "name": "Killa K",
-          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
-        },
-        {
-          "name": "Yung Raja",
-          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Podu Mike",
-      "url": "https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F"
-    },
-    {
-      "added_at": "2024-09-13 04:45:53",
-      "album": {
-        "name": "Yezhundhen Nimirndhen Nadandhen",
-        "url": "https://open.spotify.com/album/0DvC4OwDXTYLRGZh8wk7iP"
-      },
-      "artists": [
-        {
-          "name": "Maalavika Sundar",
-          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
-        }
-      ],
-      "duration_ms": 266470,
-      "name": "Poti",
-      "url": "https://open.spotify.com/track/14uJkehSJn6IUXhWfVtfng"
-    },
-    {
       "added_at": "2024-08-30 06:29:43",
       "album": {
         "name": "Mona Lisa",
@@ -1087,30 +987,6 @@
       "duration_ms": 249653,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/0Gw4zIJJpCzAJSwsMpcuVJ"
-    },
-    {
-      "added_at": "2024-08-16 12:38:56",
-      "album": {
-        "name": "Oh Kanmaniye",
-        "url": "https://open.spotify.com/album/4ChiG4kmBCXR6LWbX1ig6p"
-      },
-      "artists": [
-        {
-          "name": "Dhayanesh Kumar R",
-          "url": "https://open.spotify.com/artist/3RMR9E25rkqAVcYdaheO3f"
-        },
-        {
-          "name": "Sam Vishal",
-          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
-        },
-        {
-          "name": "Padmaja Sreeenivasan",
-          "url": "https://open.spotify.com/artist/2SVKMYeIcn3iTeKmI1cJpD"
-        }
-      ],
-      "duration_ms": 215996,
-      "name": "Oh Kanmaniye",
-      "url": "https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C"
     },
     {
       "added_at": "2024-10-04 05:12:27",
@@ -1131,30 +1007,6 @@
       "duration_ms": 260385,
       "name": "Thakida Thaha Thaha",
       "url": "https://open.spotify.com/track/08pNMQbnifUtYFWRWzHVBc"
-    },
-    {
-      "added_at": "2024-08-09 13:41:48",
-      "album": {
-        "name": "Aahaa Penney",
-        "url": "https://open.spotify.com/album/1cqMkRGI6Wuj0ccPVqr26L"
-      },
-      "artists": [
-        {
-          "name": "Rahul Vishwa",
-          "url": "https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu"
-        },
-        {
-          "name": "Rafi Yoke",
-          "url": "https://open.spotify.com/artist/6v1svztdRgyILSUhLWN6Xy"
-        },
-        {
-          "name": "Arjun Muralidharan",
-          "url": "https://open.spotify.com/artist/634iLUrDyXGlNzvhsAiPNH"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Aahaa Penney",
-      "url": "https://open.spotify.com/track/7Kf1dOawUard8B9qpue80n"
     }
   ],
   "unique_name": "RADAR Tamil",

@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Can\u00e7\u00f3 de la padrina",
+        "url": "https://open.spotify.com/album/7lzplvNcNHTAx8CVR3CuSS"
+      },
+      "artists": [
+        {
+          "name": "Albert Pla",
+          "url": "https://open.spotify.com/artist/0oIls1SE66gDuk4BZObFaN"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Can\u00e7\u00f3 de la padrina",
+      "url": "https://open.spotify.com/track/2JOzhuIQ8yqxHxFWqyimrt"
+    },
+    {
+      "album": {
         "name": "Can\u00e7\u00f3 de Nadal",
         "url": "https://open.spotify.com/album/0UakZEMLJxs9SZ9HZSE8IJ"
       },
@@ -1907,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
+        "url": "https://open.spotify.com/album/015oPbX4Y20S6ZgZdkEVKH"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Escolta-ho en el vent (Blowin\u00b4 in the wind)",
+      "url": "https://open.spotify.com/track/2jflLgaeCHBqe0gxvSVzQw"
+    },
+    {
+      "album": {
         "name": "Escorpiano",
         "url": "https://open.spotify.com/album/0Ej1bVU7yEHxoBLqP11l9D"
       },
@@ -2432,7 +2468,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 144680,
       "name": "L'estaca",
       "url": "https://open.spotify.com/track/6V6p3kX685TlL51aeSgzpa"
@@ -3150,7 +3186,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 197213,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
@@ -3788,7 +3824,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 247028,
       "name": "No olvidarme de olvidar (feat. Carlos Rivera)",
       "url": "https://open.spotify.com/track/6yBLXllgkD2UFZdYHiTNHy"
@@ -4023,6 +4059,24 @@
     },
     {
       "album": {
+        "name": "Paloma Negra",
+        "url": "https://open.spotify.com/album/3egDtwPTtMNqDletQkLbXA"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193781,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/7pgmi4lsRXWh78vge5CaT9"
+    },
+    {
+      "album": {
         "name": "Cantautores Universales",
         "url": "https://open.spotify.com/album/5QCqr4YOzZaCKoQ7dZibXM"
       },
@@ -4184,7 +4238,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 172000,
       "name": "Pasaba por Aqui",
       "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
@@ -4994,7 +5048,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 163900,
       "name": "Siempre Queda El Amor",
       "url": "https://open.spotify.com/track/6cjHd8IBh4L7Zy1fJE6OWK"
@@ -5242,6 +5296,32 @@
       "duration_ms": 251666,
       "name": "Solo Pienso en Ti",
       "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+    },
+    {
+      "album": {
+        "name": "Parceiros, Vol. 3",
+        "url": "https://open.spotify.com/album/0iOAjduxkyRrCrU1n4G8Km"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        },
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        },
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195836,
+      "name": "Somos Un R\u00edo",
+      "url": "https://open.spotify.com/track/2lC3EUr2TUs0qDgh184X6E"
     },
     {
       "album": {
@@ -5660,6 +5740,24 @@
       "duration_ms": 217146,
       "name": "Todo se transforma",
       "url": "https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA"
+    },
+    {
+      "album": {
+        "name": "Todo te parece normal",
+        "url": "https://open.spotify.com/album/6w60jUW5MJdacklytIan1H"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296669,
+      "name": "Todo te parece normal",
+      "url": "https://open.spotify.com/track/1jQ695vF4J7RQz9vHhHj80"
     },
     {
       "album": {

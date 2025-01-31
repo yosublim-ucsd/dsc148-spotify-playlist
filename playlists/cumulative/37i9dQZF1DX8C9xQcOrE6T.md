@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & Mufasa: The Lion King.
 
-221 songs - 11 hr 15 min
+222 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 | 2022-04-01 | 2024-07-11 |
 | [It's All Right](https://open.spotify.com/track/4gzwK4RdSK9M43vPY68J2Y) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:50 | 2022-04-01 |  |
 | [Just Around the Riverbend](https://open.spotify.com/track/6P316E7tFylzpVrDrXVF9s) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Pocahontas](https://open.spotify.com/album/7L6kEZVkWh7OEI71b1JHZd) | 2:27 | 2022-04-01 |  |
+| [Kingdom Dance](https://open.spotify.com/track/1r6jjBkaAjGp09h2R6heZp) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:20 | 2025-01-30 |  |
 | [Kiss the Girl](https://open.spotify.com/track/2f2F4z8BOi15hum9aEVDUP) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Awkwafina](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx), [Jacob Tremblay](https://open.spotify.com/artist/1RuyU38m8bFrOef3EeRHM8), [Ensemble \- The Little Mermaid](https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 3:16 | 2023-05-19 | 2023-08-16 |
 | [Kiss the Girl](https://open.spotify.com/track/4NMNwdmbiSGlDdMha5k6ks) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Awkwafina](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx), [Jacob Tremblay](https://open.spotify.com/artist/1RuyU38m8bFrOef3EeRHM8), [Ensemble \- The Little Mermaid](https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk) | 3:16 | 2023-08-15 | 2024-07-11 |
 | [Kiss the Girl \- Remastered 2014](https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst) | 2:40 | 2022-04-01 |  |

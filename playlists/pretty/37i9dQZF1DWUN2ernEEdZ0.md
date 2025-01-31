@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 
 > Introducing the hottest new classical music of 2025🔥<br/>Cover: Jeneba Kanneh\-Mason.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140 likes - 36 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 261 likes - 36 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 33 | [Piano Sonata in B Minor, S\. 178: Espressivo](https://open.spotify.com/track/3F1KUBM9Yr0pq6K7FPOcfp) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lise de la Salle](https://open.spotify.com/artist/1Z6QKxH36L3ff4yhBD3r1W) | [Liszt: Espressivo \(from Piano Sonata in B Minor, S\. 178\)](https://open.spotify.com/album/7LhcRWE14SxBw1Z54rNlcn) | 2:05 |
 | 34 | [Opera \(Paris\)](https://open.spotify.com/track/3DvbPJL6yFXhgp4mD5j5fD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Paris](https://open.spotify.com/album/7LSOjGfETku2oPC7mr6ubo) | 4:41 |
 | 35 | [My Way of Light](https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [My Way of Light](https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF) | 3:16 |
-| 36 | [Tchaikovsky Piano Concerto No\. 1 Variation \(After Piano Concerto No\. 1, Op\. 23, Arr\. for Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/1KJMTyjlSgBTARQys99vxL) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Tchaikovsky Piano Concerto No\. 1 Variation](https://open.spotify.com/album/1pRM0fBJpDkRdROKP8Lobn) | 2:52 |
+| 36 | [Tchaikovsky Piano Concerto No\. 1 Variation \(After Piano Concerto No\. 1, Op\. 23, Arr\. for Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/1KJMTyjlSgBTARQys99vxL) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Tchaikovsky Piano Concerto No\. 1 Variation](https://open.spotify.com/album/1pRM0fBJpDkRdROKP8Lobn) | 2:52 |
 
 Snapshot ID: `Z5ecyAAAAABs0dukOWE6F+NTc7h71Gfy`

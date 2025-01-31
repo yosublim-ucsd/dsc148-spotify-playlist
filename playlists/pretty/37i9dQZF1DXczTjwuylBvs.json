@@ -1,12 +1,12 @@
 {
   "description": "All the best songs from your favorite classic Disney films, TV shows and more.",
-  "num_followers": 383683,
+  "num_followers": 383746,
   "original_name": "Disney Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy0i5QAAAACKfAJjQR5UOkxVlX7aRSS+",
+  "snapshot_id": "Z5vwtAAAAAB1OFro5phqtpRA+WEPutYQ",
   "tracks": [
     {
       "added_at": "2023-02-09 15:53:23",
@@ -75,6 +75,26 @@
       "duration_ms": 58120,
       "name": "Oo-De-Lally - From \"Robin Hood\"",
       "url": "https://open.spotify.com/track/0mWXrr6HQZUhCQG4JMkT2e"
+    },
+    {
+      "added_at": "2025-01-30 21:35:48",
+      "album": {
+        "name": "Cinderella Special Edition (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q"
+      },
+      "artists": [
+        {
+          "name": "Ilene Woods",
+          "url": "https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj"
+        },
+        {
+          "name": "Mike Douglas",
+          "url": "https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI"
+        }
+      ],
+      "duration_ms": 344973,
+      "name": "Reception At The Palace / So This Is Love",
+      "url": "https://open.spotify.com/track/5R0oa0GOwH8pjWMYyDxQ9M"
     },
     {
       "added_at": "2023-02-09 15:53:23",

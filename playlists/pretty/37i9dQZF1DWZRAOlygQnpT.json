@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar! Los Locos del Ritmo en portada.",
-  "num_followers": 97838,
+  "num_followers": 97875,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Onda Juvenil 25 Aniversario",
-        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
-      },
-      "artists": [
-        {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
-        }
-      ],
-      "duration_ms": 134480,
-      "name": "La Plaga (Good Golly, Miss Molly)",
-      "url": "https://open.spotify.com/track/7yPAsPa7EOp1w3PT6ng0l8"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 162546,
       "name": "A Trav\u00e9s De Los A\u00f1os",
       "url": "https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "La Onda Juvenil 25 Aniversario",
+        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 134480,
+      "name": "La Plaga (Good Golly, Miss Molly)",
+      "url": "https://open.spotify.com/track/7yPAsPa7EOp1w3PT6ng0l8"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
-      },
-      "artists": [
-        {
-          "name": "Abril",
-          "url": "https://open.spotify.com/artist/6i3CrGDk8vbDsddphpPbCG"
-        }
-      ],
-      "duration_ms": 141280,
-      "name": "La Catedral De Winchestern",
-      "url": "https://open.spotify.com/track/7wbROPLgipLyC5OYe2SxxW"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
         "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 156213,
       "name": "Fiebre - Fever",
       "url": "https://open.spotify.com/track/5Lp5euQo2kUiBRWopCiZFE"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+      },
+      "artists": [
+        {
+          "name": "Abril",
+          "url": "https://open.spotify.com/artist/6i3CrGDk8vbDsddphpPbCG"
+        }
+      ],
+      "duration_ms": 141280,
+      "name": "La Catedral De Winchestern",
+      "url": "https://open.spotify.com/track/7wbROPLgipLyC5OYe2SxxW"
     },
     {
       "added_at": "2020-04-17 21:51:59",

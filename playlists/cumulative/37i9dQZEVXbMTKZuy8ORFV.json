@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
@@ -3976,7 +3976,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 120053,
       "name": "CHESS TYPE BEAT",
       "url": "https://open.spotify.com/track/1FgcRLca2X8uhLh0fshvRW"
@@ -5412,6 +5412,24 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
+    },
+    {
+      "album": {
+        "name": "Josu\u00e9 Bom de Faixa",
+        "url": "https://open.spotify.com/album/5lu0V0fuuFBi40qe4vTAsD"
+      },
+      "artists": [
+        {
+          "name": "Josu\u00e9 Bom de Faixa",
+          "url": "https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240784,
+      "name": "Deixa Eu Falar pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/23E0Cqv8c0PFGSWZ1F5T0V"
     },
     {
       "album": {
@@ -7036,6 +7054,28 @@
       "duration_ms": 83754,
       "name": "Eu Sento Gabu!",
       "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
+    },
+    {
+      "album": {
+        "name": "LOKO NAH",
+        "url": "https://open.spotify.com/album/3E8GevKNSYY105n0dzt7Dr"
+      },
+      "artists": [
+        {
+          "name": "Aestus",
+          "url": "https://open.spotify.com/artist/3Zpqcw9f2Teu5tFEvKKv5j"
+        },
+        {
+          "name": "Ruan Vitor",
+          "url": "https://open.spotify.com/artist/52r6egZqN7n6JpVkP7LnWG"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256838,
+      "name": "EU TAVA AQUI PENSADO - Remix",
+      "url": "https://open.spotify.com/track/5xH45sa2UNt8K6s4PMqGT1"
     },
     {
       "album": {
@@ -10116,7 +10156,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
@@ -11020,7 +11060,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -12586,7 +12626,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 100263,
       "name": "MI MAMI FUNK, Vol. 2 - Ultra Slowed",
       "url": "https://open.spotify.com/track/4gAjWKO67qLFrWHZmuK5h6"
@@ -13212,7 +13252,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 91906,
       "name": "MONTAGEM BRAVO - Slowed",
       "url": "https://open.spotify.com/track/32aXDvXy4eYqQnXfD9pbh9"
@@ -14696,7 +14736,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 166861,
       "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
       "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
@@ -19470,6 +19510,32 @@
       "duration_ms": 150365,
       "name": "Tal Vez Fui Yo",
       "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
+    },
+    {
+      "album": {
+        "name": "Tando",
+        "url": "https://open.spotify.com/album/1CuAuA3zQlS8y1PzvQc2Dj"
+      },
+      "artists": [
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Tando",
+      "url": "https://open.spotify.com/track/4seW5sDVICaZw34NzrHPm0"
     },
     {
       "album": {

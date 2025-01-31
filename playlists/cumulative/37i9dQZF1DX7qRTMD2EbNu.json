@@ -897,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Akorfa",
+        "url": "https://open.spotify.com/album/7gCyJwNjycvJfQDeVXGUrk"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Lighter Tod",
+          "url": "https://open.spotify.com/artist/3b3Vzpjyj5I1xOmVVKglUk"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Akorfa",
+      "url": "https://open.spotify.com/track/3CL86NHbA0NjfdS28TE2Wb"
+    },
+    {
+      "album": {
         "name": "All Gas No Breaks",
         "url": "https://open.spotify.com/album/563vOOWujyM8dwQKzYhGMP"
       },
@@ -2952,6 +2974,40 @@
       "duration_ms": 220952,
       "name": "Country Side (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/0l5PUtqMNfggchPClxUBhS"
+    },
+    {
+      "album": {
+        "name": "CRISIS",
+        "url": "https://open.spotify.com/album/7bV9ELkEsGpZTZQiaI1tld"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        },
+        {
+          "name": "Odeneho Cannella",
+          "url": "https://open.spotify.com/artist/3HrH8Q91vXDbtZfClmGx8S"
+        },
+        {
+          "name": "Trooth Wordsmith",
+          "url": "https://open.spotify.com/artist/25ylH6723asTuXtM0aNNtY"
+        },
+        {
+          "name": "Korley Black",
+          "url": "https://open.spotify.com/artist/3g56Qc9wiWt4pVNKEtl72h"
+        },
+        {
+          "name": "Tician Ruler",
+          "url": "https://open.spotify.com/artist/30ftkV0MxFKEp4yvDWoXUq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223477,
+      "name": "CRISIS",
+      "url": "https://open.spotify.com/track/2hbJRWrSu5zzD1GbQfPzxX"
     },
     {
       "album": {
@@ -6400,7 +6456,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 137183,
       "name": "KABUTEY FLOW",
       "url": "https://open.spotify.com/track/7JS8FzTaLZEQFhTHTXinLY"
@@ -6436,7 +6492,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 152659,
       "name": "Kasapa",
       "url": "https://open.spotify.com/track/25LQCtFin5sJl6AERRvLD8"
@@ -8402,7 +8458,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 161095,
       "name": "Never Broke Again - Drill Version",
       "url": "https://open.spotify.com/track/4jdXtRXNXlDUnyEa8V0O5h"
@@ -11800,6 +11856,28 @@
       "duration_ms": 164737,
       "name": "Smh",
       "url": "https://open.spotify.com/track/280YCYuKiMjvFozOhC7b6H"
+    },
+    {
+      "album": {
+        "name": "So it Goes",
+        "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223585,
+      "name": "So it Goes",
+      "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 104708,
+  "num_followers": 104753,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
-      },
-      "artists": [
-        {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        },
-        {
-          "name": "Dawncall",
-          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
-        }
-      ],
-      "duration_ms": 259310,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "RITUAL",
         "url": "https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 461056,
       "name": "part ii - palace / illusion",
       "url": "https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
+      },
+      "artists": [
+        {
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        },
+        {
+          "name": "Dawncall",
+          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
+        }
+      ],
+      "duration_ms": 259310,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
+        "name": "Selected Ambient Works Volume II (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 414706,
+      "name": "#9",
+      "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
         "name": "Under the Sun",
         "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
@@ -875,18 +891,26 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Selected Ambient Works Volume II (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i"
+        "name": "Worlds Collide (Hannes Kretzer Rework)",
+        "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        },
+        {
+          "name": "Morten Reppesg\u00e5rd",
+          "url": "https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI"
+        },
+        {
+          "name": "Hannes Kretzer",
+          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
         }
       ],
-      "duration_ms": 414706,
-      "name": "#9",
-      "url": "https://open.spotify.com/track/5ENGMUqWPZN1vTtk1bWOmA"
+      "duration_ms": 231340,
+      "name": "Worlds Collide - Hannes Kretzer Rework",
+      "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -947,30 +971,6 @@
       "duration_ms": 52808,
       "name": "Mirror bridge",
       "url": "https://open.spotify.com/track/7akTj5h69yPLmob9xapvzW"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Worlds Collide (Hannes Kretzer Rework)",
-        "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
-      },
-      "artists": [
-        {
-          "name": "Vetle N\u00e6r\u00f8",
-          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
-        },
-        {
-          "name": "Morten Reppesg\u00e5rd",
-          "url": "https://open.spotify.com/artist/5jAzP0mkUinJrV4NdUHjJI"
-        },
-        {
-          "name": "Hannes Kretzer",
-          "url": "https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe"
-        }
-      ],
-      "duration_ms": 231340,
-      "name": "Worlds Collide - Hannes Kretzer Rework",
-      "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Piedras 2",
-        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Jaar",
-          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
-        }
-      ],
-      "duration_ms": 139184,
-      "name": "Heterodina",
-      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Night Journeys",
         "url": "https://open.spotify.com/album/3re0yXQcWx7n6FOZbmSgcY"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 172000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/0ueQD35KaDdJ5gSmLebaIa"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Piedras 2",
+        "url": "https://open.spotify.com/album/0KKT859rTA4Ip7zUzIrTGL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Jaar",
+          "url": "https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W"
+        }
+      ],
+      "duration_ms": 139184,
+      "name": "Heterodina",
+      "url": "https://open.spotify.com/track/3rVv4M9yEtIebntD1vYi0J"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Plants",
+      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
         "name": "By the Air (Six Missing Rework)",
         "url": "https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF"
       },
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+        "name": "Statik",
+        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
       },
       "artists": [
         {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
         }
       ],
-      "duration_ms": 218193,
-      "name": "Plants",
-      "url": "https://open.spotify.com/track/249vaomDI0QnrJlT5oqAtp"
+      "duration_ms": 334589,
+      "name": "Ray",
+      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1235,22 +1251,6 @@
       "duration_ms": 378291,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/0jFkXMZkTjM4ECnGKJBkIP"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
-        "name": "Statik",
-        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 334589,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/0Hh09VwsjC67FlO12frFuU"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "What Is Not Strange?",
-        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
       },
       "artists": [
         {
-          "name": "Tashi Wada",
-          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
         },
         {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 125000,
-      "name": "What Is Not Strange?",
-      "url": "https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg"
+      "duration_ms": 278174,
+      "name": "Sine Waves",
+      "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
+        "name": "What Is Not Strange?",
+        "url": "https://open.spotify.com/album/0WSGeEJ3ByDwxy9iO65myt"
       },
       "artists": [
         {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+          "name": "Tashi Wada",
+          "url": "https://open.spotify.com/artist/6pDLBDQwtLpoG0YIUfM3O2"
         },
         {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
         }
       ],
-      "duration_ms": 278174,
-      "name": "Sine Waves",
-      "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+      "duration_ms": 125000,
+      "name": "What Is Not Strange?",
+      "url": "https://open.spotify.com/track/1ehrwH48GyE1AXHm4sGmtg"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Statik",
-        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 273788,
-      "name": "System Verse",
-      "url": "https://open.spotify.com/track/2n8TyIihmB0LCOZR2jQw85"
-    },
-    {
-      "added_at": "2025-01-24 05:00:56",
-      "album": {
         "name": "Cast Remixes Part III",
         "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
+    },
+    {
+      "added_at": "2025-01-24 05:00:56",
+      "album": {
+        "name": "Statik",
+        "url": "https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 273788,
+      "name": "System Verse",
+      "url": "https://open.spotify.com/track/2n8TyIihmB0LCOZR2jQw85"
     },
     {
       "added_at": "2025-01-24 05:00:56",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2025-01-24 05:00:56",
       "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+        "name": "Bancha",
+        "url": "https://open.spotify.com/album/47kqnIaOF6PozqltcBuDsX"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "Shek O",
+          "url": "https://open.spotify.com/artist/3J5HctpEBnIATMWXaZUT2v"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
+      "duration_ms": 231000,
+      "name": "Hot Milk",
+      "url": "https://open.spotify.com/track/72ftfYtMxmOH86Vu5p0rDf"
     }
   ],
   "unique_name": "Electronic X",

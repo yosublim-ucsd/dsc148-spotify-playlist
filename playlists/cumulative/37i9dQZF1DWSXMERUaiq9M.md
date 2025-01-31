@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-442 songs - 1 day 4 hr 9 min
+443 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cut It \- Original Mix](https://open.spotify.com/track/6kTT8AcENWGhgbEwVeMMty) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [COLOR VA03](https://open.spotify.com/album/7hKxU851bFxIWHD8NH3XgR) | 6:43 | 2023-06-09 | 2023-06-16 |
 | [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-25 |  |
 | [Da Beat Goes](https://open.spotify.com/track/0c69i7dEofhykHqM9mU4Qi) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Da Beat Goes](https://open.spotify.com/album/5zxIcrySHLJFClX3lfjBS2) | 2:24 | 2024-09-16 | 2024-10-11 |
-| [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-25 |  |
+| [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-25 | 2025-01-31 |
 | [Daddy's Issue](https://open.spotify.com/track/6vzN8Hr9rJ8Bk5OnHAxei0) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Daddy's Issue](https://open.spotify.com/album/33OZ6sGO6ahdHOjr0KDls3) | 4:37 | 2024-02-22 | 2024-03-23 |
 | [Damager](https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Damager](https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB) | 3:44 | 2025-01-20 |  |
 | [Dance](https://open.spotify.com/track/4CIxgvDwjSnZJQSpZSPmte) | [Heggemann](https://open.spotify.com/artist/4887FTCAl0wdw3jwpkGq6d) | [Dance](https://open.spotify.com/album/3Yak9mqgWt0VXjCcaeqIFb) | 2:38 | 2024-03-29 | 2024-04-06 |
@@ -223,6 +223,7 @@
 | [La Batteria \- X\-COAST Remix](https://open.spotify.com/track/6HClx0gNRN4CD4EzMKf7o9) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [X\-COAST](https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ) | [La Batteria \(X\-COAST Remix\)](https://open.spotify.com/album/04unlS9H1Oxe5zFJrcHHgX) | 4:02 | 2024-08-12 | 2024-12-10 |
 | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/track/74859SONTVsXf1Cpdl8t3g) | [Geo22](https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr), [2002](https://open.spotify.com/artist/6zVSYiNDYelMzhMiZQJU7W) | [Lady of the Moon \(Geo22 Edit\)](https://open.spotify.com/album/4N1XvwsjPGm2ghapARnpn3) | 3:39 | 2023-11-09 | 2023-11-17 |
 | [Lalala \- 4am Club Mix](https://open.spotify.com/track/2BrjxcaFVwTVyObNix7d5W) | [Leo Pol](https://open.spotify.com/artist/2PBE0KQEqT34oYjjFyI9Mz), [Zinda Reinhardt](https://open.spotify.com/artist/5UwjmM9lYXJ4RIyabSSE8s) | [Lalala](https://open.spotify.com/album/78tFhBC20K9FouxalWWWAK) | 5:36 | 2024-12-28 | 2025-01-07 |
+| [Last Time Under Purple Skies](https://open.spotify.com/track/1JYACIHJjFOUzOnbxUBmLm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Last Time Under Purple Skies](https://open.spotify.com/album/0SH7q3HmEjk11tNZNzbHOr) | 3:21 | 2025-01-30 |  |
 | [Leave it to the vibe](https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [slash 004 \- Leave it to the vibe](https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs) | 6:58 | 2023-05-18 | 2023-07-14 |
 | [Left On Read](https://open.spotify.com/track/6KNrgoXljii0isy9i7JaqP) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Don't Stop](https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O) | 3:10 | 2024-10-10 | 2024-10-18 |
 | [Let UwU Go](https://open.spotify.com/track/3QSBy7qDcKaBCCLxNCvSRe) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt) | [Let UwU Go](https://open.spotify.com/album/0XPTuN0nuRwzgbSGJod0Gg) | 2:55 | 2023-11-23 | 2023-12-01 |

@@ -4,7 +4,7 @@
 
 > All the best songs from your favorite classic Disney films, TV shows and more.
 
-209 songs - 10 hr 41 min
+210 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Out There](https://open.spotify.com/track/7cX2nwvVfWW3bfScg2f15K) | [Tony Jay](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD), [Tom Hulce](https://open.spotify.com/artist/4wd5K3s3ekf0czSh2qGjTD) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 4:25 | 2023-02-09 |  |
 | [Out There \- From "The Hunchback of Notre Dame"](https://open.spotify.com/track/6k2nri6GP47aTuImAXTXXN) | [Tony Jay](https://open.spotify.com/artist/5qQpn0ZokyamZjyKtkKUYD), [Tom Hulce](https://open.spotify.com/artist/4wd5K3s3ekf0czSh2qGjTD) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 4:23 | 2023-02-09 | 2024-06-06 |
 | [Part Of Your World \- From "The Little Mermaid"](https://open.spotify.com/track/4UW8c9JSzoyjErfmmMkInw) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [We Love Disney](https://open.spotify.com/album/3VZhtobnayfWeRS5Nm2uSu) | 3:20 | 2023-02-09 |  |
+| [Reception At The Palace / So This Is Love](https://open.spotify.com/track/5R0oa0GOwH8pjWMYyDxQ9M) | [Ilene Woods](https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj), [Mike Douglas](https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI) | [Cinderella Special Edition \(Original Motion Picture Soundtrack/Japanese Version\)](https://open.spotify.com/album/3QAxBLpXRLVMh1dRtuQa0q) | 5:44 | 2025-01-30 |  |
 | [Reflection](https://open.spotify.com/track/2AILbz83cBnrAMAG06rZts) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Mulan \(Original Soundtrack\)](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 2:26 | 2023-02-09 |  |
 | [Reflection \- From "Mulan"](https://open.spotify.com/track/4vi1NA69kryiJp2ohV2r1F) | [Lea Salonga](https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 2:25 | 2023-02-09 | 2024-06-06 |
 | [Rockin' at the House of Mouse \(Extended Version\) \- From "House of Mouse"](https://open.spotify.com/track/6ZrmoFx7GBfdlTFrE1TkiF) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Disney Classics](https://open.spotify.com/album/6b4nBlM4ofUKA0mcb1b9oF) | 2:33 | 2023-02-09 | 2024-06-06 |

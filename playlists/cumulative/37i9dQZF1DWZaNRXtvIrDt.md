@@ -2,9 +2,9 @@
 
 ### [Portal](https://open.spotify.com/playlist/37i9dQZF1DWZaNRXtvIrDt)
 
-> A new world of alternative electronic music\. Cover: VV Pete
+> A new world of alternative electronic music\. Cover: Joy Orbison
 
-879 songs - 2 day 14 hr 22 min
+884 songs - 2 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [back2u](https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [back2u](https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG) | 2:38 | 2024-05-09 | 2024-07-27 |
 | [Backbackback](https://open.spotify.com/track/3JiI6K2hmcYpxdGhibW10X) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [Backbackback](https://open.spotify.com/album/5qOfR5Qa36l2z24mWnzr2k) | 3:53 | 2024-06-27 | 2024-08-23 |
 | [Backshifting](https://open.spotify.com/track/7AsthFcXBLZlGAyDpljpoy) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Backshifting](https://open.spotify.com/album/5H96oSbsd5Ob8DqOAMHIS7) | 4:04 | 2023-11-16 | 2024-04-30 |
+| [Backtothe](https://open.spotify.com/track/4i2J5OK7POU7JffOlAUxfO) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Melomaniac 002](https://open.spotify.com/album/0sviftr74ZZK8tcIbTmheD) | 3:07 | 2025-01-30 |  |
 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 | 2023-08-03 | 2023-09-22 |
 | [Bad Lines](https://open.spotify.com/track/2loO0mL3yxH650l9wq7KKQ) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Bad Lines](https://open.spotify.com/album/4EoeTFWnMAHHnh0NfSlA6o) | 3:50 | 2023-09-28 | 2023-11-24 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-16 | 2024-07-05 |
@@ -93,6 +94,7 @@
 | [Basilisk](https://open.spotify.com/track/0JtZWbLmRuBDRKFaU9o2pL) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [AJ^6](https://open.spotify.com/album/6818Zvytt78CpfD2rgnMh7) | 4:56 | 2023-04-27 | 2023-06-02 |
 | [Bass Keeps Calling](https://open.spotify.com/track/1vstmym0SNbos2IOaOfTOg) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W) | [Bass Keeps Calling](https://open.spotify.com/album/3l2cTC2QR8SzHjPImhLXzt) | 2:52 | 2024-02-16 | 2024-07-12 |
 | [Bassian Plain](https://open.spotify.com/track/2iRe0A5hRK96LsjO6DYiwE) | [Donald's House](https://open.spotify.com/artist/48Dnzf6Mfo0Z5gjpOKVuLP) | [Bassian Plain EP](https://open.spotify.com/album/6mrUBGC38bWSZhZSsfsG5O) | 7:09 | 2022-12-08 | 2023-02-17 |
+| [bastard](https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [bastard](https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0) | 2:16 | 2025-01-30 |  |
 | [Be My Medicine](https://open.spotify.com/track/6uE1YaulY9ZIb5zt5ChrEA) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Be My Medicine](https://open.spotify.com/album/63AIHLFfC1N6ypVOlySENg) | 4:34 | 2024-03-21 | 2024-07-05 |
 | [Beautiful Dancers](https://open.spotify.com/track/4UzYOXWZU0w79GuKMXobpc) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Beautiful Dancers](https://open.spotify.com/album/5EE6lWnCXFGVjeTCsmUQY8) | 6:14 | 2024-04-16 | 2024-06-28 |
 | [Beautiful Strangers](https://open.spotify.com/track/5Un6I8vHv1x0HdWEXjOgwc) | [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Beautiful Strangers](https://open.spotify.com/album/188fPxDRvpLMpq3q9a0geW) | 3:57 | 2023-05-25 | 2023-08-04 |
@@ -278,6 +280,7 @@
 | [Eyes Ablaze](https://open.spotify.com/track/2XyONYSVdVe78Ecdtfy09t) | [Blake.08](https://open.spotify.com/artist/7J6WMh4LEpLud71vkMUb2U) | [Eyes Ablaze EP](https://open.spotify.com/album/1gvzF7UWZqhWz0T5R6YryB) | 3:16 | 2023-08-24 | 2023-10-13 |
 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 | 2024-12-12 |  |
 | [F.U.](https://open.spotify.com/track/7LSMkz6hAlMqt1qNqlA5V6) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [F.U.](https://open.spotify.com/album/59Vusax4IuNkWBWkNfLx8d) | 2:55 | 2023-10-12 | 2024-02-23 |
+| [F.U.](https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [In Waves \(Deluxe\)](https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS) | 3:37 | 2025-01-30 |  |
 | [Face](https://open.spotify.com/track/7gw9TJqZ4e16o6EeQFGChk) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [Face](https://open.spotify.com/album/6NehSz7c2uXH4uQYN2qX70) | 3:36 | 2022-12-08 | 2023-02-24 |
 | [Face Melter](https://open.spotify.com/track/2IL6jnAhMa6VaTKX5QIJmG) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh) | [Face Melter](https://open.spotify.com/album/1WsmEpjFVCMT3Fc49ZCKyL) | 4:17 | 2024-09-26 | 2024-11-08 |
 | [Fades](https://open.spotify.com/track/4FFuuMwD5zpxqnP5EVzX7n) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Fades](https://open.spotify.com/album/6s4IQIAhaKmSKGc74GIuMT) | 6:12 | 2022-12-08 | 2023-03-03 |
@@ -611,6 +614,7 @@
 | [Pleasure \- Original Vox Mix](https://open.spotify.com/track/0wGZ0gl1g04dAYFB0IeTji) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Pleasure](https://open.spotify.com/album/1nUIIkaakagx1UUd4R1yKd) | 6:43 | 2023-10-12 | 2024-03-01 |
 | [Plot Twist \- Edit](https://open.spotify.com/track/0I48OElZW89XwA45tYtoYf) | [CCL](https://open.spotify.com/artist/0suhJuu3BRMRFZRzEzPpnw) | [Plot Twist](https://open.spotify.com/album/0SRKvrbqExsgPMGYad67En) | 3:38 | 2024-11-22 |  |
 | [Polite](https://open.spotify.com/track/4JdD2un3BjFGApauSkPIMv) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Shanique Marie](https://open.spotify.com/artist/6iMJjTp6P8nIwfan6pgPuA) | [Polite](https://open.spotify.com/album/16fc4iyTTvTld5SnBZO8zH) | 3:46 | 2024-10-03 |  |
+| [PONY \(RIDE ME\)](https://open.spotify.com/track/20lRk7PefckQyVINUfhRuH) | [BIG WETT](https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB) | [PONY \(RIDE ME\)](https://open.spotify.com/album/6np6tnmDQv0uWg4IugVNdW) | 2:48 | 2025-01-30 |  |
 | [Positive Vibe Tribe](https://open.spotify.com/track/6XwFasS773gtriS9dSO5Na) | [River Yarra](https://open.spotify.com/artist/2pNERfYCXwSbcFC02Rhume) | [Positive Vibe Tribe](https://open.spotify.com/album/202dQdfSfijkDi8joBcYL8) | 4:38 | 2023-04-06 | 2023-04-28 |
 | [Pressure](https://open.spotify.com/track/67U4c4ogb7pWU3uRINXnrn) | [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Pressure](https://open.spotify.com/album/3cSRHBRgdNFGHIlxKIIBDr) | 4:43 | 2023-09-28 | 2023-11-24 |
 | [Promises](https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises](https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF) | 3:28 | 2024-02-16 | 2024-08-23 |
@@ -773,6 +777,7 @@
 | [Tell Me](https://open.spotify.com/track/4gc5FbQJ6yuBg1eBkT46t7) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Tell Me / AM](https://open.spotify.com/album/7CSYqjNd0E8C007HUrzDaH) | 4:16 | 2023-04-27 | 2023-07-14 |
 | [Tell Me What's In Your Head \- Charlie Shell Remix](https://open.spotify.com/track/51JUabNeL65vI6HiarXsQ5) | [Lollie](https://open.spotify.com/artist/66RJJrYq5095FVx7L0cRY1), [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [Tell Me What's in Your Head \(Charlie Shell Remix\)](https://open.spotify.com/album/6EvrGdMDiIAMlD7SPXAOJt) | 3:10 | 2024-08-23 | 2024-10-04 |
 | [Temple Ball](https://open.spotify.com/track/7Ah1d6NCuGZu9cBUUgKF1H) | [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [Artefacts](https://open.spotify.com/album/3Z8SR7Wc9EETlyQoPRZnx3) | 5:34 | 2022-12-22 | 2023-03-03 |
+| [TEMPO](https://open.spotify.com/track/6onDQO5YoJX83RzAV2m0wN) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [TEMPO](https://open.spotify.com/album/4ycWtoMMvLwccXEjXxpmeh) | 3:14 | 2025-01-30 |  |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-12 | 2024-04-17 |
 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-08 | 2023-07-31 |
 | [Territory Day](https://open.spotify.com/track/2dCiAgUGQFIYrTElfh2kyS) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Under Utopia](https://open.spotify.com/album/4r75jSauKUwbdck8KUmCRP) | 5:26 | 2023-07-27 | 2023-08-18 |

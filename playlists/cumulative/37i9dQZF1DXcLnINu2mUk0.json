@@ -656,7 +656,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 160982,
       "name": "Alma do Neg\u00f3cio",
       "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 156444,
       "name": "Dar de mim",
       "url": "https://open.spotify.com/track/0dPtDXCcLs0FQ84YdQ1aXn"
@@ -3300,6 +3300,32 @@
       "duration_ms": 206400,
       "name": "Deixa Arder",
       "url": "https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP"
+    },
+    {
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "Delulu (with Nenny & MC PH)",
+      "url": "https://open.spotify.com/track/0dimwLCNAWr0iPUOJOW3vF"
     },
     {
       "album": {
@@ -4129,6 +4155,36 @@
     },
     {
       "album": {
+        "name": "Espinho",
+        "url": "https://open.spotify.com/album/7ptDywQb8peMdUUDPNjIGk"
+      },
+      "artists": [
+        {
+          "name": "AVALANCHE",
+          "url": "https://open.spotify.com/artist/1BRFw2SgH5VM5P0FLmFp3z"
+        },
+        {
+          "name": "LEFT.",
+          "url": "https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb"
+        },
+        {
+          "name": "Sara Megre",
+          "url": "https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd"
+        },
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Espinho",
+      "url": "https://open.spotify.com/track/5zW8tYDz09Z8Y3ckKjfKeT"
+    },
+    {
+      "album": {
         "name": "Espirito",
         "url": "https://open.spotify.com/album/43ELmi4Ak9u9vhEHUszb0I"
       },
@@ -4660,7 +4716,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 166523,
       "name": "Faya",
       "url": "https://open.spotify.com/track/1xJTPDSB8Q6g7kkYg70V0n"
@@ -7250,7 +7306,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 150924,
       "name": "Malembe",
       "url": "https://open.spotify.com/track/1HvCXSGcnY9EnGMCBEnu2k"
@@ -9012,7 +9068,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 120937,
       "name": "Olhos Abertos",
       "url": "https://open.spotify.com/track/1ZU28X1i4SvCnp27mxgG0G"
@@ -9158,7 +9214,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 125825,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/5Arc1bI723tSVDRLEWKcVG"
@@ -9790,7 +9846,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-27",
+      "date_removed": null,
       "duration_ms": 210256,
       "name": "Povo",
       "url": "https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3"
@@ -12844,6 +12900,32 @@
       "duration_ms": 210880,
       "name": "T\u00ea Menos 1",
       "url": "https://open.spotify.com/track/4MxL2BaDBaSfrR5xStqWJJ"
+    },
+    {
+      "album": {
+        "name": "FIM DO NADA",
+        "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196276,
+      "name": "T\u00f3xico (with Ivandro & WIU)",
+      "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
     },
     {
       "album": {

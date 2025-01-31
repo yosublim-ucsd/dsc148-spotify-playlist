@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Noise, Violence, Music, Pleasure",
+        "url": "https://open.spotify.com/album/3MTnfYEDTpXczfP95qqEjf"
+      },
+      "artists": [
+        {
+          "name": "Mofu Mofu Music Caravan",
+          "url": "https://open.spotify.com/artist/14G4IFq9Qlyyw2kjRyRXr0"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178807,
+      "name": "Noise, Violence, Music, Pleasure",
+      "url": "https://open.spotify.com/track/6K4tSwuQD6rrbgDcLT4Tyj"
+    },
+    {
+      "album": {
         "name": "nomeya utaeya odoreya sawage",
         "url": "https://open.spotify.com/album/1J09R81digZMVfo977AIVh"
       },

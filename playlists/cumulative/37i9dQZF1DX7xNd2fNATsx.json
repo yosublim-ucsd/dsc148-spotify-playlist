@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand l'indie et l'electro ne font qu'un. Photo : KOMPROMAT",
+  "description": "Quand l'indie et l'electro ne font qu'un. Photo : Else",
   "name": "indelectro",
   "tracks": [
     {
@@ -287,6 +287,28 @@
     },
     {
       "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/1vll2sQPQ1mW28Sq5bUalc"
+      },
+      "artists": [
+        {
+          "name": "SOXX",
+          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
+        },
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133760,
+      "name": "Careless",
+      "url": "https://open.spotify.com/track/4yCgGNBPqIWzOGB3WAakR3"
+    },
+    {
+      "album": {
         "name": "Celestia",
         "url": "https://open.spotify.com/album/36awCHquAZcSqExCImIUjT"
       },
@@ -529,6 +551,24 @@
     },
     {
       "album": {
+        "name": "Don't Wait Up",
+        "url": "https://open.spotify.com/album/4mGi7lkUGSqal4YEIKKE00"
+      },
+      "artists": [
+        {
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "Don't Wait Up",
+      "url": "https://open.spotify.com/track/18yDsGdHw4LhYMMTbNlNWS"
+    },
+    {
+      "album": {
         "name": "Don't You",
         "url": "https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra"
       },
@@ -566,6 +606,24 @@
       "duration_ms": 192080,
       "name": "Feel It All Around",
       "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
+    },
+    {
+      "album": {
+        "name": "Flamingos",
+        "url": "https://open.spotify.com/album/73wV2tJ2k9vTtMEVPqWTMY"
+      },
+      "artists": [
+        {
+          "name": "Greg Kozo",
+          "url": "https://open.spotify.com/artist/5mlmBTbyKkUlRdRAzEoukH"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Flamingos",
+      "url": "https://open.spotify.com/track/5GQMSX8rD8XUpMQkBRHYHJ"
     },
     {
       "album": {
@@ -1078,7 +1136,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 237546,
       "name": "Kerala",
       "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
@@ -1194,7 +1252,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 211186,
       "name": "Let's Make Love and Listen to Death From Above",
       "url": "https://open.spotify.com/track/0VYEz3QEWELuILpeyzOF0A"
@@ -1476,7 +1534,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 340786,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
@@ -2233,6 +2291,32 @@
     },
     {
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/0tLPYM4IpFcWQtDyL9Bi5q"
+      },
+      "artists": [
+        {
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb"
+        },
+        {
+          "name": "Subwave",
+          "url": "https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220941,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/1QlpA0K8BTnWjMtePlmIqw"
+    },
+    {
+      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
       },
@@ -2324,6 +2408,28 @@
       "duration_ms": 170645,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/4mwYnQIIIQMZ2fv1bA1v9E"
+    },
+    {
+      "album": {
+        "name": "You Again",
+        "url": "https://open.spotify.com/album/2RAj6Ld39jViGuabVAVhEh"
+      },
+      "artists": [
+        {
+          "name": "Moss",
+          "url": "https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6"
+        },
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "You Again",
+      "url": "https://open.spotify.com/track/0RFMv2DuTANB17tlMhM3Tp"
     },
     {
       "album": {

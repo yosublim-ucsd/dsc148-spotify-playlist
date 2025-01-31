@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,580 likes - 264 songs - 21 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,595 likes - 264 songs - 21 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 38 | [Blue Moon Tree](https://open.spotify.com/track/6TgA4zU87WT2qt2YTG7SEo) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ambivert Tools, Vol\. 4](https://open.spotify.com/album/5Tk7z0XOX8FLfrPFztPIvw) | 7:52 |
 | 39 | [Diana \(You Don't Even Know\)](https://open.spotify.com/track/3AhzrZjp3xpAYDYt9rguSW) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [DJ\-Kicks: Jayda G](https://open.spotify.com/album/6YAMPHJPCahIzrNQeRbXJ9) | 3:24 |
 | 40 | [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 |
-| 41 | [Hafi Deo \- Nick The Record & Dan Tyler Re\-Edit Dub](https://open.spotify.com/track/6IjnNXxBPt0iAORj4hpO7E) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a), [Dan Tyler](https://open.spotify.com/artist/5ZsOxtzm5X3PZ8uYeBjgnY), [Nick The Record](https://open.spotify.com/artist/2SkvLio4EjoWfNcyNUAi70) | [Steve Monite / Tabu Ley Rochereau Edits](https://open.spotify.com/album/1w5l21kqlVsBAEwjzigW5B) | 10:12 |
+| 41 | [Hafi Deo \- Nick The Record & Dan Tyler Re\-Edit Dub](https://open.spotify.com/track/6IjnNXxBPt0iAORj4hpO7E) | [Tabu Ley Rochereau](https://open.spotify.com/artist/7hYOOcRqfNzeE2CTpajd5a), [Dan Tyler](https://open.spotify.com/artist/3bwvp2abGB76CVi6r0C6mP), [Nick The Record](https://open.spotify.com/artist/2SkvLio4EjoWfNcyNUAi70) | [Steve Monite / Tabu Ley Rochereau Edits](https://open.spotify.com/album/1w5l21kqlVsBAEwjzigW5B) | 10:12 |
 | 42 | [Danse Cette Zik](https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 4:19 |
 | 43 | [Lumartes](https://open.spotify.com/track/65EjTv04s8iJB5vBcOolqF) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B) | [Lumartes](https://open.spotify.com/album/52SP8wFtVnyLnQJ8p583d5) | 3:53 |
 | 44 | [Hue](https://open.spotify.com/track/7McdYczkJu76zhnphGgcWh) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G), [Music Acadamy Students](https://open.spotify.com/artist/1LZCqGRoPABI5gRX2RqByU) | [Trips \#2: Vietnam](https://open.spotify.com/album/1NNk1ZIK6pil96rgNOXuBY) | 5:38 |

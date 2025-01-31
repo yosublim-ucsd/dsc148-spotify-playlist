@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-366 songs - 1 day 5 hr 30 min
+367 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 |  |
 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 | 2021-10-06 | 2022-07-29 |
 | [161,1](https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo) | [Ulises Conti](https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV) | [1234,8](https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G) | 5:58 | 2021-10-06 |  |
-| [1977](https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 5:36 | 2023-04-15 |  |
+| [1977](https://open.spotify.com/track/5CPTy1vepzxa0zqcs7F4F1) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Meemo Comma](https://open.spotify.com/artist/46fSsw6Lx6s1kvYGnb4pnd) | [1977](https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM) | 5:36 | 2023-04-15 | 2025-01-31 |
 | [3 Sided](https://open.spotify.com/track/0QMv6RWTMqR2OqiUBke2mV) | [FFT](https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6) | [Clear](https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ) | 5:12 | 2022-07-15 | 2022-08-11 |
 | [4 Ya Kiss](https://open.spotify.com/track/1qjd5CoUbzA7CNnB06flYN) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [4 Ya Kiss / 4 Ya Bliss](https://open.spotify.com/album/1m5Fdo7XNGZ8TunvSg948H) | 4:07 | 2022-09-07 | 2022-12-08 |
 | [5](https://open.spotify.com/track/1EZryQ41Rf8lFvdFLWErs1) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 4:04 | 2022-12-16 | 2023-10-02 |
@@ -178,6 +178,7 @@
 | [Liminal States](https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr) | [Patricia](https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0) | [Several Shades of the Same Color](https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar) | 5:03 | 2021-10-06 | 2023-04-01 |
 | [Liminal States](https://open.spotify.com/track/5ChbJIOfxuLAyAKhgThwIE) | [Patricia](https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0) | [Several Shades of the Same Color](https://open.spotify.com/album/4AUB5Is5Jm2hy4ZBd25KcU) | 5:03 | 2021-10-06 | 2022-07-25 |
 | [Lock](https://open.spotify.com/track/2d08bZC4YUb4PXFRN2MpaV) | [Ben Fehr](https://open.spotify.com/artist/3qPETe2VlxB91xkJduR8xf), [Liam Cutler](https://open.spotify.com/artist/35OhqbGQIfRR6PyvDjE7kq) | [Lock](https://open.spotify.com/album/6LdLNu0IZodeEO5y9Z4hzM) | 3:54 | 2021-10-06 | 2022-07-28 |
+| [Lomas de Sotelo](https://open.spotify.com/track/0fLNVqhb5plIW4iSVfxAOP) | [AAAA](https://open.spotify.com/artist/3J5tbnuwDEYK5Mjl60hPYz) | [X Scroll Era](https://open.spotify.com/album/2mldw4RM7l1tr6762njYDo) | 3:47 | 2025-01-30 |  |
 | [Lone Swordsman](https://open.spotify.com/track/2gs3ytLZiqjY5xki3bAFLM) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/7gTHUgl6TVixWM4uXw5k0H) | 3:53 | 2021-10-06 |  |
 | [Lone Swordsman](https://open.spotify.com/track/4n0Hki3RG2Fa35s5PORLIq) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Dusting For Smoke](https://open.spotify.com/album/4JqBczxo4FAt696cbtjO0D) | 3:53 | 2021-10-06 | 2024-04-19 |
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2021-10-06 |  |

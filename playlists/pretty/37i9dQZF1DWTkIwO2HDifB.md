@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Fui Mlk e os funks mais 🔑 do Brasil\. Foto: Nilo, Mc Paiva ZS
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,479,669 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,480,548 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Sethi",
-  "num_followers": 11232,
+  "num_followers": 11235,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5L0RQAAAACEfKcReYPmNOp42RokELgh",
+  "snapshot_id": "Z5wupgAAAAB/IOYwqFUJugigNEoFkhAa",
   "tracks": [
+    {
+      "added_at": "2025-01-31 02:00:06",
+      "album": {
+        "name": "Channa",
+        "url": "https://open.spotify.com/album/2m2aMdLgZ9rsin4X22kB9t"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Channa",
+      "url": "https://open.spotify.com/track/7HwZ33ysa3zS00P7roQM2N"
+    },
     {
       "added_at": "2025-01-24 02:00:37",
       "album": {
@@ -111,6 +127,46 @@
       "duration_ms": 173124,
       "name": "Aadhey Adhoorey",
       "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
+    },
+    {
+      "added_at": "2025-01-31 02:00:06",
+      "album": {
+        "name": "Talab",
+        "url": "https://open.spotify.com/album/04qzeXBHxIyEJcTdDSK9LQ"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Talab",
+      "url": "https://open.spotify.com/track/7trCcRZrkFLQOdb9JO4vS3"
+    },
+    {
+      "added_at": "2025-01-31 02:00:06",
+      "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/27XIdXAZ9IJ9UGqVjJzOcm"
+      },
+      "artists": [
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        },
+        {
+          "name": "Haider Ali",
+          "url": "https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/2618Fg2I7K5leCzDUhOjbr"
     },
     {
       "added_at": "2025-01-24 02:00:37",

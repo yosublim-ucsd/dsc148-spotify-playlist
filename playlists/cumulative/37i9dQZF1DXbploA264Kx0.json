@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Dizparity",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Bolly (\u962e\u79be\u831c)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1047,6 +1047,24 @@
     },
     {
       "album": {
+        "name": "DISSolve\u74e6\u89e3",
+        "url": "https://open.spotify.com/album/0VI28t5pV37j6bRD5TvUyp"
+      },
+      "artists": [
+        {
+          "name": "Bolly",
+          "url": "https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114056,
+      "name": "DISSolve\u74e6\u89e3",
+      "url": "https://open.spotify.com/track/6J3PRyKEhp6n3zVCGToJK8"
+    },
+    {
+      "album": {
         "name": "DJV",
         "url": "https://open.spotify.com/album/5X8xK7oeSYUL3qTYGSYs6W"
       },
@@ -1507,6 +1525,32 @@
     },
     {
       "album": {
+        "name": "fragrance (Remix)",
+        "url": "https://open.spotify.com/album/1BtVzJsMXQ1RdjDolztaVI"
+      },
+      "artists": [
+        {
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+        },
+        {
+          "name": "RINZO",
+          "url": "https://open.spotify.com/artist/1xWbBbkHVqmXXpV1ftKNXf"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205625,
+      "name": "fragrance - Remix",
+      "url": "https://open.spotify.com/track/0XgI8qpDq9hR84Sh1weOtk"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/11nO58mkteDM9vnY1dJLNt"
       },
@@ -1558,7 +1602,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 134166,
       "name": "fuh",
       "url": "https://open.spotify.com/track/4EETwYyHMcqtBbzb1t5Mud"
@@ -2038,7 +2082,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 143025,
       "name": "ICE AND FIRE - \u300c\u51b0\u7bb1\u6253\u5f00\u65f6\u300d\u97f3\u4e50\u7279\u522b\u4f01\u5212",
       "url": "https://open.spotify.com/track/1P5Ty8Lugfcfj7WwITjWvg"
@@ -3526,7 +3570,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 230431,
       "name": "Race of Faith (ft. YELLOW\u9ec3\u5ba3)",
       "url": "https://open.spotify.com/track/4hGtlu2iutnwbHFjs91B1r"
@@ -3938,7 +3982,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 227111,
       "name": "Silent Night In Shinjuku",
       "url": "https://open.spotify.com/track/4gGz96p4EL4b0tXqiTFgrk"
@@ -5006,7 +5050,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 150400,
       "name": "Work That",
       "url": "https://open.spotify.com/track/3BwBDFTFLQ96WU1YyapvcL"
@@ -5380,7 +5424,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 305592,
       "name": "\u5225\u907a\u68c4 Aka Sawadan",
       "url": "https://open.spotify.com/track/0FaTG6eBxRQA3ypScbLibZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VQIBSMjfFD.md) - [plain]
 
 > Get ready for the upcoming concert tour by listening to Taeyang's best songs! \(태양의 베스트 곡들을 들으며 다가오는 콘서트 투어를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,255 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,677 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

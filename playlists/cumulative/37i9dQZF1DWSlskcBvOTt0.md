@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-840 songs - 3 day 1 hr 38 min
+841 songs - 3 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [Man O To \- Original Mix](https://open.spotify.com/track/1jk9NRyYFKPgfCX9BnW6yW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Man O To](https://open.spotify.com/album/4EHthKssV78iSBlgIafIY6) | 9:40 | 2021-12-13 | 2023-03-11 |
 | [Manginot](https://open.spotify.com/track/2EZSBL4CawxiV3NKXDEZfO) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [Manginot EP](https://open.spotify.com/album/7eZGD22knvBMAOgFMP86TO) | 7:58 | 2021-04-21 | 2022-06-28 |
 | [Mantra](https://open.spotify.com/track/6RoewzonORYsuQGYuCXW27) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Mantra](https://open.spotify.com/album/6vnISnsKqacZiW8HTPh2US) | 7:45 | 2021-04-21 | 2022-04-21 |
+| [Marathon](https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Koba Brown](https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75) | [Marathon](https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj) | 3:00 | 2025-01-24 |  |
 | [Marble](https://open.spotify.com/track/2A4mZMTSJSqElt6hqjGfMx) | [AVEM](https://open.spotify.com/artist/7xu4DQ5wfoGi4koqPFfXAe) | [Chroma](https://open.spotify.com/album/4uRermkL2z5D4eX9jwejHW) | 6:37 | 2021-12-10 | 2022-07-28 |
 | [Marimba](https://open.spotify.com/track/3ihksvcKbnm01jQXMY5XYi) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Marimba](https://open.spotify.com/album/3i2oCggOTBqY30JWJTkqgU) | 3:46 | 2023-06-09 | 2024-04-13 |
 | [Marimba](https://open.spotify.com/track/1RiRfhBguCU7nmxkdK1cdW) | [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Marimba](https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx) | 5:59 | 2021-04-21 | 2023-04-01 |
@@ -829,7 +830,7 @@
 | [Why](https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Why](https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb) | 3:19 | 2024-04-12 |  |
 | [Wild Animal](https://open.spotify.com/track/3tt1Tsro73c0EBkj5ZAJtc) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Wild Animal](https://open.spotify.com/album/01xjYoGDdMF7H9RnDmomPv) | 4:40 | 2024-04-12 | 2024-07-14 |
 | [Woe Misik](https://open.spotify.com/track/0kK4Up84ffNYBrmjjMFS3D) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Woe Misik](https://open.spotify.com/album/4L2QwRnQvj6m79glDv4OST) | 5:54 | 2023-03-31 | 2023-04-04 |
-| [Wonderful Life \- JOSEPH Remix](https://open.spotify.com/track/6OxIJz7VmPSDCtrQrmRNHe) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr), [Murphy](https://open.spotify.com/artist/25nKGLt8u775jURsw1bIP0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [Wonderful Life \(JOSEPH Remix\)](https://open.spotify.com/album/4hVMBEVgf5kDcPx28I4bIS) | 4:55 | 2025-01-10 |  |
+| [Wonderful Life \- JOSEPH Remix](https://open.spotify.com/track/6OxIJz7VmPSDCtrQrmRNHe) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr), [Murphy](https://open.spotify.com/artist/25nKGLt8u775jURsw1bIP0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [Wonderful Life \(JOSEPH Remix\)](https://open.spotify.com/album/4hVMBEVgf5kDcPx28I4bIS) | 4:55 | 2025-01-10 | 2025-01-31 |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-05 |  |
 | [Yara](https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Yara](https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF) | 3:32 | 2024-06-14 |  |
 | [YAWA \(Man On A Mission\)](https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0) | [Édel](https://open.spotify.com/artist/71FZZiU3aazM8r1Bm1NkCu), [Zani \(BR\)](https://open.spotify.com/artist/3fbmi6cCWN51a18gaMIKAW) | [YAWA \(Man On A Mission\)](https://open.spotify.com/album/2SsOg3Zq94tH970LaDjah5) | 3:45 | 2024-10-25 |  |

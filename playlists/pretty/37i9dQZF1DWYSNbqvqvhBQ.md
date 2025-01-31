@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste liedjes van het moment\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,416 likes - 62 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,379 likes - 62 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

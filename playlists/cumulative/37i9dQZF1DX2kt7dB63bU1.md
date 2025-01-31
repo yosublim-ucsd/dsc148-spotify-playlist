@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-800 songs - 2 day 7 hr 45 min
+801 songs - 2 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [The Age Of Anxiety](https://open.spotify.com/track/0qyjj1na0pbMlnBvKAqLtz) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Age of Anxiety](https://open.spotify.com/album/2P2qPNDdZw930hLCy2ddux) | 5:24 | 2020-10-09 | 2022-02-10 |
 | [The Alberta Lounge](https://open.spotify.com/track/3o08sAsr87UbU9WoizRIKp) | [Deanne Matley](https://open.spotify.com/artist/3QU3r3Nc2oTIZ1EysGiFDH) | [The Alberta Lounge](https://open.spotify.com/album/3hQnsmubS6Pm5sCyCM9A2G) | 3:33 | 2022-04-22 | 2022-07-14 |
 | [The Art of Conversation](https://open.spotify.com/track/2sFdFdSACqUlbZVKgcRkdE) | [Leo Sidran](https://open.spotify.com/artist/2HpgbqUcGmk4M2dG9wph1h), [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [The Art of Conversation](https://open.spotify.com/album/5sWjtKDgxyGlJfQsTmafMD) | 4:26 | 2021-06-01 | 2022-10-08 |
+| [The Best Is Yet To Come](https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa) | [The Best Is Yet To Come](https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb) | 4:31 | 2025-01-17 |  |
 | [The Best Mistake](https://open.spotify.com/track/57dFZtD0yXsonQEndrFqf5) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H) | [The Best Mistake](https://open.spotify.com/album/3qJqCnJ8DOEgTpbSLFxV3B) | 2:44 | 2023-03-03 | 2024-06-22 |
 | [The Best Things Happen While You're Dancing](https://open.spotify.com/track/3M4j7Knz9YvbYbfGVJJxxE) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [The Best Things Happen While You're Dancing](https://open.spotify.com/album/6pyyBFedXb9ZI9BwYHUBBN) | 3:15 | 2024-06-28 | 2024-07-19 |
 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 | 2020-10-09 | 2022-02-19 |

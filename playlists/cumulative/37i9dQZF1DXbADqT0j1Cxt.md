@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-695 songs - 21 hr 10 min
+698 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [All The Joy You Bring](https://open.spotify.com/track/7bkTcd4fUsUdPkmYacuknd) | [Timothy Lagarde](https://open.spotify.com/artist/2YC9D3mRFOIozOVYnAcB3e) | [All The Joy You Bring](https://open.spotify.com/album/0R13b9eCSz4j2znqTspjfI) | 1:49 | 2021-10-07 |  |
 | [All Through the Night](https://open.spotify.com/track/1tHIBi1xAebtzJCw7hQIwC) | [Hailey West](https://open.spotify.com/artist/4r3z99IOB1pOARTJmUoY5L) | [All Through the Night](https://open.spotify.com/album/3I1WxY8rv9KKHLqZoftLFq) | 2:25 | 2023-05-11 |  |
 | [Alone Under The Stars](https://open.spotify.com/track/3EWc6DiAw1R0KLEtiiehpI) | [Yoni Laurent](https://open.spotify.com/artist/3oNMmoFpVOIq8Ce7tBRDRI) | [Alone Under The Stars](https://open.spotify.com/album/6JDZREAq7cPKOr3AWfc2cW) | 2:04 | 2024-07-08 |  |
+| [Alone with the Universe](https://open.spotify.com/track/2AnLW12ghaD2AyIq7i1q3F) | [Francis Luna](https://open.spotify.com/artist/3sjCpfI70lOKlEUBv0xrtQ) | [Alone with the Universe](https://open.spotify.com/album/4OpGeOTVy3qjofpdYJ3ZK9) | 1:56 | 2025-01-30 |  |
 | [Always beside you](https://open.spotify.com/track/4clLkBuNnbkzVT0i0kbYlH) | [Mio Moi](https://open.spotify.com/artist/6RQl4S8pqVOU10Su7Y1R0o) | [Light at Night](https://open.spotify.com/album/4IHJnyc0ZuQvHBUKMUFfjC) | 1:54 | 2022-11-25 |  |
 | [Always By your Side](https://open.spotify.com/track/633Ncfz9y69Or7MGorp4KT) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [Always By Your Side](https://open.spotify.com/album/3I3tkEV6bQHjeibbURN1IO) | 1:37 | 2023-08-10 | 2024-05-24 |
 | [Always By Your Side](https://open.spotify.com/track/6rZghmzRtSrcnfoUsI3HYV) | [Margith Mathiesen](https://open.spotify.com/artist/7FVnh71Z8lhSppYykLnpJh) | [Always By Your Side](https://open.spotify.com/album/7uaZjvfUWtJblAnpjSqMg3) | 2:38 | 2021-10-07 | 2022-10-29 |
@@ -165,6 +166,7 @@
 | [Eden's Grass](https://open.spotify.com/track/0DBFljDvAjeIStakv8HASX) | [The Piano Hive](https://open.spotify.com/artist/0Mo0e0qwgpS4x9Il9FU3T7) | [Eden's Grass](https://open.spotify.com/album/2ZRy5reecRQg9hfQCFJNmJ) | 1:32 | 2023-09-08 |  |
 | [Eeny Meeny Miny Moe](https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ) | [Peter Ehrlichmann](https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx) | [Eeny Meeny Miny Moe](https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus) | 0:57 | 2021-10-07 | 2022-03-18 |
 | [Ekorrn satt i granen](https://open.spotify.com/track/3gYcHzSXbTQ0A8AcOoczZN) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [London Bridge](https://open.spotify.com/album/0reqTcURfy5hVfO0GlEJbH) | 1:53 | 2022-11-25 | 2023-08-19 |
+| [Embers Fade](https://open.spotify.com/track/111gGpmdZxoeMRKjLsHQnC) | [Cory Andon](https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI) | [Embers Fade](https://open.spotify.com/album/1lNduh9ABeVDDbsxvlY3Me) | 2:26 | 2025-01-30 |  |
 | [Es hora de acostarse](https://open.spotify.com/track/047f2N27bn7YVyDmjN2CcH) | [Nayara Moore](https://open.spotify.com/artist/38wuntvVRvph542P6Q08bO) | [Es hora de acostarse](https://open.spotify.com/album/7tUywYo0CliiWURhDJVE5M) | 1:44 | 2021-10-07 | 2023-08-19 |
 | [Eskimo Kisses](https://open.spotify.com/track/6bvegR4AlPHL4vH6mSdI0L) | [Natalie Gillman](https://open.spotify.com/artist/6d7LO8Ouv0KFEQ3VLwdeQ1) | [Eskimo Kisses](https://open.spotify.com/album/5KudmfKFnnIKV5vjDxUjh6) | 1:37 | 2021-10-07 | 2024-05-04 |
 | [Evening Stillness](https://open.spotify.com/track/5QD0VX4sPwPc9wGjfK5JbA) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Evening Stillness](https://open.spotify.com/album/5s67Eta43UUoyEjANkBo6h) | 1:51 | 2023-09-22 |  |
@@ -187,7 +189,7 @@
 | [Fluffy clouds](https://open.spotify.com/track/5GoTxGJbXchgq0T9E4Qx3w) | [Veronica Lindlom](https://open.spotify.com/artist/6MG7YNj5RIqSYJVDQP7YfZ) | [Fluffy clouds](https://open.spotify.com/album/6IbE37gGj3iYOv54OlyfBq) | 1:53 | 2021-10-07 |  |
 | [Fly Butterfly](https://open.spotify.com/track/3H4SDNeQ2AZf1Ein1eNrpN) | [Zuriñe Ilaria](https://open.spotify.com/artist/3nuIaWShg2iLdwSq2cSqGx) | [Fly Butterfly](https://open.spotify.com/album/2yxb5xXzp36cysMStaz045) | 1:48 | 2024-09-30 |  |
 | [Flying At Night](https://open.spotify.com/track/6mVnUo4zrUPw9Kkb0M2wAh) | [Jim Fauer](https://open.spotify.com/artist/0YCnUoDR3B1rEFUUQ6FXdG) | [Flying At Night](https://open.spotify.com/album/0AXo52PQJtMFk8oYhUNiJr) | 1:33 | 2024-10-11 |  |
-| [Follow Your Dreams](https://open.spotify.com/track/4PFMbLLAqrcvm7tTEVpqjN) | [Daniyah Wells](https://open.spotify.com/artist/5XxM10sVl9AVhGjZUYExBp) | [Follow Your Dreams](https://open.spotify.com/album/4RbAiYZAjSgg27t4HEh318) | 2:03 | 2021-10-07 |  |
+| [Follow Your Dreams](https://open.spotify.com/track/4PFMbLLAqrcvm7tTEVpqjN) | [Daniyah Wells](https://open.spotify.com/artist/5XxM10sVl9AVhGjZUYExBp) | [Follow Your Dreams](https://open.spotify.com/album/4RbAiYZAjSgg27t4HEh318) | 2:03 | 2021-10-07 | 2025-01-31 |
 | [For He’s a Jolly good fellow](https://open.spotify.com/track/30XhU05qumP09S2Tj9CzJo) | [Lola Morley](https://open.spotify.com/artist/2Kuyae6WVSIZdgm0sXVLlf) | [Sing a Song of Sixpence](https://open.spotify.com/album/6wzUjEti3lVdJ52Qm3Gphb) | 1:08 | 2021-10-07 | 2022-11-26 |
 | [For My Sweetheart](https://open.spotify.com/track/3DtGLM46u1ZrZMP1Z5xqOW) | [Vic Davidson](https://open.spotify.com/artist/4rxDPoC97AdDVhtbQmqyQQ) | [For My Sweetheart](https://open.spotify.com/album/6lUHunI58WXnZH9DRHllEQ) | 1:41 | 2022-01-21 | 2023-02-10 |
 | [Forever](https://open.spotify.com/track/0P5eOC4fHKzKpVg6oDU3JK) | [Dolores Finn](https://open.spotify.com/artist/3slQ6NWSfwYudvdPzV77QV) | [Forever](https://open.spotify.com/album/5rG6Ec9GClUCGNZHJqB9wh) | 3:45 | 2023-12-08 | 2024-05-04 |
@@ -385,6 +387,7 @@
 | [Mulberry Bush](https://open.spotify.com/track/6ffgSHs18bocemdXI00WnM) | [Ronaldo Franke](https://open.spotify.com/artist/2mE2YV7qO4v2XIOovk2Yxg) | [Humpty Dumpty](https://open.spotify.com/album/692KzLCdujMItymDhBpQvV) | 1:28 | 2021-10-07 | 2022-11-26 |
 | [My Baby Boy](https://open.spotify.com/track/5GeUvB5e1LacP65p9EApbV) | [Colleen Kozak](https://open.spotify.com/artist/19yYfBfYNV2XUJvo8pfKvK) | [My Baby Boy](https://open.spotify.com/album/06pWkRUjbu64kH30GrTn9Z) | 1:36 | 2022-04-19 |  |
 | [My Baby Brother](https://open.spotify.com/track/4kxQ0u5PU8OFSpOXv4JpEC) | [Nataliya Fowler](https://open.spotify.com/artist/1tiCCBYfrrB1loQSAZ42lU) | [My Baby Brother](https://open.spotify.com/album/7kS49Ln0lmwL9Ytozwpv67) | 2:02 | 2021-10-07 |  |
+| [My Best Duck](https://open.spotify.com/track/1DZBZifutZkEfVJbnCXS4w) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [My Best Duck](https://open.spotify.com/album/29lzzXqw0dpl9Vdz9fTOHl) | 1:26 | 2025-01-30 |  |
 | [My BFF](https://open.spotify.com/track/3ChAmrKYXUcgt720JkVfnb) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [My BFF](https://open.spotify.com/album/0AW32j89QIZXIOBZQE5xxX) | 1:48 | 2024-09-30 |  |
 | [My Bonnie Lies Over the Ocean](https://open.spotify.com/track/7A5T3WgbiojUSYNKvSQrur) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [My Bonnie Lies Over the Ocean](https://open.spotify.com/album/1GsWEPZgxInPsKc3dqjQIy) | 2:08 | 2023-11-17 |  |
 | [My Bonnie lies over the ocean](https://open.spotify.com/track/7ClgKhsbFMHT6SctPSBezr) | [Jascha van Nuenen](https://open.spotify.com/artist/0wxmGu7bfQkix7ZeK8A0mz) | [My Bonnie lies over the ocean](https://open.spotify.com/album/2oF4b0hzO8kR2uAFHRlFji) | 0:58 | 2021-10-07 | 2022-03-18 |
@@ -617,7 +620,7 @@
 | [The Winter Baby](https://open.spotify.com/track/3wqVMY63RfSWuXVBsppr77) | [Monroe Hershey](https://open.spotify.com/artist/3DKrRxq6WNjqIxwENVSepm) | [The Winter Baby](https://open.spotify.com/album/41ug8UYrj7eCfcUBdVZEFu) | 1:32 | 2022-06-07 |  |
 | [The Working Maid](https://open.spotify.com/track/0CI7cneIkhr9E3qHMAMwS0) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [The Working Maid](https://open.spotify.com/album/2vETz6Dg6fvK3x5fs0uBUR) | 1:41 | 2024-03-22 |  |
 | [The Yellow Rose](https://open.spotify.com/track/4Qn4wCKYnDJkAvQ6m8FP6e) | [Cosy Cat](https://open.spotify.com/artist/1hBpKFAxzX85r39gdoln3g) | [The Yellow Rose](https://open.spotify.com/album/1iypmahNGAJ415h9FN3oUo) | 2:20 | 2021-10-07 | 2024-03-29 |
-| [There's a Hole In My Pants](https://open.spotify.com/track/4OxSiT6RAFsL2ezRFL1rAP) | [Olivia Frederickson](https://open.spotify.com/artist/3wn7ua143T3ZoIwzP8UCXK) | [There's a Hole In My Pants](https://open.spotify.com/album/3PmOrL92yXD6gWwHfOLnGi) | 1:53 | 2021-10-07 |  |
+| [There's a Hole In My Pants](https://open.spotify.com/track/4OxSiT6RAFsL2ezRFL1rAP) | [Olivia Frederickson](https://open.spotify.com/artist/3wn7ua143T3ZoIwzP8UCXK) | [There's a Hole In My Pants](https://open.spotify.com/album/3PmOrL92yXD6gWwHfOLnGi) | 1:53 | 2021-10-07 | 2025-01-31 |
 | [This Is The Way](https://open.spotify.com/track/5r4OlQ86NhqM4kedvlFMws) | [Arya Dylan](https://open.spotify.com/artist/4M7zKy7koNuxlPdhZHfWA7) | [This Is The Way](https://open.spotify.com/album/6gU5ZfrxEmN868dQG7y0xa) | 1:14 | 2021-10-07 | 2023-01-13 |
 | [This Little Light Of Mine](https://open.spotify.com/track/2j0aEdojLHM2N6TlaANyd7) | [Marla Thomson](https://open.spotify.com/artist/6vawkH5ddvxAkYs9dI8Crz) | [This Little Light Of Mine](https://open.spotify.com/album/6zZhhuDeCAB18QJfI4mZnS) | 2:20 | 2021-10-07 | 2022-09-23 |
 | [This Little Pig](https://open.spotify.com/track/6ordUlkJ8vG1gDkYcfR6Zq) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Looby Loo](https://open.spotify.com/album/2n4JGmlRLImBzcHg5JqIU6) | 1:18 | 2021-10-07 | 2022-10-08 |
@@ -696,7 +699,7 @@
 | [Yankee Doodle](https://open.spotify.com/track/2T7N8qmL56DFtgZxqnMi2A) | [Anna Moen](https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI) | [Yankee Doodle](https://open.spotify.com/album/3RWPKKlmz1budJpmnVMWZ9) | 1:39 | 2024-05-03 |  |
 | [Yankee Doodle](https://open.spotify.com/track/1FIlBc2LI8yjVvhRokhV9Y) | [Gregory Oberle](https://open.spotify.com/artist/4MxqhahGRT4BPz1PilXGeu) | [Yankee Doodle](https://open.spotify.com/album/7dmp93YWenoMivq7iSLT8j) | 1:55 | 2021-10-07 | 2023-01-13 |
 | [Yankee Doodle](https://open.spotify.com/track/1YnMwAi7bVwAFyAWhrzTt9) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Lullaby and Goodnight](https://open.spotify.com/album/4UnLWekJt1qqHlniVVLeEH) | 1:25 | 2022-10-07 | 2024-04-19 |
-| [Yellow & Blue](https://open.spotify.com/track/6r8jcEwqhubzAOWjZfzMAd) | [Rio Harris](https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs) | [Yellow & Blue](https://open.spotify.com/album/6E564DHa5OzweC9UhpAOc9) | 2:19 | 2024-08-30 |  |
+| [Yellow & Blue](https://open.spotify.com/track/6r8jcEwqhubzAOWjZfzMAd) | [Rio Harris](https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs) | [Yellow & Blue](https://open.spotify.com/album/6E564DHa5OzweC9UhpAOc9) | 2:19 | 2024-08-30 | 2025-01-31 |
 | [Yellow Dog](https://open.spotify.com/track/0VYLXDoB1e0Ti6nwvKQbir) | [Mary Sarah Foster](https://open.spotify.com/artist/7f9f0puySLuEpqksG34Jv3) | [Zoo Mobile](https://open.spotify.com/album/4KWDSx6gz1qdxSUE0vxsHt) | 1:56 | 2021-10-07 | 2024-04-19 |
 | [You Are Feeling Sleepy](https://open.spotify.com/track/6mGuFs42JhtarklWdVUyOt) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [You Are Feeling Sleepy](https://open.spotify.com/album/6K2t5rV4eSuFpkZA2ofwP5) | 1:27 | 2024-03-01 |  |
 | [Your First Steps](https://open.spotify.com/track/2BHWzwMuxtNRJ3J36GCOkF) | [Lova Carling](https://open.spotify.com/artist/7mZRGYwWF15QNqKAG9hNCI) | [My Little Toddler](https://open.spotify.com/album/1sXPqApeZ3FPB134f9N1Vj) | 2:10 | 2022-10-07 |  |

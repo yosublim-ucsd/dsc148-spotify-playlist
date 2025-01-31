@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Simran Choudhary & Aditya Rikhari
 
-984 songs - 2 day 5 hr 3 min
+985 songs - 2 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Move On](https://open.spotify.com/track/7s8wMKOZLOxwO7gzovABYN) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Inder](https://open.spotify.com/artist/4BTiv9wnMrhxZNxaTb3rwT) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:57 | 2022-12-09 | 2023-07-01 |
 | [Mug Shots](https://open.spotify.com/track/2pSLDrKB0bc7QF09WBKwmi) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [MIXBYDOLCE](https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul) | [Mug Shots](https://open.spotify.com/album/7dVfseIDNJ4uqVKpvTz3eU) | 2:29 | 2024-07-30 | 2024-08-21 |
 | [Mukhda Dikha Do](https://open.spotify.com/track/67mb14eIBHuHol8biNzESH) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Mukhda Dikha Do](https://open.spotify.com/album/5VLVzZXBmfojRzPiWr3yTi) | 3:06 | 2022-03-22 | 2022-04-06 |
+| [Mulakat](https://open.spotify.com/track/5eVCyVrewEENgnQTccju4q) | [Preet Guree](https://open.spotify.com/artist/2YOq6u1oHUoGNvd5t4x7Ah), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [Mulakat](https://open.spotify.com/album/3xaONxvVN6ANn2g0hQa3QN) | 2:19 | 2025-01-30 |  |
 | [Mulaqaat](https://open.spotify.com/track/3qFxc62CjyE8WYwigvvB9L) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Mulaqaat](https://open.spotify.com/album/1jI6jXWObHreumKnhzm6H3) | 2:14 | 2025-01-13 |  |
 | [Munda Sardaran Da](https://open.spotify.com/track/7ssVTIHPAoQq8xU0uP30TV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Munda Sardaran Da](https://open.spotify.com/album/5MaQSztrVCuU00qBsmjmcO) | 3:42 | 2022-11-16 | 2024-09-26 |
 | [Mundraan](https://open.spotify.com/track/047BsbiQMaej8JBT1KjBUe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Mundraan](https://open.spotify.com/album/1PRLIr0sT8RcvTMN92Vcr1) | 3:21 | 2022-03-18 | 2022-04-06 |
@@ -831,7 +832,7 @@
 | [Supna](https://open.spotify.com/track/3A4wABRH41xD3dCBykZpLI) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Layers](https://open.spotify.com/album/68Sj9ZsFdcpg4W5paJAlvK) | 3:30 | 2023-02-03 | 2024-04-19 |
 | [Supna](https://open.spotify.com/track/7ox1IleIMKORc2xZ1DcQnQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Layers](https://open.spotify.com/album/2OetgEbORLw9T6yNAnzs3B) | 3:30 | 2023-02-03 | 2024-10-01 |
 | [Supna](https://open.spotify.com/track/1vjjDb1oFf67W9zOVh8a6d) | [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Supna](https://open.spotify.com/album/5jI9MZUKKKj6WvnfyRn4Xm) | 4:08 | 2022-12-05 | 2023-02-02 |
-| [Supna](https://open.spotify.com/track/3UJYZG5lJXHajdHeRhLOdi) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Gold E Gill](https://open.spotify.com/artist/1nReJyCgrkUDk0VfCGXpQ4) | [Supna](https://open.spotify.com/album/2tue99kjJMojUgyCFj7T2R) | 3:06 | 2025-01-14 |  |
+| [Supna](https://open.spotify.com/track/3UJYZG5lJXHajdHeRhLOdi) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD), [Gold E Gill](https://open.spotify.com/artist/1nReJyCgrkUDk0VfCGXpQ4) | [Supna](https://open.spotify.com/album/2tue99kjJMojUgyCFj7T2R) | 3:06 | 2025-01-14 | 2025-01-31 |
 | [Surma](https://open.spotify.com/track/2DBaGfuoLB7GJpTKJpLO5P) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu), [Arsh Sarpal](https://open.spotify.com/artist/3CCMpMo6uEI0RiHOlcosz3) | [First Draft](https://open.spotify.com/album/6rPNjEczANskt3rINL8Ijl) | 2:04 | 2022-12-05 | 2022-12-24 |
 | [Surma](https://open.spotify.com/track/0J987rfHrlc6HOq3Y4nbrS) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq) | [Surma](https://open.spotify.com/album/4lH2JUQPh7oOhypdKijwBp) | 2:45 | 2022-12-01 | 2022-12-16 |
 | [Surma](https://open.spotify.com/track/2TioqC2ZU59C2ycwybWqk6) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [RAFAL](https://open.spotify.com/artist/3kjboz3TWSwnvvLdXSOX9z) | [Surma](https://open.spotify.com/album/1bsPUlVdgdHMKqnom02YZ1) | 2:23 | 2022-11-09 | 2022-12-16 |

@@ -2,7 +2,7 @@
 
 ### [K\-Trot Stars](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> Let's party with cheerful Korean trot medley\. Cover: MYTRO\(마이트로\) \(신나는 트로트 멜로디를 즐겨보세요!\)
+> Let's party with cheerful Korean trot medley\. Cover: Park Ji Hyeon\(박지현\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
 938 songs - 2 day 5 hr 31 min
 
@@ -428,7 +428,7 @@
 | [Love Signal](https://open.spotify.com/track/3rnvLgteBQWTALKwhRt0p9) | [JANG SONG HO](https://open.spotify.com/artist/61f28y2zvYJyjTqfCB5b4p) | [Love Signal](https://open.spotify.com/album/1E6pcoxRxmJGPayYeK0QNN) | 3:33 | 2023-07-07 |  |
 | [Love Station](https://open.spotify.com/track/2D1xAiDD33nqcxtSMH30hO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:11 | 2022-07-22 | 2023-03-02 |
 | [Love Station](https://open.spotify.com/track/2LQCNmrPz6cIm1Y3sdwHO4) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:11 | 2022-05-03 | 2022-07-29 |
-| [Love Story](https://open.spotify.com/track/4ZwRF6gFHUi8iyjZh79YG6) | [신유](https://open.spotify.com/artist/5aEkvCedM3aS0mufV6qkNK), [Park Ae Ri](https://open.spotify.com/artist/4M5n9Y3pK1QAGOIvwdAbKA) | [Love Story](https://open.spotify.com/album/6rvXDk3g9i8sWUXr1xIkkM) | 3:27 | 2024-10-16 |  |
+| [Love Story](https://open.spotify.com/track/4ZwRF6gFHUi8iyjZh79YG6) | [신유](https://open.spotify.com/artist/5aEkvCedM3aS0mufV6qkNK), [Park Ae Ri](https://open.spotify.com/artist/4M5n9Y3pK1QAGOIvwdAbKA) | [Love Story](https://open.spotify.com/album/6rvXDk3g9i8sWUXr1xIkkM) | 3:27 | 2024-10-16 | 2025-01-31 |
 | [Love that left Autumn behind](https://open.spotify.com/track/1ehBpQ5yivI6sjlmnPVHx7) | [Shin Yu](https://open.spotify.com/artist/4aLSOIhA1dueSblihS8Zk9) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 3:05 | 2022-05-03 | 2022-07-09 |
 | [Love tonight](https://open.spotify.com/track/2WSX8QGs7nnUQ5qUPoWUcm) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Hong Jinyeong](https://open.spotify.com/artist/5YmzM0BZzE9MLamoZ32ius) | [Love call center PART5](https://open.spotify.com/album/3ZPTpx4D0qqNtXbqrj5tag) | 2:59 | 2022-05-03 | 2022-07-29 |
 | [Love triangle](https://open.spotify.com/track/6TCi71b83kWWLeOlnMKapM) | [Kang Jin](https://open.spotify.com/artist/5mc03VYXi9l8YLw3Nbk4n4), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART13](https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17) | 3:29 | 2022-05-03 |  |
@@ -827,7 +827,7 @@
 | [곤드레만드레](https://open.spotify.com/track/7fE9IlvuuaQ3cklBBZ0r36) | [Park Hyun\-Bin](https://open.spotify.com/artist/4CFPY7gjBXwLIaDhkngkjj) | [모래시계](https://open.spotify.com/album/546onCsHxwpAuNpyGmooud) | 3:18 | 2022-07-22 | 2022-11-06 |
 | [공지천사랑](https://open.spotify.com/track/5hMbxknvAjxfOtCUiX3sfc) | [김지현](https://open.spotify.com/artist/4FD14u8cBep1gkVyJdyKyC) | [공지천사랑](https://open.spotify.com/album/6OGwnI2wEY7NNcw5zw2UFS) | 3:36 | 2024-09-13 | 2024-10-02 |
 | [관상타령](https://open.spotify.com/track/79QFLjcgmk7YiV6AshYSXe) | [손헌수](https://open.spotify.com/artist/5dOttZW4sXogDxNpRBSpnR) | [관상타령](https://open.spotify.com/album/7lbKd2a8yzlqNw7xmwiyWZ) | 3:32 | 2022-06-18 | 2022-07-29 |
-| [그냥가면 어쩌나](https://open.spotify.com/track/1mfRRKUEDFGUkThMP7sGlf) | [강혜연](https://open.spotify.com/artist/6jJykDVfUz158veY5H2587) | [연 \(姸\) : 고울연](https://open.spotify.com/album/0ALsJhiuPdRqOVXaPF6DOE) | 3:26 | 2024-08-13 | 2025-01-29 |
+| [그냥가면 어쩌나](https://open.spotify.com/track/1mfRRKUEDFGUkThMP7sGlf) | [강혜연](https://open.spotify.com/artist/6jJykDVfUz158veY5H2587) | [연 \(姸\) : 고울연](https://open.spotify.com/album/0ALsJhiuPdRqOVXaPF6DOE) | 3:26 | 2024-08-13 |  |
 | [그대 오는 날 \(Acoustic Ver.\) Love is Coming \(Acoustic Ver.\)](https://open.spotify.com/track/64N774TyEGD2qjpER0GN5C) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [사랑은 뷰티풀 인생은 원더풀 OST Part.10 Love is beautiful, Life is wonderful OST Part.10](https://open.spotify.com/album/5uWfOno4DG8CCHHdcoxL3S) | 3:39 | 2022-04-07 | 2022-07-29 |
 | [그대 오는 날 Love is Coming](https://open.spotify.com/track/64JBGUDLrrjzKl9LOXXjhI) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [사랑은 뷰티풀 인생은 원더풀 OST Part.10 Love is beautiful, Life is wonderful OST Part.10](https://open.spotify.com/album/5uWfOno4DG8CCHHdcoxL3S) | 3:41 | 2022-04-07 | 2022-07-22 |
 | [나보다 더 사랑해요](https://open.spotify.com/track/4aOozUyHI6r5LauMX6TtUw) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 4:11 | 2022-10-07 | 2024-04-19 |

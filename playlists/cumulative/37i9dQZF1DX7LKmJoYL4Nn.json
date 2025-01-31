@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Switch\u300cBrilliant Smile\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7t4Y99FrYflBP9tlaAQlEc"
+      },
+      "artists": [
+        {
+          "name": "Switch/\u9006\u5148\u590f\u76ee(CV.\u91ce\u5cf6\u5065\u5150)\u3001\u9752\u8449\u3064\u3080\u304e(CV.\u77f3\u5ddd\u754c\u4eba)\u3001\u6625\u5ddd\u5b99(CV.\u5c71\u672c\u548c\u81e3)",
+          "url": "https://open.spotify.com/artist/5d82rmaDyzFjTqqczGYXEV"
+        }
+      ],
+      "date_added": "2025-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268866,
+      "name": "A little bit UP!!",
+      "url": "https://open.spotify.com/track/3PQyK1cirH5POLnr8ECCfC"
+    },
+    {
+      "album": {
         "name": "Valkyrie\u300cAcanthe\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
         "url": "https://open.spotify.com/album/0tZ02fSLCYDQHG5On3iZyc"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 232746,
       "name": "Coruscate Breeze",
       "url": "https://open.spotify.com/track/200BbCUSbNkVF5P7qPSdkI"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 187840,
       "name": "Noir Neige",
       "url": "https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 288293,
       "name": "\u30cf\u30f3\u30ba\u30af\u30e9\u30d5\u30c8",
       "url": "https://open.spotify.com/track/1NmE0ok9KopsDDVmvZbcwM"

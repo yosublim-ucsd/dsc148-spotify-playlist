@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> GINEVRA in cover della playlist con il meglio dell’indie italiano 🏹
+> Gazzelle in cover della playlist con il meglio dell’indie italiano 🐜
 
-196 songs - 10 hr 15 min
+198 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [11 case](https://open.spotify.com/track/13PawRVvAhgkutmTD6gkkR) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [11 case](https://open.spotify.com/album/6mRmzDGzEzqHbbAjtqHHf7) | 2:58 | 2024-10-10 | 2024-12-13 |
 | [2024](https://open.spotify.com/track/3AIVfMjPgRh4Ja1hBVWhus) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [2024](https://open.spotify.com/album/2SrEFRd50LJ1UQGz6L7Sh5) | 2:31 | 2024-12-05 | 2025-01-10 |
 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 | 2024-06-27 |  |
-| [30 anni](https://open.spotify.com/track/2KEEm8VPtiBiBJd7AYDl83) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [30 anni](https://open.spotify.com/album/1W7OXNrgGHahRIVgfzE1xR) | 3:44 | 2025-01-16 |  |
+| [30 anni](https://open.spotify.com/track/2KEEm8VPtiBiBJd7AYDl83) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [30 anni](https://open.spotify.com/album/1W7OXNrgGHahRIVgfzE1xR) | 3:44 | 2025-01-16 | 2025-01-31 |
 | [3000 metri](https://open.spotify.com/track/1zxp2l0vas3D0o4EkVM9cQ) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S) | [3000 metri](https://open.spotify.com/album/6P4jVZP7VUFnGAL7yn4o97) | 3:09 | 2024-11-07 | 2024-11-29 |
 | [A cosa serve l'estate](https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS), [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [A cosa serve l'estate](https://open.spotify.com/album/6zVOn1d1LL73QTvSLbiXUO) | 3:41 | 2024-09-19 | 2024-10-25 |
 | [A piedi il mondo \(con te\)](https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [BDSR](https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE) | 3:59 | 2024-12-19 |  |
@@ -136,6 +136,7 @@
 | [Oui oui](https://open.spotify.com/track/6uEWAOhBeu31oFNNCT31Ic) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [OFIUCO](https://open.spotify.com/album/1K4inLkkXbxqHDE8JIznCD) | 3:15 | 2024-10-17 | 2024-11-08 |
 | [Ovvio](https://open.spotify.com/track/4hIUJZRIS0NRWUkyy0dZlJ) | [Asp126](https://open.spotify.com/artist/7eNMxs7VUuMBoGNipu7z5G) | [Ovvio](https://open.spotify.com/album/1QsAEN4NfCjcacRT8cpqwW) | 2:47 | 2024-10-24 | 2024-11-29 |
 | [Palo Santo](https://open.spotify.com/track/5yOjKt8JhWfNKSIFIZAxB5) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Palo Santo](https://open.spotify.com/album/5VPlNVcBojccua6dSW2bes) | 2:55 | 2024-10-03 | 2024-11-22 |
+| [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt) | [GattoToro](https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg), [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Panino d'idiota \(feat\. Casadilego\)](https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX) | 2:23 | 2025-01-30 |  |
 | [passanti](https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [passanti](https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU) | 2:37 | 2024-09-19 | 2024-10-11 |
 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 | 2024-09-26 |  |
 | [Pastafrolla](https://open.spotify.com/track/4YegCBnjht0QaeGJSEeQD4) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Pastafrolla](https://open.spotify.com/album/4Wxr1C1BYKomKpF8WgidJQ) | 2:39 | 2024-09-26 | 2024-10-18 |
@@ -146,6 +147,7 @@
 | [Perché?](https://open.spotify.com/track/5mQgkvtfhFCfmCaBf7q0t4) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Perché?](https://open.spotify.com/album/4Hmy4uGcFPhvlwyvXXvLGf) | 3:39 | 2024-11-14 |  |
 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 | 2024-06-27 | 2024-09-27 |
 | [piangerepiangerepiangere](https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 4:21 | 2024-06-27 | 2024-10-04 |
+| [Piangono anche gli uomini \(feat\. Alberto Bianco\)](https://open.spotify.com/track/7C1QXDHC4GYCC2AS2Lr52B) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Alberto Bianco](https://open.spotify.com/artist/4OvEjbTT6H3zArVIrsEoII) | [Piangono Anche Gli Uomini](https://open.spotify.com/album/2Hp6AtPf7V2jFTTUGnIlkr) | 2:52 | 2025-01-30 |  |
 | [piccola](https://open.spotify.com/track/23rvrgsyz8UfDcdJ0Q2n6W) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [piccola](https://open.spotify.com/album/2K5AyOdOngBYvDhG4pGMcL) | 2:15 | 2024-10-17 | 2024-11-15 |
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 | 2024-10-18 |
 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 | 2024-10-17 | 2024-11-22 |
@@ -193,7 +195,7 @@
 | [Tuttoscorre](https://open.spotify.com/track/6Gv64bQVC4i5TQF0UZBhYA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Tuttoscorre](https://open.spotify.com/album/4tjH3pRRLbzXykO8uvxGMH) | 2:54 | 2024-09-26 | 2024-11-29 |
 | [U mari](https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM) | [Anna Castiglia](https://open.spotify.com/artist/3BSckhNAabodVgd9NkHyJV) | [U mari](https://open.spotify.com/album/4YlpSZ3HRsHEex7uo7LYec) | 2:46 | 2024-08-15 | 2024-08-30 |
 | [Un Altro Universo](https://open.spotify.com/track/235IH4fO2EjnQuZmGjBg6c) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Un Altro Universo](https://open.spotify.com/album/6jBiHku5XSMNvJpoJuTRLQ) | 3:20 | 2024-06-27 | 2024-12-06 |
-| [Un momento migliore](https://open.spotify.com/track/1drertInnr9h9odhSHkDsS) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Un momento migliore](https://open.spotify.com/album/7yu27fd3zjgkPrsTYY4Q4v) | 6:02 | 2025-01-02 |  |
+| [Un momento migliore](https://open.spotify.com/track/1drertInnr9h9odhSHkDsS) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [Un momento migliore](https://open.spotify.com/album/7yu27fd3zjgkPrsTYY4Q4v) | 6:02 | 2025-01-02 | 2025-01-31 |
 | [Un'ora di sole](https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Un'ora di sole](https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol) | 2:36 | 2024-10-31 | 2024-11-22 |
 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2024-06-27 | 2024-07-12 |
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2024-07-18 | 2024-10-11 |

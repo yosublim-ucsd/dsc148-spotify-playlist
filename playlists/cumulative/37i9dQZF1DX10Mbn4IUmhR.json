@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The hottest Global and SA Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0?si=y5bMnMvtQKCSIsX_tnkL4w\">Anica Kiana</a> ",
+  "description": "The hottest Global and SA Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g?si=leu2xbOLRkCnv1LhAcPrNg\">Jeremy Loops</a> ",
   "name": "i <3 pop",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 162490,
       "name": "Beekeeper Of My Dreams",
       "url": "https://open.spotify.com/track/0K4O4qOJWxTUCaA65Gp06z"
@@ -522,6 +522,24 @@
       "duration_ms": 141144,
       "name": "Blame",
       "url": "https://open.spotify.com/track/4CuOZPjdBYIv2LBH2rjlcO"
+    },
+    {
+      "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/6NuzHlz1LSuWtViS3diX1g"
+      },
+      "artists": [
+        {
+          "name": "Mars Baby",
+          "url": "https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/4AxbwoB04zGToNJDTAzaz2"
     },
     {
       "album": {
@@ -644,7 +662,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 309000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/69r3khPb7nN14L9j3l2CKn"
@@ -2235,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "I'm with you",
+        "url": "https://open.spotify.com/album/00u2AM2ldlKOQvjayCJfnS"
+      },
+      "artists": [
+        {
+          "name": "Joseph Linley",
+          "url": "https://open.spotify.com/artist/0v1jQlE1jpZkjOH3rCRjQg"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221815,
+      "name": "I'm with you",
+      "url": "https://open.spotify.com/track/0fsJvbfxeuy4ai5NP4CNcb"
+    },
+    {
+      "album": {
         "name": "If Anything's Left",
         "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
       },
@@ -2426,7 +2462,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 140752,
       "name": "Little Boy Ego",
       "url": "https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW"
@@ -2502,6 +2538,24 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "album": {
@@ -3120,7 +3174,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 180535,
       "name": "Peruse",
       "url": "https://open.spotify.com/track/57xnZEJ628JGjU8MHzIFWv"
@@ -3402,6 +3456,24 @@
       "duration_ms": 158459,
       "name": "Sax For Breakfast",
       "url": "https://open.spotify.com/track/75ruffF3dkhyxXW5EWzjAo"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227480,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/5Dsuz6UsZyoWM3HOaRgQeC"
     },
     {
       "album": {
@@ -3755,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Rose Gold",
+        "url": "https://open.spotify.com/album/0iGhXnhrNFxaSnZN0CK6ML"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Suited",
+      "url": "https://open.spotify.com/track/1ANr6ZNtwd8klYxYdXLR7t"
+    },
+    {
+      "album": {
         "name": "Summer in the 70's",
         "url": "https://open.spotify.com/album/3BiSAWqw2PYOAp2hpWTJvO"
       },
@@ -3874,7 +3964,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 175746,
       "name": "Tell Me How",
       "url": "https://open.spotify.com/track/23kB40iILpGJ03qrMTGbyj"
@@ -4044,6 +4134,24 @@
     {
       "album": {
         "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "album": {
+        "name": "Unheard",
         "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
       },
       "artists": [
@@ -4058,6 +4166,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
+        "name": "Top Of Mind",
+        "url": "https://open.spotify.com/album/3JnKDT4jFI8yl5hC2CsUw1"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155542,
+      "name": "Top Of Mind",
+      "url": "https://open.spotify.com/track/5eqUfcX1d5e6Tg1H6ZgUl3"
     },
     {
       "album": {
@@ -4090,7 +4216,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 203876,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d"
@@ -4476,7 +4602,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -4498,6 +4624,24 @@
       "duration_ms": 151760,
       "name": "With You",
       "url": "https://open.spotify.com/track/79LggjXGWmOdad69uxByNI"
+    },
+    {
+      "album": {
+        "name": "Feathers And Stone",
+        "url": "https://open.spotify.com/album/3AEUs7oHvxIE1RuZEGyL7T"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182741,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/5ipY4ESaKDX78QMHHIIwMH"
     },
     {
       "album": {
@@ -4556,7 +4700,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
@@ -4622,6 +4766,24 @@
       "duration_ms": 327133,
       "name": "You Make Me Feel (Mighty Real)",
       "url": "https://open.spotify.com/track/1sLhKR0VdZ0tgo3stHNEEH"
+    },
+    {
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
     },
     {
       "album": {

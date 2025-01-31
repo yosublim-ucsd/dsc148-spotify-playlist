@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 228000,
       "name": "GIN",
       "url": "https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 208000,
       "name": "Periplu c\u0103tre fericire",
       "url": "https://open.spotify.com/track/4E0ipjLhs2x9RSXMLDB15r"
@@ -1932,6 +1932,28 @@
       "duration_ms": 228884,
       "name": "Shot",
       "url": "https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx"
+    },
+    {
+      "album": {
+        "name": "SHUT DOWN",
+        "url": "https://open.spotify.com/album/1Lq57bULEry6JVWcqVhY4Z"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "AOUR",
+          "url": "https://open.spotify.com/artist/2LjVvlBSYQOf4XY8hD5uRB"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SHUT DOWN",
+      "url": "https://open.spotify.com/track/0rkT3ZuJjaPPGF63zjHguF"
     },
     {
       "album": {
@@ -2380,6 +2402,24 @@
       "duration_ms": 169625,
       "name": "\u00ceNPAI",
       "url": "https://open.spotify.com/track/2Ltwedxz1aSahjXER3LIEA"
+    },
+    {
+      "album": {
+        "name": "\u00ce\u021bi mai aduci aminte?",
+        "url": "https://open.spotify.com/album/4eldcutCk47V7I88N7XBqC"
+      },
+      "artists": [
+        {
+          "name": "Cortes",
+          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "\u00ce\u021bi mai aduci aminte?",
+      "url": "https://open.spotify.com/track/2WPAOakhyTWkBBoXf8T700"
     },
     {
       "album": {

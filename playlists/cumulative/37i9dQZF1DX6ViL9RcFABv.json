@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Carolina Deslandes",
+  "description": "Uma playlist de pura alma pop! Foto: Rita Rocha",
   "name": "Pop PT",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 342666,
       "name": "A Terra Gira (feat. B\u00e1rbara Tinoco) - Ao Vivo no Est\u00e1dio Cidade De Coimbra",
       "url": "https://open.spotify.com/track/6RUgFUI2nGoU2mv04yaDsP"
+    },
+    {
+      "album": {
+        "name": "Adeus",
+        "url": "https://open.spotify.com/album/1QTRetccYfkfr77rHP3lY6"
+      },
+      "artists": [
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Adeus",
+      "url": "https://open.spotify.com/track/4KdOFRQT6eMN1yckrmd2o1"
     },
     {
       "album": {
@@ -546,7 +564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 208484,
       "name": "CASA",
       "url": "https://open.spotify.com/track/3hUk7wHp5Ruas0FLLVW69c"
@@ -738,7 +756,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 224354,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29"
@@ -782,7 +800,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 207873,
       "name": "Como Tu (feat. Ivandro)",
       "url": "https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin"
@@ -2007,6 +2025,28 @@
     },
     {
       "album": {
+        "name": "J\u00e1 vem tarde",
+        "url": "https://open.spotify.com/album/5KVDYR7g3btnFcIGNwnnmH"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lua",
+          "url": "https://open.spotify.com/artist/2yxeGLtzDAClpA5DyrEAw7"
+        },
+        {
+          "name": "Catarina Rocha",
+          "url": "https://open.spotify.com/artist/0JzqHNRRhNPkberFy0CUAJ"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259431,
+      "name": "J\u00e1 vem tarde",
+      "url": "https://open.spotify.com/track/24UYhN68e1cW0PzAm4kdN9"
+    },
+    {
+      "album": {
         "name": "10:56 (Branco)",
         "url": "https://open.spotify.com/album/2EsbHiZhhZkGSXukGC2k72"
       },
@@ -3004,6 +3044,24 @@
       "duration_ms": 158018,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/3s45p5hScFp2vnZO9MxKhF"
+    },
+    {
+      "album": {
+        "name": "saudades tuas.",
+        "url": "https://open.spotify.com/album/0MK4K1a0naVxAeUgMIAL5E"
+      },
+      "artists": [
+        {
+          "name": "Rita Rocha",
+          "url": "https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190886,
+      "name": "saudades tuas.",
+      "url": "https://open.spotify.com/track/32DNY9XRdDPwL6jWufOGcj"
     },
     {
       "album": {

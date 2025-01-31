@@ -1,12 +1,12 @@
 {
-  "description": "New and local indie noise. Cover: Ruby Fields",
-  "num_followers": 60210,
+  "description": "New and local indie noise. Cover: Tyne-James-Organ",
+  "num_followers": 60224,
   "original_name": "Local Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LejwAAAAAXXqydY5yHv4mx8NIs02fQ",
+  "snapshot_id": "Z5t35QAAAAByPCjbWf1cgtauYeWmE2oi",
   "tracks": [
     {
       "added_at": "2025-01-23 13:00:32",
@@ -25,90 +25,26 @@
       "url": "https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka"
     },
     {
-      "added_at": "2025-01-23 13:00:32",
+      "added_at": "2025-01-30 13:00:21",
       "album": {
-        "name": "Seven Years",
-        "url": "https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P"
+        "name": "One Way Ticket",
+        "url": "https://open.spotify.com/album/02ck4HiN1kXx2bfN1gc3yY"
       },
       "artists": [
         {
-          "name": "Letters to Lions",
-          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+          "name": "Tyne-James Organ",
+          "url": "https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M"
         }
       ],
-      "duration_ms": 185262,
-      "name": "Seven Years",
-      "url": "https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX"
+      "duration_ms": 207609,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/3E7cZPWJA0qfZgZjzSEW8U"
     },
     {
-      "added_at": "2025-01-23 13:00:32",
+      "added_at": "2025-01-30 13:00:21",
       "album": {
-        "name": "TOY",
-        "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
-      },
-      "artists": [
-        {
-          "name": "Dear Seattle",
-          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
-        }
-      ],
-      "duration_ms": 184417,
-      "name": "Cut My Hair",
-      "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "See You Again",
-        "url": "https://open.spotify.com/album/0JVzuGmBDqSXC66nqes8R0"
-      },
-      "artists": [
-        {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
-        }
-      ],
-      "duration_ms": 152067,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/4FYqsrv2Uqa6mjuwCcqrWy"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "Forgiving Spree",
-        "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
-      },
-      "artists": [
-        {
-          "name": "Slowly Slowly",
-          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "All the Noise",
-        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 179858,
-      "name": "All the Noise",
-      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "Chantilly",
-        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
+        "name": "Problem",
+        "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
       },
       "artists": [
         {
@@ -116,9 +52,45 @@
           "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 213459,
-      "name": "Chantilly",
-      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+      "duration_ms": 238481,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
+    },
+    {
+      "added_at": "2025-01-30 13:00:21",
+      "album": {
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/7u7J2ZsrQ5TwEGAsKfuccQ"
+      },
+      "artists": [
+        {
+          "name": "GUM",
+          "url": "https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW"
+        },
+        {
+          "name": "Ambrose Kenny-Smith",
+          "url": "https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97"
+        }
+      ],
+      "duration_ms": 208894,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/3I6BZFdnhkpSlGDvTGLg6N"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/3m4LplD32kcXmZWrH7VqM6"
+      },
+      "artists": [
+        {
+          "name": "Fanning Dempsey National Park",
+          "url": "https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Blackstar",
+      "url": "https://open.spotify.com/track/0DlA3HQ1TZrdqrHB6QAtPY"
     },
     {
       "added_at": "2025-01-24 00:27:59",
@@ -139,18 +111,82 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "Rocketship",
-        "url": "https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj"
+        "name": "Seven Years",
+        "url": "https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P"
       },
       "artists": [
         {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+          "name": "Letters to Lions",
+          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
         }
       ],
-      "duration_ms": 116202,
-      "name": "Rocketship",
-      "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
+      "duration_ms": 185262,
+      "name": "Seven Years",
+      "url": "https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
+        "name": "All the Noise",
+        "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 179858,
+      "name": "All the Noise",
+      "url": "https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
+        "name": "TOY",
+        "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "duration_ms": 184417,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
+        "name": "Mini Skirt",
+        "url": "https://open.spotify.com/album/2dexkr0KFlTCd73x5GIQLC"
+      },
+      "artists": [
+        {
+          "name": "Jet City Sports Club",
+          "url": "https://open.spotify.com/artist/6mJdgrD61JZMuliDRsTKEp"
+        }
+      ],
+      "duration_ms": 188821,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/3GOdAa9y0tNFQZshBK9yPE"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/0JVzuGmBDqSXC66nqes8R0"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 152067,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/4FYqsrv2Uqa6mjuwCcqrWy"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -171,34 +207,82 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "Blackstar",
-        "url": "https://open.spotify.com/album/3m4LplD32kcXmZWrH7VqM6"
+        "name": "Rocketship",
+        "url": "https://open.spotify.com/album/5rn2NONdzN8MELCoz81Ryj"
       },
       "artists": [
         {
-          "name": "Fanning Dempsey National Park",
-          "url": "https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA"
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
         }
       ],
-      "duration_ms": 238306,
-      "name": "Blackstar",
-      "url": "https://open.spotify.com/track/0DlA3HQ1TZrdqrHB6QAtPY"
+      "duration_ms": 116202,
+      "name": "Rocketship",
+      "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
+    },
+    {
+      "added_at": "2025-01-30 13:00:21",
+      "album": {
+        "name": "Silver Swarm",
+        "url": "https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 273524,
+      "name": "Silver Swarm",
+      "url": "https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR"
+    },
+    {
+      "added_at": "2025-01-30 13:00:21",
+      "album": {
+        "name": "March on for Pax Ramona",
+        "url": "https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 273230,
+      "name": "March on for Pax Ramona",
+      "url": "https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih"
     },
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "Blood's on fire",
-        "url": "https://open.spotify.com/album/1pufe0kyP5ZHGywP6UtSoj"
+        "name": "Chantilly",
+        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
       },
       "artists": [
         {
-          "name": "VOWWS",
-          "url": "https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb"
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 181546,
-      "name": "Blood's on fire",
-      "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
+      "duration_ms": 213459,
+      "name": "Chantilly",
+      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+    },
+    {
+      "added_at": "2025-01-30 13:00:21",
+      "album": {
+        "name": "Welcome Back (To The Glow)",
+        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 285824,
+      "name": "Welcome Back (To The Glow)",
+      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -215,22 +299,6 @@
       "duration_ms": 265525,
       "name": "Stay The Same",
       "url": "https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "Mini Skirt",
-        "url": "https://open.spotify.com/album/2dexkr0KFlTCd73x5GIQLC"
-      },
-      "artists": [
-        {
-          "name": "Jet City Sports Club",
-          "url": "https://open.spotify.com/artist/6mJdgrD61JZMuliDRsTKEp"
-        }
-      ],
-      "duration_ms": 188821,
-      "name": "Mini Skirt",
-      "url": "https://open.spotify.com/track/3GOdAa9y0tNFQZshBK9yPE"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -267,66 +335,50 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "Parched",
-        "url": "https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN"
+        "name": "Blood's on fire",
+        "url": "https://open.spotify.com/album/1pufe0kyP5ZHGywP6UtSoj"
       },
       "artists": [
         {
-          "name": "Old Mervs",
-          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+          "name": "VOWWS",
+          "url": "https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb"
         }
       ],
-      "duration_ms": 235534,
-      "name": "Parched",
-      "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
+      "duration_ms": 181546,
+      "name": "Blood's on fire",
+      "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
     },
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "Afterthought",
-        "url": "https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2"
+        "name": "Forgiving Spree",
+        "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
       },
       "artists": [
         {
-          "name": "Coast Arcade",
-          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+          "name": "Slowly Slowly",
+          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
         }
       ],
-      "duration_ms": 204031,
-      "name": "Afterthought",
-      "url": "https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI"
+      "duration_ms": 195906,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"
     },
     {
-      "added_at": "2025-01-23 13:00:32",
+      "added_at": "2025-01-30 13:00:21",
       "album": {
-        "name": "Again, Again",
-        "url": "https://open.spotify.com/album/29ZVjFtgrzfQwJXtBH8jaB"
+        "name": "Taking On Water",
+        "url": "https://open.spotify.com/album/6zJRXO2bxIIZkUufs4uzEq"
       },
       "artists": [
         {
-          "name": "Day Dreamers",
-          "url": "https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ"
+          "name": "The Pretty Littles",
+          "url": "https://open.spotify.com/artist/0xT92KyrqgKqPuKBtRSqEO"
         }
       ],
-      "duration_ms": 157232,
-      "name": "Again, Again",
-      "url": "https://open.spotify.com/track/4EiZVKwcEuZVjXWpZVAoLX"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "Shitty Thrills",
-        "url": "https://open.spotify.com/album/7C35QNTsIDM12RhWG5Vo4y"
-      },
-      "artists": [
-        {
-          "name": "BIRD ISLAND",
-          "url": "https://open.spotify.com/artist/3tx5aw2TDq7jiFd9HAtjNA"
-        }
-      ],
-      "duration_ms": 195290,
-      "name": "Fuck All",
-      "url": "https://open.spotify.com/track/2np5tX6IeIKkUPqS8mmJiT"
+      "duration_ms": 226983,
+      "name": "Taking On Water",
+      "url": "https://open.spotify.com/track/3r4hJ1hMr2s4c3mYrzCY4c"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -347,6 +399,22 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/5HGaHnQ16xG7Xd0pyefVf2"
+      },
+      "artists": [
+        {
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+        }
+      ],
+      "duration_ms": 204031,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/0BzXYvt2u33TaSbDxHdfFI"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
         "name": "Fake It",
         "url": "https://open.spotify.com/album/4tFtYbG00DjzL1nhZOkGuO"
       },
@@ -363,6 +431,54 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
+        "name": "Parched",
+        "url": "https://open.spotify.com/album/2urlK9tO4JwFSA5jngg2eN"
+      },
+      "artists": [
+        {
+          "name": "Old Mervs",
+          "url": "https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg"
+        }
+      ],
+      "duration_ms": 235534,
+      "name": "Parched",
+      "url": "https://open.spotify.com/track/47pFVK4RHg0jzXIcch1R4T"
+    },
+    {
+      "added_at": "2025-01-30 13:00:21",
+      "album": {
+        "name": "twentytwentythree",
+        "url": "https://open.spotify.com/album/47DUR7v0OFB9fZlosLWxo1"
+      },
+      "artists": [
+        {
+          "name": "Bukowski",
+          "url": "https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR"
+        }
+      ],
+      "duration_ms": 132034,
+      "name": "twentytwentythree",
+      "url": "https://open.spotify.com/track/31RBep2ROc1EgNWWfFEjV4"
+    },
+    {
+      "added_at": "2025-01-30 13:00:21",
+      "album": {
+        "name": "Wish I Had a Friend",
+        "url": "https://open.spotify.com/album/1MU0xzR8rBE14mcEIHGa3Z"
+      },
+      "artists": [
+        {
+          "name": "Hevenshe",
+          "url": "https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft"
+        }
+      ],
+      "duration_ms": 293718,
+      "name": "Wish I Had a Friend",
+      "url": "https://open.spotify.com/track/7ruMeQQkscgQGCtDG5XNIL"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
         "name": "This High Up",
         "url": "https://open.spotify.com/album/1pwN3Vli2mtFaWYBmcXBzm"
       },
@@ -375,6 +491,38 @@
       "duration_ms": 111320,
       "name": "This High Up",
       "url": "https://open.spotify.com/track/6fzrti55gh3cXknLB7kcCJ"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
+        "name": "Shitty Thrills",
+        "url": "https://open.spotify.com/album/7C35QNTsIDM12RhWG5Vo4y"
+      },
+      "artists": [
+        {
+          "name": "BIRD ISLAND",
+          "url": "https://open.spotify.com/artist/3tx5aw2TDq7jiFd9HAtjNA"
+        }
+      ],
+      "duration_ms": 195290,
+      "name": "Fuck All",
+      "url": "https://open.spotify.com/track/2np5tX6IeIKkUPqS8mmJiT"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
+        "name": "Again, Again",
+        "url": "https://open.spotify.com/album/29ZVjFtgrzfQwJXtBH8jaB"
+      },
+      "artists": [
+        {
+          "name": "Day Dreamers",
+          "url": "https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ"
+        }
+      ],
+      "duration_ms": 157232,
+      "name": "Again, Again",
+      "url": "https://open.spotify.com/track/4EiZVKwcEuZVjXWpZVAoLX"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -443,22 +591,6 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "Old and Grey",
-        "url": "https://open.spotify.com/album/3L9UjsYXKNhY3hSBKSpoWZ"
-      },
-      "artists": [
-        {
-          "name": "Pretty Uglys",
-          "url": "https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9"
-        }
-      ],
-      "duration_ms": 186873,
-      "name": "Old and Grey",
-      "url": "https://open.spotify.com/track/3UxgO44rRy8iIvx0AU3XP5"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
         "name": "Josh to Earth",
         "url": "https://open.spotify.com/album/1BjHQuYPd2o3FlNBvrYSNb"
       },
@@ -471,6 +603,38 @@
       "duration_ms": 252446,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/6yAzXAcR2tlrCH59qxkC0S"
+    },
+    {
+      "added_at": "2025-01-30 13:00:21",
+      "album": {
+        "name": "Centrelink Summer",
+        "url": "https://open.spotify.com/album/5X5qNCztfmypGeRTsuo0ca"
+      },
+      "artists": [
+        {
+          "name": "Suzi",
+          "url": "https://open.spotify.com/artist/7yyW28zOEIrNs2Rs3eq9cI"
+        }
+      ],
+      "duration_ms": 199766,
+      "name": "Centrelink Summer",
+      "url": "https://open.spotify.com/track/3jQjHhER7INf1GJ6OKwlC7"
+    },
+    {
+      "added_at": "2025-01-23 13:00:32",
+      "album": {
+        "name": "Old and Grey",
+        "url": "https://open.spotify.com/album/3L9UjsYXKNhY3hSBKSpoWZ"
+      },
+      "artists": [
+        {
+          "name": "Pretty Uglys",
+          "url": "https://open.spotify.com/artist/3cquBoepXVGq5SchQmDsz9"
+        }
+      ],
+      "duration_ms": 186873,
+      "name": "Old and Grey",
+      "url": "https://open.spotify.com/track/3UxgO44rRy8iIvx0AU3XP5"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -987,22 +1151,6 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "Man Scout",
-        "url": "https://open.spotify.com/album/1mEOsC96q6KWk7Y6xCaUGu"
-      },
-      "artists": [
-        {
-          "name": "Radium Dolls",
-          "url": "https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr"
-        }
-      ],
-      "duration_ms": 184142,
-      "name": "Man Scout",
-      "url": "https://open.spotify.com/track/6tIo4qwgdqxZT3IQI3h1ws"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
         "name": "Big Speak",
         "url": "https://open.spotify.com/album/606BvrH9jzJ4NLtJNRmzsa"
       },
@@ -1115,22 +1263,6 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "Let's Live a Life Better Than This",
-        "url": "https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe"
-      },
-      "artists": [
-        {
-          "name": "A. Swayze & The Ghosts",
-          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "Sick Kinda WRLD",
-      "url": "https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
         "name": "Pinkies",
         "url": "https://open.spotify.com/album/6BSOTF3SxggoLOhAUXWodK"
       },
@@ -1175,38 +1307,6 @@
       "duration_ms": 238514,
       "name": "Light Up The Path",
       "url": "https://open.spotify.com/track/0fuvxtyhFjrWFJYxg6fFUq"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "not ur bitch",
-        "url": "https://open.spotify.com/album/1LBpCcJeY72WC4O1uuozAm"
-      },
-      "artists": [
-        {
-          "name": "Sesame Girl",
-          "url": "https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX"
-        }
-      ],
-      "duration_ms": 138810,
-      "name": "not ur bitch",
-      "url": "https://open.spotify.com/track/4iINdMihS8BH7OW2XDBx7J"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "right now, forever",
-        "url": "https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U"
-      },
-      "artists": [
-        {
-          "name": "Lucian Rice",
-          "url": "https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "FFS",
-      "url": "https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -1259,22 +1359,6 @@
     {
       "added_at": "2025-01-23 13:00:32",
       "album": {
-        "name": "The Lawn",
-        "url": "https://open.spotify.com/album/3TVJFOPaptPsYnEIY51vXY"
-      },
-      "artists": [
-        {
-          "name": "The Green Child",
-          "url": "https://open.spotify.com/artist/27dAjO4MZcVWFaKBPNpv5c"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "The Lawn",
-      "url": "https://open.spotify.com/track/3NfOkOWIqDTD2IubvHihUH"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
         "name": "Pacific Highway Music",
         "url": "https://open.spotify.com/album/3Gj02Upr1O1ojSMzE0Jtd3"
       },
@@ -1287,38 +1371,6 @@
       "duration_ms": 165093,
       "name": "Stuck In Cheyenne",
       "url": "https://open.spotify.com/track/4M6WG6R3Rx3aB7LrNL9mx8"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "If I Get In, Where Would I Go?",
-        "url": "https://open.spotify.com/album/6wA2IXHY4Bsi6uZA2BgezN"
-      },
-      "artists": [
-        {
-          "name": "Greta Stanley",
-          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Saskia",
-      "url": "https://open.spotify.com/track/1UGuySsNSRb93OSO2PWy76"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/5w8bTiMgsEUfvzHC1aqi25"
-      },
-      "artists": [
-        {
-          "name": "High Tropics",
-          "url": "https://open.spotify.com/artist/5ZAx5s0XKuGjKMikU9GCrC"
-        }
-      ],
-      "duration_ms": 198317,
-      "name": "Black And Blue",
-      "url": "https://open.spotify.com/track/0l8Hl8nBG5YjVZqrl4A0QV"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -1383,22 +1435,6 @@
       "duration_ms": 213666,
       "name": "Move On",
       "url": "https://open.spotify.com/track/3usPMzPwvPJfP5PzX5IeRr"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/2aPcmHmXm8VOirMVurtynw"
-      },
-      "artists": [
-        {
-          "name": "Jim Nothing",
-          "url": "https://open.spotify.com/artist/4eb7qCBJliHYY0oYgFFdYR"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/6KAk8ufRJc4ZqGRkIRfCM5"
     },
     {
       "added_at": "2025-01-23 13:00:32",
@@ -1559,22 +1595,6 @@
       "duration_ms": 116760,
       "name": "Rental Girlfriend",
       "url": "https://open.spotify.com/track/6SDT43k16uUxMUqvug3zeY"
-    },
-    {
-      "added_at": "2025-01-23 13:00:32",
-      "album": {
-        "name": "I Want More Life",
-        "url": "https://open.spotify.com/album/7zumMYeCe6JsxOMxvtAUOf"
-      },
-      "artists": [
-        {
-          "name": "Chutney",
-          "url": "https://open.spotify.com/artist/0x6G9fepCzjn26EtxocZDQ"
-        }
-      ],
-      "duration_ms": 249362,
-      "name": "I Want More Life",
-      "url": "https://open.spotify.com/track/0Vukf9wQ1S4WPxmc1K3ii2"
     },
     {
       "added_at": "2025-01-23 13:00:32",

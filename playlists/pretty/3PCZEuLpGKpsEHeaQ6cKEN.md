@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Arodes, Camelphat
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,894 likes - 157 songs - 8 hr 5 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 270,882 likes - 157 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 156 | [Ethnica \(Pasilda\)](https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4), [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Ethnica \(Pasilda\)](https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q) | 2:50 |
 | 157 | [Brothers & Sisters](https://open.spotify.com/track/3ZMqbTFzmtfmklBhK9MPVT) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Brothers & Sisters](https://open.spotify.com/album/4zKeNvy9E8DRDi0BvzkxWm) | 3:05 |
 
-Snapshot ID: `AADTRmHUh0joiLZ5oS/4t0FYk6B62d1D`
+Snapshot ID: `AADTTMoLertb2xFGw0Bt7SX20NiqTFfb`

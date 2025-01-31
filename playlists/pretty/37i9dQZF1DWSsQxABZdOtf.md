@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,133 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,137 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 15 | [Naija Babes](https://open.spotify.com/track/1DCUYnbWTep8rmCcSywMQw) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Naija Babes](https://open.spotify.com/album/7ntOCkGQmsuftndPLRGx26) | 2:18 |
 | 16 | [Hand on my heart \- Miss Jay Remix](https://open.spotify.com/track/7IXQ48modE75hEdnh7BiVS) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn) | [Hand on my heart \(Miss Jay Remix\)](https://open.spotify.com/album/5TpPAntdXWBDBzw26v7xkf) | 3:51 |
 | 17 | [Screen Cleaner](https://open.spotify.com/track/0Mov1mEZkKFHTGgFiO3ONa) | [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Screen Cleaner](https://open.spotify.com/album/6knmBybayTL36FPFPge1TI) | 3:29 |
-| 18 | [flex fm \(freddit\)](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\)](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 |
+| 18 | [flex fm \(freddit\) feat\. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\) feat\. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 |
 | 19 | [WAH GWAN](https://open.spotify.com/track/2fgWY3yX2mLDQHmdRpdtwn) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [WAH GWAN](https://open.spotify.com/album/2IfYoDWQeOs1JqwtyTLuAw) | 2:30 |
 | 20 | [BACK ON](https://open.spotify.com/track/2hvQBzjNfHVUGIB6xXIWKj) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [OUTSPOKEN](https://open.spotify.com/album/5oUji37vIpvyDw1TlsKOLK) | 3:21 |
 | 21 | [Only Love](https://open.spotify.com/track/2nVBisvPxcBnHHyn2PPaQK) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Only Love](https://open.spotify.com/album/5dSzvbgAgtZ3MWuJwgVbhn) | 3:26 |

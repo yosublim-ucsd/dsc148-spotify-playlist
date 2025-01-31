@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-215 songs - 11 hr 20 min
+216 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [4 Mint](https://open.spotify.com/track/6D9Eq8SmDpTAw3vlUhYrZ3) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [4 Mint](https://open.spotify.com/album/7KNDPUiabecXfUPdLK29Ti) | 4:14 | 2025-01-08 |  |
 | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/7vUfIIQiH3K3J5tmN46HE5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [8 Raflaan \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/5BEF6sxOMMTJ8YsAP6r7lw) | 1:55 | 2021-12-18 |  |
 | [90Degree](https://open.spotify.com/track/6pCUdn2CoXIFwryZpuIk1z) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Majestic Lane](https://open.spotify.com/album/2mSkfnGXVg801G25WOgzXk) | 3:16 | 2025-01-08 | 2025-01-30 |
+| [Akhiyan Chaar](https://open.spotify.com/track/10pbzkxHhIiT033xFUYBCd) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B) | [Akhiyan Chaar](https://open.spotify.com/album/5ejbNR7uA9bzWtkjglZW0x) | 3:00 | 2025-01-30 |  |
 | [Alone Jatt](https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Love War](https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ) | 3:11 | 2025-01-08 |  |
 | [Apne Vyah De Vich](https://open.spotify.com/track/7bJDvpRGCMBOJyHc0IGlkz) | [Rajvir Jawanda](https://open.spotify.com/artist/6TRcwPQiddMiQ6H22iwnoG) | [Apne Vyah De Vich](https://open.spotify.com/album/33nY8dfVBBoKeuyjO8LrlD) | 3:34 | 2025-01-08 | 2025-01-11 |
 | [Ask About Me](https://open.spotify.com/track/1IRqRr6FnqMPPMPgjz7bef) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 4:19 | 2022-07-05 | 2023-07-27 |
@@ -210,7 +211,7 @@
 | [Umbrella](https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Umbrella](https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq) | 3:13 | 2021-12-18 | 2022-01-11 |
 | [Unfollow](https://open.spotify.com/track/06yD1YQajTZhCsBfLSrEXL) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Members Only](https://open.spotify.com/album/1BUqgzWZeWCbMWJXb8L76Y) | 2:54 | 2023-09-01 | 2023-10-21 |
 | [Unfuckwithable \(Bonus Track from Moosetape\)](https://open.spotify.com/track/4N0TO4VfONQDwynV2khBL1) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Unfuckwithable \(Bonus Track from Moosetape\)](https://open.spotify.com/album/2boT4LsTrMusn1fzSnM3Oq) | 4:43 | 2025-01-08 |  |
-| [Vaddi Galbaat](https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Vaddi Galbaat](https://open.spotify.com/album/4rfmwIjMsdG9QrCKpDYibW) | 3:34 | 2025-01-08 |  |
+| [Vaddi Galbaat](https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Vaddi Galbaat](https://open.spotify.com/album/4rfmwIjMsdG9QrCKpDYibW) | 3:34 | 2025-01-08 | 2025-01-31 |
 | [Vekh Vekh](https://open.spotify.com/track/4S704cDbxjj5O6lIonYgeL) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Shaan & Verinder](https://open.spotify.com/artist/2uG6VR36Iw0g9AmrKRbdOa) | [Vekh Vekh](https://open.spotify.com/album/781bPmBq4Fwat19xjUlNNh) | 2:34 | 2023-10-20 | 2023-11-18 |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2021-12-18 | 2024-10-08 |
 | [Vibe](https://open.spotify.com/track/4cQFpei7RioqdK8BVcUN7n) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:50 | 2022-02-01 | 2023-05-26 |

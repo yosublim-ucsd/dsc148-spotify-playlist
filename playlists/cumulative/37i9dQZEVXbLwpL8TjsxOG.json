@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 232007,
       "name": "Dear My Friend,",
       "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
@@ -12780,7 +12780,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -12798,7 +12798,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
@@ -14264,7 +14264,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 225343,
       "name": "\u4f60\u662f\u6211\u7684\u56de\u61b6\u6bba",
       "url": "https://open.spotify.com/track/5mcbg5lIyu9Ht9Eo0RNoxW"
@@ -14282,7 +14282,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 214720,
       "name": "\u4f60\u6700\u7d05",
       "url": "https://open.spotify.com/track/258rzvqYIdoukZjRmgY1Ra"
@@ -14466,7 +14466,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 201800,
       "name": "\u50b7\u5fc3\u7684\u6642\u5019\u5225\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp"
@@ -16202,7 +16202,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 235317,
       "name": "\u62dc\u8a17",
       "url": "https://open.spotify.com/track/1wNJcZPwOanXp5YLU8ivC9"
@@ -18034,7 +18034,7 @@
       ],
       "date_added": "2024-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-13",
+      "date_removed": null,
       "duration_ms": 196160,
       "name": "\u795d\u798f\u4f60",
       "url": "https://open.spotify.com/track/6dhljXSqZqE6kPA23dcSxC"
@@ -18316,7 +18316,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 290267,
       "name": "\u7d14\u9280\u5b50\u5f48",
       "url": "https://open.spotify.com/track/00l58ywFDoFBShu2vvFsIz"
@@ -19030,6 +19030,24 @@
       "duration_ms": 262735,
       "name": "\u8ab0\u80fd\u907f\u958b\u6200\u611b\u9019\u4e8b\u60c5",
       "url": "https://open.spotify.com/track/0tKTDRnl8qagYtRuHQ1sBY"
+    },
+    {
+      "album": {
+        "name": "\u96e3\u5fd8\u8a31\u51a0\u5091Sam Hui 30\u5e74",
+        "url": "https://open.spotify.com/album/1nG8714ZVyfUjNJYBdAZ79"
+      },
+      "artists": [
+        {
+          "name": "Sam Hui",
+          "url": "https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "\u8ca1\u795e\u5230",
+      "url": "https://open.spotify.com/track/2xmMpSytpTUdFf9Xmr7ATF"
     },
     {
       "album": {

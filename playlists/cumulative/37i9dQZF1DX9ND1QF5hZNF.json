@@ -125,6 +125,32 @@
     },
     {
       "album": {
+        "name": "Agnus Dei (Ema Feud & B-Rain Remix)",
+        "url": "https://open.spotify.com/album/50TFHMtN6V8jmli3Bi66LJ"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Krull",
+          "url": "https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8"
+        },
+        {
+          "name": "Ema Feud",
+          "url": "https://open.spotify.com/artist/2rPtbgOmhSJcV7GenHKwPd"
+        },
+        {
+          "name": "B-Rain",
+          "url": "https://open.spotify.com/artist/3hWT3bsPOSKsJkR30Z9xQr"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Agnus Dei - Ema Feud & B-Rain Remix",
+      "url": "https://open.spotify.com/track/3HUSLhsEqjRYWdKelrNZV0"
+    },
+    {
+      "album": {
         "name": "Alike / Surface",
         "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
       },
@@ -802,10 +828,50 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 193531,
       "name": "California - JR Ellison Mix",
       "url": "https://open.spotify.com/track/6JLiMZkORLbOVGjhXkYkbo"
+    },
+    {
+      "album": {
+        "name": "Can I Tell You a Secret",
+        "url": "https://open.spotify.com/album/5qqT029IqjdQkCMZfm6KPG"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189262,
+      "name": "Can I Tell You a Secret",
+      "url": "https://open.spotify.com/track/6taRJdzTh60z4O3Z4Ksj6m"
+    },
+    {
+      "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/1vll2sQPQ1mW28Sq5bUalc"
+      },
+      "artists": [
+        {
+          "name": "SOXX",
+          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
+        },
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133760,
+      "name": "Careless",
+      "url": "https://open.spotify.com/track/4yCgGNBPqIWzOGB3WAakR3"
     },
     {
       "album": {
@@ -1514,7 +1580,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 142090,
       "name": "hello",
       "url": "https://open.spotify.com/track/2TWUe5nUlFPlpAz1wa2xgC"
@@ -2556,7 +2622,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 142500,
       "name": "No Limits",
       "url": "https://open.spotify.com/track/5aUlOnQ7Elb98Nfp7gUohd"
@@ -3042,7 +3108,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 228130,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/52qHDEnksl0jZt3OJHDi3i"
@@ -3144,6 +3210,24 @@
       "duration_ms": 155789,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3VGjvg0zqD6dh24TzJlo7l"
+    },
+    {
+      "album": {
+        "name": "VOL RETARD\u00c9 DE 42 MN",
+        "url": "https://open.spotify.com/album/4o5CfZ2jmq6lvavcacWRlh"
+      },
+      "artists": [
+        {
+          "name": "MEZERG",
+          "url": "https://open.spotify.com/artist/7G9gz8bsP8VM5CMFTSBvNe"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "Sentimental Pilot",
+      "url": "https://open.spotify.com/track/5JV1rGklYVvzeoSof9qlhq"
     },
     {
       "album": {

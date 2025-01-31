@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-753 songs - 1 day 16 hr 10 min
+756 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [are you here](https://open.spotify.com/track/02Xovos0EpvUeSsivTEAPU) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [are you here](https://open.spotify.com/album/4buYgkKgC2ePyT0XmOK638) | 2:48 | 2023-09-07 | 2024-01-06 |
 | [are you talking to me](https://open.spotify.com/track/7DYeRZsqwvQkWurdyPRMw5) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [are you talking to me](https://open.spotify.com/album/5PBIATw8boiXVdiXMVi9td) | 2:50 | 2023-10-19 | 2024-01-06 |
 | [Around Me](https://open.spotify.com/track/1htEfLu0TYvsJRr2WsInkD) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [Around Me](https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ) | 3:30 | 2023-08-31 | 2024-01-06 |
+| [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 | 2025-01-30 |  |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-06-22 |  |
 | [Astray](https://open.spotify.com/track/6wg4BDrJ68j2ug62VSyXwT) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Morning Glory](https://open.spotify.com/album/123UYRsFD3mu0hM4H8ZyIa) | 4:48 | 2023-10-12 | 2024-01-06 |
 | [Astray \- CRi Remix](https://open.spotify.com/track/1kHodAntPiM2UpEhC1rJMy) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Astray \(CRi Remix\)](https://open.spotify.com/album/7yWguavg78nSjTkuEQsJJZ) | 4:12 | 2023-12-08 |  |
@@ -102,6 +103,7 @@
 | [BYE.](https://open.spotify.com/track/4woipfCAkLPEBxKowGcB9G) | [19Clouds](https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [BYE.](https://open.spotify.com/album/3eVQAoOGoHQNhZShyVlA9C) | 2:25 | 2023-10-26 | 2024-01-06 |
 | [Call My Name \- MINNA REMIX](https://open.spotify.com/track/35DoYTYpketPPXJRmmdJ4f) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [minna](https://open.spotify.com/artist/431nddlRLGubwWz0GqJZPc) | [Call my name \(MINNA REMIX\)](https://open.spotify.com/album/5hmTmxeiwistivOz7Ocz71) | 4:00 | 2023-04-27 | 2023-07-22 |
 | [Call On Me \(with Tove Lo\) \- SILK "2am" Remix](https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:29 | 2023-05-11 |  |
+| [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-01-30 |  |
 | [calling for you](https://open.spotify.com/track/0KLFyFkEaW9TQy23BTb9do) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [calling for you](https://open.spotify.com/album/3kIX1b8sDyu4Ter3BtXs9w) | 2:21 | 2023-04-27 | 2024-01-06 |
 | [Can It Be Easy](https://open.spotify.com/track/22GJxi8BjnUyoML2YW9YDv) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Can It Be Easy](https://open.spotify.com/album/6ZJxF14bXfhrSLHwX8qNhk) | 2:41 | 2024-08-29 |  |
 | [can't get you out of my mind](https://open.spotify.com/track/1KU7qJxMpWJaHwr56mEG9f) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [can’t get you out of my mind](https://open.spotify.com/album/1C1FK5yrVZ7rZQzousGzSb) | 2:05 | 2024-12-05 |  |
@@ -442,6 +444,7 @@
 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 | 2023-04-13 |  |
 | [My Oh My \(with Bebe Rexha & Tove Lo\) \- Franklin Remix](https://open.spotify.com/track/6WIuyJlCP7NxGc2Af7S6Bf) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [My Oh My \(with Bebe Rexha & Tove Lo\) \[The Remixes\]](https://open.spotify.com/album/1tHvSDsO066A9Y61owl2d1) | 3:21 | 2024-07-25 |  |
 | [Mysoul](https://open.spotify.com/track/6ntoVaDBf5Hc6cOIYBcaJg) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Mysoul](https://open.spotify.com/album/70HUV0y654sYmhjVuWgxsO) | 3:45 | 2023-06-29 |  |
+| [Mystic Pebble \- Mood Talk Remix](https://open.spotify.com/track/5ayUGL4gx4ntTUOi9e8dgv) | [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB), [Mood Talk](https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D) | [Mystic Pebble \(Mood Talk Remix\)](https://open.spotify.com/album/0eG1bYIW4MsFyI7XIOdYc9) | 4:12 | 2025-01-30 |  |
 | [Need 2](https://open.spotify.com/track/0wkr8bQUqNLdfmbeDUJMqg) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch) | [Need 2](https://open.spotify.com/album/79ZaIlw5sTErnWdbgJvFQ0) | 2:05 | 2024-01-18 |  |
 | [Need Somebody \(Icarus Remix\)](https://open.spotify.com/track/42Axq8KVKQLestbSsQG1Qe) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Need Somebody \(Icarus Remix\)](https://open.spotify.com/album/5ZmEZhwaAUEkkkhRUhGUFM) | 4:44 | 2023-04-13 | 2024-01-06 |
 | [Need U](https://open.spotify.com/track/3uQY3PZ4JjSvxT7YxBBYTH) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [Madishu](https://open.spotify.com/artist/3tQg7VPp1T879q1AE4yIM2) | [Need U](https://open.spotify.com/album/4lOSZwz3dUTxHjDy4Rqt0M) | 3:26 | 2024-04-18 |  |

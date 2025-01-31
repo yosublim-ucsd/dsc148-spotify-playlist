@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Aashir Wajahat
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,065 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,071 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 9 | [Paas](https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Paas](https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb) | 2:40 |
 | 10 | [Youn Hi](https://open.spotify.com/track/5YQs0uhqlgQnkbWnI6mRnB) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO), [Hadia Hashmi](https://open.spotify.com/artist/1Iwb5iPMC2VZoiiZphZqMi), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Youn Hi](https://open.spotify.com/album/1sRG6CZMFskUwP3HvTskUc) | 3:18 |
 | 11 | [Hum Tum](https://open.spotify.com/track/4ETUS1BAxTSO0Gn249PsY6) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Ahtasham Bashir](https://open.spotify.com/artist/1PNQoDHkIIzjdYZNX4mb8p) | [Hum Tum](https://open.spotify.com/album/42Fox5coqRxdf9H5QSMCrl) | 2:52 |
-| 12 | [Taaray](https://open.spotify.com/track/7aWPJjyTSFtPRBer2IB6j7) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg) | [Taaray](https://open.spotify.com/album/2mtFb2UfeiQQLqgMpOlAQk) | 2:06 |
+| 12 | [Taaray](https://open.spotify.com/track/7aWPJjyTSFtPRBer2IB6j7) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Asfand](https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX) | [Taaray](https://open.spotify.com/album/2mtFb2UfeiQQLqgMpOlAQk) | 2:06 |
 | 13 | [Mota Pait](https://open.spotify.com/track/2ESqU4QphbIcQIINFY172R) | [Bhaloo](https://open.spotify.com/artist/18va6InAyA0N64ZV2QM0Is), [Shahab Hussain](https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up), [Faraz Anwar](https://open.spotify.com/artist/4WFQS1bqSok87rLhlWb8Ep), [King Faludah](https://open.spotify.com/artist/1y4aLVzUqqD4dAHQQyEXYn), [Anas Alam Khan](https://open.spotify.com/artist/5jBNrNEJZsx9jAmNJtnPkd), [Aziz Kazi](https://open.spotify.com/artist/5fcwlFnNLnw4OSMy6oNdnG) | [Dil pe na lijo](https://open.spotify.com/album/1CUMClPwqWDy7VmqyQqsCb) | 4:08 |
 | 14 | [Hum Kahan](https://open.spotify.com/track/4lU9mJtD01KknelD2W2jX8) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Hum Kahan](https://open.spotify.com/album/6de2uubuc6Oi51s8A7PPkV) | 3:09 |
 | 15 | [Haaray](https://open.spotify.com/track/2LCvypYL9a21Hln4A4EdWU) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Haaray](https://open.spotify.com/album/5yRZJ8DeZ2eeDbYqW83KOd) | 3:04 |

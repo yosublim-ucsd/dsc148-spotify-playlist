@@ -226,7 +226,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 214330,
       "name": "Anbenum (From \"Leo\")",
       "url": "https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 352710,
       "name": "Ennodu Nee Irundhaal",
       "url": "https://open.spotify.com/track/7mLEUzAulFygMchoGMrP8E"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 293546,
       "name": "Kaalathukkum Nee Venum - From \"Vendhu Thanindhathu Kaadu\"",
       "url": "https://open.spotify.com/track/1NoaJoxPKQr9XNLOuKTyNV"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 234514,
       "name": "Life of Pazham",
       "url": "https://open.spotify.com/track/0gDwLf7vBAX7470lXfkYpp"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-26",
+      "date_removed": null,
       "duration_ms": 356718,
       "name": "Maruvaarthai",
       "url": "https://open.spotify.com/track/2G53OcVphvDNOs08gptddN"
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 341786,
       "name": "Oru Kili Oru Kili",
       "url": "https://open.spotify.com/track/4KeY07xAKNv7hftaTRaqy4"
@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 281186,
       "name": "Palindrome",
       "url": "https://open.spotify.com/track/4w0uCEcrOfUfWYMasMVwI9"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 223326,
       "name": "Po Indru Neeyaga",
       "url": "https://open.spotify.com/track/7fttjqzmvgvpRQoOzyYng3"
@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 260124,
       "name": "Rendu Kaadhal (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/4Lm0D6ituSgOi1AXLhUqcx"
@@ -2896,7 +2896,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 311428,
       "name": "Seramal Ponal",
       "url": "https://open.spotify.com/track/0FTPiuMAGuvXVjeXh7g8ot"
@@ -3032,7 +3032,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 228214,
       "name": "Thaarame Thaarame - From \"Kadaram Kondan\"",
       "url": "https://open.spotify.com/track/2x1R5G71p2UsLEQtH6gtdL"
@@ -3124,7 +3124,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 262539,
       "name": "Thangamey",
       "url": "https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3"
@@ -3322,7 +3322,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 225380,
       "name": "Vaa Vaathi",
       "url": "https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG"
@@ -3462,6 +3462,36 @@
       "duration_ms": 312280,
       "name": "Velicha Poove",
       "url": "https://open.spotify.com/track/3ywjIbXWgG5Vjom6zhA2aP"
+    },
+    {
+      "album": {
+        "name": "Amaran (Tamil)",
+        "url": "https://open.spotify.com/album/1xONf0eKTmlbuy13uaStDJ"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Vennilavu Saaral",
+      "url": "https://open.spotify.com/track/79Aa3LFIeZpMWTXs8y3Qgk"
     },
     {
       "album": {
@@ -3758,7 +3788,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 298666,
       "name": "Yaaraiyum Ivlo Azhaga - From \"Sulthan\"",
       "url": "https://open.spotify.com/track/6PDkbkVKBCMIwm1wlDhT3s"
@@ -3890,7 +3920,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 274678,
       "name": "Yennai Maatrum Kadhale",
       "url": "https://open.spotify.com/track/6RXJKdpBp6AVL6H6sHyNp0"

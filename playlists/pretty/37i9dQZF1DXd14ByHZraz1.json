@@ -1,51 +1,51 @@
 {
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Sevek",
-  "num_followers": 791725,
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Vintage Culture",
+  "num_followers": 791710,
   "original_name": "mint brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5egpwAAAAD3QqbEnuS3VMRkgvMI3YtR",
+  "snapshot_id": "Z5w9agAAAABZ0pvtrParHCNjbibLc1hw",
   "tracks": [
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
-        "name": "Kikada",
-        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
+        "name": "Vintage Culture & Friends, Vol. 6 (Pt. II)",
+        "url": "https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP"
       },
       "artists": [
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Kikada",
-      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "SERENA",
-        "url": "https://open.spotify.com/album/59B2uh9brmSmphZ9G1DZfC"
-      },
-      "artists": [
-        {
-          "name": "RUBACK",
-          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Amesens",
-          "url": "https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN"
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
         }
       ],
-      "duration_ms": 265161,
-      "name": "SERENA",
-      "url": "https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj"
+      "duration_ms": 327619,
+      "name": "Brava",
+      "url": "https://open.spotify.com/track/7zL9EbGsI8KKLUxUWT0ump"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Fighting",
+        "url": "https://open.spotify.com/album/3CUd8OGMA8tGPOwMcWdNdh"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Fighting",
+      "url": "https://open.spotify.com/track/1WD13O1Fxz8UfHKAmrbOp6"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Champagne Bottle",
         "url": "https://open.spotify.com/album/3NMmBvaC3sZePl51vd6iof"
@@ -65,7 +65,23 @@
       "url": "https://open.spotify.com/track/31eW4SdIrJId1bnkxSCXb2"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Human Experience",
+        "url": "https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf"
+      },
+      "artists": [
+        {
+          "name": "Riro",
+          "url": "https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark"
+        }
+      ],
+      "duration_ms": 175680,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4qHCsEA7EtRKUQVf00tybz"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Maradona",
         "url": "https://open.spotify.com/album/0NnNlrpnAopMAd4SySSg6x"
@@ -81,7 +97,23 @@
       "url": "https://open.spotify.com/track/02CDik7aZFqov5naPitg6x"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Kikada",
+        "url": "https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Kikada",
+      "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Paper Boats",
         "url": "https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u"
@@ -101,7 +133,7 @@
       "url": "https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4AsPHpiOavaG0a4X8wk85E"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/1B02CC2kZAgs6yPgQH5qpk"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "DARE",
         "url": "https://open.spotify.com/album/206enQ4NnWw07Hc0KaLysn"
@@ -141,7 +173,47 @@
       "url": "https://open.spotify.com/track/1YSOSgWnOQhELstcjDr9s3"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "SERENA",
+        "url": "https://open.spotify.com/album/59B2uh9brmSmphZ9G1DZfC"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Amesens",
+          "url": "https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN"
+        }
+      ],
+      "duration_ms": 265161,
+      "name": "SERENA",
+      "url": "https://open.spotify.com/track/7CMbrJI8moL6TOzmad5SPj"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "DUNE",
+        "url": "https://open.spotify.com/album/1stWiST9FKbP1Hs4E35ypq"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Amesens",
+          "url": "https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN"
+        }
+      ],
+      "duration_ms": 301300,
+      "name": "DUNE",
+      "url": "https://open.spotify.com/track/1qHUKbFN1nz3BbS5RogriX"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0qqLMHnAKf0J8ezBVcMkh8"
@@ -157,7 +229,7 @@
       "url": "https://open.spotify.com/track/7oFzMQrHRCHRh6FJrqWu1o"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "You Say",
         "url": "https://open.spotify.com/album/0ztZhtP4gdenC5ZtWWUp7g"
@@ -173,283 +245,7 @@
       "url": "https://open.spotify.com/track/0xQCD0NlztHLkMl4PHkaJL"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Fighting",
-        "url": "https://open.spotify.com/album/3CUd8OGMA8tGPOwMcWdNdh"
-      },
-      "artists": [
-        {
-          "name": "Almanac",
-          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Fighting",
-      "url": "https://open.spotify.com/track/1WD13O1Fxz8UfHKAmrbOp6"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Laau",
-          "url": "https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "On The Way (Remix)",
-        "url": "https://open.spotify.com/album/3tEUKiQwklKZ3WwVFfIT4g"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 188124,
-      "name": "On The Way - Remix",
-      "url": "https://open.spotify.com/track/3fv3URjyVRoPcl6reiq5hk"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "REALITY",
-        "url": "https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII"
-      },
-      "artists": [
-        {
-          "name": "RUBACK",
-          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
-        }
-      ],
-      "duration_ms": 248709,
-      "name": "REALITY",
-      "url": "https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Human Experience",
-        "url": "https://open.spotify.com/album/4Gv0T3z8IBCxGaohWJvoBf"
-      },
-      "artists": [
-        {
-          "name": "Riro",
-          "url": "https://open.spotify.com/artist/4NqnlCPDCBgLdVOY8lDark"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/4qHCsEA7EtRKUQVf00tybz"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Scarlett",
-        "url": "https://open.spotify.com/album/0QjrIkeSfkGph8zija7vFv"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Scarlett",
-      "url": "https://open.spotify.com/track/2bT1KqGLDhPsS7uEPE4RMP"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/6JyvNtDRMgxjMB9JJPR1bT"
-      },
-      "artists": [
-        {
-          "name": "Silver Panda",
-          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
-        },
-        {
-          "name": "RUBACK",
-          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/11tmJWC5Wx3e893v8mFIzt"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Nebula",
-        "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
-      },
-      "artists": [
-        {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Nebula",
-      "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Good Liar",
-        "url": "https://open.spotify.com/album/362K2N7LISuI7DosCTJpmF"
-      },
-      "artists": [
-        {
-          "name": "Volyri",
-          "url": "https://open.spotify.com/artist/7j1fkOH24S29ajq83j0V3o"
-        },
-        {
-          "name": "KRNKT",
-          "url": "https://open.spotify.com/artist/2IXt8OJp8lL5aiNjFP391E"
-        }
-      ],
-      "duration_ms": 165828,
-      "name": "Good Liar",
-      "url": "https://open.spotify.com/track/2a5FHxBPiUTZODhiefpZEK"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "FAME",
-        "url": "https://open.spotify.com/album/55i23565yni4LxhdwdtvYW"
-      },
-      "artists": [
-        {
-          "name": "RED\u00dcKT",
-          "url": "https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH"
-        },
-        {
-          "name": "Verdun",
-          "url": "https://open.spotify.com/artist/7diEfBXZwvjSNvkCf5Nlqf"
-        }
-      ],
-      "duration_ms": 171562,
-      "name": "FAME",
-      "url": "https://open.spotify.com/track/5nV3WhVh188yQzYXgyCjBP"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/1E4C3qoHeDd6FIfqs3vImr"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 233597,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/1eDmbxoNF80TSki1uUJ4cn"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Summer's Back",
-        "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 147619,
-      "name": "Summer's Back",
-      "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr"
-      },
-      "artists": [
-        {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        }
-      ],
-      "duration_ms": 171585,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
-        }
-      ],
-      "duration_ms": 170471,
-      "name": "Pleasure Chasers",
-      "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Vinter",
-          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "For",
         "url": "https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG"
@@ -469,7 +265,283 @@
       "url": "https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7rfBYHKPPk1INwUs0uclpd"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Laau",
+          "url": "https://open.spotify.com/artist/3s8bzEJ9jl1AvMHLNIXdNX"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/1mOfzqLMsP6DchvbFNKaHv"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "REALITY",
+        "url": "https://open.spotify.com/album/6aEaeRTSchD9QgL21EfjII"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "duration_ms": 248709,
+      "name": "REALITY",
+      "url": "https://open.spotify.com/track/2FH95vGwiMrLK3UtqnOLUd"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Scarlett",
+        "url": "https://open.spotify.com/album/0QjrIkeSfkGph8zija7vFv"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/2bT1KqGLDhPsS7uEPE4RMP"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "MarijuaNnNa",
+        "url": "https://open.spotify.com/album/4vG8zwik7tH9HpaTGvDFlR"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        },
+        {
+          "name": "Stilo Magolide",
+          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
+        }
+      ],
+      "duration_ms": 220907,
+      "name": "MarijuaNnNa",
+      "url": "https://open.spotify.com/track/0JXGYHwFOGXdWYWWatSDVO"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/3kTdSQgAtS4hiY7QZH1iJ0"
+      },
+      "artists": [
+        {
+          "name": "INDECK.",
+          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0pUqMnvppzZqnmkTmlsCie"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/6JyvNtDRMgxjMB9JJPR1bT"
+      },
+      "artists": [
+        {
+          "name": "Silver Panda",
+          "url": "https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da"
+        },
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/11tmJWC5Wx3e893v8mFIzt"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Nebula",
+        "url": "https://open.spotify.com/album/0ZxA2UfY6QLTnOtH3rExch"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Nebula",
+      "url": "https://open.spotify.com/track/2QBIMr3RAUr6OxoOIHM4r5"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/27uRexjrQMOashAfxZuCM0"
+      },
+      "artists": [
+        {
+          "name": "Juicce",
+          "url": "https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi"
+        }
+      ],
+      "duration_ms": 145903,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Good Liar",
+        "url": "https://open.spotify.com/album/362K2N7LISuI7DosCTJpmF"
+      },
+      "artists": [
+        {
+          "name": "Volyri",
+          "url": "https://open.spotify.com/artist/7j1fkOH24S29ajq83j0V3o"
+        },
+        {
+          "name": "KRNKT",
+          "url": "https://open.spotify.com/artist/2IXt8OJp8lL5aiNjFP391E"
+        }
+      ],
+      "duration_ms": 165828,
+      "name": "Good Liar",
+      "url": "https://open.spotify.com/track/2a5FHxBPiUTZODhiefpZEK"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "FAME",
+        "url": "https://open.spotify.com/album/55i23565yni4LxhdwdtvYW"
+      },
+      "artists": [
+        {
+          "name": "RED\u00dcKT",
+          "url": "https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH"
+        },
+        {
+          "name": "Verdun",
+          "url": "https://open.spotify.com/artist/7diEfBXZwvjSNvkCf5Nlqf"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "FAME",
+      "url": "https://open.spotify.com/track/5nV3WhVh188yQzYXgyCjBP"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/1E4C3qoHeDd6FIfqs3vImr"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 233597,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/1eDmbxoNF80TSki1uUJ4cn"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Summer's Back",
+        "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 147619,
+      "name": "Summer's Back",
+      "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "duration_ms": 171585,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 170471,
+      "name": "Pleasure Chasers",
+      "url": "https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Vinter",
+          "url": "https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY"
+    },
+    {
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Make It Loud",
         "url": "https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd"
@@ -485,7 +557,7 @@
       "url": "https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/7BAa2H69YONlEsploamOHn"
@@ -509,27 +581,7 @@
       "url": "https://open.spotify.com/track/3PwucvWWLM2ktvzR8mO1ET"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "DUNE",
-        "url": "https://open.spotify.com/album/1stWiST9FKbP1Hs4E35ypq"
-      },
-      "artists": [
-        {
-          "name": "RUBACK",
-          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
-        },
-        {
-          "name": "Amesens",
-          "url": "https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN"
-        }
-      ],
-      "duration_ms": 301300,
-      "name": "DUNE",
-      "url": "https://open.spotify.com/track/1qHUKbFN1nz3BbS5RogriX"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "BLACK WIDOW",
         "url": "https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK"
@@ -553,7 +605,7 @@
       "url": "https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Mia Pembe (Mojjo Remix)",
         "url": "https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4"
@@ -577,7 +629,7 @@
       "url": "https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/5vrZAOIpf4l4uYdsX9xAx0"
@@ -597,7 +649,7 @@
       "url": "https://open.spotify.com/track/4yYc5agQLrzA1uJJat8EYe"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Cuerpo Pegado EP",
         "url": "https://open.spotify.com/album/4eJUoi8EvwvCLtXSLmRHvq"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/5Aquk2RpKdwaMK7s6yFGLA"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7H9Zk7eP2W1C3XFhRIOsPC"
@@ -633,7 +685,7 @@
       "url": "https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Echoes of a Decade",
         "url": "https://open.spotify.com/album/5hbjXY9vfqoNptQKw64FzE"
@@ -649,23 +701,7 @@
       "url": "https://open.spotify.com/track/3WOK3bugvtrDkh04XKUPEq"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Connected",
-        "url": "https://open.spotify.com/album/27uRexjrQMOashAfxZuCM0"
-      },
-      "artists": [
-        {
-          "name": "Juicce",
-          "url": "https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi"
-        }
-      ],
-      "duration_ms": 145903,
-      "name": "Connected",
-      "url": "https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "O Superman",
         "url": "https://open.spotify.com/album/0jMCx6S66Rwbi0n3yvzdRw"
@@ -681,27 +717,7 @@
       "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "MarijuaNnNa",
-        "url": "https://open.spotify.com/album/4vG8zwik7tH9HpaTGvDFlR"
-      },
-      "artists": [
-        {
-          "name": "Almanac",
-          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
-        },
-        {
-          "name": "Stilo Magolide",
-          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
-        }
-      ],
-      "duration_ms": 220907,
-      "name": "MarijuaNnNa",
-      "url": "https://open.spotify.com/track/0JXGYHwFOGXdWYWWatSDVO"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/2d02o3jAuy4Rnyd7bdy8PO"
@@ -717,23 +733,7 @@
       "url": "https://open.spotify.com/track/2iw3LpeCoQnsz8Ip9KZFuW"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
-      "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/3kTdSQgAtS4hiY7QZH1iJ0"
-      },
-      "artists": [
-        {
-          "name": "INDECK.",
-          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/0pUqMnvppzZqnmkTmlsCie"
-    },
-    {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Disco Shit",
         "url": "https://open.spotify.com/album/4pTDPdlW4mkmPNneqFrzlo"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/6Od1L6369vboOOofSij7mj"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/5CBivybQv2h3zpZwRr39E1"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/2LfzwUVLAxEhW1WQyw7eY7"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Redline",
         "url": "https://open.spotify.com/album/0aXKQ2PXqOWt7I1b2zHNc9"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/2SccLSKaSbPI8ei4V0kTnw"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Reduto EP",
         "url": "https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "GEMINI",
         "url": "https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/6vVVqLmvPbXQHXwesjFbjb"
@@ -853,7 +853,7 @@
       "url": "https://open.spotify.com/track/05RSroax2kf33xq65Rqyb6"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "En Tu Cabeza Haces Tuntz Tuntz",
         "url": "https://open.spotify.com/album/1hQ8CKmUgriWH3CzNFLZpS"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/2kj9PwxiNXnCwrXgsOZIzW"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/1kY5pJbnsqMO1rN8DTdOhI"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/0KWLQWjOKpyCziaEpb1nbi"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Flute",
         "url": "https://open.spotify.com/album/6pWeipE5YJialIcLkicui8"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/2PA7dRQno5zcM65bocvu08"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/6c4l39l4KI7waOKtqfQy3T"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/0G5Lb2yYO6OgGLKOEiGJoE"
     },
     {
-      "added_at": "2025-01-24 03:03:08",
+      "added_at": "2025-01-31 03:03:06",
       "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/60WrzKoiRdmG6TVv7I6243"

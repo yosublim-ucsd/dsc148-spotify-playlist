@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jay Melody",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny & Headie One",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -108,6 +108,28 @@
       "duration_ms": 187155,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/78rq4tSfGFWB2gOOY9fwFU"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172220,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/40RZ8R5VnlaS1oN38bx8eW"
     },
     {
       "album": {
@@ -5334,7 +5356,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 166153,
       "name": "My Love",
       "url": "https://open.spotify.com/track/2yzjyaVFBiH2I760zqsHgY"
@@ -7587,6 +7609,24 @@
     },
     {
       "album": {
+        "name": "Sare",
+        "url": "https://open.spotify.com/album/3Zx8060RczfKJ1lPB4kgPp"
+      },
+      "artists": [
+        {
+          "name": "Bruce africa",
+          "url": "https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214514,
+      "name": "Sare",
+      "url": "https://open.spotify.com/track/2Eenhinh9fzmjAeRUon64u"
+    },
+    {
+      "album": {
         "name": "Sasambu",
         "url": "https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz"
       },
@@ -8034,7 +8074,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 198467,
       "name": "Sifikirii",
       "url": "https://open.spotify.com/track/2rxm7E97XqinnxxOChdOoj"

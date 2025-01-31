@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 6 hr 43 min
+99 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [HUMBLE ME](https://open.spotify.com/track/0cKykVvNFfHVyPzLdQI6xT) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [HUMBLE ME](https://open.spotify.com/album/6K0i2TgBy7x4agrBXIrnrF) | 2:56 | 2024-08-03 | 2024-08-05 |
 | [HUMBLE ME](https://open.spotify.com/track/4EjUNNQSA0zLU4FVTdpnku) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Michael & The Mighty Midnight Revival, Songs For Sinners And Saints](https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO) | 2:56 | 2024-08-04 |  |
 | [Hurts My Brain](https://open.spotify.com/track/2r3RWI7rhI07Kv2k0qyi18) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 3:04 | 2024-05-01 |  |
-| [I'm On Your Side](https://open.spotify.com/track/63GXuiQfdUGDhEXEXuV9id) | [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Brand New](https://open.spotify.com/album/5YALaUtpVJLkSs1oga600L) | 5:03 | 2024-05-01 |  |
+| [I'm On Your Side](https://open.spotify.com/track/5qLAEju8e3dTbo7526FVnZ) | [Lena Byrd Miles](https://open.spotify.com/artist/6ZI4O5cl4ieBP4IQdH0fYP) | [Brand New](https://open.spotify.com/album/7palBk6YrLey31q9FcuTO4) | 5:03 | 2025-01-30 |  |
+| [I'm On Your Side](https://open.spotify.com/track/63GXuiQfdUGDhEXEXuV9id) | [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Brand New](https://open.spotify.com/album/5YALaUtpVJLkSs1oga600L) | 5:03 | 2024-05-01 | 2025-01-31 |
 | [Icarus](https://open.spotify.com/track/3kfLQDTR7QwX9LVTAMzMrl) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 5:28 | 2024-05-01 |  |
 | [In My Feelings](https://open.spotify.com/track/4coXD38RAf56jP4ZGIwQfP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 2:14 | 2024-05-01 |  |
 | [In the Water](https://open.spotify.com/track/5n1kHpmTmbIkOWhYBiVRJJ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:12 | 2024-05-01 |  |

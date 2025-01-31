@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover: MAXINE",
+  "description": "De nieuwste Nederlandse pop! Cover: Numidia",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 154805,
       "name": "100K Tranen",
       "url": "https://open.spotify.com/track/6obwm23hKEtFLHMefCg33l"
+    },
+    {
+      "album": {
+        "name": "101 Redenen",
+        "url": "https://open.spotify.com/album/7Hk7GY0QhDACpZSBRiiZom"
+      },
+      "artists": [
+        {
+          "name": "Nienke Leone",
+          "url": "https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167494,
+      "name": "101 Redenen",
+      "url": "https://open.spotify.com/track/4CZb8qgRg8E69sABwMV8X2"
     },
     {
       "album": {
@@ -3933,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "Droom Maar",
+        "url": "https://open.spotify.com/album/2gjHokLZcJNc6AyXWPUfI0"
+      },
+      "artists": [
+        {
+          "name": "Mus Dam\u00e9",
+          "url": "https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202142,
+      "name": "Droom Maar",
+      "url": "https://open.spotify.com/track/7KrwyBsiThP1CLJnLyQ0cF"
+    },
+    {
+      "album": {
         "name": "Duizend Lichtjes (Radio Edit)",
         "url": "https://open.spotify.com/album/3ltI4E6dNJNlfM2gF1EUdl"
       },
@@ -4060,6 +4096,24 @@
       "duration_ms": 174936,
       "name": "Eenzaam Samen",
       "url": "https://open.spotify.com/track/5gAwwq5heHnzLpLIIFc4NF"
+    },
+    {
+      "album": {
+        "name": "Eenzame Nacht",
+        "url": "https://open.spotify.com/album/7lFEE4QYgFBzMuwbGbSljV"
+      },
+      "artists": [
+        {
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199108,
+      "name": "Eenzame Nacht",
+      "url": "https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI"
     },
     {
       "album": {
@@ -4356,7 +4410,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 176378,
       "name": "Figurant",
       "url": "https://open.spotify.com/track/2YZ5fbsAwWSNCBaAYywtmG"
@@ -5230,7 +5284,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 154815,
       "name": "Heel De Nacht Alleen",
       "url": "https://open.spotify.com/track/0CVFLeX7D7K204cXJ6nxCH"
@@ -5486,7 +5540,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 174400,
       "name": "Het Idee",
       "url": "https://open.spotify.com/track/0XnIwi98ZtAEHGkmz9rd9h"
@@ -6034,6 +6088,28 @@
       "duration_ms": 154127,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/1zIUkRxrVNmxn4f9358j36"
+    },
+    {
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/1itgz2wQPxbMnMhdsdWVnj"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        },
+        {
+          "name": "Matthy",
+          "url": "https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/3pN1lUACckD0PTkFzpxEpu"
     },
     {
       "album": {
@@ -6834,7 +6910,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 156315,
       "name": "Illusie",
       "url": "https://open.spotify.com/track/6Pw5XCjhExzhzPxtcsG6hd"
@@ -10093,6 +10169,28 @@
     },
     {
       "album": {
+        "name": "O.N.S.",
+        "url": "https://open.spotify.com/album/29CDkeqi0F9a3M61aitDjX"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Juultje Tieleman",
+          "url": "https://open.spotify.com/artist/22EjzscO27k9jGcRhEfCRK"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169043,
+      "name": "O.N.S.",
+      "url": "https://open.spotify.com/track/2c2TO8EYrrGGmqX1AfkxFj"
+    },
+    {
+      "album": {
         "name": "Oceaan",
         "url": "https://open.spotify.com/album/6wkRFzlwXWQWMyAtWyAvWi"
       },
@@ -12532,7 +12630,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 172286,
       "name": "Taxi In Londen",
       "url": "https://open.spotify.com/track/1gkLexCpaa5MMCG9Su27k3"

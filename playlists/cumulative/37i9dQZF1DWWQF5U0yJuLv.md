@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-220 songs - 16 hr 22 min
+221 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [After Gold](https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Cambio Wechsel](https://open.spotify.com/album/2a5VqPCZr3SFu2aUdQseP2) | 6:30 | 2023-02-17 |  |
 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 | 2023-02-17 |  |
 | [Ageispolis](https://open.spotify.com/track/7KRQoq9GeWeCm0ZAXg5XMb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 5:23 | 2023-02-17 |  |
-| [Amaat One](https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ) | 5:36 | 2023-02-17 |  |
+| [Amaat One](https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ) | 5:36 | 2023-02-17 | 2025-01-31 |
 | [Amaat One](https://open.spotify.com/track/7oY7hsyhvGS5rVaMszDEEh) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/2elBATB2nvWGsWxvCPwQwU) | 5:36 | 2023-02-17 | 2024-04-19 |
 | [Aminals](https://open.spotify.com/track/2sNkvl4WwkVeJGyg4maxEp) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au) | 3:18 | 2024-11-12 |  |
 | [An Everest Death Situation](https://open.spotify.com/track/72PjzX9gjNaKMMdiesyhvK) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [An Everest Death Situation](https://open.spotify.com/album/7yd8fkS9oPpQUxRXnRBy8x) | 4:09 | 2024-08-14 |  |
@@ -113,6 +113,7 @@
 | [Lagoon](https://open.spotify.com/track/1pu33Nx594XUgHoAa0sj2a) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/662zh7ap5hcvQKRIG5wuE3) | 3:10 | 2023-02-17 |  |
 | [Lagoon](https://open.spotify.com/track/7oYOdF7lpYvwYNLk3BWNpD) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Lagoon](https://open.spotify.com/album/6WJxRoJgFPTxi9odNrGKKp) | 3:10 | 2023-02-17 | 2024-04-19 |
 | [Lambent Rag](https://open.spotify.com/track/3U8DW25FSajJzQXgApAJ0B) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Playground In A Lake](https://open.spotify.com/album/6r3sWdrXNAhqOgGlM5ZKNY) | 3:24 | 2023-02-17 |  |
+| [Lomas de Sotelo](https://open.spotify.com/track/0fLNVqhb5plIW4iSVfxAOP) | [AAAA](https://open.spotify.com/artist/3J5tbnuwDEYK5Mjl60hPYz) | [X Scroll Era](https://open.spotify.com/album/2mldw4RM7l1tr6762njYDo) | 3:47 | 2025-01-30 |  |
 | [lux](https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [lux](https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs) | 3:15 | 2023-02-17 |  |
 | [Magnetica](https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr) | 2:50 | 2023-02-17 |  |
 | [Magnetica](https://open.spotify.com/track/7EfEP1QN5EMCubPSrI5x6q) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL) | 2:50 | 2023-02-17 | 2023-11-11 |

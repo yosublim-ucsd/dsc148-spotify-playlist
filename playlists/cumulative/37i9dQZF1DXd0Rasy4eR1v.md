@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: HAVI
 
-988 songs - 2 day 5 hr 12 min
+989 songs - 2 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [Moments](https://open.spotify.com/track/3FBZKkI6HlymeqslLr77y0) | [Montego Scott](https://open.spotify.com/artist/6gEIEXGVZWurndyX5KaRdf), [Hammad Nadeem](https://open.spotify.com/artist/5VqjHYEOJkjgHabo2v4d73), [ABOVPS](https://open.spotify.com/artist/4CwUnmPNfNpOj3VJU9NcGV) | [Moments](https://open.spotify.com/album/7EA2metUK2dwzZjpr6cNtR) | 3:02 | 2022-09-23 | 2023-01-11 |
 | [Money On My Mind](https://open.spotify.com/track/3Rk5ZM8IX2jezSp4kBtByF) | [Fakhar Anjum](https://open.spotify.com/artist/1nC5tVdFsI5uHCzZAyvH0p) | [Money On My Mind](https://open.spotify.com/album/4OON1uJDRcHzfF075j0Fk2) | 2:34 | 2022-11-17 | 2022-12-01 |
 | [moon](https://open.spotify.com/track/0dzEAbC8W01T1uJb1BDRtA) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf), [Daniyaal Omar](https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz), [MUSAFIRR](https://open.spotify.com/artist/6cyLY2qToYqZzBOtJMdL4b) | [moon](https://open.spotify.com/album/6tPqgaMe31wJ0PYNG0LoBu) | 3:39 | 2024-07-01 | 2024-08-13 |
+| [Moon](https://open.spotify.com/track/2thI2hGtnYpjcHDxtcC8Ej) | [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Moon](https://open.spotify.com/album/6bNE6vAbJpaXbBCtuldI72) | 3:30 | 2025-01-28 |  |
 | [moonlight](https://open.spotify.com/track/5Sb3Flioez2DSdAS60EBD9) | [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU), [Huzaifa Yasir](https://open.spotify.com/artist/4nlBaZiahNKLu2E7SygCHi) | [moonlight](https://open.spotify.com/album/6vKWjgUMdrKXR3ULMlWmxj) | 2:37 | 2024-09-12 | 2024-12-05 |
 | [Mora Jiyaa](https://open.spotify.com/track/6Onjtv2hQTbg5A5rqFHZxN) | [Sanjay Gangwani](https://open.spotify.com/artist/4xDgmAyouCRkpUgEVKiI7Y), [Dream Art Records](https://open.spotify.com/artist/3oyxrUqJ0lwk9KTD0qreEK) | [Mora Jiyaa](https://open.spotify.com/album/1s8zpY0XkM56H6WNY1yuDj) | 4:38 | 2023-02-13 | 2023-03-22 |
 | [More Saiyaan](https://open.spotify.com/track/2Duts6S27U1rQardvkcI7K) | [Sadaat Shafqat Amanat](https://open.spotify.com/artist/3oOno2g4btrjp7CsJKKcuv), [Utpal Udit](https://open.spotify.com/artist/6CofdUvEkvHE8r0vPAtg0h), [Suyash](https://open.spotify.com/artist/5yRqFyfIX9tAt93ZoNnJM1) | [More Saiyaan](https://open.spotify.com/album/2M6zcKoMHF3sDwSHpXFDw0) | 3:25 | 2023-11-17 | 2023-12-09 |

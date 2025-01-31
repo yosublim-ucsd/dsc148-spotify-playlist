@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,736 songs - 3 day 18 hr 5 min
+1,738 songs - 3 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [4 In The Morning](https://open.spotify.com/track/0SuyXIUFGDwdDUhJ95efC6) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [4 In The Morning](https://open.spotify.com/album/2NWTqLoxgcRzR7Ld7I3oOM) | 3:09 | 2022-03-17 | 2022-05-04 |
 | [42](https://open.spotify.com/track/5o0zuf9X17P9bha9TQT24n) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 3:44 | 2023-06-01 | 2023-06-29 |
 | [44](https://open.spotify.com/track/3EgGUHciOMVlUZAjH6VfDC) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [44](https://open.spotify.com/album/5U0g3N6dXf5AmedbMuRT3e) | 3:08 | 2024-01-25 | 2024-03-15 |
+| [5656](https://open.spotify.com/track/15I1otvOIaCUPpE40sik1B) | [Knut€](https://open.spotify.com/artist/7n3qgKSD6IGnbzODQWnGTa) | [5656](https://open.spotify.com/album/5pcRjUDq57OcWVKf52OGyI) | 2:38 | 2025-01-30 |  |
 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 | 2023-05-21 |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 | 2023-10-20 |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
@@ -326,7 +327,7 @@
 | [Dirt](https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dirt](https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB) | 3:38 | 2023-11-09 | 2024-02-09 |
 | [Dirty Words](https://open.spotify.com/track/3EPkZ3xV2ZmqkZ04m7GVp2) | [Linn Koch\-Emmery](https://open.spotify.com/artist/1VXNcQgSnqCXw4kWGeKNFu) | [Being the girl](https://open.spotify.com/album/5pe9tPuqHpPnThwNfVCPpf) | 3:13 | 2021-12-16 | 2022-03-11 |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2024-11-16 |
-| [Djävulen på axeln](https://open.spotify.com/track/2nWG6W5lqaMGVEjRXsvJJl) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Djävulen på axeln](https://open.spotify.com/album/14kj30ODGR8DCnkp4yYn3p) | 3:40 | 2025-01-23 |  |
+| [Djävulen på axeln](https://open.spotify.com/track/2nWG6W5lqaMGVEjRXsvJJl) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Djävulen på axeln](https://open.spotify.com/album/14kj30ODGR8DCnkp4yYn3p) | 3:40 | 2025-01-23 | 2025-01-31 |
 | [DNA](https://open.spotify.com/track/2Mf5xOPBxNKWaGuq2hQbEM) | [William Stridh](https://open.spotify.com/artist/5xDae0zB3YLr6lYvlMdpbR) | [DNA](https://open.spotify.com/album/22y2KgB85sd5ST2MkFIckw) | 3:10 | 2024-03-28 | 2024-05-03 |
 | [Do I Make Sense](https://open.spotify.com/track/3C4a9QSUcFnPv92pejg3wf) | [Helly](https://open.spotify.com/artist/3QGI6lFDEJq5o2yxhEtT16) | [Side Effects](https://open.spotify.com/album/0APh33IURQVK8qhsKVxq7g) | 3:24 | 2024-01-25 | 2024-02-25 |
 | [Do Yourself A Favor](https://open.spotify.com/track/3z6JKCqhbQn3ugsudRGYvj) | [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Do Yourself A Favor](https://open.spotify.com/album/2600bCiDKk5STWQQAjiU5Y) | 2:35 | 2021-12-16 | 2021-12-22 |
@@ -914,7 +915,7 @@
 | [Losing a Friend](https://open.spotify.com/track/2fhxyW8DpS4rWmt5DwdOmy) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Losing a Friend](https://open.spotify.com/album/3UXK8j03CixeaM1LBXJcfs) | 3:14 | 2023-10-06 | 2024-01-26 |
 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 |  |
 | [Lost Romance](https://open.spotify.com/track/1xjbPvo3qQvnKKLtrjKOIY) | [Tage](https://open.spotify.com/artist/7wXeuEsgZnjihGQLKkaPSr) | [Lost Romance](https://open.spotify.com/album/3rq0E9j8ExDqjRph3yCUq0) | 2:21 | 2024-02-22 | 2024-04-12 |
-| [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 | 2024-09-19 |  |
+| [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 | 2024-09-19 | 2025-01-31 |
 | [Lova](https://open.spotify.com/track/001iFcI2PVrLteroX4urel) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 5:02 | 2022-06-02 | 2022-09-26 |
 | [Love & Unity](https://open.spotify.com/track/6jxPLl1mecH3MtC0oIPnLg) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Love & Unity](https://open.spotify.com/album/5Ubu5hojBNMwptB1afNQXp) | 3:50 | 2024-04-26 | 2024-05-24 |
 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 | 2021-12-16 | 2022-02-27 |
@@ -1453,6 +1454,7 @@
 | [Säg förlåt](https://open.spotify.com/track/5foAcyMDMeFa4mMDwJUmqh) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Säg förlåt](https://open.spotify.com/album/2XGRSqqJKWNQn7KIgwSMdU) | 4:02 | 2024-03-07 | 2024-04-19 |
 | [Säg nåt](https://open.spotify.com/track/2OoTbhFGNQ8iYfrQa5CuIw) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Säg nåt](https://open.spotify.com/album/7LgWrBIe8VFX0yRdpRxG09) | 3:06 | 2025-01-16 |  |
 | [Säg Nåt](https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Säg Nåt](https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY) | 2:46 | 2022-11-04 | 2023-07-22 |
+| [SÄG ORDET OCH JAG ÄR DIN](https://open.spotify.com/track/5przQRDUQGcp5RKCrwUNeh) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [JUST NU ÄR TILLRÄCKLIGT BRA](https://open.spotify.com/album/4zvfI9h2spqAIIxWBSZcSZ) | 3:03 | 2025-01-30 |  |
 | [säg som de e](https://open.spotify.com/track/1YWisbiZ6j4UBasL9dZUvl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [säg som de e](https://open.spotify.com/album/73HpSu1K0wATSLfaFUx6EC) | 3:07 | 2024-04-25 | 2024-05-24 |
 | [Säg vad du vill](https://open.spotify.com/track/6YpOcenS6bCTx7JG1OBY7X) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Säg vad du vill](https://open.spotify.com/album/09JUZALuWvwAN7No7W4lj7) | 3:28 | 2022-05-26 | 2022-07-28 |
 | [Säger att andra är dårar](https://open.spotify.com/track/5eqV3qSaCJPqQ7zUtyOYAN) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Säger att andra är dårar](https://open.spotify.com/album/61puoNqBbNWh1CMGePdFZd) | 3:26 | 2024-01-11 | 2024-03-15 |

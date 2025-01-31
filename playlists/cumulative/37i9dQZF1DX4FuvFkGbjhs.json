@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Jadu Heart",
+  "description": "Beyond titles, beyond genre. Cover: Greentea Peng",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -534,6 +534,28 @@
       "duration_ms": 159473,
       "name": "BAD!",
       "url": "https://open.spotify.com/track/5WOyh6lYHKe2zJ3JxyRa1k"
+    },
+    {
+      "album": {
+        "name": "bastard",
+        "url": "https://open.spotify.com/album/1PwWm9XDlFgWpcOuquC0K0"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136157,
+      "name": "bastard",
+      "url": "https://open.spotify.com/track/7wezQzF31IztdsWRiyV0gJ"
     },
     {
       "album": {
@@ -1976,6 +1998,28 @@
       "duration_ms": 161947,
       "name": "Eye Candy",
       "url": "https://open.spotify.com/track/6U5z8bWMziHL0LjQDJrqY4"
+    },
+    {
+      "album": {
+        "name": "In Waves (Deluxe)",
+        "url": "https://open.spotify.com/album/2XgZQ0IFRwZcqsk6RWReKS"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217074,
+      "name": "F.U.",
+      "url": "https://open.spotify.com/track/1ki7QR4GRRxmR2rQt7aAAY"
     },
     {
       "album": {
@@ -3867,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "lowlight:slowlight",
+        "url": "https://open.spotify.com/album/1fJQZQmp0sMhCpwHomcKoc"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234440,
+      "name": "lowlight:slowlight",
+      "url": "https://open.spotify.com/track/4vY2bBuBOQlFKwss06ZxwF"
+    },
+    {
+      "album": {
         "name": "LUVLY",
         "url": "https://open.spotify.com/album/5vCXhahVL6bvMD6ax5wEgt"
       },
@@ -4582,7 +4644,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 156690,
       "name": "One Foot",
       "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
@@ -5849,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Stones Throw",
+        "url": "https://open.spotify.com/album/7fa2eM6t127lSiQwSbJXID"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213372,
+      "name": "Stones Throw",
+      "url": "https://open.spotify.com/track/1RsbQnbk4ZFYDhfgp3IAYY"
+    },
+    {
+      "album": {
         "name": "Stranger (feat. Elkka)",
         "url": "https://open.spotify.com/album/3W0rAY4LLL7rDbGY41I1HE"
       },
@@ -6172,6 +6252,24 @@
       "duration_ms": 205500,
       "name": "THE BRUCE",
       "url": "https://open.spotify.com/track/06YoyUlYgMRx5KmhtxtLF1"
+    },
+    {
+      "album": {
+        "name": "The Cafe",
+        "url": "https://open.spotify.com/album/30qiPKubPHk13AhYuKWKE7"
+      },
+      "artists": [
+        {
+          "name": "Good Health Good Wealth",
+          "url": "https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "The Cafe",
+      "url": "https://open.spotify.com/track/1IhbLFXzyoB4mv0yi4SzO3"
     },
     {
       "album": {
@@ -6752,6 +6850,24 @@
       "duration_ms": 149243,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/3ZS80IOKVp7d5sjNNZLa6G"
+    },
+    {
+      "album": {
+        "name": "UNTITLED",
+        "url": "https://open.spotify.com/album/5p35P80PGURK4WtpTC21Fz"
+      },
+      "artists": [
+        {
+          "name": "Latir",
+          "url": "https://open.spotify.com/artist/44oMko09F9g8RQTkh39GSr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "UNTITLED",
+      "url": "https://open.spotify.com/track/0D0uoK9SuOPvGivOAeJjIS"
     },
     {
       "album": {

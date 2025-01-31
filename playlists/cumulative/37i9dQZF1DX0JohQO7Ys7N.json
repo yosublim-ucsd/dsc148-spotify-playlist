@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Ochiko ",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Bridget Blue",
   "name": "NairoBae",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 169545,
       "name": "Cup of Tea",
       "url": "https://open.spotify.com/track/3X9wpDXE32ZXThM7DcaLEX"
@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 234545,
       "name": "Jioni",
       "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
@@ -2200,6 +2200,24 @@
       "duration_ms": 200863,
       "name": "Mbali - Stripped Version",
       "url": "https://open.spotify.com/track/1XCI64DmbFXhxXKTWqILgG"
+    },
+    {
+      "album": {
+        "name": "Safari - Journey Of 1000 Songs",
+        "url": "https://open.spotify.com/album/28TW5zkQtpNv5Bz3Qn81HG"
+      },
+      "artists": [
+        {
+          "name": "Mordecai Dex",
+          "url": "https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mema",
+      "url": "https://open.spotify.com/track/2FxMPsrwAuC6CS9G33U8Qr"
     },
     {
       "album": {
@@ -3030,6 +3048,24 @@
       "duration_ms": 192104,
       "name": "Pulling Out",
       "url": "https://open.spotify.com/track/2Xqi7yZeFfcSIVwU1c5slN"
+    },
+    {
+      "album": {
+        "name": "Pumua",
+        "url": "https://open.spotify.com/album/5RZLdQdcNmJMm9D0jgeJCk"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159143,
+      "name": "Pumua",
+      "url": "https://open.spotify.com/track/2Py1BuxAHgOH0bA9w0imQE"
     },
     {
       "album": {

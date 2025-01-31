@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u80e1\u6042\u821e (Sabrina)",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6d3e\u5049\u4fca (Patrick Brasca)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 171304,
       "name": "bait",
       "url": "https://open.spotify.com/track/5JZrT17IzA9x7WLv0ReiPi"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 180953,
       "name": "Cloudy Love",
       "url": "https://open.spotify.com/track/6gBX0GeCjv70GVWptj4ZW9"
@@ -1569,6 +1569,32 @@
     },
     {
       "album": {
+        "name": "fragrance (Remix)",
+        "url": "https://open.spotify.com/album/1BtVzJsMXQ1RdjDolztaVI"
+      },
+      "artists": [
+        {
+          "name": "\u8309\u3072\u308b",
+          "url": "https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R"
+        },
+        {
+          "name": "RINZO",
+          "url": "https://open.spotify.com/artist/1xWbBbkHVqmXXpV1ftKNXf"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205625,
+      "name": "fragrance - Remix",
+      "url": "https://open.spotify.com/track/0XgI8qpDq9hR84Sh1weOtk"
+    },
+    {
+      "album": {
         "name": "HIDEOUT",
         "url": "https://open.spotify.com/album/7HEDhuRGJSCRS6oJ50i72L"
       },
@@ -1650,7 +1676,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 196535,
       "name": "Galaxy official",
       "url": "https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5"
@@ -2916,7 +2942,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 217542,
       "name": "never forget",
       "url": "https://open.spotify.com/track/2mvn6dSpZE6gFA3LtbS9D9"
@@ -4518,7 +4544,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 163263,
       "name": "Yellow Hoodie \u9ec3\u8272\u5e3d\u8e22 feat. \u6591\u6bd4Bambii",
       "url": "https://open.spotify.com/track/6LlUQCMpwWbDgnez3VXZPF"
@@ -4678,7 +4704,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 258071,
       "name": "You were.",
       "url": "https://open.spotify.com/track/6dnIcqUXm5e0QlDltZy9Z7"
@@ -4834,7 +4860,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 202002,
       "name": "\u4e00\u8d77\u8d70\uff01",
       "url": "https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA"
@@ -5140,7 +5166,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 235436,
       "name": "\u4e5f\u8a31\u554a",
       "url": "https://open.spotify.com/track/2O8kejsRzK5WoygELquZzq"
@@ -5574,7 +5600,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 203669,
       "name": "\u4f60\u7684\u8a08\u756b\u88e1\u6c92\u6709\u6211",
       "url": "https://open.spotify.com/track/7HOJQpG9gFPhIFSEiu5tFK"
@@ -8528,7 +8554,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 196558,
       "name": "\u65e5\u843d\u64c1\u62b1",
       "url": "https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W"
@@ -10824,7 +10850,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 183478,
       "name": "\u898b\u5230\u59b3\u5f8c",
       "url": "https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK"

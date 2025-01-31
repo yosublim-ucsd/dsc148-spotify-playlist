@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/3sHmvrCn5ZTEMeCGnkQytk"
+      },
+      "artists": [
+        {
+          "name": "Kayce Laine",
+          "url": "https://open.spotify.com/artist/7cFbIyFpJivCMZjpiy3yBb"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Ad Astra",
+      "url": "https://open.spotify.com/track/0Xj3UaGsskZSPvzYowxMmd"
+    },
+    {
+      "album": {
         "name": "Adkrog",
         "url": "https://open.spotify.com/album/5RhEQC5P2yUwkSboIgMYrC"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 89661,
       "name": "Around Me",
       "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 306908,
       "name": "Epic Mirage",
       "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
@@ -3288,6 +3306,24 @@
       "duration_ms": 410000,
       "name": "The 90s Was A Feeling",
       "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
+    },
+    {
+      "album": {
+        "name": "the interlude",
+        "url": "https://open.spotify.com/album/0utupiggVM2d5AzkFeRtFB"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102068,
+      "name": "the interlude",
+      "url": "https://open.spotify.com/track/72OOlnCsxzApECWGFmeOKC"
     },
     {
       "album": {

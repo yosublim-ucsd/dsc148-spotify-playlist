@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,822 likes - 31 songs - 1 hr 44 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,823 likes - 31 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 | 22 | [Seeu](https://open.spotify.com/track/5u5hHZkj4vRO3LolFcW26t) | [Floret Loret](https://open.spotify.com/artist/1SOahWJen3CxHs0e9eCmFe) | [Endeavors](https://open.spotify.com/album/2nvWDDeigkp5plUMbCP6pM) | 4:13 |
 | 23 | [I Spit Da Fire](https://open.spotify.com/track/1SxfJn8iaotM1t6Dhx6XTY) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W) | [We Are Deadbeats Vol\. 6](https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh) | 3:18 |
 | 24 | [Gotowork](https://open.spotify.com/track/7fvraVExzK5M0Oh93X84Ir) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [LYSS EP](https://open.spotify.com/album/28TxwayUhN9PaKQ5Obnqqv) | 2:22 |
-| 25 | [State Of Mind](https://open.spotify.com/track/3fziFvvQWBSEIp86qxaphU) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [State Of Mind](https://open.spotify.com/album/1ep6YClvvqWGo9EmXa7rFo) | 3:05 |
+| 25 | [State Of Mind](https://open.spotify.com/track/3fziFvvQWBSEIp86qxaphU) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [State Of Mind](https://open.spotify.com/album/1ep6YClvvqWGo9EmXa7rFo) | 3:05 |
 | 26 | [Mad Ting](https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Mad Ting](https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg) | 3:14 |
 | 27 | [The Box](https://open.spotify.com/track/0iWXA5HTkEVfIhOUS9dMUI) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [The Box](https://open.spotify.com/album/3eTsXqycvOk2j4STUhDJ2A) | 3:41 |
 | 28 | [DIMENSIONS](https://open.spotify.com/track/4msDV8woKgp0ZeF16NcEdU) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [DIMENSIONS](https://open.spotify.com/album/6oWwk2twiHE14qLrxOSmyS) | 2:35 |

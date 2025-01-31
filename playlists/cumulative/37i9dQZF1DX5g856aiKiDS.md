@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-317 songs - 17 hr 48 min
+318 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2022-08-12 | 2024-03-09 |
 | [I](https://open.spotify.com/track/0IH4sgZpBfmu8HIP0t0uFA) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [I](https://open.spotify.com/album/36ZdMvrdImhGvUXE3qF1Wj) | 3:35 | 2022-04-21 | 2022-07-29 |
 | [I Am Yours](https://open.spotify.com/track/7kt9DWBdhxw9pABN5M3NjE) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Am Yours](https://open.spotify.com/album/2GQO2VkYtJUR3bqXN2dm6L) | 3:31 | 2022-04-21 | 2022-07-28 |
+| [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 | 2024-12-05 |  |
 | [I Love You Enough to Die Now](https://open.spotify.com/track/48G70vL4tlxLlv8CvoBOFr) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [I Love You Enough to Die Now](https://open.spotify.com/album/2zBzmS2KlASC41G8Qz9vzf) | 3:06 | 2023-02-14 | 2023-02-25 |
 | [I Love You 고마워 \(with D2ear\)](https://open.spotify.com/track/76fybYFWKrw3gRl6Rs48JF) | [ALE](https://open.spotify.com/artist/4utBU1HSRdu6kiI5Y5Q3tY), [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [Lovewave](https://open.spotify.com/album/4OsuC2DAyqJsCQyL0ycdh9) | 3:04 | 2022-04-12 | 2022-04-21 |
 | [I Need You](https://open.spotify.com/track/2dp0SokB0wxNlLcR0J547q) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Need You](https://open.spotify.com/album/7mK5XiyP5mVI5LExHJTJ9E) | 3:50 | 2022-04-21 | 2024-05-13 |
@@ -148,7 +149,7 @@
 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 | 2022-04-12 |  |
 | [Let's Get Lost](https://open.spotify.com/track/5hYYEUnGVFlAf9F95tZsrT) | [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Let's Get Lost](https://open.spotify.com/album/5a3LEIPIytgwlO4IKEROLX) | 3:27 | 2022-04-12 | 2022-04-21 |
 | [Lights](https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 2:52 | 2022-04-12 | 2023-07-08 |
-| [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 | 2022-08-01 |  |
+| [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 | 2022-08-01 | 2025-01-31 |
 | [Like a fool](https://open.spotify.com/track/7scIHHQy2jHsPgZpOkJ0iz) | [DIVE](https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9) | [Like a fool](https://open.spotify.com/album/3bTpSiBLxdKPOVL2nLzxTB) | 2:15 | 2022-12-20 | 2022-12-22 |
 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/1hM9gaPdIoIvYrqS4MbJay) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 | 2022-04-12 | 2024-10-03 |
 | [Like a Joke](https://open.spotify.com/track/2VCGMQgReG4YAX7EQhHPIe) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Like a Joke](https://open.spotify.com/album/1uBjk0rR79y7hBz2AWDZSq) | 2:37 | 2022-04-21 | 2022-07-26 |

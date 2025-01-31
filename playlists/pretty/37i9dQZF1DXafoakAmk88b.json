@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: SPELLLING",
-  "num_followers": 54753,
+  "num_followers": 54766,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -89,38 +89,6 @@
       "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
     },
     {
-      "added_at": "2025-01-17 00:25:31",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 220183,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
-        "name": "Gold Filigree",
-        "url": "https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq"
-      },
-      "artists": [
-        {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Gold Filigree",
-      "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
-    },
-    {
       "added_at": "2024-12-18 16:39:54",
       "album": {
         "name": "i cant tell (love my money)",
@@ -139,6 +107,38 @@
       "duration_ms": 163062,
       "name": "i cant tell (love my money)",
       "url": "https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI"
+    },
+    {
+      "added_at": "2024-12-18 16:39:54",
+      "album": {
+        "name": "Gold Filigree",
+        "url": "https://open.spotify.com/album/7LBPD0Ip7jJzFcEY1LHRrq"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 204615,
+      "name": "Gold Filigree",
+      "url": "https://open.spotify.com/track/2q3fQRPRUuiOk0SVX2erDP"
+    },
+    {
+      "added_at": "2025-01-17 00:25:31",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 220183,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
     },
     {
       "added_at": "2024-12-18 16:39:54",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-12-18 16:39:54",
       "album": {
-        "name": "Desperate Youth, Blood Thirsty Babes (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3GNzcWsUHJfAfkjf59KrAA"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 407217,
-      "name": "Dry Drunk Emperor - 2005 Recording",
-      "url": "https://open.spotify.com/track/5xs5wIA0bTPsxYVI7qONdF"
-    },
-    {
-      "added_at": "2024-12-18 16:39:54",
-      "album": {
         "name": "still around",
         "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 217871,
       "name": "still around",
       "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
+    },
+    {
+      "added_at": "2024-12-18 16:39:54",
+      "album": {
+        "name": "Desperate Youth, Blood Thirsty Babes (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3GNzcWsUHJfAfkjf59KrAA"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 407217,
+      "name": "Dry Drunk Emperor - 2005 Recording",
+      "url": "https://open.spotify.com/track/5xs5wIA0bTPsxYVI7qONdF"
     },
     {
       "added_at": "2024-12-18 16:39:54",

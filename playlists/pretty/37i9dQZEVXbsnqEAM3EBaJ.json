@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADHBBAR2YwxeCHEfuOiWPUY",
+  "snapshot_id": "AAAAAAAAAAD8DoSI+DH00yLZIr2hyonZ",
   "tracks": [
-    {
-      "added_at": "2025-01-24 03:00:00",
-      "album": {
-        "name": "To Live Deliciously",
-        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 332226,
-      "name": "To Live Deliciously",
-      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
-    },
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 478186,
       "name": "Midnight Messiah",
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "To Live Deliciously",
+        "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 332226,
+      "name": "To Live Deliciously",
+      "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -159,26 +159,6 @@
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
-        "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
-        "url": "https://open.spotify.com/album/0iQY3aaPTbpMtyIOeGjCTP"
-      },
-      "artists": [
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        },
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 152456,
-      "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
-      "url": "https://open.spotify.com/track/3LYcvqGyM07ezEJaqNoSZH"
-    },
-    {
-      "added_at": "2025-01-24 03:00:00",
-      "album": {
         "name": "It's My Ego (3mix)",
         "url": "https://open.spotify.com/album/4ShJe9chOSEQWZEkc1MxeX"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 165631,
       "name": "It's My Ego - 3mix",
       "url": "https://open.spotify.com/track/4fx2mGAwYCaxkZQjUTOxXj"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
+        "url": "https://open.spotify.com/album/0iQY3aaPTbpMtyIOeGjCTP"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 152456,
+      "name": "Chasing Shadows (Feat. Brandon Saller of Atreyu)",
+      "url": "https://open.spotify.com/track/3LYcvqGyM07ezEJaqNoSZH"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
+        "name": "Glass Shatters (New Mix)",
+        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 244397,
+      "name": "Glass Shatters - New Mix",
+      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
         "name": "I Am... All of Me (Female Version) [from \"Shadow the Hedgehog\"]",
         "url": "https://open.spotify.com/album/6UvwPTxwk5mrN556LHn9Qh"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 232736,
       "name": "I Am... All of Me (Female Version) [from \"Shadow the Hedgehog\"]",
       "url": "https://open.spotify.com/track/5ODWnK1k9inOsY6HC9ZVAN"
-    },
-    {
-      "added_at": "2025-01-24 03:00:00",
-      "album": {
-        "name": "Glass Shatters (New Mix)",
-        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 244397,
-      "name": "Glass Shatters - New Mix",
-      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
-        "name": "big change",
-        "url": "https://open.spotify.com/album/486zPFFGXeujkL6xSZxyCW"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "neil young and the chrome hearts",
-          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "big change",
-      "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
-    },
-    {
-      "added_at": "2025-01-24 03:00:00",
-      "album": {
         "name": "Buscando la luz",
         "url": "https://open.spotify.com/album/1SrQXc2DsCEnqNfWfx2q6r"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 201151,
       "name": "Buscando la luz",
       "url": "https://open.spotify.com/track/5Kc1j7KZ3dJj9CxUD71Lya"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "big change",
+        "url": "https://open.spotify.com/album/486zPFFGXeujkL6xSZxyCW"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "neil young and the chrome hearts",
+          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "big change",
+      "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
-        "name": "Dull Pain",
-        "url": "https://open.spotify.com/album/6T6Q8buTqoCT3TcSfdrUz0"
-      },
-      "artists": [
-        {
-          "name": "Pentagram",
-          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Dull Pain",
-      "url": "https://open.spotify.com/track/27DUuu4zu7OvX8t9quXUYT"
-    },
-    {
-      "added_at": "2025-01-24 03:00:00",
-      "album": {
         "name": "The Gift (Extended Mix)",
         "url": "https://open.spotify.com/album/29snRJ4onFOKhKbi4VkNsf"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 403080,
       "name": "The Gift - Extended Mix",
       "url": "https://open.spotify.com/track/3i4NIykaXjxkMyjWBlUQ4V"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "Dull Pain",
+        "url": "https://open.spotify.com/album/6T6Q8buTqoCT3TcSfdrUz0"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Dull Pain",
+      "url": "https://open.spotify.com/track/27DUuu4zu7OvX8t9quXUYT"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
+        "name": "Forged by Fire (Orchestral Version)",
+        "url": "https://open.spotify.com/album/5O19rf46jB3Y6i4CTr7Z28"
+      },
+      "artists": [
+        {
+          "name": "Leaves' Eyes",
+          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
+        }
+      ],
+      "duration_ms": 287154,
+      "name": "Forged by Fire - Orchestral Version",
+      "url": "https://open.spotify.com/track/0BHAn0X0Rq5zxqUZD12PUT"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
         "name": "Acelerando",
         "url": "https://open.spotify.com/album/2BZaxQzefNgsK4HwGFZB7b"
       },
@@ -563,38 +579,6 @@
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
-        "name": "Forged by Fire (Orchestral Version)",
-        "url": "https://open.spotify.com/album/5O19rf46jB3Y6i4CTr7Z28"
-      },
-      "artists": [
-        {
-          "name": "Leaves' Eyes",
-          "url": "https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ"
-        }
-      ],
-      "duration_ms": 287154,
-      "name": "Forged by Fire - Orchestral Version",
-      "url": "https://open.spotify.com/track/0BHAn0X0Rq5zxqUZD12PUT"
-    },
-    {
-      "added_at": "2025-01-24 03:00:00",
-      "album": {
-        "name": "Steady Damage (Lo-Fi)",
-        "url": "https://open.spotify.com/album/6wZt5vEAe5Fr5BWEb3DLC2"
-      },
-      "artists": [
-        {
-          "name": "Fit For Rivals",
-          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Damage - Lo-Fi",
-      "url": "https://open.spotify.com/track/7z5WhTU8rmyY2j2mMYY6TG"
-    },
-    {
-      "added_at": "2025-01-24 03:00:00",
-      "album": {
         "name": "Never Alone (from \"Brave The Dark\")",
         "url": "https://open.spotify.com/album/6ncapRurP6I8maeeHnYSwA"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 199734,
       "name": "Never Alone (from \"Brave The Dark\")",
       "url": "https://open.spotify.com/track/5e6VWJbQQ9vf3eLy2Z2lVF"
+    },
+    {
+      "added_at": "2025-01-24 03:00:00",
+      "album": {
+        "name": "Steady Damage (Lo-Fi)",
+        "url": "https://open.spotify.com/album/6wZt5vEAe5Fr5BWEb3DLC2"
+      },
+      "artists": [
+        {
+          "name": "Fit For Rivals",
+          "url": "https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Damage - Lo-Fi",
+      "url": "https://open.spotify.com/track/7z5WhTU8rmyY2j2mMYY6TG"
     },
     {
       "added_at": "2025-01-24 03:00:00",
@@ -639,7 +639,7 @@
     {
       "added_at": "2025-01-24 03:00:00",
       "album": {
-        "name": "El P\u00e1jaro Carpintero",
+        "name": "El P\u00e1jaro Carpintero (Los Nuevos Canticuentos)",
         "url": "https://open.spotify.com/album/6RBqaPnc16QywTs9QXgVm1"
       },
       "artists": [
@@ -669,7 +669,7 @@
         }
       ],
       "duration_ms": 200381,
-      "name": "El P\u00e1jaro Carpintero",
+      "name": "El P\u00e1jaro Carpintero - Los Nuevos Canticuentos",
       "url": "https://open.spotify.com/track/7oZDH5G7U7U19itnDQgsOw"
     },
     {

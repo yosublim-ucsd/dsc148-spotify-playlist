@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 416551,
+  "num_followers": 416660,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
+        "name": "Test Your Love",
+        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Clover",
+          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "The Ruse",
+      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 204024,
       "name": "See It Through",
       "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
-        "name": "Test Your Love",
-        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Clover",
-          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "The Ruse",
-      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "Too Big World",
-        "url": "https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2"
-      },
-      "artists": [
-        {
-          "name": "The Bumper Jacksons",
-          "url": "https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "Grace Love and the True Loves",
         "url": "https://open.spotify.com/album/30LpiaV6x2Jv89Y2pQrFaK"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 183266,
       "name": "Nobody Sweeter",
       "url": "https://open.spotify.com/track/2f6gJU89sk9FT1ESUpxPG4"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
+        "name": "Too Big World",
+        "url": "https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2"
+      },
+      "artists": [
+        {
+          "name": "The Bumper Jacksons",
+          "url": "https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "Cheap Champagne",
-        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 233159,
-      "name": "Cheap Champagne",
-      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "Sister Andre",
         "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 185583,
       "name": "Sister Andre",
       "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
+        "name": "Cheap Champagne",
+        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 233159,
+      "name": "Cheap Champagne",
+      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
-        "name": "No One Gets Out Alive",
-        "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 229289,
-      "name": "Under The Sun",
-      "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
         "name": "Blind Ambition",
         "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 231729,
       "name": "Blind Ambition",
       "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
+        "name": "No One Gets Out Alive",
+        "url": "https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 229289,
+      "name": "Under The Sun",
+      "url": "https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY"
     },
     {
       "added_at": "2025-01-14 22:29:26",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-01-14 22:29:26",
       "album": {
+        "name": "An Epic Battle Between Light and Dark",
+        "url": "https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q"
+      },
+      "artists": [
+        {
+          "name": "American Babies",
+          "url": "https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF"
+        }
+      ],
+      "duration_ms": 201168,
+      "name": "What Does It Mean to Be",
+      "url": "https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563"
+    },
+    {
+      "added_at": "2025-01-14 22:29:26",
+      "album": {
         "name": "Strange Time To Be Alive (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6jVGqA0LXYLY5AGwBXI2bh"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 209360,
       "name": "Better Broken",
       "url": "https://open.spotify.com/track/5ZnKdLTwacoAF8Ek7BVOOs"
-    },
-    {
-      "added_at": "2025-01-14 22:29:26",
-      "album": {
-        "name": "An Epic Battle Between Light and Dark",
-        "url": "https://open.spotify.com/album/2oU1UJK8nE7HmL5EooMy1q"
-      },
-      "artists": [
-        {
-          "name": "American Babies",
-          "url": "https://open.spotify.com/artist/5VCANg5vJdUmB2GyD6A7iF"
-        }
-      ],
-      "duration_ms": 201168,
-      "name": "What Does It Mean to Be",
-      "url": "https://open.spotify.com/track/2KBUrHOzhyEA6bnhCyB563"
     }
   ],
   "unique_name": "the new retro",

@@ -847,6 +847,32 @@
     },
     {
       "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        },
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Hyce",
+          "url": "https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153803,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu"
+    },
+    {
+      "album": {
         "name": "Another Episode",
         "url": "https://open.spotify.com/album/5KNPMPMYybQhSW0QlDgGC8"
       },
@@ -3432,7 +3458,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 161632,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2XPshMnIue2V8xFxodkP7H"
@@ -4344,7 +4370,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 131368,
       "name": "Finish Me",
       "url": "https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h"
@@ -7495,6 +7521,36 @@
     },
     {
       "album": {
+        "name": "LOVE SZN (feat. Yumbs)",
+        "url": "https://open.spotify.com/album/7wiYN800StxCIUTXG9CGpQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Six7even",
+          "url": "https://open.spotify.com/artist/7yyFlB8IOlpxT5aKGLdGZk"
+        },
+        {
+          "name": "Dj Consequence",
+          "url": "https://open.spotify.com/artist/1S28Xg1Txe8qgxku1sFrbh"
+        },
+        {
+          "name": "Paranormal Dj",
+          "url": "https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233926,
+      "name": "LOVE SZN (feat. Yumbs)",
+      "url": "https://open.spotify.com/track/36EG2rg9RAS910WbXRlt2V"
+    },
+    {
+      "album": {
         "name": "Don't Look Down!",
         "url": "https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0"
       },
@@ -7932,6 +7988,28 @@
       "duration_ms": 165283,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/7GQWq2bKlhGTEEkXMQkloe"
+    },
+    {
+      "album": {
+        "name": "2+",
+        "url": "https://open.spotify.com/album/1swMrYyV71fXCRLLVb4L76"
+      },
+      "artists": [
+        {
+          "name": "Rjz",
+          "url": "https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Me Ne Woa",
+      "url": "https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld"
     },
     {
       "album": {
@@ -11816,7 +11894,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 180000,
       "name": "Someday",
       "url": "https://open.spotify.com/track/77vjnIc75JPGhsrVujcgfA"

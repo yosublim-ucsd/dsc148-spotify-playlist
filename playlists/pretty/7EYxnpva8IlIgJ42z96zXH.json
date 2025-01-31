@@ -1,15 +1,15 @@
 {
   "description": "Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more.",
-  "num_followers": 31082,
+  "num_followers": 31078,
   "original_name": "Hot Girl Workout | Pilates, Gym, HIIT, Run Club \ud83c\udf51",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "AAAN/OI1i7CRDmqA7TjCAX+IVDW4U4GX",
+  "snapshot_id": "AAAOAVv6U2IC+eEDLfRJ72ZkPVtkzsrx",
   "tracks": [
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Think About It",
         "url": "https://open.spotify.com/album/71naf0dyKUCucdXEODamHK"
@@ -29,59 +29,23 @@
       "url": "https://open.spotify.com/track/1NyGisWiw1SxUXCaINfCx1"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
-        "name": "Chasing Paradise",
-        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
         }
       ],
-      "duration_ms": 180091,
-      "name": "Chasing Paradise",
-      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
-      "album": {
-        "name": "IT girl",
-        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 153718,
-      "name": "IT girl",
-      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
-    },
-    {
-      "added_at": "2025-01-23 23:28:08",
-      "album": {
-        "name": "Tears On My Piano",
-        "url": "https://open.spotify.com/album/0LkdjD0nQW2CEVVkygtLVi"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 140173,
-      "name": "Tears On My Piano",
-      "url": "https://open.spotify.com/track/2x43NMw2lZatZ94ljbOJ11"
-    },
-    {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Want My Love",
         "url": "https://open.spotify.com/album/65K88KCZBgjznXdSfCUxeE"
@@ -101,7 +65,59 @@
       "url": "https://open.spotify.com/track/2MNZoKTpk2jYMIjTKihdaH"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
+      "album": {
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 180091,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "added_at": "2025-01-30 22:22:28",
+      "album": {
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 153718,
+      "name": "IT girl",
+      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
+    },
+    {
+      "added_at": "2025-01-30 22:22:28",
+      "album": {
+        "name": "Tears On My Piano",
+        "url": "https://open.spotify.com/album/0LkdjD0nQW2CEVVkygtLVi"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 140173,
+      "name": "Tears On My Piano",
+      "url": "https://open.spotify.com/track/2x43NMw2lZatZ94ljbOJ11"
+    },
+    {
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/3cPlIoKj0mGfn4gOJGf1Ms"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/2XwfwHvM8iqvWL5bZWbo86"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "nolimit",
         "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "CAVE (with Tove Lo)",
         "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "You Know What I Want",
         "url": "https://open.spotify.com/album/4Bg4GEz73VkgDskOAWEewn"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/58UO8wjTlOYMIKvuJqZU6T"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "One Summer (MURRAY Remix)",
         "url": "https://open.spotify.com/album/67VNoNRzRZ2NsCDcBYkHbW"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/7BZTS0Cc9n9lp7G8Gqat6Q"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Body Talk (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Nobody Like U",
         "url": "https://open.spotify.com/album/1cUynB6rxcJr9c3D0inGxP"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/1gJgsOWfXRudTbu3AR6XmW"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Kick The Nation",
         "url": "https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/3v6DpJeMAIwx1IXBvfCj9K"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/3scl0Lfq92CcfbIA7VxrVC"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/6ozVpMaT25G5u9V9B1R8JL"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Ponytail",
         "url": "https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Loving You (feat. Maverick Sabre) [p-rallel Remix]",
         "url": "https://open.spotify.com/album/10RvfUmFElbOepMjn1nz38"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/1RBwqOOstUHSyDswQW02Hp"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/4hks1EK6HEi0yNn9qCEXUp"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3j8YtwuhvmzlKPNIxH9dsU"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/4WBPFtI9ZNTlLZRXTVySJb"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/0iA5ZIMgD6y29Oqh3MY2sq"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/2xkn18PZVf7DGtpOOADAPI"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "dark place",
         "url": "https://open.spotify.com/album/2H6TvilDrWYC0qs9rNrJtg"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/3RrPdmhquZWhdHaU9Ijcql"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Pull Up (feat. Akz)",
         "url": "https://open.spotify.com/album/1FnVmOTUExrgOF2GKT2oXZ"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/5dNrJMX6gZRqUN2hSNlcjy"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Hold On Me",
         "url": "https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Feels Good",
         "url": "https://open.spotify.com/album/0RAieBA8Jo2DRPO60BRehK"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/4MdFNU1CTGDco6Hqva7Sku"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "People Happy (KLP Remix)",
         "url": "https://open.spotify.com/album/2BYaGNaKdOirsrKMcF57MZ"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/5IfUyU5AC82xQBEek4UXOn"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Cry Baby",
         "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Fantasy (feat. Channel Tres)",
         "url": "https://open.spotify.com/album/3k2rnh2rzbv7MF9kyf0CTr"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/1dGk1UhfbLY0neBaedx37o"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Icarus",
         "url": "https://open.spotify.com/album/3uzIuizGMQQUWe2fmOhrJD"
@@ -565,7 +581,7 @@
       "url": "https://open.spotify.com/track/4H6bHRSNHD19B9bgsokbsA"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/2Y4soMWQxcin1Hjcy9GOJJ"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/3y50nIVvJuBHs52FV8vcsf"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Meet Me In The Middle",
         "url": "https://open.spotify.com/album/1XUuSXvM22T5sRqD1pOU9K"
@@ -597,27 +613,7 @@
       "url": "https://open.spotify.com/track/2pmvEffn5k4CD5WEmOjDrO"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
-      "album": {
-        "name": "Stars Will Align",
-        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 234366,
-      "name": "Stars Will Align",
-      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
-    },
-    {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Enhancer (Remixes)",
         "url": "https://open.spotify.com/album/0Z43aFAbhQBw4JldQOUEl4"
@@ -637,7 +633,7 @@
       "url": "https://open.spotify.com/track/0Kbpqx1rvZDueKihdCY7V6"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Saving Up",
         "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
@@ -653,7 +649,7 @@
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Free (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE"
@@ -673,7 +669,7 @@
       "url": "https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Freestyler (Rock The Microphone)",
         "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
@@ -693,7 +689,7 @@
       "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Enhancer (Benson Remix)",
         "url": "https://open.spotify.com/album/0H7U9loUvMl7Xw33JGl3Ek"
@@ -713,7 +709,7 @@
       "url": "https://open.spotify.com/track/2o3z7O3ogSAUVR9dQ1W2Vf"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU"
@@ -733,7 +729,7 @@
       "url": "https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
@@ -749,7 +745,7 @@
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Don't Lie",
         "url": "https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf"
@@ -769,7 +765,7 @@
       "url": "https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
         "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
@@ -813,7 +809,7 @@
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Boost Up",
         "url": "https://open.spotify.com/album/76u0teJxmuTXfNZLNws7Ub"
@@ -833,7 +829,7 @@
       "url": "https://open.spotify.com/track/5qDawntZqMqDKJdM5QVSdC"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
@@ -853,7 +849,7 @@
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Touch My Body",
         "url": "https://open.spotify.com/album/2sFc58O2JuDvjGT11Gzgli"
@@ -877,7 +873,7 @@
       "url": "https://open.spotify.com/track/0iUwIi7QYV7ecwiwx5pCgd"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
@@ -893,7 +889,7 @@
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -913,7 +909,7 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -937,7 +933,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
@@ -961,7 +957,7 @@
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "6 In the Morning (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
@@ -981,7 +977,7 @@
       "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
     },
     {
-      "added_at": "2025-01-23 23:28:08",
+      "added_at": "2025-01-30 22:22:28",
       "album": {
         "name": "Eat Your Man (with Nelly Furtado)",
         "url": "https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ"

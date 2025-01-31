@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Funda Arar
+> viral, trend ve yükselenler\. Kapak: Şebnem Ferah
 
 116 songs - 5 hr 57 min
 

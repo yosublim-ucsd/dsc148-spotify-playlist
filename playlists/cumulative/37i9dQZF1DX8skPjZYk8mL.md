@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,096 songs - 1 day 8 hr 41 min
+1,099 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Alla ska sova för nu är det natt](https://open.spotify.com/track/4G5KQTrgJX9Io58KbCY3gy) | [The Small Kinders](https://open.spotify.com/artist/2g2dk6AyNmB7jjeb8MECph) | [Alla ska sova för nu är det natt](https://open.spotify.com/album/54RPF4oOd8B9s4cmaTGNnN) | 1:59 | 2022-12-16 | 2023-08-18 |
 | [Almost Bedtime](https://open.spotify.com/track/4lxWsII6WYqv2m6psFTWjQ) | [Mischa Frey](https://open.spotify.com/artist/5aCUW3cH3tpxM5WufRDCL1) | [Almost Bedtime](https://open.spotify.com/album/1CXOzVd83iN3zwVte4uRgP) | 1:03 | 2023-12-08 |  |
 | [Almost Summer](https://open.spotify.com/track/4jd4BSJkS0PSgFPdgpUBGy) | [Lill Bosse](https://open.spotify.com/artist/5XkrVYETboDRX3VM6cmPxK) | [Almost Summer](https://open.spotify.com/album/4vRciY9DkQsmhYwd2gtGZd) | 1:49 | 2024-05-24 |  |
+| [Alone with the Universe](https://open.spotify.com/track/2AnLW12ghaD2AyIq7i1q3F) | [Francis Luna](https://open.spotify.com/artist/3sjCpfI70lOKlEUBv0xrtQ) | [Alone with the Universe](https://open.spotify.com/album/4OpGeOTVy3qjofpdYJ3ZK9) | 1:56 | 2025-01-30 |  |
 | [Alouette](https://open.spotify.com/track/4Dp0SAG2SJgo2IThcVWohA) | [Dolly Lucas](https://open.spotify.com/artist/5m46u42gQkF6XpMO1xO4zs) | [Alouette](https://open.spotify.com/album/0IrdzcxXVjqeQMAIoPMjlx) | 2:33 | 2023-11-17 |  |
 | [Alphabet song](https://open.spotify.com/track/4mgc8BcnWl9eE2SSjSMoC3) | [Tom Blund](https://open.spotify.com/artist/715D4M785npyWgVKLgtXdX) | [Alphabet song](https://open.spotify.com/album/6SGCFva4mZk0yvwJGWslxu) | 2:20 | 2021-11-08 | 2023-01-06 |
 | [Altató](https://open.spotify.com/track/6acfD89elXrQw1kl3tIiTN) | [Dénes Ildiko](https://open.spotify.com/artist/6l299N71zYztDi36y06Ogh) | [Altató](https://open.spotify.com/album/1kbqALydiBtMGJTgA3uPkw) | 1:33 | 2021-11-08 | 2022-10-29 |
@@ -262,9 +263,10 @@
 | [Ein Lied für meine Kinder](https://open.spotify.com/track/7jsJTp8LeuZP0o60q2QSSA) | [Tim Wiederling](https://open.spotify.com/artist/7rp8SaTYgMbC3W9B9Szwzv) | [Ein Lied für meine Kinder](https://open.spotify.com/album/7yXU53g8Uq4kNmSa7uj16O) | 1:50 | 2021-11-08 | 2022-10-08 |
 | [Ekorrn satt i granen](https://open.spotify.com/track/3gYcHzSXbTQ0A8AcOoczZN) | [Little Vilma](https://open.spotify.com/artist/7l7puDAPlqZGBakfp8s3Wr) | [London Bridge](https://open.spotify.com/album/0reqTcURfy5hVfO0GlEJbH) | 1:53 | 2022-12-16 | 2023-08-18 |
 | [El viejo sillón de papá](https://open.spotify.com/track/1pOTHiPZ8vThREtuVzpe7u) | [Naná Ochoa](https://open.spotify.com/artist/42JZDHOnPgiWq1W1dDSCC1) | [El viejo sillón de papá](https://open.spotify.com/album/4l4qWkbEKANLMLtkQqmsTb) | 1:51 | 2021-11-08 | 2024-04-05 |
-| [Elephant In The Pool](https://open.spotify.com/track/0oBMQX9VeLnJWNn5qbhVxs) | [Amy Roman](https://open.spotify.com/artist/12FvCDGPna0IpMgSrnNUpe) | [Elephant In The Pool](https://open.spotify.com/album/2gw5n0Ikr8LDgj7tfUSa2U) | 2:18 | 2023-12-08 |  |
+| [Elephant In The Pool](https://open.spotify.com/track/0oBMQX9VeLnJWNn5qbhVxs) | [Amy Roman](https://open.spotify.com/artist/12FvCDGPna0IpMgSrnNUpe) | [Elephant In The Pool](https://open.spotify.com/album/2gw5n0Ikr8LDgj7tfUSa2U) | 2:18 | 2023-12-08 | 2025-01-31 |
 | [Elsas Vaggvisa \(MusicBox\)](https://open.spotify.com/track/10oj8CDN9OqSJRoajUH4Oe) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Stjärnfall MusicBox](https://open.spotify.com/album/552hmmxQb1A0xLHr96t4ac) | 1:06 | 2023-03-17 | 2023-08-18 |
 | [Elvira Fattigans Song](https://open.spotify.com/track/32T5Fnw7yUvCeXzbsGznxB) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Elvira Fattigans Sång](https://open.spotify.com/album/5J8xhJcihn9vue9jG88SX7) | 1:59 | 2023-03-17 | 2023-08-18 |
+| [Embers Fade](https://open.spotify.com/track/111gGpmdZxoeMRKjLsHQnC) | [Cory Andon](https://open.spotify.com/artist/6f0kccPZWWOkGl48en9zCI) | [Embers Fade](https://open.spotify.com/album/1lNduh9ABeVDDbsxvlY3Me) | 2:26 | 2025-01-30 |  |
 | [Endnu en dag](https://open.spotify.com/track/6fL7itT01Wt99xDdkmkVhC) | [Saga Villadsen](https://open.spotify.com/artist/1cuFpoEhNxpI99ojgimE64) | [På en blomstereng](https://open.spotify.com/album/4d1F6hCt9yX8C3scF4QXdw) | 1:45 | 2021-11-08 | 2023-01-27 |
 | [Ensam uti skogen](https://open.spotify.com/track/3tD3QHMN4LfTKYPjGsSkre) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Ensam uti skogen](https://open.spotify.com/album/1CyZXVJUiv5EubnHNdBYQ1) | 1:24 | 2022-06-07 | 2023-06-03 |
 | [Evening Stillness](https://open.spotify.com/track/5QD0VX4sPwPc9wGjfK5JbA) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [Evening Stillness](https://open.spotify.com/album/5s67Eta43UUoyEjANkBo6h) | 1:51 | 2023-09-22 |  |
@@ -560,7 +562,7 @@
 | [Me and Teddy](https://open.spotify.com/track/4pLSsRwuJetD2G3H480CqZ) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Me and Teddy](https://open.spotify.com/album/1OwCOuuu7KRLbsA9h1AHtx) | 2:34 | 2022-09-02 | 2024-04-05 |
 | [Meadow](https://open.spotify.com/track/4Jdbwh9Zpxt2NDdtP386ys) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [Meadow](https://open.spotify.com/album/261uRNYbDr1XvPJrOdHtVS) | 2:17 | 2023-08-10 |  |
 | [Merrily We Roll Along](https://open.spotify.com/track/5BUh5drj0lOvk5Z3EwTcJr) | [Hampus I Backen](https://open.spotify.com/artist/7eh8uR2SdD0SSgIMaNOAHT) | [Merrily We Roll Along](https://open.spotify.com/album/0hlAAwwQ8rOTvDt78fZzCW) | 0:41 | 2023-06-22 | 2024-05-24 |
-| [Merry Meadows](https://open.spotify.com/track/44Vxvcdw1IclzMa0Znc8lN) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Golden Dreams](https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW) | 1:59 | 2023-05-12 |  |
+| [Merry Meadows](https://open.spotify.com/track/44Vxvcdw1IclzMa0Znc8lN) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Golden Dreams](https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW) | 1:59 | 2023-05-12 | 2025-01-31 |
 | [Merry\-go\-round](https://open.spotify.com/track/60YHkVjJTe9yOuk2gYWqKk) | [Mary Willowfeather](https://open.spotify.com/artist/0mtgBfJTZfPCuMZ08HxCtS) | [Merry\-go\-round](https://open.spotify.com/album/1YWo5wJHBuJX9FFBLPHHhY) | 1:43 | 2021-11-08 | 2023-01-06 |
 | [Mi rayo de sol](https://open.spotify.com/track/2xeeRdL9B3iCrVkBAckGAy) | [Aline Almeida Rocha](https://open.spotify.com/artist/6D00zwiRArvpJycXcd0udR) | [Toma mi mano](https://open.spotify.com/album/4CyJ46CXZzbegrxs7OCaVg) | 1:30 | 2021-11-08 | 2022-09-24 |
 | [Milky Way Dreams](https://open.spotify.com/track/4tro0Lf8epqpNns2CZP7N6) | [Allan London](https://open.spotify.com/artist/3hZZcCyB8FOIGhgz5KU2aQ) | [Milky Way Dreams](https://open.spotify.com/album/1iyl2yPMtFOCNdvbGPQ7Dk) | 1:54 | 2023-09-22 | 2024-04-05 |
@@ -596,6 +598,7 @@
 | [Mrs Frog's Daydream](https://open.spotify.com/track/3QnjauHkZ71ZupNKuSGcxC) | [Francine Reveur](https://open.spotify.com/artist/2Cy1U663G5b7w3j3CUNgiQ) | [Mrs Frog's Daydream](https://open.spotify.com/album/2iZtihUu4yn7SvXotNqxHr) | 1:42 | 2023-04-07 |  |
 | [Music Box Lullaby](https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Music Box Lullaby](https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N) | 1:25 | 2024-03-01 |  |
 | [My Baby Brother](https://open.spotify.com/track/4kxQ0u5PU8OFSpOXv4JpEC) | [Nataliya Fowler](https://open.spotify.com/artist/1tiCCBYfrrB1loQSAZ42lU) | [My Baby Brother](https://open.spotify.com/album/7kS49Ln0lmwL9Ytozwpv67) | 2:02 | 2021-11-08 | 2022-10-29 |
+| [My Best Duck](https://open.spotify.com/track/1DZBZifutZkEfVJbnCXS4w) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [My Best Duck](https://open.spotify.com/album/29lzzXqw0dpl9Vdz9fTOHl) | 1:26 | 2025-01-30 |  |
 | [My Best Friend](https://open.spotify.com/track/2XPpJmMdDKwLaDn5FihlSa) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [My Best Friend](https://open.spotify.com/album/0ZKhjitpfir1zFKDZJPYZ6) | 1:36 | 2024-08-09 |  |
 | [My Best Friend](https://open.spotify.com/track/3jOUUhZ9la9yNijKxdXJwd) | [Lina Karo](https://open.spotify.com/artist/3uhp9VrAedCv6oMnkaXBtL) | [My Best Friend](https://open.spotify.com/album/3h9fNJ3vgd2T7tuUpyVUIh) | 1:45 | 2024-09-06 |  |
 | [My Best Friend Bob](https://open.spotify.com/track/6GU8lcVUnQQh9Tumb2uIeR) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:52 | 2021-11-08 | 2023-01-06 |
@@ -1086,7 +1089,7 @@
 | [Worlds Cutest](https://open.spotify.com/track/30hxrQ9wWq59KepwZTp0tf) | [Joy Garden](https://open.spotify.com/artist/5QqUHhXF2a6Axz340GBIbR) | [Worlds Cutest](https://open.spotify.com/album/2tkkPMFmT4YBAy9xYAjFqu) | 2:01 | 2024-11-08 |  |
 | [Wrapped In A Blanket](https://open.spotify.com/track/1S1SKKE7smqdaWWbx4Cdqx) | [Lucille Shannon](https://open.spotify.com/artist/1kAuyhZ2vs4DMiGGOuTIiN) | [Wrapped In A Blanket](https://open.spotify.com/album/4p94R4YXKMs09DXBmIYhcA) | 1:40 | 2022-05-13 | 2024-07-19 |
 | [Yankee Doodle](https://open.spotify.com/track/1YnMwAi7bVwAFyAWhrzTt9) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Lullaby and Goodnight](https://open.spotify.com/album/4UnLWekJt1qqHlniVVLeEH) | 1:25 | 2022-10-07 | 2023-11-17 |
-| [Yankee Doodle](https://open.spotify.com/track/1QBxF3sfgwlcpJo4v7wBxt) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Yankee Doodle](https://open.spotify.com/album/1tjUWMwT2EndqFOeFjpOh0) | 2:19 | 2023-03-17 |  |
+| [Yankee Doodle](https://open.spotify.com/track/1QBxF3sfgwlcpJo4v7wBxt) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Yankee Doodle](https://open.spotify.com/album/1tjUWMwT2EndqFOeFjpOh0) | 2:19 | 2023-03-17 | 2025-01-31 |
 | [Yawn at Dawn](https://open.spotify.com/track/0DcbhT9Gkji3MzxHzjkBGU) | [Kirsten Cagle](https://open.spotify.com/artist/5PccRblfC6x56aEc9QFFa6) | [Naptime](https://open.spotify.com/album/6gkiPwfiBMRrFHfPuL3JmD) | 1:42 | 2021-11-08 | 2023-06-16 |
 | [Yellow & Blue](https://open.spotify.com/track/6r8jcEwqhubzAOWjZfzMAd) | [Rio Harris](https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs) | [Yellow & Blue](https://open.spotify.com/album/6E564DHa5OzweC9UhpAOc9) | 2:19 | 2024-08-30 |  |
 | [Yesterday](https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ) | [Bella Notte](https://open.spotify.com/artist/5GWqn1K9HufkeR8NEMNn5S) | [Yesterday](https://open.spotify.com/album/4A57hMzEz3dI0cUDwB3qbw) | 1:35 | 2022-09-02 | 2023-03-18 |

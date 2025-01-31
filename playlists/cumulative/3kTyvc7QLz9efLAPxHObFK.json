@@ -25987,6 +25987,28 @@
     },
     {
       "album": {
+        "name": "Nobody Stoppin Us",
+        "url": "https://open.spotify.com/album/0jvXorvaQEkSsfAz2FK9Ff"
+      },
+      "artists": [
+        {
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        },
+        {
+          "name": "Scarra",
+          "url": "https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210488,
+      "name": "Nobody Stoppin Us",
+      "url": "https://open.spotify.com/track/5T5Pe4UOadLUaKxGsIo0jx"
+    },
+    {
+      "album": {
         "name": "Nobody To Love (By Luca)",
         "url": "https://open.spotify.com/album/2dAdwIC3NQzTiu5r6VuAk2"
       },

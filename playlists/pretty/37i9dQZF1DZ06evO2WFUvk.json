@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 3643,
+  "num_followers": 3647,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5geAAAAAAATUJ1lIqf0p74FuETxUJAG",
+  "snapshot_id": "Z5lvgAAAAABONiY1JCiTMbzLKKgvIsfg",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 186680,
-      "name": "Asalto Chido",
-      "url": "https://open.spotify.com/track/0HX6AibpN8ejlt4JYGfkGw"
+      "duration_ms": 270333,
+      "name": "Ama De Casa Un Poco Triste",
+      "url": "https://open.spotify.com/track/1UkPZxEEM5ck5gWTI2iNu3"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 270333,
-      "name": "Ama De Casa Un Poco Triste",
-      "url": "https://open.spotify.com/track/1UkPZxEEM5ck5gWTI2iNu3"
+      "duration_ms": 186680,
+      "name": "Asalto Chido",
+      "url": "https://open.spotify.com/track/0HX6AibpN8ejlt4JYGfkGw"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
       "duration_ms": 372000,
       "name": "Crazy Heat - Original Mix",
       "url": "https://open.spotify.com/track/74V44B1LQhkkiS4pFysDdH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gonzalez",
-          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
-        }
-      ],
-      "duration_ms": 323301,
-      "name": "Samambaila - Original Mix",
-      "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
     }
   ],
   "unique_name": "This Is Rodrigo Gonzalez",

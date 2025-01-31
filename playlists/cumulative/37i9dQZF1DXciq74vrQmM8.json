@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. ALT BLK ERA",
+  "description": "anyway, here's Bring Me The Horizon \u26d3\ufe0f",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -4881,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "Dog's Dinner",
+        "url": "https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1"
+      },
+      "artists": [
+        {
+          "name": "SOFIA ISELLA",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225032,
+      "name": "Dog's Dinner",
+      "url": "https://open.spotify.com/track/6pVOmtY7MYzOdV5KwVEvDQ"
+    },
+    {
+      "album": {
         "name": "Dogs",
         "url": "https://open.spotify.com/album/0Bu37cEkAfk8UGuSlMx9cm"
       },
@@ -5448,7 +5466,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 210021,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/74UEBy9GJ082fc7Nax2ST7"
@@ -5538,7 +5556,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 264433,
       "name": "EURO CUT",
       "url": "https://open.spotify.com/track/5YinEwPw568hqnzVLdm6mh"
@@ -6352,7 +6370,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 186458,
       "name": "Floodlights (feat. Siiickbrain)",
       "url": "https://open.spotify.com/track/4oB1uQsNHRTaX6KLxPdSM8"
@@ -13880,6 +13898,24 @@
       "duration_ms": 127391,
       "name": "Pink G-String",
       "url": "https://open.spotify.com/track/1uAXWqVuVOSDqE4lJvY4Ae"
+    },
+    {
+      "album": {
+        "name": "pink gun",
+        "url": "https://open.spotify.com/album/6ibuf1X8PFFtLgxOXUo5EM"
+      },
+      "artists": [
+        {
+          "name": "Laurel Smith",
+          "url": "https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188516,
+      "name": "pink gun",
+      "url": "https://open.spotify.com/track/6UNszlYyXAmKAAqF3e3Lv2"
     },
     {
       "album": {

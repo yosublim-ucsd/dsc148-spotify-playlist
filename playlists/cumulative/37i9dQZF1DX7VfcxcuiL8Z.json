@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Blood's on fire",
+        "url": "https://open.spotify.com/album/1pufe0kyP5ZHGywP6UtSoj"
+      },
+      "artists": [
+        {
+          "name": "VOWWS",
+          "url": "https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "Blood's on fire",
+      "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
+    },
+    {
+      "album": {
         "name": "Dead Slow",
         "url": "https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC"
       },
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 195303,
       "name": "Dull (feat. Softcult)",
       "url": "https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT"
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 207955,
       "name": "Ghost Of Us",
       "url": "https://open.spotify.com/track/3MlWR0dkqAzEGi97w7vqLO"
@@ -3195,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Seven Years",
+        "url": "https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P"
+      },
+      "artists": [
+        {
+          "name": "Letters to Lions",
+          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185262,
+      "name": "Seven Years",
+      "url": "https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/48NcXzz8dPbKReTUjTNQHv"
       },
@@ -4150,7 +4186,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 185206,
       "name": "What Do You Want Me To Be",
       "url": "https://open.spotify.com/track/4xlJuoRCEH8hSDaPa1eoxw"
@@ -4244,6 +4280,24 @@
       "duration_ms": 212739,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240151,
+      "name": "WONDERWaLL - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "album": {

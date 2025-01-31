@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "A Knight\u2019s Tale",
+        "url": "https://open.spotify.com/album/5vWYUCEKVEUj8KBnTIbcwX"
+      },
+      "artists": [
+        {
+          "name": "Tamir",
+          "url": "https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153200,
+      "name": "Big Wolf",
+      "url": "https://open.spotify.com/track/5oyh5aHumv5soKCDA1f9B5"
+    },
+    {
+      "album": {
         "name": "Bitter Moon - \u05d9\u200b\u05e8\u200b\u05d7 \u05de\u05e8",
         "url": "https://open.spotify.com/album/14cViBa8h1qQTXKPwuUoiS"
       },
@@ -378,7 +396,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 205972,
       "name": "For You",
       "url": "https://open.spotify.com/track/5GQjtqOoYgmOPXxyrcA1rS"
@@ -812,6 +830,24 @@
       "duration_ms": 200958,
       "name": "Out of Reach",
       "url": "https://open.spotify.com/track/7hOQIADSK0zU0FEuZJUoi7"
+    },
+    {
+      "album": {
+        "name": "Pay For Me (\u05e9\u05dc\u05dd \u05e2\u05dc\u05d9\u05d9)",
+        "url": "https://open.spotify.com/album/0dlqp2x3x8Y2UoqLJ8Pka9"
+      },
+      "artists": [
+        {
+          "name": "Riff Cohen",
+          "url": "https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204732,
+      "name": "Pay For Me (\u05e9\u05dc\u05dd \u05e2\u05dc\u05d9\u05d9)",
+      "url": "https://open.spotify.com/track/5oBfXbiGMO4YN2vahPCm2Q"
     },
     {
       "album": {
@@ -1735,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05e9\u05d1\u05e8 \u05d4\u05e1\u05d5\u05e8\u05d9-\u05d0\u05e4\u05e8\u05d9\u05e7\u05e0\u05d9",
+        "url": "https://open.spotify.com/album/7oZ69JODOCPiZbhN2mmDMg"
+      },
+      "artists": [
+        {
+          "name": "Ollie Danon",
+          "url": "https://open.spotify.com/artist/1hoFAEXkhrWmmS5G9NFc6U"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u05d4\u05e9\u05d1\u05e8 \u05d4\u05e1\u05d5\u05e8\u05d9-\u05d0\u05e4\u05e8\u05d9\u05e7\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/7uungrCglt9t2vWRNxzpSo"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d7\u05e6\u05e8 \u05d4\u05d0\u05d7\u05d5\u05e8\u05d9\u05ea 3",
         "url": "https://open.spotify.com/album/0l8ynz9r3gU65k9JYOoXHE"
       },
@@ -1944,6 +1998,24 @@
       "duration_ms": 142500,
       "name": "\u05d8\u05e4\u05d5 \u05d8\u05e4\u05d5",
       "url": "https://open.spotify.com/track/379bhCgYGmQm7OhIGfRsb5"
+    },
+    {
+      "album": {
+        "name": "\u05d9\u05d5\u05de\u05d4",
+        "url": "https://open.spotify.com/album/5hW3gJJtJpndoaMAASs6tC"
+      },
+      "artists": [
+        {
+          "name": "Tohar Gadasi",
+          "url": "https://open.spotify.com/artist/67erASlln0EDGRxHQiePNa"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "\u05d9\u05d5\u05de\u05d4",
+      "url": "https://open.spotify.com/track/5APVA4YjS7v452lUvnf3mS"
     },
     {
       "album": {
@@ -2396,7 +2468,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 195000,
       "name": "\u05dc\u05d9\u05df",
       "url": "https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x"
@@ -2530,7 +2602,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 168213,
       "name": "\u05de\u05d9\u05dd \u05e2\u05dc \u05d4\u05e1\u05dc\u05e2",
       "url": "https://open.spotify.com/track/60gGs8Qm93hUwLLjkXgTJX"
@@ -2690,7 +2762,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 190000,
       "name": "\u05e0\u05d7\u05d2\u05d5\u05d2 \u05d5\u05de\u05d2\u05d5\u05d2",
       "url": "https://open.spotify.com/track/1xk0PcgVTo7eFXH33mx0Lb"

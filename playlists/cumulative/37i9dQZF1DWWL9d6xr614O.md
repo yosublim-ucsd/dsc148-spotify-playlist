@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-196 songs - 15 hr 8 min
+197 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Let God](https://open.spotify.com/track/5rLxqWMkBul7VvrXKkXNMa) | [Lara Maigue](https://open.spotify.com/artist/6ipkg2AA87aARg3YLnHBWX) | [Let God](https://open.spotify.com/album/7GaTQ2O0gRXqM8deTXzrOw) | 4:01 | 2022-04-15 |  |
 | [Let Your Glory Come \- Live](https://open.spotify.com/track/2VgXjVDkD8xEX7ybz3rly8) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Glory \(Live\)](https://open.spotify.com/album/168B29cWJJPfcnpwIFKZqr) | 5:28 | 2024-10-24 |  |
 | [Lighthouse in the Storm](https://open.spotify.com/track/4ZNpAwmAFBjIkE49GUqDUm) | [Hazel Faith](https://open.spotify.com/artist/1IJ4wDIUWLb0XLmPN79SDj) | [Lighthouse in the Storm](https://open.spotify.com/album/6ASnuC91fC5llmBogdwmg2) | 3:29 | 2022-04-15 |  |
+| [Ligtas](https://open.spotify.com/track/6c2KsvTX9k7bEOKSP7GVrV) | [Torch Family Music](https://open.spotify.com/artist/7uXEC6VJLXhLDb3oZ5MTfw) | [Ligtas](https://open.spotify.com/album/5AFt9Um6ybLcQ42fAqYlZc) | 4:26 | 2025-01-31 |  |
 | [Lilim \(In Your Shelter\)](https://open.spotify.com/track/43xHLToY9KFqmYAuqZ1xpF) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Lilim \(In Your Shelter\)](https://open.spotify.com/album/0ERLfNl2ATWh66pIPIeysD) | 6:09 | 2024-03-19 |  |
 | [Living Water](https://open.spotify.com/track/2KCT1NuIYxKHSy8z6WLpgM) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Living Water](https://open.spotify.com/album/5WcZ6Do5YLPerJ6F8abx0E) | 5:44 | 2022-04-15 |  |
 | [Lord Speak](https://open.spotify.com/track/20WFxQ4lx4hvxvnuu13FSN) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Lord Speak](https://open.spotify.com/album/71uUBDN7MkIv4EGk2Usad5) | 4:33 | 2022-04-15 |  |

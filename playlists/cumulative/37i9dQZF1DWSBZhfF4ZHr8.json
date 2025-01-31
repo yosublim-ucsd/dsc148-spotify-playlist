@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Nej",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Mentissa",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 302200,
       "name": "30",
       "url": "https://open.spotify.com/track/3pC7iN76SIPmxz2zjEEUtn"
+    },
+    {
+      "album": {
+        "name": "Abuelito",
+        "url": "https://open.spotify.com/album/69lB7oDyFfSlsgVQLOCRnz"
+      },
+      "artists": [
+        {
+          "name": "Anthony Soto",
+          "url": "https://open.spotify.com/artist/2blhvivHK3BmOLf1HQeQ6k"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165326,
+      "name": "Abuelito",
+      "url": "https://open.spotify.com/track/0ErYFIfaBolQss5NKdvdhC"
     },
     {
       "album": {
@@ -222,7 +240,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 180000,
       "name": "C'est \u00e7a la vie",
       "url": "https://open.spotify.com/track/4uw9QI12tDmEvlgiH4tFm9"
@@ -276,7 +294,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 174800,
       "name": "Cette vie",
       "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
@@ -616,7 +634,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 176400,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6LF1OzPmtNhklCCKUt2jUq"
@@ -641,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv"
+      },
+      "artists": [
+        {
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T"
+    },
+    {
+      "album": {
         "name": "D\u00e9lit de m\u00e9lancolie",
         "url": "https://open.spotify.com/album/7bq7CwAU7YweDXvtrCm2rZ"
       },
@@ -656,6 +692,24 @@
       "duration_ms": 170400,
       "name": "D\u00e9lit de m\u00e9lancolie",
       "url": "https://open.spotify.com/track/4x4wAE7wdLBoZVdws13kZ2"
+    },
+    {
+      "album": {
+        "name": "D\u00e9sol\u00e9e",
+        "url": "https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164199,
+      "name": "D\u00e9sol\u00e9e",
+      "url": "https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen"
     },
     {
       "album": {
@@ -826,7 +880,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 206117,
       "name": "Et si tu sens - \u00e9crit par Gr\u00e9gory Lemarchal",
       "url": "https://open.spotify.com/track/4APtnl8hCS4PPBjaOGb1XV"
@@ -1548,7 +1602,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 201761,
       "name": "Le jeu",
       "url": "https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn"
@@ -2553,6 +2607,24 @@
     },
     {
       "album": {
+        "name": "Reflet",
+        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168394,
+      "name": "Reflet",
+      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
+    },
+    {
+      "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/7sdaJif7blg8yw12wtnKd6"
       },
@@ -2568,6 +2640,24 @@
       "duration_ms": 212021,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0I8x14WQm5qZIuePdd4JRX"
+    },
+    {
+      "album": {
+        "name": "Regarde",
+        "url": "https://open.spotify.com/album/39hZhVtDtPuH0njI8KjArd"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163182,
+      "name": "Regarde",
+      "url": "https://open.spotify.com/track/2147QVD0QBS9L90jxwvUcc"
     },
     {
       "album": {
@@ -2788,10 +2878,28 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 159377,
       "name": "soleil",
       "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
+    },
+    {
+      "album": {
+        "name": "Station 4 septembre",
+        "url": "https://open.spotify.com/album/3mshMElmNYgR2hAptgDrH2"
+      },
+      "artists": [
+        {
+          "name": "Pixel",
+          "url": "https://open.spotify.com/artist/1rmUeanBa7ccqHR6uOIFZV"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Station 4 septembre",
+      "url": "https://open.spotify.com/track/6D2K93Io4o7dDQqh6MxeCs"
     },
     {
       "album": {
@@ -2932,7 +3040,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 165289,
       "name": "TOI MA PEINE",
       "url": "https://open.spotify.com/track/0af4vgQfrSkEoU6WoAu2CU"
@@ -2986,7 +3094,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 158331,
       "name": "Tourner sous la pluie",
       "url": "https://open.spotify.com/track/4TxDNMIF4z0kZigtnWnLUC"
@@ -3047,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Tout ira mieux",
+        "url": "https://open.spotify.com/album/62P34yhvZUL6tUufhJW2cy"
+      },
+      "artists": [
+        {
+          "name": "Maheva",
+          "url": "https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170419,
+      "name": "Tout ira mieux",
+      "url": "https://open.spotify.com/track/7Iv8bX5ooI4vQAvw6JWd17"
+    },
+    {
+      "album": {
         "name": "Tout Petit",
         "url": "https://open.spotify.com/album/3b8PMF3afnavT72CLkvcaf"
       },
@@ -3058,7 +3184,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 162586,
       "name": "Tout Petit",
       "url": "https://open.spotify.com/track/0uJdIiu2BEyI6ZZN8wijhL"
@@ -3160,6 +3286,24 @@
       "duration_ms": 189711,
       "name": "Umani Terra",
       "url": "https://open.spotify.com/track/779gHT6XTEHjMO1euJHCi6"
+    },
+    {
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "Un dimanche avec toi",
+      "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
     },
     {
       "album": {
@@ -3272,6 +3416,24 @@
       "duration_ms": 227988,
       "name": "Vie vagabonde",
       "url": "https://open.spotify.com/track/3frFPT7DxaKvs2eYop2OPU"
+    },
+    {
+      "album": {
+        "name": "L'album de la promo 2024",
+        "url": "https://open.spotify.com/album/1AxvcnFWz0ErVEtTvv3Mk3"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181213,
+      "name": "Vos voix",
+      "url": "https://open.spotify.com/track/45cYeCK8CFZW0nXKDcRcBQ"
     },
     {
       "album": {

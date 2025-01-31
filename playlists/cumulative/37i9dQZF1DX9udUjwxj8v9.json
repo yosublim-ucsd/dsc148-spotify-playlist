@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 162973,
       "name": "Atr\u00e1s Do Trio El\u00e9trico",
       "url": "https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX"
@@ -1074,6 +1074,24 @@
       "duration_ms": 158400,
       "name": "Pegando Fogo",
       "url": "https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR"
+    },
+    {
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "Portela Na Avenida",
+      "url": "https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2"
     },
     {
       "album": {

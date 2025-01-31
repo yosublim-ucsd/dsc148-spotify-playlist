@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 394400,
       "name": "'Bout It",
       "url": "https://open.spotify.com/track/3414vfp4uaJNFqFFj9sUvz"
@@ -8770,7 +8770,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 120004,
       "name": "Chess Type Beat",
       "url": "https://open.spotify.com/track/7mwXFKWXsbxSanaFQ2JS53"
@@ -8835,10 +8835,6 @@
         "url": "https://open.spotify.com/album/28Vx2GTLcjptZLTTSrJrur"
       },
       "artists": [
-        {
-          "name": "Jes\u00fas Mus1c",
-          "url": "https://open.spotify.com/artist/3dJeNjOEz8d8bgWYiK8SPv"
-        },
         {
           "name": "joyful",
           "url": "https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ"
@@ -15014,7 +15010,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 231626,
       "name": "FANTASTIC BABY - Japanese ver.",
       "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
@@ -28065,6 +28061,28 @@
     },
     {
       "album": {
+        "name": "The Gifted",
+        "url": "https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "LoveHate Thing (feat. Sam Dew)",
+      "url": "https://open.spotify.com/track/2FGKofI4AJN91ofBNDmWWB"
+    },
+    {
+      "album": {
         "name": "LOVELY BASTARDS",
         "url": "https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM"
       },
@@ -28764,7 +28782,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 137187,
       "name": "made in slovakia",
       "url": "https://open.spotify.com/track/7rQB3A66Brj0Xc5EXzUdgF"
@@ -43080,7 +43098,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-28",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Say My Name - Remix",
       "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
@@ -53856,7 +53874,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 190153,
       "name": "Wacuka",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
@@ -57952,6 +57970,24 @@
       "duration_ms": 178288,
       "name": "\u0422\u0430\u043d\u0446\u044b",
       "url": "https://open.spotify.com/track/4rSvNQcgKfv8jQXSNLpL1Q"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0442\u0430\u043a\u0456 \u043a\u0430\u0437\u043a\u0438, \u043c\u0430\u043b\u044f\u0442\u0430...",
+        "url": "https://open.spotify.com/album/6K7YZiCDu5Lh4eZ82clQat"
+      },
+      "artists": [
+        {
+          "name": "Shkerebertb",
+          "url": "https://open.spotify.com/artist/2tJVm1NURKFjNSGL6MDEGf"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "\u0422\u0430\u043d\u0446\u044e\u0432\u0430\u043b\u0430 \u0440\u0438\u0431\u0430 \u0437 \u0440\u0430\u043a\u043e\u043c",
+      "url": "https://open.spotify.com/track/5SYAJOVcQIO1kYLJHz3tdo"
     },
     {
       "album": {

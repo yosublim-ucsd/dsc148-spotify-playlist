@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Papa Roach",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Nevertel",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Can you make yourself believe?",
+        "url": "https://open.spotify.com/album/6FfPqMINhO7oBfaxiwZjly"
+      },
+      "artists": [
+        {
+          "name": "Wait of the World",
+          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160982,
+      "name": "Can you make yourself believe?",
+      "url": "https://open.spotify.com/track/2SwfEPQWPTxqOzTXVltmko"
+    },
+    {
+      "album": {
         "name": "Can't Pretend",
         "url": "https://open.spotify.com/album/2Va1yb8puMpQAFTn8Ag3bN"
       },
@@ -1362,6 +1380,24 @@
       "duration_ms": 193552,
       "name": "Closure",
       "url": "https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl"
+    },
+    {
+      "album": {
+        "name": "Cloud9",
+        "url": "https://open.spotify.com/album/0gW2iKCUe2PKiuG0ObBKmx"
+      },
+      "artists": [
+        {
+          "name": "FLOYA",
+          "url": "https://open.spotify.com/artist/1jGACwVpRJvsOfg29pM5L7"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206722,
+      "name": "Cloud9",
+      "url": "https://open.spotify.com/track/2hrwryRRhar9qf9QslQFpz"
     },
     {
       "album": {
@@ -1822,6 +1858,24 @@
       "duration_ms": 209800,
       "name": "DON'T KILL ME",
       "url": "https://open.spotify.com/track/6JDsYqbQFdHb7xK0L5kvLG"
+    },
+    {
+      "album": {
+        "name": "Overdriver",
+        "url": "https://open.spotify.com/album/0shNp38H68PQgYidEQm1K7"
+      },
+      "artists": [
+        {
+          "name": "The Hellacopters",
+          "url": "https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Don't Let Me Bring You Down",
+      "url": "https://open.spotify.com/track/4k92mQm38pUHtfrFEkmZeI"
     },
     {
       "album": {
@@ -3133,6 +3187,24 @@
     },
     {
       "album": {
+        "name": "Immortals",
+        "url": "https://open.spotify.com/album/2vrXlMSOiUhVHnKqcUuHCD"
+      },
+      "artists": [
+        {
+          "name": "Halflives",
+          "url": "https://open.spotify.com/artist/4er5NZNuc83Cev96LA28ID"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Immortals",
+      "url": "https://open.spotify.com/track/4d3a5WyZhMsqojMU0MHJ3k"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
       },
@@ -4030,7 +4102,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 257799,
       "name": "MY GOD HAS GOT A GUN",
       "url": "https://open.spotify.com/track/7ERQTqX4DWDF3onsWpxu4T"
@@ -4268,7 +4340,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 289546,
       "name": "Nothing Higher",
       "url": "https://open.spotify.com/track/2cy6WFMBsLgoOCPLzzlmUu"
@@ -4330,7 +4402,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 218000,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/32lG2dcfHHFJZLRPOogB7E"
@@ -4392,7 +4464,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 208054,
       "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
       "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
@@ -4682,7 +4754,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 265188,
       "name": "Pitch Black",
       "url": "https://open.spotify.com/track/667WclCD8TE4oLsoWkRoNy"
@@ -4887,6 +4959,24 @@
     },
     {
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/71KC8LHr8YOt1o2jdLzLYe"
+      },
+      "artists": [
+        {
+          "name": "Flash Forward",
+          "url": "https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205495,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/3P3E5PHisRJ4omRhF0pbDH"
+    },
+    {
+      "album": {
         "name": "Rest In Pieces",
         "url": "https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq"
       },
@@ -5006,7 +5096,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 192734,
       "name": "S!CK",
       "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
@@ -5466,6 +5556,24 @@
       "duration_ms": 181521,
       "name": "Start A Comeback",
       "url": "https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu"
+    },
+    {
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/3IxDdaXI3bCQNt2AliVKu2"
+      },
+      "artists": [
+        {
+          "name": "Nevertel",
+          "url": "https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194959,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/4ZjYbNTWBUqhTkq3ydZrM0"
     },
     {
       "album": {
@@ -6022,7 +6130,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 180706,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/5o04j4d18BlF4OPcOetHAN"
@@ -6412,6 +6520,24 @@
       "duration_ms": 205000,
       "name": "Wish It On You (with AViVA)",
       "url": "https://open.spotify.com/track/7EEYYb0EbA7EcAL2c9NZXe"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240151,
+      "name": "WONDERWaLL - Spotify Singles",
+      "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
       "album": {

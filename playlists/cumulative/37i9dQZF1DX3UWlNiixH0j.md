@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 鈴木実貴子ズ（Suzuki Mikiko's）
 
-2,124 songs - 5 day 12 hr 35 min
+2,125 songs - 5 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [A Crystal Night](https://open.spotify.com/track/31DhPL6kcYPAesoubOYm5c) | [Nobuki](https://open.spotify.com/artist/4zp3gSPV6KHRpUpfyUs2fM), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/22f0UbnPLB6Gx32u8HN1Zf) | 2:50 | 2023-07-25 | 2023-07-27 |
 | [A Crystal Night](https://open.spotify.com/track/5wJzLT7nQd97G2FsyH48fC) | [Nobuki](https://open.spotify.com/artist/181YGGJQCMlBzrwWFLmjkx), [Ido Kyo](https://open.spotify.com/artist/4U5sNIBzXll1GVdWkhOTiD), [Hiroto](https://open.spotify.com/artist/6xy1QPBVTyRsPY06mWd0hL) | [A Crystal Night](https://open.spotify.com/album/6l7o56ILZiZ02sB9q2xKn5) | 2:50 | 2023-07-25 | 2023-08-02 |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-11 | 2023-06-02 |
-| [A Winter Song](https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv) | [yk \(Hello1103\)](https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk) | [A Winter Song](https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo) | 2:44 | 2025-01-09 |  |
+| [A Winter Song](https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv) | [yk \(Hello1103\)](https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk) | [A Winter Song](https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo) | 2:44 | 2025-01-09 | 2025-01-31 |
 | [A+B=C](https://open.spotify.com/track/6SpX6WLTYuw5VYWtXBZVgf) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [A+B=C](https://open.spotify.com/album/0l7AACwqmbndNL9ALRg05C) | 3:44 | 2023-09-21 | 2023-10-14 |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-14 | 2024-01-03 |
 | [Abashiri](https://open.spotify.com/track/3a9ueatZGLkUplRDom7dTg) | [野流](https://open.spotify.com/artist/6bTrJ4B7LxftnnxkDaK5gm) | [Estuary](https://open.spotify.com/album/6KKrF25xemhPZ7HUuMWL5V) | 5:46 | 2024-11-05 | 2024-11-13 |
@@ -85,6 +85,7 @@
 | [ANIME](https://open.spotify.com/track/0Et5LennQBo7aPBdmAyy4b) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ANIME](https://open.spotify.com/album/1tLcBZrC5gAmfz5cV2DhZy) | 2:42 | 2023-08-13 | 2023-11-17 |
 | [Anshin](https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Anshin](https://open.spotify.com/album/2YRdnx56DRkQl1qR8SdDI6) | 3:24 | 2023-10-31 | 2023-11-29 |
 | [Answer to Remember Theme](https://open.spotify.com/track/3HNKknpEKoZKneTmJILiW7) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9) | [Answer to Remember Theme](https://open.spotify.com/album/4BCq26nQrmmQZkC14GaDSP) | 2:10 | 2023-12-05 | 2024-01-28 |
+| [Anti Piracy Screen](https://open.spotify.com/track/73Mf5IAWPXiGRXy2bZKuY6) | [Cafune](https://open.spotify.com/artist/3DZYBDeLQQv0JIww7b3uRV), [Sasuke Haraguchi](https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3), [嚩ᴴᴬᴷᵁ](https://open.spotify.com/artist/7Mza9mcYZcEBJblRUgSzxM), [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4), [utumiyqcom](https://open.spotify.com/artist/0z2nVl8o9RsgqHxktTIlJ8), [NOVA](https://open.spotify.com/artist/1jYRmOVGbSdBXngTEORRe9) | [NOVA](https://open.spotify.com/album/0NJAsSYxzBK5LdYnRdVJo5) | 3:30 | 2025-01-28 |  |
 | [ANTS](https://open.spotify.com/track/0KWem3KlGq98EfpzR9qzPL) | [pile of hex](https://open.spotify.com/artist/6Fi3SNqlAYsmyLlMhQO9CX) | [LIQUESCENCE](https://open.spotify.com/album/30az4c7jsmWtd1pa56WL5O) | 2:57 | 2024-02-13 | 2024-02-21 |
 | [Anybody.\. feat\. 小袋成彬](https://open.spotify.com/track/1VffHuaOhDoLk9PX8yaauU) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 3:06 | 2024-07-26 | 2024-09-02 |
 | [Aoi](https://open.spotify.com/track/1RpgTXI93uSRRZnjWifFAs) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [Aoi](https://open.spotify.com/album/7eoKPSWhWLiotDVHCrv9L8) | 4:52 | 2025-01-07 | 2025-01-15 |

@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-561 songs - 1 day 15 hr 46 min
+563 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [再也想不起那時候的我](https://open.spotify.com/track/1GP8ec3DYdUhNZPYOWnREE) | [采子](https://open.spotify.com/artist/448XOK57P1RpvGyLuMUwep) | [再也想不起那時候的我](https://open.spotify.com/album/2yciBsEa4KGuY8Av8yEQTn) | 4:00 | 2023-04-17 | 2023-04-25 |
 | [再无瓜葛](https://open.spotify.com/track/3tBpWRpC6QdrVXZjBp4vxn) | [乔佳旭](https://open.spotify.com/artist/78YOKa8PG5fj7WR3LHwLnz) | [再无瓜葛](https://open.spotify.com/album/2SuMBa1NljWJh5Jw8OTC2O) | 4:02 | 2024-08-01 | 2024-08-09 |
 | [再見,少年 \(Farewell, My Lad\) \- 電影《再見,少年》同名主題曲](https://open.spotify.com/track/5KSOS6tZc3kl2BNdDdyRDR) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [再見,少年 \(Farewell, My Lad\)](https://open.spotify.com/album/17FoOLd2lSTX3XtSYFaG3p) | 4:35 | 2022-06-13 | 2022-07-29 |
-| [再見愛人](https://open.spotify.com/track/4iHfUerBawpJJfwe7xRGUv) | [胡彥斌](https://open.spotify.com/artist/25yi50g6axOEK0eqxSKSCD) | [再見愛人](https://open.spotify.com/album/3tLKOdWkLbHul8nM42s88J) | 4:22 | 2025-01-23 |  |
+| [再見愛人](https://open.spotify.com/track/4iHfUerBawpJJfwe7xRGUv) | [胡彥斌](https://open.spotify.com/artist/25yi50g6axOEK0eqxSKSCD) | [再見愛人](https://open.spotify.com/album/3tLKOdWkLbHul8nM42s88J) | 4:22 | 2025-01-23 | 2025-01-31 |
 | [再見錯的人](https://open.spotify.com/track/3qTzmHbS0UejxQkpvRt5x5) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [再見錯的人](https://open.spotify.com/album/6Xc7Hbxyks1IfI0HP0xqVb) | 4:24 | 2022-06-06 | 2022-06-14 |
 | [冬眠](https://open.spotify.com/track/0ygttXRPvD5u9ikS8LwJvl) | [司南](https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE) | [冬眠](https://open.spotify.com/album/0oS3ZVlS3ygBqI7zLDZa21) | 4:29 | 2023-05-08 | 2024-04-19 |
 | [冬眠](https://open.spotify.com/track/4m8Jm6TAeBsVWkP5CotIJP) | [司南](https://open.spotify.com/artist/0xftsXB7VnOwibMhupkamE) | [冬眠](https://open.spotify.com/album/3o2VzWhOGsgneeiwxCHAOE) | 4:29 | 2022-06-06 | 2022-07-26 |
@@ -271,7 +271,9 @@
 | [心之火 \(原創版\)](https://open.spotify.com/track/2TWvBeoEiBMw0STfZdrIF6) | [阿沁](https://open.spotify.com/artist/0HhDpqSgbrM6Nf6x596xYl) | [心之火 \(原創版\)](https://open.spotify.com/album/0jjL2N3spQfj5FSSLgDMfb) | 4:36 | 2024-06-20 | 2024-06-28 |
 | [心愿](https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [心愿](https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ) | 4:20 | 2022-11-07 | 2023-05-11 |
 | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/track/5vK9eZXr6rPzGMam2gM3Rb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/album/74q1Dvfb9naAGqNXwIhbTC) | 3:25 | 2023-05-01 | 2023-05-09 |
+| [忘了他](https://open.spotify.com/track/0ls4k8atwyeGfXlt55l695) | [叶斯淳](https://open.spotify.com/artist/6AII7OO4YGlwmITkksV996), [葉斯淳](https://open.spotify.com/artist/6dvG7fKwmGRBF7eJuuQz7I) | [忘了他](https://open.spotify.com/album/7tz6HEX73Oc02XOKUL6m4q) | 3:44 | 2025-01-30 |  |
 | [忠孝東路走九遍](https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [忠孝東路走九遍](https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw) | 4:52 | 2024-04-15 |  |
+| [念念](https://open.spotify.com/track/43KDviRyWeraTNrRkLIQ1e) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [念念](https://open.spotify.com/album/41TaF9lSOjxazsYBxxH74f) | 4:39 | 2025-01-30 |  |
 | [念念不忘 \- 电影《念念相忘》主题曲](https://open.spotify.com/track/0HJi9bUARUsxztKT7iHjzo) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [念念不忘 \(电影《念念相忘》主题曲\)](https://open.spotify.com/album/1TSwpFghoNHeSOjfAagTEV) | 4:06 | 2023-03-06 | 2023-08-22 |
 | [怪咖](https://open.spotify.com/track/1v8RxIy8mbxGqBaWG2bMrW) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [怪咖](https://open.spotify.com/album/0wt7vfE7K0C6rymlxXHCvt) | 4:10 | 2023-10-08 | 2024-04-19 |
 | [恰似你的溫柔](https://open.spotify.com/track/1DyhxI0WNR6vlOkkR2qSnD) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [恰似你的溫柔](https://open.spotify.com/album/3vrYZg4mjuu9FbK5SnAFXY) | 5:17 | 2024-03-11 | 2024-04-19 |
@@ -565,7 +567,7 @@
 | [願你快樂與我有關](https://open.spotify.com/track/5A8tNprmuwjPEVSkgCdoWz) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [願你快樂與我有關](https://open.spotify.com/album/3xCLdIClUjgRSH2Brke9OP) | 3:47 | 2022-06-13 | 2022-07-29 |
 | [颜料](https://open.spotify.com/track/4yVble3Nm0b29LcHoKIH2i) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [颜料](https://open.spotify.com/album/4en63hNEmbPrywXXMY1blo) | 3:41 | 2022-06-13 | 2022-07-20 |
 | [飲未乾的酒](https://open.spotify.com/track/0b5jXsR4EQFayeFNao5VpE) | [草爺](https://open.spotify.com/artist/2saJkMLnybRcxBoOQy6hUG) | [飲未乾的酒](https://open.spotify.com/album/4FEm5yCTcnQeIVopmYbUFF) | 4:07 | 2023-09-11 | 2023-09-19 |
-| [養分](https://open.spotify.com/track/1NMwyTTQyUUtGI34rmUYMU) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [養分](https://open.spotify.com/album/1nuXqhHeHODDeiuDeswRlY) | 4:10 | 2025-01-23 |  |
+| [養分](https://open.spotify.com/track/1NMwyTTQyUUtGI34rmUYMU) | [Mike 曾比特](https://open.spotify.com/artist/33oY0RTyXAMYBM6QSImuo7) | [養分](https://open.spotify.com/album/1nuXqhHeHODDeiuDeswRlY) | 4:10 | 2025-01-23 | 2025-01-31 |
 | [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 | 2022-06-06 | 2023-05-28 |
 | [黑暗的盡頭](https://open.spotify.com/track/0n6Cn6pByPTwBkMTw7KQkX) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [黑暗的盡頭](https://open.spotify.com/album/4ZRMDljMgqg3ZtpL4KtfVP) | 4:50 | 2022-07-25 | 2024-04-19 |
 | [黑暗的盡頭](https://open.spotify.com/track/28CLaWua9bFuh66F1whfW5) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [黑暗的盡頭](https://open.spotify.com/album/2hIAj2xj4LDiUzButN29Ce) | 4:50 | 2022-06-06 | 2022-07-29 |

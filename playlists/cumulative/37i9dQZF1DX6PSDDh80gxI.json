@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "GINEVRA in cover della playlist con il meglio dell\u2019indie italiano \ud83c\udff9 ",
+  "description": "Gazzelle in cover della playlist con il meglio dell\u2019indie italiano \ud83d\udc1c",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 224455,
       "name": "30 anni",
       "url": "https://open.spotify.com/track/2KEEm8VPtiBiBJd7AYDl83"
@@ -2425,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "Panino d'idiota (feat. Casadilego)",
+        "url": "https://open.spotify.com/album/4Njayjpp1zthtWEimoWDnX"
+      },
+      "artists": [
+        {
+          "name": "GattoToro",
+          "url": "https://open.spotify.com/artist/2dm7GeEdTeZkUX2Rsf3gbg"
+        },
+        {
+          "name": "Casadilego",
+          "url": "https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143564,
+      "name": "Panino d'idiota (feat. Casadilego)",
+      "url": "https://open.spotify.com/track/6bQEube1IbtDeIZ9EXmWgt"
+    },
+    {
+      "album": {
         "name": "passanti",
         "url": "https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU"
       },
@@ -2606,6 +2628,28 @@
       "duration_ms": 261092,
       "name": "piangerepiangerepiangere",
       "url": "https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0"
+    },
+    {
+      "album": {
+        "name": "Piangono Anche Gli Uomini",
+        "url": "https://open.spotify.com/album/2Hp6AtPf7V2jFTTUGnIlkr"
+      },
+      "artists": [
+        {
+          "name": "MOX",
+          "url": "https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It"
+        },
+        {
+          "name": "Alberto Bianco",
+          "url": "https://open.spotify.com/artist/4OvEjbTT6H3zArVIrsEoII"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172699,
+      "name": "Piangono anche gli uomini (feat. Alberto Bianco)",
+      "url": "https://open.spotify.com/track/7C1QXDHC4GYCC2AS2Lr52B"
     },
     {
       "album": {
@@ -3526,7 +3570,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 362248,
       "name": "Un momento migliore",
       "url": "https://open.spotify.com/track/1drertInnr9h9odhSHkDsS"

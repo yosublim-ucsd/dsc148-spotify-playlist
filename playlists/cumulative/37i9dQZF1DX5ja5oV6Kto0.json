@@ -3203,6 +3203,32 @@
     },
     {
       "album": {
+        "name": "cold summer",
+        "url": "https://open.spotify.com/album/7Er9e8rro9hDHNS7b6JbkD"
+      },
+      "artists": [
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        },
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Sinachi",
+          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185803,
+      "name": "cold summer",
+      "url": "https://open.spotify.com/track/4aNPbKp9uHYVHDHXQ4AUBY"
+    },
+    {
+      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo"
       },
@@ -10647,6 +10673,24 @@
     },
     {
       "album": {
+        "name": "original",
+        "url": "https://open.spotify.com/album/0nlBISQDS8BpUMnclrGOhh"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172102,
+      "name": "original",
+      "url": "https://open.spotify.com/track/02KawWp49Z6cCWbJxN5pqC"
+    },
+    {
+      "album": {
         "name": "Orin Tokotaya Vol. 27",
         "url": "https://open.spotify.com/album/32tdh42oBPD3yS6Dakf1r9"
       },
@@ -11274,7 +11318,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 138870,
       "name": "Pretty Girl Bop",
       "url": "https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA"
@@ -13688,7 +13732,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 161311,
       "name": "Stush",
       "url": "https://open.spotify.com/track/4yKqmCY6k6HxyDXdMurC28"
@@ -14538,7 +14582,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 113280,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/2NUKs3hLGwWFufkaAfKlSQ"
@@ -15575,6 +15619,28 @@
     },
     {
       "album": {
+        "name": "Wassup!",
+        "url": "https://open.spotify.com/album/6pKion8as4IjwIEE3xXOGn"
+      },
+      "artists": [
+        {
+          "name": "Sinachi",
+          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
+        },
+        {
+          "name": "Oshunda",
+          "url": "https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119762,
+      "name": "Wassup!",
+      "url": "https://open.spotify.com/track/0B6YlVI0TBMsh3iSfikWLo"
+    },
+    {
+      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -15776,6 +15842,28 @@
       "duration_ms": 92571,
       "name": "WET",
       "url": "https://open.spotify.com/track/6ZDnXyrBj9AxMNQ4yK7HUS"
+    },
+    {
+      "album": {
+        "name": "club paradise.",
+        "url": "https://open.spotify.com/album/6eW7U02YS98JkjXwD2GC1i"
+      },
+      "artists": [
+        {
+          "name": "Marcy WTF",
+          "url": "https://open.spotify.com/artist/49byOH90VSeoKQ8SF22TzI"
+        },
+        {
+          "name": "JO3ZY",
+          "url": "https://open.spotify.com/artist/5pdOkU7g3RF9dE7NrEYmxW"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144040,
+      "name": "wetin dey",
+      "url": "https://open.spotify.com/track/68X4G4VCiSffbizHAQVSIk"
     },
     {
       "album": {

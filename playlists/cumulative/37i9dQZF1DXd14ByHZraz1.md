@@ -2,9 +2,9 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Sevek
+> Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Vintage Culture
 
-224 songs - 11 hr 40 min
+225 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Body On My Mind](https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [CONTROVERSIA by Alok Vol\. 002](https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk) | 2:49 | 2022-10-28 | 2022-11-13 |
 | [Body On My Mind](https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Body On My Mind](https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf) | 2:49 | 2022-07-08 | 2023-03-18 |
 | [Booty Pop](https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [White Sheep](https://open.spotify.com/artist/2jFNsdG1zHOQaQzcBK0B50) | [Booty Pop](https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu) | 2:53 | 2023-11-10 | 2024-09-06 |
+| [Brava](https://open.spotify.com/track/7zL9EbGsI8KKLUxUWT0ump) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Vintage Culture & Friends, Vol\. 6 \(Pt\. II\)](https://open.spotify.com/album/4oApPLzaCn1XO7689oABYP) | 5:27 | 2025-01-31 |  |
 | [Breathe](https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U) | [Breathe](https://open.spotify.com/album/12svB8ZOlbG8t3wXr8l84b) | 2:36 | 2024-02-23 | 2024-12-20 |
 | [Bring Me To Life](https://open.spotify.com/track/7y10NhdvokswimTGeYyZ98) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [David Hodges](https://open.spotify.com/artist/7fRabwYwLBgvOudI9GY2Op) | [Bring Me To Life](https://open.spotify.com/album/2yiCoX8tk9OiarK38AmVvT) | 2:21 | 2021-12-24 | 2023-04-01 |
 | [Bron Bron](https://open.spotify.com/track/2BcdzkJwckG25nk6PAYlqu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Bron Bron](https://open.spotify.com/album/0RarRuW8t6Q3oRPZYFapDt) | 2:37 | 2023-06-30 | 2024-06-22 |
@@ -158,7 +159,7 @@
 | [O Superman](https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [O Superman](https://open.spotify.com/album/0jMCx6S66Rwbi0n3yvzdRw) | 4:19 | 2024-10-18 |  |
 | [Oi Oi Oi](https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [MC Hollywood](https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG) | [Oi Oi Oi](https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg) | 2:17 | 2023-03-03 | 2024-04-13 |
 | [On & On](https://open.spotify.com/track/4JWzHP8Loi9M6ZSOoIkkOA) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [On & On](https://open.spotify.com/album/60WrzKoiRdmG6TVv7I6243) | 2:09 | 2024-04-05 |  |
-| [On The Way \- Remix](https://open.spotify.com/track/3fv3URjyVRoPcl6reiq5hk) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [On The Way \(Remix\)](https://open.spotify.com/album/3tEUKiQwklKZ3WwVFfIT4g) | 3:08 | 2024-12-20 |  |
+| [On The Way \- Remix](https://open.spotify.com/track/3fv3URjyVRoPcl6reiq5hk) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [On The Way \(Remix\)](https://open.spotify.com/album/3tEUKiQwklKZ3WwVFfIT4g) | 3:08 | 2024-12-20 | 2025-01-31 |
 | [Paper Boats](https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9) | [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [Riascode](https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM) | [Paper Boats](https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u) | 4:15 | 2024-09-06 |  |
 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 | 2023-09-15 | 2024-08-23 |
 | [Pega Pega](https://open.spotify.com/track/3c65eVJXgjdGXjsfLjqy6D) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY) | [Pega Pega](https://open.spotify.com/album/61GhWu3UEDaYkXbIcLWNJW) | 2:38 | 2023-03-31 | 2023-07-22 |

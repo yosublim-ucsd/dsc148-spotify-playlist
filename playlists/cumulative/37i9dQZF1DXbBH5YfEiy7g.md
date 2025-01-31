@@ -4,11 +4,12 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H?si=eGvztXnCSdmdpTWK9eyALg">Nontokozo Mkhize</a>
 
-99 songs - 10 hr 20 min
+101 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Akakho Praise \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/11IKsmZ7P7NIaOtm0a5qz3) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Heavenly Psalms \- Level 2 \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/1zBVSPT6EAT7t8Wi10uM1a) | 5:54 | 2024-11-15 |  |
+| [Akekho Ofana Nawe](https://open.spotify.com/track/3NmAVMUD3d07TqpJCHtpGX) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Akekho Ofana Nawe](https://open.spotify.com/album/6nBlwOc42Zm5FH78YoSwWz) | 8:46 | 2025-01-31 |  |
 | [Akhonamandla](https://open.spotify.com/track/3WWcor629CeucJRhcEv0eT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Akhonamandla](https://open.spotify.com/album/2fwuj75mQD6TX173EXylPt) | 3:03 | 2024-11-29 |  |
 | [Amen / Moya ongcwele](https://open.spotify.com/track/2MFOFPmxaHNhIuYiVKYX5H) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Amen / Moya ongcwele](https://open.spotify.com/album/1ghmZE9jAHU4b2Srof3eOU) | 5:48 | 2024-10-25 |  |
 | [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-10-04 |  |
@@ -94,6 +95,7 @@
 | [Uyalalela \(Live\)](https://open.spotify.com/track/0EXa43pAwb2RrqVoGLcRnm) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Uyalalela \(Live\)](https://open.spotify.com/album/7hP10amvzadvsSXDc19vdG) | 10:30 | 2024-11-15 |  |
 | [Uyalalelwa \- Live](https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 21: Heal Our Land \(Live\)](https://open.spotify.com/album/2FWAwOo6n6E0eQvoYcj5Yq) | 6:10 | 2024-10-04 |  |
 | [Uyama Nomuntu](https://open.spotify.com/track/4rabhvTZ9eyQP2iY52wusH) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Lindiwe](https://open.spotify.com/album/7iUCCiZJQEiqKw4k6e0ved) | 4:03 | 2025-01-24 |  |
+| [Uyena \- Live](https://open.spotify.com/track/2f6K1uDICmz5TrZ7wAHdUm) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Inkanyezi \(Live\)](https://open.spotify.com/album/4VfnwUHBzz14cl6R1K9iWY) | 5:47 | 2025-01-31 |  |
 | [Uyinqaba Yethu](https://open.spotify.com/track/5QWMo0RPTNFmTMAcmiXHQ3) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Uyinqaba Yethu](https://open.spotify.com/album/3Bf7ii7OweAhwrUfCWPbiY) | 6:14 | 2024-11-15 |  |
 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 | 2024-10-04 |  |
 | [Wafika](https://open.spotify.com/track/4d2ImkfJWALwIAi373Dt7N) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Wafika](https://open.spotify.com/album/0rPX5bZ9moPrhGT9Rwuomo) | 8:33 | 2024-10-04 |  |

@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-212 songs - 9 hr 25 min
+213 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(We're Gonna\) Rock Around The Clock](https://open.spotify.com/track/4MnHCHPnGoEZ383MK4uG5s) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Cruising Klassiker](https://open.spotify.com/album/53WS8rHtBrU1UI24xK9Uzp) | 2:11 | 2022-05-06 | 2022-07-29 |
 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 | 2022-05-06 |  |
 | [A\-V8 Boogie](https://open.spotify.com/track/40Cm3xxLnHUK8y2TVF4Jyp) | [Jack Baymoore & The Bandits](https://open.spotify.com/artist/0UR8v6ibhNS162hr1f7VVQ) | [Let's Drag](https://open.spotify.com/album/34SpKbAmjmBJzDejIcto0Q) | 2:24 | 2022-05-06 | 2022-07-29 |
+| [American Dream](https://open.spotify.com/track/5Hdw9VRMMXO6ZtUrQCt0BX) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [American Dream](https://open.spotify.com/album/4Nb3y9rqVzYXPZ6ufvUFT6) | 2:45 | 2025-01-30 |  |
 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 | 2022-05-06 | 2024-10-09 |
 | [Another Sunday Morning](https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 2:40 | 2022-05-06 |  |
 | [At The Hop](https://open.spotify.com/track/6vkuJbGjyjnSQReeaCh8wT) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [Rock 'n' Roll](https://open.spotify.com/album/1xf6bK6YKmBPP6F4tn0UYm) | 2:29 | 2022-05-06 | 2022-07-29 |
@@ -56,7 +57,7 @@
 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 | 2022-05-06 | 2025-01-17 |
 | [Depression](https://open.spotify.com/track/28vMuX0gRJMeIhGaW0cQPn) | [The Hillbilly Moon Explosion](https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR) | [With Monsters and Gods](https://open.spotify.com/album/5ejGluFtTbkWyVTRY7LU5z) | 2:08 | 2024-07-05 |  |
 | [Devil On My Shoulder](https://open.spotify.com/track/3UZo90wgkXdNPtSVIMYfdu) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [Kim Lenz And Her Jaguars](https://open.spotify.com/album/1S8GKcUi2QMBDN6AtSZLOL) | 2:37 | 2022-08-12 | 2022-10-15 |
-| [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 | 2022-07-05 |  |
+| [Do Me No Wrong](https://open.spotify.com/track/0fA5ZwzfOlH8RT3jjDwE8S) | [Pat Cupp](https://open.spotify.com/artist/5h9EJT0zbqyiqn81r1dZfZ) | [Rockabilly Greats](https://open.spotify.com/album/67IQZbSkHcrICs2CsSPOdU) | 2:24 | 2022-07-05 | 2025-01-31 |
 | [Don't Come Knocking on My Door](https://open.spotify.com/track/3yZL03V9NrrM6PnjK9WEqu) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Small Town Pimps](https://open.spotify.com/artist/5Pta9k4k1L77SPVrUxAVvS) | [Don't Come Knocking on My Door](https://open.spotify.com/album/1nPMU7cEdcWQfCXNg37M2h) | 3:17 | 2022-05-06 | 2024-07-06 |
 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 | 2022-05-06 |  |
 | [Drugstore Rock and Roll](https://open.spotify.com/track/3QfhbXUTf5hlFAEbn0jbeP) | [Janice Martin](https://open.spotify.com/artist/3lpPdyhhcoTI1ESMa2I6tF) | [The 50 Best Rockabilly Songs Ever](https://open.spotify.com/album/0Nb8B0PNy4XnoZAPw2cSOU) | 2:07 | 2022-05-06 | 2022-07-26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalash x Damso",
+  "description": "Les hits dancehall du moment. Photo : Le J\u00e8m'ss",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -1444,6 +1444,24 @@
       "duration_ms": 176461,
       "name": "Boo Him",
       "url": "https://open.spotify.com/track/0TO6fqkRcblTG2gI2Hk74T"
+    },
+    {
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/6cQ3MIZw8DCiW3qTIwmKPA"
+      },
+      "artists": [
+        {
+          "name": "Doctor Ly",
+          "url": "https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84848,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/7fz6UjCGK4n3gdc8NpC225"
     },
     {
       "album": {
@@ -6677,6 +6695,24 @@
     },
     {
       "album": {
+        "name": "No Two Face",
+        "url": "https://open.spotify.com/album/5I8VQnr8JyzbPLcW0MA7Zo"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "No Two Face",
+      "url": "https://open.spotify.com/track/5ePcHVY2YXvBiojZzWAomh"
+    },
+    {
+      "album": {
         "name": "No Wata",
         "url": "https://open.spotify.com/album/4heyzzh3kAK7wrgGXdh4BK"
       },
@@ -6740,7 +6776,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 99797,
       "name": "NoNoNo",
       "url": "https://open.spotify.com/track/17owRt4iXNGOwqGTdoZXLN"
@@ -7737,6 +7773,28 @@
     },
     {
       "album": {
+        "name": "Puni Police",
+        "url": "https://open.spotify.com/album/4YHREA1du2lfRzGtmtrW09"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Di Genius",
+          "url": "https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164764,
+      "name": "Puni Police",
+      "url": "https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy"
+    },
+    {
+      "album": {
         "name": "PVDV",
         "url": "https://open.spotify.com/album/0Obzppmpm8XdZ2Um3lG90m"
       },
@@ -8592,7 +8650,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 174545,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/7fRkug5XauvNUSdD8IGTxm"
@@ -10446,7 +10504,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 120510,
       "name": "Whole A Dem",
       "url": "https://open.spotify.com/track/0DMjeJ6CRJUSOWcMwgtdAZ"

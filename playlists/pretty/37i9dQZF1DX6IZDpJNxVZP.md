@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,187 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,183 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,16 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 43 | [Up on the Housetop](https://open.spotify.com/track/3psbuTV2kE7qTFdTDQU39w) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price Holiday Favorites](https://open.spotify.com/album/1Zb1osR7tSDPUcbh28NqaR) | 1:23 |
 | 44 | [Winter Games \- From "The Christmas Letter Express"](https://open.spotify.com/track/7Bu5JHABnpjCLL9YObYQRt) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Winter Games \(From "The Christmas Letter Express"\)](https://open.spotify.com/album/34R6Ssp0DxDjgsq6JO1DKT) | 1:42 |
 | 45 | [Joy to the World](https://open.spotify.com/track/3cFuSTypYJO8LF2TYz8Ass) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Joy to the World](https://open.spotify.com/album/6e5Hmvy9OWlcAq8ucP7iS9) | 2:07 |
-| 46 | [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [Fixiki](https://open.spotify.com/artist/3YDDfBycguqyJnWZdvOaWj) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 |
-| 47 | [For Goodness' Sake](https://open.spotify.com/track/1ffWyeC32jceZHUIuTb209) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [For Goodness' Sake](https://open.spotify.com/album/2xEeJ62d2QOHtQzkcKi2Wx) | 2:17 |
+| 46 | [For Goodness' Sake](https://open.spotify.com/track/1ffWyeC32jceZHUIuTb209) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [For Goodness' Sake](https://open.spotify.com/album/2xEeJ62d2QOHtQzkcKi2Wx) | 2:17 |
+| 47 | [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [Fixiki](https://open.spotify.com/artist/3YDDfBycguqyJnWZdvOaWj) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 |
 | 48 | [Christmas Time](https://open.spotify.com/track/7zaBeDLJCht8KSvkvGIRje) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Pj Panda Christmas Party 2](https://open.spotify.com/album/4xIEYSi2W8tIE3O8km7GJ3) | 2:01 |
 | 49 | [Wintertime is better with friends](https://open.spotify.com/track/4ypLX5jEzTcsCdiyXoiqP7) | [Mini Smiley](https://open.spotify.com/artist/60IT25papFnCsrfkel54e8) | [Christmas Songs](https://open.spotify.com/album/5XBcomV7h7rzOiQULV6o0m) | 2:36 |
 | 50 | [Snow Day](https://open.spotify.com/track/5F1dZqV8LSxhcqAUJ75jSG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Christmas with Pancake Manor](https://open.spotify.com/album/1PTKfDXc50iVuv217W9DAF) | 3:00 |
 | 51 | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/track/1quDa34OPuY1chb0vAKmtO) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/album/2RsXIpTTgPkd0F7YDUi7uH) | 2:16 |
 | 52 | [I Saw Three Ships](https://open.spotify.com/track/5XRkCGAzvGsG1ygRm1JPd1) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [On Christmas Day! \(20 Holiday Family Favorites\)](https://open.spotify.com/album/6yPYut6ZVZqhJICvp84Ucc) | 1:56 |
 | 53 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7Ctxl1dKrbv8GAuFxzJ8pR) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Merry Christmas! Vol\. 2](https://open.spotify.com/album/4dXjs365PDPBoQmxyPreef) | 2:14 |
-| 54 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5XssuqGt2h4vJeaYvgAd64) | [The Nursery Rhymes](https://open.spotify.com/artist/62WeEJTAzSXNxt3nXhQMj9) | [Christmas Lullabies for Babies \- Ukulele Songs](https://open.spotify.com/album/3moWHsmRQcLONCfFxCPumu) | 1:09 |
-| 55 | [Joy to the World](https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Fall and Winter Holiday Songs for Kids](https://open.spotify.com/album/0pUwuW2CPzA7AmMcFwGOPU) | 2:32 |
+| 54 | [Joy to the World](https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Fall and Winter Holiday Songs for Kids](https://open.spotify.com/album/0pUwuW2CPzA7AmMcFwGOPU) | 2:32 |
+| 55 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5XssuqGt2h4vJeaYvgAd64) | [The Nursery Rhymes](https://open.spotify.com/artist/62WeEJTAzSXNxt3nXhQMj9) | [Christmas Lullabies for Babies \- Ukulele Songs](https://open.spotify.com/album/3moWHsmRQcLONCfFxCPumu) | 1:09 |
 | 56 | [Santa Shark](https://open.spotify.com/track/3XMykL6vRYieUA0u3a2kkN) | [Desmond Dennis](https://open.spotify.com/artist/1W14E5ExskpUoE8H9n8fPn) | [Cool Christmas Jams](https://open.spotify.com/album/7gjsSVAOCPS8QQn4CiedmL) | 2:06 |
 | 57 | [Wish Upon a Christmas](https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Wish Upon a Christmas](https://open.spotify.com/album/5yhVdVdyZKjPE59rxqCyVx) | 2:01 |
 | 58 | [Christmas with you](https://open.spotify.com/track/6jjAQS6XXVmVDUqpyOgs4v) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Jools TV Christmas](https://open.spotify.com/album/355T45LxWwMhANrNznc4ZB) | 3:01 |

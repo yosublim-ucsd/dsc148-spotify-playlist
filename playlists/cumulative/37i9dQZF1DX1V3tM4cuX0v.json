@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u041d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0456 \u043f\u0456\u0441\u043d\u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430:  SadSvit",
+  "description": "\u041d\u0430\u0439\u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0456\u0448\u0456 \u043f\u0456\u0441\u043d\u0456 \u0441\u044c\u043e\u0433\u043e\u0434\u0435\u043d\u043d\u044f. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Ziferblat",
   "name": "Hot Hits \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
   "tracks": [
     {
@@ -687,6 +687,28 @@
     },
     {
       "album": {
+        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
+        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
+      },
+      "artists": [
+        {
+          "name": "Sasha Norova",
+          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132626,
+      "name": "\u0410\u0443 \u0430\u0443",
+      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
+    },
+    {
+      "album": {
         "name": "\u0411\u0430\u0440 \u0437\u0430 \u0431\u0430\u0440\u043e\u043c",
         "url": "https://open.spotify.com/album/1Q6PmLZZ13aQQ4jWr9sELF"
       },
@@ -1096,7 +1118,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 148536,
       "name": "\u041d\u0435 \u0432\u0442\u0440\u0430\u0442\u0438\u043c\u043e \u0437\u0432'\u044f\u0437\u043e\u043a",
       "url": "https://open.spotify.com/track/4QbAOvKJMIx22HvGqkFBmM"
@@ -1254,7 +1276,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 166500,
       "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
@@ -1302,6 +1324,24 @@
       "duration_ms": 178758,
       "name": "\u041f\u041e\u0414\u041e\u041b\u042f\u041d\u041e\u0427\u041a\u0410 (GET UP)",
       "url": "https://open.spotify.com/track/0OO0cxW5gSaL1EggeW1Bj0"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043e\u043a\u043b\u0438\u0447 \u043c\u0435\u043d\u0435 \u043d\u0430 \u0442\u0430\u043d\u0446\u0456",
+        "url": "https://open.spotify.com/album/15tNBE7EsXqJZCSIMd01kJ"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u0430\u043d \u041f\u0430\u0440\u0430\u0441\u043e\u043b\u044f",
+          "url": "https://open.spotify.com/artist/5bWCxW18dUL0ll835T2sQq"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187394,
+      "name": "\u041f\u043e\u043a\u043b\u0438\u0447 \u043c\u0435\u043d\u0435 \u043d\u0430 \u0442\u0430\u043d\u0446\u0456",
+      "url": "https://open.spotify.com/track/0Obbm6u7fCtroYVl2BAGB5"
     },
     {
       "album": {

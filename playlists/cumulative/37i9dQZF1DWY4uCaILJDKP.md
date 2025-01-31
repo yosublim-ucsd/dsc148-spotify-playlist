@@ -4,7 +4,7 @@
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-159 songs - 10 hr 47 min
+160 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Monster Disco](https://open.spotify.com/track/4WRAOt2Z3hXq7M8YerWXWq) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Monster Disco](https://open.spotify.com/album/0gOMkoBaclSCoOH091zrXW) | 3:15 | 2022-07-12 | 2023-02-04 |
 | [Monster Disco](https://open.spotify.com/track/1zcLKA7aKfjeGq6dQZk9Wi) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj), [Hyadain](https://open.spotify.com/artist/3P8XlKjP5uFoGdo6elPTxn) | [INNOCENT](https://open.spotify.com/album/39JkWHpnRuDFRAW11829PZ) | 3:15 | 2022-08-04 | 2024-04-19 |
 | [NICE！RICE！SMILE！](https://open.spotify.com/track/5PHuST5U2NTTxmGTrcTiEh) | [本気でお米作り隊](https://open.spotify.com/artist/42SmQU0oIVJhUpJM2fBdzy) | [NICE！RICE！SMILE！](https://open.spotify.com/album/4t2cwRgMIbyAVv5omOwAJx) | 3:25 | 2023-10-31 | 2024-04-19 |
+| [Noise, Violence, Music, Pleasure](https://open.spotify.com/track/6K4tSwuQD6rrbgDcLT4Tyj) | [Mofu Mofu Music Caravan](https://open.spotify.com/artist/14G4IFq9Qlyyw2kjRyRXr0) | [Noise, Violence, Music, Pleasure](https://open.spotify.com/album/3MTnfYEDTpXczfP95qqEjf) | 2:58 | 2025-01-30 |  |
 | [nomeya utaeya odoreya sawage](https://open.spotify.com/track/7jYRvRQUzZoGarMEOMmgBS) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [nomeya utaeya odoreya sawage](https://open.spotify.com/album/1J09R81digZMVfo977AIVh) | 3:48 | 2024-01-23 | 2024-04-19 |
 | [OKITATTAー](https://open.spotify.com/track/3PLUM7RPDgEZ0E8e8M4XQN) | [おきたらんどキッズ](https://open.spotify.com/artist/2Xt5lDM9fryAwMlI2ps1QO), [畑中香音ちゃん](https://open.spotify.com/artist/1kskfEZRyBTOXxptAu9EYw), [中田麻菜ちゃん](https://open.spotify.com/artist/4IQPj8sjJMndVdNKlNd7hm), [高木京之介くん](https://open.spotify.com/artist/128Hd6hjRTirJHRzw4DU9m) | [ABCTV OHAYOUASAHIDESU OKITARAND OKITATTA](https://open.spotify.com/album/2M5uSQandeQMIhCgpkjkHN) | 1:48 | 2022-07-12 | 2024-04-19 |
 | [Oshikura Manju](https://open.spotify.com/track/4SnWLOSgeNDy6ezQ5E8Msi) | [太陽と踊れ](https://open.spotify.com/artist/1hY81WpVnXQG3qDdGNA3Ya) | [Oshikura Manju](https://open.spotify.com/album/7qcG7I5047rIYsaYW7b9Zw) | 3:53 | 2023-12-05 | 2024-04-19 |

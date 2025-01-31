@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "5656",
+        "url": "https://open.spotify.com/album/5pcRjUDq57OcWVKf52OGyI"
+      },
+      "artists": [
+        {
+          "name": "Knut\u20ac",
+          "url": "https://open.spotify.com/artist/7n3qgKSD6IGnbzODQWnGTa"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "5656",
+      "url": "https://open.spotify.com/track/15I1otvOIaCUPpE40sik1B"
+    },
+    {
+      "album": {
         "name": "EYEYE",
         "url": "https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4"
       },
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 220493,
       "name": "Dj\u00e4vulen p\u00e5 axeln",
       "url": "https://open.spotify.com/track/2nWG6W5lqaMGVEjRXsvJJl"
@@ -16984,7 +17002,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 161600,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
@@ -27048,6 +27066,24 @@
       "duration_ms": 166773,
       "name": "S\u00e4g N\u00e5t",
       "url": "https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT"
+    },
+    {
+      "album": {
+        "name": "JUST NU \u00c4R TILLR\u00c4CKLIGT BRA",
+        "url": "https://open.spotify.com/album/4zvfI9h2spqAIIxWBSZcSZ"
+      },
+      "artists": [
+        {
+          "name": "LKN",
+          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183992,
+      "name": "S\u00c4G ORDET OCH JAG \u00c4R DIN",
+      "url": "https://open.spotify.com/track/5przQRDUQGcp5RKCrwUNeh"
     },
     {
       "album": {

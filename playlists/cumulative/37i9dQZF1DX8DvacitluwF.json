@@ -5707,6 +5707,24 @@
     },
     {
       "album": {
+        "name": "Pumua",
+        "url": "https://open.spotify.com/album/5RZLdQdcNmJMm9D0jgeJCk"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2025-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159143,
+      "name": "Pumua",
+      "url": "https://open.spotify.com/track/2Py1BuxAHgOH0bA9w0imQE"
+    },
+    {
+      "album": {
         "name": "Therapy Is Cancelled",
         "url": "https://open.spotify.com/album/4nUOULl5gl3Dr0velwTNFs"
       },

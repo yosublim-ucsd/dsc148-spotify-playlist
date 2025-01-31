@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Papa, Nerissima e Fritu in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Jake La Furia in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -3216,6 +3216,28 @@
       "duration_ms": 157168,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/6nwsTLwf3gxDJcWgjilg4o"
+    },
+    {
+      "album": {
+        "name": "CAZZI MIEI",
+        "url": "https://open.spotify.com/album/3LoUP5Q49gWKCfiPTLxy1h"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135319,
+      "name": "CAZZI MIEI",
+      "url": "https://open.spotify.com/track/6uFaYYmb5ngSlqLNxsBMzs"
     },
     {
       "album": {
@@ -6438,7 +6460,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 177545,
       "name": "HEETS (feat. Geolier)",
       "url": "https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo"
@@ -9337,6 +9359,36 @@
     },
     {
       "album": {
+        "name": "FAME",
+        "url": "https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172592,
+      "name": "Money on my mind (feat. Rose Villain & Artie 5ive)",
+      "url": "https://open.spotify.com/track/2QW5EuNN9bnowa0e0JKsVM"
+    },
+    {
+      "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
       },
@@ -10594,7 +10646,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 168240,
       "name": "Oh Mamma Mia (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"
@@ -11510,6 +11562,44 @@
       "duration_ms": 159200,
       "name": "PEZZI DA 100 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k"
+    },
+    {
+      "album": {
+        "name": "WE THE SQUAD Vol.2",
+        "url": "https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "PEZZI DA NOVANTA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza)",
+      "url": "https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu"
     },
     {
       "album": {
@@ -13778,7 +13868,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 124675,
       "name": "SPENDERE (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE"
@@ -15157,6 +15247,32 @@
     },
     {
       "album": {
+        "name": "FAME",
+        "url": "https://open.spotify.com/album/1cE5vEGVNAYXOJkrrwqu3P"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142582,
+      "name": "Viagra (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/7C3oERNJREblyc7pFGfIL7"
+    },
+    {
+      "album": {
         "name": "Tropico Del Capricorno",
         "url": "https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1"
       },
@@ -15418,7 +15534,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-31",
       "duration_ms": 185333,
       "name": "WAG1 (feat. Tedua & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3b98Oa2M44ySipMkHuWgiO"

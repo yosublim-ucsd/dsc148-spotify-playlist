@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Haneen Hussain
 
-697 songs - 1 day 16 hr 10 min
+698 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Baghanny](https://open.spotify.com/track/6268FVFOesGcamWngDzyqv) | [Maryam Saleh](https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA), [Hello Psychaleppo](https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O) | [Baghanny](https://open.spotify.com/album/497WnlgFjsU8gMmpeUbL5o) | 4:16 | 2023-05-25 | 2023-08-02 |
 | [Bahki Annak](https://open.spotify.com/track/7MqKFhAg2hHT4ek4bqonoJ) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Bahki Annak](https://open.spotify.com/album/0rE6jaJiZYOKePt6H6f2VX) | 3:33 | 2024-02-01 | 2025-01-25 |
 | [Baktom](https://open.spotify.com/track/00RZAphqszZAEbYc4iZIvv) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [Baktom](https://open.spotify.com/album/3ewFQuhWCrQteYGg41IHez) | 3:10 | 2023-10-12 | 2023-12-09 |
-| [Bala ma nehess](https://open.spotify.com/track/7gMTanziirD9trMsg6ya1x) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Bala ma nehess](https://open.spotify.com/album/47NHl1um8LKz4Aczk6kkhf) | 2:04 | 2024-02-01 |  |
+| [Bala ma nehess](https://open.spotify.com/track/7gMTanziirD9trMsg6ya1x) | [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Bala ma nehess](https://open.spotify.com/album/47NHl1um8LKz4Aczk6kkhf) | 2:04 | 2024-02-01 | 2025-01-31 |
 | [Bala Ma Nhess](https://open.spotify.com/track/0CSVpG8z1Env2B7P3nVHSc) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bala Ma Nhess](https://open.spotify.com/album/6cGIrKJCPg2YKoeZ6mYtKz) | 3:06 | 2022-03-01 | 2022-11-16 |
 | [Bali](https://open.spotify.com/track/0PcQZJInzPDH5CWKgylIyx) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Bali](https://open.spotify.com/album/42WSAmBf4CLuHHeaTFUZuD) | 3:32 | 2024-06-13 |  |
 | [Baseeb El Donia](https://open.spotify.com/track/441kvK0iZMdhGy2peaAaqC) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Baseeb El Donia](https://open.spotify.com/album/3HDTqcv00LpIwQEys88c0Z) | 3:21 | 2022-06-02 | 2023-03-18 |
@@ -341,6 +341,7 @@
 | [Ma Atanazil](https://open.spotify.com/track/6hRDeaV2tPMJAA3HQn7Uj1) | [Ghazal](https://open.spotify.com/artist/6MxJn5JiIGuAlX9NkdGpha) | [Ma Atanazil](https://open.spotify.com/album/4JALsyUVAmTa72NQTAPTOe) | 3:06 | 2021-12-23 | 2022-03-02 |
 | [Ma Bakhaf](https://open.spotify.com/track/2N6MGx1CRx78o9LG7pAjdS) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Hodoudy El Sama](https://open.spotify.com/album/6KQqCpl7h42T79RHGUk2sd) | 4:13 | 2022-03-01 | 2022-11-14 |
 | [Ma Bansak](https://open.spotify.com/track/6MphGwh3Oa0AcCGoRiQG4g) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Ma Bansak](https://open.spotify.com/album/6nclujWYoBILoSWMsidMrb) | 3:03 | 2024-02-15 | 2024-06-14 |
+| [Ma Byenkhaf Alayi](https://open.spotify.com/track/4JFFIVcexU2NtuQvw4kXO3) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ma Byenkhaf Alayi](https://open.spotify.com/album/5rJ03uOyj4h0I1Q4Acqbbr) | 3:20 | 2025-01-30 |  |
 | [Ma vie en rose](https://open.spotify.com/track/715kOmrDKM2vM0szYl2Ba4) | [Manel Hadli](https://open.spotify.com/artist/0ufVFLvhVnwyqlGvXbAYkQ) | [Ma vie en rose](https://open.spotify.com/album/3F67qcdbqrbnefD0aFt7sa) | 4:32 | 2021-12-23 | 2022-03-01 |
 | [Ma Zanby](https://open.spotify.com/track/16ZG658xrFLSmytpoIpcxQ) | [Nour Khan](https://open.spotify.com/artist/2xI0X8RCZHFCbtBlNJsZzs), [Abdalla Elabd](https://open.spotify.com/artist/5kBbOnDngfzNLJW1vJYPeb) | [Ma Zanby](https://open.spotify.com/album/41K4I4b3n9r99IYArCfHKl) | 3:10 | 2023-04-10 | 2023-05-04 |
 | [Ma3dom Al Dhameer](https://open.spotify.com/track/2nTmtPHfJcFuFFjU8NcJJd) | [Nariman](https://open.spotify.com/artist/7B6nJXzAjVkaKntLCzbbY7) | [Ma3dom Al Dhameer](https://open.spotify.com/album/0QzDNALddIffDN9BDT1KnG) | 4:27 | 2021-12-23 | 2022-03-01 |
@@ -627,7 +628,7 @@
 | [سولفت لأمي](https://open.spotify.com/track/6BfRyMh46F5cA3gkgyfh5u) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [سولفت لأمي](https://open.spotify.com/album/4i19VcPBc8ufEIsIyFwY5j) | 2:29 | 2021-12-30 | 2022-03-01 |
 | [شغّل موسيقى](https://open.spotify.com/track/2mf2n0TebeVbejaizJQkD6) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [كاريزما](https://open.spotify.com/album/2t1c4iLNS8hbADJe8baJBF) | 3:54 | 2023-06-02 | 2024-01-30 |
 | [شغّل موسيقى](https://open.spotify.com/track/7JZedq4x8vGRrBnPvYJFMB) | [Najwa Karam](https://open.spotify.com/artist/5Nmm8A6gr93sRxz1SckQj1) | [شغّل موسيقى](https://open.spotify.com/album/3yjvgfbHJLaGmiAwLS4hOh) | 3:54 | 2023-05-08 | 2023-05-26 |
-| [شوك وسكاكين](https://open.spotify.com/track/3la9cbwDp7bzi64axwDU8g) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [شوك وسكاكين](https://open.spotify.com/album/5pbhGZ3MNHexAwVf17NquK) | 3:41 | 2024-02-02 |  |
+| [شوك وسكاكين](https://open.spotify.com/track/3la9cbwDp7bzi64axwDU8g) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [شوك وسكاكين](https://open.spotify.com/album/5pbhGZ3MNHexAwVf17NquK) | 3:41 | 2024-02-02 | 2025-01-31 |
 | [شي غريب](https://open.spotify.com/track/2g9r6JlYkVkppNQycOLm1X) | [Nour Helou](https://open.spotify.com/artist/2XBpyKrz8Ys34tU7baEoxO) | [Shi Ghareeb](https://open.spotify.com/album/5Bo1XegJIZ7Ixclp6HS7Do) | 2:44 | 2022-12-09 | 2023-02-10 |
 | [شيجيلا](https://open.spotify.com/track/4W166RiFWcUJXZgAVC2NRZ) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [شيجيلا](https://open.spotify.com/album/4GGynpOymFrlcEu07M1PjA) | 3:32 | 2021-12-23 | 2022-03-01 |
 | [صرتلكم شمس](https://open.spotify.com/track/3LStpDeZgBqK2O8sU7NP77) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [صرتلكم شمس](https://open.spotify.com/album/7tUqc0LPVpGb1VIBVvs3mE) | 4:31 | 2021-12-23 | 2022-03-02 |

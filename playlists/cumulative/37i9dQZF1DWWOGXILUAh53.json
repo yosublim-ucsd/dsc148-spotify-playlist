@@ -5877,6 +5877,24 @@
     },
     {
       "album": {
+        "name": "Disco Daddy",
+        "url": "https://open.spotify.com/album/02v8nHTkMf4dQwnB4FWYKS"
+      },
+      "artists": [
+        {
+          "name": "Disco Shrine",
+          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "Disco Daddy",
+      "url": "https://open.spotify.com/track/1fFcJqtvhU73Q8NNyv9rOF"
+    },
+    {
+      "album": {
         "name": "Heartbreak County, Vol. 2",
         "url": "https://open.spotify.com/album/7x42x3GG9dviDYgX5HmHTM"
       },

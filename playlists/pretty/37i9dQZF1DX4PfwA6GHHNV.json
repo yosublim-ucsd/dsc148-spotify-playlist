@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19972,
+  "num_followers": 19986,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -35,6 +35,26 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
+        "name": "Asop\u00f8",
+        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 195421,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf"
       },
@@ -59,46 +79,6 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
-        "name": "Asop\u00f8",
-        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 195421,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
-        "name": "Pura Perdi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5pKcSfd2FtJB9oLr4W9V2P"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "Maori",
-          "url": "https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg"
-        }
-      ],
-      "duration_ms": 142336,
-      "name": "Pura Perdi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2QjEeUAzoh4WmCnLb1iDl9"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
         "name": "Fica Mais Um Pouco",
         "url": "https://open.spotify.com/album/4st39nhWsplou4KFdFYoo5"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 158715,
       "name": "Fica Mais Um Pouco",
       "url": "https://open.spotify.com/track/4w5xa6yvUKYoEN0aEVNiMy"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
+        "name": "Pura Perdi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5pKcSfd2FtJB9oLr4W9V2P"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg"
+        }
+      ],
+      "duration_ms": 142336,
+      "name": "Pura Perdi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2QjEeUAzoh4WmCnLb1iDl9"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -163,6 +163,30 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
+        "name": "Abelha",
+        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "xochuo",
+          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Abelha",
+      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
         "name": "Bem-Vindo Ao Meu Mundo",
         "url": "https://open.spotify.com/album/0PeQXhEAlEwBgDAYDfNcVE"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 265344,
       "name": "Gingado",
       "url": "https://open.spotify.com/track/7opo4ooKxfnEXMDzvs8EtJ"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
-        "name": "Abelha",
-        "url": "https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "xochuo",
-          "url": "https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Abelha",
-      "url": "https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -319,6 +319,26 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
+        "name": "Caninana",
+        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Caninana",
+      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
         "name": "Elite",
         "url": "https://open.spotify.com/album/1Qn7502SAltX9ciuK7FY7K"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 162093,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1khbyrHruJLXl5uFftk3ZP"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
-        "name": "Caninana",
-        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Caninana",
-      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
-        "name": "ACREDITOU?",
-        "url": "https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7"
-      },
-      "artists": [
-        {
-          "name": "TchutchuB",
-          "url": "https://open.spotify.com/artist/7dvAqBiD4MYy8Ge70I4Of1"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "ACREDITOU?",
-      "url": "https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
+        "name": "ACREDITOU?",
+        "url": "https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7"
+      },
+      "artists": [
+        {
+          "name": "TchutchuB",
+          "url": "https://open.spotify.com/artist/7dvAqBiD4MYy8Ge70I4Of1"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "ACREDITOU?",
+      "url": "https://open.spotify.com/track/3qN6QPVtmGleYVmvZBR3t7"
     },
     {
       "added_at": "2025-01-24 03:01:24",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-01-24 03:01:24",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2025-01-24 03:01:24",
-      "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 144522,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
+    },
+    {
+      "added_at": "2025-01-24 03:01:24",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2025-01-24 03:01:24",

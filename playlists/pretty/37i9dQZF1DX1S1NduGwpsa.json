@@ -1,15 +1,71 @@
 {
-  "description": "The best jazz new releases. Cover: Gabi Hartman\n\n",
-  "num_followers": 149199,
+  "description": "The best jazz new releases. Cover: Macha Gharibian\n\n",
+  "num_followers": 149205,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5LJ8wAAAAAarwF/ZjOdfbzMLvZXB3Vp",
+  "snapshot_id": "Z5wEfwAAAACgvFbr/O6+65cfwuA/Jhgq",
   "tracks": [
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "PHENOMENAL WOMEN",
+        "url": "https://open.spotify.com/album/5T34tAYCrM7DJ05Hq1uiNn"
+      },
+      "artists": [
+        {
+          "name": "Macha Gharibian",
+          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "You Love Her",
+      "url": "https://open.spotify.com/track/1MDzT2eiAbxLPoXZkJjLYy"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "When The Magic Happens (Derri\u00e8re le soleil)",
+        "url": "https://open.spotify.com/album/68T3YhVXO8gzbVz2gW9gwy"
+      },
+      "artists": [
+        {
+          "name": "Adrien Soleiman",
+          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
+        },
+        {
+          "name": "Halo Maud",
+          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
+        }
+      ],
+      "duration_ms": 260864,
+      "name": "When The Magic Happens - Derri\u00e8re le soleil",
+      "url": "https://open.spotify.com/track/0mxk0jaNb5bI1UNlgXtEJX"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Apollo Solar Drive",
+        "url": "https://open.spotify.com/album/6M6TsxBEkd0LbwDZoqvetx"
+      },
+      "artists": [
+        {
+          "name": "Setenta",
+          "url": "https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg"
+        },
+        {
+          "name": "Gregoire Maret",
+          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Apollo Solar Drive",
+      "url": "https://open.spotify.com/track/4MesbpwH8LvpTkH0duZCbz"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Into My World",
         "url": "https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU"
@@ -25,7 +81,7 @@
       "url": "https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Angel Dust",
         "url": "https://open.spotify.com/album/5gf0ESeC85bxRWhInpWUR7"
@@ -49,7 +105,7 @@
       "url": "https://open.spotify.com/track/0gOgocqgGNWtu7QTLbbJvp"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "EDEN BEACH CLUB (Edition Deluxe)",
         "url": "https://open.spotify.com/album/60krs1IYZybRvmCsBMuOyh"
@@ -69,23 +125,7 @@
       "url": "https://open.spotify.com/track/0GM5TLIDisw4byhnkPGDF8"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
-      "album": {
-        "name": "PHENOMENAL WOMEN",
-        "url": "https://open.spotify.com/album/5T34tAYCrM7DJ05Hq1uiNn"
-      },
-      "artists": [
-        {
-          "name": "Macha Gharibian",
-          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "You Love Her",
-      "url": "https://open.spotify.com/track/1MDzT2eiAbxLPoXZkJjLYy"
-    },
-    {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
@@ -105,27 +145,7 @@
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
-      "album": {
-        "name": "When The Magic Happens (Derri\u00e8re le soleil)",
-        "url": "https://open.spotify.com/album/68T3YhVXO8gzbVz2gW9gwy"
-      },
-      "artists": [
-        {
-          "name": "Adrien Soleiman",
-          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
-        },
-        {
-          "name": "Halo Maud",
-          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
-        }
-      ],
-      "duration_ms": 260864,
-      "name": "When The Magic Happens - Derri\u00e8re le soleil",
-      "url": "https://open.spotify.com/track/0mxk0jaNb5bI1UNlgXtEJX"
-    },
-    {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Dark Moon",
         "url": "https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5"
@@ -141,7 +161,27 @@
       "url": "https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "The Best Is Yet To Come",
+        "url": "https://open.spotify.com/album/4HJwRy0JUb7EvX5Yr3DNqb"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        }
+      ],
+      "duration_ms": 271840,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/2yHZpImnjZNGIgRMksx85Z"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Poeira Cosmica",
         "url": "https://open.spotify.com/album/6BGknXzyoTqeZdyOjYAjTn"
@@ -161,7 +201,7 @@
       "url": "https://open.spotify.com/track/2enifRQ2CMEK8VPFhtX7cR"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Tic Tac",
         "url": "https://open.spotify.com/album/7GX1eSH9vSl6Vc5vitzhXK"
@@ -181,7 +221,7 @@
       "url": "https://open.spotify.com/track/30krkvIJTCFycVhdhAhMH9"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Monkey System",
         "url": "https://open.spotify.com/album/2v1Gz0K9cp6gdxkLp7MB4n"
@@ -201,7 +241,7 @@
       "url": "https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Sacred Conversations",
         "url": "https://open.spotify.com/album/6q92oHcuhpaPiLaq9uLhro"
@@ -217,7 +257,7 @@
       "url": "https://open.spotify.com/track/50nrTCws5S6Yrg3ehCPYu2"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "TAKE 01",
         "url": "https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA"
@@ -237,7 +277,7 @@
       "url": "https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Leleuland",
         "url": "https://open.spotify.com/album/3njEbwpCylkJ2J5PoAWXk6"
@@ -253,7 +293,7 @@
       "url": "https://open.spotify.com/track/0L3fXroETBMivP3rkPFWJ6"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "MD Blues",
         "url": "https://open.spotify.com/album/2UzYRSbmprursaawJzafmt"
@@ -281,7 +321,31 @@
       "url": "https://open.spotify.com/track/09RsN0efDAgTT4koydJvxq"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
+      "album": {
+        "name": "Nougayork Remixes (feat. Marquis Hill)",
+        "url": "https://open.spotify.com/album/20qMY89dHkttjTqPzpvzo2"
+      },
+      "artists": [
+        {
+          "name": "Claude Nougaro",
+          "url": "https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR"
+        },
+        {
+          "name": "Philippe Saisse",
+          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
+        },
+        {
+          "name": "Marquis Hill",
+          "url": "https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez"
+        }
+      ],
+      "duration_ms": 264330,
+      "name": "Nougayork Remix (International Version) - feat. Marquis Hill",
+      "url": "https://open.spotify.com/track/2UyuSPI9Ciadj89C2f3CZl"
+    },
+    {
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "History Repeating",
         "url": "https://open.spotify.com/album/5UyeGICRVNY7SYFiq7aUEN"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/3fSAvHxFaP7bYWwN5uxsMj"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Six Songs",
         "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "But Not For Me",
         "url": "https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj"
@@ -345,7 +409,7 @@
       "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Stairway to the Stars",
         "url": "https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80"
@@ -361,7 +425,7 @@
       "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Come Wander With Me ft. John Engels, Karel Boehlee & Aram Kersbergen",
         "url": "https://open.spotify.com/album/4o6goqEgxotE5uBA4D4Hrj"
@@ -385,7 +449,7 @@
       "url": "https://open.spotify.com/track/4veEAIWJplTa6GWOJt2icT"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Le lever du soleil (feat. Na\u00efssam Jalal)",
         "url": "https://open.spotify.com/album/4CImWAjsW1qokMjd21EhVm"
@@ -405,27 +469,7 @@
       "url": "https://open.spotify.com/track/5kOhe2DrhPPljjrEQCsTU9"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
-      "album": {
-        "name": "Apollo Solar Drive",
-        "url": "https://open.spotify.com/album/6M6TsxBEkd0LbwDZoqvetx"
-      },
-      "artists": [
-        {
-          "name": "Setenta",
-          "url": "https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg"
-        },
-        {
-          "name": "Gregoire Maret",
-          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Apollo Solar Drive",
-      "url": "https://open.spotify.com/track/4MesbpwH8LvpTkH0duZCbz"
-    },
-    {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Bahia Sketches",
         "url": "https://open.spotify.com/album/4Wgkz13aBCDcwm97nZnX7m"
@@ -445,7 +489,7 @@
       "url": "https://open.spotify.com/track/43KtJ5VNWKjF0t3a9iDFc4"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Suppose It Is Butter",
         "url": "https://open.spotify.com/album/7dqdPkW3LyElXKTO2qUdLQ"
@@ -461,7 +505,7 @@
       "url": "https://open.spotify.com/track/31spGWzzc3AQIq7jRgxIMv"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "In Waves",
         "url": "https://open.spotify.com/album/3FgAH2Ankwjn2nLR6V4pLM"
@@ -477,7 +521,7 @@
       "url": "https://open.spotify.com/track/34UzZAPMMKvGcztewCXhl9"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Survoler La Lune",
         "url": "https://open.spotify.com/album/0r1bqNdBvvPhBPEJ6Sedln"
@@ -493,7 +537,7 @@
       "url": "https://open.spotify.com/track/1kgZO9nBFuczciVCRBSkPE"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Together Tomorrow",
         "url": "https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0"
@@ -517,7 +561,7 @@
       "url": "https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Old Devil Moon",
         "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
@@ -533,7 +577,7 @@
       "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/4ObfObixfY5IT99cjmhiAr"
@@ -553,7 +597,7 @@
       "url": "https://open.spotify.com/track/0k5EgyCKDWP1RCjpTzAPyv"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Ellington (Live)",
         "url": "https://open.spotify.com/album/7AcRbjaU9T4nyFPTmGaEV0"
@@ -573,7 +617,7 @@
       "url": "https://open.spotify.com/track/1Yj7Qo4nXew3s7qYCcJykG"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Throw it Away",
         "url": "https://open.spotify.com/album/7180ZpwjyLS3HbtS3BKImy"
@@ -589,7 +633,7 @@
       "url": "https://open.spotify.com/track/6q1L57a2cswmeWCch1ZkfQ"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Cantilene",
         "url": "https://open.spotify.com/album/5BbspRKU7On60p8OU6lCsT"
@@ -609,7 +653,7 @@
       "url": "https://open.spotify.com/track/1G1MA35h8ijuol0nLnUqxE"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "We Have All The Time In The World (Cam Blackwood & Swindle Version)",
         "url": "https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp"
@@ -633,7 +677,7 @@
       "url": "https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "This Can\u2019t Be Love",
         "url": "https://open.spotify.com/album/4xgokFaDIEPv71Wq8D36u7"
@@ -649,7 +693,7 @@
       "url": "https://open.spotify.com/track/31PxuAfVsbmjLX91uSqg8B"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Fables",
         "url": "https://open.spotify.com/album/4fDN799OnYLUrE3PB7wnib"
@@ -665,7 +709,7 @@
       "url": "https://open.spotify.com/track/2PtKkshRFtUazLbqfxcjVI"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Take a Swing at the Moon",
         "url": "https://open.spotify.com/album/392qm56rxCG07cPz6ckeuu"
@@ -681,7 +725,7 @@
       "url": "https://open.spotify.com/track/2PSF8wNtas91APVz6ZrksM"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2RSTkYMSBXeHi5v7kTO0Qp"
@@ -713,7 +757,7 @@
       "url": "https://open.spotify.com/track/6e9SSnFQp1eWL4qFoifadM"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Cry Me a River",
         "url": "https://open.spotify.com/album/0iAbWSvIOkKR7O0DHjhhp4"
@@ -729,7 +773,7 @@
       "url": "https://open.spotify.com/track/1SNsZq2WQh2N4Qkagm3L01"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Shapes and Sounds",
         "url": "https://open.spotify.com/album/1LYqHyLto8emK3bgu78fif"
@@ -753,7 +797,7 @@
       "url": "https://open.spotify.com/track/42PDeav8OU2VeArOyYqlN1"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "What a Wonderful World",
         "url": "https://open.spotify.com/album/6RGwaZntDOG1Gpbgj3sDng"
@@ -789,7 +833,7 @@
       "url": "https://open.spotify.com/track/0xa1ynYZnVIepICluJXPdr"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Saturday Night (Original Score)",
         "url": "https://open.spotify.com/album/2U0xxgEpclqdq4dUZ1M7uf"
@@ -805,7 +849,7 @@
       "url": "https://open.spotify.com/track/5PqYnQiBfum309NNoOTy3h"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Little Big III",
         "url": "https://open.spotify.com/album/0aj5rKNNnNHjdC799ogFu1"
@@ -821,7 +865,7 @@
       "url": "https://open.spotify.com/track/77zmFpzsaQPTOhS87FM0sy"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Poinciana",
         "url": "https://open.spotify.com/album/0mVukMdlHOTcgM2kGse25o"
@@ -853,7 +897,7 @@
       "url": "https://open.spotify.com/track/1iWYa5WRA7JNng13cWiMhP"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Surprise !",
         "url": "https://open.spotify.com/album/1j4xK9XyXJkh7tQtkRwbHT"
@@ -877,7 +921,7 @@
       "url": "https://open.spotify.com/track/7xWDF3iSo1zrY4Poci5TRt"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
@@ -897,7 +941,7 @@
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "L'Odyss\u00e9e de Paul Lay",
         "url": "https://open.spotify.com/album/06LYAgvG8QiGoUAcMUbP62"
@@ -913,7 +957,7 @@
       "url": "https://open.spotify.com/track/6YA1CAxpNkhujkByiCQFyf"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Black Seeds",
         "url": "https://open.spotify.com/album/4WmLGgTomCRiHAlVLG48ol"
@@ -929,7 +973,7 @@
       "url": "https://open.spotify.com/track/0UVIhasPkwNnuFOc9pPQ28"
     },
     {
-      "added_at": "2025-01-23 23:00:03",
+      "added_at": "2025-01-30 23:00:15",
       "album": {
         "name": "Let It Unfold",
         "url": "https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O"
@@ -943,30 +987,6 @@
       "duration_ms": 229920,
       "name": "Dream Chaser",
       "url": "https://open.spotify.com/track/2OiXDa9qGgRqGW0BeDsvO4"
-    },
-    {
-      "added_at": "2025-01-23 23:00:03",
-      "album": {
-        "name": "Brightlight",
-        "url": "https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk"
-      },
-      "artists": [
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        },
-        {
-          "name": "Roni Kaspi",
-          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
-        },
-        {
-          "name": "Guy Moskovich",
-          "url": "https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK"
-        }
-      ],
-      "duration_ms": 246634,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g"
     }
   ],
   "unique_name": "Jazz Club",
